@@ -1,0 +1,27 @@
+{
+ "cislo": 14,
+ "nadpis": "Das Züllisheim von denen von Bern und Solotern ingenomen und ganz verbrönt wart.",
+ "edice": "Tobler I, s. 21",
+ "rukopis_strana": 35,
+ "odstavce": [
+  {
+   "text": "14. Das Züllisheim von denen von Bern und Solotern ingenomen und ganz verbrönt wart.",
+   "preklad": "14. Jak Bernští a Solothurnští dobyli Zillisheimu a celý ho vypálili."
+  },
+  {
+   "text": "Und als die von Bern und Solotern mit iren gewanten dennocht vor Brunstat im leger waren, da lüffen etlich von inen gen Zullissen zu dem slos und gewunnent das von stund an, und viengent die darinne warent und brachtent die den houptlüten von Bern; die lies man durch gottes willen loufen. Si fundent darinne gar vil gütes, dann es gar ein wol erbuwen schön slos was; und wart dasselb slos und das dorf darnach angestossen und in grund verbrant.",
+   "preklad": "A když Bernští a Solothurnští se svými spojenci ještě leželi v táboře před Brunstattem, vyběhli někteří z nich k zámku Zillisheim a hned ho dobyli; zajali ty, kdo v něm byli, a přivedli je bernským hejtmanům, kteří je pro Boží vůli nechali jít. Našli v něm velmi mnoho statků, neboť to byl velmi dobře vystavěný, krásný zámek. Potom byl ten zámek i ves zapálen a do základů vypálen."
+  },
+  {
+   "text": "Es luffen ouch etlich von Bern und Solotern fur ein stark slos, genant Frenyngen, und woltent da ouch ir heil versüchen; darus wurdent von stund an drig geschossen, derselben einer starb, und müsten von dannen wichen. Also zugen die viend ouch darab, und namen was inen werden mocht, und verbranten das slos selber.",
+   "preklad": "Někteří Bernští a Solothurnští také vyběhli k jednomu silnému zámku jménem Froeningen a chtěli tam rovněž zkusit štěstí. Odtamtud hned postřelili tři z nich, jeden z nich zemřel, a museli odtud ustoupit. Nepřátelé pak ze zámku také odtáhli, vzali, co mohli, a zámek sami vypálili."
+  }
+ ],
+ "poznamky": [
+  "Data (Tobler podle Witteho): Zillisheim (jz. od Mulhouse) byl dobyt a zničen už ve čtvrtek 30. 6. 1468. Froeningen (Fröningen, jz. od Mulhouse) byl ztečen v sobotu 2. 7., Bernští a Solothurnští tam ztratili lidi; zámek se vzdal v neděli 3. 7. Brunstatt patřil Hansi Friedrichovi vom Hus.",
+  "Oprava textu: vypuštěno „RR“ (OCR) v „zugen die viend ouch darab“; odstavec rozdělen před „Es luffen ouch“ podle edice. Údaj edice opraven z „s. 9“ na s. 21 (zkomolené záhlaví strany).",
+  "Varianty (asi bernský rukopis): nadpis „Das Züllissen, das schön slos, … verbrant und gewüst wart“; „verwanten“ místo „gewanten“; „vingen alle“ (zajali všechny)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

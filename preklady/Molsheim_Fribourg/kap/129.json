@@ -1,0 +1,25 @@
+{
+ "cislo": 129,
+ "nadpis": "Von dem pund und wie die von Wallis sich zu den von Bern ewenklich verbunden und geschwuren hand.",
+ "edice": "Büchi 1914, ř. 1502–1504 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  230
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 230, etwas verkürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Von dem pund und wie die von Wallis sich zu den von Bern ewenklich verbunden und geschwuren hand.",
+   "preklad": "129. O spolku a jak se Valaisští navěky spojili s Bernskými a odpřisáhli to."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi tiskne jen nadpis s odkazem „Vgl. Schilling C. 230, etwas verkürzt“; Molsheimův (zkrácený) text v edici není, obsah je u Schillinga, kap. 230 (věčný spolek Bernu s biskupem a zemí Valais; podle Toblera uzavřen v Leuku 7. 9. 1475 a odpřisáhnut v Bernu 15. 10. 1475).",
+  "Büchi (pozn. ke kap. 130): valaisské poselstvo se 15. 10. 1475 zastavilo ve Fribourgu, nejspíš na cestě do Bernu k odpřisáhnutí spolku (fribourgské účty pokladníka); k poměru Fribourgu k biskupovi a desátkům Valais viz fribourgský manuál z 29. 9. 1475."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

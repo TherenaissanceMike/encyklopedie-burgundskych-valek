@@ -1,0 +1,25 @@
+{
+ "cislo": 80,
+ "nadpis": "Wie etlich knecht usser dem Süngöw by Grangi erstochen wurden.",
+ "edice": "Büchi 1914, ř. 994–995 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  180
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 180."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie etlich knecht usser dem Süngöw by Grangi erstochen wurden.",
+   "preklad": "80. Jak byli někteří knechti ze Sundgavska pobiti u Granges."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 180“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 180).",
+  "Oproti Schillingovi: Schillingův nadpis klade srážku „před hrad Gramont“ (Grammont), za ležení u Granges; Molsheimův nadpis říká „u Granges“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

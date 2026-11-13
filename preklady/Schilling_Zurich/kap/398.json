@@ -1,0 +1,24 @@
+{
+ "cislo": 398,
+ "nadpis": "Das die von Bern das slos und herschaft Wildeck kouftent.",
+ "edice": "Tobler II, s. 247",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "398. Das die von Bern das slos und herschaft Wildeck kouftent.",
+   "preklad": "398. Jak Bernští koupili hrad a panství Wildegg."
+  },
+  {
+   "text": "In dem vorgenanten iare kouften die von Bern das slos und die herschaft Wildeck von Hansen und Thüringen von Balmos, iren burgern, umb drütusent und sechshundert guldin. Dieselben von Balmos hatten das vorhin einem von Lutzern, namlichen herr Albin von Sillinen, ritter, umb ein semlich sum ouch verkouft, da nament die von Bern den kouf umb friden und rüwen willen zü iren handen und wolten den nieman lassen, nach dem dann dieselb herschaft vorhin in iren hochen und nidern gerichten gelegen was.",
+   "preklad": "V řečeném roce koupili Bernští hrad a panství Wildegg od Hanse a Thüringa von Balmos, svých měšťanů, za tři tisíce šest set zlatých. Titíž von Balmos je předtím prodali za stejnou sumu jednomu Luzernskému, totiž panu Albinovi von Silinen, rytíři. Bernští však tu koupi kvůli míru a pokoji vzali do svých rukou a nechtěli ji nikomu přenechat, protože to panství už předtím leželo v jejich vysokém i nízkém soudnictví."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do vyčištěného textu byla vlepena Toblerova poznámka (o koupi v Selz a ve Wimmisu a výpisy z radních manuálů) a text kapitoly byl rozdělen do tří odstavců. Poznámka odstraněna a souvislý Schillingův text obnoven podle surového OCR („… von Hansen und Thüringen von Balmos, iren burgern …“). Zbytky téže poznámky byly i v kap. 399 (opraveno tam).",
+  "Tobler: datum je opět nepřesné. 1. 12. 1480 a 20. 12. 1480 rada jednala o koupi hradů Wildegg a Wildenstein; teprve 21. 1. 1482 bylo usneseno vzít koupi Wildeggu do rukou města. K panství patřily vesnice Ammerswil, Othmarsingen a Dintikon. Kupní list se zřejmě nedochoval. 28. 6. 1482 rada zvažovala koupi zase pustit, „protože je pánům tak neužitečná“.",
+  "Wildeck = Wildegg v Aargau. Balmos = rod von Ballmoos (moderní podoba mimo Tobler; jméno ponecháno podle pramene).",
+  "Úplnost: ř. 17125–17189 projity."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

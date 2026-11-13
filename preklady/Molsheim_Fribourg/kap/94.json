@@ -1,0 +1,40 @@
+{
+ "cislo": 94,
+ "nadpis": "Wie sich das sloss Falant ufgab und verbrent wart.",
+ "edice": "Büchi 1914, ř. 1077–1085 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  194
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 194, al. 1."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie sich das sloss Falant ufgab und verbrent wart.",
+   "preklad": "94. Jak se hrad Valant (Fallon) vzdal a byl vypálen."
+  },
+  {
+   "text": "Item under dem schlos Gramunt lag noch gar ein hüpsches schlos, genant Falan; das wolt sich am ersten ouch nit ergeben und understünd ouch ein widerstant ze tunde. Aber do sy sachen, wie man mit Gramunt umbgieng, [wie es so grimmenlich gestürmt und so schnell gewunnen wart und die darinnen waren, so jemerlich an alle gnad erschlagen wurden und ir hilf noch weren, werfen noch schlachen alles nütz verfangen hatt noch erschiessen gegen dem manlichen volk beschiessen mochte, do battend sy gnad und erbarmherzigkeit] und gaben das schloss uff. Do beschach inen öch gnad und wurden uff gnad genomen, doch mit semlichen worten und geding, das sy müsten all ir hab und güt an harneschs da lassen und nackendig und blos allein in iren hemden und stecken in iren henden tragen, und also von dem schönen schlos und von allem dem iren scheiden. Und getorste keiner nütz mit ime nemen; und lopten dennacht gott, das man sy also by dem leben liess beliben.",
+   "preklad": "Pod hradem Grammont ležel ještě jeden velmi pěkný hrad jménem Valant; ani ten se zprvu nechtěl vzdát a pokusil se také klást odpor. Když však viděli, jak se s Grammontem naložilo, [jak byl tak krutě ztečen a tak rychle dobyt a jak ti, kdo v něm byli, byli tak žalostně bez jakékoli milosti pobiti a jak jim nepomohla ani pomoc, ani obrana, házení či bití, a ani střelba proti tak statečnému lidu nic nezmohla, prosili o milost a slitování] a vydali hrad. Tu se jim také dostalo milosti a byli přijati na milost, ovšem s takovými slovy a podmínkou, že tam musí nechat veškerý svůj majetek a statky i zbroj [?] a odejít nazí a obnažení, jen v košilích a s holemi v rukou, a tak se rozloučit s tím pěkným hradem a se vším svým. A nikdo si nesměl nic vzít s sebou; a přesto chválili Boha, že je nechali naživu."
+  },
+  {
+   "text": "Es wart ouch in demselben schlos gar vil gutes funden. Das wart och jedermann erloupt; was einer mit im mocht dannan bringen, das liess man im. Und also wurden die zwei schlos mit manlicher hand gewunnen und öch mit arbeit necher denn in fünf stunden. Und wart der Unsren nieman umbbracht, denn ettlich gesellen wurden wund an dem sturm; die genasen aber. Und wurden dieselben slos verbrönt in den grund.",
+   "preklad": "I v tom hradu se našlo velmi mnoho statků. To bylo také každému dovoleno: co kdo dokázal odnést, to mu nechali. A tak byly ty dva hrady dobyty statečnou rukou a s námahou za necelých pět hodin. Z našich nebyl nikdo zabit, jen několik tovaryšů bylo při útoku zraněno; ti se však uzdravili. A ty hrady byly vypáleny do základů."
+  }
+ ],
+ "poznamky_editora": [
+  "') Lieber die Eroberung von Grammont vgl. Knebel I, 280, Rüsch 315, Anonyme Chronik 516, Bericht an Herzog Sigismund in Basler Chroniken 111, 426, Edlibach 146, das Volkslied bei Schilling I, 272, Tusch 68, ferner v. Rodt 1, 454, Witte VIII, 250, Bernoulli 1, 46. Rudolf von Wippingen hatte vom Freiburger Hat den Befehl erhalten, die Armen von Orbe und Grandson heim Zufuhren. Dieser und Jakob Velga wuiden nach Yverdon und zur Armee von Grandson geschickt, um die Löhnung zu holen, vgl. Büchi, Freiburger Akten 56."
+ ],
+ "poznamky": [
+  "Valant = hrad Fallon (Tobler u Schillinga, kap. 194; Büchi „Vallant (Fallon)“). Dobyt 21. 8. 1475 spolu s Grammontem (Büchi).",
+  "Büchi (poznámka uložená u kap. 95): srov. Anonymní kroniku 516, Rüsch 315; Tütsch 68 uvádí ještě další hrady ztečené tehdy: Lomont, Montan, Mathe, „Beta“ [?], Mandeure, Bavans.",
+  "„an harneschs“ nejisté [?]: chápu jako „a (i) zbroj“; v rukopisech B, E, St chybí.",
+  "Oproti Schillingovi: dobytí obou hradů trvalo podle Molsheima necelých pět hodin, podle Schillinga necelé čtyři; Schilling píše, že někteří byli „zle zasaženi házením“, Molsheim jen „zraněni“. Vsuvka o krutém ztečení Grammontu a marné obraně je Molsheimova.",
+  "Poznámka editora uložená u této kapitoly patří k dobytí Grammontu (kap. 93) a je využita u kap. 91.",
+  "Opravy OCR: odstavce spojeny přes zlom strany a přerozděleny; „grim- menlich“ → „grimmenlich“, „gewannen wärt“ → „gewunnen wart“, „ivaren“ → „waren“, „tourden“ → „wurden“, „erschies- 10 sen“ → „erschiessen“, „ßch“ → „öch“, „mflsten“ → „müsten“, „gilt“ → „güt“, „»“, „s“ (čísla řádků) vypuštěna, značka poznámky vypuštěna.",
+  "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

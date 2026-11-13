@@ -1,0 +1,29 @@
+{
+ "cislo": 112,
+ "nadpis": "Das der von Hagenbach mit dem swert vor aller menglichem gericht wart.",
+ "edice": "Tobler I, s. 151",
+ "rukopis_strana": 239,
+ "odstavce": [
+  {
+   "text": "112. Das der von Hagenbach mit dem swert vor aller menglichem gericht wart.",
+   "preklad": "112. Jak byl von Hagenbach přede všemi popraven mečem."
+  },
+  {
+   "text": "Und darnach wart er dem henker bevolhen und an einer gemeinen richtstat, do man dann semlich übeltetig lüte gewonlichen richtet, wart im desselben tages sin houpt abgeslagen, wiewol er nach sinem verdienen, als ouch davor gemelt ist, eins strengern todes wirdiger gewesen wer. Haran man billich gedenken, sich nieman sins gewaltes in hochvart zü vast überheben, dann alwegen das, so gotte und dem rechten dienet on verachtung und dennocht mit zimlicher erbermde menglich bruchen sol. Er wart ouch als demütig, do man in verurteilt und usfürt, das er iederman durch gottes und siner müter magt Marien willen bat und anrüft, das man im vergeben und got für in bitten wolt, dodurch menig mensch zü erbermde mit im bewegt.",
+   "preklad": "Potom byl vydán katovi a na obecném popravišti, kde se takoví zločinci obvykle popravují, mu byla téhož dne sťata hlava, ačkoli by si podle svých zásluh, jak bylo řečeno výše, zasloužil přísnější smrt. Z toho si má každý právem vzít, že se nikdo nemá ze své moci v pýše příliš vyvyšovat, nýbrž ji má vždy užívat k tomu, co slouží Bohu a právu, bez pohrdání a přece s náležitým milosrdenstvím ke každému. Když ho odsoudili a vyváděli, byl také tak pokorný, že každého pro Boha a jeho matku Pannu Marii prosil a vzýval, aby mu odpustili a modlili se za něho k Bohu; tím pohnul mnoho lidí k soucitu s ním."
+  },
+  {
+   "text": "Und wart gen Hagenbach gefürt und zü sinen vordern bestatt. Zü disem rechten wurden ouch der Eidgnossen halb und in ir aller namen gesatzt von Bern herr Peterman von Wabren, ritter, und von Lutzern Heinrich Hasfurter, beid alt schultheissen. Es was ouch der gröst lanttag, der in denselben landen ie gehalten wart und was das nit unbillich, wann iederman ein gros verwundern ab des wütrichs gevangnüsse und sinem wesen hat. Der almechtig ewig got welle sich dennocht nach minem begern über die arme sele erbarmen und ir die ewig rüw verlichen!",
+   "preklad": "A byl odvezen do Hagenbachu a pohřben ke svým předkům. K tomuto soudu byli také za konfederáty a jménem všech z nich ustanoveni z Bernu pan Peterman von Wabern, rytíř, a z Luzernu Heinrich Hasfurter, oba bývalí starostové. Byl to také největší zemský soud, jaký se kdy v těch zemích konal, a nebylo divu, neboť každý se velmi divil ukrutníkovu zajetí a jeho počínání. Kéž se přesto všemohoucí věčný Bůh podle mého přání nad tou ubohou duší smiluje a dá jí věčný odpočinek!"
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „(berheben“ → „überheben“; odstraněna mezera před vykřičníkem.",
+  "Poprava 9. 5. 1474 (týž den jako soud, viz kap. 111), mečem; v Breisachu. Hagenbach = rodová ves v Sundgau (dnes Haut-Rhin, Francie).",
+  "Peterman von Wabern (Wabren) – bernský rytíř a bývalý starosta (schultheis); Heinrich Hasfurter – bývalý luzernský starosta. Varianta: „beid alt schultheissen“ chybí.",
+  "Tobler: je sporné, zda poslové konfederátů byli skutečnými členy soudu (Witte, Knebel, Dierauer). Bernská rada však dala Wabernovi zvláštní instrukci týkající se Hagenbacha; v radním manuálu 20. a 22. 4. 1474 stojí „Vergiss Hagenbachs nit“ / „das er Hagenbachs überein nit vergess“ = nezapomeň na Hagenbacha. 15. 5. o něm jednala malá i velká rada a 17. 5. psali „kvůli Hagenbachovi“ biskupovi sedunskému (Wallis).",
+  "Varianta: „in disen landen“ místo „in denselben landen“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

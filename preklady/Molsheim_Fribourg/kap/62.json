@@ -1,0 +1,37 @@
+{
+ "cislo": 62,
+ "nadpis": "Wie die von Bern [und Friburg] den iren, so in Ponterlin belegen warend, ze hilf 3000 man nachschicktend.",
+ "edice": "Büchi 1914, ř. 826–834 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  10,
+  155
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 155 10"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern [und Friburg] den iren, so in Ponterlin belegen warend, ze hilf 3000 man nachschicktend.",
+   "preklad": "62. Jak Bernští [a Fribourgští] poslali svým, kteří byli obleženi v Pontarlieru, na pomoc 3000 mužů."
+  },
+  {
+   "text": "Do man nu ze Bern [und Friburg] vernam, wie die iren so verr in Burgün gezogen warend und mit den vygenden so vast beladen und umbgezogen und so hart umb sy stund, do begonde man bede, ze Bern [und zü Friburg] betrachten, das der ünser enwenig und gar ein klein volk were wider eine semlich grosse macht. Darumb man wol grossen schaden möchte enpfachen und schand inlegen. Darumb wurdent aber von stund ze Bern usgezogen zweitusent man. Und wart denen zü einem houptman geben herr Petermann von Wabern, ritter, altschultheis zü Bern. Darzü schicktent aber [unser getrüwen herzfründ und getrüwen lieben mitburger] von Friburg ein vennli mit güten, wol gerüsten knechten [und was houptman Willi Tochterman des rattes, wie wol [sy] vor ouch ein erber volkli da ussen hatten]. Und zugen aber in dem namen gottes us und kamen zü Nüwenburg zu einandren [und enpfiengen enandren früntlich.] Und in dem so die von Bern und Friburg ze Nüwenburg zesamen kamen, do kam bottschaft, wie die, so ze Ponterlin weren, an dem widerumbkeren werend. Darumb sölten sy nit witter noch ferer ziechen, wenn sy frölich und gesunt und mit grossen eren wider kemen. Und kamen also zesamen und wurden mit enandren ze ratt, das sy welten für Granssen und Orban ziechen, denn dieselben stett und schlos des herren von Tsettegeyn warend, der ein ratt und diener des herzogen von Burgün was und ein fürer des reisigen züges.",
+   "preklad": "Když se nyní v Bernu [a ve Fribourgu] dozvěděli, že jejich lidé zatáhli tak daleko do Burgundska, že je nepřátelé tak silně tísní a obkličují a že to s nimi stojí tak zle, začali v obou městech, v Bernu [i ve Fribourgu], uvažovat, že našich je málo a že je to proti tak velké moci jen velmi malý lid. Mohli by proto utrpět velkou škodu a utržit hanbu. Proto bylo hned nato z Bernu opět vypraveno dva tisíce mužů a za hejtmana jim byl dán pan Petermann von Wabern, rytíř, bývalý bernský starosta. K tomu [naši věrní srdeční přátelé a věrní milí spoluměšťané] z Fribourgu poslali opět praporec dobrých, dobře vyzbrojených knechtů [a hejtmanem byl Willi Tochtermann z rady, ačkoli už předtím měli venku slušný houfek lidí]. Vytáhli opět ve jménu Božím a sešli se v Neuchâtelu [a přátelsky se navzájem přivítali]. A když se Bernští a Fribourgští v Neuchâtelu sešli, přišla zpráva, že ti, kdo byli u Pontarlieru, jsou už na zpáteční cestě. Nemají proto táhnout dál, neboť se vracejí vesele, zdraví a s velkou ctí. Sešli se tedy a společně se uradili, že potáhnou ke Grandsonu a k Orbe, neboť tato města a hrady patřily pánu z Châteauguyonu, který byl radou a služebníkem burgundského vévody a velitelem jízdy."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Vgl. dazu Knebel 11. 217 und Züricher Chronik 261 ff — 2 ) Freiburg weigerte sich zunächst, offenbar unter savoyschem Einfluss, ein zweites Aufgebot ergehen zu lassen und sandte deswegen Rudolph von Wippingen nach Bern und hielt auch die von Yverdon ab, nach Grandson zu ziehen, vgl. Büchi, Freiburger Akten 55. 56. — •’) Dieses zweite Aufgebot von 150 Mann erging am 24. April und schlug von Murten den Weg zu Wasser ein, indem Jakob Velga in Murten dazu Schiffe berrichten lassen musste, vgl. Fries 396 und A. Büchi, Freiburger Akten 56. Der Reisrodel ist nicht, mehr erhalten, scheint aber noch Girard Vorgelegen zu haben, nachdem ihn v.Rodt I, 355 zitiert. Unterwegs schlossen sich ihnen 23 Freiwillige aus Murten und 12 aus Payerne an. s. Ochsenbein 538."
+ ],
+ "poznamky": [
+  "Hranaté závorky v textu i překladu: podle Büchiho úvodu doplňky rukopisu A (Molsheim) oproti jeho předloze, Malé kronice v rukopisech N, D.",
+  "Büchi (varianty): v nadpisu je v A, B číslo 3000 dodatečně opraveno z 2000 (E, F, G, St. mají 3000); text sám uvádí z Bernu 2000 mužů. „und Friburg“ v první větě je v A dodatečně vkorigováno; zmínka o hejtmanovi Tochtermannovi je v A současně připsána na okraji.",
+  "Büchi: Fribourg zprvu, zřejmě pod savojským vlivem, odmítal vypravit druhou hotovost, poslal kvůli tomu do Bernu Rudolfa von Wippingen a zdržel i Yverdonské od tažení ke Grandsonu.",
+  "Büchi: druhá fribourgská hotovost o 150 mužích byla vypravena 24. 4. 1475 a z Murtenu jela po vodě na lodích, které musel obstarat Jakob Velga; cestou se přidalo 23 dobrovolníků z Murtenu a 12 z Payerne. Soupis se nedochoval.",
+  "Opravy OCR: „Wahren“ → „Wabern“ (Petermann von Wabern, jako u Schillinga), „Tsetteio geyn“ → „Tsettegeyn“ (= Châteauguyon), „herzfriind“ → „herzfründ“, „st/“ → „sy“, „ivenn“ → „wenn“ (zde = neboť); doplněna chybějící uzavírací závorka; odstraněna čísla řádků.",
+  "Formulace „unser getrüwen herzfründ … von Friburg“ zní z bernského pohledu, ačkoli jde o Molsheimův doplněk.",
+  "Oproti Schillingovi: Fribourg přidán jako spolurozhodující; navíc jméno fribourgského hejtmana Williho Tochtermanna a přátelské uvítání v Neuchâtelu; podle Molsheima přišla zpráva o návratu do Neuchâtelu, u Schillinga psali Bernští z pole."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

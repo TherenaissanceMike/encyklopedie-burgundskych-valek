@@ -1,0 +1,28 @@
+{
+ "cislo": 178,
+ "nadpis": "Wie der herzog von Bürgün nach dem stritt von Murten, do er fluchtig wart, in Lutringen zoch und die statt Nansse belegrete.",
+ "edice": "Büchi 1914, ř. 2356–2362 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Bürgün nach dem stritt von Murten, do er fluchtig wart, in Lutringen zoch und die statt Nansse belegrete.",
+   "preklad": "178. Jak burgundský vévoda po bitvě u Murtenu, když byl na útěku, táhl do Lotrinska a oblehl město Nancy."
+  },
+  {
+   "text": "Item der herzog von Luttringen, der ouch persönlich uff dem tag ze Friburg was, begerte ouch gar früntlich die verstentnüsse und büntnüsse, davon denne vorhin uff vergangnen tagen gerett was, mit im uffzerichten und in der trüwen, so er den von Bern, [Friburg] und andren Eydgnossen erzöugt hatt, sölte lassen geniessen, davon und mit er von dem bürgünschen herzogen [und tyranen sines landes und lütten] nit in zerstörung keme sunder fridlich und rüwiger besitzung bliben möchte. Wenne das ze schulden keme und zü nott, das er denn von den Eydgnossen entschüttung und trost warten möchte sin. Dieselbe bitt im ouch volkomlich zügeseit wart, und im darzü sines gutes willen und gnaden, müg und arbeit, [so er vor Murtten erzöugt und mit siner person und mit den sinen,] früntlich gedanket.",
+   "preklad": "Item, vévoda lotrinský, který byl také osobně na sněmu ve Fribourgu, velmi přátelsky žádal, aby s ním bylo uzavřeno porozumění a spolek, o nichž se už dříve jednalo na minulých sněmech, a aby mohl požívat odplaty za věrnost, kterou Bernským, [Fribourgským] a ostatním konfederátům prokázal; tak aby ho burgundský vévoda [, tyran jeho země a lidu,] nepřivedl do záhuby, nýbrž aby mohl zůstat v pokojném a klidném držení [své země]. A kdyby na to došlo a bylo by třeba, aby mohl od konfederátů očekávat vysvobození a pomoc. Tato prosba mu byla také plně přislíbena a k tomu mu bylo přátelsky poděkováno za jeho dobrou vůli a přízeň, námahu a práci, [kterou prokázal u Murtenu vlastní osobou i se svými lidmi]."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: nadpis neodpovídá obsahu. Text mluví jen o žádosti vévody lotrinského na fribourgském sněmu; o tažení burgundského vévody k Nancy je řeč až v kap. 179. Büchi kapitolu srovnává se Schillingem, Bd. II, s. 91, odst. 3 (v překladu Schillinga konec C. 315); tento odkaz a číslo řádku „5“ byly z nadpisu odstraněny.",
+  "Oprava textu: odstraněny zbloudilá Büchiho poznámka („Auch Panigarola … Ochsenbein 624.“), značky („1 )“, „1,1“, „2 )“); OCR „sötte“ → „sölte“, „zft“ → „zü“, „zfigeseit“ → „zügeseit“, „Zerstörung“ → „zerstörung“; „ver- stentnüsse“ spojeno.",
+  "Büchi: o vévodově úsilí, zjevně ještě před fribourgským kongresem, věděl i milánský vyslanec Panigarola (list z 13. 7. 1476). Z pověření fribourgské rady poděkoval Jakob Bugnet členům Dolního spolku za pomoc a doprovodil vévodu lotrinského až do Štrasburku.",
+  "Varianty: B, E, St. dodávají, že si vévoda stěžoval, že mu burgundský vévoda vtáhl do Lotrinska; D má „na posledním sněmu“.",
+  "Oproti Schillingovi: Molsheim výslovně jmenuje mezi těmi, jimž vévoda prokázal věrnost, Fribourgské, nazývá burgundského vévodu „tyranem jeho země a lidu“ a děkuje se mu za osobní účast u Murtenu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,30 @@
+{
+ "cislo": 155,
+ "nadpis": "Das die von Bern noch me volkes ouch mit einer paner in Burgunnen schicktent.",
+ "edice": "Tobler I, s. 216",
+ "rukopis_strana": 348,
+ "odstavce": [
+  {
+   "text": "155. Das die von Bern noch me volkes ouch mit einer paner in Burgunnen schicktent.",
+   "preklad": "155. Že Bernští poslali do Burgundska ještě další lid, také s korouhví."
+  },
+  {
+   "text": "Do man nü zü Bern vernam, wie die iren so verr in Burgunnen gezogen und mit den vienden als vast umbgeben waren, da wart man betrachten, das es gar ein clein volk wider ein semlich gros macht was und man davon wol merglichen schaden möcht haben entpfangen ; und wurden aber von stund an usgezogen zweitusent werlicher und wol gewopneter mannen und denen für einen houptman zügeben Peterman von Wabern, alt schultheissen zü Bern. Darzü schickten die von Friburg aber ein venlin mit wolgerüster lüten zü inen und zugen also fürderlich in dem namen gottes us.",
+   "preklad": "Když se nyní v Bernu dozvěděli, že jejich lidé zatáhli tak daleko do Burgundska a jsou tak silně obklopeni nepřáteli, začali uvažovat, že je to proti tak velké moci jen velmi malý lid a že by z toho mohli utrpět citelnou škodu. A hned nato bylo opět vypraveno dva tisíce branných a dobře ozbrojených mužů a za hejtmana jim byl dán Peterman von Wabern, bývalý bernský starosta. K tomu Fribourgští k nim opět poslali praporec dobře vyzbrojených lidí, a tak rychle vytáhli ve jménu Božím."
+  },
+  {
+   "text": "Und do si bis gen Nuwenburg kament, do schribent die von Bern us dem velde, das si und ir getruwen Eidgnossen von Solotern mit iren panern us Burgunnen zugent und am widerker werent. Und kament also züsamen und wurden mit einandern zü rat, das man für Granson und Orben ziechen und do ein leger slachen wolt, dann dieselben und ander stett und slos, so do umb gelegen warent zügehortent dem herren von Tschettegion, der ein rat und diener des herzogen von Burgunnen und ouch ein houptman und fürer des reisigen zügs in ober Burgunnen was, darumb man recht zü dem sinen hat.",
+   "preklad": "A když došli až do Neuchâtelu, Bernští napsali z pole, že oni a jejich věrní konfederáti ze Solothurnu táhnou se svými korouhvemi z Burgundska a jsou na zpáteční cestě. I sešli se a společně se uradili, že potáhnou ke Grandsonu a k Orbe a utáboří se tam, neboť tato a jiná města a hrady, které tam kolem ležely, patřily pánu z Châteauguyonu, jenž byl radou a služebníkem burgundského vévody a také hejtmanem a velitelem jízdy v Horním Burgundsku; proto se mělo k jeho majetku dobré právo."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do posledního odstavce byl vlepen řádek variant ke kap. 154 („under inen sachen und si ouch alwegen in der wagenburg … nit absetzen wolten“) a jméno bylo roztrženo („Tschette-“ … „gion“). Obnoveno „dem herren von Tschettegion, der ein rat …“.",
+  "Bernská varianta nadpisu: „noch me volkes mit einem venli zü den iren in Burgunnen gar snelliclichen schicktent“ – tedy s praporcem (venli), ne s korouhví (paner). Dále „bi zweitusent“ (asi dva tisíce), „so ganz umbgeben“.",
+  "Tobler: vypravení nového lidu bylo usneseno 19. 4. 1475; Wabern byl 21. 4. ještě na radě, vytáhli tedy 21. nebo 22. 4. O tažení na Pontarlier viz Knebel (Basler Chr. II). Edlibach, ač měl Schillinga před sebou, řadí tažení chronologicky chybně.",
+  "Nuwenburg = Neuchâtel (mimo Tobler; Tobler jen odkazuje na Basler Chr. III, 425).",
+  "Tobler: držitelem Grandsonu, Orbe, Echallens, Montagny-le-Corboz, Belmontu a Bottens byl burgundský šlechtic Hugo de Chalon, nevlastní bratr Ludvíka z Châteauguyonu (Tschettegion). Schilling tedy panství připisuje Châteauguyonovi nepřesně.",
+  "„darumb man recht zü dem sinen hat“: doslova „proto má člověk právo k jeho [majetku]“, tj. jeho statky je dovoleno zabrat jako nepřátelské."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

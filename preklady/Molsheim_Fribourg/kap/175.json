@@ -1,0 +1,46 @@
+{
+ "cislo": 175,
+ "nadpis": "Ein lied von dem strit vor Murten.",
+ "edice": "Büchi 1914, ř. 2309–2324 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  75,
+  76,
+  311,
+  312
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 311 und C. 312 und Bd.'ll, Seite 75-76. *"
+ ],
+ "odstavce": [
+  {
+   "text": "Ein lied von dem strit vor Murten.",
+   "preklad": "175. Píseň o bitvě u Murtenu."
+  },
+  {
+   "text": "[Nu kum ich wider an die rechten materyen, do ich es vor gelassen hatt, der dingen, damit des nit vergessen und nach miner verstentnüsse nach enandren gesetzt werde.] Als der bürgünsches herzog so ein schantlich flucht vor Murten nam und die sinen, so ein mechtig volk was von allen landen, darzü alls sin güt, das er im leger by ime hatt, es weren büchsen, gold, silber und anders köstlich güt, das unsäglich was, hinder im lassen müst und verloren hatt, so ist er desselben tages in der flucht gen Morse komen. Da hatt er an allen zwyfel, als nit unbillich was, wenig fröuden gehept, und hat sich lassen in ein heimlich gemach inbeschliessen und so trurenklich in grossem jamer gehalten in massen, das nieman getorste zü ime komen noch genachen. Wiewol die herzogin von Savoy angendes zü ime kam, mochte sy nit für in komen, denn alle fröud in im erlöschen was.",
+   "preklad": "[Nyní se vracím k vlastní látce, u níž jsem předtím přestal, aby se na ty věci nezapomnělo a byly podle mého porozumění sepsány jedna po druhé.] Když burgundský vévoda tak hanebně utekl od Murtenu a musel za sebou nechat a ztratil své lidi, mocný lid ze všech zemí, a k tomu všechen svůj majetek, který měl u sebe v ležení, děla, zlato, stříbro a jiné drahocenné věci, jichž bylo nevýslovně mnoho, dostal se téhož dne na útěku do Morges. Tam bez veškeré pochyby, jak bylo jen spravedlivé, měl málo radosti; dal se zavřít do soukromé komnaty a choval se tak smutně a ve velikém žalu, že se k němu nikdo neodvážil přijít ani se přiblížit. Ačkoli k němu hned přijela savojská vévodkyně, nemohla k němu být připuštěna, neboť v něm všechna radost uhasla."
+  },
+  {
+   "text": "Und do er mit den sinen, so er dennacht by ime hatt, von der Morse für, hatt er mit der herzogin von Savoye mit grossen untrüwen angeschlagen, den rechten herren von Savoy und die andren ire kind mit im in Bürgün ze füren, umb das er sinen gewalt und hochen müt dester witter möchte erzöugen. Das begond die herzogin betrachten und ward sy gerüwen und meinte, sich mit den kinden wider von ime in ir land ze fügen und heimlich abstelen, das sy aber nit tün mochte, noch zü weg bringen, denn sy von den Lamparten, so von dem herzogen darzü geordnet waren, mit gewalt von iren wegnen genomen und an alle erbermde uff ein ross geworfen und in Bürgünd gefürt und ettlich ir kind mit ir. Doch wart der eltest herr von Savoy von ettlichen sinen fromen lüten heimlich verborgen, das er nit hinweg gefürt ward.",
+   "preklad": "A když s těmi svými, které ještě měl u sebe, odjížděl z Morges, nastrojil s velkou věrolomností vůči savojské vévodkyni, že pravého savojského pána a její ostatní děti odveze s sebou do Burgundska, aby tím dále ukázal svou moc a pýchu. To vévodkyně prohlédla, zželelo se jí toho a chtěla se s dětmi od něho zase odebrat do své země a tajně se vytratit. To však nemohla učinit ani provést, neboť ji Lombarďané, které k tomu vévoda určil, násilím vytáhli z jejího vozu, bez vší slitování ji hodili na koně a odvezli do Burgundska a s ní několik jejích dětí. Nejstaršího savojského pána však několik jeho věrných lidí tajně ukrylo, takže nebyl odvlečen."
+  },
+  {
+   "text": "Und wart die herzogin von Savoy in Bürgün uff ein schlos gefürt, daruff sy ettwas zittes gefangen lag, biss das sy nachmales durch listikeit heimlich wider enweg kam. Also under dem weg wart sy von ettlichen knechten usser den Eydgnossen uffgehept und nidergeworfen, und alles, das sy by ire hatt, es werend kleinoter, kleider und anders, genomen. Und also ward ir ir rechter sold, den sy in disen gescheften und kriegen umb die beden fromen stett Bern [und Friburg] gar mänigfaltig wol verdienet hatt, [als ir hievor wol gehört hand].",
+   "preklad": "Vévodkyni savojskou odvezli na jeden hrad v Burgundsku, kde nějaký čas ležela v zajetí, až později lstí zase tajně unikla. Cestou ji pak zadrželi a přepadli někteří knechti od konfederátů a vzali jí všechno, co u sebe měla, klenoty, šaty a jiné věci. Tak se jí dostalo spravedlivé odplaty, kterou si v těchto záležitostech a válkách vůči oběma zbožným městům Bernu [a Fribourgu] mnohonásobně zasloužila, [jak jste už slyšeli výše]."
+  }
+ ],
+ "poznamky_editora": [
+  "') Sie wurde auf dem Schloss Rouvre bei Dijon gefangen gehalten, bis sie am 2. Oktober von Charles d’Amboise im Aufträge Ludwigs XI. befreit wurde. Vgl. dazu Mugnier, La desconfiture de Charles le Temeraire. in Metnoires et doc. p. p. la Soc. Savoysienne d’histoire XL, p. 146 fl'."
+ ],
+ "poznamky": [
+  "Text: pod nadpisem „Ein lied …“ Büchi Molsheimův text písně netiskne, jen odkazuje na Schillinga C. 311 a 312 a na Bd. II, s. 75–76; hned následuje prozaické vyprávění o vévodovi v Morges (u Schillinga je to konec C. 312 po písních). Píseň je tedy třeba číst u Schillinga; zda ji rukopis obsahuje, by bylo třeba ověřit v rukopise. Rukopis A nadpis nemá.",
+  "Oprava textu: odstraněny značky a čísla řádků, zbloudilá Büchiho poznámka („Für die Seelenruhe … ebenda 654.“) uprostřed slova „heim-lich“ a prázdný odstavec „*“; spojena rozdělená slova („heim-lich“, „er-löschen“, „ge-worfen“, „mänig-faltig“); OCR „tniner“ → „miner“, „gftt“ → „güt“, „miist“ → „müst“, „körnen“ → „komen“, „eitest“ → „eltest“, „[a/s … hand\\“ → „[als … hand]“. Odstavce přeskupeny podle smyslu místo zlomu strany.",
+  "Büchi (k písni): k ní se snad vztahuje dar Murtenských 100 šilinků mistrovi, který složil „burgundskou píseň“, nebo jde o píseň Tüsche. Fribourgská rada darovala básníku Vitu Weberovi oděv v hodnotě 100 šilinků za krásné písně, v nichž oslavoval město (1. pololetí 1476), a stejnou částku znovu roku 1480.",
+  "Büchi: vévodkyně Jolanda byla vězněna na hradě Rouvres u Dijonu, odkud ji 2. 10. 1476 vysvobodil Charles d’Amboise z pověření Ludvíka XI.",
+  "Varianta S zesměšňuje vévodkyni: dostala „pravou odměnu od svého Mesiáše a modly, burgundského vévody“; také podrobněji líčí vévodův smutek, když myslel na veselící se konfederáty v jeho ležení.",
+  "Oproti Schillingovi: Molsheim vynechává zmínku o neapolském králi v Morges; vévodkyni přepadnou „knechti od konfederátů“ (Schilling: „němečtí knechti“); odplatu si zasloužila vůči „oběma zbožným městům Bernu [a Fribourgu]“ (Schilling: vůči Bernským a jejich konfederátům) a chybí Schillingova věta, že byla původkyní a štváčem všech těch válek."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

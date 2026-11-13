@@ -1,0 +1,26 @@
+{
+ "cislo": 178,
+ "nadpis": "Das aber etlich knechte von Nidow und von Biel zwei stark slos gewunnen.",
+ "edice": "Tobler I, s. 249",
+ "rukopis_strana": 413,
+ "odstavce": [
+  {
+   "text": "178. Das aber etlich knechte von Nidow und von Biel zwei stark slos gewunnen.",
+   "preklad": "178. Jak opět někteří knechti z Nidau a z Bielu dobyli dva silné hrady."
+  },
+  {
+   "text": "Darnach gewunnent die von Nidow und von Biel ouch mit einandern zwei stark slos mit dem sturm, das ein genant Munbi und noch eins, darin was gar vil güts, des nament si als vil si dannen bringen möchten und teiltent das under einandern und richtent darnach die beiden slos zü himel.",
+   "preklad": "Potom dobyli muži z Nidau a z Bielu společně útokem také dva silné hrady, jeden jménem Montby a ještě jeden. Bylo v nich velmi mnoho statků; vzali si z nich, kolik dokázali odnést, rozdělili si to mezi sebou a pak oba hrady „poslali k nebi“, tedy vypálili."
+  }
+ ],
+ "poznamky": [
+  "Bernský rukopis (s. 412–413, ověřeno, viz preklady\\s412-413_kap178.md) má jiné znění než Toblerův hlavní text: nadpis „Das aber etlich knecht von Bernn Sollotern und friburg zwey starck sloss über houpt in namen und gewunnen“, text „der von Bernn Sollotern und friburg knecht“ – tedy knechti z Bernu, Solothurnu a Fribourgu, ne z Nidau a Bielu. Tobler to uvádí ve variantách.",
+  "Bernský rukopis navíc: „und erstachen der vienden bi zwentzig mannen“ (a pobili asi dvacet nepřátel). Toblerova varianta (ř. 3 s. 250) tu má „bi zwenzig mannen“ (asi dvacet); čtení „zwentzig“ ověřeno na výřezu (viz níže).",
+  "„über houpt in namen“ (bernský nadpis) = vzali „přes hlavu“, tj. najednou, útokem [?].",
+  "Tobler: Montby leží severně od Clervalu (u obce Gondenans-Montby, Doubs). Zmiňuje ho i Zollnerova píseň (kap. 196). Druhý hrad text nejmenuje.",
+  "„richten … zü himel“ = obrazně „poslat k nebi“, vypálit.",
+  "Rukopis s. 413 ověřen na výřezu ve vysokém rozlišení: „erstachen der vienden bi zwentzig mannen“ (asi dvacet), shodně s Toblerovou variantou; dřívější čtení „zwelf“ bylo chybné."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

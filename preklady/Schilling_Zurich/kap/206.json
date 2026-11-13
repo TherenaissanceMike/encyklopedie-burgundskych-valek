@@ -1,0 +1,34 @@
+{
+ "cislo": 206,
+ "nadpis": "Das die von Bern dem grafen von Röymont abseitent.",
+ "edice": "Tobler I, s. 288",
+ "rukopis_strana": 484,
+ "odstavce": [
+  {
+   "text": "206. Das die von Bern dem grafen von Röymont abseitent.",
+   "preklad": "206. Jak Bernští vypověděli válku hraběti z Romontu."
+  },
+  {
+   "text": "Dem dürchlüchgen, hochgebornen fürsten und hern, hern Jacoben von Saföy, grafen zü Reymond, oder sinen stathaltern und amptlüten, verkünden wir schulthes, rat und gemeind der stat Bern: uns noch unvergessen, mit was flis, neigung und ernst wir zü nutz und gemach üwer herschaft und land günstig sind gewesen, also das wir derselben schad nit anders dann unsern alweg abgewert haben. Solicher unser milt ist aber nit wenig undankbarkeit begegnet, die sich al so verr erhept hat, das in den gegnen irn landen die unsern und der fürsichtigen, unser allerliepsten brüdern, schultheissen, räten und gemeind zü Friburg botschaften durch die irn gevangen und ermürt sind.",
+   "preklad": "Jasnému, vysoce urozenému knížeti a pánu, panu Jakubovi Savojskému, hraběti z Romontu, anebo jeho místodržícím a úředníkům, oznamujeme my, starosta, rada a obec města Bernu toto: Nemáme dosud zapomenuto, s jakou horlivostí, náklonností a vážností jsme byli příznivě nakloněni užitku a pohodlí vaší vrchnosti a země, takže jsme jejich škodu vždy odvraceli nejinak než svou vlastní. Této naší laskavosti se však dostalo nemalé nevděčnosti, která zašla tak daleko, že v krajích vašich zemí byla vašimi lidmi zajata a zavražděna poselstva naše i prozřetelných, našich nejmilejších bratří, starosty, rad a obce ve Fribourgu."
+  },
+  {
+   "text": "Darnach so ist dis ergernus in solich häss und irrung geflossen, das unsern gewapneten, in dem vermelten land unschädlich wandlenden, durch ir amptlüt und eigen völker todsläg und schad an lib und güt zügefügt sind. Und das dieselb grimkeit unufhörlich gesechen werd, so hat si inen unverdient, noch zü verschulden ganz nit geneigt, al menschlich köuf und übungen abgeworfen, inen und züvoran uns, die von üwer herschaft wol ander dankbarkeit, ob unser dienst ütz bewägen wurd, ertrüg, zü smach. Harumb diewil natürlichs rechten ist, frefel abzüweren und gewalt mit gewalt uszütriben, so werden wir bezwungen, wiewol unser gemüt vil anders begerten, ünser land zü beschirmung und gegenwer uns ufzürichten und sölichen gewalt abzütriben und sich aller und ieklicher schirm, anvellen und behilf zü gebruchen, die gereitzten, bewegten und underzütrucken understandnen geburlich sind.",
+   "preklad": "Potom se toto pohoršení rozlilo v takovou nenávist a rozbroj, že našim ozbrojencům, kteří se ve zmíněné zemi pohybovali, aniž komu škodili, způsobili vaši úředníci a vlastní lidé vraždy a škody na životě i statku. A aby tato zuřivost byla vidět bez ustání, odňala jim vaše vrchnost, ačkoli si to nezasloužili a k žádnému provinění nebyli nakloněni, veškerý lidský obchod a obživu, k potupě jim a především nám, kteří bychom od vaší vrchnosti zasloužili zcela jinou vděčnost, kdyby se naše služby jen trochu uvážily. Protože je tedy přirozeným právem odrážet svévoli a mocí vyhánět moc, jsme nuceni, ačkoli naše mysl si přála něco zcela jiného, povstat k ochraně a obraně své země, takové násilí odrazit a použít všech a jakýchkoli prostředků ochrany, obrany a pomoci, jaké náležejí těm, kdo byli vyprovokováni, napadeni a koho se někdo pokusil potlačit."
+  },
+  {
+   "text": "Und das üwer herschaft solichs luter wüss, so verkünden wir ir das durch dis gegenwürtigen brief für sich und al ir anhenger wider uns, für uns und die unsern. Geben under unserm sigel, 24 octobris 75.",
+   "preklad": "A aby to vaše vrchnost jasně věděla, oznamujeme jí to tímto přítomným listem, pro ni a všechny její stoupence proti nám, a za nás a za naše. Dáno pod naší pečetí 24. října [14]75."
+  }
+ ],
+ "poznamky": [
+  "Tobler tiskne list podle bernské knihy odeslaných listů (Teutsch Missiven C, 576) a ve variantách uvádí curyšský (Z) a bernský (B) rukopis kroniky.",
+  "„irn landen“, „durch die irn“: hlavní text mluví o „vaší vrchnosti“ ve 3. osobě (její země, její lidé); Z a B mají přímo „üwern landen“, „durch die üwern“, „durch üwer amptlüte“. Přeloženo „vašich zemí / vašimi lidmi“.",
+  "Z a B: „köuf und narungen“ (obchod a obživu), „zü ganzer smach“; věta „die von üwer herschaft … ertrüg“ v Z a B chybí. Konec listu v Z a B obsahuje obvyklou formuli: „und wir wellen ouch für üns, alle die ünsern und gewanten ünser ere hiemit völliclichen bewart haben“ (tím chceme mít svou čest i čest všech svých a spojenců plně uchráněnu), B navíc „und gnüg abgeseit“ (a dostatečně vypovězeno). Srov. kap. 126.",
+  "Datum 24. 10. 1475 je pozdější než vytažení Bernských 14. 10. (kap. 208), přestože kap. 205 a 208 kladou vypovězení před tažení; Tobler to nekomentuje. Může jít o chybu tisku nebo OCR za 14. 10. (mimo Tobler, neověřeno).",
+  "„underzütrucken understandnen“ = ti, které se někdo pokusil potlačit; „bewägen“ = uvážit (glosář); „ertrüg“ = vynesla by, zasloužili bychom. Formule přeloženy podle smyslu.",
+  "„dürchlüchgen“ ponecháno podle edice (= durchlüchtigen, jasnému). „Reymond“ = Romont. Oprava: „zii smach“ → „zü smach“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

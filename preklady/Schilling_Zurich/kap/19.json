@@ -1,0 +1,25 @@
+{
+ "cislo": 19,
+ "nadpis": "Das gemein Eidgnossen von stetten und lendern mit allen iren panern uf dem Ochsenfelde zesamen kamen, und einandern gar früntlich und in ganzen brüderliehen trüwen enpfingen.",
+ "edice": "Tobler I, s. 25",
+ "rukopis_strana": 46,
+ "odstavce": [
+  {
+   "text": "19. Das gemein Eidgnossen von stetten und lendern mit allen iren panern uf dem Ochsenfelde zesamen kamen, und einandern gar früntlich und in ganzen brüderlichen trüwen enpfingen.",
+   "preklad": "19. Jak se všichni konfederáti z měst a zemí se všemi svými korouhvemi sešli na Ochsenfeldu a přijali se navzájem velmi přátelsky a ve vší bratrské věrnosti."
+  },
+  {
+   "text": "Und also in dem namen gottes brachent die von Bern und gemein Eidgnossen von stetten und lendern alle uf mit iren panern und kament züsamen uf dem Ochsenveld. Do enpfingen si einandern gar früntlich und in ganzen brüderlichen trüwen als ein brüder den andern, wie dann die fromen Eidgnossen iewelten gein einandern ze tünde gewont hand, und sagten ouch einandern in brüderlichen truwen, was si getan und gehandlet hatten, und zugen in drin grossen mechtigen huffen uf dem witen velde züsamen, gar in güter ordnung, und waren von ganzem herzen begeren, mit der herschaft und allen iren vienden einen strit ze tünde und des manlichen ze erwarten; dann die edlen im lande und allenthalben vormalen gar dick gerett und tröwwort gebrucht hatten: möchten si die Switzer an die wite und sunderlich uf das Ochsenveld bringen, so wolten si gern mit inen striten und inen iren gewalt und hochmüt erzöugen. Es bleib aber underwegen, dann si al vom lande warent gewichen und hattent sich verborgen und getorsten die nasen nit me harfür bieten. Und also dankten die von Bern und Solotern den Eidgnossen gar früntlich und mit ganzen herztrüwen, des mengem biderben man sin ougen übergingen von rechten fröuden, und schieden damit in allen trüwen von einandern und teiltent sich aber in drig scharen und zugen wider gen Basel zu und wart alles gewüst und verbrönt, was enent Basel stünd. Das hattent si mit irem grossen übermüt und hochvart umb den almechtigen gotte wol verdient, und was inen ouch ir rechter lon worden.",
+   "preklad": "A tak ve jménu Božím vyrazili Bernští a všichni konfederáti z měst a zemí se svými korouhvemi a sešli se na Ochsenfeldu. Tam se navzájem přijali velmi přátelsky a ve vší bratrské věrnosti, jako bratr bratra, jak to stateční konfederáti mezi sebou odjakživa činívali, a v bratrské věrnosti si také vyprávěli, co udělali a vykonali. Seřadili se na širém poli do tří velkých, mocných houfů, ve velmi dobrém pořádku, a z celého srdce si přáli svést bitvu s panstvem a se všemi svými nepřáteli a mužně ji vyčkat. Šlechtici v zemi i všude jinde totiž předtím velmi často mluvili a vyhrožovali: kdyby mohli dostat Švýcary na širé pole, a zvlášť na Ochsenfeld, rádi by s nimi bojovali a ukázali jim svou moc a převahu [?]. Ale sešlo z toho, neboť všichni ze země utekli, schovali se a neodvážili se už ani vystrčit nos. A tak Bernští a Solothurnští konfederátům velmi přátelsky a z celého srdce poděkovali, až mnohému poctivému muži vhrkly slzy do očí z pravé radosti; ve vší věrnosti se pak rozešli, opět se rozdělili do tří zástupů a táhli zpět k Basileji, a všechno, co stálo za Basilejí, bylo zpustošeno a vypáleno. To si nepřátelé svou velkou zpupností a pýchou u všemohoucího Boha dobře zasloužili, a dostalo se jim tak spravedlivé odměny."
+  }
+ ],
+ "poznamky": [
+  "Datum (Tobler): setkání na Ochsenfeldu bylo nejspíš 7. 7. 1468. U Schillinga vypadá jako předem domluvené, Edlibach tomu odporuje.",
+  "Tobler k „an die wite“: téhož 7. 7. psal Bern hejtmanům do pole, že se doslechl o nepřátelském tažení k Rheinfeldenu, ať se proto mají na pozoru a „nit an die wite komen, sunder in den gebirgen beliben“ (nevycházejte na širé pole, zůstaňte v horách). „wite“ = otevřené pole (glosář). Varianta: „sunderlich uf den rechten spor, das Ochsenvelt“.",
+  "Tobler: „Das hattent si …“ – „si“ = nepřátelé. „enent Basel“ = za Basilejí, tj. na sundgauské straně (výklad mimo Tobler).",
+  "[?] „inen iren gewalt und hochmüt erzöugen“: „iren“ může znamenat moc šlechticů („ukázat jim svou moc“) i pýchu Švýcarů („vyhnat jim jejich zpupnost“); přeloženo prvním způsobem.",
+  "Opravy OCR: brüderliehen → brüderlichen (nadpis), früuntlich → früntlich, sı → si, vypuštěno „: [bit“ (okraj strany) a „| | |“. Odstavce sloučeny/rozděleny podle edice (podle konců řádků v surovém OCR)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

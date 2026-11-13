@@ -1,0 +1,24 @@
+{
+ "cislo": 31,
+ "nadpis": "Das man mit einer macht vor Walzhüt uf die fütre zoch.",
+ "edice": "Tobler I, s. 38",
+ "rukopis_strana": 71,
+ "odstavce": [
+  {
+   "text": "31. Das man mit einer macht vor Walzhüt uf die fütre zoch.",
+   "preklad": "31. Jak se od Waldshutu vytáhlo s vojskem na píci."
+  },
+  {
+   "text": "Uf sant Bartholomeus tag des vorgenanten iares zugent die von Bern mit einem venli und achthundert mannen uf die fütre, und kament die von Ure und Underwalden mit zweihundert mannen ouch zü inen. Und als si in das nechst dorf kament, da warent der vienden bi zweihunderten zu ros und etlich zü füs in demselben dorf und warent etlich knecht umb roubens willen vor dannen geloufen und wart einer von Bern wund und einer gevangen. Also nament die viend angendes die flücht, das man si zü füs nit wol mocht erilen und wurden ir dennocht etlich erstochen, darzü gevangen und etwie menger wund. Und als nachmalen von den vienden offenlichen gerett wart, so was der schreck und die flücht als ganz under si komen, hette man vertruckt und fürgezogen, man hette die letze mit gewalt und alles, das si do hatten, gewunnen.",
+   "preklad": "Na den svatého Bartoloměje téhož roku vytáhli Bernští s praporcem a osmi sty muži na píci a přidali se k nim také Urijští a Unterwaldenští se dvěma sty muži. Když přišli do nejbližší vsi, bylo v ní asi dvě stě nepřátel na koních a několik pěších; několik knechtů se předtím rozběhlo napřed kvůli loupení, a jeden Bernský byl raněn a jeden zajat. Nepřátelé se hned dali na útěk, takže je pěší nemohli dobře dohonit; přesto jich několik bylo probodnuto, další zajati a mnozí poraněni. A jak potom nepřátelé sami veřejně říkali, zmocnil se jich takový strach a útěk, že kdyby se bylo přitlačilo a táhlo dál, bylo by se dobylo násilím i zátarasu a všeho, co tam měli."
+  }
+ ],
+ "poznamky": [
+  "Datum: den sv. Bartoloměje = 24. 8. 1468. Tobler: o události podávají 25. 8. zprávu i curyšští hejtmani; podle nich byli z nepřátel čtyři probodnuti a jeden zajat. Nejbližší vesnice ležela směrem k Albbrucku (Tobler podle Hansjakoba).",
+  "Oprava textu: do druhého odstavce byl vlepen řádek variant ke kap. 30 („1. warheit was. Es wurden ouch der vienden me dann sechzig wund gen Basel an die arzat gefürt, der sturben etwie menger. Es was ouch.“); odstraněn, věta „Und als nachmalen … gerett wart, so was der schreck …“ spojena přes záhlaví strany a oba odstavce sloučeny podle edice. „der. schreck“ → „der schreck“.",
+  "„uf die fütre“ = na píci, pro krmivo (Toblerův glosář: Futter, Fourage). „letze/letzi“ = opevnění, polní obranná linie (glosář: Befestigung); zde zřejmě opevněná linie u Waldshutu.",
+  "Bernské varianty: „Darnach an sant Bartholomeus tag“, „zugen die von Bern und ander mit einem venli uf die fütre“ (bez počtu 800 mužů), na konci „ganz gewunnen“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

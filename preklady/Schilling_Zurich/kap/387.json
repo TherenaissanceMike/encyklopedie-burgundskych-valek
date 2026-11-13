@@ -1,0 +1,48 @@
+{
+ "cislo": 387,
+ "nadpis": "Hienach stat, wie vil ieglich stat und ort lüten zem kung geschickt hat und was inen ufgeleit was.",
+ "edice": "Tobler II, s. 233",
+ "rukopis_strana": 939,
+ "odstavce": [
+  {
+   "text": "387. Hienach stat, wie vil ieglich stat und ort lüten zem kung geschickt hat und was inen ufgeleit was.",
+   "preklad": "387. Zde následuje, kolik lidí které město a místo poslalo ke králi a co jim bylo uloženo."
+  },
+  {
+   "text": "Item die von Zurich tusent man, hand mit dem rosvolk 1100 mannen gehebt.",
+   "preklad": "Item Curyšští tisíc mužů; s jízdou měli 1100 mužů."
+  },
+  {
+   "text": "Item die von Bern tusent man, hand mit dem rosvolk ob 1200 mannen gehebt.",
+   "preklad": "Item Bernští tisíc mužů; s jízdou měli přes 1200 mužů."
+  },
+  {
+   "text": "Item die von Lutzern 800 man, hand mit irem rosvolk ouch me gehebt.",
+   "preklad": "Item Luzernští 800 mužů; se svou jízdou měli také víc."
+  },
+  {
+   "text": "Item Friburg und Solotern tusent man, hand mit iren roslüten ouch me gehebt.",
+   "preklad": "Item Fribourg a Solothurn tisíc mužů; se svými jezdci měli také víc."
+  },
+  {
+   "text": "Item die von Biel hundert und zechen man mit den reisigen.",
+   "preklad": "Item Bielští sto deset mužů i s jezdci."
+  },
+  {
+   "text": "Item die andern Örter der Eidgnossen, namlichen Ure, Switz, Underwalden, Zug und Glarus, mit Rotwil, sant Gallen und von andern iren emptern haben ob zweitusent mannen gehebt.",
+   "preklad": "Item ostatní místa konfederace, totiž Uri, Schwyz, Unterwalden, Zug a Glarus, s Rottweilem, St. Gallenem a [lidmi] z jiných svých úřadů [poddaných území], měli přes dva tisíce mužů."
+  },
+  {
+   "text": "So sind vorhin bi dem küng bi sechstusent mannen von Eidgnossen und andern Tütschen umb sold ouch gewesen.",
+   "preklad": "Kromě toho už předtím bylo u krále na žoldu asi šest tisíc mužů z konfederace a jiných Němců."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: odstraněno zbloudilé „or“ (číslo řádku), „ven Bern“ → „von Bern“, „bi,sechstusent“ → „bi sechstusent“, „Tuütschen“ → „Tütschen“; položky rozděleny na odstavce podle edice. Úplnost ověřena proti ř. 16202–16261.",
+  "Tobler: výše jednotlivých kontingentů byla stanovena na sněmu 29. 7. 1480 a Schillingovy údaje s ním souhlasí (také Anshelm). Součet hlavních čísel je asi 6000, tedy požadovaných šest tisíc mužů (mimo Tobler, výpočet).",
+  "Bernský rukopis (B): nadpis „Hienach stat die zal der lüten, so zu Tschalun mit einandern gewesen sind“ (počet lidí, kteří byli spolu v Chalonu); u Curychu „me dann 1100“; u Fribourgu a Solothurnu „ouch anders me“; u Bielu „anderthalbhundert man mit iren [reisigen]“ (150 mužů).",
+  "„empter“ = úřady, tj. poddaná území (ämter) míst konfederace."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

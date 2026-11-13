@@ -1,0 +1,37 @@
+{
+ "cislo": 159,
+ "nadpis": "Das die stat Granson und ouch das slos von denen von Bern und andern gewunnen wart.",
+ "edice": "Tobler I, s. 218",
+ "rukopis_strana": 360,
+ "odstavce": [
+  {
+   "text": "159. Das die stat Granson und ouch das slos von denen von Bern und andern gewunnen wart.",
+   "preklad": "159. Že město Grandson i hrad dobyli Bernští a jiní."
+  },
+  {
+   "text": "Do man nü nach den houptbüchsen gen Bern geschickt und man sich versechen hat etwas zites vor Granson ze ligen, e dieselben büchsen kament, da underrettent sich die houptlüt und venner von Bern und ander mit inen von eins sturmes wegen, und meinten also die stat und das closter zü stürmen mit luten, die das gern tetent und mit eignem willen daran gingent, dann man nieman darzü zwingen wolt, nachdem es dann ein starke stat und aber noch nit beschossen was; darzü hat man ouch noch kein leitern noch ander bereitschaft.",
+   "preklad": "Když se nyní poslalo do Bernu pro velká obléhací děla a počítalo se s tím, že se před Grandsonem nějaký čas poleží, domluvili se – dříve, než ta děla přišla – hejtmani a praporečníci Bernských a jiní s nimi o útoku. Chtěli ztéct město a klášter s lidmi, kteří to dělali rádi a šli do toho z vlastní vůle, neboť nikoho nechtěli nutit, protože to bylo silné město a dosud nebylo ostřelováno; také ještě neměli žádné žebříky ani jinou přípravu."
+  },
+  {
+   "text": "Und also am sonnentag vor dem meitag ving man den sturm in dem namen gottes an ganz manlich und mit grossem ernst, und schos man ouch an einem ort füre in die stat; und do si in der stat semlichen ernst, angst und not sachent, das man inen nit viren wolt, do fluchent si bald in das slos, wer darin komen mocht und namen mit inen was inen liep was. Es woltent ouch etlich zü schif hinweg gevaren und geflochen sin, die wurdent von denen von Bern uf dem sewe erilt und gevangen, als dann das vorhin angesehen und versechen was.",
+   "preklad": "A tak v neděli před prvním májem začali ve jménu Božím útok, zcela mužně a s velkou vážností, a na jednom místě také vstřelili do města oheň. A když ti ve městě viděli takovou vážnost, úzkost a nouzi a že jim nikdo nedá oddechnout, rychle utekli do hradu, kdo se tam mohl dostat, a vzali s sebou, co jim bylo milé. Někteří také chtěli odplout na lodi a uprchnout; ty Bernští na jezeře dostihli a zajali, jak to bylo předem nařízeno a zajištěno."
+  },
+  {
+   "text": "Und wart also die stat Granson gar erlich und manlich gewunnen und wurdent darinne nit me erstochen und umbbracht dann fünf manne; mit den andern hat man erbermd, dann es merenteils als arm puren vom lande, denen dis ding nit liep warent. Und rust man sich angendes zü, das man das slos ouch stürmen wolt, und meintent etlich von stund daran zü loufen; das woltent die houptlüt nit gestatten, die do wistent, wie stark und werlich das slos was, und rust man sich aber nit destminder zü dem sturm mit bolwerken und andern sachen, das die im slos wol sachen und markten, das man inen nit viren wolt.",
+   "preklad": "A tak bylo město Grandson velmi čestně a mužně dobyto a nebylo v něm probodáno a zabito víc než pět mužů. S ostatními měli slitování, neboť to byli většinou chudí sedláci z venkova, kterým tyto věci nebyly milé. A hned se chystali, že ztečou i hrad, a někteří tam chtěli ihned běžet. To hejtmani nechtěli dovolit, neboť věděli, jak silný a branný ten hrad je. Přesto se však k útoku připravovali přenosnými kryty a jinými věcmi, takže ti na hradě dobře viděli a poznali, že jim nikdo nedá oddechnout."
+  },
+  {
+   "text": "Und also morndes am meitag gabent si das slos uf denen von Bern und andern, die bi inen warent, das man si mit ir habe und dem iren abziechen lassen und inen am leben nit tün solt; das man ouch inen also versprach, und wart also ingenomen und gewunnen und stat und slos von denen von Bern und andern besatzt, dann si inen ouch swüren und huldeten.",
+   "preklad": "A tak nazítří, na první máj, vydali hrad Bernským a jiným, kteří byli s nimi, s podmínkou, že je nechají odtáhnout s jejich jměním a s tím, co jim patří, a nesáhnou jim na život. To jim také slíbili, a tak byl hrad zabrán a dobyt a město i hrad obsadili Bernští a jiní, neboť jim také přísahali a holdovali."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do prvního odstavce byl vlepen řádek variant k nadpisu kap. 158 („1. Lutzern mit ir stat paner und einem erlichen volke ouch fürderlich gen Granson kamen“); odstraněn, správně „… ze ligen, und e dieselben büchsen kament …“.",
+  "Data: neděle před prvním májem = 30. 4. 1475; vydání hradu „am meitag“ = 1. 5. 1475 (Tobler).",
+  "Tobler odkazuje na podrobný popis dobytí v „Les entreprises du duc de Bourgogne contre les Suisses“ (Chroniques des chanoines de Neuchâtel) a v Basler Chroniken.",
+  "Bernská varianta nadpisu: „… von denen von Bern und andern iren Eidgnossen gewunnen und erobert wart“; na konci „von denen von Bern besatzt und nach aller notdurft versorget, dann si inen ouch angendes swüren und huldeten“.",
+  "„viren“ s dativem = dopřát někomu oddech (Toblerův glosář). „bolwerk“ = bašta, obléhací val či dřevěné ochranné dílo; zde u útočníků, proto podle tabulky „přenosné kryty“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

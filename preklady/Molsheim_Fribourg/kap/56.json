@@ -1,0 +1,34 @@
+{
+ "cislo": 56,
+ "nadpis": "Wie man das sloss Illingen innam.",
+ "edice": "Büchi 1914, ř. 739–752 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  147
+ ],
+ "schilling_odkaz": [
+  "Schilling C. 147."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie man das sloss Illingen innam.",
+   "preklad": "56. Jak byl dobyt hrad Illens."
+  },
+  {
+   "text": "Uff Mit(wuchen) vor der helgen Dryer Küngen tag, als man zalte 1475 jar, do wart das schloss Illingen ingenommen zü beder stett handen, Bern und Friburg. Und beschach das von wenig knechten, die darzü geordnet warend, denn dasselb schloss ze versprechen stünd dem herren von Irlor, der was rat und diener des herzogen von Bürgün [und geschach sölichs durch min herrn von Friburg, nämlich durch Hensli Vögilly houbtman und Tschan Mestraul mit ir reisigen und züg; denn allein min herrn von Bern da hattent in ir namen Hans Wanner und Henzman von Künried].",
+   "preklad": "Ve středu před svátkem svatých Tří králů, když se psal rok 1475, byl hrad Illens zabrán do rukou obou měst, Bernu a Fribourgu. Stalo se to malým počtem knechtů, kteří k tomu byli určeni; ten hrad totiž náležel pánu z Irlor [z Illens?], který byl radou a služebníkem vévody burgundského [a stalo se to skrze mé pány z Fribourgu, totiž skrze hejtmana Hensliho Vögillyho a Tschana Mestraula s jejich jízdou a výzbrojí; moji páni z Bernu tam totiž měli svým jménem jen Hanse Wannera a Henzmana von Künried]."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. Knebel I, 127. — M Vgl. Luzerner Bekanntnushuch 66. — 3 ) Am 23. Nov. vgl. Knebel I, 182, 191. Der Freiburger Rat beschenkte den Dichter des Liedes auf die Schlacht von Hericourt, der ein Teilnehmer war, mit einer Denkmünze. Wahrscheinlich dürfte Veit Weber gemeint sein, da ein anderes Schlachtlied nicht bekannt ist, s. Büchi, Freiburger Akten S. 57."
+ ],
+ "poznamky": [
+  "Oprava textu: do nadpisu se vlepil odkaz „Schilling 0. 147.“ (= Schilling C. 147, doplněno do polí schilling) a začátek textu („Uff Mit(wuchen) … zü beder“); začátek přesunut do odstavce textu. Vypuštěny značky poznámek („*)“, „-)“, „3 )“, „ä“); OCR: „Fern“ → „Bern“.",
+  "Hranaté závorky [ ] převzaty z Büchiho edice; podle jeho aparátu jde o úseky, které v části rukopisů chybějí (často v D a N), u „Friburg“ často jde o fribourgské doplňky.",
+  "Datum: středa před Třemi králi 1475 = 4. 1. 1475. Oproti Schillingovi (kap. 147): Schilling má „středu po Třech králích“ (11. 1.), Molsheim „středu před“; podle Toblera padl hrad už 2. 1. a 4. 1. sepsali vítězové jeho inventář. Molsheim navíc jmenuje fribourgské velitele (hejtman Hensli Vögilly, Tschan Mestraul) s fribourgskou jízdou a zdůrazňuje, že Bern tam měl jen dva muže; Schilling naopak píše, že pán z Illens byl lstivý muž a že hrad byl později rozbořen.",
+  "Büchi: při předání přísahalo 32 obyvatel hradu a panství novým pánům; k Illens patřilo i „Plaffeyen“ [?]. Illens byl nejprve kondominiem Bernu a Fribourgu, smlouvou z 13. 6. 1484 připadl Fribourgu; prvním kastelánem byl jmenován Fribourgský Peterman Morsel. Jean Mettrau (Mestral) byl fribourgským radním od 14. 6. 1474, za burgundských válek zbrojmistrem (Zeugmeister) a potom kastelánem v Montagny; už před dobytím byl tajně poslán do Illens ke kastelánovi (účty pokladníka 1474/II: 1 den, 2 koně, 3 šilinky). Bernští byli při návratu hostěni Fribourgskými v hospodě na Sense. (Tyto Büchiho poznámky se při dělení vlepily do textu kap. 57.)",
+  "Varianty: B „durch die fromme, veste stat Friburg“; v rukopisu G připsala mladší ruka na okraj, že Metral se jmenoval také Ammann a že nejpřednější byl Peter Gottrauw, „der daz schloss hat ingenommen“; S: Henzman von „Cünenryed, dozümal grossweibel ze Bern“ (tehdy bernský velký biřic). „Irlor“ je patrně zkomolené Irlens/Illens [?]; „ze versprechen stünd“ = měl v držení a odpovídal za něj. „min herrn“ = moji páni, tj. fribourgská rada."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

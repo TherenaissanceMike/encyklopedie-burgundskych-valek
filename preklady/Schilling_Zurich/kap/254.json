@@ -1,0 +1,23 @@
+{
+ "cislo": 254,
+ "nadpis": "Das die von Friburg, Solotern und Biel mit iren panern ouch uszugent.",
+ "edice": "Tobler I, s. 358",
+ "rukopis_strana": 619,
+ "odstavce": [
+  {
+   "text": "254. Das die von Friburg, Solotern und Biel mit iren panern ouch uszugent.",
+   "preklad": "254. Jak Fribourgští, Solothurnští a Bielští také vytáhli se svými korouhvemi."
+  },
+  {
+   "text": "Darzü zugen ouch die von Friburg, Solotern und Biel us, ouch mit iren panern und ganzen machten und bliben also zü Murten und in derselben gegne, ze erwarten, bis die andern Eidgnossen und gewanten ouch harnach kemend, die ouch die von Bern me dann einmal manten und schriben, als dann zem teil harnach geschriben stat.",
+   "preklad": "K tomu vytáhli také Fribourgští, Solothurnští a Bielští, rovněž se svými korouhvemi a celou mocí, a zůstali v Murtenu a v jeho okolí, aby počkali, až přijdou i ostatní konfederáti a spojenci, které Bernští také nejednou vyzývali k pomoci a jimž psali, jak je zčásti zapsáno dále."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněna svislice „|“. Text je úplný.",
+  "Tobler: 19. 2. 1476 psala bernská Rada do pole, že Fribourg a Solothurn ještě nedorazili; hejtmani mají čekat, nic nepodnikat a nepostupovat, protože by mohli být obejiti a poškozeni. Bielští – 75 mužů pod vedením Petera Göulfiho – přišli do Murtenu už 16. 2. (Blösch, Geschichte der Stadt Biel).",
+  "Bernské varianty: „also“ chybí, „derselben art“, „und gewanten“ chybí, „kament“, „und inen schriben“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

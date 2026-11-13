@@ -1,0 +1,33 @@
+{
+ "cislo": 7,
+ "nadpis": "Wie hertzog sigmund von östrich dem hertzog karols von bruguni sin land versattz",
+ "edice": "Usteri 1847, ř. 7473 souboru edice",
+ "rukopis_strana": 279,
+ "odstavce": [
+  {
+   "text": "Wie hertzog sigmund von östrich dem hertzog karols von bruguni sin land versattz",
+   "preklad": "Jak vévoda Zikmund Rakouský zastavil svou zemi vévodovi Karlovi Burgundskému,"
+  },
+  {
+   "text": "die graffschaft pfirt mit sampt dem suncköw elsis vnd brisgöw vnd dem swartzwald",
+   "preklad": "totiž hrabství Ferrette spolu se Sundgau, Alsaskem, Breisgau a Schwarzwaldem"
+  },
+  {
+   "text": "cet. beschach als man zalt m.cccc.lxxiij jar vnd ouch den fier stetten am rin namlich waltzhutt seckinen löffenberg vnd rinvelden darzu.",
+   "preklad": "atd. Stalo se roku 1473 [sic]; a k tomu i čtyři města na Rýně, totiž Waldshut, Säckingen, Laufenburg a Rheinfelden."
+  },
+  {
+   "text": "Item diss sachen stündend nun an biss jn dz jar als man ward zellen von der geburt vnsers heren m.cccc.Lxxiij jar dz in den vorgenanten jaren als den die richtung mit dem waltzhutter krieg gar mengerleig verluffe vnd aber zwuschend dess hertzogen vnd ouch der eignossen lütten vil gerett ward, vnd begond nun hertzog sigmund besorgen dz uillich die sinnen aber etwz vnrow anfachen wurdent mit den eignossen dardurch sich aber krieg zwuschend jm vnd den eignossen wurdent erheben, so hatte er an allen sinnen edlen jm suncköw vnn elses wol uerstanden mengerleig vntrüw vnd vnfrüntzschaft, vnd vor sömlichem der optgenant hertzog sigmund zu rat ward den sinnen sömliche vntrüw so sy jm erzoügtend ouch den eignossen ein andren nachburen zu geben ward er sin land dem hertzog karolo von brugune versatzen vnd verpfenden namlichen wz er hat nidwendig vnd obwendig bassel hie disset vnd ennent rinss mit dem swartzwalde vmm Lxxx” (80000) rinscher guldin, doch jm selbss etlich zit ein lossung vorbehalten, mit geding dz der hertzog von bruguny die lantschaft bin allen jren rechten frigheitten vnd alten harkomen vnd gewonheitten beliben lassen, vnd sy nüt witter trengen sölte, den sy bisshar getrungen werind, nach lut jren uerschribungen.",
+   "preklad": "Tyto věci se táhly až do roku od narození našeho Pána 1473. V předešlých letech se totiž kolem smíru po waldshutské válce leccos všelijak dělo a mezi vévodovými lidmi a lidmi konfederátů se mnoho napovídalo. Vévoda Zikmund se začal obávat, že jeho lidé snad zase s konfederáty začnou nějaké nepokoje, z nichž by mezi ním a konfederáty opět vznikla válka. Navíc u všech svých šlechticů v Sundgau a Alsasku dobře poznal mnohou nevěrnost a nepřátelství. Proto se výše jmenovaný vévoda Zikmund rozhodl, že za takovou nevěrnost, kterou mu prokázali, dá svým lidem, a také konfederátům, jiného souseda. Zastavil a zapsal svou zemi vévodovi Karlovi Burgundskému, totiž všechno, co měl pod Basilejí i nad ní, na této i na oné straně Rýna, spolu se Schwarzwaldem, za 80 000 rýnských zlatých. Na nějakou dobu si však vyhradil právo zástavu vyplatit, s podmínkou, že vévoda burgundský ponechá zemi při všech jejích právech, svobodách, starém obyčeji a zvyklostech a nebude ji tížit víc, než byla dosud tížena, podle znění jejích zápisů (privilegií)."
+  }
+ ],
+ "poznamky": [
+  "Odstavce 1–2 jsou pokračováním nadpisu (v edici sazeny pod nadpisem jako samostatné řádky), proto je překládám jako jeho součást.",
+  "Oprava textu: odstraněna Usteriho poznámka pod čarou („Vom Autor später beigesetzt und nicht in der Copie befindlich“ – některá část nadpisu nebo textu je autorův pozdější přípisek, který v opisu chybí); odstavec rozdělený zlomem strany spojen. OCR: „ıxxiij“ → „lxxiij“, „ccce“ → „cccc“, „bertzogen“ → „hertzogen“, „vnu“ → „vnn“, „vod vonfrüntzschaft“ → „vnd vnfrüntzschaft“, „herizog“ → „hertzog“, „bie disset“ → „hie disset“, „lantschafl“ → „lantschaft“.",
+  "Datum: Edlibach klade zástavu do roku 1473. Ve skutečnosti ji Zikmund uzavřel s Karlem Smělým smlouvou v Saint-Omer 9. 5. 1469 (mimo text). Výše zástavní sumy se v literatuře uvádí jinak než Edlibachových 80 000 zlatých (mimo text); stejnou sumu Edlibach uvádí i u výplaty v kap. 14.",
+  "Pfirt = hrabství Ferrette (Pfirt) v Sundgau. „nidwendig vnd obwendig bassel hie disset vnd ennent rinss“ = pod Basilejí i nad ní (po proudu i proti proudu Rýna), na této i oné straně Rýna.",
+  "Srov. Schilling kap. 61 (jmenování Hagenbacha) a další kapitoly o zástavě."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

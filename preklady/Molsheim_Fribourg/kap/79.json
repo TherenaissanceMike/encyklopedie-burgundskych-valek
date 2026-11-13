@@ -1,0 +1,29 @@
+{
+ "cislo": 79,
+ "nadpis": "Wie die von Bieln und Nydöw zwei starki schlos in Bürgün mit stürmen gewunen und gross gut.",
+ "edice": "Büchi 1914, ř. 986–990 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  178,
+  179
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 178, 179."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bieln und Nydöw zwei starki schlos in Bürgün mit stürmen gewunen und gross gut.",
+   "preklad": "79. Jak lidé z Bielu a Nidau dobyli útoky dva silné hrady v Burgundsku a velký lup."
+  }
+ ],
+ "poznamky_editora": [
+  "') L’Isle musste einen Brandschatz von 100 U entrichten, vgl. Biiclr, Freiburger Akten 22. Anonyme Chronik 515. — J ) Vgl. dazu auch Tütch 69, der in diesem Zusammenhang noch Villechevreux (Villetschefriel und Courchaton (Cortschettun) anführt, Eigentum des Herrn Johan von Befermunt zu Say. — J ) Zur Einnahme von Montby v. a. Schlösser, Tusch 70."
+ ],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 178, 179“; text zřejmě odpovídá Schillingovi (kap. 178–179).",
+  "Büchi (poznámka 3 v tomto souboru): k dobytí Montby a dalších hradů viz Tütsch 70. Ostatní dvě poznámky uložené u této kapitoly patří ke kap. 77 a 78 a jsou využity tam.",
+  "Oprava textu: odstraněn zbytečný odstavec „. 5“ (číslo řádku) a značka poznámky „3 )“, „BUrgUn“ → „Bürgün“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

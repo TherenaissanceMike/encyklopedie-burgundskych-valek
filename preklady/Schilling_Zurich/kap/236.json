@@ -1,0 +1,30 @@
+{
+ "cislo": 236,
+ "nadpis": "Das der Eidgnossen knechte gar menig mal in Burgunnen zugent und inen gar grossen schaden und abbruch tatent.",
+ "edice": "Tobler I, s. 336",
+ "rukopis_strana": 568,
+ "odstavce": [
+  {
+   "text": "236. Das der Eidgnossen knechte gar menig mal in Burgunnen zugent und inen gar grossen schaden und abbruch tatent.",
+   "preklad": "236. Jak knechti konfederátů velmi mnohokrát táhli do Burgundska a působili jim velmi velkou škodu a újmu."
+  },
+  {
+   "text": "Nü kom ich wider uf den rechten grund und sach dis kriegs mit dem herzogen von Burgunnen, ouch denen von Bern und allen iren Eidgnossen und gewanten in der nüwen einung vergriffen. Derselb krieg nutzit destminder offen stünd und schedigetent beid teil einandern, wo si mochten und sunderlich der Eidgnossen knechte, die gar dicke in Burgunnen zugent und si an irem libe und güt angriffen und grossen abbruch und schaden tatent an irem veche und andern dingen. Do lag der herzog von Burgunnen dennoch mit sinem züge in Lothringen vor der stat Nanse, die er ouch bald darnach gewan, darinne gar vil fromer lüten von rittern und knechten und ouch ander warent vom Sunkow, Brisgow und ouch andern enden har, denen man gar gern geholfen, und wie man vermögen erlöst hette.",
+   "preklad": "Nyní se vracím k vlastnímu základu a věci této války s vévodou burgundským, jakož i Bernských a všech jejich konfederátů a spojenců zahrnutých v novém spolku. Ta válka nicméně trvala otevřeně dál a obě strany si škodily, kde mohly, a zvláště knechti konfederátů, kteří velmi často táhli do Burgundska, napadali [Burgunďany] na životě i statku a působili jim velkou újmu a škodu na dobytku a jiných věcech. Vévoda burgundský tehdy ještě ležel se svým vojskem v Lotrinsku před městem Nancy, které také brzy nato dobyl. V něm bylo velmi mnoho statečných lidí, rytířů i knechtů, a také jiných ze Sundgau, Breisgau a odjinud, kterým by se bylo velmi rádo pomohlo, a kdyby to bylo možné, byli by vysvobozeni."
+  },
+  {
+   "text": "Und wart darumb von den Eidgnossen und allen andern zügewanten gar vil tagen geleist zü Basel, Lutzern und andern enden zü betrachten, wie man die ding fürnemen und handlen wolt.",
+   "preklad": "A proto konfederáti a všichni ostatní spojenci konali velmi mnoho sněmů v Basileji, Luzernu a jinde, aby uvážili, jak se do těch věcí pustit a jak v nich jednat."
+  }
+ ],
+ "poznamky": [
+  "„in der nüwen einung vergriffen“ = zahrnutí v novém spolku (Dolní spojení, Niedere Vereinigung, 1474; určení mimo Tobler).",
+  "„veche“ = dobytek; „tag leisten“ = konat sněm (Tagsatzung).",
+  "Tobler: Nancy kapitulovalo 26. 11. 1475, vévoda Karel vjel do města 30. 11.",
+  "Tobler: sněm v Luzernu 6. 11. 1475 svolal nové jednání o Nancy do Basileje na 14. 11.; akta basilejského sněmu zřejmě chybějí.",
+  "„und wie man vermögen erlöst hette“ přeloženo ‚kdyby to bylo možné, byli by vysvobozeni‘ – věta je eliptická, smysl přibližný.",
+  "Varianty smysl nemění (např. „Und also wider zu kommen uf den rechten grund der vorgenanten kriegen“; „von denen von Bern und andern Eidgnossen und verwanten mengerlei betrachtet und tag geleistet“)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

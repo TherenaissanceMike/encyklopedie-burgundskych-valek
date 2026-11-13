@@ -1,0 +1,22 @@
+{
+ "cislo": 8,
+ "nadpis": "Von einem manlichen scharmutzen etlicher knechten von Bern und Solotern.",
+ "edice": "Tobler I, s. 13–14",
+ "rukopis_strana": 22,
+ "odstavce": [
+  {
+   "text": "8. Von einem manlichen scharmutzen etlicher knechten von Bern und Solotern.",
+   "preklad": "8. O mužné potyčce několika knechtů z Bernu a Solothurnu."
+  },
+  {
+   "text": "Vor disen sachen und e die zweihundert man hinab kament, do warent bi drissig knechten von Bern und Solotern umb sold ze Mulhusen gelegen; die hatten ouch von den vienden mengerlei anreitzen gehebt, und zugen einsmals mit denen von Mülhusen fur die stat. Da kament die viend von Brunstat harus gein inen mit ganzer macht zü ros und füs, und vermeintent si gar liechticlich umb ze bringen. Also staltent sich dieselben knechte als ritterlich ze weri und taten inen als ein manlichen widerstand, das die viend wichent, und kament ouch etlich umb und wurden inen vil rossen erstochen.",
+   "preklad": "Ještě před těmito věcmi, než těch dvě stě mužů přitáhlo dolů, leželo v Mulhouse za žold asi třicet knechtů z Bernu a Solothurnu. I ti zažili od nepřátel mnohé útoky a jednou vytáhli s Mulhouseskými před město. Tu proti nim vyrazili nepřátelé z Brunstattu celou mocí na koních i pěšky a mysleli, že je velmi snadno pobijí. Ti knechti se však tak rytířsky postavili na odpor a tak mužně se jim vzepřeli, že nepřátelé ustoupili; několik jich padlo a mnoho koní jim bylo probodeno."
+  }
+ ],
+ "poznamky": [
+  "Skrytá kapitola 8: nadpis „8. Von einem manlichen scharmutzen etlicher knechten von Bern und Solotern.“ (v OCR „Ss.“, surové ř. 1185–1186) OCR nepoznalo; oddělen jako samostatný odstavec. Text kap. 8 je na ř. 1189–1198 a po zlomu strany pokračuje na s. 14 (ř. 1241–1244). Varianta nadpisu: „Das manlich scharmutzen, so von etlichen … beschach“.",
+  "Kap. 8, Tobler: že už dříve byli v Mulhouse konfederační žoldnéři, potvrzuje Cartulaire III, č. 1174 a 1177; potyčka byla asi v polovině dubna 1468."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 67,
+ "nadpis": "Von herr Peters von Hagenbachs, des Burgunschen landvogts, regiment, und wie er sich in mengen stucken hielt.",
+ "edice": "Tobler I, s. 102",
+ "rukopis_strana": 149,
+ "odstavce": [
+  {
+   "text": "67. Von herr Peters von Hagenbachs, des Burgunschen landvogts, regiment, und wie er sich in mengen stucken hielt.",
+   "preklad": "67. O vládě pana Petera von Hagenbach, burgundského zemského fojta, a jak si počínal v mnoha věcech."
+  },
+  {
+   "text": "Und als nü der vorgenant lantvogt, der von Hagenbach, die verpfanten lande und herschaften, edel und gemeinden, in eid nam und beide, der herzog von Burgunnen und er, inen das mit briefen und siglen bevestneten und gelobtent, si alle und ieglichen bi iren friheiten, privilegien und altem herkomen unbeswert bliben zü lassen, vergas er des alles. Und von stund an understünd er etlichen edellüten, denen von Halwil und andern ir slos, güter und herlicheit mit gewaltsamer frevelkeit inzenemen und si von dem iren zü triben, als er ouch mit dem slos Lanser und anderm handlete.",
+   "preklad": "A když zmíněný zemský fojt Hagenbach vzal od zastavených zemí a panství, od šlechty i obcí, přísahu a oba, burgundský vévoda i on, jim listy a pečetěmi stvrdili a slíbili, že je všechny i každého zvlášť ponechají bez obtěžování při jejich svobodách, privilegiích a starých zvyklostech, na to všechno zapomněl. A hned se pokusil některým šlechticům, pánům von Hallwil a jiným, násilnou svévolí zabrat jejich hrady, statky a panská práva a vyhnat je z jejich majetku, jak také naložil s hradem Landser a s jinými věcmi."
+  },
+  {
+   "text": "Und was das an dem ende der edlen halb in einen weg wol, wann inen beschach glich als den fröschen, so den storken zü irem kung erwaltent. Wann hettent der herschaft lantvögt und edlen iren rechten natürlichen herren in verachtunge nit angereitzet, damit si in gewalt der Welschen kament und hettent den Eidgnossen güt nachburschaft, frid und gnad gehalten, so were inen dis nit begegnet. Aber der almechtige gotte, so alle ding berichsnet, wolt si durch soliche kestigunge ir missetat befinden und dabi erschowen lassen, was selden und güts von friden und güter nachburschaft kompt und das semlich untruw, nid und has wurzelen aller untugenden sind.",
+   "preklad": "Co se šlechty týče, stalo se jim to svým způsobem právem, neboť dopadli jako žáby, které si za krále zvolily čápa. Kdyby totiž zemští fojtové a šlechta [rakouského] panství z pohrdání [konfederáty] nepopouzeli svého pravého, přirozeného pána, čímž se dostali do moci Vlachů, a kdyby s konfederáty udržovali dobré sousedství, mír a přízeň, nebylo by se jim to stalo. Ale všemohoucí Bůh, který všechny věci řídí, je chtěl takovým trestem přivést k poznání jejich provinění a ukázat jim, kolik požehnání a dobra pochází z míru a dobrého sousedství a že taková nevěra, závist a nenávist jsou kořeny všech neřestí."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Türing von Hallwil, zástavní držitel Landseru, zemřel r. 1469; Hagenbach se stal fojtem hradu 20. 8. 1470. O „násilné svévoli“ při převzetí zástavy podle Toblera nebylo řeči; Hagenbachova tvrdá opatření se však šlechty skutečně dotkla (Witte).",
+  "Tobler: bajka o žábách a čápovi je Ezopova, zná ji i Bonerův Edelstein. Žáby si vyprosily krále a dostaly čápa, který je požíral: šlechta, která chtěla Burgundsko, dostala Hagenbacha.",
+  "„die Welschen“ = Vlaši, románsky mluvící, zde Burgunďané. „der herschaft lantvögt und edlen“ = rakouští fojtové a šlechta. Vložky v hranatých závorkách vyjadřují smysl věty, která je v originále nejasně stavěná.",
+  "„berichsnen“ = řídit, vládnout (glosář); „kestigunge“ = trest, kázeň; „selden“ = štěstí, požehnání.",
+  "Bernské varianty: „irem kung“, „handelt“. Oprava textu: „semlieh“ → „semlich“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

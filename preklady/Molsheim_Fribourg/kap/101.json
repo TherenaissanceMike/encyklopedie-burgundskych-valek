@@ -1,0 +1,34 @@
+{
+ "cislo": 101,
+ "nadpis": "Wie die beden stett Bern und Friburg dem grafen von Gryers schriben von der herzogin von Savoy wegen.",
+ "edice": "Büchi 1914, ř. 1129–1137 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  201
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 201.",
+  "Vgl. Schilling C. 201, al. 2 und 3."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die beden stett Bern und Friburg dem grafen von Gryers schriben von der herzogin von Savoy wegen.",
+   "preklad": "101. Jak obě města Bern a Fribourg psala hraběti z Gruyères kvůli vévodkyni savojské."
+  },
+  {
+   "text": "102. Wie der graf von Gryers und ander herren von Savoy gan Friburg und Bern kamen und die herzogin mit glatten Worten entschuldigen wolten.",
+   "preklad": "102. Jak hrabě z Gruyères a jiní savojští páni přišli do Fribourgu a do Bernu a chtěli vévodkyni omlouvat úlisnými slovy."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Vgl. Büchi, Freiburger Akten 22, ferner den Eintrag über eine Gesandtschaft Rud. v. Wippingen nach Bern pour le fet de cellour d’Ormont, >"
+ ],
+ "poznamky": [
+  "Text: odstavec [1] je skrytý nadpis kap. 102. Pod oběma nadpisy Büchi Molsheimův text netiskne, jen odkazuje na Schillinga (C. 201, resp. C. 201, al. 2 a 3); list hraběti z Gruyères a vyprávění o jeho návštěvě je tedy třeba číst u Schillinga. Odstraněny dva strojově připojené odstavce, které byly zbytky Büchiho poznámek pod čarou.",
+  "Büchi: list je v rukopise A datován jen „anno 1475“, varianty jej kladou na 4. 3. 1475, Schilling na 12. 11. 1474 (hrabě byl ve Fribourgu 15. 11. 1474). Kvůli zmínce o potupě ve Vevey (březen 1475) drží Büchi datum 1475.",
+  "Büchi (ke kap. 102): začátkem září 1475 byl hrabě z Gruyères ve Valperze, snad aby podal zprávu o svém zprostředkování; tehdy Bernští a Fribourgští ujistili vévodkyni o svém mírumilovném smýšlení. Hrabě František z Gruyères zemřel v květnu 1475 a nastoupil po něm syn Ludvík.",
+  "Oproti Schillingovi: v nadpisech píší list obě města (u Schillinga jen Bernští) a savojští páni přicházejí do Fribourgu i do Bernu (u Schillinga jen do Bernu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

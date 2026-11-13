@@ -1,0 +1,29 @@
+{
+ "cislo": 104,
+ "nadpis": "Wie die herzogin von Savoy an dem tag ze Luczern liess werben umb einen bund an dieselben Örter und Bern usgeschlossen.",
+ "edice": "Büchi 1914, ř. 1148–1151 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  201
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 201, al. 6."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die herzogin von Savoy an dem tag ze Luczern liess werben umb einen bund an dieselben Örter und Bern usgeschlossen.",
+   "preklad": "104. Jak vévodkyně savojská dala na sněmu v Luzernu usilovat o spolek s týmiž místy, s vyloučením Bernu."
+  },
+  {
+   "text": "Darzu liess sy ouch an die Eydgnossen werben umb einen ewigen pund mit den syben orten mit ir ze machen. Und hatt harinn die von Bern usgesetzt und verachtet in vergessner wis alles des güten, so ein statt von Bern dem hus von Savoye je getan hatt und hette ouch gern einen Unwillen, zwitracht und uneinhelikeit zwuschen den von Bern und iren lieben Eydgnossen angetragen und gemacht. Sy waren aber von den gnaden gottes so from, wis und vernünftig, das sy wol markten, warumb oder in welcher meinung das beschach und das durch ir willen noch antragen ir schamlich anbringen nit getün noch gestatten wolten, in keinem weg, wiewol mengerlei gesücht [?] wart anreuzen mit schenken. Doch wart darnach ettlichem buben, der und durch den semlicher antrag und vereterye zügieng, syn rechter Ion, denn er darnach ze Lyon ertrenkt wart.",
+   "preklad": "K tomu dala u konfederátů také usilovat, aby s ní uzavřeli věčný spolek se sedmi místy. A Bernské v něm vynechala a pominula, zapomínajíc na všechno dobré, co kdy město Bern domu savojskému prokázalo; a ráda by také mezi Bernskými a jejich milými konfederáty podnítila a způsobila nevoli, svár a nesvornost. Ti však byli z milosti Boží tak řádní, moudří a rozumní, že dobře poznali, proč a v jakém úmyslu se to děje, a nechtěli její hanebné návrhy podle její vůle a navádění nijak přijmout ani strpět, ačkoli se mnohokrát zkoušelo [je] popudit dary. Později se však jistému darebákovi, skrze něhož takové návrhy a zrada šly, dostalo jeho spravedlivé odměny, neboť byl potom v Lyonu utopen."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR: brtren → orten (sedm míst), liarinn → harinn, getiin → getün, btibeii → buben; „gestiebt“ čteno jako „gesücht“ [?] (smysl: mnohokrát se zkoušelo popouzet dary).",
+  "Büchi: sněm 9. 4. 1475. Šlo hlavně o to izolovat Bern a odtrhnout od něj Fribourg, kdežto Bern chtěl Savojsko donutit, aby se zřeklo Burgundska. Kdo je utopený darebák, podle Büchiho z pramenů zřejmé není; rukopis S však na okraji dodává „was genant Egli“ (srov. Johanna Egliho u kap. 103). Rukopis C má místo sedmi míst šest."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

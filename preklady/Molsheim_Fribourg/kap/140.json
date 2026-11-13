@@ -1,0 +1,40 @@
+{
+ "cislo": 140,
+ "nadpis": "Wie die von Bern gemeinen Eidgnossen schribend und si manten, die iren so ze Granssen waren belegen, helfen entschütten.",
+ "edice": "Büchi 1914, ř. 1667–1680 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  253,
+  254,
+  255
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schillig C. 253-55."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern gemeinen Eidgnossen schribend und si manten, die iren so ze Granssen waren belegen, helfen entschütten.",
+   "preklad": "140. Jak Bernští psali všem konfederátům a vyzývali je, aby pomohli vysvobodit jejich lidi, kteří byli obleženi v Grandsonu."
+  },
+  {
+   "text": "Dis fürnemen des hochmütigen herzogen von Burgün mit synem gewalt an dem schlos Gransen hatten die [bede stett] Bern [und Friburg] von stund an wol vernomen und geriet inen die sach, als ouch billich was, ser und vast zu herzen gan. Und wurden bede stette ze ratt, diss angendes iren trüwen Eydgnossen und andren zügewanten verschriben und wüssen lassen, das ouch beschach. [Und ward allen Eydgnossen und zügewanten geschriben und gemant und früntlich erbetten.] Und zugen also die von Bern us mit ir paner schnell und mit aller ir macht gen Murten. Es zugen ouch us die fromen, vesten, unser herzfründ und besunder lieben, getrüwen mitburger von Friburg mit ir statt paner und ouch mit ganzer macht. [Und beschach dieser zug uff der jungen Vasnacht, was der 26. tag Hornungs, in dem jare, als man zalte 1476 jar. Und was houptman Peterman von Foucignie. Und waren sin rät Willi Töchterman, Ulman von Garmisswil, Tschan Guglenberg und panerher Hans Töchterman, venner dozümal. Und truog die paner Hans Herman, der küfer.] Es kamen ouch die von Solotern, Bielen mit aller macht, und beleib man also ze Murten und in derselben gegni ze erwarten, biss das die andren Eydgnossen und zügewanten ouch harzükemend.",
+   "preklad": "O tomto počínání zpupného vévody burgundského a jeho síly proti hradu Grandson se [obě města] Bern [a Fribourg] ihned dobře dozvěděla a věc jim, jak bylo také náležité, šla velmi hluboko k srdci. Obě města se usnesla, že to neprodleně napíší a oznámí svým věrným konfederátům a ostatním spojencům, což se také stalo. [Všem konfederátům a spojencům bylo napsáno, byli vyzváni a přátelsky požádáni.] A tak Bernští rychle vytáhli se svou korouhví a celou mocí k Murtenu. Vytáhli také stateční, pevní, naši srdeční přátelé a zvlášť milí, věrní spoluměšťané z Fribourgu se svou městskou korouhví a také s celou mocí. [Toto tažení se stalo o mladém masopustu, totiž 26. dne února, v roce, kdy se psalo 1476. Hejtmanem byl Peterman von Faucigny. Jeho radními byli Willi Tochterman, Ulman von Garmiswil, Tschan Guglenberg a praporečník Hans Tochterman, tehdejší venner. Korouhev nesl Hans Herman, bednář.] Přišli také Solothurnští a Bielští s celou mocí, a tak se zůstalo v Murtenu a v jeho okolí čekat, dokud nepřijdou i ostatní konfederáti a spojenci."
+  },
+  {
+   "text": "Die Eydgnossen schriben ouch denen von Bern, das sy nütz mit dem herzogen sötten anfachen, biss das sy ouch zu inen kemen, denn sy wölten ouch mit ganzen trüwen zu inen ziechen und lib und leben by inen lassen. Das ouch die von Bern mit iren lieben und getrüwen mitburgren von Friburg begonden betrachten, [darumb sy ouch nüt wolten anfachen, denn mit hilf und ratt irer getrüwer Eydgnossen]. Und beliben also ze Murtten, ir do ze erwarten, die ouch zu inen tröstlich kamen [mit einer grosser macht und frölichem, tröstlichem volk].",
+   "preklad": "Konfederáti také psali Bernským, aby proti vévodovi nic nepodnikali, dokud k nim nepřijdou, neboť i oni chtějí s plnou věrností přitáhnout k nim a nasadit u nich život i hrdlo. To začali uvažovat i Bernští se svými milými a věrnými spoluměšťany z Fribourgu [a proto nechtěli nic podnikat, leda s pomocí a radou svých věrných konfederátů]. A tak zůstali v Murtenu, aby na ně počkali; ti k nim pak také povzbudivě přišli [s velkou mocí a s veselým, statečným lidem]."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. Fries 402. Es muss der 27. Februar heissen, wie sich aus Fries deutlich ergibt. Fries 411, setzt auch den Aschermittwoch (23. Februar) auf den 27; er berücksichtigt das Schaltjahr nicht. Hauptmann und Kriegsräte waren schon am 11. Februar bes'ellt worden, vgl. oben S. 131. A. 1. —"
+ ],
+ "poznamky": [
+  "Text: z nadpisu odstraněno číslo řádku a odkaz „Vgl. Schillig C. 253-55.“ (přesunut do schilling_odkaz, doplněno pole schilling). Z textu odstraněny vmíchané Büchiho poznámky (ke kap. 139 a 140) a celý třetí strojový odstavec, který byl jen poznámkou pod čarou; text rozdělen na dva odstavce. OCR opraveno: Grausen → Gransen, ivas → was, er betten → erbetten, „sin reit“ → „sin rät“, „holman ton Garmisswil“ → „Ulman von Garmisswil“ (podle Büchiho: Ulman Garmenswil), „venner dozünud“ → „venner dozümal“, herziikemend → harzükemend, „näz … getrüiver“ → „nüt … getrüwer“.",
+  "„Venner“ je ve Fribourgu představený jedné ze čtyř městských čtvrtí a jejího praporu; „panerher“ = praporečník (nositel městské korouhve). Varianty: A měl původně „her Peterman von Foncinie ritter“ („her“ a „ritter“ škrtnuto); jméno Hanse Tochtermanna je v A připsáno později na okraji.",
+  "Büchi: datum má být 27. února (úterý masopustní), jak jasně plyne z Friese, který nepočítá s přestupným rokem. Hejtman a váleční radové byli jmenováni už 11. 2.; podle radního manuálu byli radními i Hans Vögeli a Nicod Perrotet. Manuál uvádí i kontingenty spojenců a poddaných Fribourgu, stráže a nařízení o kázni a kořisti. Polním kaplanem fribourgského vojska byl „her Pauly, chapellain de larmee“.",
+  "Büchi: hrabě z Gruyères se obával útoku hraběte z Romontu a pánů z Torrens (držitelů Aigle), proto chtěl Fribourg 11. 2. stáhnout své žoldnéře z Payerne. Hejtmanem Solothurnských byl Konrad Vogt; Biel poslal 212 mužů pod Simonem von Römerstall. Fribourgští se první den utábořili v Kerzers. Fribourgští se chystali přijmout a pohostit konfederátní posily na svém území a poslali Petermanna Bugnieta k Bernským a k hraběti z Gruyères kvůli Grandsonu (usnesení z 21. a 24. 2.).",
+  "Oproti Schillingovi (C. 253–255): Molsheim vynechává bernské velitele (Scharnachtal, Hallwyl, Kutler) i bernské listy konfederátům a místo toho jmenuje fribourgské velení: hejtmana Petermana von Faucigny, radní Tochtermana, Garmiswila a Guglenberga, vennera Hanse Tochtermana a nositele korouhve, bednáře Hanse Hermana; navíc datuje vytažení (26. 2.)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

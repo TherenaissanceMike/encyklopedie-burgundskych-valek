@@ -1,0 +1,34 @@
+{
+ "cislo": 119,
+ "nadpis": "Wie die von Losen und ander stettli und herren kamen zu den dryn stetten Bern, Friburg und Solotern und sich brantschatzten und huidoten.",
+ "edice": "Büchi 1914, ř. 1348–1358 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  219
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 219."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Losen und ander stettli und herren kamen zu den dryn stetten Bern, Friburg und Solotern und sich brantschatzten und huldoten.",
+   "preklad": "119. Jak Lausannští a jiná městečka a páni přišli ke třem městům Bernu, Fribourgu a Solothurnu, vykoupili se výpalným a holdovali."
+  },
+  {
+   "text": "Und diewil man ze Orben lag, dazwüschen ergaben sich gar vil schlösser und stettly an die dry stett Bern, [Friburg und Solotern], denn jederman in dem land erschrocken was; und gesachent wol, das sy keinen widerstand vermöchtent noch kein hilf noch entschüttung von iren herren nit hattend. Es kamen ouch vil landsherren und von stetten und schlossren, die sich liessend brantschatzen und ouch huldoten und schwüren den dryn stetten. Darzü kamen ouch die von Losen mit ir treffenlich bottschaft und liessen sich schetzen umb 7000 welscher gülden, die ouch nachmalen bezalt wurden.",
+   "preklad": "A zatímco se leželo v Orbe, vzdalo se mezitím třem městům Bernu, [Fribourgu a Solothurnu] velmi mnoho hradů a městeček, neboť každý v zemi byl vyděšen; dobře viděli, že nejsou s to klást odpor a že od svých pánů nemají žádnou pomoc ani vysvobození. Přišlo také mnoho zemských pánů a lidí z měst a hradů, kteří se vykoupili výpalným, holdovali a přísahali třem městům. K tomu přišli i Lausannští se svým význačným poselstvem a dali se zdanit výpalným 7000 vlašských zlatých, které pak také zaplatili."
+  }
+ ],
+ "poznamky_editora": [
+  "') Mittwoch, den 25. Oktober, vgl. Fries 400. lieber die Einnahme von f La Sarraz vgl. ausserdem Rösch, 318, Edlibach 147. Ein Freiburger, Hans"
+ ],
+ "poznamky": [
+  "Büchi: výčet podrobených míst podává fribourgský hejtman Rudolf von Wippingen (Büchi, Freiburger Akten 23), srov. Tüsch 318 a níže kap. 127; u Yverdonu se přidal i Luzern.",
+  "Büchi: uložená výpalná: L'Isle 100 liber, Vuillerens 300, Vufflens 100, Cossonay 300, Morges 300, Nyon 200, Lausanne 2100 (podle Bonstettena asi 28 000 zl.), Viry 300, Ženeva 26 000 écus, Les Brenets 150 zl.; dohromady asi 57 800.",
+  "Büchi: podle Schillinga (kap. 219) se Lausanne vykoupila asi za 2000 rýnských zlatých; stejně čtou rukopisy D a N.",
+  "Oprava textu: odstraněna zbloudilá část Büchiho poznámek uprostřed textu („Wüst wurde dabei verwundet … 60.“) a úvodní značka „V“; spojeny odstavce rozdělené zlomem strany („schwüren / den dryn stetten“); „huidoten“ → „huldoten“, „brantscnatzen“ → „brantschatzen“. Hranaté závorky „[Friburg und Solotern]“ jsou Büchiho (fribourgský doplněk proti jiným rukopisům; D má „Bern und ire mitgewandten“).",
+  "Oproti Schillingovi: Lausanne zaplatila podle Molsheima 7000 vlašských zlatých (Schilling: 2000 rýnských); Molsheim vynechává Schillingovu poznámku o ochraně Panny Marie nad Lausanne."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

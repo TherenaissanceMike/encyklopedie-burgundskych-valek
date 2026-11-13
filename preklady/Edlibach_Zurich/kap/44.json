@@ -1,0 +1,30 @@
+{
+ "cislo": 44,
+ "nadpis": "Hie seitt diss buch wie hertzog reinhart von luttringen jn sin land zog mit etlichen puntgnossen vnd sich für sin houptstatt nanssen leitt die jm der hertzog von brugund hat jnngenomen vnd wie er die wider gewan.",
+ "edice": "Usteri 1847, ř. 8752 souboru edice",
+ "rukopis_strana": 348,
+ "odstavce": [
+  {
+   "text": "Hie seitt diss buch wie hertzog reinhart von luttringen jn sin land zog mit etlichen puntgnossen vnd sich für sin houptstatt nanssen leitt die jm der hertzog von brugund hat jnngenomen vnd wie er die wider gewan.",
+   "preklad": "Zde vypráví tato kniha, jak vévoda Reinhart lotrinský táhl do své země s některými spojenci a položil se před své hlavní město Nancy, které mu vévoda burgundský zabral, a jak ho znovu dobyl."
+  },
+  {
+   "text": "In dissen dingen hertzog reinhartt von luttringen sich besamlett vnd mit den sinnen vnd ettlichen puntgnossen so jm zugezogen sind namlich dess hertzogs sigmunds von östrich lantuogt ein bischoff vnd statt von strassburg ein bischoff vnd statt von bassel kolmer vnd schlettstatt cet. vnd hat also besamlet bin viijm® tütscher vnd vijm sinner walchen vnd also jn sin land gezogen, jn meinung dass widerum zu sinnen handen ze bringen als er ouch den merteil gethan hat vnd besunder sich geleitt für sin houptstatt genant nansse vnd daselbs ob xij wuchen gelegen, vnd beder sitt ein andren mit schiessen vnd scharmützlen grossen trang gethan, doch so habend die brugunschen so der hertzog von brugund jn die stat geleitt hatt die statt nanse vf geben dz man sy mit jr hab liess abziechen als ouch beschach.",
+   "preklad": "Mezitím se vévoda Reinhart lotrinský vypravil se svými lidmi a s některými spojenci, kteří mu přitáhli na pomoc, totiž se zemským fojtem vévody Zikmunda rakouského, s biskupem a městem Štrasburkem, s biskupem a městem Basilejí, s Colmarem a Sélestatem atd. Shromáždil tak asi osm tisíc Němců a sedm tisíc svých Vlachů a táhl do své země s úmyslem dostat ji zase do svých rukou, jak to také z větší části udělal. Zvláště se položil před své hlavní město jménem Nancy a ležel tam přes dvanáct týdnů a obě strany si navzájem střelbou a šarvátkami velmi přitížily. Nakonec však Burgunďané, které tam vévoda burgundský položil, město Nancy vydali pod podmínkou, že je nechají odtáhnout s jejich majetkem, jak se také stalo."
+  },
+  {
+   "text": "Item vnd als nun die statt gewunnen wz woltend etlich witter dem hertzog von brugun jn sin land züchen vnn etliche wider heim, jndem besamlot sich hertzog karols von brugund ouch wider zog den nächsten gan luttringen zu vnd leitt sich zu feld also zugend die tütschen mit dem hertzog von luttringen gegen dem brugunschen hertzogen vnd slugend sich gegen jm ouch ze feld als nach dz sy mit einandren wol reden mochtend vnd torst kein teil den andren nüt angriffen, da zugend die luttringschen jn ein ander leger, vnder den dingen kam dess hertzogen von östrich lantschaft vss dem sunköw mit iij° fusknechten gar nach biss an dazselb leger, darjn die luttringschen vormalss gelegen warend vnd wüstend nüt anderst den dz sy noch darin lägend da warend die brugunschen darjn geruckt vnd zogen vnd sachend nun die iij° obgenanten knächt wol gegen innen gestrackes züchen vnd konde dz die brugunschen nüt verwundren jn wellichen fug sy also manlichen gegen jnen zugend.",
+   "preklad": "Dále, když bylo město dobyto, chtěli někteří táhnout dál za vévodou burgundským do jeho země a někteří zase domů. Mezitím se také vévoda Karel burgundský znovu vypravil, táhl nejkratší cestou do Lotrinska a utábořil se v poli. Tu táhli Němci s vévodou lotrinským proti burgundskému vévodovi a utábořili se proti němu také v poli, tak blízko, že spolu mohli dobře mluvit, a žádná strana se neodvážila napadnout druhou. Tu se Lotrinčané přesunuli do jiného tábora. Mezitím přišel lid z rakouské země Sundgau se třemi sty pěšími knechty až skoro k tomu táboru, v němž předtím leželi Lotrinčané, a nevěděli nic jiného, než že tam ještě leží. Ale do něj se přesunuli a vtáhli Burgunďané. A Burgunďané teď dobře viděli, jak ti tři sta zmínění knechti táhnou přímo proti nim, a nemohli se dost vynadivit, jak to, že proti nim jdou tak mužně."
+  }
+ ],
+ "poznamky": [
+  "Usteri: Belagerung von Nancy (v rukopisu ilustrace nebo mezititulek)",
+  "Vévoda Reinhart = René II. Lotrinský; Nancy se Burgunďané vzdali počátkem října 1476 (mimo text). Edlibachových „přes 12 týdnů“ obléhání neověřuji.",
+  "„lantuogt“ zemský fojt vévody Zikmunda je v té době Oswald von Tierstein (srov. Schilling kap. 182) (mimo text).",
+  "„sinner walchen“ = jeho románsky (francouzsky) mluvící poddaní, Lotrinčané.",
+  "Oprava OCR: „iij fusknechten“ → „iij° fusknechten“ (300), podle téže věty („iij° obgenanten knächt“) a nadpisu kap. 45. Dále reinhartt. → reinhartt, lantaogt → lantuogt, „cet. von hat“ → „cet. vnd hat“, wilter → witter, luttrinen → luttringen.",
+  "„lantschaft“ = lid ze země (zemská hotovost), ne území."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

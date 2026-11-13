@@ -1,0 +1,41 @@
+{
+ "cislo": 367,
+ "nadpis": "Hienach stand die sachen und ansprache von dem krieg ze Bellenz.",
+ "edice": "Tobler II, s. 194",
+ "rukopis_strana": 906,
+ "odstavce": [
+  {
+   "text": "367. Hienach stand die sachen und ansprache von dem krieg ze Bellenz.",
+   "preklad": "367. Zde následují věci a nároky týkající se války u Bellinzony."
+  },
+  {
+   "text": "Do man zalt von gottes gebürt tusent vierhundert sibenzig und acht iare, erhüp sich ein stoss zwüschent den herzogen von Meyland an einem und denen von Ure am andern teil, von ursach wegen, das die von Ure meinten, das den iren von Liffinen von den vorgenanten herzogen von Meylant und den iren a[?] gewalts und unrechts beschech in disen hienach genempten stucken.",
+   "preklad": "Když se psalo od narození Božího tisíc čtyři sta sedmdesát osm let, vznikl spor mezi milánskými vévody na jedné a Urijskými na druhé straně, a to proto, že Urijští měli za to, že se jejich lidem z Leventiny od jmenovaných milánských vévodů a jejich lidí děje [?] násilí a bezpráví v těchto níže jmenovaných kusech."
+  },
+  {
+   "text": "Namlichen am ersten, so were in irem lande Liffinen ein probstie gelegen, genant zem Clösterli. Dieselb probstie hette einer von Meylant an iren willen ze Rome erworben und understanden an sich ze ziechen, das aber inen nit gefellig were und ouch nit meinten ze vertragen.",
+   "preklad": "Zaprvé: v jejich zemi Leventině leží proboštství zvané „u Klášteříčku“ (zem Clösterli). To proboštství kdosi z Milána bez jejich vůle získal v Římě a pokusil se je přivlastnit, což se jim nelíbilo a nemínili to snášet."
+  },
+  {
+   "text": "Das ander, so understünde ein bischof von Meyland oder von derselben art, wann der harus in Liffinen in dieselbe probstie des Clösterlis keme, so müsten die undertanen daselbs im und allen denen, die er mit im brechte, ein köstlich mal geben, das die von Ure fürer ouch nit me liden noch vertragen woltent.",
+   "preklad": "Zadruhé: milánský biskup nebo kdo z toho rodu si osoboval, že když přijde ven do Leventiny do onoho proboštství Klášteříčku, musejí mu tamější poddaní i všem, které s sebou přivede, vystrojit nákladnou hostinu, což Urijští už dále nechtěli trpět ani snášet."
+  },
+  {
+   "text": "Das dritt stucke, so werent etlich von Liffinen, die hettent güter in der herschaft Bellenz oder umb Meylant ligen; dieselben güter werent von den herzogen oder den iren beladen worden, das si davon ierlich zwen duccaten stür oder tell müsten geben, das si ouch nit wolten vertragen.",
+   "preklad": "Třetí kus: někteří z Leventiny měli statky v panství Bellinzona nebo u Milána; ty statky vévodové nebo jejich lidé zatížili tak, že z nich museli ročně platit dva dukáty daně nebo poplatku, což také nechtěli snášet."
+  },
+  {
+   "text": "Das vierde stuck, so werent von der herzogen undertanen den iren von Liffinen vier kestenböme in irem lande abgehöwen und das heimlich understanden, darumb si ouch wandel und bekerung begertent.",
+   "preklad": "Čtvrtý kus: vévodští poddaní pokáceli jejich lidem z Leventiny v jejich zemi čtyři kaštanovníky, a to tajně, za což také žádali nápravu a náhradu."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do vyčištěného textu byly vlepeny řádky variant a zbytky Toblerových poznámek („Betrifft das Spital…“, „Kastanienwälder…“); odstraněny. Odstavce rozděleny podle edice (úvod a čtyři kusy). V nadpisu OCR „Bellen.)“ opraveno na „Bellenz.“ (znak poznámky). Odstraněny zbloudilé „'“, „_“, „,:“.",
+  "„a gewalts“ [?]: OCR má jen „a“; zřejmě poškozené slovo (snad „vil“ nebo „al“), v překladu vynecháno.",
+  "Varianta nadpisu: „Hienach vindet man von krieg von Bellenz mit denen von Ure und andern Eidgnossen ergangen“. Varianta (B) celý text od „in disen hienach genempten stucken“ do konce kapitoly vynechává a má místo toho: (násilí) se jim děje v mnoha kusech od [duchovních] i světských osob, za což se u nich nemohli dovolat práva, a proto vyzvali Bernské a jiné konfederáty, aby jim pomohli to pomstít, neboť to už déle nechtěli snášet, jak jsou tyto nároky dále zapsány v jiných bernských knihách.",
+  "Tobler: tzv. Irniská (Giornická) válka 1478; milánskou vládu vedla za nezletilého syna Gian Galeazza vévodkyně-vdova Bona. Spor o „Klösterli“ se týká špitálu v Pollegiu (viz mírová smlouva, Absch. II, 678); o „klösterli“ mluví i píseň Hanse Viola. Kaštanové lesy ležely v milánských vesnicích Iragna a Lodrino; podle Edlibacha by se zdálo, že spor o ně byl jedinou příčinou války.",
+  "Místa: Liffinen = Leventina (něm. Livinen), Bellenz = Bellinzona, Meyland = Milán, Ure = Uri."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

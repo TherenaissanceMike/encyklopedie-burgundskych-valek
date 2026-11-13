@@ -1,0 +1,23 @@
+{
+ "cislo": 9,
+ "nadpis": "Das Tudenheim von den zweihundert mannen verbrant wart.",
+ "edice": "Tobler I, s. 14",
+ "rukopis_strana": 24,
+ "odstavce": [
+  {
+   "text": "9. Das Tudenheim von den zweihundert mannen verbrant wart.",
+   "preklad": "9. Jak těch dvě stě mužů vypálilo Didenheim."
+  },
+  {
+   "text": "Darnach zugent aber die soldner von Bern und Solotern us, darumb das si denen von Mulhusen und sunderlich irem veche möchten gras und fütre bringen, dann si alles ir veche tag und nacht in der stat müsten haben und weiden und torften das nit harus triben, dann es zü ring umb si alles vol vienden was; und kamen also gen Tudenheim in das dorf, das verbrantent si, und nament was da was und zugent wider heim.",
+   "preklad": "Potom opět vytáhli žoldnéři z Bernu a Solothurnu, aby Mulhouseským, a zvláště jejich dobytku, přinesli trávu a píci. Všechen svůj dobytek totiž museli dnem i nocí držet a pást ve městě a neodvážili se ho vyhnat ven, protože všude kolem nich bylo plno nepřátel. A tak přišli do vsi Didenheimu, vypálili ji, vzali, co tam bylo, a táhli zase domů."
+  }
+ ],
+ "poznamky": [
+  "Datum: ve středu před Božím Tělem = 15. 6. 1468 byla vypálena a vyloupena ves Didenheim i s „koufhus“ (kupeckým domem) (mulhouský záznam, Cartulaire III, 236; Tobler). Tudenheim = Didenheim (Tobler).",
+  "Varianty: „soldner“ chybí; „verbrantent si ze grund“ (do základů).",
+  "Oprava OCR: „9,“ → „9.“, „sı“ → „si“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

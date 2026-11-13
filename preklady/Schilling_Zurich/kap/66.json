@@ -1,0 +1,30 @@
+{
+ "cislo": 66,
+ "nadpis": "Das die von Strasburg von der vorgenanten sach wegen für Hochen Gerolzeck zugent.",
+ "edice": "Tobler I, s. 101",
+ "rukopis_strana": 146,
+ "odstavce": [
+  {
+   "text": "66. Das die von Strasburg von der vorgenanten sach wegen für Hochen Gerolzeck zugent.",
+   "preklad": "66. Jak Štrasburští kvůli zmíněné věci vytáhli k Hohengeroldsecku."
+  },
+  {
+   "text": "Und als nü Schuttern stat und slos des vorgenanten von Gerolzecke was und in sinen handen stünd und er sich des von Höwdorf ouch annam und im heimlichen züschüptet, darumb zugent die von Strasburg angends für sin slos, genant Hochen Gerolzecke, und belagen das mit ganzer macht und irem gezüge in meinung, das zü erobern und zü iren handen zü bringen. Des underwant sich der pfallenzgraf, von dem der von Gerolzecke belechnet was, und wart die sach abgerett und beid teil für den Römschen keiser betädinget.",
+   "preklad": "A protože Schuttern, město i hrad, patřil zmíněnému pánovi z Geroldsecku a byl v jeho rukou a on se Höwdorfera také ujímal a tajně mu pomáhal, vytáhli Štrasburští hned k jeho hradu jménem Hohengeroldseck. Oblehli ho celou mocí a svým dělostřelectvem s úmyslem dobýt ho a dostat do svých rukou. Toho se ujal falckrabě, od něhož měl pán z Geroldsecku léno, a věc byla urovnána a obě strany byly obeslány před římského císaře."
+  },
+  {
+   "text": "Der von Gerolzecke getorst aber darnach die von Strasburg nit fürnemen und lies si ganz unverkumbert ; er smecket wol, das si die von Bern und ander Eidgnossen nit hetten verlassen, als billichen was.",
+   "preklad": "Pán z Geroldsecku se však potom neodvážil Štrasburské napadnout a nechal je zcela na pokoji; dobře poznal, že by je Bernští a jiní konfederáti neopustili, jak bylo správné."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Hohengeroldseck leží východně od Lahru v Ortenau. Štrasburští k němu podle Rupperta vytáhli týž den, kdy padl Schuttern, a obléhali ho po celý velikonoční týden (Velikonoce 1473 = 18. 4.).",
+  "Tobler: 17. 4. se Bern dozvěděl z Basileje o tažení k Geroldsecku. Bernské tažení bylo stanoveno na 20. 4., pak odloženo na 23. 4.; Schwyzští a Luzernští už došli až do Bruggu, když je Bern 21. 4. odvolal. 23. 4. Bern Štrasburským poděkoval a na sněm do Basileje vyslal Niklause von Scharnachtal a Niklause von Diesbach.",
+  "Tobler: zprostředkování falckraběte Fridricha potvrzuje Mone; mír byl uzavřen až r. 1476 (Ruppert).",
+  "„betädingen“ = obeslat, předvolat (glosář); „züschüpten“ = pomáhat (glosář: zuschüp = pomoc); „smecken“ = poznat (glosář); „getorst“ = neodvážil se.",
+  "Bernské varianty: „mit irem züge und ganzer macht, in meinung“, na konci „als das nit unbillichen was“.",
+  "Oprava textu: „züschüp_ tet“ → „züschüptet“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

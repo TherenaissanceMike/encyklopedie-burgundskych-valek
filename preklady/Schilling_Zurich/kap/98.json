@@ -1,0 +1,23 @@
+{
+ "cislo": 98,
+ "nadpis": "Das die achzigtusent güldin umb die verpfanten landschaften durch den herzogen von Oesterich gen Basel geleit wurden.",
+ "edice": "Tobler I, s. 141",
+ "rukopis_strana": 211,
+ "odstavce": [
+  {
+   "text": "98. Das die achzigtusent güldin umb die verpfanten landschaften durch den herzogen von Oesterich gen Basel geleit wurden.",
+   "preklad": "98. Jak vévoda rakouský složil v Basileji osmdesát tisíc zlatých za zastavená území."
+  },
+  {
+   "text": "Man wart ouch zü beiden siten furer ratslagen und dem nachgedenken, diewile und nü solich richtung zügeseit und ie der fürste von Oesterich des willens were, die verpfanten land und lüte wider zü sinen handen zü nemen, mit was glimpfes und füges man dis nü züwegen brechte, das es nach eren des fürsten mit redlicher ursach beschech. Nü was die verpfandunge umb die achzigtusent guldin also zügangen und hat ouch das der herzog von Burgunnen gelobt und verbriefet, wann der herzog von Oesterich die achzigtusent güldin, den pfandschilling, gen Basel oder an ander ende, so dann in der verbriefung bestimpt warent, zü handen des herzogen von Burgunnen leite, das er dann die nemen und dieselben lande : dein herzogen von Oesterich wider zügehören und ouch alsdann die lute, so darin gehorten, ir eiden und pflichten, die si dem herzogen von Burgunnen getan hatten, ledig sin soltent.",
+   "preklad": "Na obou stranách se pak dále radili a přemýšleli o tom – když už byl takový smír přislíben a kníže rakouský byl rozhodnut vzít zastavené země a lidi zase do svých rukou –, s jakým zdáním práva a slušnosti by se to nyní dalo provést, aby se to stalo se ctí knížete a z poctivé příčiny. Zástava za osmdesát tisíc zlatých byla totiž ujednána tak – a burgundský vévoda to také slíbil a stvrdil listinou –, že když vévoda rakouský složí osmdesát tisíc zlatých, totiž zástavní sumu, v Basileji nebo na jiném místě, jež bylo v listině určeno, k rukám burgundského vévody, má je ten přijmout a tytéž země mají zase náležet vévodovi rakouskému; a lidé, kteří k nim patřili, mají být tehdy zproštěni přísah a povinností, které burgundskému vévodovi složili."
+  }
+ ],
+ "poznamky": [
+  "OCR oprava v nadpisu: „seleit“ → „geleit“; v textu „deın“ → „dem“.",
+  "Tobler: podle smlouvy ze Saint-Omer (1469) se měly peníze složit v Besançonu; výše výkupného byla smluvně stanovena jinak a částka 80 000 zlatých je libovolná (podle Witteho).",
+  "„glimpf und füg“ = zdání práva, slušný důvod."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

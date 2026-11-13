@@ -1,0 +1,26 @@
+{
+ "cislo": 331,
+ "nadpis": "Der herren namen, so am strit ze Nanse erslagen wurden.",
+ "edice": "Tobler II, s. 118",
+ "rukopis_strana": 854,
+ "odstavce": [
+  {
+   "text": "331. Der herren namen, so am strit ze Nanse erslagen wurden.",
+   "preklad": "331. Jména pánů, kteří byli zabiti v bitvě u Nancy."
+  },
+  {
+   "text": "Item am ersten der grosmechtig und dürlüchtig fürst, herr Carolus, herzog zu Burgunnen. Denne ein grosser mechtiger landsherr, genannt der von Wieners. Denne herr Jacob Galiet, herr von Arragoss. Denne herr Jacob Galmeit, capitän von Engellant. Denne herr Friderich von Flers, des pfallenzgrafen capitän. Darzü vil ander mechtiger herren, ritter und knechte, der namen ich nit weis, dann sin rechter adel merenteils aller bi im erslagen wart.",
+   "preklad": "Předně velemocný a jasný kníže, pan Karel (Carolus), vévoda burgundský. Dále jeden velký mocný zemský pán, zvaný pán z Wieners. Dále pan Jacob Galiet, pán z Arragoss. Dále pan Jacob Galmeit, kapitán z Anglie. Dále pan Friderich von Flers, kapitán falckraběte. K tomu mnoho jiných mocných pánů, rytířů a panošů, jejichž jména neznám, neboť jeho pravá šlechta byla z valné části skoro všechna u něho pobita."
+  }
+ ],
+ "poznamky": [
+  "„der von Wieners“ = asi Jean de Rubempré, pán z Bièvres (Knebel „herre von Bivers“).",
+  "„Jacob Galiet, herr von Arragoss“ = Neapolitánec Giacomo Galeotto, velitel levého křídla jízdy. Tobler upozorňuje, že ve skutečnosti u Nancy nepadl – unikl přes Meurthe a zemřel až 1488. Varianta: „ein herre und graf von Arragossen“.",
+  "„Jacob Galmeit, capitän von Engellant“ – podle vydavatele basilejských kronik jde nejspíš jen o omylem zopakovaného Galeotta; basilejské prameny zmiňují zajatého Angličana bez jména. Varianta: „graf und capitan“.",
+  "„Friderich von Flers“ = Friedrich von Flersheim, kapitán falckraběte (rýnského).",
+  "Varianty: nadpis „Der herren namen zem teil“ (jména pánů zčásti); „mechtiger“ u zemského pána chybí.",
+  "Kontrola proti OCR: jména souhlasí; opraveno „dürluchtig“ → „dürlüchtig“ (podle varianty)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

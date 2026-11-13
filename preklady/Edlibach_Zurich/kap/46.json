@@ -1,0 +1,36 @@
+{
+ "cislo": 46,
+ "nadpis": "Hie seitt nun diss buch wie der hertzog von brugun wider für nanse jn luttringen",
+ "edice": "Usteri 1847, ř. 8843 souboru edice",
+ "rukopis_strana": 354,
+ "odstavce": [
+  {
+   "text": "Hie seitt nun diss buch wie der hertzog von brugun wider für nanse jn luttringen",
+   "preklad": "Zde vypráví nyní tato kniha, jak vévoda burgundský zase táhl před Nancy v Lotrinsku"
+  },
+  {
+   "text": "zog vnd dz so starck belegret merck fürer cet. vnd wie die von nanse vss der stat",
+   "preklad": "a jak je silně oblehl; dále se dozvíš atd. A jak ti z Nancy vyšli z města"
+  },
+  {
+   "text": "zugend vnd jm bin vj‘ man erstachend vnd jm uil sinner büchssen mit gewalt namend vnd die in der stat graben wurffend.",
+   "preklad": "a asi šest set jeho mužů probodli, mnoho jeho děl mu mocí vzali a naházeli je do městského příkopu."
+  },
+  {
+   "text": "Item alsbald der hertzog von luttringen uss sinnem land gezogen wz ruckt der brugunsch hertzog wider für nansse vnd slug sin leger uff, also uff ein zitt zugend die lamparter vnd fransossen ouch",
+   "preklad": "Dále, jakmile vévoda lotrinský odtáhl ze své země, vyrazil burgundský vévoda znovu před Nancy a postavil tábor. Jednoho dne pak vyšli Lombarďané a Francouzi a také"
+  },
+  {
+   "text": "die burger jung vnd alt haruss vnd machtend die brugunschen von jren houptbüchssen flüchtig vnd erstachend jren bin vj oder vije vnd zugend etliche büchssen mit gewalt biss an die tor, vnd als sy die nüt gar hinjn bringen mochtend wurflend sy die jn der statt graben sy gewunnent ouch etliche fenlin vnd panren vnd kament also wider jn die statt anne schaden.",
+   "preklad": "měšťané, mladí i staří, ven, zahnali Burgunďany od jejich velkých obléhacích děl (bombard), probodli jich asi šest nebo sedm set a některá děla mocí odtáhli až k branám. A když je nemohli úplně dostat dovnitř, naházeli je do městského příkopu. Získali také několik praporců a korouhví a vrátili se bez škody zpátky do města."
+  }
+ ],
+ "poznamky": [
+  "Usteri: Vorstellung (v rukopisu ilustrace nebo mezititulek)",
+  "Nadpis je strojově rozdělen do odstavců 0–2; nic nepřesouvám. Text nadpisu pokračuje do odst. 3–4.",
+  "Oprava OCR: za „ouch“ stálo „21“ (signatura archu edice), odstraněno; bragunsch → brugunsch, wurllend → wurffend.",
+  "„houptbüchssen“ = velká obléhací děla (bombardy). Druhé obléhání Nancy začalo koncem října 1476 (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

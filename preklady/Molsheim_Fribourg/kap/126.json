@@ -1,0 +1,37 @@
+{
+ "cislo": 126,
+ "nadpis": "Wie die von Bern und ander Eygnossen von Ruw gen Friburg kamen und do früntlich enpfangen wurden und noch vil bas gehalten und gelassen.",
+ "edice": "Büchi 1914, ř. 1433–1443 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  226
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 226."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern und ander Eygnossen von Ruw gen Friburg kamen und do früntlich enpfangen wurden und noch vil bas gehalten und gelassen.",
+   "preklad": "126. Jak Bernští a jiní konfederáti přišli z Rue do Fribourgu, byli tam přátelsky přijati a ještě mnohem lépe pohoštěni a propuštěni."
+  },
+  {
+   "text": "Darnach zoch man gen Rüw. Dieselbe statt und schlos sich ouch vorhin ergeben hat. Und gaben jederman win und brott und anders, des man notdürftig was, genüg; wiewol es inen nit am herzen was, so müstent sy es doch tun; und da dannan den nechsten gan Friburg. Da wurden die von Bern und ander Eydgnossen so gar früntlich enpfangen, wol und schön erbotten und noch vil bas gelassen, denn sy schankten jederman insunders win und anders und hatten gar grossen costen, das menklich in meren und gelichen sachen umb sy verdienen und niemerme vergessen sol.",
+   "preklad": "Potom se táhlo do Rue; to město i hrad se rovněž již předtím vzdaly. Dávali každému dost vína, chleba a jiných věcí, kterých bylo třeba; ačkoli jim to nebylo po chuti, museli to přesto udělat. A odtamtud se táhlo nejkratší cestou do Fribourgu. Tam byli Bernští a jiní konfederáti přijati velmi přátelsky, dobře a krásně uvítáni a ještě mnohem lépe propuštěni, neboť [Fribourgští] každého zvlášť obdarovali vínem a jiným a měli s tím velmi veliké náklady; to jim má každý ve větších i podobných věcech oplatit a nikdy nezapomenout."
+  },
+  {
+   "text": "Und als man nu uff Samstag vor Sant Gallentag mit den paneren zü Bern und zu Friburg usgezogen was in dem vorgenanten 75. jar, do kam man uff Allerselentag mit grossen eren wider heimen. Und was man nit me denn dryg wuchen usgesin. Und hatt man in demselben kurzen zitt mit hilf des almechtigen gottes vil stetten und schlosser mit ritterlicher hand und mit dem schwert, mit stürmen und mit grosser arbeit gewunnen und erobret, als denn derselben schlosser und stette namen hienach von wort zu wort eigentlich geschriben statt.",
+   "preklad": "A když se v sobotu před svatým Havlem zmíněného roku [14]75 vytáhlo s korouhvemi z Bernu a z Fribourgu, vrátilo se o Dušičkách s velkou ctí domů. Venku se nebylo déle než tři týdny. A v tom krátkém čase se s pomocí všemohoucího Boha rytířskou rukou a mečem, útoky a s velkou námahou dobylo a podmanilo mnoho měst a hradů, jak jsou jména těch hradů a měst dále slovo od slova přesně zapsána."
+  }
+ ],
+ "poznamky_editora": [
+  "l ) Über den Aufschub und die dadurch veranlassteu Reklamationen vgl. Registre du conseil de Geneve II, 407, 409, 415. Büchi Freiburger Akten 67, 68 und die Schreiben Genfs vom 28. November und 13. Juni, ebenda 111—116. — *) Am Schluss Capitel 190 — 195. Schon Ende November 1475 war ein solcher Ueberfall des Bischofs von Genf geplant, vgl. Schreiben Freiburgs vom 23. November an Bern bei Büchi, Freiburger Missiven Nr. 67. Bern an Luzern 24. Nov. ebenda Nr. 68. Die Freischaren waren bis Yverdon gekommen. — 3 ) Freiburg, den 27. Oktober, s. Fries 400. — 4 ) Vgl. oben C. 122."
+ ],
+ "poznamky": [
+  "Büchi: do Fribourgu se dorazilo 1. listopadu 1475 večer. S Fribourgskými tam přišli i Bernští, Curyšští a Luzernští se svými korouhvemi a byli bohatě pohoštěni (četné položky v účtech pokladníka). Curyšským a Luzernským bylo ve Fribourgu ukradeno; jako pachatelé byli vypátráni Jean Magnyen a Jean Cavella. Curyšští hrozili, že ve městě uloupí stejně nebo víc, a museli být odškodněni; 38 Curyšských nechtělo ve Fribourgu zaplatit útratu, takže hostinského odškodnila rada.",
+  "Data: sobota před sv. Havlem (16. 10.) = 14. 10. 1475 (Büchi: srov. kap. 113); Dušičky = 2. 11. 1475. Büchi k „wider heimen“: totiž do Bernu.",
+  "Oprava textu: spojen odstavec rozdělený zlomem strany („win und » / brott“), oddělen nový odstavec od „Und als man nu uff Samstag“; odstraněny odkazy na poznámky a čísla řádků („r '“, „10“, „15“); „ßüw“ → „Rüw“, „liatt“ → „hatt“, „geschi’iben“ → „geschriben“.",
+  "Oproti Schillingovi: Molsheim táhne z Morges/Lausanne jen přes Rue (Schilling: Rue a Romont; rukopis C má „Rüw und Remondt“) a vytahuje se „s korouhvemi z Bernu a z Fribourgu“ (Schilling jen s bernskou korouhví). Fribourgská pohostinnost je u něj výslovně povinností, kterou má každý Fribourgským oplatit."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

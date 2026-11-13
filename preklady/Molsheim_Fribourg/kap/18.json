@@ -1,0 +1,26 @@
+{
+ "cislo": 18,
+ "nadpis": "Von dem grossen gewalt, so her Peter von Hagenbach erzougte und verbracht an edlen und unedlen in dem land.",
+ "edice": "Büchi 1914, ř. 469–470 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  67,
+  68
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 67 und 68, teilweise gekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Von dem grossen gewalt, so her Peter von Hagenbach erzougte und verbracht an edlen und unedlen in dem land.",
+   "preklad": "18. O velkém násilí, které pan Peter von Hagenbach ukazoval a páchal na urozených i neurozených v zemi."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „Gewalt“ → „gewalt“ (velké písmeno z OCR).",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 67 a 68, zčásti zkráceně) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

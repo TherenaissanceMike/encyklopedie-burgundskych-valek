@@ -1,0 +1,24 @@
+{
+ "cislo": 251,
+ "nadpis": "Das Granson zem andern mal gar harteclichen gestürmt wart.",
+ "edice": "Tobler I, s. 355",
+ "rukopis_strana": 610,
+ "odstavce": [
+  {
+   "text": "251. Das Granson zem andern mal gar harteclichen gestürmt wart.",
+   "preklad": "251. Jak byl Grandson podruhé velmi tvrdě dobýván útokem."
+  },
+  {
+   "text": "Nü darnach an der nechsten mitwochen des vorgenanten iares sturmtent aber die viend an die stat Granson so mit grossem gewalt und macht, das si uf einer siten neben hinin kamen und die stat gewunnen und wart die angst und not als gros, das die fromen lüte von Bern und von Friburg in dem Barfüssencloster der stat warent und nit wistent, das die stat gewunnen was. Und als si die viend so mechticlichen und mit als grossen scharen in der stat gesachen und der innen wurden, do gingent si us dem closter und trungen mit gewerter hand durch al viend und kamend in das slos und enpfiengent leider etwas schaden; doch kamend der vienden an demselben sturm aber gar vil umb, und enthieltent sich do in dem slos, bis si leider schantlich verraten und umbbracht wurden, als harnach wirt gemelt.",
+   "preklad": "Potom příští středu řečeného roku útočili nepřátelé na město Grandson znovu s tak velkou silou a mocí, že se z jedné strany dostali bokem dovnitř a město dobyli. Strach a nouze byly tak velké, že stateční lidé z Bernu a Fribourgu byli v bosáckém klášteře ve městě a nevěděli, že město je dobyto. A když nepřátele uviděli ve městě tak mocně a v tak velkých houfech a uvědomili si to, vyšli z kláštera, se zbraní v ruce se probili skrze všechny nepřátele a dostali se na hrad, přičemž bohužel utrpěli nějakou ztrátu. Avšak nepřátel při tomto útoku opět velmi mnoho padlo. A drželi se pak na hradě, dokud nebyli bohužel hanebně zrazeni a zabiti, jak bude dále oznámeno."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: v nadpisu odstraněny svislice „|“ a OCR „sestürmt“ → „gestürmt“. Edice: s. 355 (OCR záhlaví „359“). Text je úplný.",
+  "Datum: příští středa = 21. 2. 1476 (Tobler).",
+  "Tobler: o druhém útoku z 21. 2. Bernští druhý den psali konfederátům, že vévoda městečko dobyl, ale s velkou ztrátou, neboť příkop i město leží plné mrtvých; z vlastních lidí někteří zahynuli. Je velmi důležité udržet hrad, protože ovládá Neuchâtelské jezero a odtud by mohl nepřítel táhnout na Neuchâtel, Erlach, Biel a Nidau.",
+  "Bernské varianty: „an einer siten … neben darin“, „ouch vil“, závěr „als das harnach bas gelütert wirt“. „mit gewerter hand“ = se zbraní v ruce."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

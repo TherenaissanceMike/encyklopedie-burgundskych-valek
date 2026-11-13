@@ -1,0 +1,28 @@
+{
+ "cislo": 47,
+ "nadpis": "Wie bin vij‘ brugunscher bin sant nicklas port von tütschen erstochen wurdent vnd dz der hertzog von brugund vernam vnd mit dem gantzen züg von nanse vss sim leger zoch den synen zu hilff vnd wie die von nanse jn dem dz leger jm verbranttent cet.",
+ "edice": "Usteri 1847, ř. 8871 souboru edice",
+ "rukopis_strana": 356,
+ "odstavce": [
+  {
+   "text": "Wie bin vij‘ brugunscher bin sant nicklas port von tütschen erstochen wurdent vnd dz der hertzog von brugund vernam vnd mit dem gantzen züg von nanse vss sim leger zoch den synen zu hilff vnd wie die von nanse jn dem dz leger jm verbranttent cet.",
+   "preklad": "Jak bylo asi sedm set Burgunďanů probodeno Němci u Saint-Nicolas-de-Port, jak se to dozvěděl vévoda burgundský a se vším vojskem vytáhl ze svého tábora od Nancy svým na pomoc, a jak mu mezitím ti z Nancy tábor vypálili atd."
+  },
+  {
+   "text": "Item darnach uff vnsser lieben frowen tag der enpfachung am nächsten mentag darfor, begab sich dz des brugunschen hertzogen baschartz mit etlichen landessheren gan sant niklaus portt, bin nansee geleit vnn daselbs ein besunder leger gehept, also uff denselben mentag habend sich bin vij® tütscher ze ross vnd füssen besamlet, vnd dz gemelt leger am morgen frü vor tag vngewarnot übervallen vnd bin vj° brugunscher erstochen, also nament die brugunschen die flucht, vnd kam der baschart vnd etliche landesheren jn sant nicklaus kilchen vnd gabend sich gefangen, aber ee vnd sy zu gefengnüs vffgenomen mochtend werden kam der brugunsch hertzog mit dem gantzen her vnd enschutte die sinnen, also müstend die tütschen flüchen vnd mochtend weder den baschartt noch andren heren darvon bringen, vnd erstachend demnach der heren von muntakü vnd sust zwen landesheren vnd fürttend ob viij gefangner pferd mit jnen hinweg vnd als nun die jn nanse ersachend das der brugunsch hertzog sin leger gerumpt hat, zugend sy uss der statt jn dz leger vnd namend etliche büchsen vnd vil spisse vnd zunttend demnach dz leger an vnd tattend dem hertzogen grossen schaden, dessglichen so griff der graff von widymund dasselb leger ouch uff denselben tag an vnd ted ouch etwz schaden vnd wurdend disse dry angriff jn dry oder fier stunden ein andren nach gethan, dz kein teil von dem andren nütz wuste cet.",
+   "preklad": "Dále potom v nejbližší pondělí před svátkem Neposkvrněného početí Panny Marie se stalo, že bastard burgundského vévody s několika zemskými pány byl položen do Saint-Nicolas-de-Port u Nancy a měl tam zvláštní tábor. Toho pondělí se shromáždilo asi sedm set [?] Němců na koních i pěšky, ráno časně před svítáním nečekaně ten tábor přepadli a asi šest set Burgunďanů probodli. Burgunďané se dali na útěk a bastard s několika zemskými pány utekl do kostela svatého Mikuláše a vzdali se do zajetí. Ale dříve než mohli být odvedeni do vězení, přišel burgundský vévoda s celým vojskem a své vysvobodil. Němci tedy museli utéct a nemohli odvést ani bastarda, ani jiné pány; potom však probodli pána z Muntakü [?] a ještě dva zemské pány a odvedli s sebou přes osm [set?] ukořistěných koní. A když ti v Nancy viděli, že burgundský vévoda opustil svůj tábor, vyšli z města do tábora, vzali několik děl a mnoho potravin, potom tábor zapálili a způsobili vévodovi velkou škodu. Stejně tak napadl týž tábor téhož dne i hrabě z Widymundu [?] a také způsobil nějakou škodu. A tyto tři útoky se odehrály jeden po druhém během tří nebo čtyř hodin, aniž žádná strana o druhé něco věděla atd."
+  }
+ ],
+ "poznamky": [
+  "Datum: pondělí před Neposkvrněným početím P. Marie (ne 8. 12.) = 2. 12. 1476.",
+  "Rozpor čísel: nadpis má 700 pobitých Burgunďanů („vij‘“), text 700 Němců („vij®“, čtu jako vij° = 700) a 600 pobitých Burgunďanů.",
+  "„baschart“ = bastard burgundského vévody; který z levobočků to byl, Edlibach neuvádí (snad Antonín, Velký bastard burgundský; mimo text, nejisté).",
+  "[?] „der heren von muntakü“: snad pán z Montaigu (mimo text, nejisté).",
+  "[?] „ob viij gefangner pferd“: číslo bez znaku pro stovky; snad 800, snad jen 8.",
+  "[?] „granff von widymund“: snad hrabě z Vaudémontu (mimo text, nejisté; hrabětem z Vaudémontu byl i sám René II.).",
+  "Nejde o bitvu u Saint-Nicolas-de-Port z ledna 1477 (Schilling kap. 325), ale o dřívější výpad z prosince 1476.",
+  "Opravy OCR: sant' → sant, ‘die → die, vflgenomen → vffgenomen, granff → graff, junen → jnen, ju nanse → jn nanse."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

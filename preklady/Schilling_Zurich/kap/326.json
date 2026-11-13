@@ -1,0 +1,35 @@
+{
+ "cislo": 326,
+ "nadpis": "Der strit vor Nanse, darinne der herzog von Burgunnen und ander mit im erslagen wurdent.",
+ "edice": "Tobler II, s. 111",
+ "rukopis_strana": 846,
+ "odstavce": [
+  {
+   "text": "326. Der strit vor Nanse, darinne der herzog von Burgunnen und ander mit im erslagen wurdent.",
+   "preklad": "326. Bitva u Nancy, v níž byl zabit vévoda burgundský a jiní s ním."
+  },
+  {
+   "text": "Also morndes am sonnentag vor der heiligen driger küngen tag zoch der vorgenante herzog von Lothringen und mit im die von Bern und ander Eidgnossen und gewanten in dem namen der heiligen hochen drivaltikeit umb die achtende stunde vor mittem tage von sant Niclaus-Port gegen dem herzogen von Burgunnen und gen Nanse zü und was iederman frölich und ganz unerschrocken, dann si alle von herzen begerten die fromen lüte in Nanse zü entschütten oder alle darumb zü sterben. Do das der herzog von Burgunnen vernam, do zoch er mit allem sinem volke und züge us sinem leger und ruckt inen engegen uf ein halbe mile bis an einen starken graben und dicken hag; do hat er in einem engen wege sin geschütze, namlich bi drissig slangenbüchsen hingericht, und nach dem dann die von Bern und ander Eidgnossen des vorstrits begert und darumb gebetten hatten, do zugent si gestrax nebent zü an den herzogen von Burgunnen und sin volk und trungen durch denselben dicken hag als mechticlich und ie einer dem andern nach; dann der hag als dicke was, das si mit grossen arbeiten dardurch kament und müsten etlich ir langen spies und ander werinen in demselben hage lassen ligen und kament also aneinandern.",
+   "preklad": "Nazítří, v neděli před svátkem svatých Tří králů, táhl řečený vévoda lotrinský a s ním Bernští a další konfederáti a spojenci ve jménu svaté, vznešené Trojice kolem osmé hodiny před polednem ze Saint-Nicolas-de-Port proti vévodovi burgundskému a k Nancy. A každý byl veselý a zcela neohrožený, neboť si všichni z celého srdce přáli vysvobodit ty statečné lidi v Nancy, anebo kvůli tomu všichni zemřít. Když se to vévoda burgundský dozvěděl, vytáhl s veškerým svým lidem a vojskem ze svého tábora a postoupil jim vstříc na půl míle až k jednomu silnému příkopu a hustému plotu [= živému plotu]. Tam měl v úzké cestě namířena svá děla, totiž asi třicet serpentin. A protože si Bernští a další konfederáti vyžádali předvoj [= první útok] a o to prosili, vyrazili hned rovnou stranou proti vévodovi burgundskému a jeho lidu a prodírali se tím hustým plotem velmi mocně, jeden za druhým. Plot byl totiž tak hustý, že se jím dostali jen s velkou námahou, a někteří museli v tom plotě nechat ležet svá dlouhá kopí a jiné zbraně; a tak se střetli."
+  },
+  {
+   "text": "Der herzog von Burgunnen und die sinen staltent sich am ersten gegen inen gar manlichen zü were, und was der angriff gar usdermassen hart mit schiessen und allen andern werlichen dingen. Aber die von Bern und ander Eidgnossen mit inen trungen als manlich und mechticlichen in si, das si doch am letsten die flücht namen, und gewunnen inen bald das stark leger und wagenburg an, das der herzog als vestenclichen gemacht hat, und was darinne was, und iagten inen nach den ganzen tag bis in die nacht wol uf vier milen.",
+   "preklad": "Vévoda burgundský a jeho lidé se jim zpočátku velmi mužně postavili na odpor a útok byl nesmírně tvrdý, se střelbou a všemi ostatními válečnými prostředky. Ale Bernští a další konfederáti s nimi se do nich drali tak mužně a mocně, že se nakonec dali na útěk. A brzy jim dobyli silný tábor a vozovou hradbu, kterou si vévoda tak pevně zřídil, i všechno, co v ní bylo, a hnali se za nimi celý den až do noci dobré čtyři míle."
+  },
+  {
+   "text": "Dozwüschen wurden gar vil lüten erslagen zü ros und füs und ertrunken ouch vil in den wassern von grosser angst und not wegen.",
+   "preklad": "Mezitím bylo pobito velmi mnoho lidí, jízdních i pěších, a mnoho se jich také utopilo ve vodách z velkého strachu a tísně."
+  }
+ ],
+ "poznamky": [
+  "Datum: neděle před Třemi králi = 5. 1. 1477.",
+  "Časy podle Toblera: vyrazili v 8 hodin, do Laneuveville dorazili ve 12, bitva mezi 1. a 2. hodinou odpoledne.",
+  "„starker graben und dicker hag“ = potok de la Madeleine, po obou stranách lemovaný trnitými živými ploty (Tobler podle Witteho).",
+  "„slangenbüchsen“ = serpentiny (lehčí polní děla). Wintersulger uvádí 40 děl. Varianta: „geschütz, me dann [drissig]“ = víc než třicet.",
+  "„gestrax nebent zü“ = doslova „rovnou stranou“; Tobler to chápe jako boční obchvat. Varianta (pravděpodobně bernský rukopis) má místo toho „zugent si angendes an“ = „hned vyrazili na…“. Bernský dopis francouzskému králi z 29. 1. 1477 líčí, že naši předstírali čelní útok a pak udeřili z boku, kde děla tolik nepůsobila.",
+  "Varianta: „me dann vier milen“ = víc než čtyři míle. Pronásledování podle basilejské kroniky „až do půlnoci až ke Gundy“ (Custines na Mosele).",
+  "OCR opraveno: zbytek čísla řádku „et20 lich“ → „etlich“, „lüute/entschuütten“ → „lüte/entschütten“, odstraněny zbloudilé tečky a apostrofy („stunde.“, „von.“, „‘werlichen“, „manlich’und“)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

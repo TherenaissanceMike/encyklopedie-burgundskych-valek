@@ -1,0 +1,33 @@
+{
+ "cislo": 57,
+ "nadpis": "Wie die rotten krütz abgetan und die wissen harfür genomen wurden.",
+ "edice": "Büchi 1914, ř. 753–761 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  135
+ ],
+ "schilling_odkaz": [
+  "Das 1. Al. s. Schilling C. 135."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die rotten krütz abgetan und die wissen harfür genomen wurden.",
+   "preklad": "57. Jak byly odloženy červené kříže a přijaty bílé."
+  },
+  {
+   "text": "Item nach dem vorgeschribnen stritt, so vor Erigurt beschach, bestünden die Sachen also, daz dehein rechter angriff noch zug beschach in Bürgün, denne es vast kalt was und man nit wol möchte über das birg komen. So warend ouch die Burgunschen so zam worden, das si sich gar still hielten. Dennacht fand man mütwillig frischs gesellen, die gern güt gewunnen hettend, dick desselben winters sich uff hüben und sich besampnoten und in willen (worend,) hinin in Bürgün ze ziechen, denn das inen das von iren obren und herren, bede von Bern [und Friburg], verbotten und gewert wart, darumb das sy nit an Ordnung hinin zugend und nit schaden enpfiengend. Denne man wol wüste, das der herzog von Burgund einen grossen, reisigen züg in dem land ligen hatt [und den gesterkt hatt und all tag merete nach der schlacht Erigurt.] Aber darnach zu angendem Merzen machtent sich ettlich from, frischs knecht von Bern, Friburg und von andren Eydgnossen zu weg, wol uff fünfhundert endlicher frischer gesellen. Und zugen für Basel hinin und namen den vygenden einen grossen roub vichs, wol uff 1500 houpt, und erstachen den vygenden ob 90 man und zugen mit gewerter hand und mit dem roub wider uss dem land, das sy gar wenig Schadens enpfiengen. Sölicher zügen ettwe menger von ettlich knechten beschach in Bürgünd, das ze lang ze schriben were; doch was nit vil grosses noch manhaftikeit daran gelegen.",
+   "preklad": "Po výše popsané bitvě u Héricourtu zůstaly věci tak, že do Burgundska nedošlo k žádnému pořádnému útoku ani tažení, protože bylo velmi chladno a přes hory se nedalo dobře dostat. Burgunďané byli také tak zkrocení, že se drželi úplně tiše. Přesto se našli rozpustilí svěží tovaryši, kteří by rádi získali kořist; ti se té zimy často zvedali, shromažďovali a chtěli táhnout do Burgundska, jenže jim to jejich vrchnost a páni, jak Bernští, [tak Fribourgští], zakazovali a bránili v tom, aby netáhli bez pořádku a neutrpěli škodu. Dobře se totiž vědělo, že vévoda burgundský má v zemi velké jízdní vojsko [a že je po bitvě u Héricourtu posílil a každý den rozmnožoval]. Potom však na začátku března se vydali na cestu někteří stateční, svěží knechti z Bernu, Fribourgu a od jiných konfederátů, dobrých pět set zdatných, svěžích tovaryšů. Táhli kolem Basileje [?] do země, vzali nepřátelům velkou kořist dobytka, dobrých 1500 kusů, probodli přes 90 nepřátel a se zbraní v ruce a s kořistí zase vytáhli ze země, takže utrpěli jen velmi malou škodu. Takových tažení některých knechtů do Burgundska se stalo dost mnoho, takže by bylo příliš dlouhé o nich psát; nebylo na nich však nic velkého ani mnoho statečnosti."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: do nadpisu se vlepil odkaz „Das 1. Al. 8. Schilling C. 135.“ (= Das 1. Al. s. Schilling C. 135, přesunut do polí schilling) a číslo řádku „io“; „kriitz“ → „krütz“ (i v poli nadpis). Do textu se vlepily Büchiho poznámky ke kap. 56 („>) Bei der Uebergabe … Bestätigt durch Knebel I, 141.“) a záhlaví strany „*1 1475 45“; odstraněno (obsah poznámek převeden do kap. 56) a oba kusy textu spojeny v jeden odstavec podle edice. OCR: „i5“ vypuštěno, „körnend)“ → „komen.“, „Fennacht“ → „Dennacht“, „miitivillig“ → „mütwillig“, „icorend“ → „worend“, „geteert“ → „gewert“, „zugerd“ → „zugend“, „hant“ → „hatt“, „schiacht“ → „schlacht“, „w endlichen“ → „endlicher“, „is“ vypuštěno.",
+  "Büchi první odstavec kapitoly (o odložení červených křížů a přijetí bílých, k němuž se vztahuje nadpis) netiskne a odkazuje na Schillingovu kap. 135. Tištěný text obsahově odpovídá Schillingově kap. 147, odst. 2 (zima, zákazy výprav), a 149 (výpravy knechtů) – srovnání mimo Büchi.",
+  "Hranaté závorky [ ] převzaty z Büchiho edice; podle jeho aparátu jde o úseky, které v části rukopisů chybějí (často v D a N), u „Friburg“ často jde o fribourgské doplňky.",
+  "Büchi: nepohodu potvrzuje Knebel I, 141. Zákaz výprav: usnesení fribourgské rady ze 6. 2. 1475 (Büchi, Freiburger Akten 14; Freiburger Missiven 18). O burgundských silách Witte. Datování březnové výpravy je nejisté: v. Rodt rozlišuje v březnu tři výpravy, jinak neznámé; Knebel klade výpravu do ledna a návrat na 4. 3. Podle Cerutiho (19. 3.) vpadli Bernští se 4000 [OCR „4009“] muži do Franche-Comté (srov. Schilling C. 149–150). (Tyto poznámky jsou v JSON omylem u kap. 58.)",
+  "Oproti Schillingovi (kap. 147, 149): Molsheim přidává Fribourg k zákazu výprav i k březnové výpravě; Schilling (kap. 149) zmiňuje výpravu knechtů z Bernu, Solothurnu a Bielu ke Grandsonu s kořistí přes 500 kusů dobytka, Molsheim výpravu 500 mužů z Bernu, Fribourgu a odjinud s 1500 kusy dobytka a přes 90 zabitými nepřáteli; zda jde o tutéž výpravu, není jisté. Varianty: B, E, F, St nemají „bede … Friburg“; D, N mají „knecht von Luzern und andren“.",
+  "[?] „zugen für Basel hinin“: doslova „táhli před/kolem Basilej dovnitř“; směr výpravy nejasný. „mütwillig“ = svévolní, rozpustilí; „endlich“ = zdatný; „mit gewerter hand“ = se zbraní v ruce."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

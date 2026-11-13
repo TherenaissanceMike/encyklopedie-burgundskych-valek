@@ -1,0 +1,31 @@
+{
+ "cislo": 111,
+ "nadpis": "Das man den vorgenanten hern Peter von Hagenbach an einem ofnen lanttag in der stat Brisach berechtigen lies.",
+ "edice": "Tobler I, s. 151",
+ "rukopis_strana": 237,
+ "odstavce": [
+  {
+   "text": "111. Das man den vorgenanten hern Peter von Hagenbach an einem ofnen lanttag in der stat Brisach berechtigen lies.",
+   "preklad": "111. Jak byl zmíněný pan Peter von Hagenbach souzen na veřejném zemském soudu ve městě Breisachu."
+  },
+  {
+   "text": "Darumb an dem nechsten mentag nach des heiligen crütztag inventionis im meien des iares, do man von der gebürt Cristi zalt tusent vierhundert sibenzig und vier iare, stalt man zü Brisach denselben von Hagenbach an ein offen lantgericht, das do besetzt was von herren, edeln und stetten, die man dann darzü beschriben und geordnet hat, und clagt man zü im durch fürsprechen vil sachen und artickeln, die er dann veriechen hat und man ouch von im wol wiste. Man lies ouch in verfürsprechet sich nach notdurft verantwurten und was das sin best antwurt: wie lang das werte, sin herr von Burgunnen wer herr im lande gewesen und er in sinem namen und was er getan, des hette er als ein herr wol gewalt gehebt und getrüwte nieman nit darumb ze antwurten haben, dann er das alles von bevelhens wegen desselben sins herren hette getan, als er das mit im kuntlich machen wolt —, mit vil andern selzner inzügen, die ganz unverfenglich und im alle nit erlich warent.",
+   "preklad": "Proto v nejbližší pondělí po svátku Nalezení svatého Kříže v květnu roku, kdy se od narození Krista psalo tisíc čtyři sta sedmdesát čtyři, postavili toho Hagenbacha v Breisachu před veřejný zemský soud, který byl obsazen pány, šlechtici a městy, jež k tomu obeslali a ustanovili. Skrze řečníky [žalobce] na něj žalovali mnoho věcí a článků, k nimž se přiznal a které se o něm také dobře vědělo. Nechali ho také, opatřeného obhájcem, aby se podle potřeby hájil. A jeho nejlepší odpověď byla tato: po celou tu dobu byl pánem v zemi jeho pán Burgundský a on v jeho jménu, a k čemukoli, co udělal, měl jako pán plnou moc; a věřil, že se z toho nikomu nemusí zodpovídat, protože to všechno udělal na rozkaz svého pána, jak to s ním (s pánem) chtěl prokázat. K tomu mnoho jiných podivných výmluv, které vůbec nebyly k ničemu a které mu nijak nesloužily ke cti."
+  },
+  {
+   "text": "Und nach verhören clag und antwurt, ouch siner vergicht und sachen, die er veriechen hat und man ouch wol wiste und am tage lagent, wart er mit urteil und recht vom leben zem tode bekant mit dem underscheid, das man im als eim übeltetigen den ritterlichen orden, des er nit wirdig was, abnemen solt, als ouch das durch des fürsten herolt nach erkanter urteil beschach.",
+   "preklad": "A po vyslechnutí žaloby a odpovědi, také jeho přiznání a věcí, k nimž se přiznal a které se dobře věděly a byly zjevné, byl rozsudkem a právem odsouzen ze života na smrt s tou výhradou, že mu jako zločinci má být odňat rytířský stav, jehož nebyl hoden. To také po vyneseném rozsudku vykonal knížecí herold."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „1ll“ → „111“, „cerütztag“ → „crütztag“, „gekürt“ → „gebürt“ (tak všude jinde v edici), „celag“ → „clag“; za „wiste“ doplněna tečka a odstraněna zbloudilá závorka za „verfürsprechet“.",
+  "Datum: pondělí po Nalezení sv. Kříže (3. 5.) = 9. 5. 1474 (Tobler). Varianta: „crütztag im meien, als man…“.",
+  "Tobler: soudem nebyl rakouský dvorský soud v Ensisheimu ani císařský zemský soud v Rottweilu, ale mimořádný soudní dvůr z okruhu Dolního spolku (niedere Vereinigung: Basilej, Štrasburk, Colmar, Schlettstadt aj.).",
+  "Tobler: obhájcem byl nejprve breisašský měšťan, místo něho nastoupil basilejský přísedící Hans Irmi; během jednání dostal ještě dva obhájce z přísedících za Colmar a Schlettstadt. „fürsprech“ = řečník před soudem (zde žalobce i obhájce), „verfürsprechet“ = opatřený obhájcem.",
+  "Tobler: rytířské odznaky mu ráno na začátku soudu odňal rakouský herold Kaspar Hurter. Pro reenactory: degradace z rytířského stavu předcházela popravě – odsouzený rytíř nesměl zemřít jako rytíř.",
+  "Hagenbachova obhajoba (jednal jen na rozkaz svého pána) bývá v moderní literatuře uváděna jako raný případ, kdy soud neuznal „rozkaz nadřízeného“ za omluvu (proces se někdy označuje za první mezinárodní tribunál); Schilling sám jen říká, že výmluvy „nebyly k ničemu“.",
+  "„inzug“ = výmluva (Tobler); „unverfenglich“ = neúčinný, nic neplatný; „veriechen“ = přiznat."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,25 @@
+{
+ "cislo": 30,
+ "nadpis": "Wie durch from wise lüt angetragen ward, ein vereinung ze machen und frid zwüschent dem fürsten von Oesterich und den Eydgnossen.",
+ "edice": "Büchi 1914, ř. 523–526 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  95
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 95, al. 1."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie durch from wise lüt angetragen ward, ein vereinung ze machen und frid zwüschent dem fürsten von Oesterich und den Eydgnossen.",
+   "preklad": "30. Jak poctiví a moudří lidé navrhli uzavřít spolek a mír mezi knížetem rakouským a konfederáty."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněn odkaz „Vgl. Sihillirg C. 95, al. 1.“ a číslo řádku „2 r,“; „zwlischent“ → „zwüschent“. Pole schilling doplněno.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 95, odst. 1) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

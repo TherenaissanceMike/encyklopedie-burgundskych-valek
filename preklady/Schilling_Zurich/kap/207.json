@@ -1,0 +1,33 @@
+{
+ "cislo": 207,
+ "nadpis": "Das die von Bern den marggrafen von Röteln, iren burger, mantent.",
+ "edice": "Tobler I, s. 289",
+ "rukopis_strana": 487,
+ "odstavce": [
+  {
+   "text": "207. Das die von Bern den marggrafen von Röteln, iren burger, mantent.",
+   "preklad": "207. Jak Bernští vyzvali markraběte z Röttelnu, svého měšťana."
+  },
+  {
+   "text": "Dem hochgebornen hern, hern Rüdolfen, marggrafen von Hochberg, grafen zü Nüwemburg, hern zü Rötelen und Susemburg, unserm sundern gnädigen hern und getruwen mitburger, embieten wir der schultheissen, rät und burger der stat Bern unser willig dienst und tünd üwern gnaden zü wüssen: das der graf von Röymond mit gewalt, frefel und unervolgt aller recht unser burger vachen, mürden und in vanknüs werfen lassen hat, und sus vil andrer mütwill und unbillikeit mit überziechen der unsern understanden, also das wir getrungen werden, uns gegen im in gegenwere zü setzen und die unsern, unser land und lüt zü retten.",
+   "preklad": "Vysoce urozenému pánu, panu Rudolfovi, markraběti z Hochbergu, hraběti z Neuchâtelu, pánu z Röttelnu a Sausenbergu, našemu zvláště milostivému pánu a věrnému spoluměšťanovi, vzkazujeme my, starosta, rada a měšťané města Bernu, své ochotné služby a dáváme Vaší Milosti na vědomí: Hrabě z Romontu dal násilím, svévolně a bez jakéhokoli soudního řízení jímat, vraždit a vrhat do vězení naše měšťany a kromě toho se odvážil mnoha jiných svévolí a bezpráví a přepadal naše lidi, takže jsme nuceni postavit se proti němu na obranu a zachránit své lidi, svou zemi a lid."
+  },
+  {
+   "text": "Harumb und diewil sölichs zü beschirmung unser land und lüt on mittel dient, so manen wir üwer hochgeborn gnad mit gar ernstlichem flis, so hoch wir mogen, das ir die üwern zür Landern und an andern enden, wo die gesessen sind, zü füs und ros zü rüsten, mit unser paner zü ziechen, unser er, land, lüt und güt helfen befrien und die frömbden völker, die uns allen zü verderben in solichen landen sind, abtriben. Dann wir ouch dem grafen von Röymond unser gegenwere, darzü wir mit sinem hochmüt getrungen werden, verkünt haben.",
+   "preklad": "Proto, a protože to přímo slouží k ochraně naší země a lidu, vyzýváme Vaši vysoce urozenou Milost co nejvážněji, jak nejvýše můžeme, abyste své lidi v Landeronu a na jiných místech, kde sídlí, vypravili pěší i jízdní, aby táhli s naší korouhví, pomohli vysvobodit naši čest, zemi, lid a statek a vyhnat cizí lid, který je v těch zemích k záhubě nás všech. Neboť jsme už hraběti z Romontu oznámili svou obranu, k níž nás jeho pýcha nutí."
+  },
+  {
+   "text": "Datum under unserm ufgetrucktem insigel sampstag vor Galli 75.",
+   "preklad": "Dáno pod naší vtisknutou pečetí v sobotu před svatým Havlem [14]75."
+  }
+ ],
+ "poznamky": [
+  "Datum: sobota před sv. Havlem = 14. 10. 1475 (Tobler). Text podle Teutsch Missiven C, 577.",
+  "Zür Landern = Le Landeron (Tobler). Rudolf z Hochbergu (Hachbergu), markrabě, hrabě neuchâtelský a pán Röttelnu a Sausenbergu, měšťan Bernu (Rudolf IV. Hachberg-Sausenberg, † 1487, mimo Tobler).",
+  "„unervolgt aller recht“ = bez jakéhokoli soudního řízení, bez dosažení práva (ervolgen = dosáhnout; glosář); „on mittel“ = přímo, bezprostředně.",
+  "Oprava textu: „und’ ros“ → „und ros“, „setrungen“ → „getrungen“ (OCR).",
+  "Z a B: „ünser vientschaft und gegenwere“ (naše nepřátelství a obranu), „wo die wonende sind“, „Susenburg“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

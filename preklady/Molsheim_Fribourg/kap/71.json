@@ -1,0 +1,25 @@
+{
+ "cislo": 71,
+ "nadpis": "Wie die von Strasburg die von Bern so gar früntlich batten, inen ze hilf wetten schicken vierhundert man umb iren sold. Do in schickten inen die von Bern tusent man und namen doch nit me denn von 400 man sold.",
+ "edice": "Büchi 1914, ř. 929–930 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  170
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 170."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Strasburg die von Bern so gar früntlich batten, inen ze hilf wetten schicken vierhundert man umb iren sold. Do in schickten inen die von Bern tusent man und namen doch nit me denn von 400 man sold.",
+   "preklad": "71. Jak Štrasburští velmi přátelsky prosili Bernské, aby jim na pomoc poslali čtyři sta mužů za jejich žold. Bernští jim tehdy poslali tisíc mužů, a přece si vzali žold jen za 400 mužů."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 170“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 170).",
+  "Opravy OCR: „friintlich“ → „früntlich“, „inan“ → „man“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

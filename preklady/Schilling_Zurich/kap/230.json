@@ -1,0 +1,25 @@
+{
+ "cislo": 230,
+ "nadpis": "Das die von Bern mit dem bischof und dem lande von Wallis einen ewigen bund machtent.",
+ "edice": "Tobler I, s. 326",
+ "rukopis_strana": 551,
+ "odstavce": [
+  {
+   "text": "230. Das die von Bern mit dem bischof und dem lande von Wallis einen ewigen bund machtent.",
+   "preklad": "230. Jak Bernští uzavřeli s biskupem a zemí Valais věčný spolek."
+  },
+  {
+   "text": "In dem iare, do man zalt von gottes gebürt 1475 iare, an dem andern herbstmonat, als man in dem velde lag, machtent die von Bern mit dem bischof und gemeinem lande von Wallis von allen zechenden einen ewigen pund, das si einandern zü ewigen ziten mit lib und güt söllent beholfen und beraten sin wider alle fürsten und herren, die dann dewederen teil an irem libe oder güt schedigen wolten, nach wisung derselben ewigen geswornen pünden, die dann von allen teilen versigelt sind und das gar luter inhaltent.",
+   "preklad": "Roku od narození Božího 1475, druhého dne měsíce září, když se leželo v poli, uzavřeli Bernští s biskupem a s celou zemí Valais, se všemi desátky, věčný spolek: že si mají navěky životem i statkem pomáhat a radit proti všem knížatům a pánům, kteří by chtěli kteroukoli stranu poškodit na životě nebo statku, podle znění těchto věčných přísežných spolkových listin, které jsou zpečetěny všemi stranami a obsahují to zcela jasně."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: v poli „nadpis“ odstraněna značka poznámky „?)“, v textu „und’“ → „und“.",
+  "„herbstmonat“ = září; „an dem andern“ = 2. září. Tobler: spolek byl ve skutečnosti uzavřen na schůzce v Leuku 7. 9. 1475, listiny vyměněny počátkem října v Leuku a 15. 10. 1475 byl spolek odpřisáhnut v Bernu (s vysvětlujícím vedlejším listem téhož dne).",
+  "„zechenden“ = desátky (Zenden), samosprávné okresy Valais.",
+  "Tobler: biskupem byl Walther Supersaxo (auf der Flüe); příčinou roztržky se Savojskem byly spory o pastviny mezi obcemi Savièse a Conthey a aféra Rudolfa Asperlina.",
+  "Varianta: „ganzen lande“ místo „gemeinem lande“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

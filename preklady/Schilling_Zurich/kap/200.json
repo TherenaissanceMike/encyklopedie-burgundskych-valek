@@ -1,0 +1,33 @@
+{
+ "cislo": 200,
+ "nadpis": "Das die von ober Sibental und ander dero von Bern lüte gen Vifis zugen und meintent die Lamparter ze strafen",
+ "edice": "Tobler I, s. 275",
+ "rukopis_strana": 467,
+ "odstavce": [
+  {
+   "text": "200. Das die von ober Sibental und ander dero von Bern lüte gen Vifis zugen und meintent die Lamparter ze strafen.",
+   "preklad": "200. Jak lidé z Horního Simmentalu a další bernští poddaní táhli do Vevey a chtěli potrestat Lombarďany."
+  },
+  {
+   "text": "Do nü alle manungen und schriben an die herzogin und landschaft von Saföy nit wolt helfen und die geswornen ewigen pünde in etwie mengen weg gebrochen und nit gehalten wurden, do vernamen etlich dero von Bern lüte von ober Sibental und ander, wie die von Vifis denen von Bern iren herren zü schand und smach etlich uncristenliche wort wider si rettent und hetten von inen schantlich und unerlich sachen lassen molen; darzü wurden ouch die Lamparter und ander ir viend vast do durch gelassen und wart nit betracht, das si an das hus von Saföy gehorten, mit den man gern in friden und rüw were beliben, doch meintent si villicht der herzogin von Saföy daran zü dienen.",
+   "preklad": "Když tedy všechna napomínání a psaní vévodkyni a savojské zemi nechtěla pomoci a přísežné věčné spolky byly mnoha způsoby porušovány a nedodržovány, doslechli se někteří bernští lidé z Horního Simmentalu a další, že Vevejští k hanbě a potupě Bernských, svých pánů, mluvili proti nim nekřesťanská slova a dali o nich namalovat hanebné a nečestné věci; k tomu tam byli také Lombarďané a jiní jejich nepřátelé hojně propouštěni skrz a nebralo se v úvahu, že [Vevejští] patří k savojskému domu, s nímž by se rádo zůstalo v míru a klidu; snad však mínili, že tím poslouží vévodkyni savojské."
+  },
+  {
+   "text": "Also zugent die von ober Sibental und etlich ander ir nachburen durch sich selber gen Vivis, und meinten die Lamparter zü strafen und semlich durchzüg und wege zü erleiden. Do das die von Bern vernamen, umb das si mit dem hus von Saföy nit zu kriege kement und die ewigen geswornen pünde durch si gehalten wurden, do schicktent si botschaft zü den iren, daran zü sinde, das man nü zemal mit denen von Vivis nit fürneme, damit man mit dem hus von Saföy zü keinen unrüwen keme; das beschach ouch dazemal, wie wol die von Vifis wol hetten verdienet, das man si swarlichen hette gestraft; doch wart inen nachmalen ir rechter lon.",
+   "preklad": "Tak táhli lidé z Horního Simmentalu a někteří jejich další sousedé sami od sebe do Vevey a chtěli potrestat Lombarďany a takové průtahy a cesty jim zošklivit. Když se to Bernští doslechli, poslali – aby se s domem savojským nedostali do války a aby věčné přísežné spolky byly z jejich strany dodrženy – posly ke svým lidem, aby zařídili, že se nyní proti Vevejským nic nepodnikne, aby s domem savojským nedošlo k nepokojům. To se tehdy také stalo, ačkoli by si Vevejští dobře zasloužili, aby byli těžce potrestáni; později se jim však dostalo jejich spravedlivé odplaty."
+  },
+  {
+   "text": "Als nü die von Bern markten und sachen, das si von der herzogin von Saföy und den iren so menigvalticlichen angereitzt wurden und si überein von irem bösem fürnemen und mütwillen nit woltent stan und die geswornen pünde als ganz verachtent, do woltent die von Bern ir fürbas nit me schriben, noch si manen, dann es alles nit verfieng, und schribent dem grafen von Gryers, der margschalk in Saföy was, als harnach stat.",
+   "preklad": "Když tedy Bernští poznali a viděli, že je vévodkyně savojská a její lidé tak mnohonásobně dráždí, že vůbec nechtějí upustit od svého zlého úmyslu a svévole a že přísežnými spolky tak docela pohrdají, nechtěli jí Bernští dále už psát ani ji napomínat, neboť nic z toho nepomáhalo, a napsali hraběti von Gryers, který byl savojským maršálem, jak stojí níže."
+  }
+ ],
+ "poznamky": [
+  "Datace (Tobler): události patří na začátek listopadu 1474. 6. 11. se v Bernu ví, že vytahují Thun, Frutigen a Aeschi, a rada je zrazuje; 10. 11.: bylo to kvůli Lombarďanům. 11. 11. Bern hlásí do pole, že asi 400 mužů ze Saanenu a z Horního i Dolního Simmentalu táhlo do Vevey Lombarďany pochytat, ti jim však unikli, „a proto se našim od venkovanů (lantlüte) ve Vevey nedostalo mnoho cti“. Bern hned vyslal Urbana von Müleren, který do 21. 11. obnovil mír.",
+  "„ir rechter lon“ (spravedlivá odplata): Tobler odkazuje na kap. 229 (pozdější pomsta Vevey).",
+  "Bernská varianta: o Lombarďanech „und das ouch die Lamparter und ander an dem ende fürgeschoben wurden“ (že tam byli Lombarďané a jiní posunováni dál); „doch wisten si der herzogin…“ místo „doch meintent si villicht…“. Lamparter = Lombarďané, žoldnéři z Itálie táhnoucí přes Savojsko k Burgundsku.",
+  "Graf von Gryers = hrabě z Gruyère (Greyerz), savojský maršál; jméno ponecháno podle pramene, osobu Tobler zde neurčuje.",
+  "Oprava textu: „srafen“ → „grafen“; z nadpisu odstraněna značka poznámky „')“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

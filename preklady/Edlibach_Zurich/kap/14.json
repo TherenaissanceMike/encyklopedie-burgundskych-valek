@@ -1,0 +1,24 @@
+{
+ "cislo": 14,
+ "nadpis": "Als der lantuogt etliche from lüt jn tann liess enthopten.",
+ "edice": "Usteri 1847, ř. 7635 souboru edice",
+ "rukopis_strana": 286,
+ "odstavce": [
+  {
+   "text": "Als der lantuogt etliche from lüt jn tann liess enthopten.",
+   "preklad": "Když zemský fojt dal v Thannu stít několik počestných lidí."
+  },
+  {
+   "text": "Demnach besamlot er die lantschaft vnd gab für er wölte reissen vnd ein zug thun, vnn da er die samlung also zusamen bracht, zog er morgens vor tag frü für tann vnn begert dz man jn jnliesse, dz welt man nun nüt thun er welte sy dann jrs libs vnd gutz trösten dess troste er sy, da er jnnen nun sömliches zu haltenn zugeseitt hatt, da liessend sy jn hinin, von stunden an liess er die burger alle fachen vnd binden vnd meint sy alle zu enthopten, vnd da er also fünff oder sächs liess enköpffen da woltend die lantsässen die den von edlem vnd vnedlem zu tann bin jm warend sömliches muttwillens von jm nütt liden vnd hiesse man die andren alle gantz ledig vnd frig lassen, vnd namend die also mit gewalt dem lantuogt doch torstend sy jm dennoch nützit thun, die wil nun die lantschaft anders gehalten ward den sy aber verpfent wz, ward der hertzog von östrich bewegt über sinne armen lütt widerumm losung zu thun dem brogunschen hertzog karols vnd leitt also die lxxx” guldin hinder ein stat von basel vnd wolt dem hertzog von brugun die nüt folgen lassen er welte jm den gerecht werden vmm den grossen mutwillen, so sin lantuogt der wötrich jm land von sinnen wegen jm land begangen hatt, dz er doch nüt gethan solt haben sömliches der hertzog von brugun nüt thun wolt.",
+   "preklad": "Potom svolal zemskou hotovost a předstíral, že chce vytáhnout do pole a podniknout tažení. Když lidi takto shromáždil, táhl ráno časně před svítáním před Thann a žádal, aby ho vpustili. To však nechtěli udělat, leda by jim zaručil bezpečí životů a majetku; to jim zaručil. Když jim slíbil, že to dodrží, vpustili ho dovnitř. Hned nato dal všechny měšťany pochytat a spoutat a chtěl je všechny stít. Když dal takto stít pět nebo šest, šlechtici i nešlechtici ze země, kteří s ním u Thannu byli, takovou svévoli od něho nechtěli snést a žádali, aby ostatní byli zcela propuštěni na svobodu. A tak mu je mocí vzali, ale přesto se mu neodvážili nic udělat. Protože se se zemí zacházelo jinak, než jak byla zastavena, pohnulo to vévodu rakouského, aby své ubohé lidi od burgundského vévody Karla zase vyplatil. Složil proto 80 000 zlatých u města Basileje, ale nechtěl je vévodovi burgundskému vydat, dokud mu nedá zadostiučinění za velkou svévoli, kterou jeho zemský fojt, ten tyran, v zemi jeho jménem spáchal a které se dopustit neměl. To však vévoda burgundský udělat nechtěl."
+  }
+ ],
+ "poznamky": [
+  "Usteri uvádí „(Vorstellung.)“ – v rukopisu je ilustrace (poprava v Thannu). Oprava textu: dva odstavce rozdělené zlomem strany spojeny.",
+  "OCR: „Ihun“, „(hun“, „ihun“ → „thun“, „jonliesse“ → „jnliesse“, „Iroste“ → „troste“, „fünfl“ → „fünff“, „enköpflen“ → „enköpffen“, „von edlem von vnediem“ → „von edlem vnd vnedlem“, „ledig von frig“ → „ledig vnd frig“, „van leitt“ → „vnd leitt“, „ıxxx”“ → „lxxx”“.",
+  "Datum: popravy v Thannu klade Tobler podle Witteho na 4. 7. 1473 (srov. Schilling kap. 68, kde jsou popraveni „bi vieren“, Edlibach má pět nebo šest).",
+  "„besamlot er die lantschaft“ = svolal zemskou hotovost (branné poddané země). „lantsässen“ = zemští usedlíci, zde šlechtici i nešlechtici z hotovosti. „hinder ein stat von basel leggen“ = složit (zastavenou sumu) do úschovy u města Basileje; výplatní suma byla v Basileji složena 1474 (mimo text). „er welte jm den gerecht werden“ = leda by mu dal právo / zadostiučinění."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

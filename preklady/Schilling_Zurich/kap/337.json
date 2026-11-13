@@ -1,0 +1,27 @@
+{
+ "cislo": 337,
+ "nadpis": "Das die vorgenanten knechte in dem torechtigen leben am ersten gen Lutzern kament, do man si gern gewent hette.",
+ "edice": "Tobler II, s. 128",
+ "rukopis_strana": 863,
+ "odstavce": [
+  {
+   "text": "337. Das die vorgenanten knechte in dem torechtigen leben am ersten gen Lutzern kament, do man si gern gewent hette.",
+   "preklad": "337. Jak výše jmenovaní knechti v „bláznivém životě“ přišli nejprve do Luzernu, kde by je byli rádi odvrátili."
+  },
+  {
+   "text": "Also an der eschmitwochen des vorgenanten iares zugent dieselben knechte us und kament am ersten gen Lutzern; die hettent si gern do behalten, dann inen die sachen und ir fürnemen leid was, und was ouch dazemal ein grosser tag, do man allen flis sücht und brucht, si zü behalten; es mocht aber nit gesin, dann si überein irem mütwilligen fürnemen nachgan und vervolgen wolten. Und von wem si gefragt oder angezogen wurden, was ir sachen oder fürnemen were, so gabent si ze antwurt: es were das torechtig leben, darin si züsamen als hoch und türe gelobt und gesworn hetten, das ouch si dem nachkomen und überein nit underwegen lassen, oder aber alle darumb sterben wolten.",
+   "preklad": "A tak na Popeleční středu řečeného roku ti knechti vytáhli a přišli nejprve do Luzernu. Luzernští by je tam byli rádi zadrželi, protože ta věc a jejich záměr jim byly proti mysli; byl tam také právě tehdy velký sněm, na kterém se vynaložilo všechno úsilí, aby je zadrželi. Nešlo to však, protože za každou cenu chtěli jít za svým svévolným záměrem a provést ho. A kdo se jich ptal nebo je oslovil, co mají za věc a záměr, tomu odpovídali: je to „bláznivý život“, na který si navzájem tak vysoko a draze slíbili a přísahali, že ho dodrží a v žádném případě neopustí, anebo pro to raději všichni zemřou."
+  },
+  {
+   "text": "Und zugen also angendes von Lutzern, und besunder die zwei örter Ure und Switz, die ouch den ersten anfang und ufbruch tatent. Die von Lutzern hatten ouch mit den iren ir stat nach aller notdurft besatzt und das darumb getan, das si vor inen sicher und ir meister möchten sin, dann inen ouch allerlei unfrüntlicher tröwworten begegnet warent, die ir stat und sundrig personen berürten und angingen.",
+   "preklad": "A hned nato z Luzernu táhli dál, zvláště ta dvě místa, Uri a Schwyz, která také učinila první začátek a vytáhla jako první. Luzernští také obsadili své město svými lidmi, jak bylo třeba, a učinili to proto, aby byli před nimi v bezpečí a zůstali ve svém městě pány, neboť i k nim dolehla všelijaká nepřátelská výhrůžná slova, která se týkala jejich města i jednotlivých osob."
+  }
+ ],
+ "poznamky": [
+  "Úplnost: ve vyčištěném textu chyběl celý závěr kapitoly (ř. 9054–9063, s. 129 edice: „darin si züsamen … berürten und angingen.“), který se ztratil po záhlaví strany „are 129“; doplněno a rozděleno do odstavců podle Toblera. Opravy OCR: „Uf also“ → „Also“ [OCR nejasné; varianta „Und also“], „am .ersten“, „Si gern“ → „si gern“, „tuüre“ → „türe“, „ünderwegen“ → „underwegen“; odstraněny značky poznámek.",
+  "Datum: Popeleční středa = 19. 2. 1477 (Tobler). „grosser tag“ = sněm (Tagsatzung) v Luzernu; Tobler: sněm 21. 2. se touto záležitostí zabýval. Bern podle Toblera 20. 2. žádal Fribourg, Solothurn a Biel o bdělost, protože knechti prý chtějí táhnout do Luzernu a obsadit ho.",
+  "„gewent“ = odvrátit (wenden); varianta nadpisu: „gern wider heim gevertiget het“ (rádi by je byli poslali zpátky domů). Varianty: „als hoch gelobt hetten, das si dem“, „zugen damit angendes“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

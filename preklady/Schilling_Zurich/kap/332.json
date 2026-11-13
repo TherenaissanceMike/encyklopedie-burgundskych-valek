@@ -1,0 +1,32 @@
+{
+ "cislo": 332,
+ "nadpis": "Die namen der gevangnen stand ouch zem teil harnach geschriben.",
+ "edice": "Tobler II, s. 118",
+ "rukopis_strana": 855,
+ "odstavce": [
+  {
+   "text": "332. Die namen der gevangnen stand ouch zem teil harnach geschriben.",
+   "preklad": "332. Jména zajatých jsou zčásti také zapsána níže."
+  },
+  {
+   "text": "Item herr Anthonius und herr Badrin, beid bastart von Burgunnen. Denne der rich graf von Nassow, des marggrafen von Nidern-Baden tochterman ; des recht houptpaner kam gen Bern. Denne der herr von Samarij. Denne der herr von Blomont. Denne der herr von Croy. Denne herr Jop von Alubun, houptman von Napels. Denne der herr von Thafana. Denne der herr von Fontenie. Denne ein mechtiger herr us Piccardie. Denne der herr von Montensij. Denne des Hagenbachs tochterman. Darzü vil ander herren, grafen, frien, rittern und knechten, der namen ich nit weis.",
+   "preklad": "Předně pan Antonius a pan Badrin, oba bastardi burgundští. Dále bohatý hrabě nasavský, zeť markraběte dolnobádenského; jeho pravá hlavní korouhev přišla do Bernu. Dále pán ze Samarij. Dále pán z Blamontu. Dále pán z Croy. Dále pan Jop von Alubun, hejtman z Neapole [?]. Dále pán z Thafany. Dále pán z Fontenie. Dále jeden mocný pán z Pikardie. Dále pán z Montensij. Dále Hagenbachův zeť. K tomu mnoho jiných pánů, hrabat, svobodných pánů, rytířů a panošů, jejichž jména neznám."
+  }
+ ],
+ "poznamky": [
+  "Antonius a Badrin = Antonín a Balduin, nemanželští synové Filipa Dobrého („Velký bastard“ Antoine a Baudouin).",
+  "Hrabě nasavský = Engelbrecht II. Nasavský, manžel Cimburgy, dcery markraběte Karla Bádenského. Jeho korouhev přišla jako kořist do Bernu.",
+  "„Samarij“ = nejspíš Philippe de Croÿ, hrabě z Chimay (Edlibach „Sammory“, Knebel „Symey“).",
+  "„Blomont“ = Henri de Neuchâtel, pán z Blamontu. „Croy“ = Philippe de Croÿ-Aerschot, bratranec hraběte z Chimay.",
+  "„Jop von Alubun“ = Josse de Lalaing, velitel pravého křídla jízdy. [?] „houptman von Napels“: Schilling ho nazývá hejtmanem z Neapole, Lalaing však byl Henegavec – snad záměna s neapolskými kondotiéry. Varianta: „Alabun“.",
+  "„Thafana“ – Tobler: nelze určit, v jiných seznamech chybí; jeho jmenný rejstřík s otazníkem navrhuje Jacques de Gingins, pán z Divonne.",
+  "„Fontenie“ = Philippe de Fontenoy, bratranec hraběte Jindřicha z Neuchâtelu (varianta „Fonteine“).",
+  "Mocný pán z Pikardie – Knebel „der herre von Pickardia“, Bonstetten „Bikardus quidam prepotens“.",
+  "„Montensij“ = snad Montagny-le-Corboz, tedy Hugues de Chalon-Châteauguyon, jehož zajetí je doloženo (jinde „herre von Orba“, „Schettegion“).",
+  "„des Hagenbachs tochterman“ = Anton von Müstrol, zeť Petra von Hagenbach (zmínka o Hagenbachovi neznamená jeho účast – byl popraven 1474).",
+  "Varianty: „Darzü ouch vil ander“; „ritter“ místo „rittern“.",
+  "OCR opraveno: odstraněny zbytky odkazů na poznámky „”)“; „Samarıj“ → „Samarij“, „Montensjj“ → „Montensij“ (podle Toblerova jmenného rejstříku)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

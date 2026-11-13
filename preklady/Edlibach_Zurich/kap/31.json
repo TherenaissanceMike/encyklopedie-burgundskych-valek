@@ -1,0 +1,27 @@
+{
+ "cislo": 31,
+ "nadpis": "Von ellikurtter tatt.",
+ "edice": "Usteri 1847, ř. 8143 souboru edice",
+ "rukopis_strana": 314,
+ "odstavce": [
+  {
+   "text": "Von ellikurtter tatt.",
+   "preklad": "O činu héricourtských."
+  },
+  {
+   "text": "Item demselben nach sint bin c vnd xx knecht ab dem schloss ellikurtt jn brugun gezogen, jn meinung etwz röbs ze bringen, vnd als sy in dz land mer denn fier mil wegs sind zogen, da kammend sy dess abint spatt an ein dorff ann all gferd, darin lagend nun bin ijᶜ engelschen vnd brugunschen, also zugend sy wider hinder sich vom dorff, vnd verhieltend sych die nacht biss mornnendess frü da machtend sy ein ordnung vnd luffend mit gemeinem schreyg jn dz dorff vnd erstachend darjnn ob c mannen der brugunschen vnd engelschen, vnd gewunnend da gar uil koschlicher reissiger pferden,",
+   "preklad": "Potom vytáhlo z hradu Héricourt asi sto dvacet knechtů do Burgundska, aby přinesli nějakou kořist. Když táhli do země přes čtyři míle cesty, přišli večer pozdě zcela nečekaně k jedné vsi, v níž leželo asi dvě stě Angličanů a Burgunďanů. Stáhli se tedy od vsi zpět a skrývali se přes noc až do časného rána. Tu se sešikovali, se společným pokřikem vběhli do vsi a pobili v ní přes sto mužů z Burgunďanů a Angličanů; získali tam také velmi mnoho drahých jezdeckých koní,"
+  },
+  {
+   "text": "vnd namend da einen grossen roub vnd blündrottend dz dorff vnd zugend da an allen schaden wider hein, also sömlicher sachen tattend die jn ellikurt lagend dick vnd vil cet,",
+   "preklad": "pobrali velkou kořist, ves vyplenili a bez jakékoli škody se vrátili domů. Takové věci dělali ti, kdo leželi v Héricourtu, často a mnohokrát."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „bin e vod xx“ → „bin c vnd xx“ (asi 120), „bin ij engelschen“ → „ijᶜ“ (asi 200; Usteriho horní index OCR ztratilo), „ob ec“ → „ob c“ (přes 100), „ja meinung eiwz“ → „jn meinung etwz“, „vod“ → „vnd“, „blündrentend“ → „blündrottend“. Čísla jsou rekonstrukce z poškozeného OCR, je třeba je ověřit v edici nebo rukopisu [?].",
+  "„engelschen“ = Angličané, tj. angličtí žoldnéři ve službě Karla Smělého (mimo text).",
+  "Héricourt drželi konfederáti po bitvě u Héricourtu v listopadu 1474 jako posádku (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

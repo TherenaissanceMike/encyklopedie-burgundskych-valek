@@ -1,0 +1,23 @@
+{
+ "cislo": 265,
+ "nadpis": "Das die von Switz vor dannen zugent und ouch die von Thun mit iren panern gar ein verren weg von Eidgnossen und vor den vienden in ordnung hieltent.",
+ "edice": "Tobler I, s. 375",
+ "rukopis_strana": 651,
+ "odstavce": [
+  {
+   "text": "265. Das die von Switz vor dannen zugent und ouch die von Thun mit iren panern gar ein verren weg von Eidgnossen und vor den vienden in ordnung hieltent.",
+   "preklad": "265. Že Schwyzští táhli napřed a s nimi i Thunští se svými korouhvemi a stáli v šiku daleko od ostatních konfederátů a před nepřáteli."
+  },
+  {
+   "text": "In dem zugent die fromen Eidgnossen von Switz und mit inen die von Thun, die dero von Bern sind, mit iren panern ob Famerkü hinin einen verren weg von allem volk, und hielten do uf einer höche, das man si lang für viend schatzt. Ze stund kamend die viend gegen inen und erzougten sich gar mechticlich, also das ein geschrei harab für Famerkü kam, die fromen lüte und Eidgnossen von Switz und ouch die von Thun werent von den vienden angriffen und litten not.",
+   "preklad": "Mezitím táhli stateční konfederáti ze Schwyzu a s nimi Thunští, kteří patří Bernu, se svými korouhvemi nad Vaumarcus dál, daleko ode všeho vojska, a zastavili se tam na výšině, takže je [vlastní lidé] dlouho považovali za nepřátele. Vzápětí proti nim vyrazili nepřátelé a ukázali se ve velké síle, takže dolů k Vaumarcus dolehl křik, že stateční lidé a konfederáti ze Schwyzu i Thunští byli nepřáteli napadeni a jsou v nouzi."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: vypuštěny zbloudilé znaky („panern : ob“, „also .das“).",
+  "Podle Edlibacha byl v předvoji i 800 Curyšských, celkem 1500 mužů; píseň v kap. 275 zná jen Schwyz, Thun a Bern.",
+  "Cesta „nad Vaumarcus“ je podle Toblera stará Via d'Etraz, která vede severně od Vaumarcus přes návrší dolů k Onnens."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,27 @@
+{
+ "cislo": 221,
+ "nadpis": "Das Jungij das slos von den soldnern verbrent wart und si dannen zugent.",
+ "edice": "Tobler I, s. 308",
+ "rukopis_strana": 526,
+ "odstavce": [
+  {
+   "text": "221. Das Jungij das slos von den soldnern verbrent wart und si dannen zugent.",
+   "preklad": "221. Jak žoldnéři vypálili hrad Jougne a odtáhli odtamtud."
+  },
+  {
+   "text": "Als nü die drig stette Bern, Friburg und Solotern und mit inen die von Lutzern ir knecht und soldner lange zit zü Jungij und in andern slossen hatten ligen gehebt, do wolt nieman me zü Jungij bliben und wart iederman unlustig, dann man vorcht, man wurde etwan, so mans allerminst vertrüwt, lüt do verlieren, und wart man zü rat, das man allen zug von buchsen und andern dingen dannen nemen und dann das güt stark slos, das doch ein rechte pass des landes was, anstossen und verbrönnen solt, semlichs ouch beschach.",
+   "preklad": "Když nyní ta tři města, Bern, Fribourg a Solothurn, a s nimi Luzernští drželi své knechty a žoldnéře dlouhou dobu v Jougne a na jiných hradech, nechtěl už nikdo v Jougne zůstat a každý byl nevrlý, neboť se obávali, že tam jednou, až by to nejméně čekali, přijdou o lidi. I usneslo se, že se odtamtud odveze všechen válečný materiál, děla i jiné věci, a pak se ten dobrý, pevný hrad, který byl přece pravým průsmykem do země, zapálí a vypálí; což se také stalo."
+  },
+  {
+   "text": "Das wart aber nachmalen die von Bern und ander gar übel geruwen; dann hette man es also lassen stan und mit luten und zuge nach notdurft besatzt, der herzog von Burgunnen hette nit als wol mögen harin rücken, als man harnach gar luter vindet.",
+   "preklad": "Toho však Bernští i jiní později velmi litovali; neboť kdyby se byl hrad nechal stát a obsadil se lidmi a výzbrojí podle potřeby, nebyl by burgundský vévoda mohl tak snadno vtáhnout sem do země, jak se dále velmi jasně dočteme."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: vypuštěna dvojtečka („vertrüwt, : lüt“), geruweu → geruwen.",
+  "Tobler: kromě Jougne byl zbořen i hrad v Orbe; bernská rada 26. 10. 1475 zboření obou hradů litovala. K vévodovu vpádu viz kap. 248.",
+  "„zug“ = válečný materiál, zejména dělostřelectvo (přeloženo opisem)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

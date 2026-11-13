@@ -1,0 +1,23 @@
+{
+ "cislo": 307,
+ "nadpis": "Das die von Bern gen Milden zugen und nam iederman, was im werden mocht.",
+ "edice": "Tobler II, s. 57",
+ "rukopis_strana": 780,
+ "odstavce": [
+  {
+   "text": "307. Das die von Bern gen Milden zugen und nam iederman, was im werden mocht.",
+   "preklad": "307. Jak Bernští táhli na Moudon a každý si vzal, čeho se mu mohlo dostat."
+  },
+  {
+   "text": "Und also zugent die von Bern mit ir paner den nechsten gen Milden; dieselben alle, was dann von priestern, mannen und frowen was, gingent inen engegen mit allem heiltüm und begerten gnaden, die man inen ouch tet; dann man si alle bi leben lies bliben, wie wol si einer harten straf nach irem verdienen wirdig werent gewesen. Doch wart dennocht in der ganzen stat sackman gemacht und wart gros güt darinne erobert und gewunnen.",
+   "preklad": "A tak táhli Bernští se svou korouhví nejkratší cestou na Moudon. Všichni tamější kněží, muži i ženy jim vyšli vstříc se všemi ostatky svatých a prosili o milost, kterou jim také prokázali: nechali je totiž všechny naživu, ačkoli by si podle svých zásluh byli zasloužili tvrdý trest. Přesto bylo celé město vypleněno a bylo v něm dobyto a ukořistěno velké jmění."
+  }
+ ],
+ "poznamky": [
+  "Milden = Moudon (Vaud). Cesta vedla přes Payerne (Peterlingen).",
+  "Bernský rukopis má v nadpisu „die von Bern und ander mit inen mit iren panern“ (Bernští a jiní s nimi).",
+  "„sackman machen“ = plenit; „heiltüm“ = ostatky svatých (relikvie) nesené v procesí."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

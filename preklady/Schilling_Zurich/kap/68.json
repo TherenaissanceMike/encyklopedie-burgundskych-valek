@@ -1,0 +1,34 @@
+{
+ "cislo": 68,
+ "nadpis": "Wie der vorgenant herr Peter von Hagenbach etlich from lüte zu Tann mit dem swert sins eignen gewalts an alles recht richten und etwas zites an den gassen ligen lies.",
+ "edice": "Tobler I, s. 103",
+ "rukopis_strana": 151,
+ "odstavce": [
+  {
+   "text": "68. Wie der vorgenant herr Peter von Hagenbach etlich from lüte zu Tann mit dem swert sins eignen gewalts an alles recht richten und etwas zites an den gassen ligen lies.",
+   "preklad": "68. Jak zmíněný pan Peter von Hagenbach dal v Thannu několik poctivých lidí svou vlastní mocí a bez jakéhokoli práva popravit mečem a nechal je nějaký čas ležet na ulicích."
+  },
+  {
+   "text": "Die erbern stette im Brisgow, im Sunkow und am Rine, die dann siner pflege gewant und sinem schirm undertenig warent, beswert er mit dem böspfennig und andern harten stüren witer und anders, dann aber inen vermüglich und ir friheit oder alt herkomen was. Und als sich des etlich biderb lut der räten und burgern von Tann etwas widren wolten, und gern bi iren friheiten und gerechtikeiten beliben werent, als bald er das vernam, da hat er einen heimlichen schantlichen anslag gemacht und überviel die armen fromen lüte an einem morgen frü mit denen so bi im warent, und lies si alle den merteil nackent uf das rathus füren, und hies ein teil sweren nit us dem rathus komen, bis er inen erloubt, und ouch ir werinen von inen ze geben.",
+   "preklad": "Ctihodná města v Breisgau, v Sundgau a na Rýně, která patřila pod jeho správu a byla poddána jeho ochraně, zatížil „zlým fenikem“ (böspfennig) a jinými tvrdými daněmi, více a jinak, než mohla unést a než odpovídalo jejich svobodám nebo starým zvyklostem. A když se tomu někteří poctiví lidé z rady a měšťanstva v Thannu chtěli trochu vzepřít a rádi by zůstali při svých svobodách a právech, jakmile se to dozvěděl, ukul tajný a hanebný úklad. Jednoho časného rána přepadl ty ubohé poctivé lidi s těmi, kdo byli s ním, a dal je všechny, většinou nahé, odvést na radnici. Části z nich dal přísahat, že z radnice nevyjdou, dokud jim to nedovolí, a že odevzdají své zbraně."
+  },
+  {
+   "text": "Die andern so im eben, dero bi drissig warent, lies er also nacket binden und an den merit in der stat füren, in der meinunge, si alle enthoupten und vom leben zem tode bringen lassen. Dabi warent graf Oswalt von Tierstein, herr Hans Erhart von Rinach und ander ritter und knecht, die das gros mort liessen beschechen und nit darzü tatent. Also wurdent der armen unschuldigen martrer bi vieren enthouptet mit gewalt und an recht, die lies er zü smach und vorcht der menscheit also ellende und tot vor iren wibern, kinden und fründen etlich tage an den gassen ligen.",
+   "preklad": "Ostatní, kteří se mu hodili, a bylo jich asi třicet, dal takto nahé svázat a odvést na tržiště ve městě s úmyslem dát je všechny stít a připravit o život. Byli u toho hrabě Oswalt von Tierstein, pan Hans Erhart von Rinach a jiní rytíři a panoši, kteří tu velkou vraždu nechali stát a nic proti tomu neučinili. Tak byli asi čtyři z těch ubohých nevinných mučedníků násilím a bez práva sťati. Ty nechal k potupě a k zastrašení lidí ležet takto bídně a mrtvé několik dní na ulicích před očima jejich žen, dětí a přátel."
+  },
+  {
+   "text": "Da rettent dennocht die vorgenanten umbstender als vil darin, das der wüterich ein benügen hat und die andern bi dem leben lies. Er strafte si aber an irem güt herticlich und nam inen, was im eben was; alles wider got und recht. Derglich und ander unverdient grim töde lies er an mengem biderman, armen und richen, handlen.",
+   "preklad": "Přesto ti zmínění přihlížející do toho tolik mluvili, že se ten ukrutník spokojil a ostatní nechal naživu. Potrestal je však tvrdě na majetku a vzal jim, co se mu zlíbilo; vše proti Bohu a právu. Podobné i jiné nezasloužené kruté popravy dal vykonat na mnoha poctivých mužích, chudých i bohatých."
+  }
+ ],
+ "poznamky": [
+  "Datum: Tobler podle Witteho klade popravy v Thannu na 4. 7. 1473. Schillingovo líčení v hlavních bodech potvrzuje listinný záznam ve štrasburském archivu; Rýmovaná kronika o Hagenbachovi mluví jen o třech popravených (Schilling „bi vieren“, bernská varianta „vier“).",
+  "„böspfennig“ (zlý fenik): Hagenbachova daň, která podle Witteho (cit. Tobler) burgundskou vládu „v pravém smyslu slova podkopala“. Šlo o spotřební daň z vína (upřesnění mimo Tobler).",
+  "Osoby: hrabě Oswald von Tierstein (Tobler odkazuje na Birmannovu studii); Hans Erhart von Reinach (Tobler odkazuje na I, s. 24, pozn. 2).",
+  "„die im eben“ = ti, kteří se mu hodili, které si vybral (glosář: eben = gelegen); „umbstender“ = přihlížející (glosář); „werinen“ = zbraně (glosář); „ritter und knecht“ = rytíři a (šlechtičtí) panoši.",
+  "Bernské varianty: „an den blatz in der stat“ (na náměstí) místo „merit“, „der snöd wüterich“ (ten hanebný ukrutník), „unverdiente, grim töde volbracht er an mengem biderman“.",
+  "Oprava textu: odstraněn zbytek OCR „ja! ND ER“ (okrajové znaky) mezi „wurdent der“ a „armen“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

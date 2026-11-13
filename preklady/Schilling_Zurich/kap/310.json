@@ -1,0 +1,34 @@
+{
+ "cislo": 310,
+ "nadpis": "Wie vil lüten vor Murten erslagen wurdent und umbkament.",
+ "edice": "Tobler II, s. 59",
+ "rukopis_strana": 791,
+ "odstavce": [
+  {
+   "text": "310. Wie vil lüten vor Murten erslagen wurdent und umbkament.",
+   "preklad": "310. Kolik lidí bylo před Murtenem pobito a zahynulo."
+  },
+  {
+   "text": "Also zugent die von Bern und iederman mit iren panern wider heim und was inen in allen dingen von gottes gnaden gar wol und glücklichen gangen, dem man ouch die ere geben und sich des nieman überheben sol. Also wurdent die von Bern von stund an zü rat, das man die toten libe, so dennocht in dem velde und in dem sewe unvergraben warent, als vil man dero vinden mocht, süchen und vergraben und wurden lüte darzü geordnet, die das tün solten.",
+   "preklad": "Tak táhli Bernští i všichni ostatní se svými korouhvemi zase domů a ve všem se jim z boží milosti vedlo velmi dobře a šťastně; Bohu se za to má také vzdát čest a nikdo se tím nemá vynášet. Bernští se pak hned usnesli, že se mrtvá těla, která dosud ležela nepohřbena v poli a v jezeře, mají vyhledat a pohřbít, kolik se jich dá najít, a ustanovili k tomu lidi, kteří to měli udělat."
+  },
+  {
+   "text": "Also wurden der toten lüten funden und zesamengetragen us dem wasser und uf dem velde, die dann vergraben wurden, die man schatzt und überslüg ob 26,000 mannen, der wurden in zwo grüben 18,000 geleit, darunder on allen zwivel vil grosser landsherren von Burgunnen, Saföy, Lamparten und andern landen, darzü ander grafen, frien, herren, ritter und knechten gewesen sind, als man nachmalen wol vernomen hat.",
+   "preklad": "Tak bylo z vody a z pole nalezeno a sneseno tolik mrtvých, kteří pak byli pohřbeni, že se jich odhadem napočítalo přes 26 000 mužů; z nich bylo 18 000 uloženo do dvou jam. Mezi nimi bylo bezpochyby mnoho velkých zemských pánů z Burgundska, Savojska, Lombardie a jiných zemí, k tomu i jiní hrabata, svobodní páni, páni, rytíři a panoši, jak se potom dobře doslechlo."
+  },
+  {
+   "text": "Wie wol ir namen harin nit verschriben stand, so ist doch kuntlich und am tage, das allein us der grafschaft von Burgunnen ob fünfzechenhundert edler umbkomen sind, als die iren selber clagt hand. Der almechtig ewig gotte welle inen allen die ewig rüwe verlichen.",
+   "preklad": "Ačkoli zde jejich jména nejsou zapsána, je přece známo a zjevné, že jen z hrabství Burgundského zahynulo přes patnáct set šlechticů, jak sami jejich lidé naříkali. Všemohoucí věčný Bůh dej jim všem věčné odpočinutí."
+  }
+ ],
+ "poznamky": [
+  "Důležitá varianta bernského rukopisu: místo „der wurden in zwo grüben 18,000 geleit“ má „die wurden alle in zwo grüben geleit“ – tedy všech přes 26 000 do dvou jam, bez čísla 18 000. Konec: „me dann fünftzechenhundert, alles grafen, frien, ritter und knecht“. Nadpis kap. 310 v rukopise: „Wie vil lüten vor Murten umbkament und zem teil gesücht und vergraben wurden“.",
+  "Pohřbívání se nespěchalo: 5. 7. Bern nařídil lidem z Erlachu pohřbít mrtvé, ještě 17. 8. jednal o pomoci s pohřbem. 1480 Bern žádal potrestání muže, který u Murtenu vykopával mrtvé a pálil jejich šaty. U hrobů vznikla kaple Deseti tisíc rytířů (zakládací listina Bernu a Fribourgu 1481 pro převora Petra Roliera od sv. Kateřiny v Murtenu).",
+  "(K písni v kap. 311.) „Walchen/Welsche“ překládám „Vlaši“ = Románi (Burgunďané, Savojané, Lombarďané).",
+  "(Kap. 311, sl. 18.) [?] „den hellenbarten was so not“ = doslova „halapartnám bylo tak naspěch“; chápu jako horlivost halapartníků.",
+  "(Kap. 311, sl. 22.) [?] „wie wol ir nieman mocht haben gom“: goum haben = dávat pozor; smysl asi „ačkoli doufali, že je nikdo nezpozoruje“.",
+  "(Kap. 311, sl. 30.) [?] „sin rach die mocht im nit vergan“: podle Toblera nedává dobrý smysl; Liliencron čte „sin roch die mochten im nit fürgan“ (věže mu nemohly postoupit / nepomohly)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

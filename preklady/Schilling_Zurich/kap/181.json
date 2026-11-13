@@ -1,0 +1,23 @@
+{
+ "cislo": 181,
+ "nadpis": "Das man fürer in Burgunnen wolt ziechen, als harnach stat.",
+ "edice": "Tobler I, s. 251",
+ "rukopis_strana": 417,
+ "odstavce": [
+  {
+   "text": "181. Das man fürer in Burgunnen wolt ziechen, als harnach stat.",
+   "preklad": "181. Jak se chtělo táhnout dále do Burgundska, jak se píše dále."
+  },
+  {
+   "text": "Als man nü Grangii und ander slos gewunnen und erobert hat, do warent die von Strasburg und ander einungsherren und -stette des willens und der meinunge fürer in Burgunnen zü ziechen, und besunder für ein stat und slos genant Clerva und do dannen von einem an das ander, damit si iren sachen und dem kriege ein erlich ende geben. Darzü gabent die von Bern und ander ir mitgewanten iren güten willen und meintent, si werent denen von Strasburg, iren allerliebsten fründen und puntgnossen zü sundern eren und liebe usgezogen, bi denen und andern woltent si ouch bliben und mit inen sterben und genesen, des inen von den houptlüten von Strasburg, hern Petern Schotten und andern gar herziclichen wart gedankt.",
+   "preklad": "Když bylo dobyto Granges a jiné hrady, měli Štrasburští a ostatní páni a města spolku vůli a úmysl táhnout dále do Burgundska, zvláště před město a hrad jménem Clerval a odtud od jednoho k druhému, aby svým záležitostem a válce dali čestný konec. K tomu dali Bernští a jejich ostatní spojenci svou dobrou vůli a říkali, že vytáhli ke zvláštní cti a lásce Štrasburských, svých nejmilejších přátel a spojenců; při nich a při ostatních chtějí také zůstat a s nimi žít i zemřít. Za to jim štrasburští hejtmani, pan Peter Schott a další, velmi srdečně poděkovali."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Clerval leží na levém břehu Doubsu. Peter Schott byl štrasburský cechmistr (ammeister) v letech 1470, 1476, 1482 a 1488 (Tobler).",
+  "Bernské varianty: nadpis „als man harnach vindet“; „ander stett und slos“; „willen und rettent“; „getrüwen puntgnossen“; „usgezogen und wolten ouch bi inen bliben“.",
+  "Oprava textu: „Qlerva“ → „Clerva“, „ıiren“ → „iren“, „früunden“ → „fründen“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

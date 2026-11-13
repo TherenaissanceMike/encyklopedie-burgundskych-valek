@@ -1,0 +1,27 @@
+{
+ "cislo": 41,
+ "nadpis": "Das die edlen zu Bern von mannen und frowen an disen dingen, dem vorteil, kein benügen haben und das nit halten wolten.",
+ "edice": "Tobler I, s. 49",
+ "rukopis_strana": 93,
+ "odstavce": [
+  {
+   "text": "41. Das die edlen zu Bern von mannen und frowen an disen dingen, dem vorteil, kein benügen haben und das nit halten wolten.",
+   "preklad": "41. Jak urození v Bernu, muži i ženy, nebyli s těmito věcmi, s tou výsadou, spokojeni a nechtěli ji dodržovat."
+  },
+  {
+   "text": "Do nü semlicher vorteil am canzel gelesen und den edlen frowen vorbehalten wart in worten als vorstat, da hattent der adel von mannen und frowen kein benügen an und meintent, si weren dabi und mit nit gewesen und hetten ouch das nit gelobt noch gesworen, und satztent sich etwas darwider und meintent nit, das man inen semlichs verbieten, noch kein satzunge noch ordnung über si machen möcht, sunderlich solt man inen vor andern einen vorteil lassen, als dann das in aller welt recht, dem adel zügeeignet und von altem her geben were und meintent, ir wiber und töchtern köndent sich anders niendert uszeichnen noch sich bekantlich machen, dann mit den langen swenzen an iren cleidern; den andern vorteil mit gold und andern dingen, den man inen hett geben, der wurde von gemeinen frowen gebrucht.",
+   "preklad": "Když tedy byla ta výsada přečtena z kazatelny a urozeným paním vyhrazena slovy, jak stojí výše, nebyla s tím šlechta, muži ani ženy, spokojena. Mínili, že u toho nebyli a nepodíleli se na tom, a že to ani neslíbili, ani neodpřisáhli; trochu se tomu vzepřeli a mínili, že se jim nic takového nesmí zakazovat ani se nad nimi nesmí vydávat žádné ustanovení či nařízení. Zvláště se jim má ponechat výsada před ostatními, jak ji po celém světě právo šlechtě přiznává a odedávna dává. A mínili, že jejich ženy a dcery se nemohou nijak jinak odlišit a dát poznat než dlouhými vlečkami na svých šatech; tu druhou výsadu, se zlatem a jinými věcmi, kterou jim dali, užívají prý i obecné ženy."
+  },
+  {
+   "text": "Und wart gar grosser merglicher unwillen von inen gesechen, so verr, das ein gemein geschrei allenthalben in Eidgnossen, ouch zu Basel und an andern enden in stat und uf dem lande gebrucht und offenlichen gerett wart: es weren gros uneinhellikeiten und parthien zwüschent dem adel und der gemeinde, das von gottes gnaden dennocht nit was; und wurdent vil wunderlicher und selzner worten gebrucht von einem und dem andern, die ich umb der kürze und sunderlich umb fridens und rüwe willen unterwegen und bliben lass.",
+   "preklad": "U nich bylo vidět velmi velkou a značnou nevoli, a to tak, že se všude mezi konfederáty, také v Basileji a na jiných místech, ve městech i na venkově, šířila obecná pověst a veřejně se říkalo, že jsou mezi šlechtou a obcí velké neshody a strany; to však z boží milosti přece nebyla pravda. Z jedné i druhé strany padalo mnoho podivných a zvláštních slov, která pro stručnost a hlavně kvůli míru a klidu vynechávám a nechávám být."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: konec nadpisu („disen dingen, dem vorteil, kein benügen haben und das nit halten wolten“) byl v OCR odtržen a stál na začátku prvního odstavce; vrácen do nadpisu (i v poli „nadpis“). Odstraněny zbytky OCR „:“, „““, „_“ a vlepená čísla okraje „Ko or or LO OT“; „snaden“ → „gnaden“.",
+  "„bekantlich“ = poznatelný (glosář), „parthie“ = strannictví, rozkol (glosář), „selzen“ = podivný.",
+  "Bernské varianty: „Do nü“, „obstat“, „recht und ouch dem adel zügeeignet were“, „könden sich mit keinen andern dingen uszeichen noch bekantlich [machen]“, „Und wart ein grosser merglicher unwill“, „weren uneinikeiten und gros parthien“, „gemeinde von Bern“, chybí „dennocht“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

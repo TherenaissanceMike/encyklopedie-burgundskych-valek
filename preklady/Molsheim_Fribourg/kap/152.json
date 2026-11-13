@@ -1,0 +1,33 @@
+{
+ "cislo": 152,
+ "nadpis": "Von der grossen macht, so der herzog von Burgun vor Gransson hat, böse und gut und wie vil der Eydgnossen worend.",
+ "edice": "Büchi 1914, ř. 1882–1891 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Von der grossen macht, so der herzog von Burgun vor Gransson hat, böse und gut und wie vil der Eydgnossen worend.",
+   "preklad": "152. O veliké moci, kterou měl vévoda burgundský před Grandsonem, špatných i dobrých, a kolik bylo konfederátů."
+  },
+  {
+   "text": "Doch umb das man wüsse die macht und gewalt des bürgünschen herzogen an lütten, so er vor Granssen hatt, han ich vernomen von denen, so under dem bürgünschen her, so dozumal nach dem stritt von den Eydgnossen gevangen wurden, das des herzogen von Bürgün Volk und macht gesetzt wart für hundert tusent man, bös und gut durch enander.",
+   "preklad": "Aby se však vědělo, jakou moc a sílu na lidech měl burgundský vévoda před Grandsonem: slyšel jsem od těch z burgundského vojska, kteří byli tehdy po bitvě konfederáty zajati, že lid a moc vévody burgundského byly odhadovány na sto tisíc mužů, špatných i dobrých dohromady."
+  },
+  {
+   "text": "Und der Eydgnossen macht was an der zal 18000 man und ee darunder denn darüber, als sich das an der bütte erfunden hatt, do sich doch nieman verbarg. Item der vorgenant herzog von Bürgün hatt ouch nit die minsten, denn sunder userlesen güten, adel und herren vor Gransen gehept, nemlich us Engelland, us Bikardye, us Flandren, us Bürgün, us Savoy, us Pemunt, us Lamparten, us Italia von Venedie, darzü des künges sun von Napels, der persönlich by im was und vil ander fürsten und herren, wiewol sy all von den gnaden gottes nit vil da gewunnen hand. [Sy kamen ouch nit all wider heim. Doch ettlichen, denen vor Gransen nit recht was beschechen, dem wart aber vor Murten sin lon und sold.]",
+   "preklad": "A moc konfederátů činila v počtu 18 000 mužů, spíše méně než více, jak se to ukázalo při kořisti, kde se přece nikdo neskrýval. Zmíněný vévoda burgundský měl také před Grandsonem ne nejhorší, nýbrž vybranou dobrou šlechtu a pány, totiž z Anglie, z Pikardie, z Flander, z Burgundska, ze Savojska, z Piemontu, z Lombardie, z Itálie, z Benátek, k tomu syna neapolského krále, který byl u něho osobně, a mnoho jiných knížat a pánů, ačkoli ti všichni tam z Boží milosti mnoho nezískali. [Také se všichni nevrátili domů. Kterým se však před Grandsonem nedostalo, co jim patřilo, ti dostali svou odměnu a žold před Murtenem.]"
+  }
+ ],
+ "poznamky_editora": [
+  "') Am 5. März, Fries 411, vgl. dazu das Schreiben Moresinos bei Gingins Dep. I, Nr. 135 und Bernoulli II, 26. Die Berner nahmen den Rückweg über Murten und erhielten dort ein Brotgeschenk, Ochsenbein 543. Die Freiburger schenkten Bern, Solothurn, Basel und Strassburg Hafer, desgleichen dem Heere von Kolmar, Freiburg, Schlettstadt, Oesterreich und Breisach laut Beschluss vom 11. März, s. Büchi, Freiburger Akten 33. — *) Vgl. oben S. 147, Arm. 1."
+ ],
+ "poznamky": [
+  "Text: z nadpisu odstraněn Büchiho odkaz „Vgl. Schilling 1, 390, al. 3.“ (odpovídá Schillingovi C. 274, poslední dva odstavce). Z konce odstavce [1] odstraněn aparát variant (od „2, Zusatz: …“ po „… kürisser B. E. St.“), který se vmísil do textu; spojka „Und“ přesunuta na začátek odstavce [2], kde věta pokračuje. Opraveno OCR („ivas“ → was, „Ion und so!d“ → lon und sold).",
+  "Büchi: podle Entreprises, Bonstettena a Tüsche měli konfederáti i se spojenci asi 20 000 mužů (varianta D: 23 000). Synem neapolského krále je princ Fridrich z Tarentu. Biskup z Coma 11. 3. psal, že burgundské ztráty se zpočátku odhadovaly mnohem výš. Vévoda dorazil večer v den bitvy do Nozeroy a 3. 3. do Joux.",
+  "Varianta B, E, St. dodává k 100 000 mužů: „mezi nimi bylo dobře 50 000 kyrysníků (kürisser)“; varianta B, F, St. k Štrasburským (konec kap. 143): jejich jízda odjela do Fribourgu a zůstala tam celý půst.",
+  "Oproti Schillingovi: Molsheim píše „18 000 mužů, spíše méně než více“ (Schilling: „a ne víc“) a nemá zbožné přání na konci; místo něho přidává poznámku, že se všichni domů nevrátili a kdo před Grandsonem nedostal, co mu patřilo, dostal svou „odměnu a žold“ před Murtenem."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

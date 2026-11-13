@@ -1,0 +1,25 @@
+{
+ "cislo": 38,
+ "nadpis": "Wann das heilig sacrament us dem münster zu Bern verstolen wart.",
+ "edice": "Tobler I, s. 44",
+ "rukopis_strana": 86,
+ "odstavce": [
+  {
+   "text": "38. Wann das heilig sacrament us dem münster zu Bern verstolen wart.",
+   "preklad": "38. Kdy byla z bernského minstru ukradena svatá svátost."
+  },
+  {
+   "text": "In dem iare do man zalt von der gebürt ünsers lieben herren Jhesu Cristi tusent vierhundert sechzig und fünf iare, wart leider das heilig wirdig sacrament mit sampt einer kostlichen silbrin monstranzen us dem münster verstolen und hinweg getragen, und beschach das in einer nacht. Und do man morndes in die kilchen kam und den grossen merglichen verlust sach, da erschrack menglich von ganzem herzen, als nit unbillich was. Und wurden etlich personen geistlich und weltlich darumb gevangen und in mengen weg ersücht, und mocht man doch uf keinen rechten grund komen. Die von Bern schribent ouch in Tütsch- und Welschland und schickten mengen botten us, des si grossen costen hatten, und kond man das niendert erfragen, bis lang darnach befant man, das es durch einen priester, der dann gestorben, verstolen was. Derselb hat das an dem totbette veriechen; das wart den räten von Bern in geheimd durch etlich from priester geseit und beschach das darumb, das ander from lute, die man damit verlümdet und beschuldiget hat, us dem grossen argwon koment, das gar wol getan und nach minem erkennen gein got dem almechtigen nit süntlich was.",
+   "preklad": "Léta od narození našeho milého Pána Ježíše Krista tisícího čtyřstého šedesátého pátého byla bohužel svatá a důstojná svátost spolu s drahocennou stříbrnou monstrancí ukradena z minstru a odnesena; stalo se to jedné noci. Když se nazítří přišlo do kostela a uviděla se ta veliká, citelná ztráta, každý se z celého srdce zděsil, jak nebylo divu. Několik osob duchovních i světských bylo kvůli tomu zatčeno a mnoha způsoby vyšetřováno, a přece se nedalo přijít na pravou příčinu. Bernští také psali do německých i vlašských zemí a rozeslali mnoho poslů, s čímž měli velké náklady, a nikde se to nedalo vyzvědět. Až dlouho potom se zjistilo, že to ukradl jeden kněz, který mezitím zemřel. Ten se k tomu přiznal na smrtelné posteli; několik počestných kněží to tajně sdělilo bernským radám, a to proto, aby se jiní poctiví lidé, kteří byli kvůli tomu pomlouváni a obviňováni, zbavili velkého podezření. To bylo velmi dobře učiněno a podle mého soudu to před všemohoucím Bohem nebyl hřích."
+  }
+ ],
+ "poznamky": [
+  "Datum: Tobler – krádež se stala ve čtvrtek před sv. Marií Magdalenou, 19. 7. 1464 (ne 1465). Podle Červené knihy bylo ukradeno „svaté důstojné sacrament, také svatý olej, spolu se dvěma stříbrnými monstrancemi a jinými stříbrnými schránkami a klenoty“; každoročně 19. 7. se mělo konat modlení.",
+  "Tobler: z krádeže byl podezírán také mistr Johannes Bäli (odkaz na H. Türlera, 1893).",
+  "„Welschland“ = románské (francouzsky a italsky mluvící) země. „veriechen“ = přiznat se (glosář). Schillingova obhajoba, že sdělení nebylo hříchem, se zřejmě týká toho, že kněží prozradili, co se dozvěděli u smrtelného lože (výklad mimo Tobler).",
+  "Bernské varianty: „sacrament leider“, „verstolen und dieplichen genomen wart“, „darnach vernam man“; konec: „verlümdet und in argwon hat, zu friden kemen, das gar wol getan und gein got dem almechtigen nit sünde was“ (aby podezíraní došli pokoje).",
+  "Oprava textu: „ıare“ → „iare“, „Oristi“ → „Cristi“, „Tütschund“ → „Tütsch- und“, „Koment“ → „koment“, odstraněna dvojtečka; dva odstavce sloučeny podle edice."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

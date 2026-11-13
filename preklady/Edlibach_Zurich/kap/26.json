@@ -1,0 +1,23 @@
+{
+ "cislo": 26,
+ "nadpis": "Wie man für gramunntt zoch vnd dz sturmpt vnd demnach sich dz sloss vallant uffgab cet.",
+ "edice": "Usteri 1847, ř. 8025 souboru edice",
+ "rukopis_strana": 306,
+ "odstavce": [
+  {
+   "text": "Wie man für gramunntt zoch vnd dz sturmpt vnd demnach sich dz sloss vallant uffgab cet.",
+   "preklad": "Jak se táhlo před Gramont a ztekl se, a jak se potom vzdal hrad Valant atd."
+  },
+  {
+   "text": "Demnach zugend sy für gramunntt dz sloss vnd sturmptend dass wol bin dry gantzer stunden vnd gewunnend dass vnd erschlugend darjnnen ob c man vnd verlor nie kein man von jnnen den ein man der ward vonn fründen erstochen dz ander sloss ward uffgenomen vnd zugend die brugunschen darvss ane jr hab, also kamend aber vmm uff demselben zug ob iiijᶜ manen von brugunschen.",
+   "preklad": "Potom táhli před hrad Gramont, útočili na něj dobré tři celé hodiny, dobyli ho a pobili v něm přes sto mužů. Ze svých neztratili ani jednoho, kromě jednoho muže, kterého probodli vlastní přátelé. Druhý hrad byl přijat na milost a Burgunďané z něj odtáhli bez svého majetku. Tak na tomtéž tažení opět zahynulo přes 400 Burgunďanů."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „furlor“ → „verlor“, „jonen“ → „jnnen“, „uflgenomen“ → „uffgenomen“, „iiij*“ → „iiijᶜ“. Vypuštěn Usteriho údaj „(Vorstellung des Sturms.)“ (vyobrazení).",
+  "Srov. Schilling kap. 193–194: Gramont dobyt v pondělí 21. 8. 1475; Valant = hrad Fallon (Tobler). Schilling také uvádí, že posádka Valantu musela odejít bez majetku (v košilích).",
+  "„vonn fründen erstochen“ = zabit vlastními lidmi; ojedinělá zmínka o ztrátě vlastní palbou či zbraní."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

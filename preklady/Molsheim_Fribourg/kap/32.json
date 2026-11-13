@@ -1,0 +1,29 @@
+{
+ "cislo": 32,
+ "nadpis": "Wie der herzog von Oesterich sin lantschaft, so er verpfent und versezt hatt dem herzogen von Bürgün, umb LXXX m guldin widerumb zu sinen handen löste.",
+ "edice": "Büchi 1914, ř. 532–533 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  99,
+  100,
+  101,
+  102,
+  104
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 99. 100, 101, 102, 104."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Oesterich sin lantschaft, so er verpfent und versezt hatt dem herzogen von Bürgün, umb LXXX m guldin widerumb zu sinen handen löste.",
+   "preklad": "32. Jak vévoda rakouský vyplatil zpět do svých rukou za 80 000 zlatých svou zemi, kterou zastavil vévodovi burgundskému."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: odstraněno „>“ (číslo řádku).",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 99–102 a 104) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

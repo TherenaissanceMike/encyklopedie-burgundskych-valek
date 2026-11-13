@@ -1,0 +1,24 @@
+{
+ "cislo": 175,
+ "nadpis": "Das die stat Grangii von denen von Bern und andern ouch gewunnen wart.",
+ "edice": "Tobler I, s. 248",
+ "rukopis_strana": 405,
+ "odstavce": [
+  {
+   "text": "175. Das die stat Grangii von denen von Bern und andern ouch gewunnen wart.",
+   "preklad": "175. Jak Bernští a jiní dobyli také město Granges."
+  },
+  {
+   "text": "Darnach zoch man mit dem züge gegen einer stat und slos genant Grangii, in willen und meinung, das mit dem sturm und dem swert ouch ze erobern; und als man das berant und ordnungen gemacht hat, do kament die armen lüte inen engegen und begertent barmherzikeit und gnaden, das man inen ouch mitteilt in semlicher meinung, das die armen lute bi iren hüsern und dem iren bliben, und solt man aber das slos sleipfen und brönnen und alle tüurne und muren der stat niderwerfen und us der stat ein dorf machen; das beschach aber nit volkomenlich, dann nieman wolt gern werken; doch wart den armen lüten des iren vil genomen und wart ganz sackman do gemacht.",
+   "preklad": "Potom se táhlo s vojskem proti městu a hradu jménem Granges s úmyslem dobýt je rovněž útokem a mečem. Když se k němu přitáhlo a sešikovalo se, vyšli prostí lidé vojsku vstříc a prosili o milosrdenství a milost. Ta se jim také dostala tak, že prostí lidé zůstanou ve svých domech a při svém, ale hrad se měl strhnout a vypálit, všechny věže a hradby města zbořit a z města udělat ves. To se však nevykonalo úplně, protože nikomu se nechtělo pracovat. Prostým lidem se přesto mnoho z jejich majetku pobralo a udělalo se tam úplné plenění."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Granges leží západně od Héricourtu. Knebel a Rüsch začínají tažení dobytím Pont-de-Roide (strategicky důležitého předmostí na levém břehu Doubsu), pak kladou Granges a L'Isle; o Pont-de-Roide Schilling nepíše nic. Štrasburské akty dávají za pravdu Schillingovi, který vypráví jako očitý svědek: vojsko vytáhlo ke Granges 24. 7. a město padlo následujícího dne (25. 7. 1475).",
+  "Bernská varianta: „gemacht hat und dennocht die von Bern und das ander volk miteinandern dahinden in einem wald warent und da an dem schatten rüwten, da kamen…“ – Bernští a ostatní byli ještě vzadu v lese a odpočívali ve stínu, když prostí lidé přišli prosit o milost.",
+  "Další bernské varianty: „stat und slos“ (v nadpisu), „am ersten sleipfen“, „nieman gern werken, noch sich damit bekümbern wolt“.",
+  "„sackman machen“ = plenit (Tobler, glosář). Pozor: edice má u této kapitoly záhlaví strany „243“, správně 248 (chyba OCR); pole edice opraveno."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

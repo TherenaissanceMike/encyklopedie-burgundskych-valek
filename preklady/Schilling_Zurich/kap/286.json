@@ -1,0 +1,29 @@
+{
+ "cislo": 286,
+ "nadpis": "Das man zü Röymont vor der stat gar herticlich an einem turn sturmt.",
+ "edice": "Tobler II, s. 19",
+ "rukopis_strana": 713,
+ "odstavce": [
+  {
+   "text": "286. Das man zü Röymont vor der stat gar herticlich an einem turn sturmt.",
+   "preklad": "286. Jak se u Romontu před městem velmi tvrdě útočilo na jednu věž."
+  },
+  {
+   "text": "Und als man in die vorstat kam, do stünd gar ein mechtiger turn bi der stat, do lüffen etlich endlich lüte an und sturmten den, und werte derselb sturm eben lang, dann die in dem turn sich ouch manlichen hielten und ritterlichen warten. Doch tet man inen als not, das man mit gewalt durch die muren inbrach und unden in den turn kam; dennocht was der turn ungewunnen, dann er gar vest mit gewelben was, eins ob dem andern. Und als sich nü das lang verzoch bis an dem abend, do trungen etlich vast dannen; aber die fromen lüte bi dem turn, do die das gesachen, da griffen si die ding gar hart an und wart der turn als vast genöt, das si darin gnaden begerten, und wurden also uf- und ein teil us dem turn genomen.",
+   "preklad": "Když se přišlo do předměstí, stála u města velmi mohutná věž. Na tu se vrhlo několik zdatných lidí a útočili na ni a ten útok trval dost dlouho, neboť ti ve věži se také drželi mužně a rytířsky se bránili. Přesto jim dali tak zabrat, že se násilím prolomilo zdí a dostalo dole do věže. Ani tak však věž nebyla dobyta, protože byla velmi pevná, s klenbami jedna nad druhou. Když se to protáhlo až do večera, mnozí se už hnali pryč; ale stateční lidé u věže, když to viděli, pustili se do věci velmi tvrdě a věž byla tak sevřena, že ti uvnitř prosili o milost. Tak byla část z nich přijata na milost a vyvedena z věže [?]."
+  },
+  {
+   "text": "In dem wart geheissen die vorstat brönnen, als davor stat; do die in dem turn das gesachen, do slügent si umb und woltent sich nit me ergeben, dann si wol gesachent, das man die sachen nit me beharren wolt und wurden dennocht in dem turn etlich verbrönt und gewüst; es wurden ouch etlich von Bern leider erschossen und etlich gar übel wund. Also zoch man dennocht gen Friburg und kam zü mitternacht dar und morndes zugent die von Bern ouch wider heim.",
+   "preklad": "Mezitím bylo rozkázáno zapálit předměstí, jak výše psáno. Když to ti ve věži viděli, rozmysleli si to a už se nechtěli vzdát, protože dobře viděli, že se v tom už nechce pokračovat. Přesto někteří ve věži uhořeli a zahynuli; bohužel bylo také několik Bernských zastřeleno a někteří velmi těžce raněni. Pak se táhlo zpět do Fribourgu, kam se přišlo o půlnoci, a nazítří táhli Bernští zase domů."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: nadpis „züu … hertielich Ä“ → „zü … herticlich“ (bernská varianta „harticlichen“); do 2. odstavce vlepeno číslo řádku a smetí („20 re WR“), odstraněno; „‘was“, „ufund“ → „uf- und“, „wart.“.",
+  "Bernský rukopis (varianty): „daran etlich endlich lut luffen“, „genötet“, „In dem wart geordnet die vorstat brönnen“ (bylo nařízeno), „da wolten si sich nit me ergeben“; chybí „leider“ a „gar übel“.",
+  "Tobler podle Westhusena: útok trval osm hodin, ve věži uhořelo 14 mužů, „mnohý muž“ byl zastřelen a mnozí zraněni; Knebel uvádí 5 mrtvých. Knebel líčí útok na věž jako svévoli bojechtivé mládeže proti vůli hejtmanů, což podle Toblera odporuje spolehlivé Westhusenově zprávě. Do Fribourgu přišli „ve čtvrtek v noci, když bilo dvanáct“ (Westhusen), domů v pátek 29. 3. 1476; 30. 3. už Diesbach a Wabern zasedali v radě.",
+  "„endlich“ = zdatný, rázný (Toblerův glosář). „slügent si umb“ = obrátili, rozmysleli si to. „gewüst“ = zahynuli, byli zničeni.",
+  "[?] „wurden also uf- und ein teil us dem turn genomen“: chápu „ufnemen“ jako přijmout na milost (kapitulaci); doslova „byli tak přijati a část vyvedena z věže“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

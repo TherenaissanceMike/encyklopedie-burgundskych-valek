@@ -1,0 +1,36 @@
+{
+ "cislo": 77,
+ "nadpis": "Wie Lyla, statt und schloss, indem so es gewunnen was verbrönt wart.",
+ "edice": "Büchi 1914, ř. 973–982 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  176
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 176."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie Lyla, statt und schloss, indem so es gewunnen was verbrönt wart.",
+   "preklad": "77. Jak bylo L'Isle, město i hrad, poté co bylo dobyto, vypáleno."
+  },
+  {
+   "text": "Item als man von Lila zoch, do wurden die büttmeister und knecht da gelassen, das sy das erobret güt gan Basel vertigen und us dem korn brot bachen und dem volk nachschicken solten; denn man an spiss mangel hatte. Darzü man ouch allenthalben in der vygenden land lag.",
+   "preklad": "Když se pak od L'Isle odtáhlo, zůstali tam kořistníci a knechti, aby ukořistěné statky dopravili do Basileje, z obilí napekli chléb a posílali ho za vojskem, neboť byl nedostatek potravin; kromě toho se všude leželo v nepřátelské zemi."
+  },
+  {
+   "text": "Indem kamen vil fröwen und kind wider gan Lyla, [die geflochen warend], und ritten die vigent umb die statt und hetten sich gern an inen, die in der statt der Unseren noch waren, gerochen. Und nachdem und ir gar wenig was, do wurdent sy ze ratt und stiessen die statt an und zugen mit gewerter hand ab. Do luffen die fröwen zu und laschtent das für gar manlich. In beleib ouch nit vil des iren in der statt, denn es was sackman gemacht.",
+   "preklad": "Mezitím se do L'Isle vrátilo mnoho žen a dětí, [které utekly], a nepřátelé objížděli město a rádi by se pomstili těm z našich, kteří ještě byli ve městě. A protože jich bylo velmi málo, uradili se, město zapálili a se zbraní v ruce odtáhli. Tu přiběhly ženy a velmi mužně oheň uhasily. Ani jim však ve městě nezůstalo mnoho z jejich majetku, protože bylo vypleněno."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi (poznámka vytištěná u kap. 79): L'Isle muselo zaplatit výpalné 100 liber; srov. Anonymní kroniku 515.",
+  "„es was sackman gemacht“ = bylo vydrancováno (Sackmann = plenění).",
+  "Oproti Schillingovi: podle Schillinga (kap. 176) ženy oheň uhasily a uvnitř našly ještě většinu statků; Molsheim naopak píše, že jim mnoho nezůstalo, protože město bylo vypleněno.",
+  "Opravy textu: do 1. odstavce vpadly Büchiho poznámky („<) Bestätigt durch Tüsch 63. — ä ) Vgl. Anonyme Chronik 515 …“), vypuštěny (patří ke kap. 74/75 a 76) a odstavec spojen s pokračováním na další straně. Dále „körn“ → „korn“, „'ritten“ → „ritten“, „ketten“ → „hetten“, „lüften“ → „luffen“, „lastent“ → „laschtent“, „beleih oueh“ → „beleib ouch“, číslo řádku a značka poznámky vypuštěny.",
+  "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

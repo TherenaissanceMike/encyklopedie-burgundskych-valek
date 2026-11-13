@@ -1,0 +1,30 @@
+{
+ "cislo": 146,
+ "nadpis": "Das vil ritter vor Granssen ze ritter geschlagen wurden.",
+ "edice": "Büchi 1914, ř. 1821–1823 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  273
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 273."
+ ],
+ "odstavce": [
+  {
+   "text": "Das vil ritter vor Granssen ze ritter geschlagen wurden.",
+   "preklad": "146. Že před Grandsonem bylo mnoho mužů pasováno na rytíře."
+  },
+  {
+   "text": "In disem leger vor Gransen wurden von edlen und andren fromen lütten, nachdem der stritt ein end hatt, vil ritter geschlagen, die ouch den ritterlichen orden noch tragen.",
+   "preklad": "V tom táboře před Grandsonem bylo po skončení bitvy pasováno na rytíře mnoho šlechticů a jiných statečných lidí, kteří ten rytířský stav dosud nosí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: spojeno rozdělené slovo „ge- » schlagen“, odstraněna značka poznámky.",
+  "Büchi (poznámka otištěná pod kap. 148): k pasování viz Schilling, Rüsch a podrobně Brennwald; Fries, Bonstetten a Curyšská kronika je pozoruhodně nezmiňují. Varianta B, St. vysvětluje, proč se pasovalo až po bitvě: lid nebyl před bitvou pohromadě a na nepřítele se narazilo tak rychle, že to nešlo zařídit.",
+  "Oproti Schillingovi: Molsheim nejmenuje Bern, Štrasburk ani Basilej a píše, že pasovaní rytířský stav „dosud nosí“ (Schilling: nosili až do smrti)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

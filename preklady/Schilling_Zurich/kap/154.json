@@ -1,0 +1,33 @@
+{
+ "cislo": 154,
+ "nadpis": "Das die Burguner, Lamparten und Bickarten mit grossen machten an die von Bern in witem velde kament und si nit getorsten angriffen.",
+ "edice": "Tobler I, s. 215",
+ "rukopis_strana": 346,
+ "odstavce": [
+  {
+   "text": "154. Das die Burguner, Lamparten und Bickarten mit grossen machten an die von Bern in witem velde kament und si nit getorsten angriffen.",
+   "preklad": "154. Že Burgunďané, Lombarďané a Pikarďané přitáhli s velkými silami proti Bernským v širém poli a netroufli si na ně zaútočit."
+  },
+  {
+   "text": "Do nü die von Bern in dem land von Burgunn also umbgezogen warent und gar vil schöner dörfern verbrönt und gewüst hatten, do zugent si mit ir paner wider harumb in meinung, an dem widerkere noch me ze brönnen und ze wüsten, und meintent sich dann nach gelegenheit der ding wol gerochen haben und schriben ouch iren herren heim gen Bern, das man von stund an die Eidgnossen und ander, so zü inen zugent, wenden solte, dann si ir nit bedörftent. Indem hattent sich die Burgunner, Lamparter und Bickarten mit grossen machten versampnet, die man schatzt ob zwölftusent gewapneter mannen, als das nachmalen von inen selber gesagt wart, und zugent also in güter ordnung uf witem velde in drin huffen und grossen scharen gein inen.",
+   "preklad": "Když se nyní Bernští takto protáhli zemí burgundskou a spálili a zpustošili velmi mnoho pěkných vesnic, obrátili se se svou korouhví zase zpět v úmyslu na zpáteční cestě ještě víc pálit a pustošit; a mínili, že se tím podle okolností dobře pomstili. Psali také svým pánům domů do Bernu, aby hned obrátili zpět konfederáty a ostatní, kteří k nim táhli, neboť je nepotřebují. Mezitím se Burgunďané, Lombarďané a Pikarďané shromáždili s velkými silami, které se odhadovaly na víc než dvanáct tisíc ozbrojených mužů, jak to později sami řekli, a táhli v dobrém pořádku po širém poli ve třech houfech a velkých šicích proti nim."
+  },
+  {
+   "text": "Do wart von stund an von dem vorgenanten herr Niclaus von Diespach, dem houptman und herr Hansen von Halwile, sinem swager, in demselben witen velde ein wagenburg geslagen und gar güt ordnungen gemacht, und ruckten also in derselben wagenburg gegen den vienden in rechter meinung mit inen zü striten, des si ouch von herzen begerten. Und wann si meintent si soltent bestan, so wichent si wider hindersich, und wurden inen etlich erschossen, dann die von Bern ir güten büchsen bi inen und ein semlich güt ordnung gemacht hatten, das si damit den erlichen widerstant tatent.",
+   "preklad": "Tu hned výše jmenovaný pan Niclaus von Diespach, hejtman, a pan Hans von Halwile, jeho švagr, dali na tomtéž širém poli postavit vozovou hradbu a udělali velmi dobrý šik. A postupovali tak ve vozové hradbě proti nepřátelům v upřímném úmyslu se s nimi bít, po čemž také ze srdce toužili. Ale kdykoli mínili, že nepřátelé vydrží, ti zase ustoupili nazpět, a několik z nich bylo zastřeleno; neboť Bernští měli u sebe svá dobrá děla a zařídili tak dobrý šik, že jím čestně vzdorovali."
+  },
+  {
+   "text": "Und als die viend semlichen ritterlichen widerstant und güt ordnungen under inen sachent, do zugent si schantlichen ab und fluchent an ir gewarsame; do mocht man si leider zü füs nit erilen, dann si alle zü ros warent. Und zugent also die von Bern desselben mals wider gen Ponterlin und verbranten und wüsten die stat und slos und darzü ander schön dörfer, was si underwegen funden.",
+   "preklad": "A když nepřátelé uviděli takový rytířský odpor a dobrý šik u nich, hanebně odtáhli a utekli do svých bezpečných míst; bohužel je nebylo možné pěšky dostihnout, neboť byli všichni na koních. A tak Bernští tentokrát táhli zase k Pontarlieru a spálili a zpustošili město i hrad a k tomu další pěkné vesnice, co jich cestou našli."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: nadpis „getorften «ngriffen“ → „getorsten angriffen“ (OCR).",
+  "Datum (Tobler): 23. 4. 1475. Podle listu Bernských Štrasburku (kap. 168) podnikli nepřátelé dva útoky, na velké rovině západně od Pontarlieru, kterou protéká Drugeon, když se Bernští vraceli od La Rivière (La Rivière-Drugeon).",
+  "Tobler: v listu Bernu Basileji z 27. 4. je počet nepřátel udán asi na 8 000, stejně u Niklause Rüsche.",
+  "Hans von Hallwyl je zde švagr Niclause von Diesbach („sinem swager“); týž Hallwyl velel předvoji u Murtenu (kap. 302).",
+  "Bernské varianty: „Bern und ander“, „Lamparter, Bickarten und ander“, „selber gerett“, „und ouch als erlich ordnung hatten“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

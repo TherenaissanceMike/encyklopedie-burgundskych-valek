@@ -1,0 +1,37 @@
+{
+ "cislo": 242,
+ "nadpis": "Von einer manlichen sach, die einer von Lutzern zu Iferdun tet.",
+ "edice": "Tobler I, s. 345",
+ "rukopis_strana": 584,
+ "odstavce": [
+  {
+   "text": "242. Von einer manlichen sach, die einer von Lutzern zu Iferdun tet.",
+   "preklad": "242. O mužném činu, který vykonal jeden Luzernský v Yverdonu."
+  },
+  {
+   "text": "Und als si in dem slos warent und sich anders nit dann sterbens oder genesens verwegen hatten, do gesachen si us dem slos ir gesellen sechs gein inen komen, die sich in der stat gesumpt und mit den vienden gar ritterlichen gevochten hatten. Das wart si gar übel erbarmen, das si umb ir gesellen und brüder also komen solten und wie vil volkes der vienden was zwüschen inen und den iren, do nament si aber den almechtigen, barmherzigen gotte zü hilf und liessent die valbruck aber nider und lüffent als ritterlich durch die viend, das si dieselben sechs knechte mit gewerter hand in das slos brachtent.",
+   "preklad": "Když byli na hradě a odhodlali se jen k tomu, že buď zemřou, nebo přežijí, uviděli z hradu, jak k nim jde šest jejich druhů, kteří se ve městě opozdili a velmi rytířsky bojovali s nepřáteli. Velmi je trápilo, že by měli takto přijít o své druhy a bratry. A ačkoli mezi nimi a jejich lidmi bylo tolik nepřátelského lidu, vzali si znovu na pomoc všemohoucího, milosrdného Boha, opět spustili padací most a probili se nepřáteli tak rytířsky, že oněch šest knechtů se zbraní v ruce dovedli do hradu."
+  },
+  {
+   "text": "Under denselben sechs knechten was gar ein manlicher geselle von Lutzern, der hat kein ander weri dann ein armbrest und nit me dann ein pfile, dann er die andern vorhin verschossen, und hat ein gerad swert umb sich gurt; und e er in das slos kam, do schos er mit demselben pfile einen in sin stirnen und hüw in damit ze tode. Denselben pfile zoch er wider us dem toten und schos den einem andern in sinen rucken; den ertot er ouch und nam den pfil zem andern mal wider und bracht den mit im in das slos und schos den darnach wider harus under die viend, als dann semlichs von sinen gesellen offenlichen gerett wart und ouch die warheit und am tage ist.",
+   "preklad": "Mezi těmi šesti knechty byl velmi mužný chlapík z Luzernu. Neměl jinou zbraň než kuši a jen jeden šíp, protože ostatní už předtím vystřílel, a kolem pasu měl připásaný rovný meč [?]. Než se dostal do hradu, střelil tím šípem jednoho [nepřítele] do čela a tím ho zabil. Ten šíp vytáhl z mrtvého zase ven a vystřelil ho jinému do zad; i toho zabil, podruhé šíp znovu vzal, přinesl ho s sebou do hradu a potom jím opět vystřelil ven mezi nepřátele. Tak to jeho druhové veřejně vypravovali, a je to pravda a všem známo."
+  },
+  {
+   "text": "Und do si also in das slos züsamen warent komen, do warent inen an demselben scharmutzen zwen ir gesellen zü tode geslagen; die brachtent si ouch mit inen in das slos und rustent sich trostlich gegen den vienden zü. Si brachent den kalchofen im slos ab und nament die und ander stein und trügent die uf die muren und meintent sich mit dem und anderm der Walchen mit gottes hilf zü erweren und hattent sich ouch des genziclichen verwegen, und als die Walchen semlichen grossen widerstand von so wenig lüten ersachen und das inen weder stürmen noch ander ir fürnemen als wenig zü schaffen gab, do getorsten si sich fürer nit me an si wogen und kament an si mit tröwworten, das si inen das slos übergeben, oder si müsten al darumb sterben und erhenkt werden.",
+   "preklad": "Když se tak všichni sešli v hradě, byli jim v té šarvátce zabiti dva jejich druhové; ty také přinesli s sebou do hradu. Pak se srdnatě připravili proti nepřátelům. Rozbořili vápenku na hradě, vzali její kameny i jiné kamení a nanosili je na hradby a chtěli se tím i jiným s Boží pomocí ubránit Vlachům; k tomu byli pevně odhodláni. A když Vlaši viděli tak velký odpor od tak malé hrstky lidí a že jim útoky ani jiné jejich podniky tak málo pomáhají, neodvážili se na ně už dál útočit a přišli na ně s výhrůžkami, ať jim hrad vydají, jinak že kvůli tomu všichni zemřou a budou oběšeni."
+  },
+  {
+   "text": "Das woltent die fromen lute nit tün und gabent inen kurz antwurt: si woltent recht uf die barmherzigkeit gottes, ir stürmen und anders erwarten und lieber ritterlich sterben, dann von inen als schantlich gezwungen werden.",
+   "preklad": "To stateční lidé udělat nechtěli a dali jim krátkou odpověď: že chtějí, spoléhajíce na Boží milosrdenství, vyčkat jejich útoku i čehokoli jiného a raději rytířsky zemřít, než se jim dát tak hanebně přinutit."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: „in’das“ → „in das“. Úplnost rozsahu ř. 24656–24739 ověřena.",
+  "Varianty: „manlicher man“; „gurtet“; „Und als si in das slos zusamen kament“; „balde übergeben“ (ať hrad brzy vydají); „und am tage“ ve variantě chybí.",
+  "[?] „gerad swert“: doslova „rovný meč“; snad meč s rovnou čepelí nebo rovnou záštitou, přesný typ nejistý.",
+  "„Walchen“ = Vlaši, tj. románsky (francouzsky) mluvící nepřátelé.",
+  "„kalchofen“ = vápenná pec (vápenka) na hradě; kameny z ní posloužily jako vrhací střely."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,24 @@
+{
+ "cislo": 112,
+ "nadpis": "Die absag, so denn die beden stett Bern und Friburg dem grafen von Remund schicktend.",
+ "edice": "Büchi 1914, ř. 1202–1203 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  206
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 206."
+ ],
+ "odstavce": [
+  {
+   "text": "Die absag, so denn die beden stett Bern und Friburg dem grafen von Remund schicktend.",
+   "preklad": "112. Vypovězení nepřátelství, které obě města Bern a Fribourg poslala hraběti z Romontu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: list Büchi pod nadpisem netiskne, odkazuje na Schillinga C. 206. Oproti Schillingovi: v nadpisu posílají vypovězení obě města, Bern i Fribourg."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

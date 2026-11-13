@@ -1,0 +1,29 @@
+{
+ "cislo": 63,
+ "nadpis": "Das die von Strasburg von der vorgenanten sach wegen uszugent.",
+ "edice": "Tobler I, s. 99",
+ "rukopis_strana": 140,
+ "odstavce": [
+  {
+   "text": "63. Das die von Strasburg von der vorgenanten sach wegen uszugent.",
+   "preklad": "63. Jak Štrasburští kvůli zmíněné věci vytáhli do pole."
+  },
+  {
+   "text": "Dis vernament die hantvesten fromen lüte die von Strasburg, die denen von Bern und andern Eidgnossen zü allen ziten vil truwen und früntschaft erzöugt hand, und zugent von stund an mit ir ufgeworfner paner und ganzer macht darzü mit iren houptbüchsen und anderm zuge für die stat und slos Schuttern und leiten ir houptbüchsen mit ingraben und anderm darzü dienende darfür, in willen und meinung, das mit dem swert zü erobren und die biderben lüte, so darinne gevangen warent, zü entschütten und erlösen, alles von rechter truw und liebe wegen, so si zü denen von Bern und andern Eidgnossen hattent.",
+   "preklad": "To uslyšeli zdatní a poctiví Štrasburští, kteří Bernským a jiným konfederátům odjakživa prokazovali mnoho věrnosti a přátelství, a hned vytáhli s rozvinutou korouhví a celou mocí, k tomu s velkými obléhacími děly (bombardami) a jinou výzbrojí, k městu a hradu Schutternu. Postavili před něj svá velká obléhací děla, se zákopy a vším, co k tomu slouží, s úmyslem a záměrem dobýt ho mečem a ty poctivé lidi, kteří tam byli zajatí, vysvobodit a vyprostit; to vše z upřímné věrnosti a lásky, kterou k Bernským a jiným konfederátům chovali."
+  },
+  {
+   "text": "Als bald man das zü Bern vernam, wart man ansechen und betrachten, das die fromen lüte von Strasburg von der Eidgnossen wegen usgezogen warent und ouch die gevangnen, so zü Schuttern lagent, inen und andern Eidgnossen zügehortent, und wolt man von stund an mit ofner paner und ganzer macht zü inen gezogen sin und lib und leben in allen truwen zü inen gesetzt haben; und wart für einen obristen houptman geordnet herr Niclaus von Scharnachtal, ein ritter, und ander venner und räte. Man schreib ouch dis ding allen andern Eidgnossen, die warent ouch alle willig.",
+   "preklad": "Jakmile se to v Bernu dozvěděli, uvážili a rozvážili, že poctiví Štrasburští vytáhli kvůli konfederátům a že zajatí, kteří leželi ve Schutternu, patří k nim a k jiným konfederátům. A chtěli hned táhnout k nim s rozvinutou korouhví a celou mocí a ve vší věrnosti nasadit po jejich boku hrdla i životy. Za nejvyššího hejtmana byl ustanoven pan Niclaus von Scharnachtal, rytíř, a s ním další praporečníci a radní. Psalo se o tom také všem ostatním konfederátům a i ti byli všichni ochotni."
+  }
+ ],
+ "poznamky": [
+  "Tobler: podle Rupperta poslal Štrasburk vypovídací list 8. 4. 1473 a vojsko vyslal následujícího dne; podle štrasburské kroniky a Moneho vytáhli Štrasburští až 11. 4. Bern však o jejich tažení věděl už 7. 4.",
+  "Tobler (bernský radní manuál): 14. 4. 1473 rada v Bernu rozhodla vytáhnout 20. 4. Hejtmanem byl zvolen Niklaus von Scharnachtal, praporečníkem Benedikt Tschachtlan, mistrem střelců Speichingen, nositelem praporce střelců Ignower a nositelem hejtmanského praporce Hans Schöni.",
+  "„houptbüchsen“ = velká obléhací děla (bombardy); „zug, gezüge“ = válečná výzbroj, zvláště dělostřelectvo.",
+  "Bernské varianty: nadpis „… wegen mit ganzer macht uszugen“, „gezüge“ místo „zuge“, „Eidgenossen vil trüwen und früntschaft zü allen ziten“.",
+  "Oprava textu: „da-rinne“ → „darinne“, „ven Strasburg“ → „von Strasburg“, „ofner : paner“ → „ofner paner“, „Scharnach_ tal“ → „Scharnachtal“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

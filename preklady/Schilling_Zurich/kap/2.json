@@ -1,0 +1,29 @@
+{
+ "cislo": 2,
+ "nadpis": "Das die von Schafhusen gemeinen Eidgnossen semlichen mütwillen clagtent und si umb hilf vermantent.",
+ "edice": "Tobler I, s. 6",
+ "rukopis_strana": 9,
+ "odstavce": [
+  {
+   "text": "2. Das die von Schafhusen gemeinen Eidgnossen semlichen mütwillen clagtent und si umb hilf vermantent.",
+   "preklad": "2. Jak si Schaffhausenští stěžovali všem konfederátům na tuto svévoli a vyzvali je o pomoc."
+  },
+  {
+   "text": "Semlichs clagtent aber die von Schafhusen gemeinen Eidgenossen und vermanten die ir gesworn pünden. Also wart inen von allen Eidgnossen hilflicher trost libs und güts zügeseit, und was menlich darzü gerust. Des underwant sich der bischof von Costenz und mit im ander herren und from lüt als ernstlich, das durch ir bitt willen ein tag gen Costenz bestimpt, und wart da als vil gearbeit, das denen von Schafhusen die achtzechenhundert guldin wider werden soltent mit bescheidnem costen, und nament sich daruf die rate von Oesterich für, iren fürsten zü bedenken.",
+   "preklad": "To si Schaffhausenští opět stěžovali všem konfederátům a vyzvali je podle jejich přísežných spolků. Tu jim všichni konfederáti přislíbili pomoc a oporu životem i statkem a každý byl k tomu připraven. Té věci se ujal kostnický biskup a s ním jiní páni a počestní lidé tak vážně, že na jejich prosbu byl stanoven sněm do Kostnice. Tam se tolik vyjednalo, že Schaffhausenští měli dostat zpět těch osmnáct set zlatých s přiměřenou náhradou nákladů, a rakouští radové se nato zavázali předložit to svému knížeti k uvážení."
+  },
+  {
+   "text": "Als bald der fürst das vernam, do wolt er das gelt nit geben, noch die teding halten; daruf sich die Eidgnossen mit ganzer macht zürustent, und woltent mit gewalt in das Hegow und uf den Swarzwalt gezogen sin, und wart ouch die stat Schafhusen von Eidgenossen wol besetzt.",
+   "preklad": "Jakmile se to kníže dozvěděl, nechtěl peníze vydat ani dohodu dodržet. Nato se konfederáti celou mocí vyzbrojili a chtěli násilím vtáhnout do Hegau a na Schwarzwald, a město Schaffhausen bylo také konfederáty dobře obsazeno."
+  }
+ ],
+ "poznamky": [
+  "Tobler: sněm konfederátů (Tagsatzung) 29. 6. 1467 žádala opata sv. Havla o 100 mužů do Schaffhausenu. Kostnický biskup = Hermann III. von Breitenlandenberg (1466–1474).",
+  "Tobler: sněm v Kostnici byl v polovině července 1467 a uzavřel příměří do sv. Vavřince (10. 8.); rakouští vyslanci Peter von Mörsberg a Marquard von Baldegg slíbili propustit am Stada bez výkupného. Druhý sněm v Kostnici kolem sv. Vavřince; podmínky prvního nebyly splněny a příměří se prodloužilo o 14 dní (do 2. 9.).",
+  "Tobler: konfederáti se koncem srpna usnesli, že po vypršení příměří potáhnou „s korouhví a mocí měst a zemí“ na Schwarzwald a k Villingenu, se srazem ve Stühlingenu a Hilzingenu v neděli po sv. Verene (6. 9. 1467). Bern 1. 9. povolal 130 mužů z Oberlandu a žádal Fribourg o 500, ale hned to odvolal a 25. 9. vyzval kláštery, aby se modlily za mír.",
+  "Varianty: nadpis kapitoly ve variantě chybí („Titel fehlt“); „gerüst und ganz willig“ (připraven a zcela ochoten); „mit zimlichem costen“.",
+  "Oprava OCR: „elagtent“ → „clagtent“ (v nadpisu), „Also wart. inen“ → „Also wart inen“; odstraněny odkazy na poznámky. Edice: kapitola stojí na s. 6, ne 4 (záhlaví „6 | 77467“)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

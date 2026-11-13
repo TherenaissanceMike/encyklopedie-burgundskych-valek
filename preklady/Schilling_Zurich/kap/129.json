@@ -1,0 +1,32 @@
+{
+ "cislo": 129,
+ "nadpis": "Das die von Bern mit ir paner und einem treffenlichen volke gen Erikort zugent.",
+ "edice": "Tobler I, s. 177",
+ "rukopis_strana": 276,
+ "odstavce": [
+  {
+   "text": "129. Das die von Bern mit ir paner und einem treffenlichen volke gen Erikort zugent.",
+   "preklad": "129. Jak Bernští vytáhli se svou korouhví a se znamenitým vojskem k Héricourtu."
+  },
+  {
+   "text": "Und also in dem namen gottes und der himelküngin magt Marien zugent die von Bern us mit ufgeworfener paner und mit drütusent stritbarer wolgeruster mannen, und hattent bi inen von rittern und knechten us ir stat, ouch us dem Ergow und anderswo har von denen, so inen zügehortent, einen erlichen adel, uf sant Simon und Judas tag in dem vorgenanten 74. iare; und warent houptlüt herr Niclaus von Scharnachtal ritter, und herr Peterman von Wabren, beid alt schultheissen zü Bern; die paner fürt aber Anthoni Archer, ein venner von dem erbern handwerk der pfistern, dem wart zügeben für einen houptman und rat von den smiden Gilgian Achshalm, ouch ein venner.",
+   "preklad": "A tak ve jménu Božím a nebeské královny Panny Marie vytáhli Bernští s rozvinutou korouhví a se třemi tisíci bojeschopných, dobře vyzbrojených mužů. S sebou měli rytíře a panoše ze svého města, také z Aargau a odjinud, od těch, kdo k nim patřili, tedy čestnou šlechtu. Stalo se to na den svatého Šimona a Judy zmíněného roku [14]74. Hejtmany byli pan Niclaus von Scharnachtal, rytíř, a pan Peterman von Wabren, oba bývalí bernští starostové. Korouhev však nesl Anthoni Archer, praporečník z ctihodného cechu pekařů. Tomu byl za hejtmana a rádce přidělen Gilgian Achshalm z cechu kovářů, rovněž praporečník."
+  },
+  {
+   "text": "Es zugen ouch mit denen von Bern die von Friburg mit einem venlin wolgerüster lüten. Darzü kamen ouch zü inen die von Solotern mit einem venlin und gar vil wolerzügter, endlicher lüten, die ein stat von Bern in keinen nöten nie verlassen und alwegen lieb und leid mit inen gelitten haben. Und zugen also in die stat gen Borrentrut, darinne man etwas tagen lag, iederman der sinen zü erwarten.",
+   "preklad": "S Bernské táhli také Fribourgští s praporcem dobře vyzbrojených lidí. Přišli k nim i Solothurnští s praporcem a s velmi mnoha dobře vystrojenými a zdatnými muži, kteří Bern nikdy v žádné nouzi neopustili a vždy s ním snášeli dobré i zlé. A tak táhli do města Porrentruy, kde se několik dní leželo a každý čekal na své lidi."
+  }
+ ],
+ "poznamky": [
+  "Datum: den sv. Šimona a Judy = 28. 10. 1474.",
+  "Rukopis s. 276–277 (ověřeno proti obrázku) se drží Toblerových variant, ne hlavního textu: nadpis „mit ir stat paner und einem erlichen volk“; „mit drü tusent gewapneter und streitbarer mannen“; „von rittern und andern edlen us der Statt ouch us dem Ergow und andern den iren“; letopočet chybí („in dem vorgenanten Jare“); „herr Niclaus von Scharnachtal und herr Peterman von Wabern ritter“ (rytíři jsou oba); „pfistern, des houptman was Gilian Achshalm ouch ein venner von den smiden“; „Es zugen ouch mit inen die von Sollotern und Friburg mit iren venlinen und vil erlicher lüten“. Ruční překlad rukopisného znění je v preklady/s276-277_kap129.md.",
+  "Věta „Darzü kamen … zü erwarten“ (o Solothurnských, kteří Bern nikdy neopustili, a o pobytu v Porrentruy) v bernském rukopisu chybí; je jen v Toblerově hlavním textu.",
+  "Tobler: v den odchodu nařídila rada, aby se ve všech klášterech a kostelích ve městě i na venkově každý pátek sloužila mše o utrpení Kristově za mír a vítězství Bernu.",
+  "Tobler: bernský soupis mužstva (Reisrodel) uvádí 181 mužů z města, 2 173 z venkova, 260 spoluměšťanů a 50 z Bielu.",
+  "Trasa podle Toblera (Witte): Nidau (tam se přidali Fribourgští s 500 muži a Solothurnští) – Biel – Pierre-Pertuis – Tavannes (Dachsfelden) – přes Les Rangiers (Repetsch) – Porrentruy – Montbéliard – Héricourt.",
+  "„knechten“ zde ve dvojici „ritter und knechte“ = panoši (urození, ale nepasovaní), proto „rytíře a panoše“.",
+  "Oprava textu: číslo kapitoly „123.“ → „129.“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; s. 276–277 porovnány s rukopisem; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": true
+}

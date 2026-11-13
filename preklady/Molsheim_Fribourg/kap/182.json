@@ -1,0 +1,39 @@
+{
+ "cislo": 182,
+ "nadpis": "Wie der herzog von Luttringen mit den Eidgnossen gan Nansse zoch.",
+ "edice": "Büchi 1914, ř. 2407–2415 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  324,
+  325
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 324, 325."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Luttringen mit den Eidgnossen gan Nansse zoch.",
+   "preklad": "182. Jak vévoda lotrinský táhl s konfederáty k Nancy."
+  },
+  {
+   "text": "Item in dem 77. jar uf sant Steffans tag, des helgen ersten marters, zog der herzog von Luttringen persönlich mit der Eydgnossen gesellen, so sich ze Basel gesampnot hatten, den nechsten gan Nanssen zü in sin vatterland, das ze erretten und die sinen, so mit grosser vygentlicher macht belegen waren, in Nansse ze entschütten. Denne die sinen, so in Nansse belegen warend, grossen gebresten und mangel hattend an essen, trinken und an andren dingen, darumb jederman dester williger und an verziechen mit grossem ernste zog.",
+   "preklad": "Item, v [14]77. roce na den svatého Štěpána, svatého prvomučedníka, táhl vévoda lotrinský osobně s druhy konfederátů, kteří se shromáždili v Basileji, nejkratší cestou k Nancy do své otčiny, aby ji zachránil a vysvobodil své lidi, obležené v Nancy velkou nepřátelskou mocí. Jeho lidé obležení v Nancy totiž trpěli velkou nouzí a nedostatkem jídla, pití i jiných věcí, a proto každý táhl tím ochotněji, bez otálení a s velkou vážností."
+  },
+  {
+   "text": "Es kam ouch zü im des fürsten von Oesterichs volk, darzü die erbren stett Strasburg, Basel, Colmar, Schlettstatt mit einem merklichen züschub. Und fürt man inen spis gnüg nach umb bescheiden gelt. Si hatten ouch underwegen güt herbrig und wurden, wo sy hinkamen, wol enpfangen und gelassen. Und do sy zü Sant Niclausporten kamen, das der herzog von Bürgün besetzt hatt mit den sinen, die überfielent sy und gewunnen die statt schnell und angendes. Und erstachen der vigenden ob hundert zü ross und zü füs. Und fiengent an in der meinung, das sy meinten, der herzog von Bürgün wurde komen und die sinen entschütten, das aber nit beschach; und liess die sinen also erstechen und umbbringen.",
+   "preklad": "Přišel k němu také lid knížete rakouského, k tomu ctihodná města Štrasburk, Basilej, Colmar a Sélestat se značnou posilou. A přiváželo se jim dost potravin za přiměřenou cenu. Cestou měli také dobré noclehy a všude, kam přišli, je dobře přijímali i propouštěli. A když přišli k Saint-Nicolas-de-Port, které burgundský vévoda obsadil svými lidmi, přepadli je a dobyli město rychle a hned. Pobodali přes sto nepřátel, jízdních i pěších. Tak začali [boj] v domnění, že burgundský vévoda přijde a své lidi vysvobodí; to se však nestalo a on své lidi nechal takto pobodat a zahubit."
+  }
+ ],
+ "poznamky_editora": [
+  "t) 26. Dez. 1476. — ’) Vgl. Tusch 97, Brennwald II, 267 ff. und Bernoulli a. a. Q. 29 ff. — 3 ) Vgl. Nicolaus 35 und Brennwald II, 265."
+ ],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněno číslo řádku „9o“ (= 20); OCR „Luftringen“ → „Luttringen“, „haftend“ → „hattend“, „zfischub“ → „züschub“, „körnen“ → „komen“, „Hess“ → „liess“, „Bür- gün“ spojeno; odstraněny značky poznámek a čísla řádků.",
+  "Datum: den sv. Štěpána = 26. 12. 1476 (Büchi). Molsheim píše „77. rok“, protože rok počítá od Vánoc.",
+  "Büchi: srov. Tüsche, Brennwalda, Bernoulliho a Nicolause. Ke druhému odstavci (poznámky ze s. 213 edice, v poli poznamky_editora chybějí): Štrasburk sám postavil jezdce (OCR čte „56 >“, číslo nejisté [?]) a 45 vozů se zásobami (Knebel); podle Tüsche pobili u Saint-Nicolas-de-Port 500 mužů.",
+  "Varianty: B, E, St. dodávají, že ctihodné město Štrasburk poslalo zvlášť velký oddíl jízdy a pěších, mnoho děl a nesčetné množství jiné výzbroje; B má „rakouská jízda“; D dodává, že noclehy byly předem dobře objednány.",
+  "Oproti Schillingovi (C. 324–325): Molsheim vynechává zmínku o Novém spolku; místo Schillingova „on se však neodvážil přijít“ píše, že burgundský vévoda své lidi v Saint-Nicolas-de-Port nechal pobít."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,27 @@
+{
+ "cislo": 169,
+ "nadpis": "Hienach stat geschriben von des zugs und reisen wegen gen Blomont und ander ende, und was man in demselben zuge stett und slossen gewan und erobert.",
+ "edice": "Tobler I, s. 242",
+ "rukopis_strana": 388,
+ "odstavce": [
+  {
+   "text": "169. Hienach stat geschriben von des zugs und reisen wegen gen Blomont und ander ende, und was man in demselben zuge stett und slossen gewan und erobert.",
+   "preklad": "169. Zde je popsána výprava a tažení k Blamont a na jiná místa, a jaká města a hrady se na té výpravě dobyly a získaly."
+  },
+  {
+   "text": "Nü demnach als die von Bern und ander, so bi inen vor Granson und an andern enden gewesen, wider heim komen warent und ir sachen mit hilf des almechtigen gottes gar wol geschaffet hatten und inen glücklich ergangen was, und aber der krieg zwüschen inen und Burgunnen offen stünd, do lüffen nützit destminder güt gesellen von Bern und andern Eidgnossen in Burgunnen und an ander ende ir viend zü schedigen, und taten inen gar grossen schaden mit merglichem berouben vechs und ander dingen, ouch mit erstechen und umbbringen gar vil lüten; desglich nament si ouch etwan hinwiderumb von inen schaden, als man dann in semlichen sachen erwarten müs.",
+   "preklad": "Když se pak Bernští a jiní, kteří s nimi byli před Grandsonem a na jiných místech, vrátili domů a s pomocí všemohoucího Boha své věci velmi dobře vyřídili a dařilo se jim, válka mezi nimi a Burgundskem však zůstávala otevřená, vybíhali přesto dobří tovaryši z Bernu a jiní konfederáti do Burgundska a na jiná místa, aby škodili svým nepřátelům. Působili jim velmi velkou škodu značným loupením dobytka a jiných věcí, i tím, že pobili a zahubili velmi mnoho lidí; stejně tak od nich občas zase utrpěli škodu, jak se to ve válečných věcech musí čekat."
+  },
+  {
+   "text": "Es hat ouch der küng von Frankenrich ein merglichen reisigen zug wider Lothringen ligen, zü widerstand dem herzogen von Burgunnen, der dann dem herzogen von Lothringen sin ganz herzogtüm mit gewalt und on recht angewunnen und davon vertriben hat.",
+   "preklad": "Také král francouzský měl proti Lotrinsku značné jízdní vojsko na obranu proti vévodovi burgundskému, který vévodovi lotrinskému mocí a bez práva dobyl celé jeho vévodství a vyhnal ho z něho."
+  }
+ ],
+ "poznamky": [
+  "Tobler: o drancování konfederátů po návratu od Grandsonu píše stejně i N. Rüsch (Basler Chr. III, 314); k dobytí Lotrinska a vyhnání vévody viz kap. 146.",
+  "Nadpis ohlašuje výpravu k Blamont, ale text kapitoly je jen úvodem; o tažení samém vyprávějí následující kapitoly (kap. 170–171 líčí nejprve žádost Štrasburku o vojáky).",
+  "Varianty druhého rukopisu: „Hienach vindet man geschriben“, „in semlich kriegsübungen“, „und in davon vertriben hat, als hievor ouch stat“; smysl nemění."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

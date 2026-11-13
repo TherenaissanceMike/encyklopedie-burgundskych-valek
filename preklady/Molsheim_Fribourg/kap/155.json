@@ -1,0 +1,30 @@
+{
+ "cislo": 155,
+ "nadpis": "Wie gemein Eydgnossen tusent man gen Friburg schickten.",
+ "edice": "Büchi 1914, ř. 1931–1933 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  279
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 279."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie gemein Eydgnossen tusent man gen Friburg schickten.",
+   "preklad": "155. Jak společní konfederáti poslali do Fribourgu tisíc mužů."
+  },
+  {
+   "text": "Do nu der herzog also vor Losen lag und die Eydgnossen von Granssen all wider heimen gezogen waren, und aber die gemein red was, wie er sich wolte für Friburg schlachen, do schickten gemein Eydgnossen von stetten und lendren tusent man gen Friburg, sy und ir statt in allen trüwen helfen beschirmen und behüten, das ouch von inen allen mit eren beschach. Und lagen da ettwas zittes und hielten sich wol und früntlich mit jederman und datten ouch nieman kein unzucht weder mit worten noch mit werken und bezalten ouch gütlich, was si verzarten.",
+   "preklad": "Když takto vévoda ležel u Lausanne a konfederáti se od Grandsonu všichni vrátili domů, ale obecně se říkalo, že se chce utábořit před Fribourgem, poslali společní konfederáti z měst i venkovských kantonů do Fribourgu tisíc mužů, aby ve vší věrnosti pomohli chránit a střežit Fribourgské i jejich město; to také všichni se ctí splnili. Leželi tam nějaký čas, chovali se ke každému dobře a přátelsky, nikomu neučinili žádnou nepřístojnost slovem ani skutkem a poctivě zaplatili, co utratili."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: odstraněny odkazy na poznámky a zbytky OCR („die f, gemein red“, „o wol“).",
+  "Büchi (poznámky jsou v surovém souboru u kap. 156): podle sněmu ve Schwyzu 24. 3. 1476 měla posádka ve skutečnosti jen 600 mužů pod vrchním velením curyšského purkmistra Hanse Waldmanna (hejtman 200 Curyšanů, korouhevník Jakob Tig). Vytáhli z Curychu 25. 3., podle Friese dorazili do Fribourgu až 9. 4. Fribourgská rada darovala Waldmannovi vůz sena za 37 šilinků a 14. a 16. 4. vystrojila konfederačním hejtmanům a válečným radám hostinu v hostinci „Jäger“ za 54 šilinků. Opat ze St. Gallen poslal místo uložených 35 mužů jen 16. Posádka zůstala do 19. 6.",
+  "Oproti Schillingovi (C. 279): Schilling uvádí, že se vévoda chtěl Fribourgu „nejprve zmocnit a podrobit“ a že posádka nečinila nepřístojnosti „ženám ani mužům“; jinak se text shoduje."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

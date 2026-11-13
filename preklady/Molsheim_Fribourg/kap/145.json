@@ -1,0 +1,32 @@
+{
+ "cislo": 145,
+ "nadpis": "Wie die vigent, so uf Famerkü lagen, abzugen.",
+ "edice": "Büchi 1914, ř. 1813–1817 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  272
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 272, al. 2. **"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die vigent, so uf Famerkü lagen, abzugen.",
+   "preklad": "145. Jak nepřátelé, kteří leželi na zámku Vaumarcus, odtáhli."
+  },
+  {
+   "text": "Item und als der herzog von Bürgün vorhin das schloss Famerkü ingenomen und besetzt hatt mit edlen, die im gar lieb waren, des hattend sich die Eydgnossen gar eigenlich underrett, das man vor allen dingen lütt usziechen und darzü ordnen solte, die das schlos solten beligen, und das man dieselben vigent möchte darinn behalten, darumb das man die fromen knecht, die ze Granssen so jemerlich erhenket waren, möchte mit in rechen. Es was aber jederman über das erhiitselig gut so gitig, und so nott, das man der eren vergas und wart verwarloset, das die vygent, so uf Famerkü lagen, in einer nacht usser dem schlos heimlich durch einen berg zugen und durch kuntschaft enweg gefürt wurden. Und kamen also enweg und liessen doch merteiles ir harnesch da und anders, das man da fand.",
+   "preklad": "Protože vévoda burgundský předtím dobyl zámek Vaumarcus a obsadil jej šlechtici, kteří mu byli velmi milí, domluvili se konfederáti velmi důkladně, že se především mají vybrat a určit lidé, kteří budou zámek obléhat, aby se ti nepřátelé v něm udrželi a aby se na nich mohli pomstít za ty statečné knechty, kteří byli v Grandsonu tak žalostně oběšeni. Ale každý byl na to neblahé [?] jmění tak chtivý a dychtivý, že se zapomnělo na čest a zanedbalo se to, takže nepřátelé, kteří leželi na Vaumarcus, za jedné noci tajně vyšli ze zámku přes horu a zvědové (kuntschaft) je odvedli pryč. A tak unikli, většinou tam však nechali svou zbroj a jiné věci, které se tam pak našly."
+  }
+ ],
+ "poznamky_editora": [
+  "') Drei Edelleute und zwei Knaben, « auch zwen von Friburg, als man mein » berichtet Tüsch F6. ■— 2 ) Die Panner von Simmental, Emmental, Wangen und das Fähnlein von Neuenburg, s. Entreprises 291. — 3 ) Bestätigt durch das Berner Katsmanual vom 19. März bei Ochsenbein 52. Dort wird der Anltihrer nach Bern zitiert. — ■*) Vgl. Schreiben der Luzerner Hauptleute vom 6. März in Luzerner Missiven Nr. 10, Entreprises 291 ff. und Bernoulli II, 25."
+ ],
+ "poznamky": [
+  "Text: opraveno OCR („haftend“ → hattend, „vggent“ → vygent, „Hessen“ → liessen), odstraněny značky poznámek a čísla řádků. „erhiitselig“ ponecháno; varianty mají „arbeitselig“ (Sch.) a „böse gut“, přeloženo jako „neblahé“ [?]. „so nott“ snad ve smyslu „tak dychtiví“ [?].",
+  "Büchi: k obléhání zámku byly určeny korouhve ze Simmentalu, Emmentalu, Wangenu a praporec Neuchâtelu (Entreprises). Útěk potvrzuje bernský radní manuál z 19. 3. 1476, kde je ten, kdo je vyvedl, předvolán do Bernu.",
+  "Oproti Schillingovi: Molsheim neuvádí sílu posádky (u Schillinga asi 350 mužů) a říká, že nepřátelé byli vyvedeni pryč „durch kuntschaft“, tedy zvědy či průvodci, a nechali tam hlavně svou zbroj (u Schillinga koně). Varianta D, N dodává: konfederáti toho velmi litovali."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 163,
+ "nadpis": "Das sich die von Jönge, stat und slos, ouch an die von Bern ergabent.",
+ "edice": "Tobler I, s. 222",
+ "rukopis_strana": 371,
+ "odstavce": [
+  {
+   "text": "163. Das sich die von Jönge, stat und slos, ouch an die von Bern ergabent.",
+   "preklad": "163. Že se obyvatelé Jougne, město i hrad, také vzdali Bernským."
+  },
+  {
+   "text": "Do man nü Orben also gewunnen und das besetzet hat, do wurdent die von Bern und ander ze rat, das man ouch gen Jönge ziechen und das erobern wolt, und schickt man ouch etlich kuntlüt dar durch des besten und minsten costen willen, und wart der von Wabern mit tusent mannen von Bern dar geordnet. Also begertent si ouch gnaden und ergabent sich an die von Bern, das man si bi dem iren lies bliben das tet man und wart stat und slos nach aller notdurft besetzet. Und was ouch, als man von dem widerteil warlichen vernam, ein semlicher schrecken in das land komen, das man Burgunnen wol gewunnen und vil nutzes und fromen geschaffet hette, dann das man mit spis und andern dingen nit versechen was; also wurdent die gewunnenen stett und slos nach aller notdurft besatzt und zoch man do wider heim.",
+   "preklad": "Když se nyní Orbe takto dobylo a obsadilo, Bernští a jiní se uradili, že potáhnou také k Jougne a dobudou ho. Poslali tam také několik zvědů, pro to nejlepší a s co nejmenšími náklady, a byl tam vyslán pán z Wabernu s tisícem mužů z Bernu. Tu i oni prosili o milost a vzdali se Bernským, s tím, aby je nechali při jejich majetku. To se učinilo a město i hrad byly obsazeny, jak bylo zapotřebí. A jak se od protivné strany s jistotou dozvěděli, přišel do země takový strach, že by se bylo dalo dobýt Burgundsko a získat mnoho užitku a prospěchu, nebýt toho, že nebyli zásobeni potravinami a jinými věcmi. A tak byla dobytá města a hrady obsazena, jak bylo zapotřebí, a táhlo se pak zase domů."
+  },
+  {
+   "text": "Item es zugen ouch des herzogen von Oesterich lantvogt und die stat von Strasburg gar mit einem erlichen reisigen züge gegen denen von Bern und warent gar vast tage und nacht geritten, das si zü inen kament; und wurdent doch am widerker von denen von Bern zü Nüwenburg gewent, das inen gar leid was, das man umb si ouch billich verdienen und in trüwen niemermer vergessen sol, dann undankberkeit in dem himel und ouch uf der erden für das gröste laster wirt geschetzt, davon nieman den andern versmachen sol.",
+   "preklad": "Rovněž zemský fojt rakouského vévody a město Štrasburk táhli k Bernským s velmi znamenitou jízdou a jeli velmi usilovně ve dne i v noci, aby k nim dorazili; ale na zpáteční cestě je Bernští v Neuchâtelu obrátili zpět, což jim bylo velmi líto. Proto se jim to má právem oplatit a ve věrnosti nikdy nezapomenout, neboť nevděk se v nebi i na zemi pokládá za největší neřest; proto nikdo nemá druhým pohrdat."
+  }
+ ],
+ "poznamky": [
+  "Tobler: dobytí Jougne (severozápadně od Orbe) muselo proběhnout před 6. 5. 1475. Bern v listu z 18. 5. píše, že Jougne má „die besten passen und rick us Saföy in Burgunnen in“ (nejlepší průsmyky a cesty ze Savojska do Burgundska); vojenský význam polohy zdůrazňují Knebel, Veit Weber a Etterlin. Entreprises se s ostatními líčeními rozcházejí.",
+  "Tobler podle Entreprises: posádky – Grandson 200–300, Orbe 300, Jougne 500–600 mužů.",
+  "Zemský fojt = Hermann von Eptingen (Tobler). Štrasburští podle Toblera i tentokrát nosili bílý kříž. Nüwenburg = Neuchâtel (mimo Tobler).",
+  "Bernský rukopis má u druhého odstavce vlastní nadpis: „Das die stat von Strasburg und des herzogen von Oesterich lantvogt ouch von der sach wegen usgezogen waren“ (Tobler ho nečísluje jako kapitolu). Text tam zní „das inen gar leid was, das si nit bi zit warent komen … dann si ouch das irs eignen willens und ungemant tatent“ (že nepřišli včas; učinili to z vlastní vůle a nevyzváni) a věta o nevděku chybí.",
+  "Bernské varianty prvního odstavce: „gnaden und barmherzikeit“, „bi dem leben und ouch bi dem iren bliben lies“ (při životě i majetku). „kuntlüt“ = zvědové (Toblerův glosář)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

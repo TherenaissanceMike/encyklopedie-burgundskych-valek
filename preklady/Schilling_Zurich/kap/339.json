@@ -1,0 +1,27 @@
+{
+ "cislo": 339,
+ "nadpis": "Das die von Bern wol drütusent werlicher mannen in ir stat beschicktent.",
+ "edice": "Tobler II, s. 130",
+ "rukopis_strana": 866,
+ "odstavce": [
+  {
+   "text": "339. Das die von Bern wol drütusent werlicher mannen in ir stat beschicktent.",
+   "preklad": "339. Jak Bernští povolali do svého města dobré tři tisíce branných mužů."
+  },
+  {
+   "text": "In disen dingen wurden die von Bern betrachten und zü herzen nemen die unfrüntlichen tröwwort, so dann von denselben knechten gerett und gebrucht wurden in eim und dem andern. Und beschribent daruf der iren von stetten und lendern zü inen in ir stat von Bern bi drütusent werlicher mannen, umb das si vor inen sicher weren und ouch ir meister und herren möchten bliben und sin. Dozwuschent warent si ouch von Burgdorf harzü gezogen und lagent lang vor der stat Bern, das man si darin nit wolt lassen, und beschach das darumb, das man entsas und in vorchten was, solt man si also ingelassen und dann deheinerlei unfrüntlicher worten oder werken von inen gehört haben, das man dann noch zü grössern unrüwen were komen; dann es dem gemeinen man zü Bern gar unlidig was, das man inen also tröwen und semlich unvernunft bruchen solt.",
+   "preklad": "Mezitím Bernští uvážili a vzali si k srdci nepřátelská výhrůžná slova, která ti knechti tu i onde mluvili a užívali. Obeslali proto ze svých měst a venkova k sobě do svého města Bernu na tři tisíce branných mužů, aby byli před nimi v bezpečí a mohli zůstat mistry a pány. Mezitím knechti přitáhli z Burgdorfu sem a leželi dlouho před městem Bernem, protože je dovnitř nechtěli pustit. Stalo se to proto, že se obávali a báli: kdyby je takto pustili dovnitř a pak od nich uslyšeli jakákoli nepřátelská slova nebo zažili takové činy, došlo by k ještě větším nepokojům; prostý lid v Bernu totiž velmi těžce snášel, že by se jim takto mělo vyhrožovat a vůči nim dopouštět se takové nerozumnosti."
+  },
+  {
+   "text": "So was ouch die stat vol fromer luten, die das ouch nit hetten mögen erliden; von semlicher sach wegen man si am ersten in die stat nit wolt lassen, das si gar übel verdros und meinten, wolt man inen also die stat vorbesliessen, so woltent si durch die Aren watten, damit si in die stat und von semlicher grosser kelte kement.",
+   "preklad": "Také bylo město plné statečných lidí, kteří by to rovněž nebyli snesli. Z té příčiny je napoprvé nechtěli pustit do města. To je velmi rozmrzelo a říkali, že jestli jim chtějí město takto zavřít před nosem, přebrodí Aaru, aby se dostali do města a z té veliké zimy."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: z textu vyňat cizí řádek „zü Friburg versampnen und do einandern erwarten, doselbs.“ (patří do kap. 338, kam byl vrácen) a slovo „len-…dern“ spojeno na „lendern“; na konci odstraněn zbytek „[si 1“; ı → i. Úplnost zkontrolována (ř. 9184–9307), nic nechybí.",
+  "Tobler: Bern přijímal opatření už předem – 17. 2. nařídil městu i venkovu být připraveni „bez velkého křiku a vyvolávání“, 19. 2. vyhlásil hotovost. Podle odvodní listiny v radním manuálu bylo povoláno 3068 mužů, aby po přečtení listu hned táhli do města a vzali si s sebou nějaké zásoby. Burgdorf poslal 100 mužů a se zbytkem měl bránit vlastní město; pět aargauských měst vojsko neposílalo, ale mělo své lidi vzít do měst a opevnit je mosty a hradbami; opati z Erlachu a Frienisbergu měli poslat, co mají, i obilí a víno (Frienisberg 50 mutů obilí). 25. 2. dostal fojt v Lenzburgu pokyn opatřit zámek a dát do pořádku děla; pro případ, že by Unterwaldenští přešli Brünig, byl varován starosta v Thunu.",
+  "Tobler: podle Knebela knechti hrozili, že vypálí předměstí. Varianty: „in ir stat me dann“ (více než tři tisíce); „damit si von der kelte kement“. „fromer luten“ = statečných, poctivých lidí; Aren = řeka Aare (Aara)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

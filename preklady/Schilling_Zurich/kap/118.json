@@ -1,0 +1,29 @@
+{
+ "cislo": 118,
+ "nadpis": "Das die von Cöln gar güt hantvest lüte in die stat Nüss schicktent.",
+ "edice": "Tobler I, s. 166",
+ "rukopis_strana": 257,
+ "odstavce": [
+  {
+   "text": "118. Das die von Cöln gar güt hantvest lüte in die stat Nüss schicktent.",
+   "preklad": "118. Jak Kolínští poslali do města Neussu velmi dobré a statné lidi."
+  },
+  {
+   "text": "Als bald die von Cölne das vernament, do schicktent si gar treffenliche hantvest lüte gen Nüss und ving man von stund an, tag und nacht in derselben stat werken und sich gein dem herzogen von Burgunnen manlich zü rusten und meinten im mit gottes und des himelfürsten sant Küris hilf, der dann ir rechter patron ist, einen widerstand ze tünde, bis si us sinem gewalt von dem Römschen keiser, ouch andern fürsten, herren und richstetten möchtent entschüt werden, und tatent im gar grossen widerstant mit schiessen, scharmutzen und anderm.",
+   "preklad": "Jakmile se to Kolínští dozvěděli, poslali do Neussu velmi znamenité, statné lidi. A hned se v tom městě začalo dnem i nocí pracovat a mužně se chystat proti vévodovi burgundskému. Mínili mu s pomocí Boží a nebeského knížete svatého Quirina, který je jejich pravým patronem, klást odpor, dokud by nebyli z jeho moci vysvobozeni římským císařem a také jinými knížaty, pány a říšskými městy. A kladli mu velmi velký odpor střelbou, šarvátkami a jinak."
+  },
+  {
+   "text": "Er ving ouch mit inen vil stürmen und ander sachen an und als man das us gewarer kuntschaft hat, so wurdent etlich tage ob fünfhundert büchsensteinen gros und klein in die stat geschossen; si wartent sich ouch gar manlich, und tatent dem herzogen grossen widerstant und abbruch mit umbbringen und erstechen vil lüten, als man harnach witer hören wirt.",
+   "preklad": "On s nimi také začal mnoho útoků a jiných věcí, a jak je známo z věrohodných zpráv, byly některé dny do města vystřeleny přes pět set kamenných dělových koulí, velkých i malých. Oni se ale také velmi mužně bránili a působili vévodovi velký odpor a škodu tím, že mu pobili a probodli mnoho lidí, jak se dále uslyší."
+  }
+ ],
+ "poznamky": [
+  "Text: OCR „lute gen Nuss“ → „lüte gen Nüss“, mezera před středníkem.",
+  "„sant Küris“ = sv. Quirinus (Tobler), patron Neussu. „hantvest“ = statný, silný v boji.",
+  "„büchsensteinen“ = kamenné koule do děl (pušek).",
+  "Variant (pravděpodobně bernský rukopis): nadpis „lüte wider den herzogen von Burgunn in die stat Nüss schickten und taten“ = poslali lidi proti vévodovi burgundskému do Neussu.",
+  "Pokračování obléhání: kap. 133–140, 143–144."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

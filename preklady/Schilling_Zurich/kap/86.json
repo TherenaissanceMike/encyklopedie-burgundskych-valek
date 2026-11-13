@@ -1,0 +1,25 @@
+{
+ "cislo": 86,
+ "nadpis": "Das der herzog von Burgunnen wider vom lande für und die vorgenanten botten mit stolzen worten abwiset.",
+ "edice": "Tobler I, s. 129",
+ "rukopis_strana": 188,
+ "odstavce": [
+  {
+   "text": "86. Das der herzog von Burgunnen wider vom lande für und die vorgenanten botten mit stolzen worten abwiset.",
+   "preklad": "86. Jak burgundský vévoda opět odjel ze země a výše jmenované posly odbyl pyšnými slovy."
+  },
+  {
+   "text": "Do nü die vorgenannten botten semliche sachen an den herzogen von Burgunnen hatten bracht, als dann die instruction hievor wiset, da wart inen wenig güter antwurt noch ustrags, und wurden uf die zite im fürer nachzeriten mit stolzen worten abgewisen. Und als man meinte, er solt etwas zites bliben und das und anders im lande zü gütem bringen, da ruste er sich heimlichen zü und machte sich den nechsten us dem lande wider heim gen Burgunnen, und lies aber da den Hagenbach nach sinem mütwillen richsnen.",
+   "preklad": "Když tedy výše jmenovaní poslové přednesli tyto věci burgundskému vévodovi, jak ukazuje výše uvedená instrukce, dostalo se jim jen málo dobré odpovědi a žádného urovnání, a byli pyšnými slovy odmítnuti, aby za ním tentokrát dál jezdili. A když se mělo za to, že nějaký čas zůstane a tyto i jiné věci v zemi dovede k dobrému, tajně se přichystal, odebral se nejkratší cestou ze země zpět domů do Burgundska a nechal tam Hagenbacha vládnout podle jeho svévole."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: v nadpisu OCR „VOTBEUNHECH“ → „vorgenanten“.",
+  "Poslové a instrukce: jde o bernské a další poselstvo k vévodovi Karlovi s instrukcí otištěnou v kap. 85 (1473).",
+  "Tobler: údaje této kapitoly jsou nesprávné. V mülhausenské záležitosti se dosáhlo dohody a o tajném odjezdu Karla nemůže být řeč (Knebel, Witte).",
+  "Bernská varianta: „aber den Hagenbach, das wüten swin, nach sinem mütwillen regieren“, tedy nechal vládnout Hagenbacha, „tu zuřivou svini“. Dále „vermeint, er solte … bliben sin“, „heim in [Burgunnen]“.",
+  "„richsnen“ = vládnout (Toblerův glosář), „ustrag“ = urovnání, rozhodnutí sporu (glosář), „nachzeriten“ = jezdit za ním, následovat ho."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

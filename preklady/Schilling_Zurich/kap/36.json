@@ -1,0 +1,25 @@
+{
+ "cislo": 36,
+ "nadpis": "Wann ünser lieben frowen cappel und ouch das beinhus gebuwen wart.",
+ "edice": "Tobler I, s. 44",
+ "rukopis_strana": 82,
+ "odstavce": [
+  {
+   "text": "36. Wann ünser lieben frowen cappel und ouch das beinhus gebuwen wart.",
+   "preklad": "36. Kdy byla postavena kaple naší milé Paní a také kostnice."
+  },
+  {
+   "text": "Do man zalt tusent vierhundert sechzig und acht iar nach der gebürt ünsers lieben herren Jhesu Cristi wart ünser lieben frowen cappelle von nüwem ufgebuwen und gemacht, und wart die alt cappel und schül dannen gebrochen, und das gebein von den toten in dem beinhus darunder ouch gar ordenlich geleit und wart von biderben lüten vil gelts an die cappellen ufgenomen. Doch hat die stat von Bern des gar merglichen costen und beturet si des ganz nit, des si die himelküngin magt Maria wol ergetzen mag. Und warent buwmeister derselben cappel Jacob Clos und Tilman ein scherer, burger zü Bern, die ouch darzü grossen ernst und flis hatten.",
+   "preklad": "Léta od narození našeho milého Pána Ježíše Krista tisícího čtyřstého šedesátého osmého byla nově vystavěna a zřízena kaple naší milé Paní; stará kaple a škola byly strženy a kosti mrtvých byly velmi pořádně uloženy v kostnici pod ní. Od dobrých lidí se na kapli vybralo mnoho peněz. Město Bern s tím však mělo velmi značné náklady a vůbec jich nelituje; to mu nebeská královna panna Maria dobře může vynahradit. Staviteli této kaple byli Jacob Clos a Tilman, postřihač [?], bernští měšťané, kteří k tomu vynaložili velkou vážnost a píli."
+  }
+ ],
+ "poznamky": [
+  "Tobler: kaple Naší milé Paní „na kostech“ (auf dem Gebein) stála na hřbitově u minstru na východní straně. 9. 4. 1469 se rada ptala lausannského biskupa, zda dovolí, aby kapli vysvětil kostnický světící biskup. Je to první zmínka o školní budově v Bernu.",
+  "Tobler: Closs a Tillmann byli podle radního manuálu ze 14. 12. 1467 kostelníky (Kirchmeier) kostela sv. Vincence. Bernská varianta: „meister Tilman — zwen burger von Bern“, „Maria nach minem begern“.",
+  "„scherer“ [?]: podle Toblerova glosáře postřihač sukna nebo ranhojič; které řemeslo je míněno, nelze rozhodnout. „beturen“ = litovat, „ergetzen“ = odškodnit (glosář).",
+  "Oprava textu: „eappel“ → „cappel“ (nadpis), „wart. ünser“ → „wart ünser“; dva odstavce sloučeny podle edice.",
+  "Tobler: Schillingova první redakce (Sch. I) po této kapitole končí třemi kapitolami o sultánových titulech a jeho listu císaři."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

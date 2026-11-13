@@ -1,0 +1,25 @@
+{
+ "cislo": 40,
+ "nadpis": "Das man semlich ordnungen und satzungen offenlich an dem canzel in dem münster vor einem gemeinen volk lesen lies und man den edlen frowen einen vorteil erbot.",
+ "edice": "Tobler I, s. 49",
+ "rukopis_strana": 91,
+ "odstavce": [
+  {
+   "text": "40. Das man semlich ordnungen und satzungen offenlich an dem canzel in dem münster vor einem gemeinen volk lesen lies und man den edlen frowen einen vorteil erbot.",
+   "preklad": "40. Jak se tato nařízení a ustanovení dala veřejně přečíst z kazatelny v minstru před obecným lidem a jak se urozeným paním nabídla výsada."
+  },
+  {
+   "text": "Als nü dis ordnungen und satzungen wider ernüwert und gesworn wurden, da hat man lüt darzü geordnet, die daruf lügen solten, und sunderlich der gerichtschriber, grosweibel und die andern gemeinen weibel alle, die semlichs an die heiligen swüren und ouch das mit recht vertigen müsten; doch wart den edlen frowen darinne ein billicheit und vorteil vorbehalten, das si sich mit berlin, siden, edlem gesteine, gold und vech mit anderm nach irem gevallen uszeichen, und aber bi dem mess der spitzen und swenzen, namlich die swenz ein gemünd uf dem herde und die spitz an den schüchen eins vordern glichs lang an den vingern und nit lenger, nach inhalt der satzung, und als ander bliben und tragen soltent; und wart ouch semlichs an ofnem canzel vor allermenglichem gelesen und andern gemeinen frowen solicher vorteil, als davor gesündret und usgescheiden ist, verbotten.",
+   "preklad": "Když tedy byla tato nařízení a ustanovení znovu obnovena a odpřisáhnuta, ustanovili se lidé, kteří na ně měli dohlížet, a zvláště soudní písař, velký biřic a všichni ostatní obecní biřici, kteří to museli odpřisáhnout při svatých a provinilce také soudně stíhat. Urozeným paním však v tom byla vyhrazena slušná výjimka a výsada: smějí se podle své libosti vyzdobit perlami, hedvábím, drahými kameny, zlatem, kožešinou a jiným; co do míry špiček a vleček však mají zůstat při tom a nosit jako ostatní, totiž vlečku na píď po zemi a špičku na botách dlouhou jako přední článek prstu a ne delší, podle obsahu ustanovení. To bylo také přečteno z veřejné kazatelny přede všemi a ostatním, obecným ženám byla taková výsada, jak byla výše vyčleněna a oddělena, zakázána."
+  }
+ ],
+ "poznamky": [
+  "Tobler odkazuje na usnesení rady ze 17. 5. 1470: žádná žena nesmí nosit vlečku delší než „ein gemünd uf dem herd“ (píď po zemi); urozené paní se smějí zdobit zlatem, stříbrem a drahými kameny na prsou a na hlavě podle libosti a žádná prostá žena nesmí nosit kožešinu, jakou nosí urozené: kožešinu, hermelín a kuní. Nařízení se rozesílalo do Zofingenu, Aarau, Lenzburgu a Bruggu, 11. 8. do Basileje; 9. 11. 1470 dostal Thun příkaz stíhat krátké šaty a zobáky na botách.",
+  "Míry (Toblerův glosář): „gemünd“ = píď (Spanne), „glich“ = článek prstu (Glied), „vech“ = kožešina (Pelzwerk), „berlin“ = perly. „lügen“ = dohlížet (schauen). „mit recht vertigen“ = soudně stíhat (glosář: vertigen také „vor Gericht ziehen“); bernská varianta „rechtvertigen“.",
+  "„grosweibel“ = Grossweibel, vrchní soudní a radní sluha (biřic) Bernu; „weibel“ = biřici, soudní a radní sluhové.",
+  "Bernské varianty: „gestein, gold, vech und anderm“, chybí „und usgescheiden“.",
+  "Oprava textu: „l&t“ → „lüt“, „semünd“ → „gemünd“ (podle usnesení citovaného Toblerem), „sesündret“ → „gesündret“, odstraněny zbloudilé znaky „‘“, „‚“, „ ;“ a „|“ z nadpisu."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

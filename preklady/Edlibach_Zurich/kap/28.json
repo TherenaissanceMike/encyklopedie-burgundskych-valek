@@ -1,0 +1,25 @@
+{
+ "cislo": 28,
+ "nadpis": "Als man zog gan genff vnd lossen gan remund vnd jn die watt vnd dz land jnnam.",
+ "edice": "Usteri 1847, ř. 8057 souboru edice",
+ "rukopis_strana": 309,
+ "odstavce": [
+  {
+   "text": "Als man zog gan genff vnd lossen gan remund vnd jn die watt vnd dz land jnnam.",
+   "preklad": "Jak se táhlo k Ženevě a Lausanne, k Romontu a do Vaud a zabrala se ta země."
+  },
+  {
+   "text": "Ano domi m.cccc.Lxxv jar nach herpst zugend min heren von zürich bernn lutzern vry switz vnderwalden zug vnd glarus jn hochbrugund, vnd gewunend remund stefiss junyen vnd sust ob x schlossen vnd stetten, besunder schlugend sy zu steflis zu tod bin m manen vnd sust jn denn andren slossen bin vᶜ vnd zugend darnach gan genff da rittent jnnen dieselben von genff engegen mit einem geleitt vnd richtend sich mit xxvᵐ kronnen, suchtend demnach den pasthartien von brugun jn dem land zu remund darumm sy denn vsszogen warend er wz aber geflochen vnd fundent niement, darnach branttend sy orbun vnd andre sloss so sy uormals gewunnen hattend, dann anlein gransen behieltend sy vnd besatztend dz mit vᶜ manen und zugend da wider hein dessmalss wz jren ob xvᵐ mannen cet. vnd wz her johanss waldman vnsser von zürich hoptman.",
+   "preklad": "Léta Páně 1475 na podzim (po vinobraní) táhli moji páni ze Zürichu, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug a Glarus do Horního Burgundska a dobyli Romont, Estavayer, Jougne a ještě přes deset hradů a měst. Zvláště v Estavayeru pobili na tisíc mužů a v ostatních hradech asi 500. Potom táhli k Ženevě; tu jim Ženevští vyjeli vstříc s průvodem a vyrovnali se s nimi za 25 000 korun. Potom hledali burgundského bastarda v zemi Romontské, kvůli němuž vlastně vytáhli; ten však utekl a nikoho nenašli. Pak vypálili Orbe a jiné hrady, které předtím dobyli; jen Grandson si podrželi, obsadili ho 500 muži a táhli zase domů. Tentokrát jich bylo přes 15 000 atd. A naším curyšským hejtmanem byl pan Johans Waldmann."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „mPceccOLxxv“ → „m.cccc.Lxxv“, „jun“/„ju“ → „jn“, „v°“/„v<“ → „vᶜ“, „genfl“ → „genff“, „junen“ → „jnnen“, „vod“ → „vnd“, „mit:xxv”“ → „mit xxvᵐ“, „and“ → „vnd“, „xv”“ → „xvᵐ“. Vypuštěn Usteriho údaj o vyobrazení („Die Genfer bringen die Stadtschlüssel“, Ženevští přinášejí klíče města) a značka poznámky. Usteri: zpráva o Waldmannovi je pozdější přípisek, opis ji má.",
+  "„junyen“ = Jougne (srov. „Innien“ v kap. 29 a Schilling kap. 221). „stefiss/steflis“ = Estavayer; srov. Schilling kap. 211 (dobytí Estavayeru, říjen 1475). Pobití posádky Estavayeru 26. 10. 1475 (mimo text).",
+  "„den pasthartien von brugun“ [?]: výprava mířila proti hraběti Jakubovi Savojskému z Romontu (srov. Schilling kap. 202–206). Bastardem je snad míněn Antonín, „velký bastard“ Burgundský (mimo text); Edlibach zde možná plete osoby.",
+  "„nach herpst“: herbst znamená podzim i vinobraní; výprava proběhla v říjnu 1475 (mimo text).",
+  "Edlibach jmenuje všech osm míst včetně Zürichu, zatímco Schilling líčí tažení do Vaud hlavně z bernského pohledu."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

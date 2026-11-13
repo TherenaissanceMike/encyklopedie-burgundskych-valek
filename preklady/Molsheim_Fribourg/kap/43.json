@@ -1,0 +1,30 @@
+{
+ "cislo": 43,
+ "nadpis": "Wie die Eydgnossen vernamen, das der herzog von Burgün für Nüss sich gelegret hatt.",
+ "edice": "Büchi 1914, ř. 570–579 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Fehlt Schilling."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die Eydgnossen vernamen, das der herzog von Burgün für Nüss sich gelegret hatt.",
+   "preklad": "43. Jak se konfederáti dozvěděli, že se vévoda burgundský utábořil před Neussem."
+  },
+  {
+   "text": "Und als man diser dingen und des herzogen fürnemens teglich erwartet und aber sich, als das menglich wol weiss, ettlich treffenlich krieg und misshellung in dem bistum ze Köln zwüschent bischof Rupprecht, des pfallensgraven brüder, und der stift erhept hatten, wart den Eydgnossen kunt getan, wie das der herzog von Bürgün mit aller siner macht und gezüge uffgebrochen, zu hilf bischoffen Rupprecht hinab gen Köln gezogen were und sich darnach ettlich tagen, als er der gestifte ettlich stett und schlos am Rin ingenomen hatt, und sich für die statt Nüss gelegret. Das geschach glich darnach, als der von Hagenbach gerichtet worden was, umb die Pfinsten. Vor derselben [statt] Nüss wol vierzig wuchen lag mit grossem gewalt und übermüt und die mit stürmen und eigentlichem geschütze teglich in massen nöttigote, das im zü vil malen von den hantvesten lüten, so in Nüss lagen, der sinen vil erschlagen wurden.",
+   "preklad": "A když se na tyto věci a na vévodovy záměry denně čekalo a když, jak každý dobře ví, vznikly v kolínském biskupství velké války a rozepře mezi biskupem Ruprechtem, bratrem falckraběte, a kapitulou, dostali konfederáti zprávu, že vévoda burgundský vyrazil s celou svou mocí a vojskem, táhl dolů ke Kolínu na pomoc biskupovi Ruprechtovi a po několika dnech, když dobyl některých měst a hradů kapituly na Rýně, se utábořil před městem Neussem. To se stalo krátce poté, co byl von Hagenbach popraven, kolem Letnic. Před tímtéž městem Neuss ležel [vévoda] dobrých čtyřicet týdnů s velkou mocí a zpupností a útoky a usilovnou střelbou je denně sužoval tak, že mu stateční lidé, kteří v Neussu leželi, mnohokrát pobili mnoho jeho mužů."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněno „Fehlt Schilling.“ a „u“; „BurgUn“ → „Burgün“, „Nliss“ → „Nüss“. V textu „fiirnemens“ → „fürnemens“, „bist um“ → „bistum“, „Büpprecht“ → „Rupprecht“, „briider“ → „brüder“, „geziige“ → „gezüge“, „am Bin“ → „am Rin“, „Näss“ → „Nüss“, „ivas“ → „was“, „gewaU“ → „gewalt“, „in müssen“ → „in massen“ [?]; odstraněna čísla řádků („so“, „as“), hvězdičky a záhlaví strany. Hranatá závorka [statt] je Büchiho.",
+  "Data: Letnice 1474 = 29. 5. 1474; obléhání Neussu však začalo až 29. 7. 1474 (Tobler u Schillinga, kap. 117), Molsheimovo „kolem Letnic“ je tedy nepřesné. Ruprecht Falcký, arcibiskup kolínský, bratr falckraběte Fridricha I.",
+  "Büchi: varianta B, E, St místo „čtyřicet týdnů“ má „rok bez šesti týdnů“. Dále Büchi odkazuje na Schillinga, kap. 117, 118 a 138–140, a na řadu listů ve Státním archivu Fribourg, které se týkají neusské války (poznámka je v OCR u kap. 44).",
+  "Büchi, dlouhý dodatek rukopisů B, E, St: vévoda prostřílel hradby na třech místech až k zemi, obránci mu však při útocích zabíjeli tisíc, dvanáct set i dva tisíce mužů. Kde hradby padly, postavili tak silné bolverky (předsunuté bašty), že převyšovaly hradby, a příkopy opevnili bolverky a tajnými podzemními chodbami. Dvakrát vyšli v noci po třech z Neussu do Kolína, najali tři sta knechtů, každý si naložil na krk 16 liber střelného prachu, v noci se vrátili do města a při vstupu pobili asi dvě stě vévodových mužů. V Neussu byl obležen i lankrabě Heřman Hesenský, pozdější arcibiskup kolínský.",
+  "Oproti Schillingovi: kapitola u Schillinga chybí (Büchi: „Fehlt Schilling“), obléhání Neussu líčí Schilling jinými slovy v kap. 117 n."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

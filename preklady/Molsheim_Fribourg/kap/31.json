@@ -1,0 +1,25 @@
+{
+ "cislo": 31,
+ "nadpis": "Wie der küng von Frankrich durch sin künglich mayestat botschaft sich underwand, die vereinung ze machen zwüschent dem herzogen von Oesterich und den Eydgnossen.",
+ "edice": "Büchi 1914, ř. 530–531 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  95
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 95, al. 2; C. 96, 97, 98."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der küng von Frankrich durch sin künglich mayestat botschaft sich underwand, die vereinung ze machen zwüschent dem herzogen von Oesterich und den Eydgnossen.",
+   "preklad": "31. Jak se král francouzský skrze poselstvo svého královského majestátu ujal zprostředkování spolku mezi vévodou rakouským a konfederáty."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „boi- schaft“ → „botschaft“, „zwlischent“ → „zwüschent“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 95, odst. 2, a kap. 96–98) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

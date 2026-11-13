@@ -1,0 +1,31 @@
+{
+ "cislo": 50,
+ "nadpis": "Wie min heren von zürich mit xvc mannen gan bassel kamend vnd jnnen der hertzog von luttringen für die statt bassel engegen reitt.",
+ "edice": "Usteri 1847, ř. 8949 souboru edice",
+ "rukopis_strana": 360,
+ "odstavce": [
+  {
+   "text": "Wie min heren von zürich mit xvc mannen gan bassel kamend vnd jnnen der hertzog von luttringen für die statt bassel engegen reitt.",
+   "preklad": "Jak moji páni z Curychu přišli s 1500 muži do Basileje a jak jim vévoda lotrinský vyjel vstříc před město Basilej."
+  },
+  {
+   "text": "Also kamend min heren von zürich mit jren züg gan bassel jn ein dörfflin da schickt der hoptman her hans waldman hinjn dz man jnnen zu essen breitten sölt uff dz nachtmal, dz vernam nun jnderinhe zu bassel vnd ward dz dem hertzog von luttringen ouch gesagt wie der hoptman von zürich mit xvc mannen kemme die alle zum nachtmal zu bassel dz nachtmal essen weltend, da dz der obgenant hertzog vernam liess er jm ein pferd sattlen vnd zoümen vnd reitt mit ettlichen sinner diennren dem hoptman vnd den sinnen engegen vnd also enkamend sy jm uff der strass, aber sobald vnd der hertzog von luttringen den hoptman ersach sprang er von sinnem pferde gar schnel vnd enpfieng da den hoptman mit grossen froüden vnd erwüst jm sin pferd bin sinnen zoum vnd gieng zu fuss näbent dem hoptman gar witt also batt jn der hoptman gar früntlichen dz vnderwegen zu lassen vnd wider uff sin pfertt zu sittzen dz wolt nun der obgenant hertzog reinhart von luttringen nüt thun biss dz er glich gan bassel zu der stat kam da sass er wider uff sin pfertt vnd reitt näbent dem hoptman dem zug nach jn die stat bassel.",
+   "preklad": "Tak přišli moji páni z Curychu se svým vojskem k Basileji do jedné vesničky. Odtud poslal hejtman pan Hans Waldman do města, aby jim připravili jídlo k večeři. To se v Basileji dozvěděli [jnderinhe ?] a bylo to řečeno i vévodovi lotrinskému: že přichází curyšský hejtman s 1500 muži, kteří všichni chtějí v Basileji večeřet. Když to řečený vévoda uslyšel, dal si osedlat a zauzdit koně a s několika svými služebníky vyjel hejtmanovi a jeho lidem vstříc; i potkali se na cestě. Jakmile vévoda lotrinský hejtmana spatřil, velmi rychle seskočil ze svého koně a přivítal hejtmana s velkou radostí. Pak chytil jeho koně za uzdu a šel pěšky vedle hejtmana hodně daleko. Hejtman ho velmi přátelsky prosil, aby toho nechal a znovu nasedl na svého koně. To však řečený vévoda Reinhart Lotrinský nechtěl udělat, dokud nedošel až k městu Basileji. Tam znovu nasedl na svého koně a jel vedle hejtmana s vojskem do města Basileje."
+  },
+  {
+   "text": "Vnd also nun miner herren züg von zürich gan bassel kam, jndem kamend von andren ortten der eignoschaft ouch knächt als uil dz der von zürich vnd andren ortten ob viijm wurdentt also ward her hanss waldman erwelt zu einnem obresten höptman dess gantzen zügs vnd teil man da aber zu bassel allen knechten geld uss uff den sold vmm desswillen dz sich jetlicher uersächen möcht mit harnisch vnd kleideren vnd wz jnnen den allen notturfftig wass.",
+   "preklad": "A když vojsko mých pánů z Curychu dorazilo do Basileje, přišli mezitím i knechti z ostatních kantonů spříseženstva, takže Curyšských a lidí z ostatních kantonů bylo přes 8000. Pan Hans Waldman byl zvolen nejvyšším hejtmanem celého vojska. A v Basileji se opět všem knechtům rozdávaly peníze na žold, aby se každý mohl opatřit zbrojí a šaty a vším, čeho kdo potřeboval."
+  }
+ ],
+ "poznamky": [
+  "Usteri: Vorstellung (v rukopisu ilustrace nebo mezititulek)",
+  "Oprava OCR: v nadpisu „xy“ “ → „xvc“ (1500, srov. „xve“ v textu → „xvc“). Odstavec s Usteriho poznámkami pod čarou byl odstraněn a rozdělená věta („dz vernam nun / jnderinhe zu bassel“) spojena do jednoho odstavce. Dále „dörfllin“ → „dörfflin“, „waldman”)“ → „waldman“, „herizog“ → „hertzog“, „sinzer“ → „sinner“, „enkameud“ → „enkamend“, „vfl“ → „uff“, „'vnd“ → „vnd“, „jn.die“ → „jn die“, „van wz“ → „vnd wz“, „notturflig“ → „notturfftig“, „viijm®“ → „viijm“.",
+  "Usteriho poznámky: (*) k Holtzhalmovi v kap. 49: v opisu „Holzhalb“; (**) Waldmannovo jméno bylo v originále doplněno později a v opisu chybí.",
+  "„jnderinhe“ [?]: nesrozumitelný tvar, snad zkomolené „jnnen“ nebo „jederman“; přeloženo podle smyslu „v Basileji se to dozvěděli“.",
+  "„erwüst jm sin pferd bin sinnen zoum“: chápáno jako „chytil mu (hejtmanovi) jeho koně za uzdu“. Vévoda tedy vedl hejtmanova koně pěšky na znamení pocty. Hejtman pak vévodu prosí, aby znovu nasedl na „sin pfertt“, tedy na vlastního koně.",
+  "„dem zug nach“: doslova „za vojskem / s vojskem“, přeloženo volně.",
+  "Přes 8000 v Basileji: shodně Schilling kap. 322 (Tobler: 8400). Že nejvyšším hejtmanem byl Hans Waldmann, uvádí podle Toblera jen Edlibach (srov. poznámku u Schillinga kap. 324)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

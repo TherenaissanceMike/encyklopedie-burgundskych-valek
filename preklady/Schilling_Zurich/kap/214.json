@@ -1,0 +1,23 @@
+{
+ "cislo": 214,
+ "nadpis": "Das gar vil landsherren und ander denen von Bern und den andern stetten ir slüssel engegen trügent und sich ouch an si williclichen ergabent.",
+ "edice": "Tobler I, s. 300",
+ "rukopis_strana": 506,
+ "odstavce": [
+  {
+   "text": "214. Das gar vil landsherren und ander denen von Bern und den andern stetten ir slüssel engegen trügent und sich ouch an si williclichen ergabent.",
+   "preklad": "214. Jak velmi mnoho zemských pánů a jiných přinášelo Bernským a ostatním městům vstříc své klíče a dobrovolně se jim vzdávalo."
+  },
+  {
+   "text": "So brachten ouch etlich landsherren und ander ir slüssel zü iren stetten und slossen und antwurtent die den houptlüten und swüren inen; etlich liessent sich ouch brantschatzen; so wurden ouch etlich slos do zwüschen ingenomen und verbrönt.",
+   "preklad": "Také někteří zemští páni a jiní přinášeli klíče od svých měst a hradů, odevzdávali je hejtmanům a přísahali jim; někteří se také dali zatížit výpalným; a mezitím bylo také několik hradů obsazeno a spáleno."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: v nadpisu „willielichen“ → „williclichen“ (OCR, mimo Tobler).",
+  "„brantschatzen“ = vyplatit se z vypálení, zaplatit výpalné (výkupné za ušetření ohněm).",
+  "Bernská varianta nadpisu: „…den andern engegen füren und sich an si ergaben“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

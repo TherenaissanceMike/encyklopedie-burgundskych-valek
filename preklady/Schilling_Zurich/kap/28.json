@@ -1,0 +1,23 @@
+{
+ "cislo": 28,
+ "nadpis": "Das etlich us dem leger an den Swarzwalt zugent.",
+ "edice": "Tobler I, s. 35",
+ "rukopis_strana": 65,
+ "odstavce": [
+  {
+   "text": "28. Das etlich us dem leger an den Swarzwalt zugent.",
+   "preklad": "28. Jak někteří z tábora táhli ke Schwarzwaldu."
+  },
+  {
+   "text": "Indem do man also vor Walzhüt lag, da zugent etliche endlich knecht uf den Swarzwalt und kament gar in ein schön dorf, genant Bondorf, und übervielent das an einem morgen frü und erstachent darinne sechzechen buren und nament bi vierzigen gevangen und gewunnen inen ir venlin an und me dann sechshundert houpt vechs; das brachtent si alles in das leger gen Walzhüt und teiltent das under einandern.",
+   "preklad": "Mezitím, když se tak leželo před Waldshutem, táhli někteří zdatní knechti do Schwarzwaldu a přišli do jedné krásné vsi jménem Bonndorf. Přepadli ji jednou časně ráno, pobili v ní šestnáct sedláků, asi čtyřicet zajali, vzali jim jejich praporec a víc než šest set kusů dobytka; to všechno přivedli do tábora u Waldshutu a rozdělili mezi sebe."
+  }
+ ],
+ "poznamky": [
+  "Tobler: tažení na Bonndorf (sv. od Waldshutu) bylo 21. 8. 1468. Curyšští hejtmani 22. 8. psali, že tam táhli konfederáti z Luzernu, Schwyzu, Glarusu a Appenzellu, 14 jich pobili, 26 zajali, ves z velké části vypálili, vzali přes 400 kusů dobytka a 20 vozů a káry naložené domácím vybavením; později se k nim přidali i Curyšští a Zugští. Podle Tschachtlana bylo zajato 34 Bonndorfských i s jejich praporcem.",
+  "Bernské varianty: nadpis „etlich von Bern und ander us dem leger“, „etliche von Bern und ander an den Swarzwalt“, „me dann vierzig“ (víc než čtyřicet zajatých).",
+  "Oprava OCR: „an einem Stu morgen“ → „an einem morgen“ („Stu“ je zbytek okraje strany)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

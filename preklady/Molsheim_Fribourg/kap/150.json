@@ -1,0 +1,47 @@
+{
+ "cislo": 150,
+ "nadpis": "Von dem köstlichem und helgem heiltum.",
+ "edice": "Büchi 1914, ř. 1851–1871 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  274
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 274, al. 5, ff."
+ ],
+ "odstavce": [
+  {
+   "text": "Von dem köstlichem und helgem heiltum.",
+   "preklad": "150. O drahocenných a svatých ostatcích."
+  },
+  {
+   "text": "Item gar usser massen ein köstlich tafeli mit sechs schöner berlin und sechs grosser rubinlin. Darinnen gar köstlich heltüm ist enmitten in demselben täfelin, nämlich am ersten ein stück von dem helgen crütz, ein stück von der durnin cronen unseres herren Jesu Christi, ein stück von dem sper, ein stück von den ruten, damit gott gegeislet wart, ein stück von der geislen Jesu Christi, ein stück von dem helgen grab, ein stück von dem rock Unseres herren, ein stück von dem kleid, so Herodes Unsrem herren anleit in siner marter, ein stück von dem tislachen, daruff Unser herr Jesus Christus mit sinen jüngren das leste nachtmal ass, ein stück von der tafel Moyses, daran die zechen bott stand, und ein stück von der rüten Aarons und ander unsäglich vil heltüms.",
+   "preklad": "Dále nesmírně drahocenná destička se šesti krásnými perlami a šesti velkými rubínky. Uprostřed té destičky jsou velmi drahocenné ostatky, totiž předně kus svatého kříže, kus trnové koruny našeho Pána Ježíše Krista, kus kopí, kus metel, jimiž byl Bůh bičován, kus důtek Ježíše Krista, kus svatého hrobu, kus suknice našeho Pána, kus šatu, který Herodes oblékl našemu Pánu při jeho umučení, kus ubrusu, na němž náš Pán Ježíš Kristus se svými učedníky jedl poslední večeři, kus Mojžíšovy desky, na níž stojí deset přikázání, a kus Áronovy hole, a jiných ostatků nevýslovně mnoho."
+  },
+  {
+   "text": "Item aber ein guldin, costlich täfeli, darinnen ouch vil grosses heltüm von allen zwölf botten ist.",
+   "preklad": "Dále další zlatá drahocenná destička, v níž jsou také mnohé velké ostatky všech dvanácti apoštolů."
+  },
+  {
+   "text": "Item aber ein köstlich stück von cristallen in gold gevasset. darinn Sant Andres heltüm ist. Item ein cöstlich pacem mit einem Öliberg von berlinmüter.",
+   "preklad": "Dále drahocenný kus z křišťálu zasazený ve zlatě, v němž jsou ostatky svatého Ondřeje. Dále drahocenná pax (pacem) s Olivetskou horou z perleti."
+  },
+  {
+   "text": "Item des herzogen paternoster, ganz guldin, darin gevasset sind die zwülf apostel in cristallen; und ist ouch darinn köstlich heltüm. Item des herzogen recht ingesigel, ist ganz guldin und wigt by einem pfund. Item des basthartz von Bürgün ingesigel, ist silbrin und übergült. Item ein helfenbeinin täfeli, ist an den zwein flüglen der alt und der jung herzog von Bürgün contrafecht; darzü vil ander cleinet und anders, das lang ze schriben were.",
+   "preklad": "Dále vévodův růženec (paternoster), celý zlatý, v němž je v křišťálech zasazeno dvanáct apoštolů; i v něm jsou drahocenné ostatky. Dále vévodova vlastní pečeť, celá zlatá, váží asi libru. Dále pečeť bastarda burgundského, stříbrná a pozlacená. Dále slonovinová destička, na jejíchž dvou křídlech je vyobrazen starý a mladý vévoda burgundský; k tomu mnoho jiných klenotů a jiných věcí, které by bylo dlouhé vypisovat."
+  },
+  {
+   "text": "Dar zu wart ouch [der statt Bern und Friburg] und in allen Eydgnossen in stetten und lendren und aller gewanten, die denne by disen dingen gewesen waren, gemeinlich gebütiget, was denn jederman gewunnen und genomen, ouch in die bütt geleit, darus ouch vil gelost und under jederman geteilt ward, als denn semlichs von gemeinen Eydgnossen angesechen und geordnet was, doch das vorus usser der gemeiner püt all verwunden lüt irer arzetlon und atzung vorus bezalt wart.",
+   "preklad": "Kromě toho se [v městě Bernu a Fribourgu] a u všech konfederátů v městech a zemích a u všech spojenců, kteří byli při těchto věcech, společně rozdělovalo to, co kdo ukořistil a vzal a také složil do kořisti; z toho se také mnoho utržilo a rozdělilo mezi všechny, jak to konfederáti společně ustanovili a nařídili, avšak tak, že se nejprve ze společné kořisti zaplatila všem raněným jejich léčba (arzetlon) a strava."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: ze začátku odstavce [5] odstraněny Büchiho poznámky pod čarou (viz níže), které se strojově dostaly do textu; odstraněna čísla řádků a značky poznámek, opraveno OCR („heltfim“ → heltüm, „eristallen“ → cristallen).",
+  "Büchi: „pacem“ (pax, instrumentum pacis) je asi dlaňová destička, kterou kněz nebo jáhen políbí se slovy „Pax tecum“ a jíž se při mši před přijímáním předává políbení pokoje. „Paternoster“ = růženec. K pečeti viz Knebel; pečeť bastarda burgundského připadla Basilejským. Varianta B vkládá ještě „vévodovo křeslo z pozlacené mědi“.",
+  "Büchi (poznámka otištěná pod kap. 151): podle Eidgenössische Abschiede II, 588 a 593 a tamního seznamu (rodel) se náklady na léčení raněných opravdu ze společné kořisti odečetly.",
+  "Oproti Schillingovi: seznam ostatků se shoduje, ale apoštolové na růženci jsou „zasazeni v křišťálech“ (Schilling: smaltovaní). Navíc oproti Schillingovi Molsheim uvádí, že ze společné kořisti se nejprve zaplatilo všem raněným za ranhojiče a stravu, a mezi dělícími jmenuje výslovně [Bern a Fribourg]."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

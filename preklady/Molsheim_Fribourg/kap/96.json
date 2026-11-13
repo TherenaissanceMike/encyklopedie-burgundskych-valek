@@ -1,0 +1,25 @@
+{
+ "cislo": 96,
+ "nadpis": "Wie die knecht, so ze Junge lagen, in Bürgün luffen und grossen roub harus mit inen brachtend.",
+ "edice": "Büchi 1914, ř. 1095–1096 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  197
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 197."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die knecht, so ze Junge lagen, in Bürgün luffen und grossen roub harus mit inen brachtend.",
+   "preklad": "96. Jak knechti, kteří leželi v Jougne, vpadli do Burgundska a přinesli s sebou ven velkou kořist."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 197“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 197).",
+  "Opravy OCR: „BUrgun lüften“ → „Bürgün luffen“, číslo řádku „io“ vypuštěno."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

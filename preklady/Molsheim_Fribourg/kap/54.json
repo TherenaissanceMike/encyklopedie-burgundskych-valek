@@ -1,0 +1,38 @@
+{
+ "cislo": 54,
+ "nadpis": "Wie die. so in Ellikurt lagen, ein friden begerten und das sloss und statt ufgobend.",
+ "edice": "Büchi 1914, ř. 724–733 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  134
+ ],
+ "schilling_odkaz": [
+  "Schilling C. 134. /"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die, so in Ellikurt lagen, ein friden begerten und das sloss und statt ufgobend.",
+   "preklad": "54. Jak ti, kdo leželi v Héricourtu, žádali o mír a vydali hrad i město."
+  },
+  {
+   "text": "Und als man nu wider in das leger für Erigurt kam, vieng man aber an, das schlos und statt ze beschiessen mit starkem gezüge und mit graben und andren dingen. Die vygent, so in der statt und in dem schloss warent, werten sich und daten ouch ir best mit irem geschütz, des sy vil hattend, und wüsten etwe vil lüten. Und als sy nu des andren tages vernament, wie es den iren ergangen was, [do erschraken sy und] liessen einen friden schryen und begerten da, mit den Eydgnossen und andren, so vor inen lagend, ze reden. Das beschach, und nach vil red und ratschlachen wart die sach am lesten vertettigt, das man die vygent, so in der statt oder uff dem schloss warend, der denn an das fusvolk bi 60 Bickarden warend, zü ross gar wol gerüst, mit ir hab abziechen liess und inen uff ein mil wegs geleit gab. Und wart also schloss und statt Erigurt dem fürsten von Österrich als einem houptsecher des krieges ingeben und durch den besetzt mit soldren, die darnach den Burgundren darus grossen schaden datten und ir vil umbbrachtend.",
+   "preklad": "Když se pak vrátili do ležení před Héricourtem, začali znovu ostřelovat hrad a město silným dělostřelectvem a pracovat proti nim zákopy a jinými prostředky. Nepřátelé ve městě a na hradě se bránili a dělali, co mohli, svým dělostřelectvem, kterého měli mnoho, a dost lidí poranili [?]. A když se druhého dne dozvěděli, jak to s jejich lidmi dopadlo, [lekli se a] dali vyvolat mír a žádali, aby mohli jednat s konfederáty a s ostatními, kteří před nimi leželi. To se stalo, a po mnoha řečech a poradách byla věc nakonec dojednána tak, že se nepřátelům, kteří byli ve městě nebo na hradě – a bylo jich kromě pěšáků asi 60 Pikarďanů, na koních velmi dobře vyzbrojených –, dovolilo odtáhnout s jejich majetkem a dal se jim doprovod na jednu míli cesty. A tak byl hrad i město Héricourt vydán knížeti rakouskému jako hlavní straně války a jím obsazen žoldnéři, kteří odtud potom Burgunďanům způsobili velkou škodu a mnohé z nich pobili."
+  },
+  {
+   "text": "Item nachdem und die tatt vor Erigurt beschach, wart ouch das stettli zü Sant Politen von den Bickarden und Burgundren, so denn das stettli in hatten, entplündret, die gevangnen usser dem Süngöw, [so davor Steffan von Hagenbach gefangen hatt, mit im usser dem Süngow gefürt hatt und da in gevengnüssi geleit hat,] all mit sampt der statt verbrönt. Und zugen sy also schantlich und unerlich darvon.",
+   "preklad": "Poté, co se stal čin u Héricourtu, Pikarďané a Burgunďané, kteří tehdy drželi městečko Saint-Hippolyte, městečko vyplenili a zajatce ze Sundgau [které předtím zajal Stephan von Hagenbach, odvedl je ze Sundgau a dal je tam do vězení] všechny i s městem spálili. A tak odtáhli hanebně a nečestně."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Vgl. dazu Büchi, Freiburger Missiven Nr. 16, Luzerner Bekanntnusbuch 65, Amiet 60, 61, Knebel I, 128, 140 u. Zürcher Chronik 261. — a ) Vgl. die Zürcher Chronik 261. —"
+ ],
+ "poznamky": [
+  "Oprava textu: tečka v nadpisu („Wie die. so“ → „Wie die, so“); vypuštěny čísla řádků a záhlaví strany („io“, „i5“, „w“, „25“, „1475 43“ uprostřed slova „ge-fangen“) a značky poznámek; OCR: „kam/vieng“ → „kam, vieng“, „Hessen/Hess“ → „liessen/liess“, „lestem“ → „lesten“, „geriist“ → „gerüst“, „halt“ → „hatt“, „sehantlich“ → „schantlich“.",
+  "Hranaté závorky [ ] převzaty z Büchiho edice; podle jeho aparátu jde o úseky, které v části rukopisů chybějí (často v D a N), u „Friburg“ často jde o fribourgské doplňky.",
+  "Büchi k vydání Héricourtu odkazuje na Freiburger Missiven 16, luzernskou Bekanntnusbuch 65, Amieta, Knebela a Zürcher Chronik 261; k vypálení Saint-Hippolyte Knebel I, 127 (tato Büchiho poznámka je v JSON omylem u kap. 56). Rukopis B místo „60 Bickarden“ uvádí „Lamparter, Bickarter und ouch ettlich Tütschen“. Büchi (ke kap. 52): posádka měla 300 jezdců a 40 pěších pod Stephanem von Hagenbach.",
+  "Oproti Schillingovi (kap. 134): Schilling má zprávu o porážce až „ve středu v noci“ (16. 11.) a kapitulaci druhý den ráno, odtah asi 350 mužů a jejich vedení přes bojiště; Molsheim má „druhého dne“, 60 jízdních Pikarďanů kromě pěšáků a doprovod na jednu míli. Zcela navíc má Molsheim vyplenění a vypálení Saint-Hippolyte i se zajatci ze Sundgau.",
+  "„Sant Politen“ = Saint-Hippolyte nad Doubsem (určení mimo Büchi). „houptsecher“ = hlavní strana sporu. [?] „wüsten etwe vil lüten“: od „wüesten“ = poškodit; přeloženo „poranili“ (srov. Schilling kap. 134)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

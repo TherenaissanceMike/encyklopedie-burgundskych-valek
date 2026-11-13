@@ -1,0 +1,25 @@
+{
+ "cislo": 42,
+ "nadpis": "Wie der herzog von Burgün vernam, das sin lantvogt Peter von Hagenbach gericht was, daran ein gross verdriessen und misfallen hatt.",
+ "edice": "Büchi 1914, ř. 568–569 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  112
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 112 [?], S. 158, al. 2."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Burgün vernam, das sin lantvogt Peter von Hagenbach gericht was, daran ein gross verdriessen und misfallen hatt.",
+   "preklad": "42. Jak se vévoda burgundský dozvěděl, že jeho zemský fojt Peter von Hagenbach byl popraven, a měl z toho velkou nevoli a nelibost."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „Burgiin vernam.“ → „Burgün vernam,“, odstraněno „io“, „gericht was.“ → „gericht was,“. Odkaz „C. 11:1“ je nečitelný; čtu 112 (Schillingova kapitola o popravě, s. 158) [?]; pole schilling opraveno z chybného [1, 11, 158].",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 112 [?], s. 158, odst. 2) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 199,
+ "nadpis": "Von der untrüw wegen, so die herzogin von Safoy, genant Yolant, die ein küngin von Frankenrich was, denen von Bern und iren gewanten menigvalticlich erzoügt.",
+ "edice": "Tobler I, s. 274",
+ "rukopis_strana": 465,
+ "odstavce": [
+  {
+   "text": "199. Von der untrüw wegen, so die herzogin von Safoy, genant Yolant, die ein küngin von Frankenrich was, denen von Bern und iren gewanten menigvalticlich erzoügt.",
+   "preklad": "199. O nevěrnosti, kterou savojská vévodkyně jménem Yolanda, jež byla francouzskou královskou dcerou, mnohonásobně prokázala Bernským a jejich spojencům."
+  },
+  {
+   "text": "Und als man nü davor zem teil ouch gehört hat, wie die Saföyer an dem strit und der slacht vor Erikort wider die von Bern und ander ir Eidgnossen warent, und also wider ir geswornen ewigen pünde so schantlich und lasterlich tatent, dann ir etlich vor Erikort gevangen und erslagen wurdent, das man sich gein inen keins güten konde noch mocht versechen, darzü wurden ouch die Lamparter und ander, so zu dem herzogen von Burgunnen füren, wider die von Bern und ander ir gewanten durch Saföy gelassen und demselben herzogen von ir merglicher züschüp wider ir geswornen ewigen pünde getan, das gerietent die von Bern und von Friburg mit inen betrachten und schriben der herzogin und dem land Saföy gar zu mengen malen, was si sich zü inen versechen solten, und ob si die ewigen geswornen pünde halten wolten oder nit und mantent si ouch, das si den Lampartern und andern, so wider si werent, iren durchgang nit gestattent.",
+   "preklad": "Jak už bylo dříve zčásti slyšet, Savojští stáli v boji a bitvě u Héricourtu proti Bernským a jejich ostatním konfederátům a jednali tak hanebně a potupně proti svým odpřisáhlým věčným spolkům (někteří z nich byli u Héricourtu zajati a zabiti), že se od nich nedalo očekávat nic dobrého. Kromě toho byli Lombarďané a jiní, kteří táhli k burgundskému vévodovi, propouštěni přes Savojsko proti Bernským a jejich spojencům, a tomuto vévodovi poskytovali Savojští značnou podporu, opět proti svým odpřisáhlým věčným spolkům. Proto to Bernští a Fribourgští začali s nimi řešit a velmi mnohokrát psali vévodkyni a savojské zemi, co od nich mají očekávat a zda chtějí věčné odpřisáhlé spolky dodržovat, či ne. Také je vyzývali, aby Lombarďanům a jiným, kteří byli proti nim, nedovolovali průchod."
+  },
+  {
+   "text": "Daruf die herzogin von Saföy gar dick antwurt gab: was die geswornen ewigen pünde zwüschen dem herzogthüm von Saföy und denen von Bern uswistent, das wolt si halten und dem nachgan und wider si nit kriegen; si wolt ouch daran sin, das der durchzug der Lamparter und ander durch ir land vermitten wurde. Das warent alles verdackte wort under einem bösen verborgnen schin und was alwegen nützit daran, dann die Lamparter und ander frömde völker, die wider die von Bern und ander ir gewanten zugen, nützit desterminder durchgelassen, damit die ewigen pünde gar vast und merglich gebrochen wurden.",
+   "preklad": "Na to savojská vévodkyně velmi často odpovídala, že co odpřisáhlé věčné spolky mezi savojským vévodstvím a Bernskými ukládají, to chce dodržet a podle toho se řídit a proti nim nebojovat; chce se prý také postarat, aby průtahu Lombarďanů a jiných přes její zemi bylo zabráněno. To všechno byla zastřená slova pod zlým, skrytým zdáním a nikdy na nich nic nebylo, neboť Lombarďané a jiné cizí národy, které táhly proti Bernským a jejich spojencům, byli přesto propouštěni, čímž byly věčné spolky velmi těžce a citelně porušeny."
+  }
+ ],
+ "poznamky": [
+  "Nadpis: doslova „jež byla královnou z Francie“ (die ein küngin von Frankenrich was); míní se francouzská princezna. Yolanda Francouzská byla dcerou Karla VII. a sestrou Ludvíka XI. (mimo Tobler). Podle Toblera (pozn. ke kap. 202) vládla od smrti manžela Amadea IX. (1472) jako regentka za syna Filiberta.",
+  "Oprava textu: poslední slovo nadpisu „erzoügt“ bylo OCR přeneseno do prvního odstavce, vráceno do nadpisu (i v poli „nadpis“). Dále „sı“ → „si“, „nuützit“ → „nützit“.",
+  "„davor“ = kap. 132 (bitva u Héricourtu, Tobler). Tobler: poslední obnovy spolku mezi Savojskem a Bernem jsou z let 1457, 1467, 1469 a 1473 (Absch. II). Průtah Lombarďanů je od jara 1474 předmětem stále opakovaných stížností v listech Bernu Savojsku, ženevskému biskupovi, Jakubovi z Romontu, sionskému biskupovi a konfederátům.",
+  "Bernský rukopis podle variant: „ouch vernomen hat“, „vor Erikort und andern enden gewesen warent“, nadpis končí „menigvalticlich tet“.",
+  "„züschüp“ = podpora, přísun (Zuschub); „verdackte wort“ = zastřená, přikrášlující slova (Toblerův glosář)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

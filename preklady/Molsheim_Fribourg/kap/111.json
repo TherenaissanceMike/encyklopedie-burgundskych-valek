@@ -1,0 +1,28 @@
+{
+ "cislo": 111,
+ "nadpis": "Wie die von Bern und Friburg sich zurustent und ouch domit dem grafen von Remund ir offen absag schicktent.",
+ "edice": "Büchi 1914, ř. 1192–1201 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern und Friburg sich zurustent und ouch domit dem grafen von Remund ir offen absag schicktent.",
+   "preklad": "111. Jak se Bernští a Fribourgští chystali [k válce] a zároveň poslali hraběti z Romontu své otevřené vypovězení nepřátelství."
+  },
+  {
+   "text": "In diesen dingen rustent und bereitent sich die von Bern [und Friburg] zu und waren je in willen, mit macht in Savoye ze ziechen. Doch wolten sy die sach erlich anfachen, denn der graff von Remund und die sinen den anfang getan hatten. Und wurden die beden stett ze ratte, ir ere damit ze bewaren, und schickten dem grafen von Remund ir offen absagbrief in den Worten, als hienach stat.",
+   "preklad": "Mezitím se Bernští [a Fribourgští] zbrojili a chystali a byli pevně rozhodnuti táhnout s mocí do Savojska. Chtěli však tu věc začít čestně, neboť začátek učinil hrabě z Romontu a jeho lidé. Obě města se tedy usnesla, aby tím uchovala svou čest, a poslala hraběti z Romontu svůj otevřený list s vypovězením nepřátelství tak, jak stojí níže."
+  }
+ ],
+ "poznamky_editora": [
+  "i) Ende September begab er sich nach Morges, vgl. v. Rodt I, 500. —",
+  "2 ) Vgl. dazu Büchi, Freiburger Akten 19—20. Klagen der Bcrnpr über die Schädigungen durch den Grafen und Schreiben Freiburgs vom 13. Oktober bei Büchi, Freiburgs Bruch 246. Doch fehlte es auch nicht an Provokationen von Seiten der Eidgenossen, vgl. Schreiben Freiburgs an Bern vom 18. September bei Büchi, Freiburger Akten 106 und Freiburg an Bern v. 2. Okt. bei Büchi, Freiburger Missiven Nr. 61 und Antwortschreiben Freiburgs an Nürnberg vom 22. Nov. bei Büchi, Freiburger Akten 111."
+ ],
+ "poznamky": [
+  "Opravy OCR: bereiten! → bereitent, Saroge → Savoye, odstraněno „8ff“ (číslo strany 89) a „Vgl. Schilling C. 205, al. 2“.",
+  "Oproti Schillingovi (kap. 205, odst. 2): Molsheim přidává „[a Fribourgští]“ a vypovězení posílají obě města (u Schillinga Bernští); vynechává Schillingovu poznámku, že se konfederáti měli shromáždit v dobrém pořádku, protože posádka v Jougne prý nebyla v tak velké nouzi."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

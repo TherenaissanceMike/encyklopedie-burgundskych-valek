@@ -1,0 +1,34 @@
+{
+ "cislo": 11,
+ "nadpis": "Vom heissen sumer 1473.",
+ "edice": "Usteri 1847, ř. 7560 souboru edice",
+ "rukopis_strana": 283,
+ "odstavce": [
+  {
+   "text": "Vom heissen sumer 1473.",
+   "preklad": "O horkém létě 1473."
+  },
+  {
+   "text": "In dissem jar ward ein fürbunder gutter win vnd nampt man dzselb jar den heissen summer vnd rägnet jn xij wuchen nie nütz (vide Pag. 168).",
+   "preklad": "V tom roce se urodilo znamenitě dobré víno a ten rok se nazýval horké léto; za 12 týdnů ani jednou nezapršelo. (Viz s. 168.)"
+  },
+  {
+   "text": "Vff weliche zitt küng ludwig von franckrich ein ewige verstentnis vnd pünttnis mit vnss vnd vnssrenn eignossen gemacht hat darum er ouch sin lebenlang alle jar den eignossen xxm francken gab.",
+   "preklad": "V kterou dobu uzavřel král Ludvík Francouzský s námi a s našimi konfederáty věčné porozumění a spolek, za což také dával konfederátům po celý svůj život každý rok 20 000 franků."
+  },
+  {
+   "text": "Item demnach vnd sich mengerleig frömder sachen erhubend mit dem lantuogt vnd mit andren sachen der ich hie den zechenden teil nüt schriben mag begab sich dz vnsser aller gnädigoster her der küng von franckrich an gemein eignosen liess werden (werben) vmm ein ewige bünttnus die also bestet vnn versiglot ward mit gutten brieffen jtem wen er die eignossen welte mannen vmm hilff so söltend sy jm hinjnschicken, vj” (6000) man den er zum manet (Monat) jetlichen v gl zu sold gen wölt, vnn solt sömlicher sold angan uff den tag vnd man von stat zug vnd als lang man uss were so sölt derselb sold weren vnd ob sy mer denn ein manet vss werend so söltend sy vomm andren manot ouch follen sold han als wol als von ersten sy werend joch lang oder curtz uss vnd das solte also mit den vj” mannen bestan sin leben lang vnd vmm sömliche früntzschaft welte er gen gemeinen eignossen den acht örttren alle jar sin leben lang xx” (20000) francken vnd sölt also weder sin küncklich gnad noch wir die eignossen lütt wider den andren teill lassen louffen vnd ward disser frid vnd bünttnis gemacht uff marie actum decima, nach usswisung der versigloten brieffen so der küng vnd die eignossen gegen einandren jnhabend diss lutter usswissend vnd sagen den vilich hie geschriben stat, vnd beschach dz uff den tag wie opstat ano domi m.cccc.lxxiiij jare vnd wass diss die erste uereinung so die eignosen mit keim küng von franckrich uor je gemacht habend.",
+   "preklad": "Poté, když vznikly všelijaké podivné věci se zemským fojtem i jiné věci, z nichž tu nemohu popsat ani desetinu, stalo se, že náš nejmilostivější pán, král francouzský, se u všech konfederátů ucházel o věčný spolek. Ten byl potvrzen a zpečetěn dobrými listinami takto: Když bude chtít konfederáty vyzvat k pomoci, mají mu poslat 6000 mužů, jimž chtěl dávat každému 5 zlatých žoldu na měsíc. Ten žold měl začít běžet ode dne, kdy se z místa vytáhne, a trvat, dokud budou venku; a kdyby byli venku déle než měsíc, mají i za druhý měsíc dostat plný žold stejně jako za první, ať by venku byli dlouho nebo krátce. Tak to mělo s těmi 6000 muži platit po celý jeho život. A za takové přátelství chtěl všem konfederátům, osmi kantonům, dávat po celý svůj život každý rok 20 000 franků. A ani jeho královská milost, ani my konfederáti jsme neměli dovolit, aby naši lidé táhli (do služby) proti druhé straně. Tento mír a spolek byl uzavřen „uff marie actum decima“ [?], podle zpečetěných listin, které král a konfederáti mají jeden od druhého a které to ukazují a říkají jasněji, než je to snad napsáno tady. A stalo se to v ten den, jak stojí výše, roku Páně 1474. A byla to první úmluva, kterou kdy konfederáti s nějakým francouzským králem uzavřeli."
+  }
+ ],
+ "poznamky": [
+  "Odstavec 2 je mezititulek (v edici sazen jako nadpis). Odstraněny značky Usteriho poznámek („”)“). Usteriho vysvětlivky v závorkách („werben“, „Monat“, číslice) ponechány.",
+  "OCR: „pünttnis_“ → „pünttnis“, „ynss“ → „vnss“, „von)“ → „von“, „brieflen“ → „brieffen“, „vod“ → „vnd“, „lutterr“ → „lutter“, „mPcceerxxiüj“ → „m.cccc.lxxiiij“.",
+  "„uff marie actum decima“ je zjevně porušené místo [?]; snad zbytek data „datum decima [die] martij“. Schilling (kap. 115) má v textu listiny „decima die Martij anno domini 1474“ = 10. 3. 1474; podle Toblera to datum nesedí a spolek byl ve skutečnosti přijat 21. 10. 1474 a ratifikován 2. 1. 1475 (srov. Schilling kap. 115).",
+  "Edlibachův souhrn podmínek (6000 mužů, 5 zlatých měsíčně na muže, 20 000 franků ročně, zákaz služby proti druhé straně) se v hlavních bodech kryje se Schillingovou listinou v kap. 115. „den acht örttren“ = osm (starých) kantonů.",
+  "„die erste uereinung … mit keim küng von franckrich“: mimo text – již 1452/1453 uzavřeli konfederáti s Karlem VII. smlouvu o přátelství; spolek z roku 1474/75 byl první s vojenskými a peněžními závazky.",
+  "Horké léto 1473: srov. konec kap. 6 („vide p. 171“) – kronikář na obě místa odkazuje navzájem."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,26 @@
+{
+ "cislo": 41,
+ "nadpis": "Wie Hagenbach ze Brisach für offen landgericht gestellt ward und nach siner vergicht und übeltetten mit urteil und recht bekennt wart, das man im der ritterlichen orden sötte abziechen und darnach dem henker empfelen, inn mit dem schwert ze richten.",
+ "edice": "Büchi 1914, ř. 566–567 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  111
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 111."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie Hagenbach ze Brisach für offen landgericht gestellt ward und nach siner vergicht und übeltetten mit urteil und recht bekennt wart, das man im der ritterlichen orden sötte abziechen und darnach dem henker empfelen, inn mit dem schwert ze richten.",
+   "preklad": "41. Jak byl Hagenbach v Breisachu postaven před veřejný zemský soud a podle svého doznání a zločinů rozsudkem a právem odsouzen k tomu, aby mu byl odňat rytířský řád a aby byl potom vydán katovi a popraven mečem."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: odstraněno číslo řádku „6“, „Ubeltetten“ → „übeltetten“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 111) a edice ho neotiskuje.",
+  "Soud a poprava 9. 5. 1474 (podle poznámek u Schillinga, kap. 111–112). „der ritterliche orden“ = rytířská hodnost; před popravou byl Hagenbach rytířství zbaven."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

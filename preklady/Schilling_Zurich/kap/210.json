@@ -1,0 +1,22 @@
+{
+ "cislo": 210,
+ "nadpis": "Das Montenach, Cudriffin und ander slos gewunnen und erobert wurden.",
+ "edice": "Tobler I, s. 292",
+ "rukopis_strana": 495,
+ "odstavce": [
+  {
+   "text": "210. Das Montenach, Cudriffin und ander slos gewunnen und erobert wurden.",
+   "preklad": "210. Jak byly dobyty a zabrány Montagny, Cudrefin a jiné hrady."
+  },
+  {
+   "text": "Nü als die von Bern und Friburg bi einandern zü Betterlingen lagent, do gewunnent die iren do zwüschen etlich stett und slösser, namlich Montenach, Cudriffin und ander, ein teil mit dem swert, die andern ergabent sich und swüren ouch den beiden stetten.",
+   "preklad": "Zatímco Bernští a Fribourgští leželi spolu v Payerne, dobyli jejich lidé mezitím několik měst a hradů, totiž Montagny, Cudrefin a jiné; některé mečem, jiné se vzdaly a přísahaly také oběma městům."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Montenach = Montagny (východně od Payerne), Cudrefin na východním břehu Neuchâtelského jezera; jejich dobytí spadá do dnů 15. a 16. 10. 1475. Podle Entreprises (p. 242–243) následovaly kapitulace v pořadí Murten, Cudrefin, Avenches, Payerne.",
+  "Bernský rukopis podle variant: nadpis „… slos von denen von Bern und Friburg ouch ingenomen und erobert worden“; na konci dodává „und wart ouch dazwüschen etwie menger der vienden erstochen“ (a mezitím bylo ubodáno nemálo nepřátel)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

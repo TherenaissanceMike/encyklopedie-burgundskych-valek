@@ -1,0 +1,25 @@
+{
+ "cislo": 75,
+ "nadpis": "Das der vorgenante keiser wider den Rin ab für.",
+ "edice": "Tobler I, s. 110",
+ "rukopis_strana": 166,
+ "odstavce": [
+  {
+   "text": "75. Das der vorgenante keiser wider den Rin ab für.",
+   "preklad": "75. Jak výše jmenovaný císař odjel zase dolů po Rýně."
+  },
+  {
+   "text": "Dis beschach alles und wart doch ze Basel nit entlichs gehandlet; der keiser kam ouch nit witer haruf in die Eidgnosschaft und für wider nidsich gen Trier, dahin dann der herzog von Burgunnen mit grosser macht und hochvart kam und nit anders wiste, dann das er von dem keiser zü einem kung solt gekrönt werden und Burgunnen ein küngrich solt worden sin, das aber nit beschach; wann do der herzog sich mit siner crone, dem zeptrum, dem gestüle und mit andern wirden ganz zügerüste und darumbe dem keiser gros güt verheissen hat, da rüste sich der keiser heimlich zü, und für die Musel ab und wart der herzog von Burgunnen glich dem kung, von dem man in dem büch Ysopo liset, da der nigramanticus sinen gesellen mit sinem gespönste zü einem kung machte. Dis was dennocht an dem keiser zü loben, wie lieb im güt ist, so wolt er dennocht an dem ende des heiligen richs ere und wirde nit umb güt verkoufen. Es was aber dem herzogen von Burgunnen ein merkliche smach, die im on allen zwivel zü grossem missvallen kam.",
+   "preklad": "To vše se stalo, a přece se v Basileji nic konečného nevyjednalo. Císař také nepřijel dál nahoru do Spříseženstva a odjel zase dolů do Trevíru. Tam přišel burgundský vévoda s velkou mocí a pýchou a nemyslel si nic jiného, než že ho císař korunuje na krále a Burgundsko se stane královstvím. To se však nestalo: když se totiž vévoda se svou korunou, žezlem, trůnem a jinými odznaky důstojnosti úplně připravil a slíbil za to císaři mnoho peněz, císař se potají vypravil a odplul dolů po Mosele. Burgundský vévoda tak dopadl jako ten král, o němž se čte v Ezopově knize, kde černokněžník (nigramanticus) svým kouzelným přeludem udělal ze svého druha krále. Na císaři bylo přesto třeba pochválit, že ač má peníze rád, nechtěl v této věci prodat čest a důstojnost Svaté říše za peníze. Pro burgundského vévodu to však byla značná potupa, která ho bezpochyby velmi rozladila."
+  }
+ ],
+ "poznamky": [
+  "Tobler: císař vjel do Trevíru 28. 9. a opustil ho 25. 11. 1473. O vlastních jednáních v Basileji Knebel nic neuvádí, něco lze vyčíst z Eidg. Abschiede II, 455.",
+  "Tobler: tajný odjezd císaře potvrzují Knebel a další prameny. Podle listu Ludwiga von Eyb markraběti braniborskému Peter von Hagenbach dojel císaře a prosil ho, aby počkal, že se vévoda přijde přátelsky rozloučit. Císař svolil a lodě se asi čtvrt hodiny nechaly unášet bez vesel; když vévoda nepřicházel, Hagenbach odjel, že ho popožene. Jakmile zmizel z dohledu, dal císař nasadit vesla a odjel. Vévoda se tak s císařem vůbec nerozloučil.",
+  "Tobler: příběh o černokněžníkovi není v řeckém Ezopovi ani v jeho středověkých zpracováních, je to 94. bajka v Bonerově Edelsteinu (Ezop byl jen obecné jméno pro sbírky bajek).",
+  "Oprava textu (OCR): „Eidenosschaft“ → „Eidgnosschaft“, odstraněny zbloudilé znaky („machte.)“, „des:“, „‚grossem“). Dva odstavce spojeny podle edice.",
+  "Bernská varianta: „vorgenant ünser herr der keiser angendes wider…“ (císař odjel ihned); „Esopo“, „nigramaticus“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

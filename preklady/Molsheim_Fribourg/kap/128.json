@@ -1,0 +1,34 @@
+{
+ "cislo": 128,
+ "nadpis": "Wie die von Obersybental gen Vivis zugent und die stat innamen und si blünderten.",
+ "edice": "Büchi 1914, ř. 1493–1501 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  229
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 229."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Obersybental gen Vivis zugent und die stat innamen und si blünderten.",
+   "preklad": "128. Jak lidé z Horního Simmentalu táhli na Vevey, město dobyli a vyplenili."
+  },
+  {
+   "text": "Item und als man nu in der Watt was und das land innam, do zugen ettlich from lütt von Obersybental und ander mit inen gan Fivis und in willen, inen ze danken der schmach und schand, so sy mit Worten und mit werchen vormalen iren herren von Bern [und von Friburg, den zwein fromen stetten getan hatten ze ögendienst der frowen von Savoye,] und ouch uncristanlich Sachen von inen gemalet hattend, und namen also die statt Fivis in und plündroten die. Darnach wart dieselbe statt aber gewunnen und verbrönt.",
+   "preklad": "Item když se tedy leželo ve Vaudu a ta země se dobývala, vytáhli někteří stateční lidé z Horního Simmentalu a s nimi jiní na Vevey s úmyslem „poděkovat“ jim za potupu a hanbu, kterou [Veveyští] dříve slovy i skutky prokázali jejich pánům z Bernu [a z Fribourgu, oběma statečným městům, aby se zavděčili paní savojské], a také za nekřesťanské věci, které o nich namalovali. Vzali tedy město Vevey a vyplenili je. Potom bylo totéž město dobyto znovu a vypáleno."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Auch Attalens musste einen Brandschatz erlegen, vg). Büchi, Freiburger Akten 27. Ueber Attalens weiteres ebenda 30. 63. 106. — ! ) Vaulruz vgl. Büchi, a. a. 0. 39. — 3 ) Everdes (Grätlingen) vgl. Büchi, a. a. O.- 28. 31. 33. — 4 ) Vuippens steht auf gleicher Stufe wie Everdes und war wie jenes an Freiburg angeschlossen, vgl. a. a. 0. 33. Es kann nur dieses gemeint sein. — 5 ) Ist jedenfalls an Illens (Irlain, Irlens) zu denken, vgl. oben 0. 53. — *) Am 22. Oktober wurde Wilhelm Mayor als Hauptmann von Pont vereidigt, Büchi 1. c. 21. Weiteres 31. — T ) Surpierre übergab sich an Bern und Freiburg, ebenda 23. — 8 ) Grandcour war vom Grafen von Greierz an den Herrn von Chapelle, Philibert de Compey, verkauft worden, ib. 39, ferner 34 und Ochsenbein 537. — 9 ) Cugy stellt bei Sch. an andrer Stelle."
+ ],
+ "poznamky": [
+  "Opravy OCR: „Obersybentai“ → „Obersybental“, „in- namen“ → „innamen“, „schmacli“ → „schmach“, „Frtburg“ → „Friburg“, „zirein“ → „zwein“, „f'rowen“ → „frowen“; odstraněny značky poznámek.",
+  "„ze ögendienst“ = doslova „k službě očím“, tj. aby se zalíbili, zavděčili (vévodkyni Jolandě Savojské). „in der Watt“ = ve Vaudu, tj. na podzimním tažení v 2. polovině října 1475.",
+  "Pole poznamky_editora této kapitoly patří ve skutečnosti k seznamu v kap. 127 (Attalens až Cugy). Büchiho poznámky ke kap. 128 jsou v poli kap. 130: k hanlivým obrazům odkazuje na kap. 96; první dobytí Vevey se patrně týká krátkého zápisu ve fribourgských radních manuálech ze 7. 11. 1475, vypálení přišlo až 8. 6. 1476.",
+  "Varianta S: obrazy „gemalet und an die wend und türen geschlagen“ (namalovali a přibili na zdi a dveře).",
+  "Oproti Schillingovi: Molsheim přidává Fribourg jako druhé potupené město a motiv, že Veveyští tím chtěli vyhovět vévodkyni savojské; vynechává Schillingův dovětek o dalších vypálených městech a hradech a o zasloužené odplatě."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

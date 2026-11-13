@@ -1,0 +1,26 @@
+{
+ "cislo": 229,
+ "nadpis": "Das die stat Vifis ingenomen und geplündert wart.",
+ "edice": "Tobler I, s. 325",
+ "rukopis_strana": 548,
+ "odstavce": [
+  {
+   "text": "229. Das die stat Vifis ingenomen und geplündert wart.",
+   "preklad": "229. Jak bylo město Vevey dobyto a vypleněno."
+  },
+  {
+   "text": "Und als man in der Wat was, do zugent etlich from lüte von Obersibental und andern enden gen Vifis und wolten inen ouch danken der smach und schanden, so si denen von Bern, iren herren, und andern zü mengen malen mit worten und werken erboten und ouch uncristenlich sachen von inen gemolet und ufgeslagen hattent, und nament darumb die stat in und plündertent die. Darnach wart dieselbe stat aber gewunnen und verbrent, desglich ander stette und slösser in derselben art ouch und wurden darinne gar vil lüten erslagen und ertöt und wart inen ir rechter verdienter lon, dann si sich gar bosclich gehalten und iren ganzen trost uf den herzogen von Burgunnen gesatzt hatten und woltent die von Bern, noch die iren, nit schetzen.",
+   "preklad": "A když se leželo ve Vaudu, vytáhli někteří stateční lidé z Horního Simmentalu a odjinud na Vevey a chtěli se jim také „odvděčit“ za potupu a hanbu, kterou mnohokrát slovy i skutky prokázali Bernským, svým pánům, i jiným, a za nekřesťanské věci, které o nich namalovali a vyvěsili. Proto město dobyli a vyplenili. Potom bylo totéž město znovu dobyto a vypáleno, stejně tak i jiná města a hrady v tom kraji, a bylo v nich pobito a usmrceno velmi mnoho lidí. Dostalo se jim tak spravedlivé, zasloužené odplaty, neboť se chovali velmi zle, všechnu svou naději vložili ve vévodu burgundského a Bernskými ani jejich lidmi pohrdali."
+  }
+ ],
+ "poznamky": [
+  "„in der Wat“ = ve Vaudu (Waadt); Tobler: tedy ve 2. polovině října 1475.",
+  "„uncristenlich sachen … gemolet und ufgeslagen“: hanlivé obrazy či nápisy namalované a vyvěšené proti Bernským; Tobler odkazuje na kap. 200.",
+  "„nit schetzen“ = nevážit si, pohrdat.",
+  "Tobler: 6. 11. 1475 se Fribourg u Bernu přimlouval za Vevey; 15. 11. dostali lidé ze Saanenu příkaz nechat Vevey na pokoji kvůli penězům, které od něj ještě požadovali (výpalné), vzhledem ke způsobeným škodám.",
+  "„Darnach … aber gewunnen und verbrent“: druhé dobytí a vypálení patří podle Toblera k pozdějším událostem (kap. 283).",
+  "Varianta: místo „etlich from lüte von Obersibental und andern enden“ stojí „Obersibental, Sanen und andern der von Bern gebieten“ (i Saanen a další bernská panství); dále „am ersten ingenomen und ganz [entplündert]“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

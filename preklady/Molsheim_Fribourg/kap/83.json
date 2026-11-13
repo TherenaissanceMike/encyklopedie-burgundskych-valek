@@ -1,0 +1,42 @@
+{
+ "cislo": 83,
+ "nadpis": "Wie ein so stark leger geschlagen wart vor Blamund von denen vorgenanten stetten.",
+ "edice": "Büchi 1914, ř. 1001–1011 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  183,
+  184
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 183.",
+  "Vgl. Schilling C. 184."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie ein so stark leger geschlagen wart vor Blamund von denen vorgenanten stetten.",
+   "preklad": "83. Jak výše jmenovaná města postavila před Blamontem tak silný tábor."
+  },
+  {
+   "text": "84. Der erste sturm an Blamunt.",
+   "preklad": "84. První útok na Blamont."
+  },
+  {
+   "text": "Darumb an dem nechsten Frytag darnach vieng man an die statt Blamunt ze stürmen an zwein enden, hinden und vor. Und waren an den sturm geordnet houptlüt von Strasburg, [Basel], Bern, [Friburg], Solotern und von allen zügewanten, so do ze feld lagen; und griffen den sturm tröstlich an. All die, so darzü geordnet warend, hielten sich manlich und ritterlich an dem sturm. Aber als sy mit den leitren an die muren kamen, do warent sy vil ze kurz. Die so in der statt waren, wertent sich ouch manlich und tröstlich mit werfen und schiessen, das der unsren ser vil geletz wart und ettlich zum tod gebracht. Und werte diser sturm so lang, das ettlich knecht durch die muren kamen in einen turn und in demselben turn die büchsen, so darinnen lagen, mit inen usser dem turn hinus trügen; denn sy fürer hinin in die statt nit komen mochtent. Und zoch man ab von grosser not.",
+   "preklad": "Proto se v nejbližší pátek potom začalo útočit na město Blamont na dvou místech, zezadu i zepředu. K útoku byli určeni hejtmani ze Štrasburku, [Basileje], Bernu, [Fribourgu], Solothurnu a ode všech spojenců, kteří tam leželi v poli, a útok směle zahájili. Všichni, kdo k němu byli určeni, si při útoku vedli mužně a rytířsky. Když však se žebříky došli k hradbám, byly žebříky o mnoho příliš krátké. Ti ve městě se také bránili mužně a směle házením a střelbou, takže mnoho našich bylo zraněno a několik zabito. Útok trval tak dlouho, že se několik knechtů dostalo skrze hradby do jedné věže a děla, která v té věži ležela, vynesli s sebou z věže ven, protože se dál do města dostat nemohli. A pro velkou tíseň se odtáhlo."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. dazu Bernoulli 1, 37. — *) Ueber die Beteiligung von Basel und Strassburg vgl. Knebel II, 277 und Bernoulli I, 39 ff."
+ ],
+ "poznamky": [
+  "Skrytá kapitola 84 (nadpis „Der erste sturm an Blamunt“, Vgl. Schilling C. 184) ponechána jako mezititulek. Kap. 83 sama má jen nadpis (= Schilling, kap. 183).",
+  "Datum: nejbližší pátek = 4. 8. 1475 (podle Toblera u Schillinga, kap. 184).",
+  "Büchi: k účasti Basileje a Štrasburku srov. Knebel II, 277 a Bernoulli I, 39 n.; k průběhu srov. Bernoulli I, 37 a Knebel I, 279 n.",
+  "„büchsen“ v obsazené věži = děla (podle kontextu).",
+  "Oproti Schillingovi: Molsheim vynechává Schillingova jména hejtmanů (Hans Thüring von Büttikon, Hans Rudolf von Erlach, Caspar Barpfennig), včelí úly a ježky; zato mezi útočníky přidává Basilej a Fribourg a vypráví, jak knechti pronikli do jedné věže a vynesli z ní děla.",
+  "Opravy OCR: „i die“ → „die“ (číslo řádku), „[ Basel ],*)“ → „[Basel]“, „züge- wanten“ → „zügewanten“, „ünsren“ → „unsren“, „Mnus“ → „hinus“, „körnen“ → „komen“, „not - 1 )“ → „not.“, „84-.“ → „84.“.",
+  "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

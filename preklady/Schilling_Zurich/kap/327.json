@@ -1,0 +1,31 @@
+{
+ "cislo": 327,
+ "nadpis": "Das die von Bern und ander Eidgnossen in des herzogen leger und wagenburg zugen und darin gros güt, darzü essen und trinken gnüg funden.",
+ "edice": "Tobler II, s. 112",
+ "rukopis_strana": 848,
+ "odstavce": [
+  {
+   "text": "327. Das die von Bern und ander Eidgnossen in des herzogen leger und wagenburg zugen und darin gros güt, darzü essen und trinken gnüg funden.",
+   "preklad": "327. Jak Bernští a další konfederáti vtáhli do vévodova tábora a vozové hradby a nalezli v nich velký majetek a k tomu dost jídla a pití."
+  },
+  {
+   "text": "Und also zugent die von Bern, ouch ander Eidgnossen und gewanten mit inen widerumb in des herzogen wagenburg und leger und warent mit gewalt darinne bis an den dritten tag, nach semlicher herstriten recht und gewonheit. Und wart do dem herzogen von Burgunnen aber angewunnen hundert und drig büchsen, zwo gros houptbüchsen, sechs büchsen, darus man stein schüsset, grösser dann eins jeglichen mans houpt, das ander warent als stein- und slangenbüchsen. Darzü wart im und den sinen ouch angewunnen alles ir gold, silber, cleider, siden gewant, ros, harnesch und anders und ouch vil paner und zeichen, das si dann von rechter angst und not hinder inen haben müssen lassen.",
+   "preklad": "A tak se Bernští a další konfederáti a spojenci s nimi vrátili do vévodovy vozové hradby a tábora a drželi se v nich mocí až do třetího dne, podle práva a obyčeje takových polních bitev. A tu bylo vévodovi burgundskému opět ukořistěno sto tři děla: dvě velká obléhací děla (bombardy), šest děl, z nichž se střílí kameny větší než hlava kteréhokoli muže, a ostatní byla děla na kamenné koule a serpentiny. K tomu bylo jemu a jeho lidem ukořistěno také všechno jejich zlato, stříbro, šaty, hedvábné roucho, koně, zbroj a jiné věci a také mnoho korouhví a znamení, které tam za sebou museli ze skutečného strachu a tísně zanechat."
+  },
+  {
+   "text": "Und als man am morgen die waltstat beritten und besechen und man die toten abgezogen, do hat man überslachen, das ob sechstusent mannen der vienden umbkomen und von gottes gnaden erslagen sind. Darunder ist durch die grundlose barmherzikeit gottes des almechtigen der gros blütvergiesser, der herzog von Burgunnen selber bliben und ander die rechtschuldigen mit im, des man got dem almechtigen und allem himelschen here billich lob, ere und dank sagen und des in ganzer dankberkeit niemermere vergessen sol, dann er das durch sin götliche barmherzikeit selber getan und den grossen mechtigen wütrich nidergeslagen und vallen lassen in die grüben, die er andern gemacht hat.",
+   "preklad": "A když se ráno projelo a prohlédlo bojiště a mrtví byli svlečeni, odhadlo se, že přes šest tisíc mužů z nepřátel zahynulo a z Boží milosti bylo pobito. Mezi nimi zůstal díky bezedné milosti všemohoucího Boha ležet i ten velký prolévač krve, sám vévoda burgundský, a s ním další skuteční viníci. Za to má člověk všemohoucímu Bohu a všemu nebeskému zástupu právem vzdávat chválu, čest a díky a v plné vděčnosti na to nikdy nezapomenout, neboť on to učinil sám svým božským milosrdenstvím: toho velkého, mocného tyrana srazil a nechal padnout do jámy, kterou on chystal jiným."
+  }
+ ],
+ "poznamky": [
+  "„nach semlicher herstriten recht und gewonheit“ – vítěz zůstával na bojišti tři dny na znamení vítězství.",
+  "Počet ukořistěných děl uvádějí prameny různě (Tobler).",
+  "„am morgen“ = ráno 6. 1. 1477 (svátek Tří králů).",
+  "Počet mrtvých podle jiných pramenů: Zollner 8000, Etterlin a Wintersulger 7000, Edlibach, luzernský Schilling aj. 5000, štrasburská kronika 5678, basilejští přes 3000. Varianta: „me dann sechstusent“.",
+  "Varianta (pravděpodobně bernský rukopis): u třetího odstavce samostatný nadpis „Das man morndes den herzogen von Burgunn und ander die sinen tot funden hat“ (Jak byl nazítří nalezen mrtvý vévoda burgundský a jiní z jeho lidí). Dále „houptpaner und venlinen“ místo „paner und zeichen“.",
+  "„in die grüben, die er andern gemacht hat“ – narážka na Žalm 7,16 / Přísloví 26,27 („kdo jinému jámu kopá…“).",
+  "OCR opraveno: „_herzogen“, úvodní „:“, „mans : houpt“, „steinund“ → „stein- und“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

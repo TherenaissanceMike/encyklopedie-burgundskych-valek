@@ -1,0 +1,24 @@
+{
+ "cislo": 29,
+ "nadpis": "Item hie stand aller der stet vnd slossen namen so den von den eignossen gewunnen sind jn dissem krieg byshar.",
+ "edice": "Usteri 1847, ř. 8075 souboru edice",
+ "rukopis_strana": 310,
+ "odstavce": [
+  {
+   "text": "Item hie stand aller der stet vnd slossen namen so den von den eignossen gewunnen sind jn dissem krieg byshar.",
+   "preklad": "Zde stojí jména všech měst a hradů, které konfederáti v této válce až dosud dobyli."
+  },
+  {
+   "text": "Item zum ersten murtten stat vnn sloss. Sant marttis sloss. Byoly sloss. Cuderiffe stat vnn sloss. Betterlingen stat. Stäflis stat vnn sloss. Ifferdun stat vnn sloss. Dass heillig crütz sloss. Eccly stat vnn sloss. Cuse das sloss. Fontt stat vnn sloss. Lamathan sloss. Tschawan dass sloss. Lasserra stat vnn sloss. Munersy dass sloss. Cusseney dass sloss vnd stetly. Wullery das schloss. Sant barttelomeus sloss. Morge dz sloss. Musling dass sloss. Alleman dz sloss. Män dz nüw sloss. Morse stat vnn sloss. Neuss stat vnn sloss. Sant sorgen sloss. Boppet stat vnn sloss. Bayogy dz sloss. Thescherling dz slos. Bemund dz sloss. Milden stat vnn sloss. Ruw stat vnn sloss. Etwallung sloss. Bossenung dz sloss. Tischattee slos. Warruw dz sloss. Remund stat vnn sloss. Ewerde dz sloss. Bant das schloss. Wiblingen sloss. Erling dz sloss. Salipier dass sloss. Granckort dz sloss. Montuch dz sloss vnd statt. Puntterlin statt. Granse stat vnn sloss. Blamund dz sloss. Orben stat vnn sloss. Innien stat unn sloss. Elligurt stat vnn sloss. Lossen die stat. Vnd genff die stat.",
+   "preklad": "Nejprve Murten, město a hrad. Sant Marttis [?], hrad. Byoly [?], hrad. Cudrefin, město a hrad. Payerne, město. Estavayer, město a hrad. Yverdon, město a hrad. Sainte-Croix [?], hrad. Les Clées, město a hrad. Cuse [?], hrad. Font [?], město a hrad. Lamathan [?], hrad. Tschawan [?], hrad. La Sarraz, město a hrad. Munersy [?], hrad. Cossonay, hrad a městečko. Wullery [?], hrad. Saint-Barthélemy [?], hrad. Morge [?], hrad. Musling [?], hrad. Allaman [?], hrad. Män [?], nový hrad. Morges, město a hrad. Nyon, město a hrad. Sant Sorgen [?], hrad. Coppet [?], město a hrad. Bayogy [?], hrad. Thescherling [?], hrad. Bemund [?], hrad. Moudon, město a hrad. Rue, město a hrad. Etwallung [?], hrad. Bossonnens [?], hrad. Tischattee [?], hrad. Warruw [?], hrad. Romont, město a hrad. Everdes [?], hrad. Bant [?], hrad. Wiblingen [?], hrad. Erling [?], hrad. Salipier [?], hrad. Granckort [?], hrad. Montuch [?], hrad a město. Pontarlier, město. Grandson, město a hrad. Blamont, hrad. Orbe, město a hrad. Jougne, město a hrad. Héricourt, město a hrad. Lausanne, město. A Ženeva, město."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „stat von sloss“ (5×) → „stat vnn sloss“.",
+  "Jistá určení (mimo text): Cuderiffe = Cudrefin, Betterlingen = Payerne, Stäflis = Estavayer, Ifferdun = Yverdon, Eccly = Les Clées, Lasserra = La Sarraz, Cusseney = Cossonay, Morse = Morges, Neuss = Nyon, Milden = Moudon, Ruw = Rue, Remund = Romont, Innien = Jougne.",
+  "Nejistá určení [?] (mimo text, jen návrhy): Dass heillig crütz = Sainte-Croix; Fontt = Font u Estavayeru; Sant barttelomeus = Saint-Barthélemy u Echallens; Alleman = Allaman; Boppet = snad Coppet (záměna B/C); Bossenung = Bossonnens; Ewerde = Everdes; Tschawan = snad Champvent; Wullery = snad Vufflens nebo Vuillerens; Tischattee = snad Châtel-Saint-Denis; Warruw = snad Vaulruz; Wiblingen = snad Avenches (Wiflisburg). „Morge dz sloss“ stojí vedle „Morse stat vnn sloss“ (Morges), jde tedy asi o jiné místo. Ostatní jména ponechána v Edlibachově podobě.",
+  "Seznam nemá chronologické pořadí; zahrnuje místa z let 1474–1475 (Héricourt, Pontarlier, Blamont, Grandson, Orbe) i z tažení do Vaud v říjnu 1475. Srov. Schilling kap. 208–222."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

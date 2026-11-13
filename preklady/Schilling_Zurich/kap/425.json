@@ -1,0 +1,24 @@
+{
+ "cislo": 425,
+ "nadpis": "Von einer telle, so die von Bern in der stat und uf dem land anleiten.",
+ "edice": "Tobler II, s. 297",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "425. Von einer telle, so die von Bern in der stat und uf dem land anleiten.",
+   "preklad": "425. O dani, kterou Bernští uvalili ve městě i na venkově."
+  },
+  {
+   "text": "Als man nü hievor gehört hat, wie dann die von Bern und von Friburg gemeinen Eidgnossen von stetten und lendern und ouch denen von Solotern von der vorgenanten ingenomenen herschaften, stetten und slossen wegen zwenzigtusent güldin geben müsten nach lut der bericht darumb gemacht, also angendes darnach am herbsten des vorgenanten 84. iares leiten die von Bern under inen selbs in der stat und ouch in allen iren herschaften und den vier lantgerichten ein telle an und bezalten damit iren teil semlicher schulden und anders und was iederman willig, damit man den Eidgnossen nit zinsen müst.",
+   "preklad": "Jak jste už výše slyšeli, Bernští a Fribourgští museli všem konfederátům z měst a zemí a také Solothurnským dát kvůli řečeným zabraným panstvím, městům a hradům dvacet tisíc zlatých podle smlouvy, která o tom byla učiněna. Hned nato, na podzim řečeného roku [14]84, proto Bernští uvalili mezi sebou samými, ve městě i ve všech svých panstvích a ve čtyřech zemských soudech, daň a zaplatili jí svůj podíl na tomto dluhu i jiné věci. A každý byl ochoten, aby se konfederátům nemusel platit úrok."
+  }
+ ],
+ "poznamky": [
+  "Tobler: o dani („telle“) se jednalo 12. 7. a 8. 8. 1484; koncem srpna a začátkem září jeli radní do Unterseen, Unspunnenu, Ringgenbergu, Thunu, Oberhofenu, Frutigenu, Wangenu, Steffisburgu, Sigriswilu a Burgdorfu, aby ji obcím oznámili. Vypsání daně je z 23. 9. 1484 se dvěma termíny: sv. Ondřej (30. 11.) a Hromnice (2. 2.). Jako další důvody uvádí válku, stavby, drahotu a jiné zemské nouze.",
+  "Tobler uvádí známé výše daně, např. Saanen a Château-d'Oex 300 zl. (věta „ač jinak nám nejsou poplatní“ byla v kvitanci chytře přeškrtnuta), ženský klášter v Königsfeldenu 75 zl., bosáci v Königsfeldenu 25 zl., Hans von Hallwil 40 zl., Petr z Pesmes, pán z Brandisu, 50 zl., a řadu dalších šlechticů po 5–30 zl.",
+  "Čtyři zemské soudy (vier lantgericht) = Seftigen, Sternenberg, Konolfingen a Zollikofen (určení mimo Tobler).",
+  "Opravy OCR: „an undbezalten“ → „an und bezalten“, „iren. teil“ → „iren teil“, odstraněny značky „:“ a „| | | £“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,25 @@
+{
+ "cislo": 36,
+ "nadpis": "Wie herzog Sygmund von Oesterich all sin stett und schlos, so er dem herzogen von Bürgün versezt hat, wider innam zu sinen handen und besazte die mit rate der Eydgnossen.",
+ "edice": "Büchi 1914, ř. 547–550 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  108
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 108."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie herzog Sygmund von Oesterich all sin stett und schlos, so er dem herzogen von Bürgün versezt hat, wider innam zu sinen handen und besazte die mit rate der Eydgnossen.",
+   "preklad": "36. Jak vévoda Zikmund Rakouský vzal zpět do svých rukou všechna svá města a hrady, které zastavil vévodovi burgundskému, a s radou konfederátů je osadil [posádkami]."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: „Biirgün“ → „Bürgün“; odstraněn odstavec se šumem („* \\“).",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 108) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

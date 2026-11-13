@@ -1,0 +1,25 @@
+{
+ "cislo": 248,
+ "nadpis": "Das der vorgenant herzog von Burgunnen mit allem sinem züge und ganzer macht für Jungii harin zoch.",
+ "edice": "Tobler I, s. 353",
+ "rukopis_strana": 601,
+ "odstavce": [
+  {
+   "text": "248. Das der vorgenant herzog von Burgunnen mit allem sinem züge und ganzer macht für Jungii harin zoch.",
+   "preklad": "248. Jak řečený vévoda burgundský táhl se vším svým vojskem a celou mocí přes Jougne sem do země."
+  },
+  {
+   "text": "Und also zoch der wütrich, der herzog von Burgunnen mit unsaglicher grosser macht und allem sinem züge von büchsen und andern dingen us Burgunnen für Jungü harin, allenthalben in die stett und dörfer und sunderlich gen Orban, gen Bomen, zü dem heiligen Crütz und in dieselben art, als er dann allen sinen züg vor dannen gericht und geschickt hat. Als bald man das zü Bern vernam, do schickt man von stund an me lüten mit einem houptman gen Granson, darzü zug und anders, damit es nach notdurft wurde versechen; darzü schreip man ouch dem houptman und knechten, die zü Iferdun warent, das si sich angendes darnach richtent und den nechsten gen Granson zugent oder har heim und si ouch mit inen nemend al büchsen, bulver und ander werinen, was si dann mit inen hinweg bringen möchten und dann die stat und slos in grund ganz verbranten und was darin were, damit die viend sich desterminder möchten enthalten, noch ir wonung haben; als ouch beschach, das inen leider übel kam, als harnach gelütert wirt.",
+   "preklad": "A tak táhl ten ukrutník, vévoda burgundský, s nevýslovně velkou mocí a s celým svým vojskem, s děly a jinými věcmi, z Burgundska přes Jougne sem, všude do měst a vsí, a zvláště do Orbe, do Baulmes, do Sainte-Croix a do těch končin, kam předtím celé své vojsko nasměroval a poslal. Jakmile se to v Bernu dozvěděli, poslali hned více lidí s hejtmanem do Grandsonu, k tomu výzbroj a jiné, aby byl zaopatřen, jak bylo třeba. Hejtmanovi a knechtům, kteří byli v Yverdonu, také napsali, aby se podle toho hned zařídili a táhli nejkratší cestou do Grandsonu nebo domů, vzali s sebou všechna děla, prach a jiné zbraně, co by mohli odnést, a potom město i hrad do základů vypálili i se vším, co v nich bylo, aby se tam nepřátelé tím méně mohli udržet a mít tam své sídlo. To se také stalo, což jim bohužel přišlo zle, jak bude dále vyloženo."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: odstraněna zbloudilá dvojtečka („richtent und : den“), „sı“ → „si“, v nadpisu „'sinem“ → „sinem“. Edice: kapitola je na s. 353 (OCR záhlaví „393“). Text je úplný. Tvar „Jungii“ (nadpis) / „Jungü“ (text) ponechán podle OCR.",
+  "Tobler: Karel opustil Nancy 11. 1. 1476; 25. 1. se v Bernu vědělo o jeho odchodu, 1. 2., že je v zemi; v Jougne byl podle listu Bernu Basileji 9. 2. 1476.",
+  "Tobler: „Bomen“ = Baulmes, ves západně od Yverdonu. 15. 2. psal Bern do Neuchâtelu, že vévoda je v Orbe s 12 000 kopími a malými děly, velká jdou za ním; Troylus (Troilo da Rossano) přitáhl s dělem, které muselo táhnout 13 koní. Savojská vévodkyně měla ten den přijít do Lausanne s 9000 muži, z toho 5000 Milánčany. „zü dem heiligen Crütz“ = Sainte-Croix (mimo Tobler, podle smyslu).",
+  "Tobler k vypálení Yverdonu: už 6. 2. se v Bernu proslýchalo, že Yverdon „vyhořel“, ale nebyla to pravda; teprve 11. 2. šel rozkaz hejtmanovi město a hrad vypálit a strhnout, víno a obilí odvézt do Grandsonu a s posádkou jít do Payerne nebo Neuchâtelu; 13. 2. rozkaz opakován s pokynem, aby v Grandsonu bylo 200 knechtů, a co nepůjde odvézt, obilí spálit a sudy s vínem rozbít. 17. 2. se v Radě vědělo, že Yverdon je vypálen.",
+  "Bernské varianty: „und ouch ganzen machten“, „der wütrich“ chybí, závěr „das den fromen lüten leider übel kam“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

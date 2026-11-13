@@ -1,0 +1,24 @@
+{
+ "cislo": 179,
+ "nadpis": "Das aber von dero von Bern und andern knechten me slossen gewunnen wurden.",
+ "edice": "Tobler I, s. 250",
+ "rukopis_strana": 414,
+ "odstavce": [
+  {
+   "text": "179. Das aber von dero von Bern und andern knechten me slossen gewunnen wurden.",
+   "preklad": "179. Jak knechti Bernských a jiných dobyli další hrady."
+  },
+  {
+   "text": "Darzü gewunnen ouch dero von Bern und ander der Eidgnossen knechte etlich slos und stark hüser und vil gütes darinne und erstachen der vienden vil, wo si die mochten ankomen; dann alle diewile man zü Grangii oder andern enden lag, do mochtent si nit still ligen und luffent tag und nacht umb roubens willen uf die viend, des ouch etlichem der lone wart.",
+   "preklad": "Kromě toho dobyli knechti Bernských a jiných konfederátů také několik hradů a pevných domů a v nich mnoho statků a pobili mnoho nepřátel, kdekoli je mohli dostihnout. Po celou dobu, co se leželo u Granges nebo jinde, totiž nevydrželi v klidu a dnem i nocí vybíhali na nepřítele kvůli loupení, za což se také leckomu dostalo odplaty."
+  }
+ ],
+ "poznamky": [
+  "„des ouch etlichem der lone wart“ = ironicky: leckdo za to „dostal mzdu“, tj. doplatil na to. Bernská varianta to říká přímo: „da mochten si weder tag noch nacht kein ruw haben umb roubens willen, des etlicher engalt und nit wider heim kam“ (leckdo na to doplatil a nevrátil se domů).",
+  "Tobler: například oddíl, který pronikl až k Belvoir jihovýchodně od Clervalu, byl odražen (podle Witteho).",
+  "Další bernské varianty: nadpis „Bern, Solotern … noch me slossen gewunnen und ingenomen wurden“, text „Darnach gewunnen aber der von Bern, Solotern und ander knecht me slossen“, „vienden etwie mengen“.",
+  "Oprava textu: odstraněna zbloudilá závorka na konci („wart.)“)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

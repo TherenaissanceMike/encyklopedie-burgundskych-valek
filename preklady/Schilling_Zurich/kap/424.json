@@ -1,0 +1,24 @@
+{
+ "cislo": 424,
+ "nadpis": "Von einer brunst an der herrengassen von Egerden.",
+ "edice": "Tobler II, s. 297",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "424. Von einer brunst an der herrengassen von Egerden.",
+   "preklad": "424. O požáru v ulici pánů z Egerdenu."
+  },
+  {
+   "text": "Do man zalt von gottes gebürt 1484 iare an sonnentag nach ünser lieben frowen tag der liechtmess, als menglich in dem münster was und man das heilig fronampt beging und dennocht merenteils alle priester ob altar stünden, fing es an brünnen an der herngassen von Egerden, und lüf iederman us der kirchen und [nieman] bleip darin, dann die priester allein; die müsten inen selber dienen und was gros not und arbeit, das man das füre verlasch; es wer anders übel ergangen und verbrunnen ouch etlich hüser.",
+   "preklad": "Když se psalo od Božího narození 1484 let, v neděli po svátku Očišťování Panny Marie [Hromnicích], když byl každý v minstru a slavila se svatá hlavní mše a skoro všichni kněží ještě stáli u oltáře, začalo hořet v ulici pánů z Egerdenu. Každý vyběhl z kostela a [nikdo] v něm nezůstal kromě samotných kněží; ti si museli posluhovat sami. Byla to velká nouze a práce, než se oheň uhasil; jinak by to bylo dopadlo zle. Shořelo také několik domů."
+  }
+ ],
+ "poznamky": [
+  "Datum: neděle po Hromnicích 1484 = 8. 2. 1484 (Tobler).",
+  "Tobler: „der Herren von Egerten Gasse“ je dnešní Herrengasse v Bernu, hned u minstru. „fronampt“ = hlavní (zpívaná) mše.",
+  "„[nieman]“ je Toblerovo doplnění. Opravy OCR: „|nieman]“ → „[nieman]“, odstraněna značka poznámky „3“ na konci a „.?)“ v nadpisu.",
+  "Konec věty „es wer anders übel ergangen und verbrunnen ouch etlich hüser“ lze číst i tak, že bez té námahy by shořelo více domů; přeloženo doslova („shořelo také několik domů“)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

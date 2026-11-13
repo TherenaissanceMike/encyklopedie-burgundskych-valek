@@ -1,0 +1,23 @@
+{
+ "cislo": 220,
+ "nadpis": "Das die von Bern und ander zer Morse!) zugent und das ouch innamen und der andern Eidgnossen do erwartent.",
+ "edice": "Tobler I, s. 308",
+ "rukopis_strana": 523,
+ "odstavce": [
+  {
+   "text": "220. Das die von Bern und ander zer Morse zugent und das ouch innamen und der andern Eidgnossen do erwartent.",
+   "preklad": "220. Jak Bernští a jiní táhli do Morges, i to obsadili a čekali tam na ostatní konfederáty."
+  },
+  {
+   "text": "Darnach an der mitwochen do man die vorgenanten sachen zü Orban alle usgericht hat, do zoch man abstat und für gen Lasserra durch die stat; dieselben armen lüte hattent sich vorhin ouch ergeben, diewile man dennocht zü Orben lag, und gaben an dem durchzug iederman zü trinken, und brant das slos dennocht vast. Man zoch ouch desselben tages bis gen Cusseney, das hat sich vorhin ouch ergeben.",
+   "preklad": "Potom ve středu, když se v Orbe všechny zmíněné věci vyřídily, vytáhlo se odtamtud a táhlo se přes město La Sarraz. Tamější chudí lidé se také vzdali už předtím, ještě když se leželo v Orbe, a při průchodu dávali každému pít; a hrad pořád ještě silně hořel. Téhož dne se táhlo až do Cossonay, které se rovněž už předtím vzdalo."
+  }
+ ],
+ "poznamky": [
+  "Středa = 25. 10. 1475 (Tobler). Cusseney = Cossonay, jižně od La Sarraz; Morse = Morges u Ženevského jezera.",
+  "Varianta bernského rukopisu: dávali „jíst a pít“, hrad hořel „plnou silou, jak byl předtím dobyt mečem“; v Cossonay „se našlo vína a chleba podle vší potřeby“.",
+  "Nadpis mluví o Morges, text ale končí v Cossonay; samotné Morges je v kap. 222 (tak i u Toblera, nejde o chybu souboru)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

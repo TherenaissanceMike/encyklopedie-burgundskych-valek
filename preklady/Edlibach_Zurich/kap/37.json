@@ -1,0 +1,41 @@
+{
+ "cislo": 37,
+ "nadpis": "Aber gar ein manliche tatt so die von ellikurtt getan hand, merck fürer.",
+ "edice": "Usteri 1847, ř. 8358 souboru edice",
+ "rukopis_strana": 326,
+ "odstavce": [
+  {
+   "text": "Aber gar ein manliche tatt so die von ellikurtt getan hand, merck fürer.",
+   "preklad": "Ještě jeden velmi mužný čin, který vykonali Héricourtští; čti dále."
+  },
+  {
+   "text": "Item ouch begabe es sich dz ijᶜ brugunscher zu lantwere jn einnem stetlin genant gransch nüt witt von ellikurt, also zugend die tütschen vss ellikurtt so dahin gelegt warend mit xxx",
+   "preklad": "Stalo se také, že asi dvě stě Burgunďanů leželo jako posádka v jednom městečku jménem Granges nedaleko Héricourtu. Tu vytáhli Němci z Héricourtu, kteří tam byli posláni, se třiceti"
+  },
+  {
+   "text": "u _ .. : BC \\ 5,",
+   "preklad": "[zbytek OCR z obrazu v edici, bez textu]"
+  },
+  {
+   "text": "Te ldajanreinmim",
+   "preklad": "[zbytek OCR z obrazu v edici, bez textu]"
+  },
+  {
+   "text": "Städtchen abgeführt.",
+   "preklad": "[zbytek Usteriho popisu obrazu z předchozí kapitoly: „…ze městečka odváděni“]"
+  },
+  {
+   "text": "reissiger pferden zu demselben stetlin als ob sy jnnen förchtend, vnd verschlugen bin ijᶜ knächt zu ross vnd fuss jn einnen rick oder gestüd, also reitztend da die xxx reissigen man die brugunschen vss der statt gransch dz jr wol ijᶜ pfertt hinuss kamend, da sy nun hinuss kamend vnd die obgemelten xxx reissigen von ellikurt vor jnnen hinweg jagtend vnd sy für die verschlagnen ijᶜ knächt kament wurffend sy die xxx flüchtigen pferd wider vmm gegenn jnnen vnd liessend den trumutter uffblassen also kament die verborgnen knächt zwuschend die find vnd die stat vnd erstachend sy, dz die übrigen vss der stat nütt woltend zu hilff kommen.",
+   "preklad": "jezdeckými koňmi k tomu městečku, jako by se nepřátel báli, a asi dvě stě knechtů na koni i pěšky ukryli v houští nebo křoví (rick oder gestüd). Těch třicet jezdců pak dráždilo Burgunďany z města Granges, až jich vyjelo ven dobře dvě stě koní [?]. Když vyjeli a výše zmínění třicet jezdců z Héricourtu před nimi ujížděli a přivedli je až k ukrytým dvěma stům knechtů, obrátilo těch třicet prchajících jezdců koně zpět proti nim a dali trubači zatroubit. Tu vyrazili ukrytí knechti mezi nepřátele a město a pobili je, takže jim ostatní z města nechtěli přijít na pomoc."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „ij““ → „ijᶜ“, „lantiwerre ju“ → „lantwere jn“, „ije“ → „ijᶜ“ (200), „wol ij pfertt“ → „ijᶜ“ [?] (horní index nejistý), „vifblassen“ → „uffblassen“.",
+  "Odstavce 2–4 jsou šum OCR z obrazu a zbytek Usteriho popisu obrazu ke kap. 36 („Die Gefangenen werden aus dem Städtchen abgeführt“); ponechány, nepřekládány.",
+  "„gransch“ = Granges (snad Granges-le-Bourg u Héricourtu) [?], mimo text; u Schillinga „Grangii“.",
+  "„rick oder gestüd“: „gestüd“ = křoví; „rick“ snad houští nebo průsek [?], Tobler uvádí „rickel“ = zátaras, zásek.",
+  "Taktika předstíraného útěku a zálohy, stejně jako u Montbéliardu (kap. 32)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,25 @@
+{
+ "cislo": 189,
+ "nadpis": "Wie etlich us dem torechten leben gan Lucern kamen.",
+ "edice": "Büchi 1914, ř. 2464–2465 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  337
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 337."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie etlich us dem torechten leben gan Lucern kamen.",
+   "preklad": "189. Jak někteří z „bláznivého života“ přišli do Luzernu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi tiskne jen nadpis a odkazuje na Schillinga C. 337; Molsheimův text v edici není.",
+  "Text: z nadpisu odstraněn Büchiho odkaz „; Vgl. Schilling C. 337.“, který dělení připojilo; podle něj doplněna pole schilling a schilling_odkaz."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,32 @@
+{
+ "cislo": 245,
+ "nadpis": "Das die von Bern mit ir paner und ganzen macht gen Iferdun zugent.",
+ "edice": "Tobler I, s. 348",
+ "rukopis_strana": 593,
+ "odstavce": [
+  {
+   "text": "245. Das die von Bern mit ir paner und ganzen macht gen Iferdun zugent.",
+   "preklad": "245. Jak Bernští táhli se svou korouhví a celou mocí k Yverdonu."
+  },
+  {
+   "text": "Dis mortlichen sachen und verräterie wurden angends gen Bern kund und zü wissen getan am samstag nach mittem tag umb das ein, als das davor am fritag in der nacht beschechen was. Also snell und von stund an wurdent gesampnet räte und zweihundert, denen semlich sachen gar nache zü herzen gingent und wart angends beslossen und geraten, mit der paner und ganzer macht gen Iferdun zü ziechen und die fromen lüte zü entschütten und besechen, was inen angelegen were. Und wart für einen gemeinen und obristen houptman geordnet und usgezogen herr Peterman von Wabren, und fürt die paner Anthoni Archer, ein venner von dem erbern hantwerk der pfistern, dem was für ein houptman und rat zügeben und geordnet Gilian Achshalm, ouch ein venner von dem erbern hantwerk der smiden.",
+   "preklad": "Tyto vražedné věci a zrada byly hned oznámeny a dány na vědomí do Bernu, v sobotu po poledni kolem jedné hodiny, když se to předtím stalo v pátek v noci. Tak rychle a okamžitě byla svolána Rada a Dvě stě, jimž tyto věci šly velmi k srdci, a hned bylo usneseno a uváženo táhnout s korouhví a celou mocí k Yverdonu, statečné lidi vysvobodit a podívat se, co je potřeba. Za společného a nejvyššího hejtmana byl ustanoven a vyslán pan Peterman von Wabren. Korouhev nesl Anthoni Archer, praporečník ze ctihodného cechu pekařů, a tomu byl jako hejtman a rádce dán a přidělen Gilian Achshalm, také praporečník, ze ctihodného cechu kovářů."
+  },
+  {
+   "text": "Und zugen also morndes am sonnentag frü in dem namen der heiligen drivaltikeit von stat mit so vil lüten, als man dann dazemal in der snelle mocht haben und was iederman frölich und begirlich die fromen lüte zü entschütten und was gar us der massen kalt und lag ein grosser sne. Und zoch man desselben tages bis gen Murten und e man bis gen Gumynen kam, do kament mere underwegen, wie manlich sich die fromen gesellen zü Iferdun gehalten und das slos mit gewalt noch inhatten und das die viend gar schantlichen abgezogen warent.",
+   "preklad": "A tak nazítří v neděli časně ráno vytáhli ve jménu svaté Trojice z města s tolika lidmi, kolik se jich tehdy dalo v rychlosti sehnat. Každý byl radostný a dychtivý statečné lidi vysvobodit. Bylo nesmírně chladno a ležel velký sníh. Toho dne se táhlo až k Murtenu, a ještě než se došlo ke Gümmenen, přišly cestou zprávy, jak mužně se stateční druhové v Yverdonu zachovali, že hrad stále drží v moci a že nepřátelé velmi hanebně odtáhli."
+  },
+  {
+   "text": "Daran sich die von Bern nit keren und ie darzü tün woltent, damit die fromen lüte entschüt, und nit witer übervallen wurden, dann es umb si alles vol vienden und aber ir macht clein was. Und zoch man also am mentag bis gen Betterlingen, dieselben sich in disen dingen gar fromclichen gehalten und das am allerersten gen Bern und Friburg verkünt, ouch den knechten von Iferdun hilf und trost nach allem irem vermügen zügesagt hatten. Darnach zoch man gen Iferdun in die stat; und als bald denen von Bern semlich mortlich sachen kund getan wurden und si das vernament, da schribent si das von stund an gen Lutzern und Solotern, die dann die iren ouch do ligen hatten, als das in einem brief harnach geschrieben stat.",
+   "preklad": "Na to však Bernští nedbali a chtěli přesto přispět k tomu, aby byli stateční lidé vysvobozeni a nebyli znovu přepadeni, protože všude kolem nich bylo plno nepřátel, a jejich vlastní síla byla malá. A tak se v pondělí táhlo až do Payerne; Payernští se v těchto věcech zachovali velmi poctivě: nejprve ze všech to oznámili do Bernu a Fribourgu a také knechtům v Yverdonu přislíbili pomoc a podporu podle všech svých sil. Potom se táhlo do města Yverdonu. A jakmile byly Bernským tyto vražedné věci oznámeny a dozvěděli se je, hned to napsali do Luzernu a Solothurnu, kteří tam také měli své lidi, jak se píše v listu níže."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: z 1. odstavce odstraněn vlepený řádek variant („3. wolt die ouch ufwecken und warnen und tet das in erlicher und“), který rozdělil větu „für einen gemeinen und obristen houptman | geordnet und usgezogen herr Peterman von Wabren“. Dále „ziü“ → „zü“, „entschuüt“ → „entschüt“. Text je úplný.",
+  "Data (Tobler): sobota = 13. 1. 1476 (přepadení Yverdonu v noci z pátku 12. na sobotu 13. 1.), neděle = 14. 1., pondělí = 15. 1. 1476.",
+  "Bernské varianty: „Peterman von Wabern, ritter“; „schne“; „ir gelegenheit erfaren“ (zjistit jejich situaci). U posledního listu bernský rukopis upřesňuje, že Bern psal do Luzernu a Solothurnu, „ještě než se vytáhlo“, a že ti o věci ještě nevěděli.",
+  "„räte und zweihundert“ = bernská Malá rada a Velká rada Dvou set. „Gumynen“ = Gümmenen, „Betterlingen“ = Payerne. Peterman von Wabern (u Toblera Wabren/Wabern) – určení ve variantě „ritter“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

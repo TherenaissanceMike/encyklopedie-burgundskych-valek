@@ -1,0 +1,28 @@
+{
+ "cislo": 406,
+ "nadpis": "Das die von Zürich die von Bern und ander Eidgnossen mantent.",
+ "edice": "Tobler II, s. 259",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "406. Das die von Zürich die von Bern und ander Eidgnossen mantent.",
+   "preklad": "406. Jak Curyšští vyzvali Bernské a jiné konfederáty."
+  },
+  {
+   "text": "Den fürsichtigen, fromen, wisen, dem schultheissen, rat und den zweihunderten der stat Bern, ünsern besundern güten fründen und getrüwen lieben Eidgnossen enbieten wir der burgermeister, die räte, die zunftmeister und der gros rat, die zweihundert der stat Zurich ünser früntlich willig dienste und was wir eren und güts vermügen alzit bevor. Und als bi üwer lieben früntschaft wir ünser treffenlich botschaft gehebt und der erscheinen lassen hand, was uns von denen von Strasburg ist begegnet und was wir darzü tün wolten und die bitten lassen, üwer getrüw ufsechen zü üns ze haben, und wir demnach über üwer und ünser geswornen pünde gesessen und die verhört und üns dero inhalt nach uf ünser eid erkant, das wir üwer liebe, uns wider die von Strasburg hilf ze tünde, wol ze manen haben und manen mögen, manen ouch üwer früntschaft mit disem ünserm ofnen brief nach begriffung und wisung üwer und ünser pünden, als wir mit denen von Strasburg in vechde und vindschaft sind und uf ietzt mitwochen in dem namen gottes si ze schedigen mit ünser stat paner usziechen wellen, das ir fürderlich demnach uns züziechen und wider si mit üwerm libe und güt hilflichen sind.",
+   "preklad": "Prozíravým, zbožným, moudrým, starostovi, radě a Dvěma stům města Bernu, našim zvláštním dobrým přátelům a věrným milým konfederátům, vzkazujeme my, purkmistr, rady, cechmistři a velká rada, Dvě stě města Curychu, své přátelské ochotné služby a vždy předem vše, co ctí a dobrým zmůžeme. Měli jsme u vaší milé přízně své přední poselstvo a dali mu vyložit, co se nám od Štrasburských přihodilo a co jsme k tomu chtěli učinit, a dali jsme vás prosit, abyste na nás měli věrný ohled. Potom jsme zasedli nad vašimi a našimi přísežnými spolkovými smlouvami, vyslechli je a podle jejich obsahu na svou přísahu uznali, že máme a můžeme vaši lásku dobře vyzvat, abyste nám proti Štrasburským pomohli. Vyzýváme proto vaši přízeň tímto naším otevřeným listem podle znění a obsahu vašich a našich spolkových smluv – neboť jsme se Štrasburskými v nepřátelství a příští středu chceme ve jménu Božím s korouhví našeho města vytáhnout, abychom jim škodili –, abyste nám neprodleně přitáhli na pomoc a byli nám proti nim nápomocni tělem i statkem."
+  },
+  {
+   "text": "Mit urkünd dis briefs versigelt mit ünser stat secret, offenlich harin getruckt. Datum dornstag nach Ulrici anno (14)82.",
+   "preklad": "Na důkaz tento list zpečetěn sekretem našeho města, veřejně do něj vtisknutým. Dáno ve čtvrtek po svatém Oldřichu léta (14)82."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: „färsichtigen“ → „fürsichtigen“, odstraněn zbloudilý znak „‘“. Úplnost ověřena proti ř. 17904–17971.",
+  "Data (Tobler): „příští středa“ = 10. 7. 1482. „Dornstag nach Ulrici“ musí podle Toblera znít „dornstag Ulrici“, tj. čtvrtek na sv. Oldřicha = 4. 7. 1482 (čtvrtek po sv. Oldřichu by byl až 11. 7., po plánovaném výtahu).",
+  "„die zweihundert“: Velká rada (Dvě stě) v Bernu i v Curychu. Tobler odkazuje na Witte, s. 107 n.",
+  "Výzva (manung) je formální postup podle spolkových smluv: místo, které se cítí napadeno, „napomene“ spojence k pomoci; spojenci nejprve posuzují, zda je napomenutí oprávněné (srov. kap. 409)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

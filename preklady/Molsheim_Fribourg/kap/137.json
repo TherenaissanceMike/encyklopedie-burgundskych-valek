@@ -1,0 +1,29 @@
+{
+ "cislo": 137,
+ "nadpis": "Von dem stritt ze Granssen.",
+ "edice": "Büchi 1914, ř. 1645–1647 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 248-59."
+ ],
+ "odstavce": [
+  {
+   "text": "Von dem stritt ze Granssen.",
+   "preklad": "137. O bitvě u Grandsonu."
+  },
+  {
+   "text": "Harzü schreib man dem houptman und den knechten, so ze Yferden lagen, das sy uff stund gen Granson sölten ziechen, doch das sy vor allen dingen mit inen enweg nemen und furten all büchsen, bulver und ander werenen, was sy denn mit inen dannan möchtend bringen, und dann statt und schlos anzündent und ze grund verbranten und was darinnen were, damit die vigent sich dester minder mochtent enthalten, noch wonung haben darinne, das ouch beschach; denn in kurzen tagen darnach der herzog von Burgün mit sinem gewalt und einer unsäglicher macht harin in das land kam. Und schlüg sich angendes für die statt und schlos Granssen mit so vil volkes, das es nit müglich ze sagen ist. Es wurden ouch so vil zelten und hüser uffgeschlagen, das es unsäglich ist, denn das leger was ze ring umb [einer halben mil wit und breit]. Und do das leger geschlagen wart, do liess er an das stettli stürmen.",
+   "preklad": "K tomu se napsalo hejtmanovi a knechtům, kteří leželi v Yverdonu, aby ihned táhli do Grandsonu, ale aby předtím především odvezli s sebou všechna děla, prach a jiné zbraně, co by odtamtud mohli odnést, a pak město i hrad zapálili a do základů vypálili i se vším, co v nich bylo, aby se tam nepřátelé tím méně mohli udržet nebo v nich mít přístřeší. To se také stalo. Neboť za několik dní nato přitáhl vévoda burgundský se svou silou a nevýslovnou mocí sem do země. A hned se položil před město a hrad Grandson s tolika lidmi, že se to nedá vypovědět. Bylo tam také postaveno tolik stanů a domků, že je to nevýslovné, neboť tábor byl všude kolem [na půl míle dlouhý a široký]. A když byl tábor rozbit, dal útočit na městečko."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: odstraněny odkazy na poznámky a čísla řádků (6, 10, 16); OCR opraveno: iiarzü → Harzü, 5ch → ouch, liüser → hüser, will → wit.",
+  "Varianta A (ř. 1): za nadpisem je v rukopise A prázdný list, zřejmě určený pro obrázek, s poznámkou „der strit vor Granssen“ a vlevo dole inkoustem nakreslenou iniciálou fribourgského malíře Hanse Friese.",
+  "Büchi: hejtmanem Fribourgských v Yverdonu byl od 21. 11. 1475 do 13. 2. 1476 Heinz Wicht, pak ho asi před 20. 2. vystřídal Heinz Laris. 9. 2. hlásili žoldnéři z Yverdonu fribourgské radě, že vévoda dorazil do Salins a připojilo se k němu 700 Lombarďanů. Vojsko dorazilo před Grandson 18. 2., obléhání začalo 19. 2. (Fries je zde zvlášť podrobný).",
+  "Oproti Schillingovi (C. 248–249): Schilling nechává knechty z Yverdonu táhnout „do Grandsonu nebo domů“; Molsheim udává rozměr tábora [půl míle] místo obecného „velmi široký“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

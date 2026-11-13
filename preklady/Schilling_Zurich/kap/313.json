@@ -1,0 +1,29 @@
+{
+ "cislo": 313,
+ "nadpis": "Das etlich Lamparter, so von dem strit zu Murten entrunnen, zu Jenf erslagen und ertrenkt wurden.",
+ "edice": "Tobler II, s. 76",
+ "rukopis_strana": 801,
+ "odstavce": [
+  {
+   "text": "313. Das etlich Lamparter, so von dem strit zu Murten entrunnen, zu Jenf erslagen und ertrenkt wurden.",
+   "preklad": "313. Jak byli někteří Lombarďané, kteří utekli z bitvy u Murtenu, v Ženevě pobiti a utopeni."
+  },
+  {
+   "text": "Es kament ouch etlich Lamparter vom strit ze Murten mit ilender flücht gen Jenf und meintent do sicher sin und von nieman witer bekümbert noch geschediget werden. Do das der bischof von Jenf vernam, da tete er inen ein merglichen widerstant und alle die, so über die bruck zü Jenf ritten und sunderlich von Lampartern, die müsten ouch alle mit iren verdackten rossen überab sprengen und also in dem Rotten under den mülinen iemerlich verderben. Darzü wurden ouch in der stat etlich erstochen und erslagen, das man dazemal eigentlichen rett, ir werent ob hunderten umbkomen; das was ir rechter verdienter lon.",
+   "preklad": "Také několik Lombarďanů přiběhlo v kvapném útěku z bitvy u Murtenu do Ženevy a myslili si, že tam budou v bezpečí a že je už nikdo nebude dál obtěžovat ani jim škodit. Když se to dozvěděl ženevský biskup, postavil se jim rázně na odpor. Všichni, kdo jeli přes ženevský most, a zvláště Lombarďané, museli i se svými koňmi v čabracích skočit dolů a tak bídně zahynuli v Rhôně pod mlýny. Kromě toho byli někteří ve městě probodeni a ubiti, takže se tehdy s jistotou vypravovalo, že jich zahynulo přes sto. To byla jejich pravá, zasloužená odplata."
+  },
+  {
+   "text": "Und also nach semlichen geschichten allen wart durch den allercristenlichesten küng von Frankrich an die von Bern und ander Eidgnossen in allen gnaden und trüwen so vil gesücht und geworben, das von sins werbens und begerens wegen gar ein grosser tag von allen Eidgnossen und zügewanten zü Friburg in der stat gehalten und geleist wart von des herzogthüms und hus von Saföy, ouch dero von Jenf und ander sachen wegen, dahin ouch der ammyral und ander herren von Frankenrich, darzü der herzog von Lothringen in eigner persone und ander kament; und tatent die von Bern und Friburg von ir selbs und ander Eidgnossen wegen dis nachgenempten clagen wider die herzogin und das hus von Saföy, ouch wider die von Jenf und ander, als harnach stat.",
+   "preklad": "A tak po všech těchto událostech nejkřesťanštější král francouzský s veškerou milostí a věrností tolik usiloval a jednal u Bernských a ostatních konfederátů, že na jeho žádost a přání byl ve městě Fribourgu svolán a konán velmi velký sněm všech konfederátů a spojenců kvůli vévodství a domu savojskému, také kvůli Ženevským a jiným věcem. Přijel tam i admirál a jiní páni z Francie, k tomu vévoda lotrinský osobně a další. A Bernští a Fribourgští za sebe i za ostatní konfederáty vznesli tyto níže uvedené stížnosti proti vévodkyni a domu savojskému, též proti Ženevským a jiným, jak stojí dále."
+  }
+ ],
+ "poznamky": [
+  "Ženevský biskup = Jan Ludvík Savojský, biskup 1460–1482 (Tobler). „Rotten“ = Rhôna (Tobler).",
+  "Ženevští kronikáři Bonivard a Roset podle Toblera vyprávějí zčásti stejnými slovy, že biskup a měšťané napadli Lombarďany a asi 200 jich utopili a pobili. Bernský rukopis (varianta) má „me dann hundert“.",
+  "„verdackte ross“ = koně pokrytí čabrakou nebo bardou (Toblerův glosář: „mit Deckel versehen“), tedy těžká jízda.",
+  "Admirál = Ludvík, levoboček Bourbonský, místodržící Normandie a admirál Francie (Tobler). Sněm ve Fribourgu trval podle Toblerovy poznámky ke kap. 315 od sv. Jakuba do pondělí po sv. Vavřinci 1476, tj. 25. 7. – 12. 8. 1476 (přepočet dne mimo Tobler).",
+  "Oprava textu: odstraněn zbytek OCR „KO or“ (samostatný odstavec); „muülinen“ → „mülinen“, „celagen“ → „clagen“. Úplnost zkontrolována proti surovým ř. 5432–5506."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,31 @@
+{
+ "cislo": 76,
+ "nadpis": "Das der herzog von Meilant sich gegen gemeinen Eidgnossen gar früntlich erbot.",
+ "edice": "Tobler I, s. 111",
+ "rukopis_strana": 168,
+ "odstavce": [
+  {
+   "text": "76. Das der herzog von Meilant sich gegen gemeinen Eidgnossen gar früntlich erbot.",
+   "preklad": "76. Jak se milánský vévoda vůči všem konfederátům velmi přátelsky nabízel."
+  },
+  {
+   "text": "Es schickte ouch in disen dingen und darnach umb sant Dionisien tag des vorgenanten iares der herzog von Meilant, genant Giliatz Maria Forcia, sin volmechtig botschaft gen Lutzern zü gemeiner Eidgnossen botten und lies inen sagen, das herzog Sigmund von Oesterich umb ein puntnüs an in wurbe wider die Eidgnossen; das het er kurz abgeslagen, wolt ouch das nit tün, sunder als ein fromer fürste die ewigen cappittel, so er und die Eidgnossen züsamen hetten, an inen halten. Er begert ouch, das sich die Eidgnossen nit zem keiser oder zem herzogen von Burgunnen wider in verbunden, das wolt er ouch tün, und ob die Eidgnossen siner lüten oder geltes notdürftig werent, wolte er inen gern schicken —, mit gar vil glatter und güter worten. Ob aber er sin züsagen gehalten, oder was er in disen dingen den Eidgnossen zü gütem oder argem getan hat, das wirt man hienach bas hören und vernemen, da er die sinen mit grossen scharen wider die von Bern und ander Eidgnossen hat lassen ziechen; si sind aber von gots gnaden nit al wider heim komen und inen ir rechter verdienter sold worden, als harnach wirt gelütert.",
+   "preklad": "Mezitím a potom, kolem svatého Diviše téhož roku, poslal také milánský vévoda jménem Giliatz Maria Forcia své plnomocné poselstvo do Luzernu k poslům všech konfederátů a dal jim říci, že se u něho vévoda Zikmund Rakouský ucházel o spolek proti konfederátům. To prý krátce odmítl a nechce to učinit, nýbrž chce jako zbožný kníže vůči nim dodržovat věčné kapituly, které spolu on a konfederáti mají. Žádal také, aby se konfederáti nespojovali proti němu s císařem nebo s burgundským vévodou; totéž chce činit i on. A kdyby konfederáti potřebovali jeho lidi nebo peníze, rád jim je pošle. To vše řekl s mnoha uhlazenými a pěknými slovy. Zda však svůj slib dodržel a co v těchto věcech konfederátům dobrého či zlého učinil, to se lépe uslyší a dozví dále, až nechal své lidi ve velkých houfech táhnout proti Bernským a ostatním konfederátům. Z Boží milosti se však ne všichni vrátili domů a dostalo se jim jejich pravého zaslouženého žoldu, jak bude vyloženo později."
+  },
+  {
+   "text": "Und als ich dann hievor gemelt und angezogen han, wie der herzog von Burgunnen, so mit grossem gewalt, hochvart und richtüm und sunderlich mit der crone, dem zeptrum und andern dingen darzü dienende, zü dem vorgenanten Römschen keiser gen Trier komen und in meinung was, er solt von im zü einem küng gekrönt und in hochvart erhebt worden sin, das aber nit beschach, als hievor ouch gemelt ist, da gab in demselben zite der genant herzog von Burgunnen dem vorgenanten Römschen keiser, ouch sinem sün Maximianen und andern fürsten und herren, die bi im warent, gar ein köstlich mal und erzougt damit sinen gewalt und hochvart, als hienach geschriben stat, und ouch denen von Bern und andern Eidgnossen von güten fründen und warhaften lüten geschriben wart.",
+   "preklad": "Jak jsem již výše uvedl a připomněl, přijel burgundský vévoda s velikou mocí, pýchou a bohatstvím, a zvláště s korunou, žezlem a jinými věcmi k tomu náležejícími, k výše jmenovanému římskému císaři do Trevíru a myslel si, že ho císař korunuje na krále a povýší do slávy; to se však nestalo, jak je také výše řečeno. Tehdy vystrojil týž burgundský vévoda výše jmenovanému římskému císaři, také jeho synu Maximiánovi a jiným knížatům a pánům, kteří byli s ním, velmi nákladnou hostinu a ukázal tím svou moc a pýchu, jak je napsáno dále a jak to také Bernským a ostatním konfederátům napsali dobří přátelé a pravdomluvní lidé."
+  }
+ ],
+ "poznamky": [
+  "Datum: sv. Diviš = 9. 10. 1473 (Tobler). Poselství je téměř doslova zapsáno v sněmovním zápisu z 9. 10. 1473 (Eidg. Abschiede II, 458).",
+  "Tobler určuje vévodu jako „Johann Galeaz Maria Sforza, vévoda milánský 26. 12. 1467–1494“; údaje v OCR nesedí. Mimo Tobler: roku 1473 vládl Galeazzo Maria Sforza (1466–1476, zavražděn 26. 12. 1476); Bernská varianta „Galiatz“.",
+  "„ewige cappittel“ = milánský kapitulát (smlouva) z 26. 1. 1467 (Tobler; Eidg. Abschiede II, 893–899).",
+  "Výhled na „velké houfy“ Milánských: Schilling odkazuje na pozdější vojenskou pomoc Milána Karlovi Smělému (mimo Tobler: Lombarďané u Grandsonu a Murtenu 1476).",
+  "Bernská varianta: zprávu o hostině „poslalo Bernským jedno město z Kolína“ („von einer stat von Cöln geschriben wart“) místo „dobří přátelé a pravdomluvní lidé“; dále „wolt er inen gern mitteilen“.",
+  "Oprava textu (OCR): „puntnüus“ → „puntnüs“, „erone“ → „crone“, „vor1 genanten“ → „vorgenanten“; odstavec „Und als ich dann…“ oddělen podle edice.",
+  "„Maximian“ = Maximilián, syn Fridricha III. (Schilling ho píše Maximianus, snad podle opatství sv. Maximina)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

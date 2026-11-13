@@ -1,0 +1,31 @@
+{
+ "cislo": 185,
+ "nadpis": "Wohin der herzog von Burgund seie begraben worden.",
+ "edice": "Büchi 1914, ř. 2449–2451 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  328
+ ],
+ "schilling_odkaz": [
+  "Nur Manuskript D. Vgl. Schilling C. 328, al. 1. lo"
+ ],
+ "odstavce": [
+  {
+   "text": "Wohin der herzog von Burgund seie begraben worden.",
+   "preklad": "185. Kde byl vévoda burgundský pohřben."
+  },
+  {
+   "text": "Wie der herzog von Burgund umbkommen seie, hat man nit anderst vernommen, dann dass er in der flucht uf witem veld und in der tiefe mit sinem pfärd gefallen seie und an dem nachjagen von einem füssknecht mit einer halleparten hinden in den kopf zü tod geschlagen worden sig, welches dann nit ahn gefärd geschechen, dardurch gott der allmächtig des grusamen tyrannen mütwillen und ungerechtigkeit, so er ein lange zit an unschuldigen christenlüten an vilen orten mit gewalt getriben hat, an deren zum bispil und exempel hat wollen strafen. Er ward auch us befelch des herzogen von Lothringen zü Nansci in der statt ehrlich begraben.",
+   "preklad": "O tom, jak vévoda burgundský zahynul, se nedozvědělo nic jiného, než že na útěku na širém poli upadl se svým koněm do prohlubně a při pronásledování ho jeden pěší knecht ubil halapartnou ranou zezadu do hlavy. To se nestalo bez úradku [= ne náhodou], neboť tím chtěl všemohoucí Bůh potrestat svévoli a nespravedlnost toho krutého tyrana, kterou dlouhý čas na mnoha místech násilím páchal na nevinných křesťanech, ostatním pro příklad a výstrahu. Z rozkazu vévody lotrinského byl také čestně pohřben ve městě Nancy."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi: kapitola je jen v rukopise D; srov. Schilling C. 328, al. 1. K okolnostem smrti odkazuje Büchi na Bernoulliho (III, 93) a tamní literaturu, k pohřbu na svou poznámku k datu bitvy (5. 1. 1477). Tyto poznámky stojí strojově v poli poznamky_editora kap. 186.",
+  "Text: opraveno OCR fiissknecht → füssknecht, köpf → kopf, icelches → welches, djir → der, odstraněny značky poznámek a číslo řádku.",
+  "„nit ahn gefärd“ doslova „ne bez záměru“; míněno, že šlo o Boží řízení.",
+  "Oproti Schillingovi: Schilling (C. 328) okolnosti vévodovy smrti nepopisuje; Molsheim (rkp. D) uvádí pád s koněm do prohlubně a smrtelnou ránu halapartnou zezadu do hlavy od pěšího knechta."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

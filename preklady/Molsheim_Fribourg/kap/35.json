@@ -1,0 +1,25 @@
+{
+ "cislo": 35,
+ "nadpis": "Wie der fürst von Oesterich und vil ander fürsten und herren by den Eydgnossen ze Costenz waren und die vereinung beschlossen wart, do kamen mere, wie Hagenbach gefangen were.",
+ "edice": "Büchi 1914, ř. 545–546 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  107
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 107, verkürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der fürst von Oesterich und vil ander fürsten und herren by den Eydgnossen ze Costenz waren und die vereinung beschlossen wart, do kamen mere, wie Hagenbach gefangen were.",
+   "preklad": "35. Jak byl kníže rakouský a mnoho jiných knížat a pánů u konfederátů v Kostnici, a když byl spolek uzavřen, přišla zpráva, že Hagenbach byl zajat."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „mere.“ → „mere,“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 107, zkráceně) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

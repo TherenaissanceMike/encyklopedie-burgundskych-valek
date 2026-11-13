@@ -1,0 +1,30 @@
+{
+ "cislo": 69,
+ "nadpis": "Das der vorgenant von Hagenbach denen von Mülhusen in mengen stucken understünd verräterie und bös sachen ze tünde.",
+ "edice": "Tobler I, s. 104",
+ "rukopis_strana": 153,
+ "odstavce": [
+  {
+   "text": "69. Das der vorgenant von Hagenbach denen von Mülhusen in mengen stucken understünd verräterie und bös sachen ze tünde.",
+   "preklad": "69. Jak se zmíněný Hagenbach v mnoha věcech pokoušel o zradu a zlé kousky proti Mulhouským."
+  },
+  {
+   "text": "Eigens gewalts und on recht understünd er ouch die erber stat Mülhusen, die mit denen von Bern und Solotern in puntnüs waren, umb ir statschultheissenampt und ander gerechtikeit, so si dann von altem herbracht und vom heiligen rich verpfent hatten, zü bringen, und das mit heimlicher verreterie zü sinen handen ze nemen, über das im solichs nit züstünd und ouch in dem friden von Walzhüt und andern richtungen verbotten was. Alle boslistikeit und mütwillen erdacht er gegen biderben luten von Basel und andern, denen dann die von Mülhusen schuldig warent und mit inen ze tünde hattent, si anzereitzen, das si inmassen beswert wurdent, damit si sich dem gewalt sins herren undergeben soltent, wann si von des vergangnen kriegs und deswegen, das man inen veilen kouf und allen iren gewerbe abwarf, und das vil zit und iaren gewert hat, in gros schulden komen warent, die er am letsten, da er si anders nit trengen mocht, gern für si bezalt, wo si sich sinem herren undergeben hettent.",
+   "preklad": "Svou vlastní mocí a bez práva se pokoušel také ctihodné město Mulhouse, které bylo ve spolku s Bernskými a Solothurnskými, připravit o jeho úřad městského starosty a jiná práva, jež mělo odedávna a jež drželo v zástavě od Svaté říše, a tajnou zradou je vzít do svých rukou, ačkoli mu nic takového nepříslušelo a v míru z Waldshutu i v jiných smírech to bylo zakázáno. Vymýšlel všemožné zlé úskoky a svévoli, aby ponoukl poctivé lidi z Basileje a jiné, jimž byli Mulhouští dlužni a s nimiž měli co činit, aby Mulhouské natolik zatížili, že by se museli poddat moci jeho pána. Kvůli minulé válce a proto, že jim byl odepřen volný trh a všechen obchod, což trvalo mnoho času a let, totiž upadli do velkých dluhů. Ty by za ně nakonec, když je jinak donutit nemohl, rád zaplatil, kdyby se poddali jeho pánovi."
+  },
+  {
+   "text": "Sie wolten aber das nit tün, und wart inen dennocht am letsten durch die von Bern und Solotern ir Eidgnossen und etlich ander des richs herren und stette, iren nachburen, mit gelt und anderm als wit fürgesetzt, das si deshalben etwas zü rüw kamen, und bi dem heiligen riche und den geswornen bünden belibent.",
+   "preklad": "Oni to však učinit nechtěli, a nakonec jim Bernští a Solothurnští, jejich spříseženci, a někteří jiní říšští páni a města, jejich sousedé, natolik vypomohli penězi a jinak, že se tím trochu uklidnili a zůstali při Svaté říši a při přísežných spolcích."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Hagenbachovy vstřícné nabídky Mulhouse z r. 1470 jsou otištěny u Mossmanna (Cartulaire III, 459 a 508); Hagenbach je zopakoval 22. 1. 1473.",
+  "Tobler: na jednání v Basileji 11. 12. 1473 navrhli kurfiřt Fridrich, Štrasburk, Colmar, Obernai, Kaysersberg, Curych, Bern, Solothurn a Basilej půjčit Mulhouse 1 800 zl. proti zástavě úřadu městského starosty; návrh byl schválen 3. 1. 1474.",
+  "„statschultheissenampt“ = úřad (říšského) městského starosty, který Mulhouse drželo v zástavě od říše. „der vergangne krieg“ = patrně mulhouská válka 1468, „veiler kouf“ = volný prodej, zásobování trhem (obojí mimo Tobler). „fürsetzen“ = půjčit, vypomoci (glosář).",
+  "Spolek Mulhouse s Bernem a Solothurnem byl uzavřen r. 1466 (mimo Tobler).",
+  "Bernské varianty: „Alle bös list“, „rüwen“, „blibent“; „des richs“ chybí.",
+  "Oprava textu: „sı“ → „si“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

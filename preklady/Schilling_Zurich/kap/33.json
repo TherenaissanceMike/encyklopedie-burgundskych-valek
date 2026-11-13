@@ -1,0 +1,24 @@
+{
+ "cislo": 33,
+ "nadpis": "Das etlich Behemer vom richen herzogen wider die Eidgnossen harus kament.",
+ "edice": "Tobler I, s. 39",
+ "rukopis_strana": 76,
+ "odstavce": [
+  {
+   "text": "33. Das etlich Behemer vom richen herzogen wider die Eidgnossen harus kament.",
+   "preklad": "33. Jak proti konfederátům přitáhli nějací Čechové od bohatého vévody."
+  },
+  {
+   "text": "Es wurden ouch in dem als man vor Walzhüt lag, vom richen herzogen wol bi sechzechenhundert Behemer zü hilf der herschaft harus geschicket; und als die kament, wart dennocht durch si nit krieghaftigs wider die Eidgnossen gehandlet, wann das si den fründen me schadens tatent, dann den Eidgnossen. Doch so lies dennocht der rich herzog dis durch sin botschaft gein den Eidgnossen also verantwurten: er were mit herzog Sigmund von Oesterich in einer verstentnus, nach dero inhalt hette er im müssen lut schicken, und ob ioch die, so er im geschickt hette, underwegen blibent und nit wider heim kement, da lege im nit vil an, wann er hette im die eren und siner verschribung halb, die si vor disen kriegen allen mit einandern gemacht hetten, müssen schicken; was er aber sus zü friden und gütem in disen sachen getün und betedingen möcht, das wolt er mit güten trüwen tün, als er und sin vordern iewelten getan hettent in dem vorgenanten fünfzechenierigen friden und andern sachen.",
+   "preklad": "Když se leželo před Waldshutem, poslal také bohatý vévoda panstvu na pomoc asi šestnáct set Čechů. Když však přišli, nepodnikli proti konfederátům nic válečného, leda že natropili víc škody přátelům než konfederátům. Bohatý vévoda to přesto dal skrze své poselstvo před konfederáty takto zodpovědět: je s vévodou Zikmundem Rakouským v úmluvě, podle níž mu musel poslat lid; a i kdyby ti, které mu poslal, cestou zůstali a domů se nevrátili, mnoho mu na tom nezáleží, neboť mu je musel poslat kvůli cti a kvůli svému úpisu, který spolu uzavřeli před všemi těmito válkami. Co by však jinak mohl v těchto věcech učinit a vyjednat pro mír a dobro, to chce učinit v dobré věrnosti, jak to on i jeho předkové vždycky činili při zmíněném patnáctiletém míru i v jiných věcech."
+  }
+ ],
+ "poznamky": [
+  "„der rich herzog“ = Ludvík IX. Bohatý, vévoda bavorsko-landshutský (Tobler odkazuje k jeho postoji na Riezlera, Gesch. Bayerns III, 437; bernská varianta výslovně „von dem richen herzogen von Peyern“).",
+  "Tobler: Edlibach zprávu o Češích asi převzal ze Schillinga; podle záznamu v Mone, Quellensammlung I, 226 přivedl 1500 Čechů naopak vévoda Zikmund.",
+  "Bernské varianty: „Behem“ místo „Behemer“, „wol sechzechenhundert Behem“; dodává, že přišli „und vermeinten die in Walzhüt ze entschütten“ (a chtěli osvobodit obležené ve Waldshutu).",
+  "„den fründen“ = přátelům, tj. zřejmě vlastní, rakouské straně a jejím lidem. „fünfzechenieriger friden“ = patnáctiletý mír z Kostnice 1461 (srv. kap. 35). Oprava textu: „ım“ → „im“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 301,
+ "nadpis": "Das die von Zürich mit ir paner und ganzer macht ouch harnach kament.",
+ "edice": "Tobler II, s. 43",
+ "rukopis_strana": 759,
+ "odstavce": [
+  {
+   "text": "301. Das die von Zürich mit ir paner und ganzer macht ouch harnach kament.",
+   "preklad": "301. Jak i Curyšští přitáhli se svou korouhví a celou mocí."
+  },
+  {
+   "text": "Und als nü die fromen hantvesten lüte und Eidgnossen, die von Zurich, ouch mit ir paner und ganzer macht usgezogen und uf den füssen warent, do wurdent die sachen dester lenger verzogen und wolt man umb eren und trüwen willen ir erwarten, als si ouch des begerten und ouch gar balde trostlich und manlich harnach kament. Dozwüschen waren alle houptlüt, venner und räte von stetten und lendern, darzü von andern puntgnossen und zügewanten tag und nacht bi einandern zü bedenken und ratslagen, wie si die sachen nach eren angriffen und handlen wolten, dann si alwegen in fürsorgen warent, der herzog und die rechtschuldigen wurden inen entrinnen, als vorhin vor Granson ouch beschechen was.",
+   "preklad": "A protože také stateční a zdatní konfederáti, Curyšští, vytáhli se svou korouhví a celou mocí a byli na pochodu, věc se o to déle odkládala: ze cti a věrnosti se na ně chtělo počkat, jak si to také přáli, a oni také velmi brzy, k útěše všech a mužně, přitáhli. Mezitím se všichni hejtmani, praporečníci a radní z měst a zemí a k tomu z ostatních spolkových druhů a spojenců scházeli dnem i nocí, aby uvažovali a radili se, jak by věc čestně uchopili a provedli. Stále se totiž obávali, že jim vévoda a ti skuteční viníci utečou, jako se to stalo už předtím u Grandsonu."
+  },
+  {
+   "text": "Und wurden des mit einandern einhelliclichen zü rat, das si in dem namen gottes und mit siner götlichen hilf den rechten herren am ersten angriffen und den inmassen hinderziechen wolten, das er inen nit möcht entrinnen; dann si meinten, ob si ioch den herren von Röymont, der sin leger hie disenthalb Murten ouch mechticlichen geslagen hat, am ersten angriffen und erslügen, so wurden der herzog und ander rechtschuldigen zü flücht bewegt und müsten die armen und unschuldigen liden, das ouch nach wisheit und vernunft manlich und erlich angesechen was.",
+   "preklad": "A jednomyslně se usnesli, že ve jménu Božím a s Jeho božskou pomocí napadnou nejprve toho pravého pána a obklíčí ho tak, aby jim nemohl utéci. Mínili totiž, že kdyby nejprve napadli a pobili pána z Romontu (Röymont), který měl svůj tábor také mocně rozložen tady, na této straně Murtenu, dal by se vévoda i ostatní skuteční viníci na útěk a trpět by museli ti chudí a nevinní. To bylo také moudře, rozumně, mužně a čestně uváženo."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „wurden: des mit 'einandern einhellielichen“ → „wurden des mit einandern einhelliclichen“, „wolter“ → „wolten“, „sı“ → „si“; vypuštěna osamocená „2“ před „manlich“ (snad zkomolené „gar“).",
+  "„hinderziechen“: Tobler „in den Rücken fallen“, podle Watteleta zde „obklíčit“.",
+  "Pán z Romontu = Jakub Savojský, hrabě z Romontu (Jacques de Savoie), velitel burgundského křídla severně od Murtenu (Tobler odkazuje na kap. 295). Bernská varianta má „den grafen von Röymont“.",
+  "Bernská varianta: „uf den beinen“ místo „uf den füssen“ (význam stejný: na pochodu); „nit wol möcht entrinnen“.",
+  "Tobler: Bern psal Curychu, aby pospíšil, 20. 6. dvakrát; Waldmann podle Edlibacha „psal jeden dopis za druhým, aby přišli“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

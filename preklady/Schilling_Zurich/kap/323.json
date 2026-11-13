@@ -1,0 +1,34 @@
+{
+ "cislo": 323,
+ "nadpis": "Das etlich knechte von Eidgnossen zü Basel gar iemerlichen ertrunken.",
+ "edice": "Tobler II, s. 109",
+ "rukopis_strana": 836,
+ "odstavce": [
+  {
+   "text": "323. Das etlich knechte von Eidgnossen zü Basel gar iemerlichen ertrunken.",
+   "preklad": "323. Jak se několik knechtů od konfederátů v Basileji velmi žalostně utopilo."
+  },
+  {
+   "text": "Uf dem vorgenanten dornstag, als dero von Bern lüte hinweg zugent, warent etlich knecht von Basel und andern Eidgnossen ouch vom herzogen von Lothringen umb sold bestalt, mit im zü ziechen und wolten von Basel bis gen Brisach uf dem Rin varen. Und als si in die schif gingent, do warent si mütig und trungen als vast darin, das ein schif von vile der lüten zerbrach und underging und wart die angst und not als gros, das leider ob hundert endlicher mannen und mit inen etlich dirnen ertrunken ; der wurden nachmalen bi vierzigen wider funden.",
+   "preklad": "V týž výše řečený čtvrtek, kdy lidé Bernských odtáhli, byli někteří knechti z Basileje a od jiných konfederátů také najati vévodou lotrinským za žold, aby s ním táhli, a chtěli plout z Basileje až do Breisachu po Rýně. A když nastupovali do lodí, byli rozjaření a tlačili se do nich tak prudce, že se jedna loď pod množstvím lidí rozlomila a potopila; a strach a nouze byly tak veliké, že se bohužel utopilo přes sto zdatných mužů a s nimi několik ženštin; z nich jich bylo později nalezeno na čtyřicet."
+  },
+  {
+   "text": "Do das der herzog von Lothringen vernam, der dazemal ouch zü Basel was, do wart er ganz betrübet und weinet bitterlichen, das es menglich sach, darumb das si in sinem dienste als iemerlich warent umbkomen, und was selber an ir begrebde und bezalt alles, das darüber ging. Er gab ouch denen, die ir werinen im Rine verloren hatten, für dieselben ob zweihundert güldin. Es retten ouch etlich von denselben, denen got usgeholfen hat, inen wer recht beschechen und hetten semlich gros ungevelle umb got wol verdienet, dann si werent merenteils in der heiligen fronvasten in ofnen frowenhüsern und hinder dem spil gelegen und werent in mengem tage in nie kein kilchen komen.",
+   "preklad": "Když se to dozvěděl vévoda lotrinský, který byl tehdy také v Basileji, velice se zarmoutil a hořce plakal, takže to každý viděl, protože tak žalostně zahynuli v jeho službě; byl sám přítomen jejich pohřbu a zaplatil všechno, co to stálo. Těm, kteří ztratili své zbraně v Rýně, dal za ně také přes dvě stě zlatých. Někteří z těch, jimž Bůh pomohl ven, také říkali, že se jim stalo právem a že si tak veliké neštěstí od Boha dobře zasloužili, neboť většinou ve svatých suchých dnech leželi v otevřených nevěstincích a u hry a už mnoho dní nepřišli do žádného kostela."
+  },
+  {
+   "text": "Daran alle fromen lüte gedenken und den almechtigen ewigen gotte zü allen ziten und sunderlich in semlichen kriegsnöten vor ougen haben süllent, so mag inen destminder misslingen. Und sol nieman zwiveln, hetten die güten knecht ouch mer gotsvorcht gehebt, es wer inen leider nit als übel ergangen. Der ewig got welle sich über die selen erbarmen !",
+   "preklad": "Na to mají všichni zbožní lidé pamatovat a mít všemohoucího věčného Boha na zřeteli v každé době, a zvláště v takových válečných nouzích; tak se jim bude méně nedařit. A nikdo ať nepochybuje, že kdyby ti dobří knechti měli více bázně Boží, nebylo by to s nimi bohužel dopadlo tak zle. Věčný Bůh se slituj nad jejich dušemi!"
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: do textu byla vlepena varianta „2. Mülron, der dazemal ein venner was, ouch gen Basel geschickt, etwas mit inen zü reden und inen ir sachen nach dem besten helfen“ uprostřed slova „be-schechen“; odstraněna a slovo spojeno (beschechen). Odstraněna „|“ v nadpisu, sı → si. Úplnost proti ř. 7698–7767 zkontrolována, nic nechybí.",
+  "Datum: čtvrtek 19. 12. 1476 (Tobler). O této „leidsamy geschicht“, vyprávěné různě, Knebel, Etterlin, Edlibach (Tobler). Text sám most nezmiňuje: loď se podle Schillinga rozlomila pod množstvím lidí.",
+  "Počet „přes sto“ je podle Toblera jistě příliš vysoký; basilejské zprávy uvádějí 30 a 50.",
+  "Varianty: „von win mütig“ (= rozjaření vínem, opilí) místo „mütig“; „von vile der lüten“ chybí; „me dann hundert“, „me dann viertzig“, „me dann zweihundert“.",
+  "„endlicher mannen“ = zdatných (Tobler: endlich = tüchtig); „werinen“ = zbraně (Tobler); „dirnen“ = děvečky/ženy z trénu, přeloženo „ženštin“.",
+  "„in der heiligen fronvasten“ = v zimních suchých dnech (kvatembrech); r. 1476 připadly na 18., 20. a 21. 12. (st, pá, so po sv. Lucii, juliánský kalendář), neštěstí 19. 12. tedy bylo uprostřed kvatemberního týdne (mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 91,
+ "nadpis": "Wie die von Bern, Friburg und ander zugewanten fürer hin gen Bürgün mit macht zugen.",
+ "edice": "Büchi 1914, ř. 1064–1076 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  192,
+  193
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 192 — S. 263, J3 heimgesandt.",
+  "Vgl. Schilling C. 193."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern, Friburg und ander zugewanten fürer hin gen Bürgün mit macht zugen.",
+   "preklad": "91. Jak Bernští, Fribourgští a další spojenci táhli s mocí dál do Burgundska."
+  },
+  {
+   "text": "92. Warumb sich das schloss Gramunt noch die daruff lagen nit uff wolten geben und es aber so in kurzer stund so ritterlich gestürmt und gewunnen wart.",
+   "preklad": "92. Proč se hrad Grammont ani ti, kdo na něm leželi, nechtěli vzdát, a jak byl přesto v krátké chvíli tak rytířsky ztečen a dobyt."
+  },
+  {
+   "text": "93. Sach, warumb sich die, so uff dem schloss Gramunt lagen, nit wolten uffgeben.",
+   "preklad": "93. Příčina, proč se ti, kdo leželi na hradě Grammont, nechtěli vzdát."
+  },
+  {
+   "text": "Das beschach darumb, das sy so manlich waren und das schlos nit wolten uffgeben, das was ursach, das der baschart von Bürgün des andren tages by inen vor dem schlos gewesen was und sy mit sinen worten gesterkt hatt, und inen verhiess, sy solten manlich sin, er wette sy entschütten und nit verlassen, denn er wol bi 18,000 man zu ros und zü füss by im hette, als man das durch den baschart von Gramund nach vernam. Er hat ouch ettlich Lamparter darin geleit, denen ouch ir rechter lon ward, und kam inen die entschüttung ze spat. Man hatt sich ouch gerüst nach den warnungen, die man da hatt. Darumb als lang der sturm werte, do hielt man in guter ordnung, ob der baschart von Bürgün were komen, die in dem schlos ze entschütten, das man wolte mit im sich geschlagen han, darumb der sturm nit gehindert were worden.",
+   "preklad": "Stalo se to proto, že byli tak srdnatí a nechtěli hrad vydat. Příčinou bylo, že bastard Burgundský byl den předtím [?] u nich před hradem, posílil je svými slovy a slíbil jim, ať jsou stateční, že je vysvobodí a neopustí, neboť má u sebe dobrých 18 000 mužů na koních i pěšky; to se potom zvědělo od bastarda z Grammontu. Dal tam také několik Lombarďanů, kteří dostali svou pravou mzdu, a pomoc jim přišla pozdě. Vojsko se však podle varování, která mělo, také připravilo. Proto se po celou dobu útoku stálo v dobrém šiku, aby se s bastardem Burgundským, kdyby přišel vysvobodit ty na hradě, mohlo utkat, a útok by tím nebyl zdržen."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Vgl. Knebel 11, 28-?."
+ ],
+ "poznamky": [
+  "Kap. 91 má jen nadpis; Büchi odkazuje „Vgl. Schilling C. 192 — S. 263, 13 heimgesandt“, tj. text zřejmě odpovídá Schillingově kap. 192 až po slovo „heimgesandt“.",
+  "Skryté kapitoly 92 (jen nadpis, = Schilling 193) a 93 (Vgl. Schilling I, 265, odst. 2) ponechány jako mezititulky; vypuštěn Büchiho odkaz „Vgl. Schilling I, 265, al. 2.“, který stál jako samostatný odstavec. Pole schilling opraveno (strojově v něm byla čísla stran a řádků 3 a 263).",
+  "Grammont byl dobyt 21. 8. 1475 (Büchi u kap. 95).",
+  "„des andren tages“ nejisté [?]: buď „den předtím“, nebo „druhého dne“. „baschart von Gramund“ = snad levoboček z rodu pánů z Grammontu, od něhož se to zvědělo [?]. „ir rechter lon ward“ = ironicky: dostali, co si zasloužili (byli pobiti).",
+  "Büchi (poznámka uložená u kap. 94): k dobytí Grammontu srov. Knebel I, 280, Rüsch 315, Anonymní kroniku 516, Edlibach 146, píseň u Schillinga I, 272, Tütsch 68. Rudolf von Wippingen měl od fribourgské rady rozkaz přivést domů chudé z Orbe a Grandsonu; on a Jakob Velga byli posláni do Yverdonu a k vojsku u Grandsonu pro žold.",
+  "Opravy OCR: „flirer in gen Blirgün“ → „fürer hin gen Bürgün“, „io 92.“ → „92.“, „halt“ → „hatt“, „ouch » ir“ → „ouch ir“, „Ion“ → „lon“, „Bürg ün“ → „Bürgün“, značky poznámek vypuštěny."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

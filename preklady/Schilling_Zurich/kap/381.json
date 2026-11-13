@@ -1,0 +1,30 @@
+{
+ "cislo": 381,
+ "nadpis": "Das die von Bern und gemein Eidgnossen mit dem vorgenanten ünserm heiligen vatter dem babst ein vereinung machten.",
+ "edice": "Tobler II, s. 222",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "381. Das die von Bern und gemein Eidgnossen mit dem vorgenanten ünserm heiligen vatter dem babst ein vereinung machten.",
+   "preklad": "381. Jak Bernští a všichni konfederáti uzavřeli s výše jmenovaným naším svatým otcem papežem spolek."
+  },
+  {
+   "text": "Und als nü der obgerürt ünser heiliger vatter der babst denen von Bern und etlichen andern Eidgnossen semlichen grossen aplas geben und si damit als milticlichen versechen hat, da begert er an gemein Eidgnossen, als an die, so er für die allerbesten cristenmenschen schatzt, nach inhalt sins schribens und ouch siner sandbotten, mit im ein vereinung und verstentnüss ze machen und in bi der heiligen cristenlichen kirchen und dem stül von Rom wider die unglöubigen und ander, die zu abbruch derselben gein im als einem knecht und diener gottes weren geneigt, helfen schirmen und hanthaben.",
+   "preklad": "A když nyní výše zmíněný náš svatý otec papež dal Bernským a některým jiným konfederátům tak velké odpustky a tak štědře je jimi obdařil, žádal po všech konfederátech, které pokládal za nejlepší křesťany, svým listem i skrze své vyslance, aby s ním uzavřeli spolek a dohodu a pomáhali ho chránit a udržet při svaté křesťanské církvi a římském stolci proti nevěřícím a jiným, kteří by byli ochotni ke škodě církve vystoupit proti němu jako proti sluhovi a služebníku Božímu."
+  },
+  {
+   "text": "Also wurden die von Bern und ander gemein Eidgnossen von stetten und lendern ouch betrachten und zü herzen nemen vorab das lob und die ere des almechtigen gottes und machtent zu hanthabung und beschirmunge der heiligen kirchen und cristenlichen gloubens mit dem vorgenanten ünserm heiligen vatter dem babst ein verstentnüss und vereinung wider die unglöubigen und ander abtretter des gloubens bi sinem leben uf semlich meinung, wann sin heilikeit die Eidgnossen wider die unglöubigen manen und ervorderen wurde, das si im dann die iren umb sold lassen solten, ob anders si mit iren eignen kriegen nit beladen weren, mit andern artickeln nach lut der vereinung, die dann von allen teilen ufgericht und versigelt ist und in dem wasserturn zü Lutzern litt.",
+   "preklad": "Tak Bernští a ostatní konfederáti z měst i zemí uvážili a vzali si k srdci především chválu a čest všemohoucího Boha a k udržení a ochraně svaté církve a křesťanské víry uzavřeli s výše jmenovaným naším svatým otcem papežem dohodu a spolek proti nevěřícím a jiným nepřátelům víry, a to na dobu jeho života. Smysl byl ten, že kdyby Jeho Svatost konfederáty vyzvala a povolala proti nevěřícím, mají mu své lidi za žold propustit, pokud ovšem nebudou sami zaneprázdněni vlastními válkami; k tomu jiné články podle znění spolkové listiny, kterou všechny strany vyhotovily a zpečetily a která leží ve Vodní věži (Wasserturm) v Luzernu."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do 2. a 3. odstavce byla vlepena dlouhá Toblerova poznámka (citace z Rats-M. a Teutsch Miss. o jednání s legátem Gentilisem). Odstraněna; text mezi stranami 223 a 224 navazuje bez ztráty („ob anders si mit iren | eignen kriegen nit beladen weren“). Dále „eristenmenschen“ → „cristenmenschen“, „heiıigen“ → „heiligen“, „Unser“ → „ünser“. Text má nyní 2 odstavce + nadpis.",
+  "Varianta „Kap. 381 fehlt“: v jiném rukopisu kapitola chybí.",
+  "Tobler: jednání papežského legáta Gentilise ze Spoleta s konfederáty o spolku začalo 31. 10. 1478. Bern váhal (6. 9. 1479 psal, že spolek, který je „tak úplně postaven na Jeho Svatost samotnou“, nepřinese mnoho užitku) a podmiňoval souhlas vydáním bul, za které draze zaplatil. 11. 10. 1479 rada rozhodla přistoupit, pokud budou ostatní jednomyslní (13. 10. potvrdila Rada a Dvě stě), a 22. 10. 1479 oznámila Störovi, že spolek přijala, když jim Gentilis dal písemné záruky.",
+  "Tobler: spolková listina se nedochovala; pravděpodobně je z 18. 10. 1479 a známe ji jen z papežské potvrzovací buly z 21. 1. 1480. Bern ji zpečetil velkou pečetí 19. 11. 1479.",
+  "Mimo Tobler: Vodní věž (Wasserturm) v Luzernu sloužila jako archiv a pokladnice.",
+  "„abtretter“ = nepřítel, pohrdač (Toblerův glosář); „knecht und diener gottes“ odpovídá papežskému titulu „servus servorum Dei“ (mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

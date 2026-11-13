@@ -1,0 +1,31 @@
+{
+ "cislo": 192,
+ "nadpis": "Wie die im torrechten leben zu Bern in die statt gelassen, auch wol und ehrlich gehalten wurden.",
+ "edice": "Büchi 1914, ř. 2475–2477 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  340
+ ],
+ "schilling_odkaz": [
+  "Nur Manuskript D. Vgl. Schilling C. 310."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die im torrechten leben zu Bern in die statt gelassen, auch wol und ehrlich gehalten wurden.",
+   "preklad": "192. Jak ti z „bláznivého života“ byli v Bernu vpuštěni do města a bylo s nimi dobře a čestně zacházeno."
+  },
+  {
+   "text": "Als Sprecher der Leute vom törichten Leben wird der Hauptmann von Uri «des ammann Derendingers sohn, ein junger mann» bezeichnet in Ergänzung zu Schilling.",
+   "preklad": "[Büchi Molsheimův text netiskne a uvádí jen toto shrnutí:] Jako mluvčí lidí z „bláznivého života“ je navíc oproti Schillingovi uveden hejtman z Uri, „syn úředníka Derendingera, mladý muž“."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi: kapitola je jen v rukopise D; odkaz „Vgl. Schilling C. 310“ je zřejmě chyba OCR či tisku za C. 340 (Schillingova kapitola o vpuštění knechtů do Bernu), proto je pole schilling opraveno na 340.",
+  "Odstavec [1] není Molsheimův text, ale Büchiho novoněmecké shrnutí; odstraněna značka poznámky.",
+  "Büchi (poznámka strojově v textu kap. 193): „Derendinger“ je zkomolenina jména Beroldingen. Tento syn zemského úředníka Andrease Beroldingena (†1510) není blíže znám; otec byl v Uri zemským úředníkem roku 1477.",
+  "Oproti Schillingovi: Molsheim jmenuje mluvčího houfů před bernskou radou, Schilling mluví jen o „jejich hejtmanech“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

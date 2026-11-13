@@ -1,0 +1,28 @@
+{
+ "cislo": 58,
+ "nadpis": "Das der herzog von Burgunnen etlich sin räte zü gemeinen Eidgnossen gen Lutzern schickte, die ouch gar hochmüticlich mit inen retten.",
+ "edice": "Tobler I, s. 94",
+ "rukopis_strana": 129,
+ "odstavce": [
+  {
+   "text": "58. Das der herzog von Burgunnen etlich sin räte zü gemeinen Eidgnossen gen Lutzern schickte, die ouch gar hochmüticlich mit inen retten.",
+   "preklad": "58. Jak burgundský vévoda poslal některé své rady ke všem konfederátům do Luzernu a ti s nimi také velmi zpupně mluvili."
+  },
+  {
+   "text": "Und darnach an dem nechsten mitwochen nach dem meitag, do man von der gebürt ünsers lieben herren Jhesu Cristi zalt tusent vierhundert sibenzig und vier iare, schickte derselbe herzog von Burgunnen zwen treffenlicher ritter siner räten und sinen herolt für gemeiner Eidgnossen botten gen Lutzern zü dem vorgenanten übermütigen schriben, das er den Eidgnossen getan hat, mit sinen credenzbriefen, und lies mit den Eidgnossen reden, wie er den fürsten von Oesterich, ouch den von Höwdorf und ander des fürsten land und lüte in sinen schirm genomen, und ouch wie er die grafschaft Pfirt verpfent hette.",
+   "preklad": "A potom, nejbližší středu po prvním máji, když se od narození našeho milého Pána Ježíše Krista psalo tisíc čtyři sta sedmdesát čtyři let, poslal týž burgundský vévoda vedle zmíněného zpupného psaní, které konfederátům poslal, dva znamenité rytíře ze svých rad a svého herolda s pověřovacími listy k poslům všech konfederátů do Luzernu. Dal konfederátům říci, že vzal do své ochrany rakouského knížete, také Höwdorfera a jiné knížecí země a lidi, a také že má hrabství Ferrette (Pfirt) v zástavě."
+  },
+  {
+   "text": "Und were daruf ie sin will und meinung mit gar hochvertigen worten, das die Eidgnossen mit dem fürsten von Oesterich, ouch dem von Höwdorf und andern den sinen nützit unfrüntlichs fürnement, und ob die Eidgnossen mit inen ützit zü tünde hettent, das si dann des zü recht oder früntlichen tagen uf in kement, so wolt er darinne sin bestes handlen; dann wo man dis nit tete, so müste er si zü irem rechten schirmen und wolt si ouch nit verlassen.",
+   "preklad": "A že je tedy rozhodně jeho vůlí a míněním, což řekli velmi zpupnými slovy, aby konfederáti proti rakouskému knížeti, proti Höwdorferovi ani proti jiným jeho lidem nic nepřátelského nepodnikali. A mají-li s nimi konfederáti nějakou při, ať se v ní obrátí na něho k soudu nebo ke smírčím jednáním, a on v tom učiní, co bude nejlepší. Kdyby se tak nestalo, musel by je v jejich právu chránit a také by je neopustil."
+  }
+ ],
+ "poznamky": [
+  "Datum: Tobler upozorňuje, že rok 1474 je chybný; jde o sněm v Luzernu 5. 5. 1473 (Abschiede II, 446). Středa po 1. máji 1473 vychází na 5. 5. 1473 (juliánský kalendář), takže den sedí.",
+  "Bernská varianta mění smysl konce: místo „so wolt er darinne sin bestes handlen“ má „so wolt er darinne selber handlen und recht sprechen und das anders nieman gestatten“ (sám by to rozsoudil a nikomu jinému by to nedovolil) a dále „so müst er si hanthaben und schirmen“.",
+  "„uf in kement“ = obrátili se na něho jako na rozhodce; „früntliche tage“ = smírčí jednání (sněmy).",
+  "Oprava textu: nadpis byl rozdělen uprostřed věty, konec nadpisu („gemeinen Eidgnossen gen Lutzern schickte, die ouch gar hochmüticlich mit inen retten“) vrácen z textu do nadpisu; „sar“ → „gar“ (potvrzuje varianta „ouch gar fehlt“), „mei; tag“ → „meitag“, „schiekte“ → „schickte“, „luüte“ → „lüte“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,32 @@
+{
+ "cislo": 51,
+ "nadpis": "Wie die knächt zu bassel jm rin ertrunckend als sy den rin ab jn luttringen faren weltend.",
+ "edice": "Usteri 1847, ř. 8996 souboru edice",
+ "rukopis_strana": 362,
+ "odstavce": [
+  {
+   "text": "Wie die knächt zu bassel jm rin ertrunckend als sy den rin ab jn luttringen faren weltend.",
+   "preklad": "Jak se knechti v Basileji utopili v Rýně, když chtěli plout po Rýně dolů do Lotrinska."
+  },
+  {
+   "text": "Item uff donstag vor dem helgen wiennochttag ano domi m.cccc.Lxxvj jar warend iiijc gesamloter knächten so dem hertzog von luttringen ouch zuzüchen woltend vmm sold zesamen kommen vnd sassend die halben jn ein schiff zu bassel vnd als dzselb schiff von land schielt schoss einner vss der büchssen da fiel einner zu hindrist uss dem schiff jn den rin den schruwend die andren gesellen an sich ze behelffen, damit er nüt ertruncke vnd luffend damit alle ander gesellen zu hindrist jn dz schiff jm ze helffen, vnd trattend also dem schiff zu hindrist den boden uss, vnd gieng damit dz schiff vnder, also ertrunckend ob jc knächten die andren kamend uss, besunder ertrankt der hoptman vnder jnnen der wz ein metzger von bassel vnd ander darnach gar schier die besten knecht aber der fenrich wz ouch von bassel der kam uss mit dem fenlin vnd ertrunckend zwo farend dirnnen vnd kam die dritt uss die schwam ubren rin dz doch ein gross wunder geachtot ward.",
+   "preklad": "Ve čtvrtek před svatým Božím narozením léta Páně 1476 se sešlo 400 sebraných knechtů, kteří také chtěli za žold táhnout k vévodovi lotrinskému. Polovina z nich nasedla v Basileji do jedné lodi. Když se ta loď odrážela [?] od břehu, někdo vystřelil z pušky a jeden muž přitom vypadl ze zádi lodi do Rýna. Volal na ostatní druhy, aby mu pomohli a on se neutopil. Všichni ostatní druhové proto přiběhli dozadu na záď, aby mu pomohli, a tak lodi na zádi prošlápli dno a loď se potopila. Utopilo se přes sto knechtů, ostatní se dostali ven. Utopil se zvláště jejich hejtman, basilejský řezník, a po něm skoro ti nejlepší knechti. Praporečník, rovněž z Basileje, se však dostal ven i s praporcem. Utopily se také dvě ženštiny z trénu, které byly na lodi, a třetí se dostala ven: přeplavala Rýn, což bylo pokládáno za veliký zázrak."
+  },
+  {
+   "text": "Vff den helgen wiennacht abint ouch an sant steffens vnd sant johansstag zugend die optgemelten eignossen von bassel vnd als die eignossen durch dz suncköw jn luttringen zugend schatztend sy die juden im suncköw vnd nament jnnen wz jn eben vnd gefellig wz cet.",
+   "preklad": "Na svatý Štědrý večer a také na svatého Štěpána a svatého Jana vytáhli řečení konfederáti z Basileje. A když táhli přes Sundgau do Lotrinska, uložili Židům v Sundgau výpalné a vzali jim, co se jim hodilo a líbilo."
+  }
+ ],
+ "poznamky": [
+  "Usteri: Vorstellung (v rukopisu ilustrace nebo mezititulek). Řádek „_(Vorstellung.)“ byl z odstavců odstraněn.",
+  "Oprava OCR: „‚den“ → „den“, „m.ccce“ → „m.cccc“, „iiij*“ → „iiijc“ (400), „j*“ → „jc“ (100), „steflens vnn“ → „steffens vnd“.",
+  "Datum: čtvrtek před Vánocemi = 19. 12. 1476. Odchod z Basileje: Štědrý večer 24. 12., sv. Štěpán 26. 12. a sv. Jan Evangelista 27. 12. 1476.",
+  "„schielt“ [?]: nejasný tvar, snad „stiess“ (odrazila se); přeloženo podle smyslu.",
+  "„büchssen“ je zde nejspíš ruční palná zbraň (puška); proč se střílelo, text neříká.",
+  "„farend dirnnen“ = potulné ženy, ženštiny z trénu (srov. Schilling kap. 323 „ženštin“).",
+  "Srov. Schilling kap. 323: tam se loď rozlomí pod návalem rozjařených knechtů a utonulých je „přes sto“ (podle Toblera nadsazeno, basilejské zprávy uvádějí 30 a 50). Edlibach jako příčinu uvádí výstřel, pád muže do vody a nával na záď, kde knechti prošlápli dno.",
+  "„schatztend sy die juden“ = vybírali od Židů výpalné (brandschatzen), tj. vydírali je."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

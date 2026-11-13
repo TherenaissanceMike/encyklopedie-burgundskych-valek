@@ -1,0 +1,23 @@
+{
+ "cislo": 391,
+ "nadpis": "Von einem erdbidem.",
+ "edice": "Tobler II, s. 242",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "391. Von einem erdbidem.",
+   "preklad": "391. O zemětřesení."
+  },
+  {
+   "text": "Uf samstag nach vincula Petri des vorgenanten iares, da dennocht die wasser gar gros warent, kam ein erdbidem am morgen frü umb die dritte stunde nach mitternacht und erschutt sich alles durch einandern.",
+   "preklad": "V sobotu po svatém Petru v okovech téhož roku, kdy byly vody ještě velmi velké, přišlo časně ráno, kolem třetí hodiny po půlnoci, zemětřesení a všechno se navzájem otřáslo."
+  }
+ ],
+ "poznamky": [
+  "Kapitola je jen v rukopisu Z; bernský rukopis B končí kap. 387 (Tobler), varianty B proto nejsou.",
+  "Datum: sobota po sv. Petru v okovech (1. 8.) = 5. 8. 1480 (Tobler).",
+  "Text zkontrolován proti surovému OCR, je úplný a bez oprav."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

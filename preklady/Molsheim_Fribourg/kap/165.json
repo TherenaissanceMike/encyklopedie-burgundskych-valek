@@ -1,0 +1,31 @@
+{
+ "cislo": 165,
+ "nadpis": "Wie die zwo frommen stett Bern und Friburg iren andern puntgnossen schriben und si manten, fürderlich zu inen ze ziehen.",
+ "edice": "Büchi 1914, ř. 2087–2089 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  292
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 292, al. 2. 293, al. 3, gekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "165. Wie die zwo frommen stett Bern und Friburg iren andern puntgnossen schriben und si manten, fürderlich zu inen ze ziehen.",
+   "preklad": "165. Jak obě zbožná města Bern a Fribourg psala svým ostatním spojencům a napomínala je, aby k nim bez prodlení táhli."
+  },
+  {
+   "text": "Man schreib und mante ouch von stund all ander puntgnossen und zügewanten, besunders die beden bischofen Strasburg und Basel, desgelich den fürsten von Oesterrich und sinen lantvogt, darzü die von Colmar, Schlettstatt und ander zügewanten, das sy sich fürderlich und schnell mit ganzer macht harzü machtend, und besunder mit dem reisigen züg, so vil sy und des haben möchten und ze wegen bringen und an alles hindersechen schnell für sich zügen. Und wer usser der von Bern biet und lantschaft keme, es were tag oder nacht, die müsten ze stund an die bruggen gan Güminen oder Loupen gan.",
+   "preklad": "Hned se také psalo všem ostatním spojencům a příslušníkům spolku a napomínali se, zvláště oba biskupové, štrasburský a basilejský, dále kníže rakouský a jeho zemský fojt, k tomu Colmarští, Sélestatští a jiní spojenci, aby se bez prodlení a rychle vypravili celou mocí, a zvláště s jízdou, kolik jí jen mají a dokážou sehnat, a aby bez jakéhokoli ohlížení rychle táhli kupředu. A kdo přišel z bernského území a krajiny, ať ve dne, nebo v noci, ten musel hned jít k mostům u Gümmenen nebo u Laupenu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR: fiirderlich → fürderlich (nadpis), „io“ (číslo řádku) vypuštěno, An → an, hiet → biet (území), kerne → keme.",
+  "„der fürst von Oesterrich“ = arcivévoda Zikmund Tyrolský; „reisiger züg“ = jízda.",
+  "Varianta B vyjmenovává adresáty s plnými tituly: arcivévoda Zikmund Rakouský, vévoda Ruprecht, biskup štrasburský, město Štrasburk, Hans von Venningen, biskup basilejský, město Basilej a města Colmar atd.; B také vkládá za tento odstavec kapitolu „Wie man zu Bern houptlüt ordnete“ (Schilling).",
+  "Oproti Schillingovi (konec kap. 292 a předposlední odstavec kap. 293): silně zkráceno, bez znění listů a bez jmenování bernských hejtmanů; Molsheim uvádí jen oba biskupy, ne města Štrasburk a Basilej."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

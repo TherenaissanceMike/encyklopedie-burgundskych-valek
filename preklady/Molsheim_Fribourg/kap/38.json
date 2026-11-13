@@ -1,0 +1,25 @@
+{
+ "cislo": 38,
+ "nadpis": "Wie das geschrei us kam, wie das Hagenbach gefangen were, denn er sich in massen gehalten mit edel und unedel, frowen und junpfrowen, das jederman fro was.",
+ "edice": "Büchi 1914, ř. 553–554 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  109
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 109."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie das geschrei us kam, wie das Hagenbach gefangen were, denn er sich in massen gehalten mit edel und unedel, frowen und junpfrowen, das jederman fro was.",
+   "preklad": "38. Jak se rozneslo, že Hagenbach byl zajat; choval se totiž k urozeným i neurozeným, ženám i pannám tak, že z toho měl každý radost."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „kam.“ → „kam,“, „were,'“ → „were,“, „junpfröwen.“ → „junpfrowen,“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 109) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

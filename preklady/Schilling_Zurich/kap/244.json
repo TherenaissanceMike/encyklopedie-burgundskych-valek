@@ -1,0 +1,32 @@
+{
+ "cislo": 244,
+ "nadpis": "Das Brandolf vom Stein, der ein houptman uf Granson was, in demselben zite ouch gevangen und hinweg gefürt wart.",
+ "edice": "Tobler I, s. 347",
+ "rukopis_strana": 590,
+ "odstavce": [
+  {
+   "text": "244. Das Brandolf vom Stein, der ein houptman uf Granson was, in demselben zite ouch gevangen und hinweg gefürt wart.",
+   "preklad": "244. Jak byl Brandolf vom Stein, který byl hejtmanem na Grandsonu, v téže době také zajat a odveden pryč."
+  },
+  {
+   "text": "Und als nü diser mortlicher anslag in der nacht über die fromen lute zü Iferdun angetragen, zü glicher wise was ouch ein semlich valsch verreterie über die, so in dem slos zü Granson warent, angesechen und erdacht, dann in der stat Granson ouch etliche verreter in derselben hüser der vienden gar vil komen warent und lagent in den stellen heimlich verborgen. Und als der houptman von Bern, namlich Brandolf vom Stein und die andern knechte, so bi im in dem slos warent, das gros geschrei, schiessen und getemmer zü Iferdun horten, do markten si glich wol, das etwas daran was und das ir fründe und gesellen zü Iferdun litten, und wusten von stund an uf und bereitent sich zü der weri.",
+   "preklad": "A když byl v noci osnován tento vražedný úklad proti statečným lidem v Yverdonu, byla stejným způsobem zamýšlena a vymyšlena i podobná falešná zrada proti těm, kdo byli na hradě v Grandsonu. Také ve městě Grandsonu totiž byli někteří zrádci a do jejich domů se dostalo velmi mnoho nepřátel, kteří tam leželi tajně ukrytí ve stájích [?]. A když bernský hejtman, totiž Brandolf vom Stein, a ostatní knechti, kteří s ním byli na hradě, uslyšeli od Yverdonu ten velký křik, střelbu a hluk, hned poznali, že se něco děje a že jejich přátelé a druhové v Yverdonu trpí. Okamžitě vyskočili a připravili se k obraně."
+  },
+  {
+   "text": "Also was der vorgenante houptman vom Stein gar bald bereit und hies im das tor uftün und ging snelliclichen in die stat selb dritt und wolt die in der stat ouch ufwecken und si warnen und das si sich zü der were bereiten und tet das in einer güten, erlichen meinung. Und als er kam zü dem closter der Barfüssen, do warent die verreter do und nament den vorgenanten houptman und fürten in also gevangen für das slos mit grossem gespötte und mütwillen und tröwten denen im slos, si wolten inen iren houptman und die andern knechte angesicht ir ougen henken, oder aber si müsten inen das slos übergeben; und hatten ouch dem houptman einen strick um den hals geworfen, das si in dem slos erschrecken und das dester e übergeben und zü iren handen überantwurten soltent; das wolten si nit tün.",
+   "preklad": "Řečený hejtman vom Stein byl tedy velmi rychle hotov, dal si otevřít bránu a sám ve třech spěšně odešel do města; chtěl i ty ve městě probudit a varovat, aby se připravili k obraně, a činil to v dobrém a čestném úmyslu. A když přišel ke klášteru bosáků (františkánů), byli tam zrádci; zajali řečeného hejtmana a takto zajatého ho s velkým posměchem a zpupností přivedli před hrad. Těm na hradě vyhrožovali, že jim jejich hejtmana a ostatní knechty oběsí před očima, ledaže by jim hrad vydali. Hejtmanovi také hodili provaz na krk, aby se ti na hradě vyděsili a tím spíše jim hrad vydali a odevzdali do jejich rukou. To však udělat nechtěli."
+  },
+  {
+   "text": "Do fürten si den houptman mit inen hinweg, der lag langezit in Burgunnen gevangen, bis er nachmalen mit andern gefangnen an dem strit zü Granson wider erlöst wart, als harnach stat.",
+   "preklad": "Tu odvedli hejtmana s sebou pryč. Ležel dlouho zajatý v Burgundsku, dokud nebyl později s jinými zajatci v bitvě u Grandsonu zase vysvobozen, jak se píše dále."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: odstraněn zbytek OCR „[an“ (číslo řádku edice) mezi 1. a 2. odstavcem, „zü-der“ → „zü der“. Text je úplný.",
+  "Tobler: o Brandolfu vom Stein viz Schweiz. Geschichtforscher V, 324 n. Podle bernských listů ze 17. 1. 1476 byl odveden „žalostně“ a „s velkou nelidskostí“; Bern 23. 1. žádal z Grandsonu zprávu, jak k zajetí došlo. Byl držen v Nozeroy; 12. 2. se Bern ptal v Montbéliardu, nemají-li význačného zajatce na výměnu za něj. Vysvobození: kap. 272.",
+  "Bernská varianta: „an den hals geworfen, damit si zu schrecken und übergeben wurden geneigt“ (aby se zalekli a byli nakloněni vydání). Bernský rukopis vynechává „in derselben hüser der vienden gar vil komen warent“ a „verborgen“.",
+  "„in den stellen“ [?] = nejspíš ve stájích (Ställe), možné i obecně ‚na (skrytých) místech‘; „getemmer“ = hluk, rámus (glosář); „wusten uf“ = vyskočili (glosář: ufwischen); „selb dritt“ = sám s dalšími dvěma."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

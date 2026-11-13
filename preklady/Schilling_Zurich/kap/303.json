@@ -1,0 +1,34 @@
+{
+ "cislo": 303,
+ "nadpis": "Das der herzog von Lothringen und etlich herren und ander vor Murten zu rittern geslagen wurden.",
+ "edice": "Tobler II, s. 47",
+ "rukopis_strana": 766,
+ "odstavce": [
+  {
+   "text": "303. Das der herzog von Lothringen und etlich herren und ander vor Murten zu rittern geslagen wurden.",
+   "preklad": "303. Jak byli před Murtenem pasováni na rytíře vévoda lotrinský, někteří páni a jiní."
+  },
+  {
+   "text": "Es wurden ouch vor dem angriff, als nit unbillich was, gar vil rittern geslagen, namlich der vorgenant herzog von Lothringen, der des von ganzem herzen begert, darzü ander grafen, frien, herren, edel und ander from lute, der ob drühunderten was und es ouch nachmalen wol verdienten.",
+   "preklad": "Před útokem bylo také, jak se slušelo, pasováno na rytíře velmi mnoho mužů, totiž výše jmenovaný vévoda lotrinský, který si to z celého srdce přál, a k tomu další hrabata, svobodní páni, páni, šlechtici a jiní stateční lidé. Bylo jich přes tři sta a potom si to také dobře zasloužili."
+  },
+  {
+   "text": "Und also glich demselben nach beschach der angriff, und wart uf beiden siten mit grossen steinslangen und andern büchsen gar vast geschossen, des etlicher übel engolten hat, und mit unverzagtem müt hüwen die reisigen drin und neben inen das füsvolke als helde, büchsenschützen und die langen spies, und wurden alle ordnungen von stund zerbrochen.",
+   "preklad": "Hned nato začal útok. Na obou stranách se velmi silně střílelo z velkých serpentin a jiných děl, za což někteří zle zaplatili. S neohroženou myslí se do toho vsekala jízda a vedle ní pěchota jako hrdinové, střelci z pušek i dlouhá kopí, a všechny šiky se hned rozpadly."
+  },
+  {
+   "text": "Und kament am ersten an einen hag, darüber man nit mocht komen, dann das si wider müsten keren und nebent zü durch einen engen weg zü ros und füs brechen müsten, das leider etlichen übel kam; dann were derselbe hag nit do gewesen, si hettent an demselben ersten angriff gros lob und ere ingeleit, nachdem dann die Burgunder am ersten ritterlich bestünden und manlich gein inen traten, das etlichem ze sur wart.",
+   "preklad": "Nejprve přišli k plotu, přes který se nedalo dostat, takže se museli obrátit a prorazit stranou úzkou cestou, na koni i pěšky, což některým bohužel zle posloužilo. Kdyby tam ten plot nebyl, byli by si hned při tom prvním útoku vydobyli velkou chválu a čest, neboť Burgunďané zpočátku rytířsky obstáli a mužně proti nim vykročili, takže to některému přišlo hořce."
+  }
+ ],
+ "poznamky": [
+  "Odstavce rozděleny podle edice (útok začíná novým odstavcem).",
+  "Tobler: pasování proběhlo v lese a uděloval je hrabě Oswald von Tierstein, ne vévoda lotrinský. Počet pasovaných: Johann Gelthuss 80, Knebel 150; Schillingových „přes 300“ je tedy nejvíc.",
+  "„steinslangen“ = děla střílející kamenné koule; podle tabulky termínů „serpentiny“.",
+  "„wurden alle ordnungen von stund zerbrochen“: Tobler poznamenává, že s touto „nepravděpodobnou“ zprávou o rozpadu šiků je Schilling sám.",
+  "Plot (Grünhag) a obchvat úzkou cestou: ostatní prameny podle Toblera o obchvatu nevědí; Knebel jen píše, že schwyzský landammann radil neútočit přímo, ale po svahu, kde je děla nezasáhnou. Edlibach uvádí, že Burgunďané vyrazili mezerami v plotu a pobili 10–12 Švýcarů.",
+  "Bernská varianta konce: „bestünden und ouch in ganzer ordnung waren“ (obstáli a byli v plném pořádku); slova o tom, jak Burgunďané mužně vykročili a některým to přišlo hořce, v rukopise chybějí."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

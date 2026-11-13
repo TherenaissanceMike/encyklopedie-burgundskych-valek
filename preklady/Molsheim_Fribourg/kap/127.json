@@ -1,0 +1,211 @@
+{
+ "cislo": 127,
+ "nadpis": "Hienach stand geschriben die stett und schlosser mit namen, so die fromen und vesten stett Bern, Friburg, Solotern, Lutzerren mit ettlichen Eydgnossen, so sy gewunnen hand, ritterlich mit dem schwert und mit herten stürmen.",
+ "edice": "Büchi 1914, ř. 1444–1492 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  227
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 227 ohne den letzten Absatz."
+ ],
+ "odstavce": [
+  {
+   "text": "Hienach stand geschriben die stett und schlosser mit namen, so die fromen und vesten stett Bern, Friburg, Solotern, Lutzerren mit ettlichen Eydgnossen, so sy gewunnen hand, ritterlich mit dem schwert und mit herten stürmen.",
+   "preklad": "127. Zde jsou jménem zapsána města a hrady, které statečná a pevná města Bern, Fribourg, Solothurn a Luzern s některými konfederáty dobyla, rytířsky, mečem a tvrdými útoky."
+  },
+  {
+   "text": "Murten, statt und schlos.",
+   "preklad": "Murten, město a hrad."
+  },
+  {
+   "text": "Cudrefin, statt und schlos.",
+   "preklad": "Cudrefin, město a hrad."
+  },
+  {
+   "text": "Betterlingen, statt.",
+   "preklad": "Payerne (Betterlingen), město."
+  },
+  {
+   "text": "Stefies, statt und schlos mit dem sturm.",
+   "preklad": "Estavayer (Stefies), město a hrad, útokem."
+  },
+  {
+   "text": "Yferden, statt und schlos.",
+   "preklad": "Yverdon, město a hrad."
+  },
+  {
+   "text": "Sant Martin, schlos.",
+   "preklad": "Saint-Martin, hrad."
+  },
+  {
+   "text": "Byole, schloss.",
+   "preklad": "Bioley (Byole), hrad."
+  },
+  {
+   "text": "Font, statt und schloss.",
+   "preklad": "Font, město a hrad."
+  },
+  {
+   "text": "Das Heligcrütz, schloss.",
+   "preklad": "Sainte-Croix (Das Heligcrütz), hrad."
+  },
+  {
+   "text": "Eckle, statt und schlos mit dem sturm.",
+   "preklad": "Les Clées (Eckle), město a hrad, útokem."
+  },
+  {
+   "text": "La Motta schloss.",
+   "preklad": "La Mothe (La Motta), hrad."
+  },
+  {
+   "text": "Tschauwa, schlos.",
+   "preklad": "Champvent (Tschauwa), hrad."
+  },
+  {
+   "text": "Lasserra statt, und schloss überhoupt gewunnen.",
+   "preklad": "La Sarraz (Lasserra), město, a hrad, dobyto celé [?]."
+  },
+  {
+   "text": "Montrichier, schloss.",
+   "preklad": "Montricher (Montrichier), hrad."
+  },
+  {
+   "text": "Cuseney, statt und schloss.",
+   "preklad": "Cossonay (Cuseney), město a hrad."
+  },
+  {
+   "text": "Vueillerin, schloss.",
+   "preklad": "Vuillerens (Vueillerin), hrad."
+  },
+  {
+   "text": "Sant Bartholome, schloss.",
+   "preklad": "Saint-Barthélemy, hrad."
+  },
+  {
+   "text": "Morge, statt und schloss.",
+   "preklad": "Morge [?], město a hrad."
+  },
+  {
+   "text": "Wufflens, schloss.",
+   "preklad": "Vufflens (Wufflens), hrad."
+  },
+  {
+   "text": "Aleman, schloss.",
+   "preklad": "Allaman (Aleman), hrad."
+  },
+  {
+   "text": "Mont, das nüw schlos.",
+   "preklad": "Mont, nový hrad."
+  },
+  {
+   "text": "Morse, statt und schloss.",
+   "preklad": "Morges (Morse), město a hrad."
+  },
+  {
+   "text": "Mont, das alt schlos.",
+   "preklad": "Mont, starý hrad."
+  },
+  {
+   "text": "Eeus, statt und schloss.",
+   "preklad": "Nyon (Eeus), město a hrad."
+  },
+  {
+   "text": "Sant Jörgen, schlos.",
+   "preklad": "Sant Jörgen, snad Saint-Cergue [?], hrad."
+  },
+  {
+   "text": "Coppet, statt und schlos.",
+   "preklad": "Coppet, město a hrad."
+  },
+  {
+   "text": "Bayoge, schlos.",
+   "preklad": "Bavois (Bayoge), hrad."
+  },
+  {
+   "text": "Tscherling, schlos.",
+   "preklad": "Echallens (Tscherling), hrad."
+  },
+  {
+   "text": "Remond, schlos.",
+   "preklad": "Belmont (Remond), hrad."
+  },
+  {
+   "text": "Milden, statt und schloss.",
+   "preklad": "Moudon (Milden), město a hrad."
+  },
+  {
+   "text": "Ruw, statt und schloss.",
+   "preklad": "Rue (Ruw), město a hrad."
+  },
+  {
+   "text": "Ettaling, schloss.",
+   "preklad": "Attalens (Ettaling), hrad."
+  },
+  {
+   "text": "Bessaling, schloss.",
+   "preklad": "Bossonnens (Bessaling), hrad."
+  },
+  {
+   "text": "Tschattoe, schloss.",
+   "preklad": "Châtel-Saint-Denis (Tschattoe), hrad."
+  },
+  {
+   "text": "Waramun, schloss.",
+   "preklad": "Vaulruz (Waramun), hrad."
+  },
+  {
+   "text": "Remund, statt und schloss.",
+   "preklad": "Romont (Remund), město a hrad."
+  },
+  {
+   "text": "Ewerde, schloss.",
+   "preklad": "Everdes (Ewerde), hrad."
+  },
+  {
+   "text": "Wippingen statt.",
+   "preklad": "Vuippens (Wippingen), město."
+  },
+  {
+   "text": "Erling schlos.",
+   "preklad": "Illens (Erling), hrad."
+  },
+  {
+   "text": "Bont, statt und schloss.",
+   "preklad": "Pont-en-Ogoz (Bont), město a hrad."
+  },
+  {
+   "text": "Solapirra, schloss.",
+   "preklad": "Surpierre (Solapirra), hrad."
+  },
+  {
+   "text": "Montanach, statt und schloss.",
+   "preklad": "Montagny (Montanach), město a hrad."
+  },
+  {
+   "text": "Granckor, schloss.",
+   "preklad": "Grandcour (Granckor), hrad."
+  },
+  {
+   "text": "Eysey, schloss.",
+   "preklad": "Cugy (Eysey), hrad."
+  }
+ ],
+ "poznamky_editora": [
+  "') Man traf dort am 1. November abends ein, vgl. Büchi, Freiburger Akten 24, Fries 400. — *) Mit den Freiburgern langten auch die Berner, Zürcher u. Luzernersamt ihren Bannern hier an, und wurden reichlich bewirtet. Vgl. die zahlreichen Posten der Heckei meisterrechn ungen bei Büchi, Freiburger Akten 61 und 64. Zürcher und Luzerner waren während ihres Aufenthalts in Freiburg bestohlen worden; Jean Magnyen und Jean Oavella wurden als Missetäter ausfindig gemacht. Die Zürcher drohten, in der Stadt ebensoviel oder noch mehr zu rauben, als man ihnen genommen hätte, und mussten für diesen und andere Verluste darum genügend entschädigt werden: Ensi tust, ordonne par rness\" de lez contenter per magniere quil neus- sent cause de leur plamdre de la ville de Fribourg, ebenda 23. 64. 38 Zürcher wollten in Freiburg ihre Zeche nicht bezahlen, so dass der Rat den Wirt entschädigte, s. Ochsenbein 614. — •) Vgl. oben C. 113. — 4 ) Nämlich nach Bern. — 5 ) Vgl. dazu Büchi, Freiburger Akten 39.",
+  "') Vgl. dazu Biichi, Freiburger Akten 26. — *) Gehörte Herrn Jean de Vergy. — s ) Cossonay musste einen Brandschatz von 300 3 erlegen, Biichi, Freiburger Akten 22. — 4 i Vuillerens ebenfallsa. a. 0. — 5 ) Morgesdesgleichen a. a. 0. — 6 ) Vufflens 100 U a. a. O. — ’) Vgl. dazu Bücbi, Freiburger Akten 40. — 8 ) Nyon bezahlte einen Brandschatz von 200 S ; dazu wurde für 4200 Fl. geplündert, vgl. a. a. O. 22. 27. 60. Vertreibung des Zöllners daselbst, vgl. Schreiben des Administrators von Genf vom 21. Dezember, ebenda 113. — 9 ) Beimont südl. von Yverdon."
+ ],
+ "poznamky": [
+  "Opravy textu: odstraněny značky poznámek a čísla řádků edice („Mont, 7 ;“, „» Tschattoe“, „4 ) 10 Erling“, „Bont,°)“, „i 5 Eysey“), „iiberhoupt“ → „überhoupt“, „niiw“ → „nüw“; položky, které OCR slilo do jednoho řádku (Montrichier; Ruw a Ettaling; Ewerde; Erling; Solapirra až Eysey), rozděleny, takže každý odstavec je jedno místo. Seznam má 44 položek, stejně jako u Schillinga.",
+  "Pole poznamky_editora je posunuté: první položka patří ke konci kap. 126 (příchod do Fribourgu, pohoštění konfederátů), Büchiho poznámky ke druhé části seznamu (Attalens až Cugy, s. 114 edice) jsou uloženy v poli kap. 128.",
+  "Büchi, určení a doklady: Remond = Belmont jižně od Yverdonu; Eysey = Cugy (u Schillinga stojí jinde); Ettaling = Attalens (i Attalens muselo zaplatit výpalné); Waramun = Vaulruz; Ewerde = Everdes (Grätlingen); Wippingen = jen Vuippens, který byl jako Everdes přičleněn k Fribourgu; Erling = nejspíš Illens; Solapirra = Surpierre, vzdal se Bernu a Fribourgu; Granckor = Grandcour, hrabě z Gruyères ho prodal Philibertovi de Compey, pánovi z Chapelle; La Motta patřila Jeanovi de Vergy; Eeus = Nyon.",
+  "Büchi, výpalné (brandschatz) podle fribourgských akt: Cossonay 300 liber, Vuillerens a Morge(s) také, Vufflens 100 liber, Nyon 200 liber a navíc vypleněno za 4200 zlatých; z Nyonu byl vyhnán celník (list ženevského administrátora z 21. 12. 1475). 22. 10. 1475 přísahal Wilhelm Mayor jako fribourgský hejtman v Pontu.",
+  "[?] „Eeus“: tak čte OCR i surový text; Büchi i Schilling („Neus“) míní Nyon, varianty mají Nenis, Mons, Menss. Možná chyba OCR za „Neus“, v textu ponecháno.",
+  "[?] „Morge“ a „Morse“: Büchi připojuje poznámku o výpalném Morges k „Morge“; „Morse“ je u Molsheima jinde také Morges. Zda jde o dvě různá místa, nelze z edice rozhodnout (Tobler u Schillinga: asi totéž místo). Mont nový a starý = podle Toblera Mont-le-Grand a Mont-le-Vieux nad Rolle.",
+  "[?] „Sant Jörgen“: Schilling má „sant Sorgen“ = Saint-Cergue (Tobler), varianta D zde „St. Sorgen“; Molsheimův tvar by mohl mířit i na Saint-George, Büchi místo neurčuje.",
+  "[?] „überhoupt gewunnen“ u La Sarraz: nejspíš „dobyto celé, najednou“; v rukopisu A je za tím škrtnuto „Murversi“ (Schillingovo Murnersi).",
+  "Oproti Schillingovi: nadpis výslovně jmenuje čtyři města Bern, Fribourg, Solothurn a Luzern (Schilling jen „ve Vaudu“); u Estavayer a Les Clées Molsheim dodává „útokem“; místo Schillingova nejistého Murnersi stojí rovnou Montricher; Morge je „město a hrad“ (Schilling jen hrad) a Vuippens „město“; Cugy je až na konci seznamu. Vynechán je Schillingův závěrečný odstavec o čestné písni složené na Fribourgské (Büchi: „ohne den letzten Absatz“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

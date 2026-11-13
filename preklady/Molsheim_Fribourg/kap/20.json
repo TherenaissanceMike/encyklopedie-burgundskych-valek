@@ -1,0 +1,27 @@
+{
+ "cislo": 20,
+ "nadpis": "Wie der herzog von Bürgün gen Trier kam und [do] gekrönt [solt] werden zu einem küng von unsrem herren dem keiser, das aber nit beschach.",
+ "edice": "Büchi 1914, ř. 476–478 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  71,
+  75
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 71 und 75."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Bürgün gen Trier kam und [do] gekrönt [solt] werden zu einem küng von unsrem herren dem keiser, das aber nit beschach.",
+   "preklad": "20. Jak vévoda burgundský přijel do Trevíru a [měl tam] být naším pánem císařem korunován na krále, což se však nestalo."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „[doj gekrönt a -, [solt]“ → „[do] gekrönt [solt]“; hranaté závorky jsou Büchiho doplňky (Büchi: „do“ chybí v A a St, „solt“ v A a E).",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 71 a 75) a edice ho neotiskuje.",
+  "Setkání Karla Smělého s císařem Fridrichem III. v Trevíru na podzim 1473 (viz poznámky u Schillinga, kap. 117)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

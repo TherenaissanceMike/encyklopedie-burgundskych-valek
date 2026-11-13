@@ -1,0 +1,23 @@
+{
+ "cislo": 108,
+ "nadpis": "Das der fürst von Öesterich sin stette und land wider besatzt.",
+ "edice": "Tobler I, s. 148",
+ "rukopis_strana": 231,
+ "odstavce": [
+  {
+   "text": "108. Das der fürst von Öesterich sin stette und land wider besatzt.",
+   "preklad": "108. Jak kníže rakouský znovu obsadil svá města a země."
+  },
+  {
+   "text": "Der vorgenante fürst von Oesterich, als bald der wider zü beherschung der landen kam, besatzt er nach willen und rat der Eidgnossen alle stette, slos und passen gegen den Burgunschen und Welschen landen nach aller notturft. Und was in dem und anderm sin sachen ze handlen und empter zü besetzen der Eidgnossen bitt und gevallen was, des fleis er sich ze tünde mit allen gnaden und verschüf ouch allenthalben mit den sinen, edlen und unedlen, das si in aller liebe und früntschaft mit den Eidgnossen leben und alles das tün soltent, das inen liep were, als si ouch dis tatent.",
+   "preklad": "Zmíněný kníže rakouský, jakmile se znovu ujal vlády nad zeměmi, obsadil podle vůle a rady konfederátů všechna města, hrady a průsmyky proti burgundským a vlašským zemím, jak bylo zapotřebí. A cokoli bylo v tom i v jiném, ve vyřizování jeho věcí a obsazování úřadů, prosbou a přáním konfederátů, to se vší milostí snaživě plnil. Také všude u svých lidí, šlechticů i nešlechticů, zařídil, aby s konfederáty žili ve vší lásce a přátelství a dělali vše, co by jim bylo milé, což také činili."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „allent} halben“ → „allenthalben“.",
+  "Varianta nadpisu (snad bernský rukopis): „…sin stett und lande nach sinem gevallen wider besatzt“ = znovu obsadil podle svého uvážení. V textu „widerumb“ místo „wider“, „edlen und andern“ místo „edlen und unedlen“.",
+  "„passen“ = průsmyky, přechody (Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,26 @@
+{
+ "cislo": 37,
+ "nadpis": "Wie die vereinung versiglet und berett wart ze Costenz an dem tag, das die obren stett an dem Rin: Walzhut, Loufenberg, Seckingen und Rinfelden der Eydgnossen offen schloss sin süllen.",
+ "edice": "Büchi 1914, ř. 551–552 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  109
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 109."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die vereinung versiglet und berett wart ze Costenz an dem tag, das die obren stett an dem Rin: Walzhut, Loufenberg, Seckingen und Rinfelden der Eydgnossen offen schloss sin süllen.",
+   "preklad": "37. Jak byl spolek zpečetěn a dojednán v Kostnici na sněmu, [a] že horní města na Rýně, Waldshut, Laufenburg, Säckingen a Rheinfelden, mají být otevřenými hrady konfederátů."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „Walzhut. Loufenberg.“ → „Walzhut, Loufenberg,“, „Süllen“ → „süllen“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 109) a edice ho neotiskuje.",
+  "„offen schloss“ = místo otevřené konfederátům, tj. s právem vstupu a použití v případě války."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

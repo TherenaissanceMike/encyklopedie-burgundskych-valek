@@ -1,0 +1,26 @@
+{
+ "cislo": 33,
+ "nadpis": "Wie Hagenbach understund, ein vereterye ze Brisach ze volbringen, die fromen lüt usser ir statt ze verstossen und die statt inzenemen, als hienach stat.",
+ "edice": "Büchi 1914, ř. 534–535 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  104,
+  105
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 104, 105."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie Hagenbach understund, ein vereterye ze Brisach ze volbringen, die fromen lüt usser ir statt ze verstossen und die statt inzenemen, als hienach stat.",
+   "preklad": "33. Jak se Hagenbach pokusil vykonat v Breisachu zradu, vyhnat poctivé lidi z jejich města a město obsadit, jak stojí dále."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „Volbringen“ → „volbringen“, „llit“ → „lüt“, „inzenehmen“ → „inzenemen“, odstraněno „>o“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 104 a 105) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

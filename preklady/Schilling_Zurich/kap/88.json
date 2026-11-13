@@ -1,0 +1,23 @@
+{
+ "cislo": 88,
+ "nadpis": "Das der genante von Hagenbach sins mütwillens nit abstan wolte.",
+ "edice": "Tobler I, s. 130",
+ "rukopis_strana": 192,
+ "odstavce": [
+  {
+   "text": "88. Das der genante von Hagenbach sins mütwillens nit abstan wolte.",
+   "preklad": "88. Jak řečený Hagenbach nechtěl upustit od své svévole."
+  },
+  {
+   "text": "Wo ouch die Eidgnossen oder ir zügewanten mit jemand ir widersechern oder vienden zü tagen kament, zü Costenz oder andern enden, so nam derselbe von Hagenbach sich des alwegen wider die Eidgnossen an us freveler getürstikeit mit hochen und scharpfen tröwworten uf sinen herren von Burgunnen, darumb man im aber nit vil gab. Doch kurz was alles sin regieren, tün und lan dem glich und us solicher hochmütiger frevelkeit siner getäten, das er ie alle herren, stette und gemeinden verachtet und des gemüts was, durch sin valschen übungen und anslege die Eidgnosschaft zü zerstören und sinem herren das heilig rich und Tutsch nacion undertenig zü machen, als des zem dickern mal sin eigen wort zügnüs gabent, wann das der almechtig ewig gotte, so kein bosheit ungestraft lat, semlichs durch sin barmherzig mittel fürkomen und in vallen lassen wolt, zü verderben in der grüb, die er andern gemacht hat.",
+   "preklad": "Kdykoli se také konfederáti nebo jejich spojenci sešli s některými svými protivníky nebo nepřáteli na sněmech, v Kostnici nebo jinde, ujímal se toho Hagenbach vždy proti konfederátům ze zpupné smělosti, s vysokými a ostrými výhrůžkami, opíraje se o svého pána Burgundského; nikdo si z toho však mnoho nedělal. Zkrátka, celé jeho vládnutí, jednání i nejednání bylo takové a vycházelo z tak pyšné zpupnosti jeho činů, že pohrdal všemi pány, městy a obcemi a měl v úmyslu svými falešnými praktikami a úklady zničit Spříseženstvo a podrobit svému pánu Svatou říši a německý národ, jak to častokrát dosvědčila jeho vlastní slova. Avšak všemohoucí věčný Bůh, který nenechává žádnou zlobu nepotrestanou, tomu chtěl svým milosrdným zásahem zabránit a nechat ho padnout, aby zahynul v jámě, kterou vykopal jiným."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu (OCR): „mit.“ → „mit“, „Bursunnen“ → „Burgunnen“, „wort. zügnüus“ → „wort zügnüs“, „.der“ → „der“, odstraněn zbloudilý znak „”“.",
+  "Tobler: viz kap. 72 a 73. Na kostnickém sněmu v srpnu 1472 prý Hagenbach pronesl urážlivé výroky na adresu konfederátů (Witte).",
+  "„getürstikeit“ = smělost, troufalost (glosář). „Jáma, kterou vykopal jiným“ je biblické rčení (Ž 7,16; Přísl 26,27; mimo Tobler), narážka na Hagenbachův pád a popravu 1474."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,24 @@
+{
+ "cislo": 20,
+ "nadpis": "Wie die von bassel v* man leittend gan sattenriet den brugunren zu gegenwer \").",
+ "edice": "Usteri 1847, ř. 7839 souboru edice",
+ "rukopis_strana": 296,
+ "odstavce": [
+  {
+   "text": "Wie die von bassel vᶜ man leittend gan sattenriet den brugunern zu gegenwer.",
+   "preklad": "Jak Basilejští poslali 500 mužů do Delle na obranu proti Burgunďanům."
+  },
+  {
+   "text": "Item darnach jn demselben jare uff samstag vor barttlimes tag schicktend die von bassel vᶜ man gan sattenriett, daselbs sy fünff wuchen zu lantwer lagend, vnd als die fünff wuchen verschinnent zugend sy wider heim, vnd schicktend da wider vᶜ man gan sattenriett, die beliben da fier wuchen darzwuschen kamend die fygent ette (etwa) dick für sy gerantt sy sumptend sich aber nützit, vnd det kein teil dem andren teill keynerleig schadens, also nach den fier wuchen zugend sy ouch wider heim.",
+   "preklad": "Potom téhož roku, v sobotu před svatým Bartolomějem, poslali Basilejští 500 mužů do Delle a ti tam leželi pět týdnů na obranu země. Když pět týdnů uplynulo, táhli zase domů a [Basilejští] tam poslali dalších 500 mužů; ti tam zůstali čtyři týdny. Mezitím na ně nepřátelé několikrát vyrazili, ale nijak se nezdržovali a žádná strana druhé nijak neuškodila. Po čtyřech týdnech táhli i oni zase domů."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „v*“/„v°“ → „vᶜ“ (500), „brugunren“ → „brugunern“, „sattenrielt“ → „sattenriett“, „fünf!“ → „fünff“; odstraněna značka poznámky. Odstavec rozdělený poznámkou spojen.",
+  "Usteriho poznámka: místo se jmenuje Datten- nebo Tattenriet, ne Sattenriet, jak píše Edlibach a jeho opisovač. Dattenried = Delle (mimo text).",
+  "Sobota před sv. Bartolomějem (24. 8.) 1474 = 20. 8. 1474.",
+  "„zu lantwer“ = na zemskou obranu. „sy sumptend sich aber nützit“ = doslova „nijak se nezdrželi“; podmětem jsou asi nepřátelé (jen přijeli a zase odjeli)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

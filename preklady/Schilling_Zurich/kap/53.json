@@ -1,0 +1,24 @@
+{
+ "cislo": 53,
+ "nadpis": "Das der vorgenant herzog Sigmund zem küng von Frankrich reit und die Eidgnossen in mengen Sacben gar treffenlich verclagte.",
+ "edice": "Tobler I, s. 90",
+ "rukopis_strana": 119,
+ "odstavce": [
+  {
+   "text": "53. Das der vorgenant herzog Sigmund zem küng von Frankrich reit und die Eidgnossen in mengen Sachen gar treffenlich verclagte.",
+   "preklad": "53. Jak výše jmenovaný vévoda Zikmund jel k francouzskému králi a velmi těžce obžaloval konfederáty v mnoha věcech."
+  },
+  {
+   "text": "Darzü brachten ouch si durch solich unwarlich verclagen zuwegen, das gros besampnungen zü Nürenberg, zü Frankfurt und an andern enden von den curfürsten, ouch andern fürsten und herren, in biwesen herzog Sigmunds und villicht allermeist durch sinen willen wider die Eidgnossen gehalten und anslege oder einungen under inen angesechen, als des die Eidgnossen von etlichen iren güten gönnern teglich gewarnet wurden. Aber wie vil des was, so wolt sich doch ir keiner der sachen wider die Eidgnossen solicher massen annemen, wann das ie derselb herzog Sigmund dis alles so hoch zü herzen nam, und sich sin räte und amptlüte als wite erweigen und darhinder bringen lies, das er in eigner persone und darzü durch sin treffenlichen räte graf Hansen von Eberstein und ander zem allercristenlichesten küng von Frankenrich reit und verclagt vor dem die Eidgnossen so hoch und hart, das er ie meint, der küng wurde im wider die Eidgnossen nach sinem begeren bistand tün.",
+   "preklad": "Navíc tímto nepravdivým obviňováním dosáhli toho, že se v Norimberku, ve Frankfurtu a jinde konala velká shromáždění kurfiřtů i jiných knížat a pánů za přítomnosti vévody Zikmunda, a snad nejvíce z jeho vůle, proti konfederátům a že se mezi nimi chystaly plány či spolky; před tím konfederáty denně varovali někteří jejich dobří příznivci. Ale ať toho bylo sebevíc, žádný z nich se té věci proti konfederátům v takové míře ujmout nechtěl. Jenže týž vévoda Zikmund si to všechno tak silně vzal k srdci a dal se svými rady a úředníky tak dalece pohnout a přemluvit, že osobně a k tomu prostřednictvím svého předního rady hraběte Hanse von Eberstein a dalších jel k nejkřesťanštějšímu králi francouzskému a obžaloval před ním konfederáty tak těžce a tvrdě, že pevně věřil, že mu král proti konfederátům podle jeho přání poskytne pomoc."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: „Sacben“ → „Sachen“ (nadpis), „Nuürenberg“ → „Nürenberg“, odstraněn zbloudilý středník.",
+  "Tobler: francouzský král oznámil konfederátům Ebersteinovo poselství 31. 3. 1469; na sněmu se o věci jednalo v březnu a 12. 4. 1469. Ze Schillingova líčení by se dalo soudit na osobní schůzku obou vladařů, tomu však odporují Abschiede (Absch. II, 400).",
+  "Varianty jiného rukopisu: „und mit im sin treffenlichen [räte]“, jméno „graf Hansen v. E. und ander“ chybí; „versampnungen“ místo „besampnungen“.",
+  "„erweigen“ = obměkčit, snad i pohnout, ponoukat (Toblerův glosář)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

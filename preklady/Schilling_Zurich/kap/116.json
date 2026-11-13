@@ -1,0 +1,38 @@
+{
+ "cislo": 116,
+ "nadpis": "Das sich die Eidgnossen noch witer gegen dem küng verschribent von der sechstusent mannen wegen.",
+ "edice": "Tobler I, s. 164",
+ "rukopis_strana": 252,
+ "odstavce": [
+  {
+   "text": "116. Das sich die Eidgnossen noch witer gegen dem küng verschribent von der sechstusent mannen wegen.",
+   "preklad": "116. Jak se konfederáti králi ještě dále zavázali listinou kvůli šesti tisícům mužů."
+  },
+  {
+   "text": "Und als nü die vorgenant früntlich vereinung mit dem küng gemacht und versigelt wart, do hort der kung nit uf an die Eidgnossen ze werben und begert, das man sich umb ein zal lüten, wann er der bedürfen wurde, namlich sechstusent man, gein im verschriben wolt. Des liessent sich die Eidgnossen gütlichen überreden und tatent das, doch mit dem underscheid, ob es deheinest darzü komen, das man dem küng semlich lüte gemeinlich schicken und dann an der zal der sechstusent mannen abgan und gebresten wurden, das dann die von Bern die zale mit iren lüten ersetzen soltent und sich das gein den Eidgnossen verschriben, als si ouch tatent.",
+   "preklad": "A když byl výše řečený přátelský spolek s králem uzavřen a zpečetěn, nepřestal král na konfederáty naléhat a žádal, aby se mu listinou zavázali k určitému počtu lidí, kdyby jich potřeboval, totiž k šesti tisícům mužů. Konfederáti se k tomu dali po dobrém přemluvit a učinili to, avšak s tou výhradou: kdyby někdy došlo k tomu, že by se králi takoví lidé posílali společně, a na počtu šesti tisíc mužů by se nedostávalo a chybělo, pak mají Bernští ten počet doplnit svými lidmi; a k tomu se konfederátům zavázali listinou, což také učinili."
+  },
+  {
+   "text": "Und beschach das von inen ouch im aller besten und wart am anfang nit als wit betrachtet, als aber nachmaln von dem gemeinen man davon gerett wart, denen es gar leid und vast widrig was und meintent, man hette sich damit gein dem küng und ouch den Eidgnossen zü wit beladen und die stat Bern, ir land und lüte dadurch versetzt.",
+   "preklad": "A stalo se to z jejich strany také v nejlepším úmyslu a zpočátku se to nepromýšlelo tak daleko, jak se o tom potom mluvilo mezi prostým lidem. Tomu to bylo velmi líto a velice proti mysli a říkali, že se tím vůči králi i vůči konfederátům zavázali příliš daleko a že tím město Bern, jeho zemi i lid dali do zástavy."
+  },
+  {
+   "text": "Der vorgenant küng gab ouch etlichen sündrigen personen in der stat Bern, darzü in andern stetten und lendern der Eidgnosschaft gros iargelt und tet das darumb, das er mit denselben sin sachen dester bestentlicher möcht behalten. Das was den gemeinden in stetten und allenthalben uf dem lande gar unlidig und meinten noch wolten das über ein nit vertragen und wart darumb gros unrüw, das eim me werden solt, dann darnach tusigen; zwar es was nit als billich, dann es also in der fromen Eidgnosschaft von altem herkomen und gebrucht ist, das iederman sin burde glichlich hat müssen tragen, der arm als der rich.",
+   "preklad": "Výše řečený král také dával některým jednotlivým osobám v městě Bernu a k tomu i v jiných městech a zemích konfederace velké roční platy, a činil to proto, aby si s jejich pomocí mohl své věci tím stáleji udržet. To bylo obcím ve městech a všude na venkově velmi nesnesitelné a říkali, že to rozhodně nechtějí trpět. A byl kvůli tomu velký neklid, že by jeden měl dostat víc než potom tisíc jiných. A vskutku to nebylo docela spravedlivé, neboť ve zbožné konfederaci je odedávna zvykem a obyčejem, že každý musel nést své břemeno stejně, chudý jako bohatý."
+  },
+  {
+   "text": "Und hette der küng nieman insunderheit nit geben, so were der gemein man vil dester geneigter zu im gewesen. Der küng erbott sich ouch gein den Eidgnossen gar vil grosser sachen von sins süns des telfins und ander dingen wegen, als man harnach witer wirt hören.",
+   "preklad": "A kdyby král nikomu zvlášť nic nedával, byl by mu prostý lid mnohem nakloněnější. Král také konfederátům nabízel mnoho velkých věcí kvůli svému synovi dauphinovi i kvůli jiným věcem, jak se dále uslyší."
+  }
+ ],
+ "poznamky": [
+  "Text: rozdělen dlouhý odstavec (od „Der vorgenant küng gab“) a doplněna tečka za „behalten“.",
+  "Toblerův aparát uvádí „Kap. 116 fehlt“: v porovnávaném rukopisu (podle poznámek projektu obvykle bernském) tato kapitola chybí. Stojí za ověření proti rukopisu.",
+  "Tobler: Schilling je tu dvojnásob nepřesný. Za prvé považuje listinu z kap. 115 za konečnou smlouvu s Francií. Za druhé byl příslib 6000 žoldnéřů dán už před uzavřením spolku, v tajném prohlášení z 2. 10. 1474; Bern pak teprve vysvětlivkou z 6. 4. 1475 převzal závazek dodat 6000 mužů sám, kdyby ostatní konfederáti odmítli.",
+  "Nevoli poddaných potvrzuje i Anshelm v první verzi své kroniky („etwas unwillen“). Seznam příjemců francouzských penzí: Commines-Lenglet III, 373 n.",
+  "„das eim me werden solt, dann darnach tusigen“ = doslova „že jednomu by se mělo dostat víc než pak tisícům“; tj. jednotlivec bere víc než tisíc obyčejných lidí.",
+  "„sins süns des telfins“ = králův syn, dauphin Karel (pozdější Karel VIII., nar. 1470)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

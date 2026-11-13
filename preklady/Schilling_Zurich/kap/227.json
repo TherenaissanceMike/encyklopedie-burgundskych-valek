@@ -1,0 +1,37 @@
+{
+ "cislo": 227,
+ "nadpis": "Die namen der stetten und slossen, so man in der Wat gewunnen hat).",
+ "edice": "Tobler I, s. 317",
+ "rukopis_strana": 543,
+ "odstavce": [
+  {
+   "text": "227. Die namen der stetten und slossen, so man in der Wat gewunnen hat.",
+   "preklad": "227. Jména měst a hradů, které se dobyly ve Vaudu."
+  },
+  {
+   "text": "Item Murten, stat und slos. Denne Cudriffin, stat und slos. Denne Betterlingen, stat. Denne Stefijs, stat und slos. Denne Iferdun, stat und slos. Denne sant Martin, das slos. Denne Byole, das slos. Denne Cusi, das slos. Denne Font, stat und slos. Denne heilig Crütz, das slos. Denne Ecle, stat und slos. Denne Lamathan, das slos. Denne Tschawan, das slos. Denne Laserra, stat und slos.",
+   "preklad": "Předně Murten, město a hrad. Dále Cudrefin, město a hrad. Dále Payerne, město. Dále Estavayer, město a hrad. Dále Yverdon, město a hrad. Dále Saint-Martin, hrad. Dále Bioley, hrad. Dále Cugy, hrad. Dále Font, město a hrad. Dále Sainte-Croix, hrad. Dále Les Clées, město a hrad. Dále La Mothe, hrad. Dále Champvent, hrad. Dále La Sarraz, město a hrad."
+  },
+  {
+   "text": "Denne Murnersi, das slos. Denne Cusseney, stat und slos. Denne Wulleri, das slos. Denne sant Bartholome, das slos. Denne Morge, das slos. Denne Muffling, das slos. Denne Aleman, das slos. Denne Mön, das nüw slos. Denne Mön, das alt slos. Denne Morse, stat und slos. Denne Neus, stat und slos. Denne sant Sorgen, das slos. Denne Goppet, stat und slos. Denne Bayoge, das slos. Denne Etscherling, das slos. Denne Bemont, das slos. Denne Milden, stat und slos. Denne Rüw, stat und slos. Denne Etalling, das slos.",
+   "preklad": "Dále Murnersi [?], hrad. Dále Cossonay, město a hrad. Dále Vuillerens, hrad. Dále Saint-Barthélemy, hrad. Dále Morge [?], hrad. Dále Vufflens, hrad. Dále Allaman, hrad. Dále Mont, nový hrad. Dále Mont, starý hrad. Dále Morges, město a hrad. Dále Nyon, město a hrad. Dále Saint-Cergue, hrad. Dále Coppet, město a hrad. Dále Bavois, hrad. Dále Echallens, hrad. Dále Belmont, hrad. Dále Moudon, město a hrad. Dále Rue, město a hrad. Dále Attalens, hrad."
+  },
+  {
+   "text": "Denne Bossenung, das slos. Denne Tschattee, das slos. Denne Warruw, das slos. Denne Röymont, stat und slos. Denne Ewerde, das slos. Denne Wippingen, das slos. Denne Erling, das slos. Denne Bont, das slos. Denne Solipier, das slos. Denne Montenach, stat und slos. Denne Granckort, das slos.",
+   "preklad": "Dále Bossonnens, hrad. Dále Châtel-Saint-Denis, hrad. Dále Vaulruz, hrad. Dále Romont, město a hrad. Dále Everdes, hrad. Dále Vuippens [?], hrad. Dále Illens [?], hrad. Dále Pont-en-Ogoz, hrad. Dále Surpierre, hrad. Dále Montagny, město a hrad. Dále Grandcourt, hrad."
+  },
+  {
+   "text": "Und nachdem sich dann die von Friburg in disem zuge mit denen von Bern und andern Eidnossen gar erlich und früntlich hatten betragen inmassen, das inen am ersten von Burgunnern und Saföyern me dann andern getröwt wart, es wurde ein leger für ir stat geslagen und der herzog von Burgunnen wolt an inen anfachen, do wart deshalb von inen gar ein erlich lied gemacht, als harnach von wort ze wort geschriben stat.",
+   "preklad": "A protože se Fribourgští na tomto tažení k Bernským a jiným konfederátům zachovali velmi čestně a přátelsky, a to tím víc, že jim Burgunďané a Savojští hrozili nejdřív a víc než jiným, že se před jejich městem rozbije ležení a že burgundský vévoda chce začít u nich, byla o nich proto složena velmi čestná píseň, jak stojí dále slovo od slova."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: z textu vyňat vlepený útržek varianty („l. Darnach zugen die von Bern … in brüderlichen trüwen“, patří k aparátu kap. 226), odstraněny značky poznámek („!P)“, „1.“, „'”)“, „1“) a zbytek číslování řádků „Or“; Cruütz → Crütz, „Montenach, stat und slos,“ → tečka. Závěrečný úvod k písni oddělen jako samostatný odstavec.",
+  "Tobler: tentýž seznam je s odchylkami v Basler Chr. III, 427–430 a u Edlibacha (asi převzato od Schillinga). Bernský rukopis začíná „Item am ersten“, u Sainte-Croix má „zem heiligen Crütz“, u La Mothe „stat und slos“, píše Müfling.",
+  "Určení míst podle Toblera: Saint-Martin = Tour St-Martin (vých. od Yverdonu), Byole = Bioley-Magnoux, Cusi = Cugy (záp. od Payerne; Basler Chr. sem vkládají ještě Molière), Font jižně od Estavayer, Lamathan = La Mothe, Tschawan = Champvent, Wulleri = Vuillerens, sant Bartholome = St-Barthélemy, Muffling = Vufflens, Aleman = Allaman, Mön nový/starý = Mont-le-Grand a Mont-le-Vieux nad Rolle (panství Mont bylo 5. 2. 1476 uděleno v léno mladému A. z Bubenbergu), Neus = Nyon, sant Sorgen = St-Cergue, Goppet = Coppet, Bayoge = Bavois, Etscherling = Echallens, Bemont = Belmont, Etalling = Attalens, Tschattee = Châtel-St-Denis, Warruw = Vaulruz, Ewerde = Everdes, Bont = Pont-en-Ogoz, Solipier = Surpierre, Montenach = Montagny, Granckort = Grandcourt.",
+  "[?] Murnersi: Tobler místo nejistě určuje jako Montricher (podle trasy a protože patřilo Vergyům jako Champvent a La Mothe). [?] Morge: podle Toblera asi totéž co níže uvedené Morges. [?] Wippingen = Vuippens: podle Toblera tu musí být omyl, hrad patřil rodině Vuippens (Rudolf z Vuippens byl 1471–73 fribourgským starostou). [?] Erling: podle Toblera ne Echarlens, ale Illens (Illingen), které však Bern a Fribourg drželi už od ledna 1475, takže druhé dobytí v říjnu nepřipadá v úvahu.",
+  "Seznam čítá 44 položek. Hrozba obléháním Fribourgu: srov. 7. sloku následující písně (Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

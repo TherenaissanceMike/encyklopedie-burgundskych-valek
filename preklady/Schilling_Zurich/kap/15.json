@@ -1,0 +1,25 @@
+{
+ "cislo": 15,
+ "nadpis": "Das etlich von Zurich und Switz vor einem slos, genant Sweighusen, schaden enpfingen.",
+ "edice": "Tobler I, s. 22",
+ "rukopis_strana": 37,
+ "odstavce": [
+  {
+   "text": "15. Das etlich von Zurich und Switz vor einem slos, genant Sweighusen, schaden enpfingen.",
+   "preklad": "15. Jak někteří Curyšští a Schwyzští utrpěli škodu před zámkem jménem Schweighausen."
+  },
+  {
+   "text": "Und als nü die von Zurich und ander Eidgnossen ouch umbzugen und wüsten und branten was si funden, da luffen etlich von inen ungeordneter sach für ein slos, genant Sweighusen und wolten das mit einem sturm under han abzeloufen und hatten aber kein büchsen noch andern zug, damit si sich konden oder mochten behelfen. Und als si an das slos kament, da wurden ir leider bi vierzechnen erschossen und umbbracht, und gar vil wund und übel gewüst; dann si hatten heis wasser darin zügerüst, das schuttent si harus, damit si gar übel verbrönt wurden. Und als die von Bern semlich sachen vernamen, da warent si daran, das man von stund an das slos verhüten solt, damit nieman darin noch darus möcht komen; und ordnetent angends tusent gewapneter mannen zü denen von Zürich und Switz in meinung, das slos mit gewalt ze erobren und den schaden rechen. Do was der herr mit wib und kinden und allem sinem gesinde heimlich dannen gezogen und hat ouch den vassen mit dem win die boden usgestossen und vil swinen in dem slos ertöt, das man alles nachmalen vand und sach.",
+   "preklad": "A když teď Curyšští a ostatní konfederáti také táhli krajem, pustošili a pálili, co našli, vyběhli někteří z nich bez pořádku k jednomu zámku jménem Schweighausen a chtěli ho rovnou [?] útokem dobýt, neměli však žádná děla ani jiné válečné náčiní, kterým by si mohli pomoci. A když přišli k zámku, bylo jich bohužel asi čtrnáct zastřeleno a zabito a velmi mnoho zraněno a zle zřízeno; obránci totiž měli v zámku připravenou horkou vodu a lili ji ven, takže byli útočníci velmi zle opařeni. Když se o tom Bernští dozvěděli, prosadili, aby byl zámek hned obklíčen a střežen, aby se nikdo nedostal dovnitř ani ven; a ihned přidělili tisíc ozbrojených mužů k Curyšským a Schwyzským s úmyslem zámek mocí dobýt a škodu pomstít. Pán však mezitím se ženou, dětmi a vší svou čeledí tajně odtáhl; sudům s vínem vyrazil dna a v zámku pobil mnoho prasat, což se všechno potom našlo a vidělo."
+  }
+ ],
+ "poznamky": [
+  "Schweighausen leží podle Toblera západně od Mulhouse (snad dnešní Schweighouse-Thann, mimo Tobler). Obléhání začalo v sobotu 2. 7. 1468, Bernští přišli na pomoc na den sv. Oldřicha (4. 7.). Pánem zámku byl podle Toblera pán von Hacke.",
+  "Ztráty (Tobler): podle zprávy Schwyzských 7 Curyšských a 6 Schwyzských; podle Edlibacha 16 zastřelených a mrtvých a 2 ranění.",
+  "Bernská varianta: „umbbracht, und etlich ir dirnen ouch“ – zabity byly i některé jejich děvečky (snad ženy v trénu, mimo Tobler). Dále „grossen schaden“ v nadpisu, „merglichen schaden ze rechen“, „da wurden angendes drig“.",
+  "[?] „mit einem sturm under han abzeloufen“: „abloufen“ = dobýt útokem; „under han“ jsem nenašel v glosáři, přeloženo volně jako „rovnou“.",
+  "Opravy OCR: sı → si, zügeruüst → zügerüst, „.darus“ → „darus“. Odstavce sloučeny/rozděleny podle edice (podle konců řádků v surovém OCR)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,38 @@
+{
+ "cislo": 188,
+ "nadpis": "Das die von Bern aber drithalbtusent man mit ir paner gen Blomont schicktent.",
+ "edice": "Tobler I, s. 259",
+ "rukopis_strana": 434,
+ "odstavce": [
+  {
+   "text": "188. Das die von Bern aber drithalbtusent man mit ir paner gen Blomont schicktent.",
+   "preklad": "188. Jak Bernští poslali dalších dva a půl tisíce mužů se svou korouhví k Blamontu."
+  },
+  {
+   "text": "Als nü die von Strasburg ir grossen büchsen, den struss, wider geleit hatten hinden zü an die stat Blomont, do vingent si an werken und müstent gar wit von einem holz harab über einen witen graben in die stat schiessen, das gar wol half und denen in der stat grossen schrecken bracht. Dann in kurzen tagen darnach, do begerten etlich us der stat Blomont mit den houptlüten von Bern und andern zü reden; des wart man fro und wurden lut darzü geordnet zü hören, was man an si bringen oder süchen wolt.",
+   "preklad": "Když Štrasburští znovu postavili své velké dělo zvané „Pštros“ k zadní straně města Blamontu, začali pracovat a museli střílet velmi zdaleka, z lesa dolů přes široký příkop do města. To velmi pomohlo a těm ve městě to nahnalo velký strach. Za pár dní totiž někteří z města Blamontu žádali, aby mohli mluvit s hejtmany z Bernu a s ostatními. Tomu byli rádi a určili lidi, aby vyslechli, co jim chtějí přednést nebo oč chtějí žádat."
+  },
+  {
+   "text": "Also rettent si, ir herr von Blomont, der in der stat bi inen gewesen, der were von dem presten der pestelenzien gestorben, desglich ander lüte ouch, und legent noch gar vil lüten desselben prestens, davon si erschrocken und unwillig worden weren und sunderlichen die Lamparter, die darinne waren und semlichen presten gar übel vorchten; und wie wol si ein güt stat und slos hetten und das noch wol lange zit getrüwten zü behalten, wolt man si dann mit ir habe lassen dannen ziechen und ouch die lüte in der stat bi den iren bliben lassen, so woltent si inen die stat und slos übergeben, dann si doch wol markten, das si von iren herren und obern verlassen werent und kein entschüttung hetten.",
+   "preklad": "Řekli tedy, že jejich pán z Blamontu, který byl s nimi ve městě, zemřel na mor, a stejně tak i jiní lidé, a že na tutéž nemoc leží ještě velmi mnoho lidí. Z toho se zalekli a ztratili chuť, zvláště Lombarďané, kteří byli uvnitř a takové nemoci se velmi báli. A ačkoli mají dobré město a hrad a věří si, že je ještě dlouho udrží, kdyby je nechali odtáhnout s jejich majetkem a lidi ve městě nechali zůstat při jejich, vydali by jim město i hrad; vždyť dobře poznali, že je jejich páni a představení opustili a že nemají žádnou naději na vysvobození."
+  },
+  {
+   "text": "Und do man das von inen vernam, do wart menglich fro, dann man kein hoffung hat, das man es hette mit dem sturm gewinnen, nachdem dann die stat und slos gar güt und das allersterkest in Burgunnen was, und gab man inen zü antwurt: man were in semlicher meinung darkomen, das man si nötigen und mit dem swert erobern wolt, dann man ein semlich macht darvor het und noch als gros volk von Bern, Solotern und andern gewanten harnach keme, das si den herzogen von Burgunnen noch nieman andern gedorftent noch woltent entsitzen; doch so wölte man inen nach irem begern gnad tün und si mit ir hab abziechen lassen in denen worten, das si inen stat und slos lidlichen zü iren handen übergeben, damit zu handlen und tün nach irem gevallen, dann inen und den iren semlicher grosser schad und mütwillen darus beschechen were, das si das überein haben; doch wolt man iederman von mannen, frowen und kinden mit ir hab lassen abziechen und nieman nüt tün, und anders wolt man si nit ufnemen.",
+   "preklad": "Když se to od nich dozvěděli, byl každý rád, neboť nebyla žádná naděje, že by se to dalo dobýt útokem, protože město a hrad byly velmi dobré a nejsilnější v celém Burgundsku. Dali jim tedy odpověď: že sem přišli s úmyslem je donutit a dobýt mečem, neboť mají před městem takovou moc a za nimi přichází ještě tolik lidu z Bernu, Solothurnu a od jiných spojenců, že se nemusejí ani nechtějí bát burgundského vévody ani nikoho jiného. Přesto jim chtějí podle jejich žádosti prokázat milost a nechat je odtáhnout s jejich majetkem, s tou podmínkou, že jim město a hrad vydají úplně do rukou, aby s nimi mohli naložit podle své vůle, neboť jim a jejich lidem se odtud stalo tolik velké škody a svévole, že je chtějí mít docela [?]. Přesto že nechají odtáhnout každého, muže, ženy i děti, s jejich majetkem a nikomu nic neudělají; jinak je na milost nepřijmou."
+  },
+  {
+   "text": "Dis antwurt wart inen luter zü verstan geben und beschach das darumb, das si nachmalen nit möchten sagen, man hette inen güt wort gen und darüber witer gehandlet oder nit gehalten.",
+   "preklad": "Tuto odpověď jim dali jasně na srozuměnou, a to proto, aby potom nemohli říkat, že jim dali dobrá slova, a pak jednali jinak nebo slovo nedodrželi."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: OCR text kapitoly utnulo uprostřed věty („…das man si nötigen“); doplněn závěr kapitoly ze surového OCR (Tobler I, 260) až po nadpis kap. 189. Poslední věta oddělena jako odstavec. Dále „buüchsen“ → „büchsen“, „sı“ → „si“.",
+  "Skrytá kapitola (jen v bernském rukopisu): Tobler u ř. 28 s. 259 („Und do man das von inen vernam…“) uvádí variantu „Titel: Die antwurt, so die von Bern und ander ir verwanten denen von Blomont uf ir anbringen gabent“ (Odpověď, kterou Bernští a jejich spojenci dali Blamontským na jejich návrh). Text neděleno, JSON sleduje Toblerovo číslování.",
+  "Bernská varianta nadpisu: „Das man mit den grossen büchsen an der stat und slos Blomont aber anving vast arbeiten und werken“ (Jak se začalo znovu tvrdě pracovat s velkými děly na město a hrad Blamont). Nadpis Toblerova textu o vyslání korouhve tak k obsahu kapitoly sedí jen zčásti; samo vyslání 2500 mužů popisuje kap. 185 a 187.",
+  "Tobler: Zürišská předloha (Z) má mezeru od „in semlicher meinung darkomen“ až po „und fürten mit inen ir werinen und hab“ (kap. 189); Tobler ji doplnil podle kopie Msc. A. 54/55 v Městské knihovně v Curychu.",
+  "„der struss“ = štrasburské velké dělo „Pštros“ (viz kap. 183). „lidlichen“ = úplně (Tobler, glosář). „überein haben“ [?]: überein = zcela, docela (Tobler, glosář); smysl věty nejspíš „chtějí je mít zcela ve své moci“.",
+  "Další bernské varianty: „gros“; „der bi inen in der stat“; „getrüwten vor iederman“ (že je udrží proti komukoli); „das man es mit dem sturme het mögen gewinnen“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

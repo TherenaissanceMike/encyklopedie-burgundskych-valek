@@ -1,0 +1,28 @@
+{
+ "cislo": 7,
+ "nadpis": "Das die zweihundert knecht das schön dorf Brunstat entblünderten und verbranten.",
+ "edice": "Tobler I, s. 13–14",
+ "rukopis_strana": 20,
+ "odstavce": [
+  {
+   "text": "7. Das die zweihundert knecht das schön dorf Brunstat entblünderten und verbranten.",
+   "preklad": "7. Jak těch dvě stě knechtů vyplenilo a vypálilo pěknou ves Brunstatt."
+  },
+  {
+   "text": "Darnach wurden die houptlut von Bern und Solotern mit denen von Mulhusen zü rat, und zugen an einem morgen frü gen Brunstat in das dorf, — das was mit einem starken wassergraben umbgeben, — und kamen dar, das ir nieman innen wart, dann die in dem slos und kilchturn, die schussent zu inen. Si vingen aber nit destminder an und entplünderten das dorf mit einandern, und stürmten an den kilchof und turn und taten inen als angst und not, das si es ufgaben, und warent darinne bi zwenzig mannen, die wurden gen Mulhusen gevangen gefürt.",
+   "preklad": "Potom se hejtmani Bernských a Solothurnských uradili s Mulhouseskými a jednoho rána časně táhli do vsi Brunstattu – ta byla obehnána silným vodním příkopem – a přišli tam tak, že si jich nikdo nevšiml kromě těch na hradě a v kostelní věži, kteří na ně stříleli. Přesto se do toho pustili, společně ves vyplenili, zaútočili na hřbitov a věž a nahnali jim takový strach a tíseň, že se vzdali. Bylo tam asi dvacet mužů, ti byli jako zajatci odvedeni do Mulhouse."
+  },
+  {
+   "text": "Man vand ouch gar vil gütes in der kilchen und dem turn, das man darin geflöckt hat; darzü fundent si ouch in dem dorf vil wins, den fürtent si ouch mit inen. Und morndes gewunnen si den vorhof am slos und nament ouch etlichen win darinne, und verbranten das dorf ganz.",
+   "preklad": "V kostele a ve věži se také našlo velmi mnoho statků, které tam lidé uklidili do bezpečí; a ve vsi našli také mnoho vína, to si také odvezli s sebou. Nazítří dobyli předhradí u hradu, vzali tam také nějaké víno a ves celou vypálili."
+  }
+ ],
+ "poznamky": [
+  "Data: Brunstatt byl vyloupen v pondělí před Božím Tělem = 13. 6. 1468, předhradí v úterý 14. 6. (mulhouský záznam, Cartulaire III, 236). Počet 20 zajatců potvrzuje list Kaspara ze Rin z 18. 6. (Tobler).",
+  "Tobler: „kilchof“ je čtení bernského rukopisu; „kilchdorf“ v curyšském je chyba. Kilchof je zde opevněný hřbitov kolem kostela (mimo Tobler). „flöcken“ = uklidit do bezpečí (glosář).",
+  "Varianty: zajatce „fürtent si mit inen gevangen gen Mülhusen“; vše uklizené „das nament si alles“; víno „fürtent si allen hinweg“; na konci „und fürten vil gütes von dannen und wart also das schön dorf ouch verbrant“.",
+  "Oprava OCR: odstraněn zlomek záhlaví strany a čísel řádků („ot Fu „er Ne“), zbloudilé „:“ a „)“ (odkaz na poznámku) za „gelegen“; „oüch“ → „ouch“, „am’ slos“ → „am slos“, „Muüulhusen“ → „Mülhusen“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,30 @@
+{
+ "cislo": 356,
+ "nadpis": "Das gar vil würmen, die man nempt enger, .allenthalben in dem ertrich warent, die gar grossen schaden tatent.",
+ "edice": "Tobler II, s. 179",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "356. Das gar vil würmen, die man nempt enger, allenthalben in dem ertrich warent, die gar grossen schaden tatent.",
+   "preklad": "356. O tom, že všude v zemi bylo velmi mnoho červů, kterým se říká ponravy, a ti způsobili velikou škodu."
+  },
+  {
+   "text": "In dem iare, als man von der gebürt ünsers lieben hern und behalters Jhesu Cristi zalt tusent vierhundert sibenzig und acht iar, wüchsent gar vil würmen, die man nempt enger, darus dann am letsten kefer werdent, in dem ertrich, ouch in allen matten, garten, welden, böimen und krütern umb die stat Bern, ouch in allen iren landen und gebieten, darzü in der ganzen Eidgnosschaft und andern Tütschen und Welschen landen. Die tatent gar merglichen schaden an korn, höw, ämpt, weiden und andern narungen der menschen und der unvernünftigen tieren, so verr, das menglich davon erschrocken und damit bekümbert.",
+   "preklad": "Léta, kdy se psalo od narození našeho milého Pána a Spasitele Ježíše Krista tisíc čtyři sta sedmdesát osm, se v zemi a také na všech lukách, v zahradách, lesích, na stromech a bylinách kolem města Bernu, ve všech jeho zemích a územích a k tomu v celém Spříseženstvu i v jiných německých a vlašských zemích rozmnožilo velmi mnoho červů, kterým se říká ponravy (enger) a z nichž se nakonec stávají brouci. Ti způsobili velmi značnou škodu na obilí, seně, otavě, pastvinách a jiné obživě lidí i nerozumných zvířat, takže se toho každý lekl a měl z toho starosti."
+  },
+  {
+   "text": "In dem was der bischof von Losann zu Bern, dem wart man den merglichen komber und schaden clagen und ze erkennen geben, und nach desselben underwisung und rat wurden etlich sachen der vorgenanten würmen und engern halb fürgenomen und gehandelt, als harnach stat. Und beschach am ersten durch hern Bernharten Smid, lütpriester zü Bern, dis nachgeschriben ermanung an ofnem canzel vor gemeinem volk.",
+   "preklad": "Tehdy pobýval v Bernu biskup lausannský; tomu se tu velikou trampotu a škodu žalovalo a dalo na vědomí, a podle jeho poučení a rady se kvůli zmíněným červům a ponravám podniklo a vykonalo několik věcí, jak stojí dále. Nejprve pan Bernhart Smid, bernský farář, pronesl z veřejné kazatelny přede vším lidem toto níže zapsané napomenutí."
+  }
+ ],
+ "poznamky": [
+  "Podle Toblerova aparátu kap. 356 v bernském rukopisu chybí.",
+  "enger = ponrava, larva chrousta (Engerling); kefer = brouk, chroust; ämpt/ämbt = otava (druhá seč sena). Bernská rada v listu z 15. 10. 1478 mluví o „käfern, genant bruci“ (Tobler).",
+  "Tobler: totéž hlásí Knebel (Basler Chr. III, 194). Farnost Altendorf v March ustanovila 25. 5. 1478 svátek sv. Urbana věčným svátkem „pro ponravy, které tak velikou škodu natropily v celé zemi“. Bern se chystal proti „broukům“ zakročit už 1477 (zápis rady z 28. 4. 1477 pro probošta v Amsoldingenu).",
+  "Lausannský biskup = Benoît de Montferrand (Benedikt von Montferrand), biskup 1476–1491 (Tobler). Tobler odkazuje k literatuře o soudních procesech se zvířaty (K. von Amira, MIÖG XI, 545–601; vlastní článek „Tierprozesse in der Schweiz“, 1893).",
+  "Bernhart Smid = bratr Bernhard Smidli, farář (lütpriester) bernského minsteru z Řádu německých rytířů, rodák z Freiburgu im Breisgau; Rada ho chválila (1474), Niklaus von Diesbach ho obdaroval v závěti, odstoupil pro nemoc v květnu 1481, naposledy doložen 10. 12. 1484 (Tobler). Rok, od kterého je v Bernu doložen, je v OCR zkomolen („1164“).",
+  "Oprava textu: odstraněny zbytky okraje stránky („Prof Een DE N“ be…“) a zbloudilé tečky a uvozovky; „tatent.“ → „tatent“"
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

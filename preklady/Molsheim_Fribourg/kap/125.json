@@ -1,0 +1,24 @@
+{
+ "cislo": 125,
+ "nadpis": "Wie die vier stett Bern, Friburg, Solotern und Lutzeren die schloss besatztent.",
+ "edice": "Büchi 1914, ř. 1431–1432 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  225
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 225, al. 2 abgekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die vier stett Bern, Friburg, Solotern und Lutzeren die schloss besatztent.",
+   "preklad": "125. Jak čtyři města Bern, Fribourg, Solothurn a Luzern obsadila hrady."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "V Büchiho edici je u této kapitoly jen nadpis s odkazem „Vgl. Schilling C. 225, al. 2 abgekürzt“, vlastní text vytištěn není. Obsah viz Schilling, kap. 225, 2. odstavec (obsazení Yverdonu a Grandsonu, rukojmí z Yverdonu)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

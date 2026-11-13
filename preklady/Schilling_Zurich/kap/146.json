@@ -1,0 +1,29 @@
+{
+ "cislo": 146,
+ "nadpis": "Als der herzog von Burgunnen am ersten in Lothringen zoch und den herzogen vertreip und das land mit einandern innam.",
+ "edice": "Tobler I, s. 208",
+ "rukopis_strana": 323,
+ "odstavce": [
+  {
+   "text": "146. Als der herzog von Burgunnen am ersten in Lothringen zoch und den herzogen vertreip und das land mit einandern innam.",
+   "preklad": "146. Jak vévoda burgundský poprvé vtáhl do Lotrinska, vyhnal vévodu a zabral celou zemi."
+  },
+  {
+   "text": "Und nachdem dann der herzog von Burgunnen also von Nüss was vertedinget worden und abgezogen, da zoch er angendes mit frevelm gewalt in das herzogthüm von Lothringen und vertreip mit sinem gewalt den fromen fürsten von Lothringen und nam im sin land in, der im nie kein leid hat getan; dann das er damit vermeint, gemein Tütsch nacion und besunders den alten loblichen pund der Eidgnosschaft und ouch ir verwanten der nüwen vereinunge zü vertriben, und si mit semlichem sinem fürnemen zü vertrucken, als harnach stat.",
+   "preklad": "A když byl vévoda burgundský takto vyjednáváním přiměn odejít od Neussu a odtáhl, vtáhl hned se zpupnou mocí do vévodství lotrinského, svou mocí vyhnal ctného knížete lotrinského, který mu nikdy nic zlého neudělal, a zabral mu jeho zemi. Tím totiž zamýšlel vyhnat celý německý národ, a zvláště starý chvalný spolek konfederace i jejich spojence z nového spolku, a takovým svým počínáním je utlačit, jak bude psáno dále."
+  },
+  {
+   "text": "Also reit der herzog von Lothringen mit etlichen sinen dienern zem küng von Frankenrich, und was do lange zit bi im und wart den küng als vil ermanen und in mit semlicher grosser bitte ankeren, das es im dennocht als dem allercristenlichesten küng zü herzen ging, das er mit sinem volk dem herzogen von Burgunnen ein widerstant und gegenwere tet, desglichen die fürsten, herren und stette der nüwen vereinung ouch tatent, und lies sich der küng des nit beturen, dann er dem herzogen von Lothringen gar vil gelts gap und fürsatzt und wart damit das herzogthüm von Lothringen gar vast gewüst und nacher me dann einmal wider gewunnen und verloren, als harnach bas gelütert wirt.",
+   "preklad": "Tu odjel vévoda lotrinský s několika svými služebníky ke králi francouzskému a byl u něho dlouhý čas. Tolik krále napomínal a s tak velkou prosbou na něj naléhal, že to přece jen šlo k srdci jemu jako nejkřesťanštějšímu králi, a postavil se se svým lidem vévodovi burgundskému na odpor a na obranu, jak to činila i knížata, páni a města nového spolku. A král nelitoval nákladu, neboť vévodovi lotrinskému dal a zapůjčil velmi mnoho peněz. Tím bylo vévodství lotrinské velmi zpustošeno a potom víc než jednou znovu dobyto i ztraceno, jak bude dále lépe vyloženo."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: nadpis byl rozdělen („in Lo.“ / „thringen zoch…“), sloučen do jednoho odstavce; „Tuütsch“ → „Tütsch“, „herzosthüm“ → „herzogthüm“, „ım“ → „im“.",
+  "Bernský rukopis má před odstavcem „Also reit der herzog von Lothringen…“ vlastní nadpis: „Das der herzog von Lothringen zu dem küng von Frankenrich in eigner persone reit und im sin anligen clagt“ (Že vévoda lotrinský osobně jel ke králi francouzskému a stěžoval si mu na svou tíseň). Tobler ho nečísluje, proto neodděleno.",
+  "Tobler: Burgunďané zabírali Lotrinsko od začátku září do konce listopadu 1475. Schilling zná lotrinské poměry jen v hrubých rysech: vévoda René II. byl v roce 1475 dvakrát na francouzském dvoře prosit o pomoc; Schilling ale zamlčuje, že ho politika Ludvíka XI. právě v tomto roce úplně obětovala. O půjčce peněz se nic jistého neví, Ludvík ale nešetřil sliby a René pobíral francouzskou penzi.",
+  "Bernské varianty: „von Nüss vertedinget worden und schantlichen abgezogen was, do zoch er angendes mit grosser hochvart und frevelm gewalt“ (hanebně odtáhl… s velkou pýchou); „die alten loblichen pünde“; „ganz zü vertrucken“.",
+  "„vertedinget“ = vyjednáváním přiměn k odchodu (srov. mír u Neussu, kap. 144); „beturen“ = zdát se příliš drahé; „fürsetzen“ = půjčit, zálohovat."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 124,
+ "nadpis": "Das die Eidgnossen den herren und stetten den herzug gemeinlichen züseiten.",
+ "edice": "Tobler I, s. 172",
+ "rukopis_strana": 267,
+ "odstavce": [
+  {
+   "text": "124. Das die Eidgnossen den herren und stetten den herzug gemeinlichen züseiten.",
+   "preklad": "124. Jak konfederáti pánům a městům společně přislíbili tažení."
+  },
+  {
+   "text": "Disen herzug ze tünde warent die Eidgnossen nit willig noch das schuldig, wann si die richtung mit dem herzogen von Oesterich nit witer band, dann so der fürst si mante, so soltent si im in sinen sachen und umb sinen sold hilflichen sin, desglichen er inen harwiderumb ouch. So band ouch si die vereinung nit witer, dann so vil, wann die fürsten oder stette darinne begriffen, belegert wurden, so soltent si die Eidgnossen entschütten; diewile aber der fürst oder die stette der vereinunge vom herzogen von Burgunnen oder andern nit belegert werent, woltent die Eidgnossen disen herzug nit tün und meintent, das inen der zü köstlich und swer, dann si arm lüte, und ouch kalt ungewonlich wetter were.",
+   "preklad": "K tomuto tažení nebyli konfederáti ochotni ani povinni. Smír (richtung) s rakouským vévodou je totiž nezavazoval k ničemu víc, než že když je kníže vyzve, mají mu v jeho záležitostech a za jeho žold pomáhat, a on jim rovněž naopak. Ani spolková smlouva je nezavazovala k ničemu víc, než že když budou knížata nebo města v ní zahrnutá obležena, mají je konfederáti vyprostit. Protože však kníže ani města Spolku nebyli burgundským vévodou ani nikým jiným obleženi, nechtěli konfederáti toto tažení podniknout. Mínili, že je pro ně příliš nákladné a těžké, protože jsou chudí lidé, a navíc že je neobvykle studené počasí."
+  },
+  {
+   "text": "Doch wurdent die Eidgnossen am letsten als wit erbetten, das si den herzug ze tünde züseiten, und versprach der fürste von Oesterich den siben orten achttusent güldin daran zü geben. Die wurden ouch nachmalen den Eidgnossen usgericht, und under die siben ort Zurich, Bern, Lutzern, Ure, Switz, Zug und Glarus nach marzal der luten geteilt, wann die von Unterwalden dennzemal etlicher ursach halb, so si mit der herschaft von Öesterich ze tünde hatten, sich des herzugs nit annemen woltent.",
+   "preklad": "Nakonec však konfederáty uprosili natolik, že tažení přislíbili. Rakouský kníže slíbil sedmi místům (ortům) dát na ně osm tisíc zlatých. Ty byly konfederátům také později vyplaceny a rozděleny mezi sedm míst – Curych, Bern, Luzern, Uri, Schwyz, Zug a Glarus – podle počtu mužů. Unterwaldenští se totiž tehdy kvůli jistým příčinám, které měli s rakouským panstvím, tažení zúčastnit nechtěli."
+  }
+ ],
+ "poznamky": [
+  "„Richtung“ = tzv. Věčný smír (Ewige Richtung) mezi konfederáty a vévodou Zikmundem Rakouským z roku 1474.",
+  "Tobler: Schilling je nepřesný. Místo 8 000 zlatých dostali konfederáti jen 700 a ty se rozdělily jen mezi sedm míst, ačkoli 6. 9. 1474 padl návrh dát něco i spojencům. Tažení bylo přislíbeno 21. 10. 1474 (Absch. II, 513).",
+  "Unterwalden: k jeho sporu s Rakouskem viz kap. 114 (Tobler).",
+  "Bernský rukopis podle variant: „aber die fürsten und stette“ (množné číslo), „köschlich“ místo „köstlich“; obsahově bez rozdílu.",
+  "Oprava textu: „vıl“ → „vil“, „sıben“ → „siben“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

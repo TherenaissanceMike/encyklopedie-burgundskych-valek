@@ -1,0 +1,32 @@
+{
+ "cislo": 225,
+ "nadpis": "Das die von Bern und ander Eidgnossen mit einandern gen Losan zugent.",
+ "edice": "Tobler I, s. 315",
+ "rukopis_strana": 537,
+ "odstavce": [
+  {
+   "text": "225. Das die von Bern und ander Eidgnossen mit einandern gen Losan zugent.",
+   "preklad": "225. Jak Bernští a jiní konfederáti společně táhli do Lausanne."
+  },
+  {
+   "text": "Darnach zoch man von der Morse den nechsten gen Losan, und wart zer Morse vast geplündert, dann an dem abziechen nam iederman was im werden mocht, wie wol man umb die ürti nit vil geben hat. Darzü verbranten ouch die von Lutzern das schön hübsch slos in der stat, darinne si mit allem irem volke warent gelegen; und als man gen Losan kam, do wart man ze rat, das man den nechsten heimkeren solte.",
+   "preklad": "Potom se táhlo z Morges nejkratší cestou do Lausanne a Morges bylo silně vydrancováno, neboť při odchodu si každý vzal, co se mu naskytlo, ačkoli se za útratu mnoho nezaplatilo. Kromě toho Luzernští vypálili ten krásný, pěkný hrad ve městě, v němž leželi s veškerým svým lidem. A když se přišlo do Lausanne, usneslo se, že se má nejkratší cestou táhnout domů."
+  },
+  {
+   "text": "Die vorgenanten vier stette Bern, Lutzern, Friburg und Solotern besatzten ouch mit den iren Iferden und Granson, stat und slos und meinten das mit gottes hilf zü behalten. Und als man nit vil vertrüwens zü denen von Iferdun hat, do wurden us ir stat genomen acht manne von den richesten und den gewaltigesten und in die vier stette in ieglich zwen geleit; und beschach das darumb, das si dester minder untrüw und verreterie möchten triben. Es bestünd aber nit lang, dann die von Iferden wurbent gar menig mal an die vier stette, das man den iren heim erlouben, so woltent si dieselben und ander an ir stat alwegen in kurzem wider darsenden und anders nit tün, dann das fromen lüten gebürt und si den vier stetten gelobt und gesworen hetten.",
+   "preklad": "Ta čtyři zmíněná města, Bern, Luzern, Fribourg a Solothurn, také obsadila svými lidmi Yverdon a Grandson, město i hrad, a mínila je s pomocí Boží udržet. A protože se Yverdonským příliš nedůvěřovalo, vzalo se z jejich města osm mužů z nejbohatších a nejmocnějších a do každého ze čtyř měst se dali dva; a stalo se to proto, aby tím méně mohli páchat věrolomnost a zradu. Netrvalo to však dlouho, neboť Yverdonští velmi mnohokrát žádali ta čtyři města, aby jejich lidem povolila návrat domů; že je nebo jiné místo nich vždy brzy zase pošlou a nebudou dělat nic jiného, než co se sluší na poctivé lidi a co čtyřem městům slíbili a přísahali."
+  },
+  {
+   "text": "Das tribent si als dick und lang, bis dieselben acht manne alle wider zü inen kament; und do man inen gar wol vertrüwet und man sich zü inen keins argen versach und die fromen lüte von den vier stetten da lagent und nieman nit tatent, dann mit menglichem wol lebtent und ouch iederman das sin bezalten, do hattent die von Iferdun heimlich verreterie wider si angetragen, und wurden darnach in einer nacht dieselben fromen lüte und soldner mortlich und schantlich überfallen und mit inen gehandlet, als dann in derselben mortnacht harnach luter und witer begriffen stat.",
+   "preklad": "Na tom trvali tak často a dlouho, až se oněch osm mužů všech vrátilo k nim. A když se jim velmi důvěřovalo a nikdo od nich nečekal nic zlého a ti poctiví lidé ze čtyř měst tam leželi, nikomu nic nedělali, nýbrž se všemi dobře žili a každému platili, co mu patřilo, tu Yverdonští proti nim tajně osnovali zradu. A potom byli jedné noci ti poctiví lidé a žoldnéři vražedně a hanebně přepadeni a bylo s nimi naloženo tak, jak to dále jasně a podrobněji stojí u oné vražedné noci."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „das en den nechsten heim-|een solte“ → „das man den nechsten heimkeren solte“ (rekonstrukce, nejistá v jednom slově; smysl „táhnout domů“ je jistý). Odstavce přerozděleny podle Toblera (nový začíná „Die vorgenanten vier stette“).",
+  "Bernský rukopis má u „Die vorgenanten vier stette“ vlastní nadpis: „Das die von Bern, Lutzern, Friburg und Solotern Iferdun und Granson mit den iren nach notdurft besatzten.“ Tobler ho jako kapitolu nečísluje.",
+  "„ürti“ = útrata, účet v hospodě (Tobler); bernský rukopis má „wie wol man den wirten nit vil geben hat“ (ačkoli se hospodským moc nezaplatilo) a výslovně uvádí, že Morges drancovali, „protože jsme jim byli nepřáteli“.",
+  "Tobler: rukojmí z Yverdonu propustili poslové čtyř měst 16. 11. 1475. Tvrzení o dobrém chování posádky neodpovídá skutečnosti: Bern musel 10. 11. napomínat hejtmana v Yverdonu Albina von Silinen, aby respektoval svobody měšťanů, 16. 11. nařídil žoldnéřům nic nebrat bez zaplacení a 8. 12. jim zakázal věznit a loupit. Vražedná noc v Yverdonu viz kap. 239–243."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

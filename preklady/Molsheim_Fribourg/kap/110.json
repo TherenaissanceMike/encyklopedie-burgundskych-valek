@@ -1,0 +1,34 @@
+{
+ "cislo": 110,
+ "nadpis": "Wie der graf von Remund persönlich fieng den karrer von Nürenberg und ander lüt und fürt sy mit lib und mit gut mit im enweg und leit sy in gevengnüsse.",
+ "edice": "Büchi 1914, ř. 1188–1191 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  205
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 205. al. 1. 1"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der graf von Remund persönlich fieng den karrer von Nürenberg und ander lüt und fürt sy mit lib und mit gut mit im enweg und leit sy in gevengnüsse.",
+   "preklad": "110. Jak hrabě z Romontu osobně zajal vozky z Norimberka a jiné lidi, odvedl je i s jejich statky s sebou a dal je do vězení."
+  },
+  {
+   "text": "Indem kam der graff von Remund selbs persönlich in Savoy und in sin lantschaft, die Wat. Und fieng von stund an zwen tütsche karrer von Nürenberg [zwen burger und ander von Friburg.] Den nam er vil gutes, das sy fürten, und fürte die karrer mit dem güt enweg und leite sy gevangen. Und besatzte do alle sin stett und Schlosser und tröste sy und verheiss inen, ob inen jeman ützt tun wolte, so wolte im der herzog von Bürgün mit ganzer macht ze hilf komen und sy von aller welt enschütten und sy nit verlassen; denn er so stark und so mechtig were, das nieman wider inn möchti tun noch im widerstan. Und gab inen ein gross trost, daran sy sich ouch liessen.",
+   "preklad": "Mezitím přišel hrabě z Romontu sám osobně do Savojska a do své země Vaudu. A hned zajal dva německé vozky z Norimberka [dva měšťany a jiné z Fribourgu]. Vzal jim mnoho zboží, které vezli, odvezl vozky i se zbožím pryč a dal je uvěznit. Pak obsadil všechna svá města a hrady, povzbuzoval je a sliboval jim, že kdyby jim kdo chtěl něco udělat, přijde jim vévoda Burgundský celou mocí na pomoc, vysvobodí je přede vším světem a neopustí je; neboť je prý tak silný a mocný, že proti němu nikdo nic nezmůže ani mu neodolá. A dodal jim velkou naději, na kterou se také spolehli."
+  },
+  {
+   "text": "[Derselb trost aber mengem zü spatt kam, der sin leben darumb gab in kurzem zitt.]",
+   "preklad": "[Ta útěcha však mnohému přišla příliš pozdě a ten za ni v krátké době zaplatil životem.]"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR: llit → lüt, fiirt → fürt, flirten → fürten, gfit → güt, lierzog → herzog, körnen → komen, weit → welt, Hessen → liessen; odstraněna čísla řádků a odkazy na poznámky.",
+  "Büchi: „[zwen burger und ander von Friburg]“ je v rukopise A přípisek na okraji. Koncem září 1475 se hrabě odebral do Morges. K zajetí vozků a škodám srov. stížnosti Bernských a list Fribourgu z 13. 10.; provokace však podle Büchiho nechyběly ani ze strany konfederátů (listy Fribourgu Bernu z 18. 9. a 2. 10. a odpověď Fribourgu Norimberku z 22. 11. 1475).",
+  "Oproti Schillingovi (kap. 205): Molsheim přidává mezi zajaté fribourgské měšťany a závěrečnou větu, že naděje na burgundskou pomoc mnohé stála život; nemá Schillingův dovětek, že hrabě obsadil hrady cizím i domácím lidem a že pak podnikali mnohé proti Bernským a Fribourgským."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

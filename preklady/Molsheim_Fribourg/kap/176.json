@@ -1,0 +1,31 @@
+{
+ "cislo": 176,
+ "nadpis": "Wie der bischof von Jenff durch sin diener ettliche Lamparter zwang, das sie mit iren rossen zu Jenf über die brücken abhin musten springen in den Rotten.",
+ "edice": "Büchi 1914, ř. 2327–2329 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  313
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 313, al. 1."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der bischof von Jenff durch sin diener ettliche Lamparter zwang, das sie mit iren rossen zu Jenf über die brücken abhin musten springen in den Rotten.",
+   "preklad": "176. Jak ženevský biskup skrze své služebníky donutil několik Lombarďanů, že museli se svými koňmi v Ženevě skočit z mostu dolů do Rhôny."
+  },
+  {
+   "text": "Darnach kamen ouch ettlich Lamparter von dem herzogen, die ouch an der flucht entrunnen waren und wider heim in Lamparten wolten, gan Jenff und meinten, da sicher ze sin. Das vernam der bischoff von Jenff. Do dett er inen einen merklichen widerstand; denn alle die, so über die brüggen ritten wolten und sunder, was Lamparter warend, die musten all über die brüggen ab sprengen mit iren verdackten rossen in den Rotten under die mülinen und also jemerlich sterben. Darzü wurden ouch in der statt Jenff ettlich erstochen und erschlagen, das man dozemal eigenklichen rett, [als ich das vernam,] ir werend ob hundert umbkomen ze Jenff.",
+   "preklad": "Potom přišli do Ženevy také někteří Lombarďané od vévody, kteří rovněž vyvázli z útěku a chtěli se vrátit domů do Lombardie, a mysleli si, že tam budou v bezpečí. To se dozvěděl ženevský biskup a postavil se jim rázně na odpor: všichni, kdo chtěli přejet přes most, a zvláště kdo byli Lombarďané, museli se svými koňmi v čabracích skočit z mostu dolů do Rhôny pod mlýny a tak žalostně zahynout. Kromě toho byli ve městě Ženevě někteří probodeni a ubiti, takže se tehdy s jistotou vypravovalo, [jak jsem se doslechl,] že jich v Ženevě zahynulo přes sto."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: odstraněny číslo řádku „5“, značky poznámek a „•“ v nadpisu; „Uber“ → „über“, „ab- hin“ → „abhin“, „Lam- parten“ spojeno.",
+  "Büchi: srov. zprávy milánského vyslance Panigaroly z 3. a 9. 7. 1476 a Knebela; v Ženevě zahynula jedna rota Lombarďanů. (Poznámka je v poli poznamky_editora kap. 177.)",
+  "Varianta B začíná „Když bitva u Murtenu skončila…“ a vynechává „[als ich das vernam]“; varianta S posměšně dodává, že kdo Lombarďany v jejich zemi vypočítal, ten by je při zpětném počítání našel v horším stavu.",
+  "Oproti Schillingovi: v nadpisu jedná biskup „skrze své služebníky“, v textu přibývá osobní „[jak jsem se doslechl]“ a Lombarďané chtějí domů do Lombardie; chybí Schillingův závěr „to byla jejich pravá, zasloužená odplata“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

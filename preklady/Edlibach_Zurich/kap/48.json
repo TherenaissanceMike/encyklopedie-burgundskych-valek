@@ -1,0 +1,34 @@
+{
+ "cislo": 48,
+ "nadpis": "Wie bin fünff vnd drissig tütscher knächt jn ein brugunsch dorff zugend vnd da ij‘ man bezwungend dz sy jnnen essen gabend.",
+ "edice": "Usteri 1847, ř. 8896 souboru edice",
+ "rukopis_strana": 357,
+ "odstavce": [
+  {
+   "text": "Wie bin fünff vnd drissig tütscher knächt jn ein brugunsch dorff zugend vnd da ij‘ man bezwungend dz sy jnnen essen gabend.",
+   "preklad": "Jak asi pětatřicet německých knechtů přitáhlo do jedné burgundské vesnice a přinutilo tam dvě stě mužů, aby jim dali jíst."
+  },
+  {
+   "text": "In vj wuchen vngefarlich vor martine ano domi m.cccc.lxxvj jar zugend bin xxxv tütscher knecht uss dem here zu nanse jn ein brugunisch dorff ob einner mil wegs von nanse gelegen vnd woltend einnen roub genomen haben als sy nun jn dz dorff kamend warend ob iij* brugunscher puren jn dem kilchhoff vnd rustend sich mit jrem barnisch vnd geweren vnd als die tütschen sy ersachend zugend sy gegen jnnen vnd hieltend also bed parttigen jn jr ordnung gegen ein andren, nun was einner von meltz bin den walchen, der reit darunder dz bed teil abzüchen söltend vnd niemend dem andren sust nütz thun sölte, sömliches nun die tütschen nüt thun woltend, es were den",
+   "preklad": "Asi šest týdnů před svatým Martinem léta Páně 1476 vytáhlo asi pětatřicet německých knechtů z vojska u Nancy do jedné burgundské vesnice, ležící přes míli od Nancy, a chtěli vzít lup. Když přišli do vesnice, bylo na hřbitově přes tři sta [?] burgundských sedláků; ti se vyzbrojili zbrojí a zbraněmi. Když je Němci uviděli, táhli proti nim a obě strany stály proti sobě ve svém šiku. Mezi Vlachy byl jeden muž z Met; ten vjel mezi ně, aby obě strany odtáhly a žádná druhé nic neudělala. To však Němci udělat nechtěli, ledaže"
+  },
+  {
+   "text": "sach dz die bruguner junen essen vnd trincken geben weltend, den sy gar hungrig werend, also uerschuffend die walchen jn dem dorf mit den frowen dz man jnnen gebe essen vnd trincken dz beschach, demnach zugend die xxxv tütschen knächt an allen schaden wider uss dem dorff jn jren leger cet.",
+   "preklad": "by jim Burgunďané dali jíst a pít, protože jsou velmi hladoví. Vlaši tedy ve vsi zařídili se ženami, aby se jim dalo jíst a pít, a to se stalo. Potom pětatřicet německých knechtů odtáhlo bez jakékoli škody zase z vesnice do svého tábora atd."
+  },
+  {
+   "text": "item demnach vngefarlichen jn acht tagen namend die luttringinschen dem hertzog von brugund xL geladner wegen mit spiss.",
+   "preklad": "Dále potom asi do osmi dnů vzali Lotrinčané vévodovi burgundskému čtyřicet naložených vozů s potravinami."
+  }
+ ],
+ "poznamky": [
+  "Usteri: Vorstellung (v rukopisu ilustrace nebo mezititulek)",
+  "Datum: asi šest týdnů před sv. Martinem (11. 11.), tedy kolem konce září 1476, za Reinhartova obléhání Nancy (srov. kap. 44).",
+  "[?] Rozpor čísel: nadpis „ij‘ man“ (200), text „ob iij* brugunscher puren“ (přes 300).",
+  "„meltz“ = Mety (Metz).",
+  "„uerschuffend … mit den frowen“ = zařídili se ženami, tj. ženy připravily jídlo.",
+  "Opravy OCR: dorf! → dorff, m.cece,Lxxvj → m.cccc.lxxvj, ja → jn, Ihun → thun, jun → jn."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

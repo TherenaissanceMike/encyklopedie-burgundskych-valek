@@ -1,0 +1,24 @@
+{
+ "cislo": 12,
+ "nadpis": "Als unsser her der keisser gan bassel kam.",
+ "edice": "Usteri 1847, ř. 7589 souboru edice",
+ "rukopis_strana": 284,
+ "odstavce": [
+  {
+   "text": "Als unsser her der keisser gan bassel kam.",
+   "preklad": "Když náš pán císař přišel do Basileje"
+  },
+  {
+   "text": "leistet da ein tag vnd kam grosse welt dahin von fürsten vnd heren da kam ouch hin hertzog sigmund selbs vnd gemeinner eignossen botten also uff denselben tag kam der lantuogt her petter von hagenbach ouch mit gar uil pferden alle jnn einner farw vnd wz aber da gar uil stoltzkeit ussrichten.",
+   "preklad": "a konal tam sněm. Sjelo se tam mnoho lidí, knížat a pánů; přijel tam i sám vévoda Zikmund a poslové všech konfederátů. Na tentýž sněm přijel také zemský fojt pan Peter von Hagenbach s velmi mnoha koňmi, všemi v jedné barvě, a předváděl tam velkou okázalost a pýchu."
+  }
+ ],
+ "poznamky": [
+  "Text navazuje přímo na nadpis („Als … kam / leistet da ein tag“), věta tedy začíná už v nadpisu.",
+  "Odstraněn odstavec s Usteriho poznámkami pod čarou: podle nich jsou některé části tohoto oddílu autorovy pozdější přípisky, které v opisu chybějí, a jeden přípisek autor nejdřív umístil chybně. OCR: „vod“ → „vnd“, „jun“ → „jnn“, „farw vnd. wz“ → „farw vnd wz“, odstraněna značka „\")“.",
+  "Císař = Fridrich III. Edlibach rok neuvádí; Schilling (kap. 74) klade příjezd na sv. Jakuba 1474, podle Toblera byl císař v Basileji 8.–14. 9. 1473.",
+  "„alle jnn einner farw“ = jezdci (koně a družina) v jednotné barvě, tj. v livreji. „stoltzkeit ussrichten“ = předvádět pýchu, nádheru."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

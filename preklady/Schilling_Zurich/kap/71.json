@@ -1,0 +1,25 @@
+{
+ "cislo": 71,
+ "nadpis": "Die antwurt von dem herzogen von Burgunn den von Bern und Solotern.",
+ "edice": "Tobler I, s. 106",
+ "rukopis_strana": 157,
+ "odstavce": [
+  {
+   "text": "71. Die antwurt von dem herzogen von Burgunn den von Bern und Solotern.",
+   "preklad": "71. Odpověď burgundského vévody Bernským a Solothurnským."
+  },
+  {
+   "text": "Daruf der herzog von Burgunnen denen von Bern und Solotern gar ein slecht und hochmütig antwurt gab: er könde anders nit wissen noch verstan, dann das der von Hagenbach anders nit tete, dann das zimlich und billich und ouch sin sunder will und meinung were, und was er denen von Mülhusen tete, daran beschech inen recht, dann das von ir schulden wegen were; davor könde noch wolte er nit sin, dann er von den sinen als menigvalticlichen angerüft wurde, das er inen müste gestatten, sich gein inen und ir schulden wie si möchtent zü behelfen, und er könde nit verstan, das die verstentnüs damit wurde bekrenket —, mit gar viler hochvertiger worten, die er inen me dann einmal gap.",
+   "preklad": "Na to dal burgundský vévoda Bernským a Solothurnským velmi strohou a pyšnou odpověď: nemůže prý vědět ani pochopit nic jiného, než že Hagenbach nedělá nic jiného, než co je slušné a spravedlivé a co je také jeho, vévodovou, zvláštní vůlí a míněním. A co činí Mulhouským, děje se jim po právu, neboť je to kvůli jejich dluhům. Tomu nemůže ani nechce bránit, protože ho jeho lidé tolikrát žádají, že jim musí dovolit, aby se vůči Mulhouským a jejich dluhům domáhali svého, jak jen mohou. A nemůže prý pochopit, že by tím byla porušena dohoda (verstentnüs). To vše říkal s mnoha velmi pyšnými slovy, a dal jim je více než jednou."
+  }
+ ],
+ "poznamky": [
+  "Navazuje na kap. 70: Bern a Solothurn psaly vévodovi, aby nedovolil Hagenbachovi tvrdě vymáhat dluhy Mulhouse.",
+  "Oprava textu (OCR): „hoch. vertiger“ → „hochvertiger“, „einmal’gap“ → „einmal gap“.",
+  "Bernská varianta: „me dann einmal verkund und gap“ (více než jednou oznámil a dal).",
+  "„bekrenken“ = porušit (Toblerův glosář); „verstentnüs“ je dohoda mezi Burgundskem a Bernem/Solothurnem.",
+  "Tobler: srov. zprávu Adriana von Bubenberg z května 1470 (Eidg. Abschiede II, 409)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

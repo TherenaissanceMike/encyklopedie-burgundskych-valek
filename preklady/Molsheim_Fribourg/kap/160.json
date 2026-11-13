@@ -1,0 +1,29 @@
+{
+ "cislo": 160,
+ "nadpis": "Wie die fromen von Friburg so frunklich und so brüderlich gehalten hand mit der stat Bern.",
+ "edice": "Büchi 1914, ř. 1999–2007 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Wie die fromen von Friburg so frunklich und so brüderlich gehalten hand mit der stat Bern.",
+   "preklad": "160. Jak se zbožní Fribourgští chovali k městu Bernu tak přátelsky a bratrsky."
+  },
+  {
+   "text": "Die von Friburg, unser lieben mitburger, hielten sich in disen dingen gar frunklich, manlich und tröstlich und rüsten sich vast gegen den burgunschen mit bollwerken, buchsen und allen andren dingen, das denn zü dem ernst dienet. Denn inen allweg getröwt wart und stetes geret, der herzog wolte sin leger dafür schlachen, das aber inen nit viel ze schaffen gab. Denn sy meinten ir statt vor im wol behalten und schriben ouch den Eydgnossen sich harzüfürdren. Sy schickten ouch ze mangem mal ir botten gan Bern, mit inen ze rat ze werden, was in disen dingen dem besten nach fürzenemen were, und was allweg ir rat und will, gemeiner Eydgnossen und gewanten ze erwarten und mit einhelligem rat zu handlen. Es hieltent sich ouch die tusent man, so von den Eydgnossen dar waren geleit, gar wol und erberlich in irer statt und zugen etwen mit enandren und daten den vigenden grossen schaden. Das alles samend die von Friburg als trüwe brüder und fründ gan Bern enbutten.",
+   "preklad": "Fribourgští, naši milí spoluměšťané, si v těchto věcech počínali velmi přátelsky, mužně a povzbudivě a usilovně se proti Burgunďanům chystali bolverky, děly a všemi jinými věcmi, které slouží k vážnému boji. Stále jim totiž vyhrožovali a pořád se říkalo, že vévoda rozbije tábor před jejich městem; to je však příliš netrápilo, neboť si byli jisti, že své město před ním dobře udrží, a psali také konfederátům, aby pospíšili sem. Mnohokrát také posílali své posly do Bernu, aby se s Bernskými poradili, co by bylo v těchto věcech nejlepší podniknout; vždy bylo jejich radou a vůlí vyčkat na společné konfederáty a spojence a jednat podle jednomyslné rady. Také tisíc mužů, které tam konfederáti poslali, se v jejich městě chovalo velmi dobře a počestně; občas spolu vytáhli ven a způsobili nepřátelům velkou škodu. To všechno Fribourgští jako věrní bratři a přátelé společně vzkazovali do Bernu."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. die Seckeimeisterrechnungen bei Ochsenbein 604 ff. und Büchi, Freiburger Akten 34 ft'., 71 ff., Knebel I, 378. — a ) Leider fehlen die Freiburger Missiven aus dieser Zeit. Vgl. oben S. 161 A. 3, Ochsenbein 37, 38, 238. Gouverneur von Alessandria am 2. März bei Gingins, Dep. I, Nr. 139. Freiburger Lied bei Schilling I, 320 und Liliencron, Hist. Volkslieder der Deutschen II, 69—71, Leipzig 1866. — 3 ) Der Zusatz unter Oberbefehl von Hans Waldmann traf am 9. April in Freiburg e.n. Derselbe machte Ausfälle nach Grangettes bei Romont am 27. April und neuerdings vor Romont am 10. Mai. vgl. die näheren Berichte bei Ochsenbein 158*, 174, 200, 202, 214 , 244, 391, Büchi, Freiburger Missiven Nr. 80, derselbe, Freiburger Akten 36, 37, Fries 414, Rüsch 326, Edlibaeh 153."
+ ],
+ "poznamky": [
+  "Text: odstraněn strojově připojený zbytek „147-“ (číslo strany) a odkazy na poznámky; opraveny chyby OCR (boiwerken, alhveg, ivolte, schlacken → schlachen, harzufürdrenF), hotten → botten, schadend) → schaden, träte → trüwe, samen → samend [?]).",
+  "Büchi: kapitola je jen v rukopisech D. N. (podle aparátu „Kapitel 160 nur bei D. N.“); Schilling ji nemá.",
+  "Büchi: fribourgské listy z této doby se nedochovaly; srov. fribourgskou píseň u Schillinga. Posádka konfederátů pod vrchním velením Hanse Waldmanna dorazila do Fribourgu 9. 4. 1476 a podnikla výpady do Grangettes u Romontu 27. 4. a znovu před Romont 10. 5.",
+  "Oproti Schillingovi: Schilling nemá obdobu; kapitola je čistě fribourgská a líčí Fribourg jako věrného bratra Bernu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

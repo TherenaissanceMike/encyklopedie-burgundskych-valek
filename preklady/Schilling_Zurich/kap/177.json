@@ -1,0 +1,23 @@
+{
+ "cislo": 177,
+ "nadpis": "Das die zwei slos Nanlaratscha und Nan ouch gewunnen und ingenomen wurden.",
+ "edice": "Tobler I, s. 249",
+ "rukopis_strana": 410,
+ "odstavce": [
+  {
+   "text": "177. Das die zwei slos Nanlaratscha und Nan ouch gewunnen und ingenomen wurden.",
+   "preklad": "177. Jak byly dobyty a obsazeny také dva hrady Nans-la-Roche a Nans."
+  },
+  {
+   "text": "Es wurden ouch, diewile man zü Grangii lag, von dero von Bern und andern knechten von Eidgnossen mit hilf dero von Strasburg zwei stark slos mit dem sturm gewunnen, das ein genant Nanlaratscha, das ander Nan, die lagent bi einandern; die wurden geplündert und darnach in füre geleit.",
+   "preklad": "Zatímco se leželo u Granges, dobyli knechti Bernských a jiných konfederátů s pomocí Štrasburských útokem také dva silné hrady, jeden jménem Nans-la-Roche, druhý Nans; ležely blízko sebe. Byly vypleněny a potom zapáleny."
+  }
+ ],
+ "poznamky": [
+  "Tobler: tedy 24. a 25. 7. 1475. Hrady určuje jako Nans-la-Roche a Nans-sous-Sainte-Anne. Zollnerova píseň (kap. 196) jmenuje v této souvislosti ještě hrady Villechevreux („Welsch Heri“) a Courchaton.",
+  "Bernská varianta nadpisu: „starken slos N. und ouch Nan von denen von Bern und andern ingenomen und gewunnen wurden“. V textu: „dennocht vor Gr. lag und man in disen dingen ratslaget, was man fürer handlen und tün wolt, … mit hilf dero von Strasburg, die alwegen in trüwen bi inen waren, ungeordneter dingen zwei stark slos …“ – hrady dobyli ‚ungeordneter dingen‘, tj. bez rozkazu, zatímco se radilo, co dál; dále „und wart darin ein merglich güt gewunnen … und wart inen ouch ein gut büt“ (získali tam značné statky a dobrou kořist).",
+  "Oprava textu: „17%.“ → „177.“, „»trasburg“ → „Strasburg“, „ın“ → „in“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

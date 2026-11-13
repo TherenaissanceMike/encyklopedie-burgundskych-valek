@@ -1,0 +1,34 @@
+{
+ "cislo": 345,
+ "nadpis": "Wie der bischof und lantlüt von Wallis denen von Bern von der sach wegen gar ernstlich schribent. ')",
+ "edice": "Tobler II, s. 145",
+ "rukopis_strana": 875,
+ "odstavce": [
+  {
+   "text": "345. Wie der bischof und lantlüt von Wallis denen von Bern von der sach wegen gar ernstlich schribent.",
+   "preklad": "345. Jak biskup a zemští lidé z Valais psali Bernským kvůli té věci velmi vážně."
+  },
+  {
+   "text": "Grosmechtigen, strengen, vesten, fürsichtigen, wisen, besundern lieben, güten fründe und getrüwen puntgnossen, ünser früntlich, willig dienst und was wir eren und güts vermügent siend üwer fürsichtikeit von uns alwegen zü voran enbotten und bereit. Lieben getrüwen puntgnossen, wir vernemen wie zerstörlicher unwill, zweitrecht und stösse uferstanden sind zwüschen üwer lieben und güten früntschaft und andern üwern zugewanten an eim, und den strengen vesten üwern Eidgnossen und iren zügewanten anders teils, die üns und gemeiner landschaft von ganzen trüwen und herzen nit lieb, sunder leid sind und got den almechtigen, sin liebe müter und alles himelsch her darumb bitten, das semlich stösse versechen und vermitten werden; dann soltent die, des wir entsitzen, ein fürgang haben, so wer das ein ursach wer und ünser aller zerstörung und erfröwen ünser vienden, der zemal vil wurden.",
+   "preklad": "Velemocní, urození, stateční, prozíraví a moudří, zvláště milí, dobří přátelé a věrní spojenci! Naše přátelské a ochotné služby a vše, co dokážeme cti a dobrého, nechť jsou Vaší prozíravosti od nás vždy předem vzkázány a připraveny. Milí věrní spojenci, slyšíme, že mezi Vaší milou a dobrou přízní a jinými Vašimi spojenci na jedné straně a urozenými, statečnými Vašimi konfederáty a jejich spojenci na straně druhé povstala zhoubná nevole, rozkol a spory. Nám i celé naší zemi to z celé věrnosti a srdce není milé, nýbrž líto, a prosíme Boha všemohoucího, jeho milou matku a celé nebeské vojsko, aby se takovým sporům předešlo a zabránilo. Neboť kdyby pokračovaly, čehož se obáváme, byla by to příčina zkázy nás všech a radosti našich nepřátel, jichž by pak bylo mnoho."
+  },
+  {
+   "text": "Harumb sunder lieben, güten fründe und getrüwen puntgnossen, bitten wir üch, als ir selbs mit üwer grossen vernunft, die ir von güter gedechtnüss har gebrucht hand, aber bruchen wellent, und ob ützit an den sachen gelegen were, in dem besten verkomen wellent. Wir schriben ouch in glicher mass ünsern verwanten, so wir vernement zü Friburg sin, ouch einem rat daselbs und bitten üch mit ernst, ob üch bedücht der sach halb, das wir oder ünser lantschaft utzit darzü tün solten oder möchten, das nutz brecht, üns bi disem botten tag und nacht wellen lassen wissen, wann womit wir uch und gemeiner Eidgnosschaft zü willen, nutz und eren möchten werden, teten wir und gemein unser landschaft mit ganzem willen gern mit hilf des almechtigen gottes, der üns alle in frid und eren behüt und in sinem schirm lange zit hab.",
+   "preklad": "Proto, zvláště milí, dobří přátelé a věrní spojenci, Vás prosíme, abyste svého velkého rozumu, jehož jste odpradávna užívali, užili i nyní a abyste tomu, je-li na těch věcech něco, co nejlépe předešli. Stejným způsobem píšeme také našim spojencům, o nichž slyšíme, že jsou ve Fribourgu, a také tamní radě. Snažně Vás prosíme: zdálo-li by se Vám v té věci, že bychom my nebo naše země měli nebo mohli k tomu něco učinit, co by přineslo užitek, dejte nám to po tomto poslovi dnem i nocí vědět. Neboť čím bychom Vám a celému Spříseženstvu mohli být k vůli, užitku a cti, to bychom my i celá naše země s celou ochotou rádi učinili, s pomocí všemohoucího Boha, jenž nás všechny chraň v míru a cti a měj nás dlouho ve své ochraně."
+  },
+  {
+   "text": "Datum ex castro nostro Maiorie die ultima februarii anno (14)77.",
+   "preklad": "Dáno na našem hradě Majorie posledního dne února léta (14)77."
+  }
+ ],
+ "poznamky": [
+  "Úplnost: v posledním odstavci doplněn chybějící konec datace „(14)77.“ ze surového OCR (vyčištěný text končil slovem „anno“).",
+  "Datum: poslední den února 1477 = 28. 2. 1477 (Tobler). Tobler upozorňuje, že podle souvislosti by se zdálo, že se list týká burgrechtu, ale podle data biskup nabízí služby k urovnání nepokojů po pošetilém životě.",
+  "Kapitola v Hs. B (bernský rukopis) podle Toblera úplně chybí. Kotvu na stranu rukopisu (875) je proto třeba ověřit.",
+  "Majorie = biskupský hrad v Sionu; biskupem sionským byl tehdy Walter Supersaxo (obojí mimo Tobler). Valais nebyl konfederačním místem, ale spojencem, proto oslovení „puntgnossen“ (spojenci), kdežto „Eidgnossen“ jsou konfederáti.",
+  "Titulatura: „strengen“ (ctihodní rytíři) a „vesten“ (stateční, urození) jsou stavovské přívlastky, přeloženy volně „urození, stateční“.",
+  "Oprava OCR: {nser/Ginser/(nsern/(ins → ünser/ünser/ünsern/üns, wer lieben → üwer lieben, ch → üch, dich bedücht → üch bedücht, miügent → mügent, zbytek „in ;“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

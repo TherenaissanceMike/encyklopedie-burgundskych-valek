@@ -1,0 +1,36 @@
+{
+ "cislo": 335,
+ "nadpis": "Das ein herzog von Meylant in siner eignen kilchen erstochen wart.",
+ "edice": "Tobler II, s. 123",
+ "rukopis_strana": 860,
+ "odstavce": [
+  {
+   "text": "335. Das ein herzog von Meylant in siner eignen kilchen erstochen wart.",
+   "preklad": "335. Jak byl vévoda milánský ubodán ve svém vlastním kostele."
+  },
+  {
+   "text": "Uf sant Steffans tag zü winechten im 77. iar wart herzog Galiatz zu Meylant in St. Franciscen kilchen doselbs zü Meylant erstochen und was das die ursach: Es warent zü Meylant fünf brüder von güten alten geslechten wol herkomen; derselben vordern und ouch si hatten etwas gütern langezit ingehebt und besessen, die wurden inen durch den herzogen von Meyland genomen und ander lüten geben. Des appellierten dieselben brüder für ünsern heiligen vatter, den babst und gewunnen semlich sachen zem dritten mal vor siner heilikeit mit recht.",
+   "preklad": "Na den svatého Štěpána o Vánocích roku 77 byl vévoda Galiatz v Miláně ubodán v kostele svatého Františka tamtéž v Miláně, a příčina byla tato: V Miláně bylo pět bratří dobrého původu ze starých rodů; jejich předkové i oni sami dlouhou dobu drželi a vlastnili jisté statky, které jim vévoda milánský vzal a dal jiným lidem. Proto se ti bratři odvolali k našemu svatému otci papeži a tu při před Jeho Svatostí po třetí vyhráli právem."
+  },
+  {
+   "text": "Daran wolt sich der herzog nit keren und tröwt inen darzü, si solten der sachen vor im nit me gedenken, er wolt si anders alle darumb henken. Das clagten die brüder iren fründen und andern iren güt gönnern und meinten darzü tün und den herzogen heimlichen umbbringen und hatten vil volkes an sich gehenkt und meinten, wann der herzog also umbkomen were, so wolten si dann fri sin und keinen herren me han. Und also do der herzog uf dem vorgenanten sant Steffans tag mit sinen dienern, als er gewonet hat, in die kilchen kam, do wart er von derselben brüdern einem erstochen und wart gar ein grosser uflouf in der kilchen und in der stat Meylant.",
+   "preklad": "Na to se vévoda nechtěl ohlížet a ještě jim vyhrožoval, aby se mu o té věci už nezmiňovali, jinak je za to všechny dá oběsit. To si bratři postěžovali svým přátelům a jiným svým příznivcům a rozhodli se zakročit a vévodu potajmu zabít; získali na svou stranu mnoho lidí a mysleli, že až vévoda takto zahyne, budou svobodní a nebudou už mít žádného pána. A když tedy vévoda na řečený den svatého Štěpána přišel se svými služebníky, jak měl ve zvyku, do kostela, ubodal ho jeden z těch bratří, a v kostele i ve městě Miláně nastal veliký rozruch."
+  },
+  {
+   "text": "Aber die, so denselben brüdern zü semlichen sachen ir stür und rat geben hatten, die torsten noch wolten sich des nit underwinden noch annemen, und wart derselb teter [?] gar eins herten tödes ertött und etlich siner brüdern und dero, so daran schuldig warent, ouch. Zwar der fromen lüten was me zü erbarmen, dann des herzogen, dann er inen gewalt und unrecht getan hat.",
+   "preklad": "Ale ti, kdo těm bratřím k takové věci dali svou pomoc a radu, se toho neodvážili ani nechtěli ujmout a zastat. Ten pachatel byl usmrcen velmi krutou smrtí, a také někteří z jeho bratří a z těch, kdo na tom měli vinu. Věru, těch zbožných lidí bylo víc líto než vévody, protože on jim učinil násilí a bezpráví."
+  },
+  {
+   "text": "In dem vorgenanten iare starp ouch herr Friderich, pfallenzgrafe bi Rine, der sich dann vor etlichen ziten mit denen von Bern und andern Eidgnossen ouch gar früntlich gehalten und sich aber nachmalen wider die Eidgnossen gar treffenlichen gesatzt und understanden hat, mit dem herzogen von Burgunnen daran zü sinde, der dann ir tötlicher viend was, als davor stat.",
+   "preklad": "V řečeném roce zemřel také pan Fridrich, falckrabě rýnský, který se kdysi k Bernským a ostatním konfederátům choval také velmi přátelsky, později se však proti konfederátům velmi rozhodně postavil a pokusil se jít s vévodou burgundským, jejich smrtelným nepřítelem, jak je psáno výše."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „derselb ®&eteter“ → „derselb teter“ [?] (pachatel; čtení podle smyslu); odstraněny značky poznámek. Odstavec o falckraběti Fridrichovi oddělen podle Toblera (varianta mu dává vlastní nadpis „Das herr Friderich, ein pfallenzgraf bi dem Rine ouch starp“). Úplnost zkontrolována (ř. 8787–8875), nic nechybí.",
+  "Datum: Tobler – vražda se stala 26. 12. 1476 (Schillingův „rok 77“ začíná Vánocemi). Galiatz = Galeazzo Maria Sforza (mimo Tobler). Mimo Tobler: vražda se ve skutečnosti stala v kostele sv. Štěpána (Santo Stefano), ne sv. Františka.",
+  "Tobler: o pěti bratřích dějiny nic nevědí. Ze spiknutí jsou známi Giovanni Andrea da Lampugnano, Girolamo Olgiati a Carlo Visconti; jeden z ozbrojenců, které vzali s sebou do kostela, se jmenoval Franzono z Benátek. Jako motiv uvádí i Bartholomäus von Welden „osvobození Lombardie od tyranie“. Lampugnano byl zabit mečem, ostatní rozčtvrceni.",
+  "Tobler: falckrabě Fridrich (I. Vítězný) zemřel 12. 12. 1476. Varianty: „der armen und fromen“; „Aber die inen hilf angesagt hatten“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

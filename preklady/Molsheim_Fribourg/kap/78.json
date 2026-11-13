@@ -1,0 +1,33 @@
+{
+ "cislo": 78,
+ "nadpis": "Als man ze Lyla lag, dozwüschent luffen frisch gesellen zwei starki schlos ab und gewunnen die und verbrönten sy und wart inen gross gut.",
+ "edice": "Büchi 1914, ř. 983–985 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  177
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 177."
+ ],
+ "odstavce": [
+  {
+   "text": "Als man ze Lyla lag, dozwüschent luffen frisch gesellen zwei starki schlos ab und gewunnen die und verbrönten sy und wart inen gross gut.",
+   "preklad": "78. Jak zatímco se leželo u L'Isle, smělí tovaryši vzali útokem dva silné hrady, dobyli je a vypálili a dostal se jim velký lup."
+  },
+  {
+   "text": "Item do zwüschent diewil man vor Grangi lag, warend ettlich frisch gesellen von Bern [und Friburg] und machten ein anslag, wie sy mit der hilf dero von Strasburg zwei starki schlos mit dem sturm gewünen. Das ein heis Nanlarasta, das ander Nan. Die lagen by enandren; die wurdent ze bulver verbrönt.",
+   "preklad": "Mezitím, zatímco se leželo před Granges, se někteří smělí tovaryši z Bernu [a Fribourgu] dohodli na plánu, jak by s pomocí Štrasburských dobyli útokem dva silné hrady. Jeden se jmenoval Nans-la-Roche, druhý Nans. Ležely blízko sebe a byly spáleny na prach."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Hrady „Nanlarasta“ a „Nan“ určuje Tobler (u Schillinga, kap. 177) jako Nans-la-Roche a Nans(-sous-Sainte-Anne).",
+  "Nadpis klade událost do doby ležení u L'Isle, text (stejně jako Schilling) do ležení u Granges.",
+  "Büchi (poznámka vytištěná u kap. 79): Tütsch 69 uvádí v této souvislosti ještě Villechevreux („Villetschefriel“) a Courchaton („Cortschettun“), majetek pana „Johan von Befermunt zu Say“ [?].",
+  "Oproti Schillingovi: Schilling mluví o knechtech Bernských a jiných konfederátů; Molsheim výslovně přidává Fribourgské.",
+  "Opravy OCR: „dozwiissent lüften frischs“ → „dozwüschent luffen frisch“, „stark!“ → „starki“, „verbrämten“ → „verbrönten“, „n> inen“ → „inen“, „worend“ → „warend“, „f und Friburg]“ → „[und Friburg]“, „bulver ,“ → „bulver“, číslo řádku a značka poznámky vypuštěny.",
+  "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

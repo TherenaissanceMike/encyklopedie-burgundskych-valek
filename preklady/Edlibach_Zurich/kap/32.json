@@ -1,0 +1,23 @@
+{
+ "cislo": 32,
+ "nadpis": "Von der tatt zu mümpelgartten.",
+ "edice": "Usteri 1847, ř. 8161 souboru edice",
+ "rukopis_strana": 314,
+ "odstavce": [
+  {
+   "text": "Von der tatt zu mümpelgartten.",
+   "preklad": "O činu u Montbéliardu."
+  },
+  {
+   "text": "Item demnach vnlang kamend ijᶜ brugunscher jn ein dorff nach gelegen bin mümpelgartten vnd vermeintend dz zu blündren, sömliches den von mümpelgartten kunt getan ward, daselbs sich bin Lxx tütscher ritter so darin zu lantwer lagend, die rittend hinuss vnd machtend also zwey huffen also reitt der ein huff zu den brugunschen vnd vmzüchte sy mit reitzen, biss sy die brugunschen brachtend an dz ortt, da sy jnnen am allerfüglichesten warend vnd jren forttel wustend, da wanttend sich die fordren gegen brugunschen vnd bliessend jn jr trumet von stunden an greiff sy der ander zug der den jn der halt stil lag by sitiz ouch an, vnd brachtend also die brugunschen zu flucht vnd joucktend sy zum merteill übren felsen ab dz sy zu tod fiellend, vnd erstachen jren vill, also blibend jren tod ob ijᶜ vff der waltstatt demnach zugend die tütschen wider hein dz jrem keinem nütz beschach, vnd ist selten viij tag uerloffen sy habend der sachen glich getan.",
+   "preklad": "Nedlouho potom přišlo asi dvě stě Burgunďanů do jedné vsi poblíž Montbéliardu a chtěli ji vyplenit. Když se to dozvěděli v Montbéliardu, kde leželo asi sedmdesát německých jezdců na ochranu země, vyjeli ven a rozdělili se na dva houfy. Jeden houf jel k Burgunďanům a dráždivými výpady je vodil kolem, až je přivedl na místo, které bylo pro ně samé nejpříhodnější a kde znali svou výhodu. Tu se přední obrátili proti Burgunďanům a zatroubili na trubku, a hned nato na ně udeřil i druhý oddíl, který tiše stál stranou v záloze. Tak obrátili Burgunďany na útěk, většinu jich zahnali přes skály dolů, takže se k smrti zřítili, a mnoho jich pobili. Mrtvých jich zůstalo na bojišti přes dvě stě [?]. Potom se Němci vrátili domů a nikomu z nich se nic nestalo. A sotva kdy uplynulo osm dní, aby neprovedli něco podobného."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „volang“ → „vnlang“ (nedlouho), „ij.“ → „ijᶜ“ (asi 200), „lülscher“ → „tütscher“ (němečtí), „junen am allerfücklichesten“ → „jnnen am allerfüglichesten“, „ad“ → „da“, „ob ij‘“ → „ob ijᶜ“, „keim“ → „keinem“.",
+  "[?] Počty: přes 200 mrtvých při asi 200 Burgunďanech je podezřelé; horní indexy číslovek jsou v OCR poškozené, ověřit v edici.",
+  "„ritter“ zde = jezdci (počet a pohyb jízdy), „zu lantwer“ = jako zemská obrana, posádka. „by sitz“ přeloženo „stranou“ [?]."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,41 @@
+{
+ "cislo": 163,
+ "nadpis": "Wie der herzog von Burgun ze Losen uffbrach und für Murten zoch.",
+ "edice": "Büchi 1914, ř. 2046–2058 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  290,
+  291
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 290, 291."
+ ],
+ "odstavce": [
+  {
+   "text": "163. Wie der herzog von Burgun ze Losen uffbrach und für Murten zoch.",
+   "preklad": "163. Jak vévoda burgundský vytáhl od Lausanne a táhl před Murten."
+  },
+  {
+   "text": "[Und also e das die fromen gesellen von Fivis wider heim waren komen, vernam der herzog, wie sy mit Fivis umb waren gegangen, die statt gewinnen, verbrönt und sackman gemachet und die in der statt erstochen und erschlagen.] Do brach er uff am Samstag vor der Dryfaltigkeit tag des vorgenanten jares und zoch von Losen gan Murten zü mit grosser macht und unsäglichem volk und mit grossem züg, mit buchsen und andrem züg, und ruckt sin vorhüt ein teil biss gan Wiblispurg und beleib er ze Betterlingen. Das vernam der houptman ze Murten, [herr Adryan von Bubenberg] und nam zu im sechs hundert güter gesellen und zugen der vorhüt entgegen und jagten sy wider hinder sich bis gen Wiblispurg. Und fiengen desselben males einen edlen man und einen knecht. Die fürten sy mit inen gan Murten, inn ze erfragen, des herzogen gelegenheit ze sagen. Sy brachtent ouch mit inen holz und höw und ander ding, des sy notturftig warend. Und beschach inen kein leid, denn einer wart durch einen arm geschossen. Sy waren ouch vorhin me denn einmal uff der vygenden land gezogen und datten inen schaden.",
+   "preklad": "Ještě než se ti stateční tovaryši od Vevey vrátili domů, dozvěděl se vévoda, jak s Vevey naložili: že město dobyli, vypálili a vyplenili a ty, kdo v něm byli, probodli a pobili. Tu vytáhl v sobotu před svátkem Nejsvětější Trojice výše řečeného roku a táhl od Lausanne k Murtenu s velkou mocí, s nevýslovným množstvím lidu a s velkou výzbrojí, s děly a jiným válečným vybavením. Jeho předvoj postoupil zčásti až k Avenches, on sám zůstal v Payerne. To zjistil hejtman v Murtenu, pan Adrian von Bubenberg, vzal s sebou šest set dobrých tovaryšů, vytáhli proti předvoji a zahnali ho zpátky až k Avenches. Při tom zajali jednoho šlechtice a jednoho knechta a odvedli je s sebou do Murtenu, aby je vyslechli a ti jim pověděli, jak to s vévodou stojí. Přinesli si také dříví, seno a jiné věci, kterých měli zapotřebí. Nic zlého se jim nestalo, jen jeden byl prostřelen paží. Už předtím také víc než jednou vytáhli na nepřátelské území a působili tam škody."
+  },
+  {
+   "text": "Also morndes an dem Sunentag der helgen Dryfaltigkeit tag wart Murten von dem herzogen von Burgün belegen mit grosser macht und gewalt. Die liess der houptman ze Murten usser der statt loufen by zwein hundert frischer gesellen, die scharmütztent mit den Bürgüneren und erstachen und verwundeten der Bürgüneren [ob hundert] und beschach inen nie kein leid.",
+   "preklad": "Nazítří, v neděli o svátku Nejsvětější Trojice, oblehl vévoda burgundský Murten s velkou mocí a silou. Hejtman v Murtenu nechal z města vyběhnout asi dvě stě čilých tovaryšů. Ti se s Burgunďany potýkali, přes sto Burgunďanů probodli a zranili a nic zlého se jim nestalo."
+  },
+  {
+   "text": "Und mornedes an dem Mentag wart Murten ganz umbleit mit grossem unsäglichem volk in massen, das nieman zü inen, noch von inen mochte komen, denn allein uf dem see; den hatten die in Murten noch innen.",
+   "preklad": "A nazítří, v pondělí, byl Murten docela obstoupen velkým, nevýslovným množstvím lidu, takže se k nim nikdo nemohl dostat ani od nich odejít, leda po jezeře; to měli Murtenští ještě ve svých rukou."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR: z textu vyřazen omylem vložený konec Büchiho poznámky ke kap. 162 („Jaman mit dem Zuge der Berner nach Vevey vermengt … Freiburger Akten 73–74“); fronten → fromen, iirnb → umb, körnen → komen, beleih → beleib, gelegens heit → gelegenheit, sy notturftig, allenigufdem → allein uf dem; odstraněna čísla řádků (10, zo) a značky poznámek. Odstavce rozděleny podle edice.",
+  "Data: sobota před Trojicí = 8. 6. 1476, neděle Trojice = 9. 6. 1476, pondělí = 10. 6. 1476.",
+  "Büchi: Datum 8. 6. je nepřesné. Hrabě z Romontu vyrazil s předvojem 8–9000 mužů už 25. 5. k Estavayer a odtud znepokojoval posádky v Insu, Erlachu a Neuchâtelu. Vévoda se 4. 6. přesunul z Morrens k Beaubay, 6. 6. k Biolay u Yverdonu, vojsko k Thierrens západně od Moudonu, 7. 6. stálo u Montet mezi Estavayer a Payerne a 9. 6. před Murtenem. Payerne bylo při příchodu Burgunďanů vyklizeno.",
+  "Büchi: Bubenbergův výpad byl 8. 6.; o podobném střetnutí podává Bern zprávu už 5. 6. Podle norimberských letopisů měl vévoda před Murtenem víc lidu než před Neussem a Grandsonem. Lidé z Insu byli po válce odměněni, protože obleženým dobře posloužili svými loděmi.",
+  "Oproti Schillingovi (kap. 290–291): úvodní věta o tom, že se vévoda dozvěděl o vypálení Vevey, je Molsheimův přídavek; hejtman je jmenován (Adrian von Bubenberg); výpadníci přinesli kromě dříví i seno; při nedělním výpadu probodli a zranili „přes sto“ nepřátel, kdežto Schilling (i rukopisy B, E, St) má „přes padesát“. V rukopise A stálo původně „liessent die houptlüte“ (více hejtmanů, z Bernu a Fribourgu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

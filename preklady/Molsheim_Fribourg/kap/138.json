@@ -1,0 +1,33 @@
+{
+ "cislo": 138,
+ "nadpis": "Der erste sturm, so der herzog von Burgün dett an die statt Granssen und die Unsren dem sturm manlich widerstunden.",
+ "edice": "Büchi 1914, ř. 1648–1656 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  250
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 250."
+ ],
+ "odstavce": [
+  {
+   "text": "Der erste sturm, so der herzog von Burgün dett an die statt Granssen und die Unsren dem sturm manlich widerstunden.",
+   "preklad": "138. První útok, který vévoda burgundský podnikl na město Grandson, a jak naši útoku mužně odolali."
+  },
+  {
+   "text": "An einem Samstag vor Sant Mathistag, des helgen zwölfbotten, in dem 76. jar ving der herzog von Burgun mit grosser macht ein sturm an an das stettli Gransson. Also wartent sich die fromen gesellen so ritterlich und so manlich, das sy das stettlin behüben, und dem herzogen von Burgün den sturm vorbehielten. Und wart der vigenden an dem sturm, als man nachher vernam, ob 250 erschlagen. Und zugen also mit schand und schaden ab.",
+   "preklad": "V sobotu před svátkem svatého Matěje, svatého apoštola, v [14]76. roce začal vévoda burgundský s velkou mocí útok na městečko Grandson. Stateční druhové se však bránili tak rytířsky a mužně, že městečko udrželi a útok vévody burgundského odrazili. Nepřátel bylo při útoku, jak se potom zjistilo, pobito přes 250. A tak odtáhli s hanbou a škodou."
+  }
+ ],
+ "poznamky_editora": [
+  "*) Hauptmann der Freiburger in Yverdon war seit 21. Nov. 1475 bis 13. Februar 1476 Heinz Wicht, vgl. Büchi, Freiburger Akten 76. 109. Er scheint dann von Heinz Laris abgelöst worden zu sein, jedenfalls vor dem 20. Feb. 1476. Ebenda 74*. Derselbe, Freiburger, Missiven Nr. 74, 84. *) Vgl. Luzerner Missiven Nr. 3, Schreiben Panigarolas vom 23. Februar bei llingins I, Nr. 105. Entreprises 275. — 3 ) Vgl. das Schreiben Berns vom 15. Februar bei Büchi, Freiburger Missiven Nr. 76. Am 9. Februar wird dem Freiburger Rate von den Söldnern zu Yferdon die Neuigkeit gemeldet, dass der Herzog von Burgund in Salins angelangt sei una es seien dort 700 Lamparter zu ihm gestossen, vgl. Büchi, Freiburger Akten 31. — 4 ) Vgl. Fries 4\"6 ff-, der hier ' besonders ausführlich und gut unterrichtet ist. Am 18. Februar war das Heer vor Grandson eingetroffen, vgl, Bernoulli II, 8. Am 19. begann die Belagerung, vgl. Schreiben Panigarolas vom 23. Feb. bei Gingins I, Nr. 105. — s ) 24. Februar. Der erste Sturm war schon Sonntag, 18. Februar, vgl. Luzerner Missiven Nr. 7. Daher ist hier der Datierung Schillings, Sonntag vor Mathias, der Vorzug zu geben."
+ ],
+ "poznamky": [
+  "Text: OCR opraveno beigen → helgen, zwülfbotten → zwölfbotten, Biirgün → Burgün; odstraněno číslo řádku „r>“.",
+  "Büchi: svátek sv. Matěje = 24. 2. (Molsheimova sobota před ním by byla 17. 2.). První útok byl podle luzernských listů už v neděli 18. 2., proto dává Büchi přednost Schillingově dataci „v neděli před sv. Matějem“ (tak i varianta Sch.).",
+  "Varianty: S má „přes tři sta“ padlých, Sch „velmi mnoho“.",
+  "Oproti Schillingovi (C. 250): sobota místo neděle; Molsheim uvádí konkrétní počet padlých nepřátel (přes 250), Schilling jen „velmi mnoho“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

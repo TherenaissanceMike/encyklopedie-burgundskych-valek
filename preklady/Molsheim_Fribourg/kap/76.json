@@ -1,0 +1,24 @@
+{
+ "cislo": 76,
+ "nadpis": "Wie das schlos und statt Grangi an sturm gewunnen und uffgenomen wart.",
+ "edice": "Büchi 1914, ř. 970–972 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  175
+ ],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Wie das schlos und statt Grangi an sturm gewunnen und uffgenomen wart.",
+   "preklad": "76. Jak byl hrad a město Granges dobyt útokem a obsazen."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 175“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 175).",
+  "Büchi (poznámka vytištěná u kap. 77): srov. Anonymní kroniku 515 a Tütsche 70, který jako majetek Jindřicha z Neuchâtelu zmiňuje také Pont-de-Roide („Ponterayd“) a „Clemont“ [?], dále Bernoulli I, 36.",
+  "Oprava textu: z nadpisu odstraněno „2 ) Vgl Schilling 0. 175.“ (a doplněno pole schilling), „uffge- nomen“ → „uffgenomen“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

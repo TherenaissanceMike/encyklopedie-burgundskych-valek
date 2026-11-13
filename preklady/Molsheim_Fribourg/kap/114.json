@@ -1,0 +1,33 @@
+{
+ "cislo": 114,
+ "nadpis": "Wie nu bede stett Bern und Friburg von Murten gen Betterlingen zugen und das ouch zu iren beden stetten handen innamen.",
+ "edice": "Büchi 1914, ř. 1222–1227 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  209,
+  210
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 209—210 etwas verkürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie nu bede stett Bern und Friburg von Murten gen Betterlingen zugen und das ouch zu iren beden stetten handen innamen.",
+   "preklad": "114. Jak nyní obě města Bern a Fribourg táhla od Murtenu k Payerne a zabrala je také do rukou obou svých měst."
+  },
+  {
+   "text": "Do sich nu die von Murten also ergaben und beden stetten schwüren, zoch man mornendes am Sunentag gan Betterlingen in meinung, das ouch ze erobren und mit dem Schwert inzenemen. Also kamen die erbren lütt von der statt, geistlich und weltlich denen von Bern und Friburg engegen und ergaben sich ouch in allen den rechten, so denn der graff von Remunt an inen gehept hatt und schwüren ouch beden stetten. Also zoch das volk alles gan Betterlingen und beliben den Sunentag und Mentag da. Denn win und brott genüg da was: das bezalte man ouch und nam man nieman nützt. Es was ouch der von Bern volk noch nit alles by enandren; dero beitet man ouch da, das man zesamen keme und dester sicherlicher und sterker ziechen mochte. Und diewil, so man ze Betterlingen lag, do gewan man ouch dazwüschent ettlich stett und schlos, nämlich Montenach, Guderlin und andern mit dem schwert. Und ander ettlich ergaben sich ouch und schwüren beden stetten.",
+   "preklad": "Když se tedy Murtenští takto vzdali a oběma městům přísahali, táhlo se nazítří v neděli k Payerne s úmyslem i to dobýt a mečem zabrat. Tu vyšli ctihodní lidé z města, duchovní i světští, Bernským a Fribourgským vstříc a vzdali se také se všemi právy, která k nim měl hrabě z Romontu, a přísahali rovněž oběma městům. Celé vojsko pak táhlo do Payerne a zůstalo tam neděli i pondělí, neboť tam bylo dost vína a chleba; to se také zaplatilo a nikomu se nic nebralo. Bernský lid také ještě nebyl celý pohromadě; i na něj se tam čekalo, aby se mohlo táhnout pohromadě, tím bezpečněji a silněji. A zatímco se leželo v Payerne, dobylo se mezitím mečem také několik měst a hradů, totiž Montagny, Cudrefin a jiné. A jiné se také vzdaly a přísahaly oběma městům."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: na konec odstavce byly strojově připojeny Büchiho poznámky pod čarou; odstraněny (obsah níže). Opravy OCR: aiso → also, zocli → zoch, ßetterlingen → Betterlingen, weitio lieh → weltlich, Itemunt → Remunt, keine → keme, sehlos → schlos, dein → dem. Montenach = Montagny, Guderlin = Cudrefin.",
+  "Datum: neděle 15. 10. 1475 (Büchi: dobytí Payerne 15. října).",
+  "Büchi: fribourgská rada doporučovala svým lidem v poli šetřit venkovany. Payerne pak dostalo posádku ze Schwarzenburgu. Montagny bylo dobyto 16. 10., Cudrefin 15./16. 10., dále Surpierre, Moudon, Romont a Yverdon; kastelánem v Montagny byl jmenován Jean Mestral.",
+  "Varianty: rukopis A připisuje na okraji, že z Fribourgu byli [do Payerne] posláni Tschan Godgon a Hensli Vogelli a z Bernu pět [mužů]; rukopis C dodává, že Payernským nikdo neublížil na těle ani statku.",
+  "Oproti Schillingovi (kap. 209–210): Molsheim obě kapitoly zkrátil a sloučil (Büchi: „etwas verkürzt“); věcně se shoduje, chybí jen Schillingova zmínka o poradě, kam táhnout dál."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

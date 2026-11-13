@@ -1,0 +1,29 @@
+{
+ "cislo": 95,
+ "nadpis": "Das herzog Sigmund von Oesterich dis sachen ouch wart betrachten und zü herzen nemen.",
+ "edice": "Tobler I, s. 130",
+ "rukopis_strana": 205,
+ "odstavce": [
+  {
+   "text": "95. Das herzog Sigmund von Oesterich dis sachen ouch wart betrachten und zü herzen nemen.",
+   "preklad": "95. Jak vévoda Zikmund Rakouský začal tyto věci také uvažovat a brát si je k srdci."
+  },
+  {
+   "text": "Und als nü der genant fürst von Oesterich dis alles geriet erschowen und innen werden, das alles das, so im der herzog von Burgunnen zügeseit und verschriben hat unwarhaft was, und das ouch er die armen lute als herticlichen beswerte, und alles sin gemüte und fürnemen wider die ere Tütscher landen diente und sunderlich, das die Eidgnossen umb ir beider tröwen nit vil gabent, wann das si sich alle tage zür gegenwere als manlich und trostlich rustent, und er besorgte, wo im das spil mit dem Burgunschen herzogen velen, das dann sin armen lüt und lande nacher das bad allein ustragen wurden, da wart er als ein fromer fürste zü miltikeit bewegt und geriet in solich übergebunge und sin armen lüte gerüwen, und wart da erst bedenken, was gemeinen Tutschen landen, die doch an der küre des heiligen riches und andern wirden das hus Oesterich und sin fürsten iewelten vor andern geeret hatten, schadens und inbruchs an disem übergeben und fürnemen gelegen sin, und das er dis on rucken und hilf der Eidgnosschaft ie nit widerbringen möchte und begonde da betrachten, nit nützers noch bessers sin, dann das er mit den Eidgnossen und si mit im in friden und richtunge kement. So was ouch dis den Eidgnossen ouch wol zü willen, diewile si doch in allen vergangnen kriegen und sachen nie anders, dann fridens, eren und rechts begertent.",
+   "preklad": "A když řečený rakouský kníže začal toto vše prohlížet a poznávat, že vše, co mu burgundský vévoda slíbil a písemně zavázal, bylo nepravdivé, že také tak tvrdě utiskoval chudé lidi, že celá jeho mysl a záměr směřovaly proti cti německých zemí, a zvláště že konfederáti si z výhrůžek obou mnoho nedělali, nýbrž se den co den tak mužně a s důvěrou chystali k obraně; a když se obával, že kdyby mu ta hra s burgundským vévodou nevyšla, odnesli by to potom jen jeho chudí lidé a země – tu byl jako zbožný kníže pohnut k mírnosti a začal litovat toho zastavení i svých chudých lidí. A teprve tehdy začal uvažovat, jakou škodu a újmu na tomto zastavení a počínání mají všechny německé země, které přece při volbě Svaté říše a v jiných hodnostech odedávna ctily rakouský dům a jeho knížata před jinými; a že to bez opory a pomoci Spříseženstva nikdy nemůže napravit. A začal uvažovat, že nic není užitečnější a lepší, než aby on s konfederáty a oni s ním přišli k míru a smíru. A to bylo i konfederátům dobře po vůli, neboť ve všech minulých válkách a věcech nikdy nežádali nic jiného než mír, čest a právo."
+  },
+  {
+   "text": "Dis was ein ordenlich mittel on allen zwivel des heiligen geistes; dann wo dis streng und ungerecht fürnemen des herzogen von Burgunnen und sins lantvogts zwüschen disen beiden partien, die doch bi zweihundert iaren alwegen in tödlichen kriegen mit einandern gewesen warent, und darumb dann zü beiden siten so menig müter kind ertöt worden was, nit ingevallen, so were wol müglich gewesen, das sölich ewig richtunge niemermer beschechen were.",
+   "preklad": "Toto byl bezpochyby řádný prostředek Ducha svatého. Neboť kdyby toto tvrdé a nespravedlivé počínání burgundského vévody a jeho landvogta nebylo přišlo mezi tyto dvě strany, které spolu přece téměř dvě stě let vedly ustavičně smrtelné války a na obou stranách kvůli tomu bylo zabito tolik matčiných dětí, bylo by dobře možné, že by taková věčná smlouva nikdy nebyla uzavřena."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu (OCR): „ge- : riet“ → „geriet“, odstraněno zbloudilé „St“ (číslo řádku) v „das St hus Oesterich“. Odstavec podle edice začíná až „Dis was ein ordenlich…“ (krátký řádek „…rechts begertent.“), ne u „So was ouch“.",
+  "Tobler: o předhistorii věčné smlouvy zná Schilling v kap. 91 a 95 jen obecnosti; neví, že se o ní jednalo už na sněmu 26. 1. 1472 a že 12. 8. 1472 byl hotový návrh (Eidg. Abschiede II, 429, 435; Witte, ZGORh. NF VI).",
+  "„wart betrachten“, „geriet erschowen“ = začal uvažovat, začal prohlížet. „übergebunge“ = zde zastavení (předání) zemí Karlovi. „küre“ = volba (glosář), „inbruch“ = škoda (glosář), „invallen“ = přihodit se (glosář). „das bad ustragen“ = nést následky (rčení, viz kap. 91).",
+  "Bernská varianta nadpisu: „…Sigmunden dis sachen ouch wurden innerlichen zü herzen gan“ (že mu tyto věci šly hluboko k srdci). Dále „das alles, so“, „hartiklichen“, „dem herzogen von Burgunn“.",
+  "Téměř 200 let válek: od bitvy u Morgartenu 1315 (mimo Tobler, výklad)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

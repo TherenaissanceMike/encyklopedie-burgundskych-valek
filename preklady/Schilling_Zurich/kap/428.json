@@ -1,0 +1,28 @@
+{
+ "cislo": 428,
+ "nadpis": "Wann und zü welchen ziten der vorgerürt babst Sixtus starp.",
+ "edice": "Tobler II, s. 300",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "428. Wann und zü welchen ziten der vorgerürt babst Sixtus starp.",
+   "preklad": "428. Kdy a v kterém čase zemřel výše zmíněný papež Sixtus."
+  },
+  {
+   "text": "Do man zalt von gottes gebürt 1484 iar an dem 12. tage des monats ougsten ist der vorgerürt ünser heiliger vatter der babst, genant Sixtus der vierde, seliclichen von dirre welt verscheiden, der dann denen von Bern mit Romfärten und anderm, als hievor stat, vil güts und gnaden erzöugt hat.",
+   "preklad": "Když se psalo od Božího narození 1484 let, dvanáctého dne měsíce srpna zesnul blaženě z tohoto světa výše zmíněný náš svatý otec papež, zvaný Sixtus Čtvrtý, který Bernským prokázal mnoho dobrého a mnoho milostí římskými poutěmi a jiným, jak výše stojí."
+  },
+  {
+   "text": "Darnach in demselben iare an dem 12. tage des monats septembris ist einhelliclich zü babst erwelt Johannes Baptista mit dem namen, der ein cardinal Melfeten gewesen und von Januan bürtig ist. Der ist genant worden Innocencius der achtend. Derselb hat sich ouch glich nach siner erwelung der stat von Bern gar gnediclichen erbotten und inen ouch vil gnaden getan, als man harnach bas wirt vernemen.",
+   "preklad": "Potom téhož roku, dvanáctého dne měsíce září, byl jednomyslně zvolen papežem muž jménem Jan Křtitel, který byl kardinálem z Molfetty a rodem z Janova. Ten dostal jméno Innocenc Osmý. Hned po svém zvolení se městu Bernu velmi milostivě nabídl a prokázal mu také mnoho milostí, jak se dále uslyší podrobněji."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Sixtus IV. zemřel 12. 8. 1484 (Anshelm I, 243). Kardinál Giovanni Battista Cibo z Janova byl zvolen 29. 8. 1484 a vysvěcen 12. 9.; v Bernu měli zprávu o novém papeži 10. 9. Schillingova nepřesnost vznikla patrně záměnou dne volby a svěcení; i papežský list oznamující volbu je datován 12. 9.",
+  "„cardinal Melfeten“ = kardinál z Molfetty (Cibo byl předtím biskupem v Molfettě; určení mimo Tobler). „Januan“ = Janov.",
+  "„vil gnaden … als man harnach bas wirt vernemen“: Tobler – bulou z 16. 11. 1484 povolil Innocenc VIII. podle přání bernské rady zřízení kapituly kanovníků (Chorherrenstift) v Bernu. Slibované pozdější vyprávění už v kronice není, protože text končí kap. 429.",
+  "Oprava textu: konec kapitoly („der stat von Bern gar gnediclichen erbotten und inen ouch vil gnaden getan, als man harnach bas wirt vernemen.“) ve vyčištěném textu chyběl, místo něj byla vlepena Toblerova latinská citace papežské buly o ražbě zlatých (patří k poznámce kap. 427). Doplněno podle surového OCR (ř. 20748–20749). „ıar“ → „iar“, odstraněny značky poznámek; dělení na dva odstavce podle edice."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,32 @@
+{
+ "cislo": 142,
+ "nadpis": "Des marggrafen von Brandenburg absagung dem herzogen von Burgunnen.",
+ "edice": "Tobler I, s. 202",
+ "rukopis_strana": 312,
+ "odstavce": [
+  {
+   "text": "142. Des marggrafen von Brandenburg absagung dem herzogen von Burgunnen.",
+   "preklad": "142. Odpovědní list markraběte braniborského vévodovi burgundskému."
+  },
+  {
+   "text": "Wir Albrecht, marggraf von Brandenburg und kürfürste, lassen üch, den hochgebornen fürsten Karolen, herzogen zü Burgunnen wissen, das der allerdurlüchtigest, grosmechtigest und unüberwintlichest fürst und herr, herr Friderich, Römscher keiser, zü allen ziten merer des richs, zü Hungren, Dalmacien, Croacien etc. küng, herzog zü Oesterich, zü Stir, etc. ünser allergnedigester herr, üns schriftlich und muntlich ervordret hat und gebotten bi den pflichten sinen gnaden verwant, im hilf und bistand ze tünde wider üch, ouch üwer helfer und bileger.",
+   "preklad": "My, Albrecht, markrabě braniborský a kurfiřt, dáváme vám, vysoce urozenému knížeti Karlovi, vévodovi burgundskému, na vědomí, že nejjasnější, nejmocnější a nepřemožitelný kníže a pán, pan Fridrich, římský císař, po všechny časy rozmnožitel říše, král uherský, dalmatský, chorvatský atd., vévoda rakouský, štýrský atd., náš nejmilostivější pán, nás písemně i ústně vyzval a pod povinnostmi, jimiž jsme jeho milosti zavázáni, nám přikázal, abychom mu poskytli pomoc a podporu proti vám a také proti vašim pomocníkům a spojencům."
+  },
+  {
+   "text": "Und nachdem wir ein kürfürste des heiligen richs und ouch demselben verwant sind, zimpt üns nit sinen gnaden des zü widern, sunder als ein glid des heiligen richs neben sinen gnaden zü halten. Und harumb haben wir üns mit etlichen den ünsern sinen keiserlichen gnaden und dem heiligen riche persönlich zü hilf erhaben und zü sinen gnaden gefügt, üwerm fürnemen widerstant und gegenwer helfen zü tün; und ob ir, die üweren und üwer bileger des schaden nemen, solichs schadens viend wellent wir sin und des ünser kürfürstlich ere hiemit bewart haben für üns und die ünsern, ünser helfer und bileger und ziechen üns des in ünsers gnedigesten herren, des Römschen keisers friden und unfriden.",
+   "preklad": "A protože jsme kurfiřtem Svaté říše a jsme jí zavázáni, nesluší se nám jeho milosti v tom odporovat, nýbrž jako úd Svaté říše stát při jeho milosti. Proto jsme se s některými ze svých lidí osobně vydali na pomoc jeho císařské milosti a Svaté říši a připojili se k jeho milosti, abychom pomohli postavit se vašemu podniku na odpor a bránit se. A utrpíte-li vy, vaši a vaši spojenci tím škodu, chceme být v té škodě vašimi nepřáteli a tímto máme svou kurfiřtskou čest ohrazenou za sebe i za své, za své pomocníky a spojence; a v tom se řídíme mírem i nemírem našeho nejmilostivějšího pána, římského císaře."
+  },
+  {
+   "text": "Versigelt mit ünserm insigel, datum ut supra etc.",
+   "preklad": "Zpečetěno naší pečetí, dáno jako výše atd."
+  }
+ ],
+ "poznamky": [
+  "Struktura: kap. 142 (odpovědní list Albrechta Achilla Braniborského) byla původně ve stejném souboru jako kap. 141, protože kap. 142 chybí v kapitoly.json (rozsah kap. 141 končí až před kap. 143). Kap. 142 je zde očištěna a přeložena od odstavce „142. Des marggrafen…“; nyní je v samostatném souboru. Poznámky p1–p2 se týkají i kap. 141.",
+  "Datum: sobota po svátku sv. Tří králů (6. 1.) = 7. 1. 1475, Andernach (Tobler; OCR „17. Jan.“ je slité „1) 7. Jan.“). Kap. 142 je datována „ut supra“, tj. stejně. Roky vlády sedí: římským králem od 1440 (35.), císařem od 1452 (23.), uherským králem od 1459 (17.); bernská varianta má chybně „keiserthüms im 25.“.",
+  "Oprava textu: „ete.“ → „etc.“, „von ns“ → „von üns“, „‘des“ → „des“, „züu“ → „zü“, „Unser“ → „ünser“, „uns/unser“ → „üns/ünser“, odstraněn koncový „142.“ a pomlčka v nadpisu; v kap. 142 „uch“ → „üch“, „unuüberwintlichest“ → „unüberwintlichest“, „üinsern“ → „ünsern“, „gnedisesten“ → „gnedigesten“. Nadpis kap. 142 oddělen jako samostatný odstavec.",
+  "Kap. 142: „ziechen üns des in … friden und unfriden“ = naše válka a mír se řídí císařovými, tj. markrabě se vzdá i uzavře mír spolu s císařem."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

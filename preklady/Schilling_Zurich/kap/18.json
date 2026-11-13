@@ -1,0 +1,23 @@
+{
+ "cislo": 18,
+ "nadpis": "Das Hirzstein, das stark slos, von denen von Bern und Solotern gewunnen und ouch ganz verbrant wart.",
+ "edice": "Tobler I, s. 25",
+ "rukopis_strana": 44,
+ "odstavce": [
+  {
+   "text": "18. Das Hirzstein, das stark slos, von denen von Bern und Solotern gewunnen und ouch ganz verbrant wart.",
+   "preklad": "18. Jak Bernští a Solothurnští dobyli silného zámku Hirzenstein a celý ho také vypálili."
+  },
+  {
+   "text": "Da man nü die vorstat Tann verbrant hat und dannen zoch, da wart einer von Hirzstein gevangen, der was gen Tann heimlich gangen, die gelegenheit zü erkennen, umb das si sich darnach ouch konden halten. Mit demselben gevangnen schickten die von Bern und Solotern zweihundert man, das si das slos ouch solten innemen, das ouch beschach, und gap inen semlich underwisung, das es bald gewunnen und verbrönt wart. Es war gar ein werlich slos und hoch gelegen und hette man von dem gevangnen nit underwisung und kuntschaft gehebt, so hett man es nit wol mögen gewinnen. Man gewan ouch daruf des abts von Mürbach paner, die was wiss und darin ein swarzer wind, die schankt man denen von Friburg von sunder lieb wegen, die fürtents ouch mit inen heim.",
+   "preklad": "Když bylo předměstí Thannu vypáleno a odtáhlo se odtamtud, byl zajat jeden muž z Hirzensteinu, který tajně šel do Thannu zjistit, jak se věci mají, aby se podle toho mohli na zámku zařídit. S tímto zajatcem poslali Bernští a Solothurnští dvě stě mužů, aby zámek také zabrali, což se i stalo; zajatec jim dal takové pokyny, že byl zámek brzy dobyt a vypálen. Byl to velmi dobře hájitelný a vysoko položený zámek, a kdyby nebylo pokynů a zpráv od zajatce, sotva by se ho podařilo dobýt. Na zámku také získali korouhev opata z Murbachu, která byla bílá a v ní černý chrt; tu darovali z obzvláštní lásky Fribourgským a ti si ji také odnesli domů."
+  }
+ ],
+ "poznamky": [
+  "Tobler: zajatec byl sluha Lutolda von Berenfels, fojta na Hirzensteinu (sz. od Wattwilleru). Lest podrobně popisuje Witte, podle něhož šlo o 300 Bernských a Solothurnských.",
+  "„wind“ = chrt (Toblerův glosář); černý chrt na bílém je erb opatství Murbach.",
+  "Opravy OCR: sı → si, „.die“ → „die“. Odstavce sloučeny/rozděleny podle edice (podle konců řádků v surovém OCR)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

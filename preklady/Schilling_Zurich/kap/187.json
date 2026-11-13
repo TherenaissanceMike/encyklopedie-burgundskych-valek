@@ -1,0 +1,30 @@
+{
+ "cislo": 187,
+ "nadpis": "Das der vorgenant herr Niclaus von Diespach in demselben zuge starp.",
+ "edice": "Tobler I, s. 258",
+ "rukopis_strana": 431,
+ "odstavce": [
+  {
+   "text": "187. Das der vorgenant herr Niclaus von Diespach in demselben zuge starp.",
+   "preklad": "187. Jak výše jmenovaný pan Niklaus von Diesbach na témž tažení zemřel."
+  },
+  {
+   "text": "Als man nü hievor gehört hat, wie herr Niclaus von Diespach, der türe ritter, als ein houptman mit den tusent gewopneter mannen usgezogen was, do wart er des ersten tages, als man gen Lila kam, von einem ros an einem bein gar übel gewüst, und zoch aber nit destminder mit dem volk gen Blomont und underwiset das in allen sachen gar mit güten truwen und hielt güt ordnunge; und wie krank er was, do süchtent dennocht alle houptlüt von Strasburg und andern enden rat zu im und wart im ouch in allen sinen räten und anslegen vast gevolget, dann er gar ein türer, wiser und ufsetziger ritter zu kriegen, und was ouch sin krangheit iederman leit.",
+   "preklad": "Jak už bylo řečeno, vytáhl pan Niklaus von Diesbach, vzácný rytíř, jako hejtman s tisícem ozbrojených mužů. Hned první den, kdy se přišlo k L'Isle, ho kůň velmi zle zranil na noze. Přesto táhl s vojskem k Blamontu, ve všem je velmi věrně vedl a udržoval dobrý pořádek. A ač byl nemocný, hledali u něho radu všichni hejtmani ze Štrasburku i odjinud a ve všech jeho radách a plánech se ho velmi drželi, neboť to byl velmi vzácný, moudrý a ve válce lstivý rytíř. Jeho nemoc také každého mrzela."
+  },
+  {
+   "text": "Und als man dann in dem lande allenthalben von der pestilenzien vast starp und ein grosser sterbot was, do slüg leider ungevel darzü, das in derselb geprest ouch ansties. Do er das befant, do lies er sich zu dem bischof von Basel gen Borrentrut füren und starp da am dritten tage; der almechtig got welle sich uber die sele erbarmen! Davon erschrack iederman im leger und sunderlich dero von Bern volk und schribent das ouch angendes gen Bern; do was es ouch iederman leit; und als man sin begrebde am morgen beging, do zoch man angendes nach der begrebt mit der paner us mit den drithalbtusent mannen, als vorstat.",
+   "preklad": "A protože se tehdy v celé zemi hodně umíralo na mor a byl velký mor, přidalo se k tomu bohužel neštěstí, že ho tatáž nemoc také zachvátila. Když to poznal, dal se odvézt k basilejskému biskupovi do Porrentruy a tam třetího dne zemřel. Všemohoucí Bůh se nad jeho duší smiluj! Všichni v táboře se toho zalekli, zvláště lid Bernských, a hned to napsali do Bernu; i tam to bylo každému líto. A když se ráno konal jeho pohřeb, vytáhlo se hned po pohřbu s korouhví a s dvěma a půl tisíci muži, jak bylo řečeno výše."
+  }
+ ],
+ "poznamky": [
+  "Bernská varianta nadpisu: „Das man den vorgenanten herr N. von D., den houptman gen Borrentrut fürt und an dem ende starp“ (Jak výše jmenovaného pana N. von D., hejtmana, odvezli do Porrentruy a jak tam zemřel). Tento řádek varianty byl v OCR vlepen doprostřed textu; odstraněn.",
+  "Tobler: Diesbachova smrt byla známa v Lausanne už 9. 8. 1475; náhrobní nápis udává jako den pohřbu 13. 8. Bern 10. 8. píše do Basileje, že žal nad smrtí „des fromen, türen ritters“ nelze vyjádřit písmem ani jinak; 1. 9. rakouskému vévodovi, že ho „nit verklagen mogen“ (nemohou dost oplakat). Na savojském dvoře naopak zavládla radost (Gingins).",
+  "Datum úmrtí 7. 8. 1475 uvádí moderní literatura (mimo Tobler).",
+  "„gewüst“ = zraněn; „ufsetzig“ = lstivý, vychytralý (Tobler, glosář), zde v kladném smyslu válečné chytrosti. Bernská varianta má místo toho „gar ein türer und vernünftiger man“ (velmi vzácný a rozumný muž).",
+  "Další bernské varianty: „Und als man“; „und erlicher ordnunge“; „pestelenz wegen“; „der von Bern lüte“; „begrebde us“; „mit der paner bis vorstat“ chybí.",
+  "Oprava textu: „houptlüut“ → „houptlüt“; dva odstavce spojeny přes vlepenou variantu."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

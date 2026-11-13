@@ -1,0 +1,25 @@
+{
+ "cislo": 81,
+ "nadpis": "Wie die von Strasburg die von Bern und Friburg und Solotern baten, fürer in Bürgün mit inen ze ziechen.",
+ "edice": "Büchi 1914, ř. 996–997 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  181
+ ],
+ "schilling_odkaz": [],
+ "odstavce": [
+  {
+   "text": "Wie die von Strasburg die von Bern und Friburg und Solotern baten, fürer in Bürgün mit inen ze ziechen.",
+   "preklad": "81. Jak Štrasburští prosili Bernské, Fribourgské a Solothurnské, aby s nimi táhli dál do Burgundska."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 181“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 181).",
+  "Büchi (poznámka uložená u kap. 83): srov. Bernoulli I, 37.",
+  "Oproti Schillingovi: Schillingův nadpis zní obecně „Jak se chtělo táhnout dále do Burgundska“; Molsheim jmenuje prosebníky a mezi oslovenými i Fribourg.",
+  "Oprava textu: z nadpisu odstraněno „1 ) 5 Vgl. Schilling C. 181.“ (a doplněno pole schilling), „filrer in BUrglln“ → „fürer in Bürgün“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

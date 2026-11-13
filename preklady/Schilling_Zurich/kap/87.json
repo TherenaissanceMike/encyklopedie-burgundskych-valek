@@ -1,0 +1,25 @@
+{
+ "cislo": 87,
+ "nadpis": "Das der von Hagenbach sich in keinen dingen gegen den Eidgnossen bessern wolt.",
+ "edice": "Tobler I, s. 129",
+ "rukopis_strana": 190,
+ "odstavce": [
+  {
+   "text": "87. Das der von Hagenbach sich in keinen dingen gegen den Eidgnossen bessern wolt.",
+   "preklad": "87. Jak se Hagenbach vůči konfederátům v ničem nechtěl polepšit."
+  },
+  {
+   "text": "Aber nach abscheiden des herzogen von Burgunnen was alwegen der vorgenante von Hagenbach mit etlichen sinen hetzhunden in wachsender beharrung sins mütwillens und fleis sich teglichen ze tünde alles, das den Eidgnossen und iren zügewanten zü schaden und unstatten komen möchte, wann er an der vorgeschribnen getat, als den Eidgnossen ir kouflute uf dem Rine gevangen und ein teil ertöt wurden, ouch ganz schuldig was, da er sich als unerberlich des von Höwdorf ungerechten sachen wider die Eidgnossen annam, durch des büberie und getat sich danne merenteils die krieg im Sunkow, im Elsas, vor Walzhüt und anderswo erhebt hattent, und das durch den von Hagenbach nit understanden wart, wann das die fromen lute von Strasburg, als davor luter stat, mit grossem costen, gezüge und lüten fur Schuttern und Hochen Gerolzecke zugent und do die biderben lüte erlosten, das doch ein gros trüwe und früntschaft was und man in künftigem niemermer vergessen sol. Wiewol denselben kouflüten ir abgenomen güt dazemal nit wider werden mochte, so wart inen das doch abgetragen, als man harnach hören wirt. Die von Lutzern hattent sich ouch von irs burgers Ludwig Seilers wegen, der dann der kouflüten ouch einer was, mit ir treffenlichen macht zü hilf denen von Strasburg zügerüstet, desglich ander Eidgnossen ouch; das wart alles durch schriben dero von Strasburg wendig, das iederman daheim bleip.",
+   "preklad": "Ale po odjezdu burgundského vévody setrvával výše jmenovaný Hagenbach se svými štváči („štvacími psy“) stále ve stupňující se svévoli a denně se snažil dělat vše, co by konfederátům a jejich spojencům mohlo přinést škodu a újmu. Byl totiž také zcela vinen výše popsaným činem, kdy konfederátům na Rýně zajali jejich kupce a část z nich zabili, neboť se tak nečestně ujal nespravedlivé věci Höwdorfera proti konfederátům; z jeho darebáctví a činů vznikly povětšinou války v Sundgau, v Alsasku, před Waldshutem a jinde. A Hagenbach proti tomu nic nepodnikl; jen stateční Štrasburští, jak se výše jasně píše, s velkými náklady, vojskem a lidmi táhli před Schuttern a Hohengeroldseck a ty poctivé lidi tam vysvobodili. To byla veliká věrnost a přátelství, na které se v budoucnu nikdy nemá zapomenout. Ačkoli se těm kupcům jejich odebrané zboží tehdy nemohlo vrátit, bylo jim to přece nahrazeno, jak se uslyší dále. Také Luzernští se kvůli svému měšťanovi Ludwigu Seilerovi, který byl rovněž jedním z těch kupců, se svou znamenitou mocí vypravili Štrasburským na pomoc, a stejně tak i jiní konfederáti; to vše bylo odvoláno dopisem Štrasburských, takže každý zůstal doma."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: odstraněny zbloudilé znaky („fleis . sich“, „ouch : . ganz“); dva odstavce sloučeny v jeden podle edice (zlom „Wiewol denselben“ je uprostřed řádku).",
+  "„von Höwdorf“ = Bilgeri von Heudorf (viz POZNAMKY.md); přepadení kupců na Rýně a výprava Štrasburských před Schuttern a Hohengeroldseck viz kap. 62–66 (Tobler).",
+  "Tobler: k náhradě škody kupcům („als man harnach hören wirt“) se Schilling později už nevrací.",
+  "„hetzhunden“ = štvací psi, nadávka na Hagenbachovy pomocníky. „wendig“ = odvolaný, zrušený (glosář), „unerberlich“ = nečestně (glosář), „understan“ zde = zabránit, zakročit.",
+  "Bernské varianty: „costen, müge und arbeite“ (s náklady, námahou a prací), „trüw und gros früntschaft“, „gewendet, als davor ouch stat“; slova „das iederman daheim bleip“ chybějí."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

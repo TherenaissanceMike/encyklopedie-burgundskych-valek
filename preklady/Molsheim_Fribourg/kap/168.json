@@ -1,0 +1,44 @@
+{
+ "cislo": 168,
+ "nadpis": "Wie der herzog von Burgun anvieng vor Murten ze graben und zwo houptbüchsen für die statt leit.",
+ "edice": "Büchi 1914, ř. 2115–2126 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  295
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling, C. 295 gekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Burgun anvieng vor Murten ze graben und zwo houptbüchsen für die statt leit.",
+   "preklad": "168. Jak vévoda burgundský začal před Murtenem kopat a postavil proti městu dvě velká obléhací děla (bombardy)."
+  },
+  {
+   "text": "Item, am zinstag, als der herzog sich für Murten gelegret hatt, vieng er an, zu der statt ze graben und leite die zwü gross houptbüchsen hie disenthalb der statt wider Bern zü. Darus sy vast schussen die muren nider uff demselben ort, und ward vast ein gros geschrei under den Bürgünren. Und tröwten denen in der statt all stunden ze henken. Sy schussen ouch mit bogen pfil hinin in die statt Murten mit papirin zedlen, daran geschriben stünd: ir puren gend die statt uff, ir mügen üch nit enthalten, denne all hamer möchtent nit geltes gnüg schmiden, das ir damit erlöst möchtent werden.",
+   "preklad": "Item, v úterý, když se vévoda položil před Murten, začal kopat směrem k městu a postavil ta dvě velká obléhací děla (bombardy) na této straně města, směrem k Bernu. Z nich velmi usilovně stříleli a bořili hradby na tom místě a mezi Burgunďany byl veliký křik. Těm ve městě každou hodinu vyhrožovali, že je pověsí. Stříleli také z luků do města Murtenu šípy s papírovými lístky, na nichž stálo napsáno: „Vy sedláci, vzdejte město, neudržíte se. Ani všechna kladiva by nenakovala dost peněz, abyste se jimi mohli vykoupit."
+  },
+  {
+   "text": "Wir komen bald in die statt und wend üch all an üwer gürtel henken.",
+   "preklad": "Brzy přijdeme do města a všechny vás pověsíme za vaše opasky [?].“"
+  },
+  {
+   "text": "Und an einem andren zedel stünd ouch geschriben: Ir puren, ir süllen bichten und üch in ein ander wesen richten. Ir mügen, als wir das wol wüssen, von den üwren kein entschütten haben und sy mügen üch von unsrem grossen gewalt nit erlösen. Darumb so gend üch uff. Semlicher tröwworten sy vil verbrachten und gedachten nit, das der almechtig noch lept und des kleinen heres waltet. Aber der houptmann und die fromen gesellen, die in Murten innen lagen, hielten sich so stille und schrüwen noch retten nützit, denn sy inen mit schiessen und scharmützen teglich abbrachen und grossen schaden zûfügten. Und lagen in den ussren bollwerken tag und nacht und hattend gross müg und arbeit, das sy sich möchten fristen und beheben vor einer semlichen grossen macht und gewalt. Sy trostent sich und wistend wol, das man sy wurde entschütten und nit verlassen.",
+   "preklad": "A na jiném lístku stálo také napsáno: „Vy sedláci, zpovídejte se a připravte se na jiný život. Od svých, jak dobře víme, se žádného vysvobození nedočkáte a z naší velké moci vás vysvobodit nemohou. Proto se vzdejte.“ Takových výhrůžek pronesli mnoho a nepomysleli, že Všemohoucí ještě žije a bdí nad malým houfem [?]. Ale hejtman a stateční druhové, kteří leželi uvnitř v Murtenu, se drželi velmi zticha, nekřičeli ani nic nemluvili, jen nepřátele denně oslabovali střelbou a potyčkami a působili jim velkou škodu. Dnem i nocí leželi ve vnějších bolverkách (předsunutých baštách) a měli velkou námahu a práci, aby se udrželi a ubránili tak velké moci a síle. Těšili se a dobře věděli, že je vysvobodí a neopustí."
+  }
+ ],
+ "poznamky_editora": [
+  "') Ygl. oben C. 49—52 (Hericourt), C. 71—87 (Blamort) C. 132—149 (Grandson), C. 166 (Brücke von Laupen). — ! ) Zu Laupen und Gümmenen an der Strasse von Murten nach Bern. — s ) Die gleiche Drohung erwähnt auch Brennwald II, 253."
+ ],
+ "poznamky": [
+  "Text: odstraněna čísla řádků, záhlaví strany „184 1476“, značky poznámek („a j“, „')“) a odkaz „Vgl. Schilling, C. 295 gekürzt“ z nadpisu (přesunut do pole schilling). OCR „liamer“ opraveno na „hamer“ (kladivo), „zü*“ na „zü.“.",
+  "Datum: úterý po příchodu vévody před Murten (přitáhl v neděli Svaté Trojice 9. 6. 1476), tedy nejspíš 11. 6. 1476.",
+  "„gürtel“ [?]: OCR má „gürtet“, nejspíš „gürtel“ (opasek); Schilling a varianta Sch. mají „üwer gurglen“ (hrdla), což dává lepší smysl („pověsíme vás za krk“).",
+  "„des kleinen heres waltet“ [?]: OCR „des Meinen heres“; čteno jako „kleinen“ (bdí nad malým houfem, tj. obránci). Možné je i „himelschen“ (vládne nebeskému zástupu), ale tvar OCR tomu odpovídá hůř.",
+  "Büchi: tutéž výhrůžku (oběšení) zmiňuje i Brennwald II, 253. Poznámky 1 a 2 v poli poznamky_editora patří ještě ke konci kap. 167 (Héricourt, Blamont, Grandson, most v Laupenu; Laupen a Gümmenen na cestě z Murtenu do Bernu).",
+  "Büchi (poznámka ke konci kapitoly, v souboru uložená u kap. 169): Fribourgští byli za obléhání přes zvědy přesně zpraveni o všem, co se dělo v burgundském vojsku; rada pak za služby odškodnila zvědy Nicoda Berginse, Henriho Berverschera, Hanse Schubacha a další.",
+  "Oproti Schillingovi: Molsheim kapitolu krátí. Vynechává zámek („město a zámek“ má jen varianta D), zmínku o hraběti z Romontu u bombard, úvahu o ukrutnících a o branách stále otevřených. Navíc má závěrečnou větu, že obránci věřili, že je nikdo neopustí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

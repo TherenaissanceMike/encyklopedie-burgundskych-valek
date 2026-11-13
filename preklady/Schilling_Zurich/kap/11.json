@@ -1,0 +1,34 @@
+{
+ "cislo": 11,
+ "nadpis": "Das die viend vor Mulhusen mit ganzer macht in den reben lagen und inen drig absagbrief von Bern, Solotern und Friburg durch derselben stetten botten offenlichen geantwurt wurden.",
+ "edice": "Tobler I, s. 17",
+ "rukopis_strana": 29,
+ "odstavce": [
+  {
+   "text": "11. Das die viend vor Mulhusen mit ganzer macht in den reben lagen und inen drig absagbrief von Bern, Solotern und Friburg durch derselben stetten botten offenlichen geantwurt wurden.",
+   "preklad": "11. Jak nepřátelé leželi celou mocí před Mulhouse ve vinicích a jak jim poslové Bernu, Solothurnu a Fribourgu veřejně předali tři listy s vypovězením nepřátelství."
+  },
+  {
+   "text": "Do nü dis sachen und scharmutzen am fritag am bach vergangen warent, da zugent die viend aber am samstag frü mit ganzer macht und gewalt für Mulhusen und verslügent sich uf den berg und darhinder in die reben und verwüsten aber die jungen reben, die wider ufgangen warent, und verbranten die alle und schunden die früchtbaren böme; und was si vorhin hatten gelassen, das wart da alles verderbt, das doch den unglöubigen zü vil were gewesen; ich geswigen, das ein cristenmensch dem andern das tün sol, doch weis der almechtig got nach siner götlichen gerechtikeit einen ieglichen wol ze lonen.",
+   "preklad": "Když tedy tyto věci a potyčka u potoka v pátek pominuly, přitáhli nepřátelé v sobotu časně ráno znovu celou mocí a silou před Mulhouse, rozložili se na vrchu a za ním ve vinicích a opět zpustošili mladou révu, která znovu vyrašila. Všechnu ji spálili a úrodným stromům oloupali kůru, a co předtím nechali, bylo tam všechno zničeno. To by bylo příliš i na nevěřící, natož aby to měl jeden křesťan činit druhému. Avšak všemohoucí Bůh podle své božské spravedlnosti umí každému dobře odplatit."
+  },
+  {
+   "text": "Also lüffen dennoch etlich knecht von Mulhusen harus und scharmutzten mit inen den ganzen tag. Darnach am mentag frü kament si aber mit macht für die stat und verwüsten die reben und was si funden und hatten ir buren zugerust, die vingen an das korn abmeigen, ouch böme und reben abhowen. Do beslos man zü Mulhusen alle tor und wolt man nieman zü inen lassen; dennoch luffen etliche gesellen mit hantbuchsen und ander zü inen hinus und scharmutzten mit inen bis das ein grosser regen kam, der si zü beiden siten abtreip; das was wol umb mittag.",
+   "preklad": "Přesto vyběhli někteří knechti z Mulhouse ven a celý den s nimi sváděli potyčky. Potom v pondělí časně ráno přišli zase s mocí před město, pustošili vinice a cokoli našli, a měli s sebou připravené své sedláky, kteří začali žnout obilí a sekat stromy a révu. Tu v Mulhouse zavřeli všechny brány a nechtěli k nim [ven] nikoho pustit; přesto k nim někteří tovaryši s ručnicemi a jiní vyběhli a sváděli s nimi potyčky, dokud nepřišel velký déšť, který obě strany zahnal; to bylo asi kolem poledne."
+  },
+  {
+   "text": "In dem da kamen drig botten von Bern, Friburg und Solotern, die brachten von den drin stetten drig offen absagbrief in drin langen stecken, und antwurten die herr Thüringen von Halwill, dem lantvogt; der besampnet von stund an die obristen, die er bi im hat und lies sin trumeter angends ufblasen und zoch iederman mit sneller ile von dannen.",
+   "preklad": "Mezitím přišli tři poslové z Bernu, Fribourgu a Solothurnu a přinesli od těch tří měst tři otevřené listy s vypovězením nepřátelství ve třech dlouhých holích a předali je panu Thüringovi von Hallwil, zemskému fojtovi. Ten hned svolal nejvyšší velitele, které měl u sebe, dal ihned svým trubačům zatroubit k odchodu a všichni v rychlém spěchu odtáhli pryč."
+  }
+ ],
+ "poznamky": [
+  "Data: sobota = 18. 6. 1468 (mulhouský záznam: na Mittelbergu bylo požato obilí a konopí a zbylá réva vysekána a spálena), pondělí = 20. 6. 1468 (Tobler). Vypovídací listy tří měst jsou datovány 18. 6. (Lichnowsky, Reg. 1273–1275).",
+  "Tobler: Thüring von Hallwil, rakouský zemský fojt; viz C. Brunner, Hans von Hallwil (Argovia VI).",
+  "„verslügent sich“ = rozdělili se, rozložili se (glosář); „schunden die böme“ = oloupali kůru; „ufblasen“ = troubit k odchodu (glosář).",
+  "„in drin langen stecken“: list byl nesen na konci (v rozštěpu) dlouhé hole, aby jej posel mohl předat z bezpečné vzdálenosti (výklad mimo Tobler).",
+  "Varianty: „drig loufen botten“ (tři běžci-poslové); „einen ieglichen nach sinem verdienen ze belonen“ (odplatit každému podle zásluhy).",
+  "Oprava OCR: odstraněny zbloudilé „:“ a zbytky čísel řádků na konci („ID oT“)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,24 @@
+{
+ "cislo": 9,
+ "nadpis": "Wie vnsser wattlüt mit ander eignossen watlütten uff dem rin wurden gefangen.",
+ "edice": "Usteri 1847, ř. 7528 souboru edice",
+ "rukopis_strana": 282,
+ "odstavce": [
+  {
+   "text": "Wie vnsser wattlüt mit ander eignossen watlütten uff dem rin wurden gefangen.",
+   "preklad": "Jak naši soukeníci spolu se soukeníky jiných konfederátů byli na Rýně zajati."
+  },
+  {
+   "text": "Vnd als nun der uorgenant lantuogt niemen nütz gutz thun welt als den da for stat dz gestund nun biss uff dz jar als man zalt von gottes geburt m.cccc.lxxiij jar begabe ess sich dz der eignossen wattlüt woltend faren gan franckfurt jn die mess vnd furend uss uff sanstag nach mitteruasten jnn dem obgenantten jare vnd da sy nun also jn des optgenantten lantuogt land kamend wurdent sy von sinnen anwalten uffgehept vnd nidergeworffen vff dem rin, vnd demnach mit dem jren gan schuttren gefürt vnd von jnnen dz jren genomen vnd von dess lantuogt anwalten vast hertt vnd schnöd gehalten.",
+   "preklad": "A protože výše jmenovaný zemský fojt nechtěl nikomu prokázat nic dobrého, jak stojí výše, trvalo to tak až do roku od narození Božího 1473. Tehdy se stalo, že soukeníci konfederátů chtěli jet na trh do Frankfurtu a vypluli v sobotu po Středopostí uvedeného roku. Když se dostali do země výše jmenovaného zemského fojta, jeho úředníci je na Rýně zadrželi a přepadli a potom je i s jejich zbožím odvezli do Schutternu, vzali jim, co měli, a fojtovi úředníci s nimi zacházeli velmi tvrdě a potupně."
+  }
+ ],
+ "poznamky": [
+  "Usteri zde uvádí „(Vorstellung dieses Vorfalls.)“, tj. v rukopisu je ilustrace této události.",
+  "OCR: „hun“ → „thun“, „mP.cccerxxiij“ → „m.cccc.lxxiij“.",
+  "„wattlüt“ = soukeníci, obchodníci se suknem („wat“ = sukno, oděv). Frankfurtský trh = jarní veletrh.",
+  "Datum: „mitteruasten“ (Středopostí) = neděle Laetare 28. 3. 1473 → sobota 3. 4. 1473; bere-li se Středopostí jako středa před Laetare (24. 3.), pak 27. 3. 1473 (výpočet mimo text). Schuttern = benediktinský klášter a obec v Ortenau na pravém břehu Rýna (mimo text). Srov. Schilling kap. 64."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

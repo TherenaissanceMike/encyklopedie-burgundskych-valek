@@ -1,0 +1,40 @@
+{
+ "cislo": 131,
+ "nadpis": "Wie ein grossi macht der Lamparter über Sant Bernhartzberg herin kamen und von den Wallisern erschlagen wurden.",
+ "edice": "Büchi 1914, ř. 1526–1531 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  238
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 238."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie ein grossi macht der Lamparter über Sant Bernhartzberg herin kamen und von den Wallisern erschlagen wurden.",
+   "preklad": "131. Jak přes horu svatého Bernarda přitáhla velká moc Lombarďanů a byla Valaisskými pobita."
+  },
+  {
+   "text": "Item uff Mitwuchen in den Oesterfirtagen in dem 76 jar kam ein gross volk von Lamparten über Sant Bernhartzberg und wolten zü dem herzogen von Bürgün ziechen, deren ein teil von Venedig usser dem sold waren komen und wolten andren sold verdienen, der inen ouch bald wart. Das vernamen die von Wallis und ander, so ouch vor by inen waren gesin, und zugen inen entgegen wol uff vier tütsche mil und griffen sy mit einem geschrei manlich an und erschlügent der Lamparten ob tusent man ze tod, als das von dem widerteil nachmalen gerett wart. Darzü ritten ir vil in den sew, die ouch all ertrunken. Und gewunnen die Walliser gros güt an barschaft ; rossen, cleidren und andren dingen. Sy hatten ouch, als man sagt, nit vil güter werenen, denn ir vil was und meinten, sy getorste nieman angriffen.",
+   "preklad": "Item ve středu o velikonočních svátcích roku [14]76 přišlo přes horu svatého Bernarda velké množství lidu z Lombardie a chtěli táhnout k vévodovi burgundskému. Část z nich přišla ze žoldu v Benátkách a chtěla si vysloužit jiný žold, který také brzy dostala. To se dozvěděli Valaisští a jiní, kteří už předtím byli u nich, vytáhli jim vstříc dobré čtyři německé míle, s pokřikem na ně mužně udeřili a pobili přes tisíc mužů Lombarďanů, jak to potom vypravovala sama protivná strana. Kromě toho jich mnoho vjelo do jezera a všichni se utopili. A Valaisští získali velkou kořist v hotových penězích, koních, šatech a jiných věcech. Jak se říká, [Lombarďané] také neměli mnoho dobrých zbraní, protože jich bylo mnoho a mysleli si, že se je nikdo neodváží napadnout."
+  },
+  {
+   "text": "Darnach so sind durch die von Wallis und ander frisch gesellen, so inen die von Bern schickten, mit büchsen und geschütz me angriffen und merklich schedungen beschechen, und ist inen allwegen wol gelungen.",
+   "preklad": "Potom Valaisští a jiní čerství druhové, které jim poslali Bernští, podnikli s puškami a jinými střelnými zbraněmi další útoky a způsobili značné škody, a vždy se jim to dobře podařilo."
+  }
+ ],
+ "poznamky_editora": [
+  "') 17. April 1476. — *) Nach Schilling 1800 Mann. Ebensoviele Reiter nennt Gnndelfiugen, im Archiv des historischen Vereins Bern IX, 192 ff. Die Walliser hatten bei diesem Treffen nach Gundelfingen antiinglich 30 Mann, die als Wachen aufgestellt waren, niedergemacht. — 3 ) Vgl. dazu auch den Bericht der Chronik von Münster, in Blätter zur Walliser Geschichte I, 8, ferner Ochsenhein 122, 129* 13t, 139, 143, 145, 147, 203. 209, 390. — 4 ) Uebev einen ferneren Einbruch ins Saanetal und dessen Abweisung vgl. d’Appianos Schreiben vom 6. April bei Gingins II, N, 156. Knebel I. 394 und Gingins Episodes 232. Zu den Besatzungen in St. Maurice und Conthey hatten die Freiburger 10 Mann gestellt und sie wurden vom Bischof dafür entschädigt, vgl. Ochsenbein 601, 640, 646."
+ ],
+ "poznamky": [
+  "Opravy OCR: odstraněny značky poznámek („’)“, „*“, „3 )“, „4 )“) a čísla řádků („m“, „is“, „I“, „s»“), „zii“ → „zü“. Text rozdělen na dva odstavce podle edice (nový odstavec „Darnach so sind…“).",
+  "Odkaz na Schillinga: pole „schilling“ i Büchiho odkaz uvádějí C. 238, obsahově však kapitola odpovídá Schillingově kap. 233 (boj u Sembrancher; kap. 238 je o markraběti z Hachbergu) a následující kap. 132 navazuje „C. 233, Fortsetzung“. Jde zřejmě o chybu OCR (238 místo 233); pole jsem nechal beze změny.",
+  "Datum: středa o velikonočních svátcích 1476 = 17. 4. 1476 (Büchi).",
+  "Büchi: Schilling uvádí 1800 mužů, stejný počet jezdců má Gundelfingen; podle Gundelfingena Valaisští nejprve pobili 30 mužů postavených na stráži. Do posádek v Saint-Maurice a Conthey poslali Fribourgští 10 mužů a biskup jim to nahradil (Ochsenbein).",
+  "„der inen ouch bald wart“ (jiný žold, „který také brzy dostali“) je ironie: myslí se smrt. „in den sew“ = do jezera, nejspíš jezírko u hospice na průsmyku Velký Svatý Bernard (mimo Büchi) [?]. „mit büchsen und geschütz“: přeloženo obecně „s puškami a jinými střelnými zbraněmi“.",
+  "Varianta S doplňuje, že vévodkyně savojská doufala, že vévoda burgundský Bern, Fribourg a všechny konfederáty pobije a vyžene.",
+  "Oproti Schillingovi: „přes tisíc“ pobitých místo 1800; mnoho se jich utopilo v jezeře, kdežto u Schillinga zahynuli ve sněhu; Bernští posílají Valaisským „čerstvé druhy“ s puškami a střelnými zbraněmi (Schilling mluví jen o Bernských, kteří u nich byli)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

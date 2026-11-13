@@ -1,0 +1,24 @@
+{
+ "cislo": 60,
+ "nadpis": "Das man dem fürsten von Oesterich von disen dingen gar treffenlichen schreip.",
+ "edice": "Tobler I, s. 96",
+ "rukopis_strana": 134,
+ "odstavce": [
+  {
+   "text": "60. Das man dem fürsten von Oesterich von disen dingen gar treffenlichen schreip.",
+   "preklad": "60. Jak se o těchto věcech velmi důrazně psalo rakouskému knížeti."
+  },
+  {
+   "text": "Man schreib ouch von stund an herzog Sigmunden von Oesterich, diewile er nü in des herzogen von Burgunnen schirm were und der von Höwdorf den Eidgnossen die iren nidergeworfen, inen das ir genomen und ein teil schantlich ertöt hett, das er dann den Eidgnossen semlichen frevel ableite und darzü denen von Schafhusen nach inhalt der richtung vor Walzhüt troffen angendes gnüg tete, und ob er das tün wolt oder nit, angendes darumb den Eidgnossen sin entlich antwurt gebe. Demnach hatten ouch die von Bern und ander Eidgnossen iren vorhof, die stett am Rine und ander ir passen und ortslos besetzet, und allen iren verwanten von Rotwil, Sant Gallen, Schafhusen, Appenzel und andern, die alle willig warent, treffenlichen geschriben, iederman gerüst zü sinde als lüte, die ie meinten, solichem der fürsten gewalt zü rettunge des iren manlichen widerstant zü tünde und sich erzöugen, als ir fromen vordern ouch dicke getan hattent.",
+   "preklad": "Hned také napsali vévodovi Zikmundovi Rakouskému: protože je nyní v ochraně burgundského vévody a Höwdorfer konfederátům přepadl jejich lidi, vzal jim jejich majetek a část z nich hanebně zabil, ať konfederátům takové bezpráví odčiní a k tomu Schaffhausenským neprodleně učiní zadost podle obsahu smíru uzavřeného u Waldshutu, a ať konfederátům neprodleně dá konečnou odpověď, zda to učinit chce, nebo ne. Nato Bernští a jiní konfederáti obsadili své předpolí, města na Rýně, i jiné své průsmyky a pohraniční hrady a všem svým spojencům z Rottweilu, St. Gallenu, Schaffhausenu, Appenzellu a jiným, kteří byli všichni ochotní, důrazně napsali, aby byl každý připraven, jako lidé, kteří rozhodně chtějí takovému násilí knížat na záchranu svého mužně vzdorovat a osvědčit se, jak to často činívali i jejich stateční předkové."
+  }
+ ],
+ "poznamky": [
+  "Tobler: list Zikmundovi ze dne 21. 5. 1473 je otištěn v Archiv für schweiz. Gesch. V, 104 s chybným datem 21. dubna. Sněmovní zápis mezi spojenci uvádí navíc Solothurn a Fribourg.",
+  "„ableiten“ = odčinit, usmířit (glosář); „vorhof, die stett am Rine“ = předpolí, tj. rýnská (lesní) města; „ortslos“ = pevné místo, pohraniční hrad (glosář). „passen“ = průsmyky.",
+  "Bernské varianty: nadpis „Das gemein Eidgnossen … dingen treffenlich schriben“, „nach lut der richtung“.",
+  "Oprava textu: „sar“ → „gar“ v nadpisu, „abEt. leite“ → „ableite“ (OCR vsunulo zbytek okraje), „Öesterich“ → „Oesterich“, „geruüst“ → „gerüst“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

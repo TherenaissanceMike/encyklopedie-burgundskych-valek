@@ -1,0 +1,24 @@
+{
+ "cislo": 219,
+ "nadpis": "Das sich die von Losan und ander stett und slos ouch ergabent, diewile man zü Orban lag, und sich brantscehatzten.",
+ "edice": "Tobler I, s. 308",
+ "rukopis_strana": 520,
+ "odstavce": [
+  {
+   "text": "219. Das sich die von Losan und ander stett und slos ouch ergabent, diewile man zü Orban lag, und sich brantschatzten.",
+   "preklad": "219. Jak se i Lausannští a jiná města a hrady vzdali, zatímco se leželo v Orbe, a vykoupili se výpalným."
+  },
+  {
+   "text": "Und diewile man also zü Orben lag, da ergabent sich gar vil stetten und slossen an die von Bern und die andern stette, dann iederman im lande erschrocken und darzü komen, das kein widerstand me was. Es kament ouch gar vil landsherren und ander von ir stetten und slössern wegen, die sich brantschatztent und ouch huldeten und swüren zü handen der driger stetten; darzü kament ouch die von Losan mit ir treffenlichen botschaft von geistlichen und weltlichen gen Orban, und brantschatztent sich umb zweitusent Rünsch güldin, die ouch nachmalen von inen bezalt und usgericht wurden, dann si inen gar übel vorchten, nachdem dann gar menglich zü inen hatten geflöcket; do genussent si dennocht ünser lieben frowen, als wol billichen was, das inen dazemal nit beschach.",
+   "preklad": "A zatímco se tak leželo v Orbe, vzdalo se Bernským a ostatním městům velmi mnoho měst a hradů, neboť každý v zemi byl vyděšen a došlo to tak daleko, že už nebylo žádného odporu. Přišlo také velmi mnoho zemských pánů a jiných kvůli svým městům a hradům; ti se vykoupili výpalným, holdovali a přísahali do rukou těch tří měst. K tomu přišli do Orbe i Lausannští se svým význačným poselstvem duchovních i světských a vykoupili se za dva tisíce rýnských zlatých, které pak také zaplatili a odvedli. Neboť se jich velmi báli, protože se k nim [do Lausanne] uchýlil kdekdo [se svým majetkem]; tu jim přesto pomohla naše milá Paní, jak bylo spravedlivé, takže se jim tehdy nic nestalo [?]."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: text byl uprostřed věty useknut („…usgericht wurden, dann“); doplněn konec ze surového OCR (Tobler I, s. 309): „si inen gar übel vorchten … das inen dazemal nit beschach.“ Dále opraveno vıl → vil, Runsch guüldin → Rünsch güldin, branschatztent → brantschatztent, brantscehatzten → brantschatzten.",
+  "Tobler: smlouva s Lausanne byla uzavřena 25. 10. 1475 (24. 10. se ještě jednalo, 26. 10. vyjadřuje bernská rada spokojenost).",
+  "Varianta bernského rukopisu: „neboť se jich nadmíru báli, protože k nim jejich sousedé hojně utekli“.",
+  "[?] „do genussent si dennocht ünser lieben frowen … das inen dazemal nit beschach“: genießen + gen. = mít z něčeho prospěch; „naše milá Paní“ je zřejmě lausannská katedrála Panny Marie, velké poutní místo (určení mimo Tobler). Smysl závěru („co se jim tehdy nestalo“) je nejistý."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

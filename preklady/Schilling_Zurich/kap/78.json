@@ -1,0 +1,24 @@
+{
+ "cislo": 78,
+ "nadpis": "Das denen von Basel und andern stetten gros warnungen kament.",
+ "edice": "Tobler I, s. 116",
+ "rukopis_strana": 172,
+ "odstavce": [
+  {
+   "text": "78. Das denen von Basel und andern stetten gros warnungen kament.",
+   "preklad": "78. Jak Basilejským a jiným městům přicházela velká varování."
+  },
+  {
+   "text": "Darnach unlangest umb sant Thomans tag des vorgenanten iares kament denen von Basel und andern des richs stetten im Elsas teglichs gros merglich warnungen, wie das der herzog von Burgunnen sich mit einer grossen macht und zuge sampnete, harus in das Sunkow und Elsas zü ziechen und ein leger zu slachen; doch was das die gemein rede, das er für Basel wolt und die beligen. Darumb uf dem nechsten mentag vor sant Thomans tag des vorgenanten iares, schicktent die von Basel ir treffenlichen räte für gemeiner Eidgnossen botten gen Lutzern und erzaltent da vor denen die ding, und was inen und allen Eidgnossen, wo si also belegert werden soltent, an der sache gelegen were; si hetten wol ein güt stat, inen were aber in vergangnen töden so vil biderber lüten abgangen, das si ie ir stat nit wol besetzen, noch on der Eidgnossen hilf und entschüttung behalten möchtent, darumb si begertent, das man inen von allen Eidgnossen ein summ soldnern züleite, denen wolten si, wo das anders nit sin möchte, ir lifrung geben, und das man inen dabi züseit, ob si belegert wurdent, das man si dann entschütten, so woltent si als biderb lüte mit der hilf gottes ir stat bis an der Eidgnossen entschütten understan zü beheben, und des zü gütem den Eidgnossen niemer ewiclichen vergessen; dann wo die Eidgnossen das nit tetent und si verliessent, so wistent si sich nit zü enthalten, und was ioch inen darnach ginge, so woltent si das den Eidgnossen geseit und sich damit entladen haben, als si dann das mit vil erbern und merglicher ursachen, so inen daran gelegen was, gar ernstlichen und mit grossen begirden anbrachten.",
+   "preklad": "Nedlouho potom, kolem svatého Tomáše téhož roku, přicházela Basilejským a jiným říšským městům v Alsasku denně velká a závažná varování, že burgundský vévoda shromažďuje velkou moc a vojsko, aby vytáhl sem do Sundgau a Alsaska a rozbil tu ležení; obecně se však říkalo, že chce táhnout před Basilej a oblehnout ji. Proto poslali Basilejští v nejbližší pondělí před svatým Tomášem téhož roku své přední radní k poslům všech konfederátů do Luzernu a vylíčili jim tam, jak se věci mají a co by na té věci záleželo jim i všem konfederátům, kdyby byli takto obleženi. Mají prý sice dobré město, ale v minulých morech jim zemřelo tolik poctivých lidí, že své město nemohou dobře obsadit ani bez pomoci a vyproštění od konfederátů udržet. Proto žádali, aby jim všichni konfederáti poslali určitý počet žoldnéřů; těm chtějí, nebude-li to jinak možné, dávat stravu (lifrung). A aby jim zároveň slíbili, že je v případě obležení vyprostí: pak chtějí jako poctiví lidé s Boží pomocí své město až do vyproštění od konfederátů uhájit a nikdy na věky jim to nezapomenou. Kdyby to však konfederáti neučinili a opustili je, nevědí, jak by se udrželi, a ať by se jim potom dělo cokoli, chtějí to konfederátům předem říci a tím se zbavit odpovědnosti. To vše přednesli velmi vážně a naléhavě, s mnoha počestnými a závažnými důvody, na nichž jim záleželo."
+  }
+ ],
+ "poznamky": [
+  "Datum: sv. Tomáš = 21. 12.; pondělí před ním = 20. 12. 1473 (Tobler; Schillingův letopočet „téhož roku“ navazuje na chybný rok 1474 z kap. 74 a 77). Tobler: Schillingovo datum je nepřesné – Basilejští žádali o 800 mužů posádky už 13./14. 12. a 22. 12. jim to poslové sněmu povolili, s výjimkou Curychu (Eidg. Abschiede II, 463, 465).",
+  "„lifrung“ = jídlo a pití (Tobler); „töden“ = morové rány; „beheben“ = uhájit (glosář).",
+  "Oprava nadpisu a textu (OCR): „sros“ → „gros“, „ıares“ → „iares“, „Bidgnossen“ → „Eidgnossen“, „sı“ → „si“.",
+  "Bernské varianty: „gar gros“, „wo si anders belegert“, „entschüttung understan zü behalten“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

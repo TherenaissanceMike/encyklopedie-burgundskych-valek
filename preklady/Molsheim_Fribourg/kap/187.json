@@ -1,0 +1,32 @@
+{
+ "cislo": 187,
+ "nadpis": "Der herren namen, so vor Nansci erschlagen worden.",
+ "edice": "Büchi 1914, ř. 2460–2463 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  331,
+  336
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 331.",
+  "Vgl. Schilling C. 336."
+ ],
+ "odstavce": [
+  {
+   "text": "Der herren namen, so vor Nansci erschlagen worden.",
+   "preklad": "187. Jména pánů, kteří padli u Nancy."
+  },
+  {
+   "text": "188. Von dem torrechten leben in der Eidgnoschaft.",
+   "preklad": "188. O „bláznivém životě“ ve Spříseženstvu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi tiskne jen nadpis a odkazuje na Schillinga C. 331, kde je seznam padlých pánů; Molsheimův text v edici není.",
+  "Text: odstavec [1] je skrytý nadpis kap. 188 (Büchi: srov. Schilling C. 336), přeložen jako mezititulek; ani pod ním Büchi text netiskne. Odstraněno číslo řádku „io“.",
+  "„Bláznivý život“ (torecht leben): výprava svévolných mladých knechtů z vnitřních kantonů v únoru 1477, která chtěla vymoci ženevské výpalné."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

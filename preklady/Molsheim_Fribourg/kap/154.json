@@ -1,0 +1,37 @@
+{
+ "cislo": 154,
+ "nadpis": "Wie der herzog von Burgun wider us sinem land gen Losen zoch mit aller siner macht.",
+ "edice": "Büchi 1914, ř. 1918–1923 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  278
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 278."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Burgun wider us sinem land gen Losen zoch mit aller siner macht.",
+   "preklad": "154. Jak vévoda burgundský táhl se vší svou mocí ze své země zpět k Lausanne."
+  },
+  {
+   "text": "Und do nu der herzog von Bürgün by acht oder nün tagen in Bürgün was und das volk vast begonde wider samlen, do zoch er uss Bürgün mit dem grafen von Remund in Savoy gen Losen. Daselbs der herzog ein gros leger schlug vor der statt. Und kam aber ein grosse welt zesamen und fulten stett und dörfer, und zoch im aber grosse welt zu. Die herzogin von Savoy was ouch mit aller ir macht by im und hatte bestelt in ir land alle handwerklüte und besunder vil schnider, die tag und nacht anders nüzt daten, denn sidin und ander kleider, schornyen und zelten machen. Es gieng auch darzwüschen mängerlei red, das man nit eigentlich möchte vernemen, wohin sich der herzog keren wurde, oder was er müt hette; denn das allweg ein gemein rede was, er wolte für Bern oder Friburg ziechen.",
+   "preklad": "Když byl vévoda burgundský asi osm nebo devět dní v Burgundsku a začal znovu usilovně shromažďovat lid, vytáhl z Burgundska s hrabětem z Romontu do Savojska k Lausanne. Tam si vévoda rozbil před městem velký tábor. Znovu se sešlo velké množství lidí, kteří zaplnili města i vesnice, a stále k němu přitahovaly další zástupy. Byla u něho i vévodkyně savojská s celou svou mocí a ve své zemi objednala všechny řemeslníky, zvláště mnoho krejčích, kteří dnem i nocí nedělali nic jiného, než že šili hedvábné i jiné šaty, válečné pláště a stany. Mezitím se vedly všelijaké řeči, takže se nedalo spolehlivě zjistit, kam se vévoda obrátí nebo co má v úmyslu; stále se však obecně říkalo, že chce táhnout na Bern nebo na Fribourg."
+  },
+  {
+   "text": "Daruff sich ouch die beden stett vast rustent, inn ze entfachen und im einen manlichen widerstand ze tun mit der hilf gottes. Es wart ouch gerett, wie das der herzog dem grafen von Remund zügeseit und versprochen hatt, [in] herrn ze Bern ze machen und über all ir land und gebiet, und aber dem herzogen von Savoye, Friburg mit aller siner zügehörde inngeben und undertänig machen, also das vorhin in beden stetten jederman, man und kind und wib ertöt sötte werden und umbbracht. Und hatt ouch die hüser in beden stetten under sin edellüt geteilt.",
+   "preklad": "Obě města proto usilovně zbrojila, aby ho přijala a s Boží pomocí mu mužně odolala. Také se povídalo, že vévoda slíbil a přislíbil hraběti z Romontu, že [ho] učiní pánem Bernu a celé jeho země a území, a vévodovi savojskému že vydá a podrobí Fribourg se vším, co k němu patří; a to tak, že předtím budou v obou městech všichni, muži, děti i ženy, pobiti a zahubeni. Domy v obou městech už také rozdělil mezi své šlechtice."
+  }
+ ],
+ "poznamky_editora": [
+  "') Er scheint dort schon am 12. März eingetroffen zu sein und nahm seine Residenz auf Schloss Menthon, vgl. Biichi, Freiburger Akten 33 und die Lausanner Stadt-Rechnungen bei Ochsenbein 578, 580, die den Herzog an einem Sonntag dort ankommen lassen. Die Entreprises (294) dagegen lassen^ ihn schon 8 Tage nach der Schlacht bei Grandson vor Lausanne erscheinen. — *) Nebst ihren Räten, vgl. Entreprises 295. — s ) Vgl. oben S. 161. A. 2."
+ ],
+ "poznamky": [
+  "Text: odstraněny odkazy na poznámky a opraveny chyby OCR (TJnd → Und, weit → welt, dSrfer → dörfer, tvib → wib, „[m] herrn“ → „[in] herrn“).",
+  "„schornyen“ = válečné pláště (Tobler: scharine, scharnie = Kriegsmantel; Schilling má „scharinen“).",
+  "Büchi: vévoda byl u Lausanne patrně už 12. 3. 1476 a sídlil na zámku Menthon [?]; lausannské městské účty kladou jeho příchod na neděli. Vévodkyně přijela i se svými rádci.",
+  "Oproti Schillingovi (C. 278): vévoda byl v Burgundsku „osm nebo devět dní“ (Schilling v C. 277 asi deset); Molsheim výslovně uvádí, že s ním přitáhl hrabě z Romontu; Fribourg má dostat „vévoda savojský“ (Schilling: vévodkyně); chybí Schillingova zmínka o lenních listinách s pečetí a losování o domy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

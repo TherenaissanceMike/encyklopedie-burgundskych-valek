@@ -1,0 +1,33 @@
+{
+ "cislo": 411,
+ "nadpis": "Der herren und botten namen, so uf tagen bi disen sachen allen gewesen sind.",
+ "edice": "Tobler II, s. 267",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "411. Der herren und botten namen, so uf tagen bi disen sachen allen gewesen sind.",
+   "preklad": "411. Jména pánů a poslů, kteří byli na sněmech při všech těchto věcech."
+  },
+  {
+   "text": "Item der hochgeborn herr Rüdolf marggraf von Hochperg, graf zu Welschem Nüwenburg etc. und sin diener Hans von Griessen und Hans Heinrich von Baden. Denne von den herzogen von Oesterich und von Lothringen graf Osswalt von Tierstein, lantvogt, und herr Peter zem Wiger, ritter. Denne von dem bischof von Strasburg Bernhart zem Truben. Denne von dem bischof von Basel herr Friderich ze Rine, ritter, hofmeister, und herr Hermann von Eptingen, ritter. Denne von Bern herr Peterman von Wabern, ritter, Bartholome Hüber und Ludwig Dittlinger, beid venner.",
+   "preklad": "Předně vysoce urozený pan Rudolf, markrabě z Hochbergu, hrabě z Neuchâtelu (Welsch Neuenburg) atd., a jeho služebníci Hans von Griessen a Hans Heinrich von Baden. Dále za vévodu rakouského a vévodu lotrinského hrabě Oswald von Tierstein, zemský fojt, a pan Peter zem Wiger, rytíř. Dále za biskupa štrasburského Bernhart zem Truben. Dále za biskupa basilejského pan Friedrich ze Rine, rytíř, hofmistr, a pan Hermann von Eptingen, rytíř. Dále za Bern pan Peterman von Wabern, rytíř, Bartholome Hüber a Ludwig Dittlinger, oba praporečníci."
+  },
+  {
+   "text": "Denne von Lutzern herr Caspar von Hertenstein, ritter, und Ludwig Kramer, buwmeister. Denne von Ure Hans zem Brunnen, amman, und Hans im Hof. Denne von Switz Uolrich ab Yberg und Cünrat Jacop, alt amman. Denne von Underwalden Claus von Zuben, amman ob dem wald, und nid dem wald Heinrich Winkelried. Denne von Zug Hans Spiller, alt amman, und Götz Amptz. Denne von Glarus Heinrich Landolt und Wernher Rietler. Denne von Friburg herr Rüdolf von Wippingen, ritter, alt schultheissen. Denne von Solotern Cünzman Vogt, schultheis.",
+   "preklad": "Dále za Luzern pan Caspar von Hertenstein, rytíř, a Ludwig Kramer, stavební mistr. Dále za Uri Hans zem Brunnen, zemský úředník, a Hans im Hof. Dále za Schwyz Uolrich ab Yberg a Cünrat Jacop, bývalý zemský úředník. Dále za Unterwalden Claus von Zuben, zemský úředník nad lesem (Obwalden), a pod lesem (Nidwalden) Heinrich Winkelried. Dále za Zug Hans Spiller, bývalý zemský úředník, a Götz Amptz. Dále za Glarus Heinrich Landolt a Wernher Rietler. Dále za Fribourg pan Rudolf von Wippingen, rytíř, bývalý starosta. Dále za Solothurn Cünzman Vogt, starosta."
+  },
+  {
+   "text": "Denne von St. Gallen Ludwig Vogelweider, burgermeister. Denne von Schafhusen Uolrich Trüllerey, nüwer burgermeister. Denne von Basel Heinrich Zeigler und Hans Irme. Denne von Colmar Ludwig Kesselring, obrester stettmeister. Denne von Sletstat Hans Heilman, ouch obrester stettmeister. Denne von Strasburg herr Hans von Kageneck, ritter, alter stettmeister, herr Peter Schott, ammeister, Heinrich Habmacher und Jörg Berer, beid zunftmeister. Denne von Zürich Heinrich Röust, burgermeister, herr Hans Waldman, ritter, obrester zunftmeister, und Hans Tachelshofer, seckelmeister.",
+   "preklad": "Dále za St. Gallen Ludwig Vogelweider, purkmistr. Dále za Schaffhausen Uolrich Trüllerey, nový purkmistr. Dále za Basilej Heinrich Zeigler a Hans Irme. Dále za Colmar Ludwig Kesselring, nejvyšší městský purkmistr. Dále za Sélestat Hans Heilman, také nejvyšší městský purkmistr. Dále za Štrasburk pan Hans von Kageneck, rytíř, bývalý městský purkmistr, pan Peter Schott, cechmistr, Heinrich Habmacher a Jörg Berer, oba cechmistři. Dále za Curych Heinrich Röust, purkmistr, pan Hans Waldman, rytíř, nejvyšší cechmistr, a Hans Tachelshofer, pokladník."
+  }
+ ],
+ "poznamky": [
+  "Tobler: jde o seznam poslů přítomných 1. 8. 1482 v Badenu (otištěn v Eidg. Abschiede III, 127 a u Anshelma I, 216); oběma chybí Bartholome Huber z Bernu.",
+  "Oprava OCR: „Hochpersg“ → „Hochperg“ (Toblerův rejstřík: Rudolf markrabě Baden-Hochberg-Röteln, hrabě z Neuenburgu/Neuchâtelu), „-Tierstein“ → „Tierstein“, „Eptingen I ritter“ → „Eptingen, ritter“, odstraněn zbloudilý řetězec „Re“; z nadpisu odstraněna značka poznámky „!)“.",
+  "Tobler: Bernhart zem Truben je v basilejských kronikách Bernhart zem Trübel; basilejským biskupem byl od 1479 Kaspar ze Rhin; o rytíři Friedrichu ze Rhein mnoho u Knebela.",
+  "Tobler: Hans zem Brunnen landamman Uri 1481 a 1482 (OCR „1432“); Cünrat Jacop landamman Schwyzu 1471, 1475, 1477 aj.; Claus von Zuben landamman Obwaldenu 1480–1482, 1488, 1494; Hans Spiller posel na sněmech 1480–1493, Götz Amptz 1479–1499. O Heinrichu Winkelriedovi viz H. von Liebenau a W. Oechsli (ADB XLIII, 446).",
+  "Tituly: amman = landamman (zemský úředník), venner = praporečník, buwmeister = stavební mistr, stettmeister = městský purkmistr, ammeister = cechmistr (nejvyšší cechovní představený Štrasburku), seckelmeister = pokladník, alt = bývalý."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

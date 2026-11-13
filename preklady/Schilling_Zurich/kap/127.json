@@ -1,0 +1,24 @@
+{
+ "cislo": 127,
+ "nadpis": "Das die von Bern den absagbrief mit irem ritenden botten hinweg schiktent.",
+ "edice": "Tobler I, s. 175",
+ "rukopis_strana": 272,
+ "odstavce": [
+  {
+   "text": "127. Das die von Bern den absagbrief mit irem ritenden botten hinweg schiktent.",
+   "preklad": "127. Jak Bernští odeslali vypovídací list po svém jízdním poslu."
+  },
+  {
+   "text": "Diser absagbrief wart von einem ritenden botten von Bern in namen gemeiner Eidgnossen gen Blomont gefürt und den stathaltern und houptlüten uberantwurt. Die nament im den brief ab und schicktent denselben brief angends dem herzogen von Burgunnen gen Nuss in das leger, do er dann lag. Der wart darab ganz übel content und entsetzt und als gar entrüst, das er von rechtem zorn in einer langen güten wile nit reden wolt; und als er anfing reden, do sprach er in grossem hitzigen zorn und ganz wütende: O Berna, Berna! Und tröwte denen insunderheit, als dann das […] von den sinen offenlich gerett wart.",
+   "preklad": "Tento vypovídací list dovezl jízdní posel z Bernu jménem všech konfederátů do Blamontu a odevzdal jej tamním místodržícím a hejtmanům. Ti od něj list převzali a ihned jej poslali burgundskému vévodovi do ležení před Neussem, kde tehdy ležel. Vévodu to velmi rozladilo a zděsilo a rozhořčilo tak, že dlouhou dobu ze samého hněvu nechtěl promluvit. A když začal mluvit, řekl ve velikém prudkém hněvu a celý zuřivý: „Ó Berno, Berno!“ A zvláště jim [Bernským] vyhrožoval, jak to pak [?] jeho lidé veřejně vyprávěli."
+  }
+ ],
+ "poznamky": [
+  "Tobler: list byl odevzdán 29. 10. 1474 v Blamontu Heinrichovi von Neuchâtel (Neufchâtel). Edlibach jmenuje herolda Kaspara Hurdera, ten však byl rakouský.",
+  "Bernský rukopis podle variant: „den vorgerürten absagbrief mit irem eignen ritenden botten des herzogen anwalten in Burgunn santen“ (poslali po vlastním jízdním poslu vévodovým zmocněncům v Burgundsku); „als ganz entrüst“.",
+  "„content“ = spokojený (z franc.); „übel content“ = nespokojený, rozladěný.",
+  "Oprava textu: „OÖ Berna“ → „O Berna“. V OCR je na místě „das Ba a“ nečitelné slovo, nahrazeno „[…]“; v překladu „pak [?]“ jen podle smyslu, nutno ověřit v edici nebo rukopisu."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

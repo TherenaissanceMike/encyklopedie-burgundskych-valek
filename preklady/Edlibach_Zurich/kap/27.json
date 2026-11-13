@@ -1,0 +1,23 @@
+{
+ "cislo": 27,
+ "nadpis": "Von dem zug gan puntterlin vnd wie die tütschen knecht von den-brugunschen belegt wurdent vnd die brugunschen so herttenklich an sy sturmptend.",
+ "edice": "Usteri 1847, ř. 8038 souboru edice",
+ "rukopis_strana": 307,
+ "odstavce": [
+  {
+   "text": "Von dem zug gan puntterlin vnd wie die tütschen knecht von den brugunschen belegt wurdent vnd die brugunschen so herttenklich an sy sturmptend.",
+   "preklad": "O tažení k Pontarlieru a jak byli němečtí knechti obleženi Burgunďany a jak na ně Burgunďané tak tvrdě útočili."
+  },
+  {
+   "text": "Item darnach zugend xvᶜ mutwilliger knächt von allen eignossen gen puntterlin ist ein stat jn hochem brugund gelegen, vnd luffend den brugunschen dieselben stat ab, am morgen frü vor tag vnd woltend dz blündren, als sy ouch tattend, doch e dz beschach wurdend sy von den brugunschen vmmlegert, dieselben mengen herten sturm daran tattend, dieselben stürm die tütschen all behieltend, vnd verlurend die brugunschen wol bin m manen, da sy nun sachend dz sy nütz schaffen mochtend, zugend sy damit ab, demnach blündrotend die tütschen vnd zugend ouch wider vs puntterlin, den nächsten heim.",
+   "preklad": "Potom táhlo 1500 svévolných knechtů ze všech konfederátů k Pontarlieru, což je město v Horním Burgundsku, a ráno časně před svítáním vzali Burgunďanům to město útokem. Chtěli ho vyplenit, jak také učinili; ale než se to stalo, byli Burgunďany obleženi. Ti na ně podnikli mnoho tvrdých útoků, ale Němci všechny ty útoky odrazili a Burgunďané ztratili dobrých tisíc mužů. Když tedy viděli, že nic nezmohou, odtáhli. Potom Němci [město] vyplenili a táhli z Pontarlieru zase nejkratší cestou domů."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „den-brugunschen“ → „den brugunschen“, „xv°“ → „xvᶜ“, „dieselbeu“ → „dieselben“, „vmmlegrott“ → „vmmlegert“, „bertten sturm“ → „herten sturm“, „m®“ → „m“ (1000). Vypuštěn Usteriho údaj „(Vorstellung des Sturms.)“.",
+  "Srov. Schilling kap. 151–153: asi 1300 mužů, město dobyto 7. 4. 1475, burgundský útok 13. 4. 1475, padlých nepřátel podle bernského listu 300 (Tobler). Edlibach řadí Pontarlier až za Blamont (srpen 1475), tedy mimo časové pořadí, a ztráty Burgunďanů zveličuje.",
+  "„hoch brugund“ = Horní (Hoch-) Burgundsko, tj. Svobodné hrabství Burgundské. „luffend … ab“ (ablaufen) = vzít útokem, přepadem."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,25 @@
+{
+ "cislo": 366,
+ "nadpis": "Das die nüw mure an dem kilchof aber angevangen wart.",
+ "edice": "Tobler II, s. 194",
+ "rukopis_strana": 904,
+ "odstavce": [
+  {
+   "text": "366. Das die nüw mure an dem kilchof aber angevangen wart.",
+   "preklad": "366. Jak se znovu začalo s novou zdí u hřbitova."
+  },
+  {
+   "text": "In dem vorgenanten summer wart die nüw mur angevangen ze machen unden an dem kilchof, und müsten alle geselschaften daran werken in irem costen, als das von räten und burgern angesechen wart, und was iederman willig und gehorsam; doch cost es die stat ouch ein merglich güt an gelt und an win.",
+   "preklad": "V témž létě se začala stavět nová zeď dole pod hřbitovem a všechny cechovní společnosti na ní musely pracovat na vlastní náklady, jak to ustanovili rada a měšťané (Velká rada). Každý byl ochotný a poslušný, přesto to město stálo také značné jmění na penězích a na víně."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: odstraněny zbloudilé znaky („:“, „.“, „i“) po zlomu strany.",
+  "Datum: léto 1479. „kilchof“ = hřbitov u kostela sv. Vincence, dnešní Münsterplattform.",
+  "Varianty: „mure unden“, „summer und darnach“; chybí „willig und“ a „ouch“; „an gelt, win und andern dingen“.",
+  "Tobler: velká zeď stoupající od Matte k hřbitovu (Plattformě) se začala stavět už 1334 (Justinger; OCR „15354“), v roce 1479 tedy jde jen o zesílení. V únoru 1479 měly obce Bümpliz a Köniz vozit kámen a tuf, Tedlingen, Interlaken a Spiez štípané dřevo; v lednu a únoru 1480 bylo k vožení kamene vyzváno 20 obcí. 18. 5. 1480 složil Benedikt Tschachtlan účty: příjmy 1075 liber 18 šilinků, výdaje 1103 liber 10 feniků.",
+  "„geselschaften“ = bernské cechovní společnosti (Zünfte/Gesellschaften), výklad mimo Tobler."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

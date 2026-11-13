@@ -1,0 +1,27 @@
+{
+ "cislo": 34,
+ "nadpis": "Als der brugunsch hertzog kam gan granssen vnd dz gewan vnd demnach die eignossen erhanckt an böum vnd jren uil jm se liess ertrencken.",
+ "edice": "Usteri 1847, ř. 8192 souboru edice",
+ "rukopis_strana": 316,
+ "odstavce": [
+  {
+   "text": "Als der brugunsch hertzog kam gan granssen vnd dz gewan vnd demnach die eignossen erhanckt an böum vnd jren uil jm se liess ertrencken.",
+   "preklad": "Jak burgundský vévoda přitáhl ke Grandsonu a dobyl ho a potom dal konfederáty pověsit na stromy a mnoho jich utopit v jezeře."
+  },
+  {
+   "text": "Item diss sachen sich nun also uerluffend vor nüss dessglichen hie obnen jm land vnd jetz der brugunsch hertzog mit dem keisser eins ward vnd der friden versichrott ward, dz verzog sich nun biss jn dz jare als man zellen ward von der geburt xpi m.cccc.Lxxvj jar dz sich die wintterzitt verstiess vnd der glentze harin gieng besamlet der optgenant hertzog von brugunde ein grossen zug jn allen sinnen landen vnd zog demnach für dz sloss gransse dz den von bern",
+   "preklad": "Když se tyto věci takto udály před Neussem i zde nahoře v zemi a burgundský vévoda se nyní s císařem dohodl a mír byl zajištěn, protáhlo se to až do roku, kdy se počítalo od narození Krista 1476. Když skončila zima a nastávalo jaro, shromáždil výše jmenovaný vévoda burgundský ve všech svých zemích velké vojsko a táhl potom před hrad Grandson, který Bernští"
+  },
+  {
+   "text": "mit vᶜ mannen wol besetzt wz, vnd slug sin wagenburg zwuschend dz sloss vnd den see vnd liess die knecht vff dem sloss ermannen jm dz sloss wider zu sinnen handen ze geben, wele er sy libs vnd leben sichren vnd mit jren hab lassen abzüchen, oder wü er sy mit gewalt überhöpte, müstend sy darumm alle sterben, diewil sy nun von keinner enschüttung noch hilffe gantz nütz wüstend, enschassend sy des hertzogen vngnad, vnd besorgtend sömlichen grossen gewalt der vor jnnen lag, dz jr heren die eignossen der grossen macht nüt widerstan möchtend, vnd glouptend also dess hertzogen gutten wortten vnd gabend sych also mit sinner trostung uff gnad vff vnd antwurttend jm dz sloss granssen jan von stunden an hat er lüt vsszogen vnd darzu geordnet die also die vᶜ knächt von eignossen fiengend vnd hielte jnnen nüt dz so er jnnen gelopt hatt, sunder liess er jren bin iijᶜ man erhencken vngebichtet an nussböm vnd die übrigen ijᶜ man liess er alle an ein seil binden vnd uff dem granser se füren vnd sy alle über dz schiff uswerffen vnd lies sy also ermklichen ertrincken.",
+   "preklad": "dobře obsadili pěti sty muži. Rozbil svou vozovou hradbu mezi hradem a jezerem a vyzval knechty na hradě, aby mu hrad vrátili do rukou: pak jim zaručí život a nechá je odtáhnout s jejich majetkem; kdyby je však přemohl násilím, museli by za to všichni zemřít. Protože o žádném vysvobození ani pomoci nic nevěděli, obávali se vévodovy nemilosti a báli se té veliké moci, která před nimi ležela, že by jejich páni konfederáti oné velké síle nemohli odolat. Uvěřili tedy vévodovým dobrým slovům, na jeho ujištění se vzdali na milost a vydali mu hrad Grandson. Hned nato vyslal lidi a určil je k tomu, aby těch pět set knechtů od konfederátů pochytali, a nedodržel jim nic z toho, co jim slíbil: asi tři sta mužů dal bez zpovědi pověsit na ořešáky a zbylých dvě stě mužů dal všechny přivázat k jednomu provazu, vyvézt na Grandsonské jezero a všechny přes bok lodi vyhodit, a tak je nechal bídně utonout."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „‚erhanckt“ → „erhanckt“, „m.ccec.ıxxvj“ → „m.cccc.Lxxvj“, zdvojené „von den von bern“ → „von bern“, „ve“/„v*“ → „vᶜ“ (500), „ii‘“ → „iijᶜ“ (300; podle kap. 36, kde se pohřbívá „iijᶜ“ oběšených), „ij°“ → „ijᶜ“ (200), „vud“ → „vnd“, „vif“ → „vff“, „granserse“ → „granser se“. Nejasné slovo „jan“ před „von stunden an“ ponecháno, nepřeloženo.",
+  "Edlibach: posádka 500, z toho 300 oběšeno a 200 utopeno; Schilling uvádí přes 450 (srov. Schilling kap. 259–260).",
+  "Grandsonské jezero = Neuchâtelské jezero (mimo text). Vydání hradu podle Schillinga (kap. 260) na Popeleční středu, tj. 28. 2. 1476."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

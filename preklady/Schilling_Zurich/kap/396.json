@@ -1,0 +1,23 @@
+{
+ "cislo": 396,
+ "nadpis": "Das die von Bern die halbe herschaft Grünenberg kouften.",
+ "edice": "Tobler II, s. 246",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "396. Das die von Bern die halbe herschaft Grünenberg kouften.",
+   "preklad": "396. Jak Bernští koupili polovinu panství Grünenberg."
+  },
+  {
+   "text": "In dem vorgenanten iare haben ouch die von Bern die halb herschaft Grünenberg kouft von herr Hansen Rüdolfen von Luternow, ritter, irem burger, umb drütusent güldin und das umb friden und rüwen willen getan, damit es nit in ander hende kem und si ouch dester rüwiger möchten sin gegen denen von Lutzern, die das ouch gern kouft hettent. Und haben semlich zins und gült an ir herschaft Arwangen geleit, die ouch ein vogt verrechnen müs.",
+   "preklad": "V řečeném roce koupili Bernští také polovinu panství Grünenberg od pana Hanse Rudolfa von Luternau, rytíře, svého měšťana, za tři tisíce zlatých. Učinili to kvůli míru a pokoji, aby se panství nedostalo do jiných rukou a aby měli tím větší pokoj vůči Luzernským, kteří by je také rádi koupili. Tyto úroky a důchody přidělili ke svému panství Aarwangen, a také ty musí vyúčtovat fojt."
+  }
+ ],
+ "poznamky": [
+  "Grünenberg leží u Melchnau v Horním Aargau (Oberaargau) (Tobler).",
+  "Tobler: i tuto koupi klade Schilling o rok později. 23. 6. 1480 psali Bernští Luzernu, že slyšeli o jeho zájmu o Grünenberg, a žádali, aby od něj upustil, protože panství je k Bernu vázáno dědičným měšťanstvím a věčnou povinností. Jednání začala 10. 9., koupě byla uzavřena 18. 9. a kupní list vystaven 1. 10. 1480. Kupní cena u Schillinga je správná. Druhou polovinu panství měl Bern už od roku 1444, takže koupí 1480 se celé panství spojilo v jedněch rukou.",
+  "Opravy OCR: „ander 5 hende“ → „ander hende“ (číslo řádku edice); z nadpisu odstraněna značka poznámky. Úplnost: ř. 17054–17105 projity."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

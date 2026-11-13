@@ -1,0 +1,25 @@
+{
+ "cislo": 17,
+ "nadpis": "Wie der herzog von Bürgün her Peter von Hagenbach zu sinem lantvogt satzte über die verpfanten lantschaften Pfirt und Süntgöwe.",
+ "edice": "Büchi 1914, ř. 467–468 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  61
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 61, al. 2."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Bürgün her Peter von Hagenbach zu sinem lantvogt satzte über die verpfanten lantschaften Pfirt und Süntgöwe.",
+   "preklad": "17. Jak vévoda burgundský ustanovil pana Petera von Hagenbach svým zemským fojtem nad zastavenými zeměmi Pfirt (Ferrette) a Sundgau."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „BiirgUn“ → „Bürgün“, „tantvogt“ → „lantvogt“, „Uber“ → „über“, „SUntgöwe“ → „Süntgöwe“; odstraněno číslo řádku „5“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 61, odst. 2) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

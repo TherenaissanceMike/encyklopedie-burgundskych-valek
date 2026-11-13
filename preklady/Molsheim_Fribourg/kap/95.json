@@ -1,0 +1,38 @@
+{
+ "cislo": 95,
+ "nadpis": "Warumb man das feld brach und wider heimen zoch.",
+ "edice": "Büchi 1914, ř. 1086–1094 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  194
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 104. al. 2. 3."
+ ],
+ "odstavce": [
+  {
+   "text": "Warumb man das feld brach und wider heimen zoch.",
+   "preklad": "95. Proč se opustilo pole a táhlo zase domů."
+  },
+  {
+   "text": "Und als man nu dieselben zwei schlos gewunnen und geblündret hatt und in für geleit, do were man wol in willen gewesen witter in Burgün ze ziechen, denn das die pestilenz so vast in Burgün richsnete, und man öch besorgte, nit spis mögen haben. Und wart man gemeinlich ze ratt und das umb das beste eines abzuges, also das jederman den nechsten wider heimen ziechen solte.",
+   "preklad": "Když se pak ty dva hrady dobyly, vyplenily a zapálily, mělo se sice v úmyslu táhnout dál do Burgundska, jenže v Burgundsku tak silně řádil mor a obávali se také, že nebudou mít potraviny. A tak se společně a pro to nejlepší uradili o odchodu, totiž že každý má táhnout nejkratší cestou zase domů."
+  },
+  {
+   "text": "Und also morndes vast frö vor tag brach man uff und wolt man ab statt ziechen, denn das mängen biderman bedachte, es were nit erlich, so frö vor tag usser der vygenden land ze ziechen. Und als man uffgebrochen und ze weg zogen was, do hielten die von Bern und Friburg mit ir paner und fennli uff demselben veld, da sy ir leger hatten, wol uff zwü oder dry stund [und wolten nit ab der walstatt, bys das es wol tag wart. Und zugen do denen nach, die gar frö das veld gerumpt hattend.] Daselbs die von Strasburg den von Bern usrichtung datten umb iren sold den vierhundert mannen. Darzu schankten sy inen an iren kosten ze stür achthundert Rinscher guldin. Und schieden also mit grosser fruntschaft und liebe von enandren.",
+   "preklad": "A tak se nazítří velmi časně před svítáním vyrazilo a chtělo se z toho místa odtáhnout, jenže mnohý poctivec uvážil, že by nebylo čestné odtahovat z nepřátelské země tak časně před svítáním. A když se vyrazilo a lidé byli na cestě, zůstali Bernští a Fribourgští se svou korouhví a praporcem stát na tomtéž poli, kde měli tábor, dobré dvě nebo tři hodiny [a nechtěli opustit bojiště, dokud nebyl jasný den. Teprve pak táhli za těmi, kdo pole tak časně vyklidili]. Tam Štrasburští vyrovnali Bernským žold za těch čtyři sta mužů. Kromě toho jim jako příspěvek na jejich náklady darovali osm set rýnských zlatých. A tak se od sebe rozešli ve velkém přátelství a lásce."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Data (Büchi): Grammont a Valant dobyty 21. 8. 1475, „morndes“ (nazítří) = 22. 8. 1475, kdy se vojsko vydalo na zpáteční cestu.",
+  "Büchi: podle d'Appiana se odtáhlo spíš kvůli chystanému vpádu vévody do Lotrinska; Knebel a Bernoulli to spojují s tím, že Savojsko vypovědělo Bernu přátelství.",
+  "Büchi (poznámky uložené u kap. 97): podrobnosti o tom, jak Bernští a Fribourgští zůstali stát na poli až do rozednění, nejsou jinde doloženy; i Fribourgští dostali od Štrasburku „Trinkpfennig“ (Freiburger Akten 59–60).",
+  "Oproti Schillingovi: epizoda, kdy Bernští a Fribourgští ze cti zůstali dvě až tři hodiny stát na bojišti, je jen u Molsheima. Schilling naopak uvádí, že žold byl vyplacen za půldruhého měsíce a 800 zlatých dáno jako „kuchyňské peníze“.",
+  "Pole schilling opraveno: Büchiho odkaz „Vgl. Schilling C. 104. al. 2. 3.“ je chyba OCR za 194 (odst. 2–3 Schillingovy kap. 194 odpovídají textu).",
+  "Opravy textu: do 1. odstavce strojově vpadly Büchiho poznámky („M Ueber die Einnahme von Vallant … am 22. wurde der Rückweg angetreten.“), vypuštěny; odstavce přerozděleny. Dále „wider so heimen“ → „wider heimen“ (číslo řádku), „ivolt“ → „wolt“, „eggenden“ → „vygenden“, „ungebrochen“ → „uffgebrochen“, „ivas“ → „was“, „zivü“ → „zwü“, „ivotten“ → „wolten“, „ge- blündret“ → „geblündret“, značky poznámek vypuštěny.",
+  "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

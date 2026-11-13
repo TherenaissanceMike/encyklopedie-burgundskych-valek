@@ -1,0 +1,32 @@
+{
+ "cislo": 21,
+ "nadpis": "Wie denen von Basel warnungen kamen, wie der herzog von Bürgün ir statt belegren wolte, darumb sy die Eydgnossen umb soldner und hilf batten.",
+ "edice": "Büchi 1914, ř. 482–485 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  78,
+  79
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 78.",
+  "Vgl. Schilling C. 79."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie denen von Basel warnungen kamen, wie der herzog von Bürgün ir statt belegren wolte, darumb sy die Eydgnossen umb soldner und hilf batten.",
+   "preklad": "21. Jak Basilejským přicházela varování, že vévoda burgundský chce oblehnout jejich město, a proto prosili konfederáty o žoldnéře a pomoc."
+  },
+  {
+   "text": "22. Wie die Eydgnossen denen von Basel nach irem begeren 800 man züseiten, damit sy inen ouch ze entschütten, wenn sy belegret wurden von dem herzogen von Bürgün.",
+   "preklad": "22. Jak konfederáti podle žádosti Basilejských přislíbili 800 mužů, aby je vysvobodili, kdyby je vévoda burgundský oblehl."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „vorr Biirgiin“ → „von Bürgün“, „e 22 .“ → „22.“, „Biirgiin“ → „Bürgün“, „be- legret“ spojeno.",
+  "Skrytý nadpis: odstavec 1 je nadpis kap. 22 (Vgl. Schilling C. 79), přeložen jako mezititulek.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 78 a 79; platí i pro kap. 22) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

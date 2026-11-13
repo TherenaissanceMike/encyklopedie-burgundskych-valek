@@ -1,0 +1,28 @@
+{
+ "cislo": 14,
+ "nadpis": "Wie der küng von Frankrich herzog Sygmund nit hilflich sin wolt wider die Eydgnossen und wie er zum herzogen von Bürgün reit und dem sin land versatzte.",
+ "edice": "Büchi 1914, ř. 456–457 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  55,
+  56,
+  57
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 55, 56, 57."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der küng von Frankrich herzog Sygmund nit hilflich sin wolt wider die Eydgnossen und wie er zum herzogen von Bürgün reit und dem sin land versatzte.",
+   "preklad": "14. Jak král francouzský nechtěl vévodovi Zikmundovi pomoci proti konfederátům a jak [Zikmund] jel k vévodovi burgundskému a zastavil mu svou zemi."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „kling“ → „küng“, „BUrgün“ → „Bürgün“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 55, 56, 57) a edice ho neotiskuje.",
+  "Zástava Předních zemí Karlu Smělému: smlouva ze Saint-Omer, 1469 (mimo Büchi)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

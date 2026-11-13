@@ -1,0 +1,25 @@
+{
+ "cislo": 17,
+ "nadpis": "Item hie seitt nun diss buch wie der hagenbach der genant Nee zu RersaheR gefangen ward merck hienach.",
+ "edice": "Usteri 1847, ř. 7756 souboru edice",
+ "rukopis_strana": 292,
+ "odstavce": [
+  {
+   "text": "Item hie seitt nun diss buch wie der hagenbach der genant Nee zu RersaheR gefangen ward merck hienach.",
+   "preklad": "Zde nyní tato kniha vypráví, jak byl Hagenbach, řečený […] v Breisachu [?], zajat. Čti dále."
+  },
+  {
+   "text": "In derselben vasten jm Lxxiiij jar uff den helgen karfrittag gieng hagenbach der lantuogt zu brisach am rin gelegen offenlich mit sinnen trumeter vnd pfiffren vnd zwang einnen priester, dz er jm gantze mess halten müst, das doch wider ordnung gemeiner kristenlichen kilchen wz, da er nun von der kilchen kam, hatt er gross vest mit pfiffen vnd warend uil sinner söldner jn der statt, welscher vnd tütscher vnd sprach zu den tütschen, er welt vnderstan ein graben vmm die stat ze machen vnd müstent alle wercken, wib vnd man jung vnd alt, doch was sin meinung, wen sy alle für die stat an dz werck dess grabens kemmend, so welte er sy alle vor der stat beschliessen vnd die stat anlein mit den walchen allen puntgnossen vorzubehalten.",
+   "preklad": "V témže postu roku 1474, na Velký pátek, šel Hagenbach, zemský fojt v Breisachu na Rýně, veřejně se svými trubači a pištci a donutil jednoho kněze, aby mu sloužil celou mši, což přece odporovalo řádu obecné křesťanské církve. Když pak přišel z kostela, slavil velkou slavnost s pištci. Ve městě bylo mnoho jeho žoldnéřů, vlašských i německých. I řekl Němcům, že chce dát kolem města vykopat příkop a že na něm musí pracovat všichni, ženy i muži, mladí i staří. Jeho úmysl však byl, že až všichni vyjdou před město k práci na příkopu, zavře je všechny venku a město si podrží jen s Vlachy proti všem spojencům."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „pfilfren“ → „pfiffren“, odstraněny zbloudilé uvozovky („‚vasten“, „‘vnd“).",
+  "Nadpis je v OCR zkomolený („der genant Nee zu RersaheR“). „RersaheR“ je nejspíš „Brisach“, slovo za „genant“ se nedá určit; v překladu […] a [?]. Nutno ověřit v rukopisu.",
+  "Velký pátek 1474 = 8. 4. 1474 (Velikonoce 10. 4.). Na Velký pátek se podle liturgie mše neslouží, proto „proti řádu církve“ (mimo text).",
+  "„die stat … allen puntgnossen vorzubehalten“ chápu jako „vor allen puntgnossen zu behalten“ (podržet proti všem spojencům).",
+  "Srov. Schilling kap. 104–106 (vlašská posádka v Breisachu, Hagenbachův úklad a zajetí)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

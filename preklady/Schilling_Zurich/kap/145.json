@@ -1,0 +1,60 @@
+{
+ "cislo": 145,
+ "nadpis": "Die zale der herren, so vor der stat Nuss bi einandern gewesen sind.",
+ "edice": "Tobler I, s. 207",
+ "rukopis_strana": 320,
+ "odstavce": [
+  {
+   "text": "145. Die zale der herren, so vor der stat Nuss bi einandern gewesen sind.",
+   "preklad": "145. Počet pánů, kteří byli spolu před městem Neuss."
+  },
+  {
+   "text": "Item am ersten der vorgenant Römsch keiser, mit siner ganzen macht.",
+   "preklad": "Předně výše jmenovaný římský císař s celou svou mocí."
+  },
+  {
+   "text": "Denne zechen rechter bischofen, churfürsten und ander mit allem irem volk.",
+   "preklad": "Dále deset řádných biskupů, kurfiřtů a jiných se vším svým lidem."
+  },
+  {
+   "text": "Denne 15 herzogen und marggrafen mit allem irem volke.",
+   "preklad": "Dále 15 vévodů a markrabat se vším svým lidem."
+  },
+  {
+   "text": "Denne 65 grafen.",
+   "preklad": "Dále 65 hrabat."
+  },
+  {
+   "text": "Denne drithalbhundert friherren.",
+   "preklad": "Dále dvě stě padesát svobodných pánů."
+  },
+  {
+   "text": "Denne 625 ritter.",
+   "preklad": "Dále 625 rytířů."
+  },
+  {
+   "text": "Denne ob viertusent edelman.",
+   "preklad": "Dále přes čtyři tisíce šlechticů."
+  },
+  {
+   "text": "Denne 68 richstette mit irem volk.",
+   "preklad": "Dále 68 říšských měst se svým lidem."
+  },
+  {
+   "text": "Item der keiser hat in ein summ bi im gehebt ob 75 tusent mannen.",
+   "preklad": "Dále měl císař u sebe celkem přes 75 tisíc mužů."
+  },
+  {
+   "text": "Item er hat ouch ob drithalbtusent zelten gehebt. Des andern zügs von büchsen und anderm ist gar vil gewesen.",
+   "preklad": "Dále měl také přes dva a půl tisíce stanů. Ostatní výzbroje, děl a jiného bylo velmi mnoho."
+  }
+ ],
+ "poznamky": [
+  "Úprava: seznam rozdělen na jednotlivé položky podle řádků edice.",
+  "Tobler: Ludwig von Eptingen (pisatel zprávy v kap. 144) poslal do Basileje mnohem podrobnější seznam (Knebel; Absch. II, 547).",
+  "Bernské varianty: nadpis „Die zale der fürsten und hern, so vor der stat Nüss gelegen…“; „mit sinem ganzen gewalt und macht“; „grafen mit irem volk“; „in ein summ erlicher und güter lüten, als obstat, bi im gehebt me dann 75 [tusent] manne“; na konci „und darzü andern züg von büchsen und sus, davon vil zu schriben wer“ (a k tomu jiné výzbroje, děl a dalšího, o čemž by bylo mnoho psát).",
+  "„drithalbhundert“ = 250, „drithalbtusent“ = 2500."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

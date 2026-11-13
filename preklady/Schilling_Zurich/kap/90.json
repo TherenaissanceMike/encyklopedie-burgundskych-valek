@@ -1,0 +1,25 @@
+{
+ "cislo": 90,
+ "nadpis": "Das vil frömdes volkes von Lampartern und andern harus in Tütsche land kam wider die von Bern und ander.",
+ "edice": "Tobler I, s. 130",
+ "rukopis_strana": 196,
+ "odstavce": [
+  {
+   "text": "90. Das vil frömdes volkes von Lampartern und andern harus in Tütsche land kam wider die von Bern und ander.",
+   "preklad": "90. Jak do německých zemí přišlo mnoho cizího lidu, Lombarďanů a jiných, proti Bernským a jiným."
+  },
+  {
+   "text": "In disen dingen kament den Eidgnossen teglich warnungen, wie das von Lamparten harus durch die Saföyschen lande und ouch die Etsch, herzog Sigmunds lande, vil scharen von Lamparten, Venediern und von Napels harus in Tütsch lande zugent, dem herzogen von Burgunnen zü hilf wider die Eidgnossen, als man das ouch wol teglich sach, und die man underwilent wol mit gütem glimpf gewent und inen den weg undergangen, wo man anders etwan den gemeinden und nit alwegen den gewaltigen gevolget hette, wie wol das von den witzigen ouch im besten angesechen was und darumb beschach, das man des krieges nit ein anfang wurde und man ouch ander güt sachen, damit dann etlich from lüte umbeingent, mit dester besseren fügen gehandlen möchte und solichen ungetruwen löufen begegnen. Dieselben Walchen und Lamparter, als der vil harus kam, understünd nü der von Hagenbach mit bösen listen und verreterie in die stett und slos an dem Rine, gen Brisach, Seckingen, Rinvelden, Louffenberg und Walzhüt zü legen und die mit denen inmassen zü besetzen, das er dero sicher were, damit und dadurch sin herr von Burgunnen sinen ingang wider die Eidgnossen und ander Tutsch land gehaben und do wibe und kind nach sinem anslage verderben möchte, des aber im derselben stetten merenteils und sunderlich die ob Basel am Rine nit gestatten, noch kein weltsch oder frömde soldner inlassen woltent, wann das si ie meintent in dem und anderm bi irem altem herkomen zü bliben und sich nit witer trengen lassen, denn aber inen das vom herzogen von Burgunnen zügesagt, verbriefet und versigelt were.",
+   "preklad": "Mezitím přicházela konfederátům denně varování, že z Lombardie přes savojské země a také přes Adiži, zemi vévody Zikmunda, táhnou do německých zemí mnohé zástupy Lombarďanů, Benátčanů a lidí z Neapole burgundskému vévodovi na pomoc proti konfederátům, jak se to také denně dalo vidět. Ty bylo možno mezitím s dobrým zdůvodněním obrátit zpět a zatarasit jim cestu, kdyby se bylo někdy dalo na obce, a ne vždy na mocné; ačkoli i rozumní to mysleli v nejlepším a stalo se to proto, aby se nezačínalo válkou a aby se jiné dobré věci, jimiž se zabývali někteří poctiví lidé, mohly tím vhodněji projednat a takovým nevěrným pletichám čelit. Ty Vlachy a Lombarďany, když jich přišlo mnoho, se nyní Hagenbach pokusil se zlými lstmi a zradou rozmístit do měst a hradů na Rýně, do Breisachu, Säckingenu, Rheinfeldenu, Laufenburgu a Waldshutu, a obsadit je jimi tak, aby si jimi byl jist; aby tím jeho pán Burgundský získal vstup proti konfederátům a jiným německým zemím a mohl tam podle svého záměru hubit ženy i děti. To mu však většina těchto měst, a zvláště ta nad Basilejí na Rýně, nedovolila a nechtěla vpustit žádné vlašské ani cizí žoldnéře, neboť chtěla v tom i v jiném zůstat při svém starém právu a nedat se tlačit dál, než jim to burgundský vévoda slíbil, dal listem a zpečetil."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu (úplnost): po „durch die Saföyschen lande“ chyběl řádek „und ouch die Etsch, herzog Sigmunds lande, vil scharen von“, který OCR přesunulo do kap. 89; vrácen. Dále z nadpisu odstraněno zbloudilé „a“, „Tuütsch“ → „Tütsch“, „mit.“ → „mit“, „meren_ teils“ → „merenteils“; dva odstavce sloučeny podle edice.",
+  "Tobler: Bernští si v roce 1473 a na jaře 1474 velmi často stěžovali na průchod Lombarďanů u savojské vévodkyně, ženevského biskupa a landvogta ve Vaudu a prosili o nápravu (Lat. a Teutsch Missiven, Rats-Manuale).",
+  "Tobler: podle Rýmované kroniky se Thann a Ensisheim zdráhaly přijmout Pikarďany; Witte o nich píše jako o „spodině lidstva“.",
+  "„die Etsch“ = Adiže, zde Etschland, tj. Tyrolsko vévody Zikmunda (mimo Tobler). „Walchen“ = Vlaši, románsky mluvící cizinci. Města na Rýně nad Basilejí jsou tzv. lesní města (mimo Tobler).",
+  "Glosář: „underwilent“ = mezitím, „undergan“ = zabránit, zatarasit. „glimpf“ = slušnost, dobrý důvod. Bernské varianty: „Lampartern“, „von den gewaltigen“, „bi irem alten herkomen“, „witer zü trengen lassen, dann“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

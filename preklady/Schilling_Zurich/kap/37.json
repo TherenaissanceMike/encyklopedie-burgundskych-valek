@@ -1,0 +1,24 @@
+{
+ "cislo": 37,
+ "nadpis": "Das die stat Undersewen ganz mit einandern verbran.",
+ "edice": "Tobler I, s. 44",
+ "rukopis_strana": 84,
+ "odstavce": [
+  {
+   "text": "37. Das die stat Undersewen ganz mit einandern verbran.",
+   "preklad": "37. Jak celé město Unterseen vyhořelo."
+  },
+  {
+   "text": "Darnach in dem andern iare an einem fritag nach dem meitag am morgen frü umb die zwei nach mitternacht, ging füre uf zü Undersewen und verbrant leider die stat ze grunde was in der ringmuren stünd, des die armen lüte zü grossem verderplichem schaden kament. Aber die von Bern, ir herren, tatent inen gros stüre, das si wider mochten gebuwen; si machtent inen ouch ein nüw koufhus, das gar vil costet und ander gros hilf, die si inen tatent.",
+   "preklad": "Potom, o dva roky později, v pátek po prvním máji, časně ráno kolem druhé hodiny po půlnoci, vypukl v Unterseenu oheň a spálil bohužel do základů všechno, co ve městě stálo uvnitř hradeb, čímž ubozí lidé utrpěli velkou, zhoubnou škodu. Ale Bernští, jejich páni, jim dali velkou podporu, aby mohli znovu stavět; postavili jim také nový kupecký dům, který stál velmi mnoho, a poskytli jim i jinou velkou pomoc."
+  }
+ ],
+ "poznamky": [
+  "Datum: Tobler uvádí 5. 5. 1470 (Tschachtlan má nemožné datum). Výpočtem (mimo Tobler): 1. 5. 1470 byl úterý, pátek po něm tedy 4. 5. 1470.",
+  "„in dem andern iare“ = v druhém roce, tj. 1470 po událostech roku 1468.",
+  "Tobler: nařízení rady o obnově Unterseenu jsou otištěna v Anzeiger für schweiz. Altertumskunde 1894; náklady činily 2200 liber. „koufhus“ = skladiště a prodejna zboží (glosář: Warenniederlage).",
+  "Bernské varianty: „in der ringmur was“, „gros hilf und stür, damit si…“. Oprava textu: odstraněna tečka v „ir herren, . tatent“, „|“ z nadpisu."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

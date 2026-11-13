@@ -1,0 +1,32 @@
+{
+ "cislo": 182,
+ "nadpis": "Das des herzogen von Oesterich und ander volk in Lothringen zugent.",
+ "edice": "Tobler I, s. 251",
+ "rukopis_strana": 419,
+ "odstavce": [
+  {
+   "text": "182. Das des herzogen von Oesterich und ander volk in Lothringen zugent.",
+   "preklad": "182. Jak lid rakouského vévody a jiní táhli do Lotrinska."
+  },
+  {
+   "text": "Indem do kament gros warnungen und gewiss mere, das der herzog von Burgunnen mit grossem gewalt und macht understünde durch Lothringen zü brechen, nachdem er dann das vorhin verwüst hat, und in Burgunnen zü ziechen. Und wurden also von dem herzogen von Lothringen al herren und stette der vereinunge gemant, zü inen zü ziechen und helfen ein widerstant tün. Do wart man betrachten, solt der herzog von Burgunnen als gewalticlichen durch Lothringen brechen und mit einem semlichen grossen züge in Burgunnen komen, das man dann davon grossen schaden möchte enpfachen; darzü meint graf Osswalt von Tierstein, des herzogen von Oesterich lantvogt, man solte in Lothringen ziechen, das were sin will und meinung.",
+   "preklad": "Mezitím přišla velká varování a jisté zprávy, že se burgundský vévoda s velkou silou a mocí chystá prorazit přes Lotrinsko, které předtím zpustošil, a táhnout do Burgundska. Lotrinský vévoda proto vyzval všechny pány a města spolku, aby k nim přitáhli a pomohli klást odpor. Tu se uvažovalo, že kdyby burgundský vévoda tak mocně prorazil přes Lotrinsko a s tak velkým vojskem přišel do Burgundska, mohla by z toho vzejít velká škoda. K tomu mínil hrabě Oswald von Thierstein, zemský fojt rakouského vévody, že by se mělo táhnout do Lotrinska; to že je jeho vůle a mínění."
+  },
+  {
+   "text": "Und also umb des besten willen, do wart man ze rat, das der vorgenante von Tierstein mit sinem volke, der gar ein mechtig zal was, in Lothringen ziechen und die von Strasburg mit denen von Bern und andern, die bi inen warent, ein leger für die stat und slos Blomont slachen und das understan solten; dann der bischof und die stat von Basel gar vast daran warent und gar früntlich manten und baten, das man nit also von dannen zuge, bis das Blomont vorhin erobert und gestraft wurde, dann es ein semlich stark slos und rouphus were, das iederman davon merglichen schaden enpfing.",
+   "preklad": "A tak se k nejlepšímu usneslo, že výše jmenovaný z Thiersteinu táhne se svým lidem, kterého byl velmi mocný počet, do Lotrinska, a Štrasburští s Bernskými a ostatními, kteří byli při nich, postaví tábor před město a hrad Blamont a podniknou to. Basilejský biskup a město Basilej totiž na tom velmi trvali a velmi přátelsky napomínali a prosili, aby se odtud neodtáhlo, dokud nebude Blamont nejprve dobyt a potrestán, neboť je to tak silný hrad a loupežné hnízdo, že z něho každý utrpěl značnou škodu."
+  },
+  {
+   "text": "Und wurdent ouch gar vil fromer lüten dar gefürt und in gevangnüs geleit und wider gotte und al billicheit geschetzt und gar vil vom leben zem tode gebracht und ouch etliche in der gevangnüsse hungers verderbet. Es wurden ouch von inen priester und frowen gefangen und geschetzet und darin niemans geschonet und sunderlich des bischofs lüte von Basel, der mit sinen stetten und slossen ein anstösser wer und aber das on hilf nit möcht verkomen.",
+   "preklad": "Bylo tam také odvlečeno velmi mnoho počestných lidí, uvrženo do vězení a proti Bohu a vší spravedlnosti vydíráno výkupným, velmi mnoho jich bylo připraveno o život a někteří ve vězení zahynuli hladem. Zajímali a vydírali také kněze a ženy a nikoho přitom nešetřili, zvláště ne lidi basilejského biskupa, který byl se svými městy a hrady jejich sousedem, ale bez pomoci tomu nemohl zabránit."
+  }
+ ],
+ "poznamky": [
+  "Tobler: tak to sice bylo dohodnuto, ale zemský fojt se hned vrátil do Alsaska (Schreiber, Witte). Schilling zamlčuje, že ve válečné radě mezi hejtmany došlo k ostrým a podrážděným sporům (Knebel). Nebezpečnost Blamontu pro basilejské biskupství zdůrazňuje i Knebel.",
+  "Bernské varianty: nadpis „Oesterich lantvogt und ander mit im“; „nüwen vereinung“; „vorberürt herzog“; „davon merglichen schaden“; „man solt mit im in L.“; „umb eren willen“; „bracht und hungers verderbt“; „Basel, des land und lüte daran stiessen“ (jehož země a lidé s ním sousedili).",
+  "„geschetzt“ = zdaněn výkupným, vydírán (schatzen).",
+  "Oprava textu: do věty „al herren und … stette der vereinunge“ byl vlepen řádek variant kap. 180 („9. sin; doch wart es nachmaln an denen von Gramont swarlich ge-“); odstraněno. Dále „undgewiss“ → „und gewiss“, „von.“ → „von“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

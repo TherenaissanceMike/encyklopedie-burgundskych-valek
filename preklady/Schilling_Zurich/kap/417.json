@@ -1,0 +1,29 @@
+{
+ "cislo": 417,
+ "nadpis": "Wann und zü welchen ziten das closter zu den Barfüssen usgebuwen wart.",
+ "edice": "Tobler II, s. 276",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "417. Wann und zü welchen ziten das closter zu den Barfüssen usgebuwen wart.",
+   "preklad": "417. Kdy a v jakém čase byl dostavěn klášter bosáků (františkánů)."
+  },
+  {
+   "text": "Als man zalt von der gebürt ünsers lieben hern und behalters Jhesu Cristi tusent vierhundert achtzig und drü iar umb sant Andres tag, wart das closter und wirdig gotshus zü den Barfüssen ganz usgebuwen, namlich die kirchen, der crützgang, torment und alle ander gebüw uswendig und inwendig, als es dann nüzemal stat. Und was in den ziten gardian herr Hans Küng, der den buw gar tapferlich zü handen nam und grossen ernst und flis darzü hat, dann er gar ein erlicher fromer priester was und buwt me dann vier iar aneinandern daran, und was darüber buwmeister Ludwig Hübschi, der darnach der stat werkmeister wart, darumb das er denselben buw so bald usbereit und gefürdert hat.",
+   "preklad": "Když se psalo od narození našeho milého Pána a Spasitele Ježíše Krista tisíc čtyři sta osmdesát tři let, kolem svatého Ondřeje, byl úplně dostavěn klášter a důstojný Boží dům u bosáků, totiž kostel, křížová chodba, dormitář a všechny ostatní stavby zvenčí i zevnitř, jak to nyní stojí. Kvardiánem byl v té době pan Hans Küng, který se stavby velmi zdatně ujal a vynaložil na ni velkou vážnost a píli, neboť to byl velmi čestný a zbožný kněz; stavěl na tom víc než čtyři roky v kuse. Stavebním mistrem nad tím byl Ludwig Hübschi, který se potom stal městským stavitelem (werkmeister), protože tuto stavbu tak brzy dokončil a urychlil."
+  },
+  {
+   "text": "Die von Bern gaben ouch von dem seckel- und der stat güt durch gottes willen daran gros merglich gelt und andern züg, desglich ander from biderb lüte ouch tatent; dann uf dieselben zite der erwirdig herr Jacob Damp, der dann in den vergangnen Romfärten, als hievor stat, geprediet hat, lessmeister was, vermant und bat ein gemeind als ernstlich, das si des an dem buw wol genussen; si möchten es anders nit haben verbracht.",
+   "preklad": "Bernští na to také dali z pokladny a městského jmění pro Boží lásku velké, značné peníze a jiný materiál, a stejně tak učinili i jiní zbožní, poctiví lidé. Neboť v té době byl lektorem ctihodný pan Jacob Damp, který kázal na minulých „římských poutích“, jak stojí výše, a napomínal a prosil obec tak vážně, že to stavbě [?] velmi prospělo; jinak by to nemohli dokončit."
+  }
+ ],
+ "poznamky": [
+  "Datum: kolem sv. Ondřeje = kolem 30. 11. 1483 (Tobler).",
+  "Tobler: klášter stál nahoře na Herrengasse, na místě staré kantonální školy a k demolici určené univerzity (stav kolem 1900). O podpoře Bernu bosákům od května 1479 do září 1483 viz Anzeiger f. schweiz. Altertumskunde 1900, 32–35; Bendicht Tschachtlan byl 1479 fojtem bosáků.",
+  "„torment“ = dormitář (dormitorium), společná ložnice mnichů; „lessmeister“ = lektor (učitel teologie v klášteře).",
+  "„das si des an dem buw wol genussen“ [?]: doslova „že z toho při stavbě dobře měli užitek“; podmět „si“ jsou nejspíš bosáci.",
+  "Oprava OCR: „seckelund“ → „seckel- und“. „geprediet“ ponecháno."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

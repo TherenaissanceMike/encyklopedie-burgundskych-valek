@@ -1,0 +1,29 @@
+{
+ "cislo": 183,
+ "nadpis": "Das von denen von Bern und andern ein leger für Blomont geslagen wart.",
+ "edice": "Tobler I, s. 252",
+ "rukopis_strana": 420,
+ "odstavce": [
+  {
+   "text": "183. Das von denen von Bern und andern ein leger für Blomont geslagen wart.",
+   "preklad": "183. Jak Bernští a jiní postavili tábor před Blamontem."
+  },
+  {
+   "text": "Und also in dem namen gottes do slüg man ein gewaltig leger für die stark stat und slos Blomont und leit man angendes daran drig gros houptbüchsen, namlich ein von Strasburg und ein von Basel; so hat ouch der lantvogt das Ketterlin von Ensissheim und darzü einen houbtman und etwas volkes ouch do gelassen. Und vieng man an schiessen in die stat, darumb si nit vil gabent, dann es warent vil güter büchsenmeistern und ander edel und unedel von Burgunnern, Lampartern und sus darinne und hatten vil güter buchsen und andern zug bi inen, darus si grossen schaden taten mit schiessen; dann si an allen orten gar vast harus schussen und wurdent vil luten gewüst und geletzt.",
+   "preklad": "A tak se ve jménu božím postavil mocný tábor před silné město a hrad Blamont a hned se k němu postavila tři velká obléhací děla (bombardy), totiž jedno ze Štrasburku a jedno z Basileje; zemský fojt tam také nechal „Kateřinku z Ensisheimu“ a k tomu jednoho hejtmana a něco lidu. A začalo se střílet do města, čehož si obránci příliš nevšímali, neboť uvnitř bylo mnoho dobrých puškařů a dalších, urozených i neurozených, Burgunďanů, Lombarďanů a jiných, a měli u sebe mnoho dobrých děl a jiné výzbroje, z níž střelbou působili velkou škodu. Ze všech míst totiž velmi silně stříleli ven a mnoho lidí bylo raněno a zmrzačeno."
+  },
+  {
+   "text": "Do zwüschen rustent sich die von Strasburg zü mit bolwerken, hertkörben, leitern und andern dingen, das zü einem sturm gehort und wart von einem sturm gerett, damit man den dingen ende gebe.",
+   "preklad": "Mezitím se Štrasburští chystali s přenosnými kryty, košovými náspy, žebříky a jinými věcmi, které patří k útoku, a mluvilo se o útoku, aby se celé věci učinil konec."
+  }
+ ],
+ "poznamky": [
+  "Tobler: podle Knebela dorazili před Blamont 31. 7., podle dopisu do Bielu byli vojáci před hradem už 30. 7. 1475.",
+  "Tobler: štrasburské velké obléhací dělo se jmenovalo „der Struss“ (Pštros), basilejská „die Rennerin“, rakouská „Kätterli von Ensisheim“ (viz kap. 188 a 196). Oswald von Thierstein tu nechal malou část svých vojsk pod pánem z Eptingenu.",
+  "„hertkörbe“ = koše plněné zeminou (Schanzkörbe), košové náspy (Tobler, glosář). „gewüst“ = zraněn (Tobler, glosář).",
+  "Bernské varianty: „und andern iren gewanten“, „gewalticlichen geslagen“, „büchsenmeister, darzü edel und ander“, „wart ouch“.",
+  "Oprava textu: odstraněna svislá čára „|“ v nadpisu."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

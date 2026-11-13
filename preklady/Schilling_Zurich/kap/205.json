@@ -1,0 +1,28 @@
+{
+ "cislo": 205,
+ "nadpis": "Das der graf von Röymont vom herzogen von Burgunnen harus kam und etlich Tütsch karrer niderwarf.",
+ "edice": "Tobler I, s. 287",
+ "rukopis_strana": 481,
+ "odstavce": [
+  {
+   "text": "205. Das der graf von Röymont vom herzogen von Burgunnen harus kam und etlich Tütsch karrer niderwarf.",
+   "preklad": "205. Jak hrabě z Romontu přišel od burgundského vévody do země a přepadl několik německých vozků."
+  },
+  {
+   "text": "Indem kam der graf von Röymond selbs persönlich mit etlichen den sinen in Saföy und sin land die Wat und ving von stund an zwen Tütsch karrer von Nürenberg, denen nam er vil güts und fürt das alles und ouch die karrer mit im von dannen. Er besatzt ouch alle sin stette und slos in der Wat mit frömden und heimschen völkern und trost si gar wol und meint, ob inen ieman ützit tün, so wurde inen der herzog von Burgunnen mit ganzer macht zü hilf komen und si vor iederman entschütten und nit verlassen, dann er were als stark und mechtig, das nieman wider in möcht tün; und macht inen damit ein semlichen trost und herz, das si sich daran begonden verlassen und daruf gar mengerlei wider die von Bern und Friburg anvingent.",
+   "preklad": "Mezitím přišel hrabě z Romontu sám osobně s několika svými lidmi do Savojska a do své země Vaudu a hned zajal dva německé vozky z Norimberka. Vzal jim mnoho zboží a odvezl všechno i s vozky pryč. Obsadil také všechna svá města a hrady ve Vaudu cizím i domácím lidem, velmi je povzbuzoval a ujišťoval, že kdyby jim kdo něco udělal, přijde jim burgundský vévoda celou mocí na pomoc, vysvobodí je přede všemi a neopustí je, neboť je tak silný a mocný, že proti němu nikdo nic nezmůže. Tím jim dodal takovou naději a odvahu, že se na to začali spoléhat a podnikali proti Bernským a Fribourgským mnohé věci."
+  },
+  {
+   "text": "Und als nü dis sachen alle ergangen warent und die von Bern und ander ir gewanten gegen dem grafen von Röymont und den sinen glimpfs und eren gnüg erwart, do hattent si sich mit iren machten zügerüst und versampnet und das den Eidgnossen ouch geschriben, das si zü inen zugen und das mit güter ordnunge tetent; dann si wol hatten vernomen, das die zü Jungii nit als gros not noch trang hatten, und beschach das darumb, das die von Bern und ander ir Eidgnossen in disen dingen mit wolbedachtem rat handlen und ouch ir ere bewaren möchten; und also schicktent die von Bern dem grafen von Röymont iren absagbrief, als harnach stat.",
+   "preklad": "Když se nyní všechny tyto věci staly a Bernští a jejich spojenci vůči hraběti z Romontu a jeho lidem dostatečně zachovali slušnost a čest, přichystali se a shromáždili se svou mocí. Napsali to i konfederátům, aby k nim přitáhli, a to v dobrém pořádku, neboť se dobře dozvěděli, že ti v Jougne nejsou v tak velké nouzi a tísni. Stalo se tak proto, aby Bernští a jejich ostatní konfederáti v těchto věcech jednali s dobře uváženou radou a mohli také zachovat svou čest. A tak Bernští poslali hraběti z Romontu svůj list s vypovězením války, jak následuje."
+  }
+ ],
+ "poznamky": [
+  "Tobler: přepadení vozků je zmíněno v bernském listu z 12. 10. 1475; odehrálo se u Morges 9. 10. (Teutsch Miss. C, 606; Witte). Válečné příčiny jsou shrnuty také v instrukci pro francouzského krále (Archiv f. schweiz. Gesch. V, 142 an.).",
+  "Oprava textu: „Bursunnen“ → „Burgunnen“ v nadpisu (OCR), „ving :“ → „ving“.",
+  "„glimpfs und eren gnüg erwart“ = dostatečně dbali slušnosti a cti, tj. dali hraběti všechny možnosti, aby nemohli být nařčeni z neoprávněné války.",
+  "Bernský rukopis podle variant: „not und trang“, na konci „Röymont mit irem botten abseiten“ (vypověděli válku po svém poslu)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

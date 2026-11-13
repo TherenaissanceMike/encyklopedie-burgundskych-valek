@@ -1,0 +1,26 @@
+{
+ "cislo": 25,
+ "nadpis": "Wie herr Peter von Hagenbach understund in ettlich stett uf dem Rin Lamparter und ander frombd volk ze legen, das aber die stett nit gestatten wolten.",
+ "edice": "Büchi 1914, ř. 510–513 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  89,
+  90
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 89, 90."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie herr Peter von Hagenbach understund in ettlich stett uf dem Rin Lamparter und ander frombd volk ze legen, das aber die stett nit gestatten wolten.",
+   "preklad": "25. Jak se pan Peter von Hagenbach pokusil uložit do některých měst na Rýně Lombarďany a jiný cizí lid, což mu však ta města nechtěla dovolit."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: odstraněno číslo řádku „5“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 89 a 90) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

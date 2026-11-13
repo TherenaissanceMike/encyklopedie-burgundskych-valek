@@ -1,0 +1,24 @@
+{
+ "cislo": 92,
+ "nadpis": "Das denen von Nürenberg und andern stetten in Swoben und am Bodense dis sachen gar wenig zü herzen gingent.",
+ "edice": "Tobler I, s. 130",
+ "rukopis_strana": 199,
+ "odstavce": [
+  {
+   "text": "92. Das denen von Nürenberg und andern stetten in Swoben und am Bodense dis sachen gar wenig zü herzen gingent.",
+   "preklad": "92. Jak Norimberským a jiným městům ve Švábsku a u Bodamského jezera šly tyto věci k srdci jen velmi málo."
+  },
+  {
+   "text": "Wie vil und grosses nü Tütschen landen, dem heiligen riche und den Eidgnossen an disen dingen und sweren sachen gelegen was, so warent doch des heiligen richs stette am Bodense, darzü die von Nürenberg und etlich ander in Swobenland wenig ingedenk, was trüwen und gütes inen die Eidgnossen in iren vergangnen kriegen und sachen iewelten getan und lib und güt zü inen gesatzt hatten, wann si darzü gar stille swigent und sich weder mit hilf noch rat gegen den Eidgnossen ganz nit erbutten, wiewol si allen handel wistent und die von Bern und ander Eidgnossen inen das me dan einmal geschriben hattent. Und was doch der erberkeit wol zü bedenken, wo es den Eidgnossen missraten, das dann der toppel am ersten über dieselben stette und ander des heiligen richs zügewanten geratten und Tütscher nacion ein herter slag worden were, wiewol dis zü widerstande wenig lüten, dann allein der fromen Eidgnosschaft zü herzen ging, an allen zwivel als vast und mer von des heiligen riches als ir selbs wegen; wann ob ioch die sach uf das hertest geratten sin solt, so hand von gots gnaden die von Bern und ander Eidgnossen noch solich land und lute mit semlichen slossen, stetten, wassern und gebirgen umbgeben, das si sich villicht als bald als ander lüte mit der hilf gottes erwert hetten, als das ir fromen vordern in gar vil grössern striten und kriegen ouch getan und an si bracht haben.",
+   "preklad": "Jakkoli mnoho a velmi na těchto věcech a těžkých záležitostech záleželo německým zemím, Svaté říši a konfederátům, přece města Svaté říše u Bodamského jezera, k tomu Norimberští a některá jiná města ve Švábsku jen málo pamatovala, jakou věrnost a dobro jim konfederáti v jejich minulých válkách a záležitostech odedávna prokázali a jak pro ně nasazovali život i statky. Neboť k tomu docela mlčeli a nenabídli konfederátům vůbec ani pomoc, ani radu, ačkoli o celé věci věděli a Bernští i jiní konfederáti jim to psali více než jednou. A přece měli ctihodní dobře uvážit, že kdyby se konfederátům nedařilo, obrátila by se ta hra nejprve proti týmž městům a jiným spojencům Svaté říše a pro německý národ by to byla tvrdá rána. Avšak postavit se tomu leželo na srdci málokomu kromě statečného Spříseženstva, a to bezpochyby stejně a ještě více kvůli Svaté říši než kvůli sobě. Neboť i kdyby to dopadlo co nejhůře, mají Bernští a jiní konfederáti z Boží milosti ještě takové země a lidi, obklopené takovými hrady, městy, vodami a horami, že by se s Boží pomocí snad ubránili stejně dobře jako jiní lidé, jak to dokázali jejich stateční předkové v daleko větších bitvách a válkách a jak to přešlo na ně."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: konec nadpisu „herzen gingent.“ byl OCR přenesen do prvního odstavce; vrácen do nadpisu. „Fidgnossen“ → „Eidgnossen“, „luüten“ → „lüten“; dva odstavce sloučeny podle edice.",
+  "Tobler: zjevně narážka na výpravu švýcarských žoldnéřů k Norimberku roku 1450 (Liebenau).",
+  "Tobler: v bernských knihách odeslaných listů ani v radních manuálech není stopa po dopisech švábským městům a Norimberku. Vztahy Bernu k Norimberku byly ještě 1475 dobré; 29. 10. 1475 Bern chválí starou věrnost a přátelství Norimberských. Jde asi o záměnu s rokem 1476 (kap. 257).",
+  "„der erberkeit“ = ctihodným, tj. městským radám. Bernské varianty: „und wassern umbgeben mit iren gebirgen“, „in andern grossen striten und kriegen ouch getan und mit manlichen eren an si bracht haben“ (a s mužnou ctí to na ně přenesli)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

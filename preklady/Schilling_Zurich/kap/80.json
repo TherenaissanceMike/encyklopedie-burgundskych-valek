@@ -1,0 +1,26 @@
+{
+ "cislo": 80,
+ "nadpis": "Das der vorgenant herzog von Burgunnen mit einem treffenlichen züg in das Sunkow und Elsas kam.",
+ "edice": "Tobler I, s. 117",
+ "rukopis_strana": 176,
+ "odstavce": [
+  {
+   "text": "80. Das der vorgenant herzog von Burgunnen mit einem treffenlichen züg in das Sunkow und Elsas kam.",
+   "preklad": "80. Jak výše jmenovaný burgundský vévoda přitáhl se znamenitým vojskem do Sundgau a Alsaska."
+  },
+  {
+   "text": "Dis gestünd also etwas zites, das die von Basel niemand umb den züsatz ervordertent und villicht nit als vast als vorhin von den Burgunnern bekumbert wurdent, bis darnach umb der heiligen drier küngen tag kam der herzog von Burgunnen durch das Münstertal mit einem treffenlichen zuge, vier- oder funftusent harus gen sant Pulten und da dannen gen Brisach. Da bleip er etlich tage, die lande siner pfantschaft zü geschowen; mit erzöugen vil hochvart und gewalts zoch er da wider und für gegen Tann und in dieselben art und lies doch nieman nit beschechen, wann das er dem glich tet, als ob er etwas güten zites im lande bliben wolt. Von den edlen und etlichen hetzhunden derselben landen und ouch des Hegöws, die alwegen zwüschent der herschaft von Oesterich und ouch den Eidgnossen zü unfrid anreitzer gewesen warent, wart er wol enpfangen, und des nieman zwiveln sol, im von denselben wenig, das zü frid der landen und zü güt dem gemeinen nutz oder den Eidgnossen zü eren gedienen möcht, ingeblasen, wann das si sin gemüte, das on das liechticlichen zü allen untugenden und hochvart ufsteig, mit vil und mengerlei sachen und unteten, die nacher inen allermeist ufwüchsent, teglichs wider die Eidgnosschaft bewegten, als si das vormalen dem fromen fursten, herzog Sigmunden, irem natürlichen herren, ouch getan und zem dickern mal in wider sinen willen verfürt hattent, darinne mer ir dienstgelt und eigner nutz, dann die ere des fürsten oder friden der landen von inen angesechen wart.",
+   "preklad": "Tak to nějaký čas trvalo, že Basilejští nikoho o posádku nežádali a Burgundští je snad už netrápili tolik jako předtím, až potom kolem Tří králů přitáhl burgundský vévoda Münstertalem se znamenitým vojskem, čtyřmi nebo pěti tisíci, sem k Saint-Hippolyte (sant Pulten) a odtud do Breisachu. Tam zůstal několik dní, aby si prohlédl země své zástavy; okázale ukazoval velkou pýchu a moc, táhl odtud sem a tam k Thannu a do těch končin, a přece nikomu nic neudělal, jen se choval tak, jako by chtěl zůstat v zemi delší dobu. Šlechtici a někteří štváči (hetzhunde, doslova štvaní psi) těch zemí a také Hegau, kteří vždycky mezi rakouským panstvím a konfederáty podněcovali nepokoj, ho dobře přijali. A nikdo nemá pochybovat, že mu od nich bylo našeptáno jen málo toho, co by mohlo sloužit k míru zemí, obecnému dobru nebo ke cti konfederátů. Naopak denně popouzeli proti Spříseženstvu jeho mysl, která i bez toho lehce stoupala ke všem neřestem a pýše, mnoha a rozmanitými věcmi a zlými činy, které se jim pak samým nejvíc vymstily. Tak to předtím činili i zbožnému knížeti vévodovi Zikmundovi, svému přirozenému pánu, a mnohokrát ho svedli proti jeho vůli; šlo jim při tom víc o jejich služné a vlastní prospěch než o čest knížete nebo o mír zemí."
+  }
+ ],
+ "poznamky": [
+  "Oprava nadpisu a textu: do nadpisu byl vlepen začátek textu („Dis gestünd also … als vor-“) a odkaz „)“; nadpis oddělen a tři odstavce spojeny do jednoho podle edice. OCR: „vieroder“ → „vier- oder“, „doch °“ → „doch“, „zwuüschent“ → „zwüschent“, „untugen3 den“ → „untugenden“.",
+  "Datum: Tři králové = 6. 1. 1474.",
+  "Tobler: Schilling cestu nezná přesně. Vévoda přišel z Nancy přes Markirch (Sainte-Marie-aux-Mines) údolím Weilertal (ne Münstertal) do Colmaru, 24.–31. 12. 1473 byl v Breisachu, pak v Ensisheimu (na Tři krále tam byl), 8. 1. 1474 odtáhl do Thannu a po dvou dnech přes Montbéliard do Besançonu. Kolem St. Pilt (Saint-Hippolyte, mezi Sélestatem a Bergheimem) jistě projel.",
+  "Tobler: údaje o síle vojska se rozcházejí, Schillingovo číslo se však pravdě blíží. Bernská varianta: „fünftusent pferden“ (pět tisíc koní, tj. jezdců).",
+  "„die lande siner pfantschaft“ = země, které vévodovi zastavil Zikmund Rakouský (mimo Tobler: smlouva v Saint-Omer 1469).",
+  "„die nacher inen allermeist ufwüchsent“ = které jim potom nejvíc „narostly“, tj. obrátily se proti nim; bernská varianta „allermeist anhiengen“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

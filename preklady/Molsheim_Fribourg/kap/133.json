@@ -1,0 +1,26 @@
+{
+ "cislo": 133,
+ "nadpis": "Wie die bede stett Bern und Friburg dem küng von Frankrich schriben die tück und valscheit der herzogin von Savoye heimlich erzöugte den fromen stetten Bern und Friburg.",
+ "edice": "Büchi 1914, ř. 1544–1545 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  235
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 235, stark gekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die bede stett Bern und Friburg dem küng von Frankrich schriben die tück und valscheit der herzogin von Savoye heimlich erzöugte den fromen stetten Bern und Friburg.",
+   "preklad": "133. Jak obě města Bern a Fribourg psala francouzskému králi o úskocích a falešnosti, které vévodkyně savojská tajně prokazovala statečným městům Bernu a Fribourgu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR v nadpisu: „kling“ → „küng“, „tiick“ → „tück“.",
+  "Büchi tiskne jen nadpis s odkazem „Vgl. Schilling C. 235, stark gekürzt“; Molsheimův silně zkrácený text v edici není. Obsah je u Schillinga, kap. 235 (list Bernu Fribourgu z 19. 7. 1475 o průchodu burgundského bastarda Savojskem a závěrečná zmínka o stížnostech u francouzského krále na jeho sestru, vévodkyni Jolandu).",
+  "Oproti Schillingovi: u Schillinga v nadpisu píší Bernští Fribourgským, u Molsheima píší obě města společně francouzskému králi."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

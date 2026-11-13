@@ -1,0 +1,25 @@
+{
+ "cislo": 232,
+ "nadpis": "Das die Nüuwenstat ouch gewunnen und manlichen erobert wart.",
+ "edice": "Tobler I, s. 329",
+ "rukopis_strana": 557,
+ "odstavce": [
+  {
+   "text": "232. Das die Nüuwenstat ouch gewunnen und manlichen erobert wart.",
+   "preklad": "232. Jak bylo dobyto také Villeneuve (Nüwenstat) a mužně obsazeno."
+  },
+  {
+   "text": "Darnach an dem sonnentag reminiscere in der vasten in dem 76. iare zugent aber die von Wallis us mit den houptlüten und soldnern von Bern, die bi inen zü sant Mauricien und an andern enden warent zer Nüwenstat ob dem slos Tschilliun und warent ir bi vierhundert werlicher mannen und gewunnent die stat uberhoupt und erslügent darinne ob fünfhundert mannen, den merenteil Saföyer; darunder warent etlich frömbd soldner ouch, denen dann ir rechter sold und lon wart, dann si das an denen von Bern und den iren wol verdient hatten mit schantlichen und lasterlichen worten und werken. Ir ertrunken ouch in dem sew gar vil und beschach von gottes gnaden sust nieman nit.",
+   "preklad": "Potom v neděli Reminiscere v postě roku [14]76 vytáhli Valaisští znovu, spolu s bernskými hejtmany a žoldnéři, kteří byli u nich v Saint-Maurice a na jiných místech, k Villeneuve (Nüwenstat) za hradem Chillon. Bylo jich asi čtyři sta branných mužů. Dobyli to město útokem a pobili v něm přes pět set mužů, většinou Savojanů. Byli mezi nimi i někteří cizí žoldnéři, kterým se tak dostalo jejich pravého žoldu a mzdy, neboť si to na Bernských a jejich lidech dobře zasloužili hanebnými a potupnými slovy i činy. Velmi mnoho jich také utonulo v jezeře, a z Boží milosti se jinak nikomu [z našich] nic nestalo."
+  }
+ ],
+ "poznamky": [
+  "Datum kap. 232: neděle Reminiscere 1476 = 10. 3. 1476 (Tobler: dobytí Neuenstadt u Chillonu 10. března). Tobler: Schilling uvádí počet padlých nepřátel o 100 vyšší (podle Knebla a Rüsche); 19. 3. Bern děkoval sionskému biskupovi za pomoc u Neuenstadt.",
+  "Nüwenstat ob dem slos Tschilliun: Tobler „Neuenstadt (Neuveville) bei Chillon“; jde o dnešní Villeneuve (VD) na východním konci Ženevského jezera (mimo Tobler). „sew“ = Ženevské jezero.",
+  "(Týká se kap. 233 [2].) „so wart dennocht ein on gemacht“: v OCR zřejmě chybí nebo je zkomoleno slovo; přeloženo „dohoda [?]“ (snad „abred“ či „bestand“, nejisté).",
+  "Datum příměří (kap. 233): Tobler soudí, že příměří bylo uzavřeno před únorem 1476, nejspíš koncem roku 1475 (po 15. 12. 1475, kdy vévodkyně savojská svolila ke smírčímu dni), ne po Velikonocích 1476, jak by vyplývalo ze Schillingova pořadí; Bern a Fribourg drželi St-Maurice a Conthey v únoru–dubnu 1476. Varianty: „Rüffen v. Wippingen“; u Martigny „sweren und dienen solt“.",
+  "Místa (kap. 233): sant Mauricien = Saint-Maurice, Gundis = Conthey (Tobler), Martenach = Martigny, sant Bernhartsberg = Velký Svatý Bernard, Venedie = Benátky. „Haren Im Hof“ z Uri ponecháno podle pramene."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

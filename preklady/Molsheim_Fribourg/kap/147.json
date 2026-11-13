@@ -1,0 +1,25 @@
+{
+ "cislo": 147,
+ "nadpis": "Von dem züg, so dem herzogen von Bürgün vor Gransen abgewunnen wart.",
+ "edice": "Büchi 1914, ř. 1824–1826 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  273
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 273, al. 2 und 3, gekürzt."
+ ],
+ "odstavce": [
+  {
+   "text": "Von dem züg, so dem herzogen von Bürgün vor Gransen abgewunnen wart.",
+   "preklad": "147. O výzbroji, která byla vévodovi burgundskému před Grandsonem ukořistěna."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: opraven nadpis („Bürglin“ → Bürgün, „ab- gewunnen“). Büchi pod nadpisem Molsheimův text netiskne, jen odkazuje na Schillinga C. 273, al. 2 a 3 („gekürzt“, zkráceně): o 420 dobytých dělech odvezených do Nidau a o víc než 600 korouhvích rozdělených v Luzernu. Varianta B začíná: „Man gewann ouch dem herzogen von Burgun und den sinen so gross [gut] an vor Gransson, das es unsäglich ist“ (vévodovi a jeho lidem se před Grandsonem ukořistilo tak velké jmění, že je to nevýslovné).",
+  "Překlad: „züg“ zde znamená válečnou výzbroj, hlavně dělostřelectvo."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

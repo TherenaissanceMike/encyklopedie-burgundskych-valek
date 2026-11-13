@@ -1,0 +1,28 @@
+{
+ "cislo": 22,
+ "nadpis": "Als der gross pund dem hertzog von brugune jr absagung vnd figindschaft schicktend.",
+ "edice": "Usteri 1847, ř. 7876 souboru edice",
+ "rukopis_strana": 298,
+ "odstavce": [
+  {
+   "text": "Als der gross pund dem hertzog von brugune jr absagung vnd figindschaft schicktend.",
+   "preklad": "Jak Velký spolek poslal vévodovi burgundskému své vypovězení a nepřátelství."
+  },
+  {
+   "text": "Vff sömliche manung so den vnsser her der römsch keisser dem grossen pundt obertütschen landen geschickt hatt vnd sy hoch vnd treffenlichen mant, rittend sy zusamen vnd hattend vmm söliche sachen ratt, also ward man zu rat dem hertzog von brugune nüt zu schädigen weder an lütt noch an land sy hettend jm dann uor recht vnd redlichen jr absagung vnd figendschaft gethan, also liessend sy gemeinlich schriben ein absagung vnd schicktend die bin einem alten herold vnd partzifal genant casper hurder zu dem hertzog von brugune, also derselb liess nüt ab byss er dem brugunschen hertzog jn sin eigen hand den brieff geantwortett vnd jm mit mund die absagung ouch verkuntt cet. vnn dass beschach vff den xx tag dess ersten herpstmanet jm obgemelten jar jm Lxxiij jar.",
+   "preklad": "Na takovou výzvu, kterou náš pán, římský císař, poslal Velkému spolku hornoněmeckých zemí a velmi důrazně a naléhavě je vyzýval, sjeli se a radili se o té věci. Usnesli se, že vévodovi burgundskému neuškodí ani na lidech, ani na zemi, dokud mu předtím řádně a poctivě nevypovědí nepřátelství. Dali tedy společně sepsat odpovědní list a poslali ho po starém heroldovi a persevantovi jménem Caspar Hurder vévodovi burgundskému. Ten nepřestal, dokud burgundskému vévodovi neodevzdal list do jeho vlastní ruky a neoznámil mu vypovězení i ústně atd. A stalo se to 20. dne prvního podzimního měsíce výše řečeného roku, roku 1473 [sic]."
+  },
+  {
+   "text": "Item vnd als die von basel des ersten samstag gan sattenrieth kamend, samlentend sich am morgen uff dem suntag die puren vs pfirterampt jnn suncköw, vnd tattend einnen anslag, wie sy gan blamund ziechen vnd jre figint berouben oder beschädigen weltend.",
+   "preklad": "A když Basilejští onu první sobotu přišli do Delle, shromáždili se ráno v neděli sedláci z ferretského úřadu v Sundgau a umluvili se, že potáhnou k Blamontu a své nepřátele oloupí nebo jim uškodí."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: „brugunschen . hertzog“ → „brugunschen hertzog“; odstraněna značka poznámky. Usteri: datum v opisu chybí, autor je doplnil později.",
+  "„erster herpstmanet“ = září, tedy 20. 9.; rok „Lxxiij“ (1473) je chyba. Vypovězení války Burgundsku je z 25. 10. 1474 a list byl 29. 10. 1474 odevzdán v Blamontu vévodovým místodržícím, ne vévodovi do ruky (mimo text; srov. Schilling kap. 126–127). Podle Toblerovy poznámky u Schillinga kap. 127 byl Kaspar Hurder rakouský herold.",
+  "„partzifal“ = persevant (pursuivant), nižší heroldský hodnostář (mimo text) [?].",
+  "Třetí odstavec patří dějově k následující kapitole. „pfirterampt“ = úřad (Amt) Pfirt, tj. Ferrette v Sundgau. Sobota = 20. 8. 1474 (viz kap. 20), neděle tedy 21. 8. 1474."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

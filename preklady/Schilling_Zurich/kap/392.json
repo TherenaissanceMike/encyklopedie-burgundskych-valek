@@ -1,0 +1,28 @@
+{
+ "cislo": 392,
+ "nadpis": "Von einem grossen winde.",
+ "edice": "Tobler II, s. 242",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "392. Von einem grossen winde.",
+   "preklad": "392. O velkém větru."
+  },
+  {
+   "text": "Darnach als die wassergrösse güter mass vergangen was, umb winechten des vorgenanten iares, kam gar ein unsaglicher grosser wind in der nacht, als mechtig und ungehür, das sich niemant desglich kond oder mocht versinnen; der warf vil kilchentürn uf dem lande und in den dörfern und sunder merenteils alle helm daruf, und darzü gar vil hüser und schüren, desglichen an mengen orten ganz welde darnider, darzü ouch gar vil berender bömen, und verdarp ouch vil veches in den hüsern und schüren, die da nidervielen, das menglich darab schrecken und gros verwundern hat, dann die von Lutzern und ander lender von Eidgnossen clagten desselben winds schaden und verlust vil me, dann die wassergrösse und sunderlich die berenden früchtbaren böme, darumb si merenteils kamend.",
+   "preklad": "Potom, když velká voda už z valné části opadla, přišel kolem Vánoc téhož roku v noci nevýslovně velký vítr, tak mocný a strašlivý, že si nikdo nedovedl ani nemohl vzpomenout na nic podobného. Povalil mnoho kostelních věží na venkově a ve vesnicích, a zvláště skoro všechny jejich špičaté střechy, k tomu velmi mnoho domů a stodol, na mnoha místech také celé lesy a k tomu velmi mnoho ovocných stromů. Zahubil také mnoho dobytka v domech a stodolách, které se zřítily, takže se každý vyděsil a velmi se tomu divil. Luzernští a jiné země konfederátů si totiž na škodu a ztrátu od toho větru stěžovali mnohem víc než na povodeň, a zvláště na ovocné stromy, o které z velké části přišli."
+  },
+  {
+   "text": "Desglich beschach ouch zü Ober- und Nidersibental und in andern dero von Bern lendern und gebieten grosser schad. Der almechtig ewig gotte welle üns fürbas darvor behüten.",
+   "preklad": "Podobně se stala velká škoda i v Horním a Dolním Simmentalu a v jiných zemích a panstvích Bernských. Kéž nás všemohoucí věčný Bůh před tím i nadále chrání."
+  }
+ ],
+ "poznamky": [
+  "Kapitola je jen v rukopisu Z; bernský rukopis B končí kap. 387 (Tobler), varianty B proto nejsou.",
+  "Datum: „kolem Vánoc téhož roku“ = Vánoce 1480 (záhlaví strany u Toblera 1480–1481); bližší určení Tobler nedává.",
+  "„helm“ = špičatá střecha věže (helmice), „berend“ = plodící, nesoucí ovoce (glosář), „güter mass“ = z valné části.",
+  "Opravy OCR: „HEidgnossen“ → „Eidgnossen“, „schaden. und“ → „schaden und“, „Oberund“ → „Ober- und“, „füurbas“ → „fürbas“. Text je úplný."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

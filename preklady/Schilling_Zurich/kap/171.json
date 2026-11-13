@@ -1,0 +1,29 @@
+{
+ "cislo": 171,
+ "nadpis": "Das die von Bern denen von Strasburg gar früntlich zusagten, als harnach stat.",
+ "edice": "Tobler I, s. 244",
+ "rukopis_strana": 393,
+ "odstavce": [
+  {
+   "text": "171. Das die von Bern denen von Strasburg gar früntlich zusagten, als harnach stat.",
+   "preklad": "171. Jak Bernští Štrasburským velmi přátelsky přislíbili, jak následuje."
+  },
+  {
+   "text": "Solich bitt und vermanen der fromen stat von Strasburg ward denen von Bern zü herzen gan und wurden betrachten den grossen costen, müg und arbeit, so dann ein stat von Strasburg zü allen ziten mit inen und andern Eidgnossen gehebt het, und besunders von deswegen, das der von Bern kouflüt und ander von Eidgnossen in kurzen ziten durch si mit gar grossen costen entschüt und erlöst warent worden, als si dann der von Höwdorf uf dem Rine nidergeworfen und gevangen hat. Von der und ander sachen und güteten wegen, und ouch darumb si als wol als ander mit dem herzogen von Burgunnen in ofner vientschaft stünden und dem kriege gern ein ende hetten geben, do sagtent si denen von Strasburg gar fruntlichen zü, si wolten inen einen güten züschüp und hilf tün, und doch nit me dann von vierhundert mannen nach irem begeren sold nemen, und was si inen darüber santen, do woltent si von inen keins soldes, des inen die von Strasburg gar grossen dank sagten.",
+   "preklad": "Tato prosba a výzva zbožného města Štrasburku šla Bernským k srdci. Uvážili velké náklady, námahu a práci, které město Štrasburk vždycky s nimi a s jinými konfederáty mělo, a zvláště to, že bernští a jiní konfederační kupci byli nedávno jeho zásluhou s velmi velkými náklady vysvobozeni a vykoupeni, když je pán z Heudorfu na Rýně přepadl a zajal. Pro tuto a jiné věci a dobrodiní, a také proto, že i oni stejně jako jiní byli s vévodou burgundským v otevřeném nepřátelství a rádi by válce učinili konec, přislíbili Štrasburským velmi přátelsky, že jim poskytnou dobrou pomoc a podporu, a podle jejich přání si nevezmou žold za víc než čtyři sta mužů; za ty, které by jim poslali navíc, od nich žádný žold nechtějí. Za to jim Štrasburští velice děkovali."
+  },
+  {
+   "text": "Und also zugent die von Bern von stund an tusent wol gewapneter und stritbarer mannen mit einem venli us und gabent denen zü einem houptman herr Niclausen von Diespach, rittern, und nament doch nit me soldes, dann von vierhundert mannen, als vorstat. Desglich gaben inen die von Solotern ouch anderthalbhundert man umb sold mit einem venli, die waren ouch bi denen von Bern und hatten mit einandern lieb und leid, als si dann iewelten getan hand.",
+   "preklad": "A tak Bernští hned vypravili tisíc dobře ozbrojených a bojeschopných mužů s praporcem a dali jim za hejtmana pana Niklause von Diesbach, rytíře, a přesto si vzali žold jen za čtyři sta mužů, jak výše stojí. Stejně tak jim Solothurnští dali sto padesát mužů za žold s praporcem; ti byli také s Bernskými a sdíleli spolu dobré i zlé, jak to odjakživa dělali."
+  }
+ ],
+ "poznamky": [
+  "„der von Höwdorf“ = Bilgeri von Heudorf; přepadení a zajetí kupců na Rýně viz kap. 62–66 (Tobler).",
+  "Tobler: Niklaus von Diesbach byl už listem z 24. 6. 1475 žádán, aby opustil Baden, neboť jeho přítomnost v Bernu je „vast not und güt“ (velmi nutná a dobrá); 2. 7. byl zvolen hejtmanem.",
+  "Varianty druhého rukopisu: „der lobrichen stat“, „ein erlichen züschüp und hilf senden“, „santen, darumb bedörften si nieman besolden“ (za ty navíc nemuseli nikomu platit); smysl nemění.",
+  "„anderthalbhundert“ = 150. „iewelten“ = odjakživa.",
+  "Opravy OCR: „durch 'si“ → „durch si“, odstraněna značka poznámky „hat.)“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

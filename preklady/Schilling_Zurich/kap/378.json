@@ -1,0 +1,34 @@
+{
+ "cislo": 378,
+ "nadpis": "Die straf, so die von Bern und ander Eidgnossen von semlicher sach wegen den iren tatent.",
+ "edice": "Tobler II, s. 213",
+ "rukopis_strana": 928,
+ "odstavce": [
+  {
+   "text": "378. Die straf, so die von Bern und ander Eidgnossen von semlicher sach wegen den iren tatent.",
+   "preklad": "378. Trest, který Bernští a ostatní konfederáti kvůli té věci uložili svým lidem."
+  },
+  {
+   "text": "Semlich bös sachen und mere kament gar bald und am ersten gen Bern, die des, als nit unbillich was, usdermassen übel erschracken und vorchten den zorn gottes, der gar ze mengen malen die unschuldigen mit den schuldigen hat verderben lassen; und wurden von stund an durch si tag angesetzt und gemeinen Eidgnossen gen Lutzern verkünt. Do wart semlich mort und bös sachen von inen betracht und einhelliclich geraten und beslossen, das iederman von stetten und lendern zü den sinen, die dann bi semlichem mort gewesen und an dem küng oder andern meineidig worden oder sust über eide oder ere hinweg gangen werent, griffen und die angendes in turn und snöde gevangnüsse werfen und den nachrichtern bevelhen, die solten si nach aller notdurft martren und voltern.",
+   "preklad": "Takové zlé věci a zprávy přišly velmi brzy, a nejdříve do Bernu. Bernští se toho, jak nebylo nespravedlivé, nesmírně zle polekali a báli se Božího hněvu, který už mnohokrát nechal zahynout nevinné spolu s vinnými. Hned vypsali sněm a oznámili ho obecným konfederátům do Luzernu. Tam onu vraždu a zlé věci uvážili a jednomyslně se uradili a usnesli, že každý, města i země, má sáhnout na své lidi, kteří byli při té vraždě a stali se křivopřísežníky vůči králi nebo jiným, anebo jinak porušili přísahu či čest, a hned je vsadit do věže a do tvrdého vězení a poručit je katům, aby je, jak bude třeba, mučili a trápili na útrpném právu."
+  },
+  {
+   "text": "Und wo iemand bi semlichen sachen gewesen und daran schuldig were, die solt man nach irem verdienen mit schantlichen töden richten und ouch alle von iren eren gesatzt sin und weder zü rat noch gericht niemermer genomen werden, noch kein kuntschaft wider nieman sagen, sunder ganz meineid und erlos sin und bliben. Das ouch zem teil beschach und wurdent ze Bern und andern enden gar vil gevoltert, die müsten urfechbrief über sich geben um die sachen, als obstat. Es wurden ouch etlich derselben mit schantlichen, lasterlichen töden nach irem verdienen gericht.",
+   "preklad": "A kdo by byl při takových věcech a byl na nich vinen, toho mají podle zásluhy popravit hanebnou smrtí; a všichni mají být zbaveni cti, nikdy více nesmějí být přijati do rady ani k soudu ani proti nikomu svědčit, nýbrž mají být a zůstat zcela křivopřísežní a bezectní. To se také zčásti stalo a v Bernu i jinde bylo velmi mnoho lidí mučeno; ti museli kvůli těm věcem, jak stojí výše, vydat urfehdní listy. Někteří z nich byli také podle zásluhy popraveni hanebnou a potupnou smrtí."
+  },
+  {
+   "text": "Und nach dem dann denen von Bern semlich sachen gar leid und widrig warent, da wurdent si betrachten und bedenken, wie si semlich und derglich bös handlungen nü fürwerthin ewiclichen abstellen und verkomen möchten, wie wol si die iren als ander Eidgnossen, wie hievor stat, ouch gestraft hattent und machten darüber ein ordnung, als harnach stat.",
+   "preklad": "A protože Bernským byly takové věci velmi líté a protivné, začali uvažovat a přemýšlet, jak by takové a podobné zlé činy mohli nyní a napříště navždy zastavit a jim předejít, ačkoli své lidi, stejně jako ostatní konfederáti, jak stojí výše, už potrestali; a vydali o tom nařízení, jak stojí dále."
+  }
+ ],
+ "poznamky": [
+  "Tobler: Bern 9. 6. 1479 žádal knechty v Burgundsku, aby se k zajatcům chovali milostivě a milosrdně. Sněm věc projednával 16. a 24. 6.; rozhodující usnesení, o nichž Schilling mluví, byla přijata 12. 7. 1479 v Luzernu. Ještě 1484 byl soudu vydán muž označený za skutečného původce („Machmann“) činu v Dole.",
+  "Tobler: v červenci 1479 Bern žádal Solothurn, aby zadržel a potrestal krejčího z Burgundska, který na mnoha místech prodával kalichy a jiné posvěcené předměty. V srpnu se knechti z Burgundska uchýlili do kostela v Königsfeldenu; Bern jim jako „kilchensmächer, sacramentverwürker und priestersleser“ (znesvětitelům kostelů a svátostí a vrahům kněží) upřel právo azylu a požádal kostnického světícího biskupa, aby kostel znovu vysvětil.",
+  "Tobler: bernská rada už 3. 1. 1479 usnesla, že kdo odběhne na tažení bez svolení, bude křivopřísežný, zapsán do „totbüch“ (knihy mrtvých) a pokládán za zavrženého, hejtmani a podněcovatelé mají být sťati mečem a nikdo se za ně nesmí přimlouvat; opakováno 4. 3. a 3. 4. byli kvůli odbíhání svoláni poslové města a venkova.",
+  "„urfechbrief“ = listina, v níž se propuštěný zavazuje nemstít se (glosář). „martren und voltern“ = mučit (útrpné právo).",
+  "Bernské varianty: „etlich gemartert, die müsten dem nachgan“; poslední odstavec („Und nach dem…“) v bernském rukopisu chybí a místo něj stojí: „Darzü machten ouch die von Bern ewig satzungen und ordnungen über si, als das ouch in andern iren büchern geschriben stat“ (Bernští o nich vydali věčná ustanovení, zapsaná v jejich jiných knihách). Bernský rukopis tak odkazuje na nařízení kap. 379, které sám neobsahuje.",
+  "Oprava textu: „wie ..si“ → „wie si“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

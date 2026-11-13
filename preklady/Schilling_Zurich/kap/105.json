@@ -1,0 +1,28 @@
+{
+ "cislo": 105,
+ "nadpis": "Das der vorgenant von Hagenbach an denen von Brisach gar schantliceh und mortlichen wolt haben gehandlet.",
+ "edice": "Tobler I, s. 146",
+ "rukopis_strana": 225,
+ "odstavce": [
+  {
+   "text": "105. Das der vorgenant von Hagenbach an denen von Brisach gar schantliceh und mortlichen wolt haben gehandlet.",
+   "preklad": "105. Jak chtěl zmíněný von Hagenbach s Breisašskými naložit velmi hanebně a vražedně."
+  },
+  {
+   "text": "Der almechtig ewig got, als der dis menigveltig unrecht lenger nit hat wellen gestatten, sunder denselben wütrich, des stunde der rache hie was, in die grüben siner untat, die er andern gemacht, vallen lassen hat, und in glich Lucifero durch sin ungerechte hochvart von dem stüle sins gewaltes abstürzen wolt, hat im das alles gewalticlichen wellen unterziechen. Wann darnach an dem heiligen österlichen tage, als iederman zü Brisach in der kilchen und man dennocht im ampt der mess was, gebot er allen burgern und Tütschen bi iren eiden und penen des todes, das si angends heim gingent zü imbis essen und dann von stund an iederman, was von burgern oder Tütschen were, hinus für die stat in den graben kement, wann er willen hette, den Rine darin zü leiten, das si dester sichrer werent.",
+   "preklad": "Všemohoucí věčný Bůh, protože už déle nechtěl trpět toto mnohonásobné bezpráví, ale nechal toho ukrutníka, jemuž nadešla hodina pomsty, padnout do jámy jeho zločinu, kterou vykopal jiným, a chtěl ho jako Lucifera pro jeho nespravedlivou pýchu svrhnout ze stolce jeho moci, chtěl mu to všechno mocně odejmout. Neboť potom na svatý den Velikonoc, když byli všichni v Breisachu v kostele a ještě probíhala mše, přikázal všem měšťanům a Němcům pod jejich přísahou a pod trestem smrti, aby šli ihned domů k obědu a pak hned všichni, kdo byli z měšťanů nebo Němců, vyšli ven před město do příkopu, neboť prý má v úmyslu svést do něj Rýn, aby byli tím bezpečnější."
+  },
+  {
+   "text": "Dis was sin verreterie und tet ouch das darumb, so balde und die burger und Tütschen für die stat werent komen, so wolt er angendes die stat und alle hüser, wib und kind, mit Walchen besetzt und also die burger und armen lüte da ussen gelassen und als iemerlichen an lib, eren und güt ganz und gar verderbt haben.",
+   "preklad": "To byla jeho zrada a udělal to proto, že jakmile by měšťané a Němci vyšli před město, chtěl hned obsadit město a všechny domy, ženy a děti Vlachy a nechat tak měšťany a chudé lidi venku a všechny je bídně a úplně zničit na těle, cti i majetku."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „Tuütschen“ a „'Tütschen“ → „Tütschen“, odstraněna koncová svislá čára.",
+  "Velikonoční neděle 1474 = 10. 4. Podle Reimchroniky (kap. 123) se kopat nemělo „hned“, jak píše Schilling, ale až na Velikonoční pondělí.",
+  "„Tütschen“ = podle Toblera Hagenbachovi němečtí žoldnéři, většinou z Horního Porýní, pod polním hejtmanem Friedrichem Kapplerem. Upřednostňováním Vlachů je dohnal k odpadnutí a ke spojení s měšťany.",
+  "„imbis“ = polední jídlo, oběd."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

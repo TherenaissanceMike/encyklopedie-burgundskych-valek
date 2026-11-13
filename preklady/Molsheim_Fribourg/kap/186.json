@@ -1,0 +1,33 @@
+{
+ "cislo": 186,
+ "nadpis": "Wie die zu Nansci in der statt sich dapfer und ritterlich gehalten haben.",
+ "edice": "Büchi 1914, ř. 2452–2459 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  330
+ ],
+ "schilling_odkaz": [
+  "Nur Manuskript D. Vgl. Schilling C. 330, ziemlich wörtlich."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die zu Nansci in der statt sich dapfer und ritterlich gehalten haben.",
+   "preklad": "186. Jak se ti ve městě Nancy drželi statečně a rytířsky."
+  },
+  {
+   "text": "Aber die frommen lüt, so zü Nansci in der statt lagend, hattend sich auch gar ritterlich und männlich gehalten in grossem mangel und gebrästen an spis, also dass sy von grosser hungersnot wegen müsstend ross, katzen, hund, ratten und müs ässen, welches ein grosser jammer was. Jedoch wurd ir ellend in kurzen tagen in fröud verkehrt, wiewol ettlich us der statt im läger von den Eydgnossen erschlagen worden (jedoch unwüssend). Dann all diewil man dem burgundischen volk in der flucht nachilte, da lüfend ettlich in grossen fröuden us der statt in weltschen kleidern ohne crütz und zeichen in das läger, welche auch also unbekannt erschlagen wurdend.",
+   "preklad": "Ale ti stateční lidé, kteří leželi ve městě Nancy, se také drželi velmi rytířsky a mužně ve velké nouzi a nedostatku jídla, takže z velkého hladu museli jíst koně, kočky, psy, krysy a myši, což byla veliká bída. Jejich bída se však za několik dní obrátila v radost, ačkoli někteří z města byli v táboře konfederáty zabiti (ovšem nevědomky). Zatímco se totiž burgundský lid na útěku pronásledoval, vyběhli někteří z města ve velké radosti do tábora ve vlašských šatech, bez kříže a znamení, a ti byli takto nepoznáni zabiti."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. dazu Bernoulli III, 93 und die dort angeführte Literatur. — ’) S. oben S. 213 A. 3."
+ ],
+ "poznamky": [
+  "Büchi: kapitola je jen v rukopise D, „dosti doslovně“ podle Schillinga C. 330. K hladu v Nancy odkazuje na svou dřívější poznámku (s. 210, pozn. 2); tato poznámka stojí strojově v poli poznamky_editora kap. 191.",
+  "Text: OCR „eilend“ opraveno na „ellend“ (bída), doplněna čárka „hund, ratten“, odstraněny značky poznámek a číslo řádku.",
+  "Kříž a znamení: polní znamení konfederátů, podle něhož se ve vřavě poznávali.",
+  "Oproti Schillingovi: chybí zmínka o lidech a malých dětech, kteří v Nancy zemřeli hladem, a o tom, že obyvatelé neuměli německy; navíc je krysy mezi jídlem a údaj, že vyběhli „ve vlašských šatech“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,29 @@
+{
+ "cislo": 123,
+ "nadpis": "Das die in der nüwen vereinung an gemein Eidgnossen begerten mit inen ein herzug in Öber-Burgunnen und dieselben land ze tünde.",
+ "edice": "Tobler I, s. 171",
+ "rukopis_strana": 266,
+ "odstavce": [
+  {
+   "text": "123. Das die in der nüwen vereinung an gemein Eidgnossen begerten mit inen ein herzug in Öber-Burgunnen und dieselben land ze tünde.",
+   "preklad": "123. Jak členové Nového spolku žádali všechny konfederáty, aby s nimi podnikli tažení do Horního Burgundska a do těch zemí."
+  },
+  {
+   "text": "Nü hat man davor gehört den ungewarneten schantlichen und lasterlichen uberfal, den dann Steffan von Hagenbach, die Burgunner, Lamparter und ander uncristenlich völker im Sunkow hievor begangen und was mütwillens und uncristenlicher werken si getan hatten. Und wie si wider hinder sich in Burgunnen gezogen warent, begab es sich daruf, das demnach teglichs gros warnungen kament, das der herzog von Burgunnen abermals in Ober - Burgunnen ein grossen mechtigen zug sampnet, der müt het, harus in das Sunkow und Elses zü brechen und aber das land zü verhergen und arm lute ze machen, und das ie des herzogen von Burgunnen anslag wer, alle diewile er do niden vor Nuss lege, das dann die sinen in Ober-Burgunnen krieg wider die Eidgnossen und ir zügewanten mit teglicher anreitzung inmassen üben solten, damit si desterminder dem keiser wider in zü hilf komen möchten.",
+   "preklad": "Již dříve jste slyšeli o nevypověděném, hanebném a ostudném přepadení, kterého se předtím v Sundgau dopustili Steffan von Hagenbach, Burgunďané, Lombarďané a jiné nekřesťanské národy, a o tom, jakou svévoli a jaké nekřesťanské skutky tam páchali. A když se zase stáhli zpět do Burgundska, stalo se potom, že denně přicházela vážná varování, že burgundský vévoda opět shromažďuje v Horním Burgundsku velké a mocné vojsko, které má v úmyslu vpadnout sem do Sundgau a Alsaska, znovu zemi zpustošit a lidi přivést na mizinu. Bylo prý totiž úmyslem burgundského vévody, aby jeho lidé v Horním Burgundsku vedli válku proti konfederátům a jejich spojencům s každodenními útoky po celou dobu, co on sám leží tam dole před Neussem, aby konfederáti tím méně mohli přijít císaři na pomoc proti němu."
+  },
+  {
+   "text": "Darumb dis zü fürkomen, kamend des fürsten von Oesterich, ouch beider bischofen von Strasburg und von Basel und derselben stetten, ouch Colmar und Sletstat, der vereinung wisen und treffenlichen räte für gemein Eidgnossen gen Lutzern, und begerten von inen hilf und rates, wie man disen dingen widerstant tete, wann inen unlidig were, diser ungewarneter kriegen und teglicher überfellen zü erwarten. So wurde ouch das den Eidgnossen gar kumberhaftig, si alle mal nach inhalt der vereinung zü entschütten; davon wistent si nit bessers, dann das man einen gemeinen herzug, diewile dann der herzog do niden vor Nuss lege, in Ober-Burgunnen tete, und rüften darumb gemein Eidgnossen an, inen damit hilflichen zü sin, wann si das on hilf der Eidgnossen nit torsten noch wolten tün noch understan.",
+   "preklad": "Aby se tomu předešlo, přišli tedy moudří a znamenití radové Spolku, totiž rakouského knížete, obou biskupů ze Štrasburku a z Basileje a týchž měst, a také Colmaru a Sélestatu, před všechny konfederáty do Luzernu. Žádali je o pomoc a radu, jak se těmto věcem postavit, neboť je pro ně nesnesitelné očekávat takové nevypověděné války a každodenní přepady. A také pro konfederáty by bylo velmi obtížné je pokaždé podle znění spolkové smlouvy vyprošťovat. Proto nevěděli nic lepšího, než podniknout společné tažení do Horního Burgundska, dokud vévoda leží tam dole před Neussem. Vyzvali proto všechny konfederáty, aby jim v tom byli nápomocni, neboť bez pomoci konfederátů by se to neodvážili ani nechtěli udělat ani podniknout."
+  }
+ ],
+ "poznamky": [
+  "Nový spolek (nüwe vereinung) = tzv. Dolní spolek (Niedere Vereinigung) z jara 1474: rakouský vévoda Zikmund, biskupové a města Štrasburk a Basilej, Colmar a Sélestat. Přepadení v Sundgau viz kap. 119 (Tobler).",
+  "Jednání v Luzernu: sněmy (Tagsatzungen) 6. a 17. 9. 1474 (Tobler podle Eidg. Abschiede II).",
+  "Burgundský vévoda Karel Smělý tehdy obléhal Neuss na Rýně (od července 1474); „tam dole“ = po proudu Rýna.",
+  "Oprava textu: odstraněno zbloudilé „2“ před „anslag“ (číslo z okraje), „und.von“ → „und von“, „entschuütten“ → „entschütten“.",
+  "Bernský rukopis podle variant: v nadpisu chybí „und dieselben land“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

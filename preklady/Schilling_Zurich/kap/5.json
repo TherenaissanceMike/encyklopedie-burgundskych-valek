@@ -1,0 +1,30 @@
+{
+ "cislo": 5,
+ "nadpis": "Das die von Bern und Solotern denen von Mülhusen zweihundert werlicher mannen schicktent, ir stat damit zü verhüten.",
+ "edice": "Tobler I, s. 10–11",
+ "rukopis_strana": 16,
+ "odstavce": [
+  {
+   "text": "5. Das die von Bern und Solotern denen von Mülhusen zweihundert werlicher mannen schicktent, ir stat damit zü verhüten.",
+   "preklad": "5. Jak Bernští a Solothurnští poslali Mulhouseským dvě stě branných mužů, aby jim s nimi střežili město."
+  },
+  {
+   "text": "Also sich nü mengerlei sachen hatten verlouffen und vil gesücht was, wie man zü friden möcht komen sin von dero von Schafhusen, Mulhusen und ander sachen wegen, das stünd also an bis nach ostern us, do man zalt tusent vierhundert sechzig und acht jar. Da zwüschent wurden die von Mulhusen nützit dester minder von der herschaft gar merklichen geschediget, und wart inen umb ir stat alles das abgehowen und verwüst, das si da hattent. Da wurdent die von Bern und Solotern betrachten, das si eren halb nit konden noch mochten uber werden, dann das si müstent zü den sachen tün.",
+   "preklad": "Když se tedy stalo mnoho různých věcí a mnoho se hledalo, jak by se mohlo dojít k míru ve věci Schaffhausenských, Mulhouseských a dalších, zůstalo to tak až do doby po Velikonocích léta tisícího čtyřistého šedesátého osmého. Mezitím byli Mulhouseští panstvem nicméně velmi poškozováni a kolem jejich města jim bylo všechno, co tam měli, posekáno a zpustošeno. Tu Bernští a Solothurnští uvážili, že se tomu kvůli své cti nemohou a nesmějí vyhnout a že musí v té věci jednat."
+  },
+  {
+   "text": "Und also von bitt und manung wegen dero von Mulhusen schickt man inen von beiden stetten zweihundert werlicher mannen, das si inen ir stat soltend helfen behüten und beschirmen, bis das man fürer ze rat möcht werden, wie man die sachen handlen und angriffen wölt. Und also an dem fünfzechenden tag meyen des vorgenanten jares zugent die zweihundert knecht us, und kament am dritten tag gen Mulhusen, und wurdent von menglichem gar wol und mit grossen fröuden enpfangen. Also wart aber ein tag gen Basel geleist, nachdem es dann vorhin angesechen was, ob man noch weg möcht finden, damit man die von Mulhusen hett mögen ze friden und rüwen bringen.",
+   "preklad": "A tak na prosbu a vyzvání Mulhouseských jim obě města poslala dvě stě branných mužů, aby jim pomohli střežit a chránit město, dokud se neporadí dále, jak chtějí věc vést a do čeho se pustit. Patnáctého dne května zmíněného roku těch dvě stě knechtů vytáhlo, třetího dne přišli do Mulhouse a všichni je tam přijali velmi dobře a s velkou radostí. Tu se opět konal sněm v Basileji, jak bylo předtím ujednáno, zda by se ještě nenašla cesta, jak Mulhouseské přivést k míru a klidu."
+  }
+ ],
+ "poznamky": [
+  "Data: Velikonoce 1468 = 17. 4. (mimo Tobler); výprava vytáhla 15. 5. 1468 a do Mulhouse došla třetího dne.",
+  "Tobler: Schilling zamlčuje, že útočníky byli Mulhouseští: v noci z 18. na 19. 4. 1468 vypálili Sausheim a předhradí zámku v Illzachu. Bern 30. 4. psal, že se v Lotrinsku shromažďuje mocné vojsko, které chce Mulhouseským odvést vodu. Bern 3.–16. 5. povolával muže z Murtenu, Neuchâtelu, Payerne, zemských soudů, od pánů z Brandisu a Raronu, z Bielu, Neuveville, Fribourgu, Saanenu a Château-d'Œx (mimo jiné Murten 40, Payerne 20 mužů) a 10. 5. ujišťoval burgundského vévodu o svém přátelství.",
+  "Tobler: protože válka ještě nebyla vypovězena, chtěl Bern, aby dvě stě mužů vytáhlo bez znamení a rozvinutého praporce. Bern poslal 110, Solothurn 106 mužů; luzernský Schilling a Tschudi uvádějí chybně 300. 15. 5. se v Bernu proslýchalo, že 3600 nepřátelských jezdců chce výpravu přepadnout. Hejtmanem byl 8. 5. zvolen Hans Wanner, v červnu je jím Niklaus zer Kinden.",
+  "Tobler: sněm v Basileji 23.–26. 5. 1468 byl bezvýsledný; za Bern tam byli Niklaus von Scharnachtal a Niklaus von Diesbach.",
+  "Varianta po „angriffen wölt“ přidává větu „Und was der hundert mannen von Bern houptman Niclaus Zerkinden, ein pfister, der sich gar wol und erlich hielt“ (hejtmanem sta Bernských byl pekař Niclaus Zerkinden, který si vedl velmi dobře a čestně) a hned za ní vlastní nadpis „Das die vorgenanten zweihundert knecht mit iren houptlüten gen Mülhusen kamen“. Tento rukopis tu tedy má další kapitolu, kterou Tobler nečísluje (není to skrytá kapitola hlavního textu).",
+  "Oprava OCR: „fiünfzechenden“ → „fünfzechenden“, „zwuüschent“ → „zwüschent“, „nuützit“ → „nützit“, „sı“ → „si“, zbloudilá tečka („sachen . tün“). Řádky variant k této kapitole (viz výše) byly omylem vlepeny do textu kap. 6."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

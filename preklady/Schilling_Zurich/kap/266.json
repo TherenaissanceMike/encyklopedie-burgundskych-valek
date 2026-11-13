@@ -1,0 +1,22 @@
+{
+ "cislo": 266,
+ "nadpis": "Das die von Bern und ander Eidgnossen von Famerkü zugent und mit den vienden gar manlichen anviengen scharmutzen.",
+ "edice": "Tobler I, s. 376",
+ "rukopis_strana": 654,
+ "odstavce": [
+  {
+   "text": "266. Das die von Bern und ander Eidgnossen von Famerkü zugent und mit den vienden gar manlichen anviengen scharmutzen.",
+   "preklad": "266. Že Bernští a ostatní konfederáti odtáhli od Vaumarcus a velmi mužně se s nepřáteli pustili do šarvátky."
+  },
+  {
+   "text": "Als bald man das vernam, do kart sich von stund an die paner von Bern und Friburg gegen denen von Switz und Thun und lies man das slos Famerku stan und zoch iederman von stat, ein teil zü den panern von Bern und Friburg, und der ander teil under dem slos hin, do man ouch die viend bald ansichtig wart, und hat iederman grossen ernst und flis, die viend anzegriffen; und kament also an beiden enden an si und iagten si am ersten durch den berg nider bis zür Carthus, dazwüschen ouch menger sin leben verlor, die man wol gesach in den gassen und an den strassen ligen, desglich wart etlicher von Eidgnossen ouch wund und verwüst.",
+   "preklad": "Jakmile se to dozvěděli, obrátila se ihned korouhev Bernu a Fribourgu ke Schwyzským a Thunským; zámek Vaumarcus nechali stát a každý vyrazil z místa, jedna část ke korouhvím Bernu a Fribourgu a druhá část dole pod zámkem, kde také brzy spatřili nepřítele. Každý usiloval s velkou vážností a horlivostí na nepřítele udeřit; a tak na ně narazili z obou stran a nejprve je hnali dolů po hoře až ke kartouze. Mezitím mnohý přišel o život – bylo je dobře vidět ležet v úvozech a na cestách; rovněž několik konfederátů bylo zraněno a zmrzačeno."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „sı“ → „si“, „siam“ → „si am“, „dazwuüschen“ → „dazwüschen“.",
+  "Carthus = kartouza La Lance u Concise (podle Toblerova rejstříku)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

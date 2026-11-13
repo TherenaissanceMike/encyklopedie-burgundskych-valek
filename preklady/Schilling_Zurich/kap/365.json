@@ -1,0 +1,23 @@
+{
+ "cislo": 365,
+ "nadpis": "Von einem heissen und warmen summer.",
+ "edice": "Tobler II, s. 194",
+ "rukopis_strana": 901,
+ "odstavce": [
+  {
+   "text": "365. Von einem heissen und warmen summer.",
+   "preklad": "365. O horkém a teplém létě."
+  },
+  {
+   "text": "Darnach in dem nechsten iare nach der Romfart wart gar ein heisser und türrer summer inmass, das merenteils alle beche und brunnen uf dem lande und ouch in etlichen stetten abgingen, dann es me dann in zwölf oder dritzechen wochen aneinandern nie geregnet, und was ouch dazwüschen vast heiss; doch so wart von gots gnaden ein güt iar an win, korn und allen früchten und sunderlich, so wart der win vast güt und umb ein rechten pfennig geben.",
+   "preklad": "Potom v nejbližším roce po římské pouti bylo velmi horké a suché léto, takže téměř všechny potoky a studny na venkově a také v některých městech vyschly, neboť víc než dvanáct nebo třináct týdnů po sobě vůbec nezapršelo a bylo přitom velmi horko. Z Boží milosti však byl dobrý rok na víno, obilí a všechny plody, a zvláště víno bylo velmi dobré a prodávalo se za slušný peníz."
+  }
+ ],
+ "poznamky": [
+  "Datum: nejbližší rok po římské pouti = 1479 (Tobler).",
+  "Varianty: chybí „nach der Romfart“ a „so“; „allen andern früchten“; chybí „sunderlich so wart der win vast güt und“ (pak jen: víno se prodávalo za slušnou cenu).",
+  "„umb ein rechten pfennig“: doslova „za správný peníz“, tj. za přiměřenou, levnou cenu."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

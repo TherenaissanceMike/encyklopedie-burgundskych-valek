@@ -1,0 +1,23 @@
+{
+ "cislo": 11,
+ "nadpis": "Wie Mülhusen sich zu Bern und Solothorn beclagte als iren puntgenossen ab des herzogen von Oesterrich landvogt im Elsass.",
+ "edice": "Büchi 1914, ř. 429–430 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Vgl. Schilling I. S. 3–4."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie Mülhusen sich zu Bern und Solothorn beclagte als iren puntgenossen ab des herzogen von Oesterrich landvogt im Elsass.",
+   "preklad": "11. Jak si Mulhouští stěžovali Bernským a Solothurnským jakožto svým spojencům na zemského fojta rakouského vévody v Alsasku."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněn odkaz „Vgl. Schilling I. S. 3—4“ a číslo řádku „* 15“, OCR „MUhlhusen“ → „Mülhusen“, „Eisass“ → „Elsass“, „punt- genossen“ spojeno.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Toblerovo vydání, sv. I, s. 3–4) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

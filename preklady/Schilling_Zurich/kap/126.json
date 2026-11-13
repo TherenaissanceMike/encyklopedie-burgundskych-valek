@@ -1,0 +1,31 @@
+{
+ "cislo": 126,
+ "nadpis": "Der absagbrief, als gemein Eidgnossen dem herzogen von Burgunnen und sinen stathaltern und anwalten mit einandern abseiten.",
+ "edice": "Tobler I, s. 174",
+ "rukopis_strana": 271,
+ "odstavce": [
+  {
+   "text": "126. Der absagbrief, als gemein Eidgnossen dem herzogen von Burgunnen und sinen stathaltern und anwalten mit einandern abseiten.",
+   "preklad": "126. List s vypovězením nepřátelství, jímž všichni konfederáti společně vypověděli válku burgundskému vévodovi a jeho místodržícím a zmocněncům."
+  },
+  {
+   "text": "Dem durluchten, hochgebornen fürsten und herren, her Karlen, herzogen zü Burgunnen, oder sinen stathaltern und anwalten, wie die genempt oder wo si gesessen sind, enbieten wir burgermeister, schultheissen, amman, rät und gemeinden des grossen punds obrer Tütschen landen, namlichen Zürich, Bern, Lutzern, Ure, Switz, Underwalden, Zug und Glarus und darzü der beiden stetten Friburg und Soloturn, das wir uf hoch und treffenlich gebot und vermanen des allerdurchlüchtigosten, unüberwindlichosten, hochmächtigosten herren, hern Fridrichen, Römschen keisers, unsers allergnädigosten hern, dem wir als züglider des heiligen richs mit undertenikeit müssen begegnen, ouch des durchluchtigen, hochgebornen fursten und herren, hern Sigmunden, herzogen zü Oesterich und andrer fürsten, hern und stetten, zü uns mit einung gewant, an den dann unbillich gewalt und trang mit vil groben misshandeln furgenomen sind und teglich beschechen, üch und allen den üwern, wie die genampt sind, unser offen vindschaft hiemit sagen und verkünden für uns, al die unsern und die, so uns zü versprechen stand, und was sich nü furer sölich vindschaft gegen üch, den üwern zügewanten und helfern machen wirt, es si mit roub, todsläg, nam, brand, angriff und beschedgung tag oder nacht, durch uns oder unser und aller der unsern ere bewart haben, und des zü urkünd, so haben wir, als wir jetz hie zü Lutzern zü tagen versampnet sind, disen offen brief mit unser von Bern insigel besigeln geheissen, und ist ouch also besigelt, darunder wir uns al binden.",
+   "preklad": "Jasnému, vysoce urozenému knížeti a pánu, panu Karlovi, vévodovi burgundskému, anebo jeho místodržícím a zmocněncům, ať se jmenují jakkoli a sídlí kdekoli, oznamujeme my, purkmistři, starostové, úředníci, rady a obce Velkého spolku Horních německých zemí, totiž Curych, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug a Glarus, a k tomu obě města Fribourg a Solothurn, toto: Na vysoký a důrazný příkaz a vyzvání nejjasnějšího, nepřemožitelného a nejmocnějšího pána, pana Fridricha, římského císaře, našeho nejmilostivějšího pána, jemuž jako údové Svaté říše musíme v poddanosti vyhovět, a rovněž jasného, vysoce urozeného knížete a pána, pana Zikmunda, vévody rakouského, a jiných knížat, pánů a měst, kteří jsou s námi spojeni spolkem a na nichž bylo a denně je pácháno nespravedlivé násilí a útisk s mnoha hrubými zločiny, tímto vypovídáme a oznamujeme vám a všem vašim, ať se jmenují jakkoli, své otevřené nepřátelství, za sebe, za všechny své a za ty, za něž jsme povinni se postavit. A cokoli z tohoto nepřátelství od nynějška vzejde proti vám, vašim spojencům a pomocníkům, ať loupeží, zabitím, pobráním, žhářstvím, útokem či škodou, ve dne či v noci, skrze nás nebo naše [spojence a pomocníky, nikoho nevyjímaje], tím chceme mít čest svou i všech našich uchráněnu. Na svědectví toho jsme, shromážděni nyní zde v Luzernu na sněmu, dali tento otevřený list zpečetit pečetí nás Bernských, a tak je také zpečetěn; pod ní se všichni zavazujeme."
+  },
+  {
+   "text": "Geben und beschechen uf zinstag vor Simonis und Jude anno 1474.",
+   "preklad": "Dáno a stalo se v úterý před svatým Šimonem a Judou léta 1474."
+  }
+ ],
+ "poznamky": [
+  "Datum: úterý před sv. Šimonem a Judou = 25. 10. 1474. Latinské znění vypovídacího listu je otištěno v Eidg. Abschiede II, 515 (Tobler).",
+  "Tobler tiskne text podle bernské knihy odeslaných listů (Teutsch Missiven C, 313) a v variantách uvádí curyšský (Z) a bernský (B) rukopis kroniky.",
+  "Mezera v textu: věta „durch uns oder unser und aller der unsern ere bewart haben“ je v hlavním textu neúplná. Varianta Z a B zní „durch üns, die ünsern, ünser gewanten und helfer, nieman usgesündert; damit wellen wir ünser aller ere wol bewart haben“. V překladu doplněno v hranatých závorkách podle ní. Jde o běžnou formuli vypovídacích listů: kdo válku řádně vypověděl, neztrácí čest za škody, které v ní způsobí.",
+  "„nam“ = násilné pobrání (Toblerův glosář), „die, so uns zü versprechen stand“ = ti, které jsme povinni zastupovat a chránit. Pořadí titulů a formule přeloženy podle smyslu.",
+  "„Velký spolek Horních německých zemí“ (der grosse pund obrer Tütschen landen) = Spříseženstvo osmi míst; Fribourg a Solothurn jsou uvedeny zvlášť jako spojená města.",
+  "Bernský rukopis podle variant: „Karolen“, „erzherzogen zü Oesterich“, „unzimlich gewalt“, „groben und uncristenlichen misshandeln“, na konci „am zinstag“.",
+  "Oprava textu: konec nadpisu („an-walten mit einandern abseiten“) byl přenesen z prvního odstavce zpět do nadpisu; „Eidenossen“ → „Eidgnossen“, „vom Bern“ → „von Bern“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

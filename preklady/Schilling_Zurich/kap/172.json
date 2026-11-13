@@ -1,0 +1,29 @@
+{
+ "cislo": 172,
+ "nadpis": "Das der vorgenant herr Niclaus von Diespach mit den tusend mannen hinweg zoch.",
+ "edice": "Tobler I, s. 245",
+ "rukopis_strana": 396,
+ "odstavce": [
+  {
+   "text": "172. Das der vorgenant herr Niclaus von Diespach mit den tusend mannen hinweg zoch.",
+   "preklad": "172. Jak výše jmenovaný pan Niklaus von Diesbach vytáhl s tisíci muži."
+  },
+  {
+   "text": "Und also in dem namen der heiligen drivaltikeit zugent die von Bern us uf mentag vor sant Margarethen tag in dem vorgenanten iare mit demselben hern Niclausen von Diespach irem houptman und tusent wol gewopneter mannen; es kament ouch zü inen ir getrüwen fründe und mitburger von Friburg mit einem venlin und hundert vechtbarer mannen und zugent also den nechsten weg gen Basel. Die von Solotern slügent sich ouch zü inen mit einer sum lüten, als vorstat, und kament also mit einandern gen Basel; do wurdent si gar wol enpfangen und wart man ir vast fro.",
+   "preklad": "A tak ve jménu Nejsvětější Trojice vytáhli Bernští v pondělí před svátkem svaté Markéty výše uvedeného roku s týmž panem Niklausem von Diesbach, svým hejtmanem, a s tisíci dobře ozbrojenými muži. Přidali se k nim také jejich věrní přátelé a spoluměšťané z Fribourgu s praporcem a stovkou bojeschopných mužů a táhli nejkratší cestou do Basileje. Přidali se k nim i Solothurnští s určitým počtem lidí, jak bylo řečeno výše, a tak přišli všichni společně do Basileje. Tam je velmi vlídně přijali a byli jim velmi rádi."
+  },
+  {
+   "text": "Dann es sol nieman gedenken, hettent die in der nüwen vereinung den rucken an denen von Bern und andern Eidgnossen nit gehebt noch gewist, si hettent denselben herzug allein nit understanden; wie wol es ouch hantvest treffenlich lüte sind, so was inen dennoch die macht des Burgunschen herzogen zu gros.",
+   "preklad": "Ať si totiž nikdo nemyslí, že by se členové nového spolku do toho tažení pustili sami, kdyby neměli a nevěděli za zády Bernské a ostatní konfederáty. Jsou to sice také zdatní a znamenití lidé, ale moc burgundského vévody byla přece jen na ně příliš velká."
+  }
+ ],
+ "poznamky": [
+  "Datum: pondělí před sv. Markétou = 10. 7. 1475 (Tobler). Tobler dodává, že téhož dne, před výtahem, byl z rady vyloučen Adrian von Bubenberg, o čemž Schilling mlčí.",
+  "Tobler: Fribourg povolal své muže 1. 7.; od Bielu žádal Bern 50 mužů.",
+  "Bernské varianty: „mannen und einem venlin gar erlich hinweg zoch“ (v nadpisu), „hundert erlicher mannen“, „wie wol es von gottes gnaden al hantvest und manlech lüte sind“ (ač jsou to z boží milosti samí zdatní a stateční lidé).",
+  "„nüwe vereinung“ = Dolní spolek (Niedere Vereinigung) alsaských a hornorýnských měst a biskupů, uzavřený 1474 (určení mimo Tobler).",
+  "Oprava textu: „.der“ → „der“, „fro..“ → „fro.“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

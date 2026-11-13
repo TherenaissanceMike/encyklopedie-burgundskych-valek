@@ -1,0 +1,23 @@
+{
+ "cislo": 99,
+ "nadpis": "Das der herzog von Burgunnen semlich gelt nit nemen wolt.",
+ "edice": "Tobler I, s. 142",
+ "rukopis_strana": 213,
+ "odstavce": [
+  {
+   "text": "99. Das der herzog von Burgunnen semlich gelt nit nemen wolt.",
+   "preklad": "99. Jak burgundský vévoda takové peníze nechtěl přijmout."
+  },
+  {
+   "text": "Darumb so wart daselb gelt zur sach [?], als ouch die götlich und recht was genomen, und under den vorgenanten stetten Strasburg, Basel und iren zügewanten, die dann das uf hoche verschribung des fürsten darluchent ufbracht, und vor beslus der richtung und des ewigen fridens gen Basel geleit, und ouch das dem herzogen von Burgunnen nach aller notdurft verkünt, der aber das nit nemen, dann sunder als er meinte mit gewalt dieselben lande inhaben und beherschen wolte.",
+   "preklad": "Proto byly tytéž peníze k té věci [?] – jak to bylo i před Bohem a po právu správné – opatřeny a sebrány mezi řečenými městy Štrasburkem, Basilejí a jejich spojenci, kteří je půjčili na vysoký úpis knížete, a ještě před uzavřením smíru a věčného míru složeny v Basileji. Bylo to také burgundskému vévodovi náležitě oznámeno. On je však nechtěl přijmout, nýbrž chtěl, jak se domníval, tytéž země násilím držet a ovládat."
+  }
+ ],
+ "poznamky": [
+  "OCR opravy: „zur wsach“ → „zur sach [?]“ (snad i „ursach“), „die Seh üben ande inhaben“ → „dieselben lande inhaben“.",
+  "[?] „zur sach“ – nejisté čtení, smysl asi „k tomu účelu“.",
+  "Tobler: písemné oznámení o složení peněz v Basileji je datováno 6. 4. 1474."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

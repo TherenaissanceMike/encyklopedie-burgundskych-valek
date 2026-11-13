@@ -1,0 +1,30 @@
+{
+ "cislo": 300,
+ "nadpis": "Das der herzog von Lothringen und ander mit im ouch dar kament.",
+ "edice": "Tobler II, s. 42",
+ "rukopis_strana": 756,
+ "odstavce": [
+  {
+   "text": "300. Das der herzog von Lothringen und ander mit im ouch dar kament.",
+   "preklad": "300. Jak přišel i vévoda lotrinský a jiní s ním."
+  },
+  {
+   "text": "Darzü kam ouch eigens willens und ungemant der durlücht fürste herr Reinhart, herzog zü Lothringen, in eigner persone; und mit im vier grafen von Bitsch und von Liningen, uf zweihundert pferde, und ilt tag und nacht, damit er zem schimpf möchte komen, als man an sinen luten und rossen wol sach. Es kam ouch dar gar ein erlicher reisiger zug von beiden bischöfen und stetten Strasburg und Basel, darzü graf Osswalt von Tierstein, lantvogt, in namen des herzogen von Oesterich; ouch Colmar, Sletstat und ander herren und from lüte.",
+   "preklad": "K tomu přišel také z vlastní vůle a nevyzván osvícený kníže pan Reinhart (René II.), vévoda lotrinský, osobně, a s ním čtyři hrabata z Bitsche a z Leiningenu, asi se dvěma sty koní. Spěchal dnem i nocí, aby ještě stihl tu „hru“, jak bylo na jeho lidech a koních dobře vidět. Přišel také velmi úctyhodný jízdní houf od obou biskupů a měst, Štrasburku a Basileje, k tomu hrabě Osswalt von Tierstein, zemský fojt, jménem vévody rakouského; též Colmar, Sélestat a jiní páni a stateční lidé."
+  },
+  {
+   "text": "Der graf von Gryers mit den sinen zü ros und füs kam ouch gar erlichen und wol erzüget, desglich die von Rotwil, Schafhusen, Sant Gallen, Appentzel und ander tatent nach irem vermügen und nach gelegenheit der sach ouch ir allerbestes.",
+   "preklad": "Hrabě z Gruyères se svými lidmi na koních i pěšky přišel také velmi čestně a dobře vyzbrojen. Stejně tak Rottweilští, Schaffhausenští, St. Gallenští, Appenzellští a jiní učinili podle svých možností a podle okolností to nejlepší, co mohli."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „von -Bitsch“ → „von Bitsch“, „Linungen)“ → „Liningen“ (podle varianty).",
+  "„zem schimpf komen“: schimpf = rytířská hra, zábava (Tobler); míní se bitva, s ironickým nádechem.",
+  "Bernské varianty: „me dann mit zweihundert pferden“ (s více než 200 koňmi); vlastní podnadpisy u Štrasburku a Basileje („Das die von Strasburg, Basel und ander ouch mit einem erlichen rosvolk … kament“) a u hraběte z Gruyères; u Appenzellu dodává, že „přišli s mnoha čestnými lidmi a projevili se ve vší bratrské věrnosti“.",
+  "Tobler: že René přišel nevyzván, potvrzuje i Jörg Hochmuth (11. 1. 1477). 18. 6. vytáhl ze Štrasburku s 300 vojáky, 21. 6. v 11 h dopoledne byl s 30 koňmi v Solothurnu a týž den šel do Bernu.",
+  "Tobler k hrabatům: Solothurnští mluví o 2 hrabatech z Bitsche a 1 z Leiningenu, Knebel o 3 z Bitsche. U Murtenu je doložen Simon Wecker, hrabě ze Zweibrücken a pán z Bitsche; snad i Philipp von Leiningen, rádce vévody Reného.",
+  "Hrabě z Gruyères (Gryers) = Ludwig von Greyerz (1475–1492). Praporečníkem Rottweilských byl podle Anshelma jeho děd Boley der Ryd. St. Gallenští a Appenzellští sice vytáhli, ale přišli pozdě a bitvy se nezúčastnili (Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,31 @@
+{
+ "cislo": 44,
+ "nadpis": "Wie der keiser mitsampt etlichen des richs herrn und stetten gon Nüss zoch wider den herzogen von Burgün, die fromen lüt in der stat ze entschütten.",
+ "edice": "Büchi 1914, ř. 580–588 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Fehlt Schilling."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der keiser mitsampt etlichen des richs herrn und stetten gon Nüss zoch wider den herzogen von Burgün, die fromen lüt in der stat ze entschütten.",
+   "preklad": "44. Jak císař s některými pány a městy říše táhl k Neussu proti vévodovi burgundskému, aby vysvobodil poctivé lidi ve městě."
+  },
+  {
+   "text": "Also in dem hatt unser allgenedigster herr, der Römsche keiser, mit einer grossen macht und gezüge, mit vil des helgen riches fürsten, herren und stetten, die darumb gemant, als man ouch für war seit, ir were ob 60 tusent man, sich wider den herzogen von Burgün geschlagen, die statt Nüss ze entschütten, besampnot. Und in eigener person zoch er das land hinab gen Köln und schlog ouch ein leger wider den herzogen von Bürgün. Und lagen da lange zitt gegen enandren und detten doch enandren wenig schadens, so lang, biss das die sach durch den legaten betragen und verricht wurden, also das sy am lesten abzugent und die hantveste statt Nüss ungewunnen beleib.",
+   "preklad": "Mezitím shromáždil náš nejmilostivější pán, římský císař, velkou moc a vojsko s mnoha knížaty, pány a městy Svaté říše, kteří k tomu byli vyzváni a postavili se proti vévodovi burgundskému – jak se za pravdu říká, bylo jich přes 60 000 mužů –, aby vysvobodil město Neuss. Osobně táhl po zemi dolů ke Kolínu a rozbil také tábor proti vévodovi burgundskému. Leželi tam proti sobě dlouhý čas, a přece si navzájem způsobili jen málo škody, dokud ta věc nebyla skrze legáta projednána a urovnána, takže nakonec odtáhli a pevné město Neuss zůstalo nedobyto."
+  }
+ ],
+ "poznamky_editora": [
+  "’) Vgl. Sch. 0. 117. 118. 138—140, ferner eine Anzahl Mis-iven im St.-A. Freiburg, die sich auf den Neusserkrieg beziehen."
+ ],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněno „Fehlt Schilling.“ a „s“, „Hit“ → „lüt“, „Herrn“ → „herrn“. V textu „halt Unser“ → „hatt unser“, „stellen“ → „stetten“, „darumh“ → „darumb“, „oh 60“ → „ob 60“, „Bürgiin“ → „Bürgün“, „dollen“ → „detten“, „sack“ → „sach“, „testen“ → „lesten“, „beleih“ → „beleib“; odstraněna čísla řádků (io, i5), hvězdičky a záhlaví strany „1474 27“. Büchiho poznámka uložená u této kapitoly („Vgl. Sch. C. 117 …“) patří ke kap. 43.",
+  "Císař = Fridrich III. (rukopis B: „keiser genant Friderich“). Legát = papežský legát, který zprostředkoval narovnání a odchod obou vojsk od Neussu v červnu 1475 (mimo Büchi).",
+  "Büchi: viz Knebel II, 84 n. (poznámka je v OCR u kap. 45). Varianty: B, F „když vévoda ležel před Neussem skoro rok“; D, S připojují „to vše pro stručnost nechávám být a vracím se k předsevzaté látce“.",
+  "Oproti Schillingovi: kapitola u Schillinga chybí (Büchi: „Fehlt Schilling“). Číslo „přes 60 000 mužů“ uvádí Molsheim jako doslech („als man für war seit“)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

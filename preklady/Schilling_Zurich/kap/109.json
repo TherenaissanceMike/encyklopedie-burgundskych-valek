@@ -1,0 +1,32 @@
+{
+ "cislo": 109,
+ "nadpis": "Das die vier stette am Rine der Eidgnossen offen",
+ "edice": "Tobler I, s. 149",
+ "rukopis_strana": 233,
+ "odstavce": [
+  {
+   "text": "109. Das die vier stette am Rine der Eidgnossen offen slos sin süllent zü ewigen ziten.",
+   "preklad": "109. Že čtyři města na Rýně mají být na věčné časy otevřenými hrady konfederátů."
+  },
+  {
+   "text": "Es ward ouch sunderlich in der bericht zwüschent dem fürsten und den Eidgnossen abgerett und durch den fursten versigelt, das vier stette am Rine, Walzhüt, Louffenberg, Seckingen und Rinvelden der Eidgnossen offen stette und slos sin süllent in allen iren sachen und zü ewigen ziten. Die übrigen sachen und was in derselben ewigen richtung begriffen ist, vindet man zü Lutzern im wasserturn in einem brief mit der künglichen maiestat von Frankenrich und darzü mit beider parthien insigel versigelt. Darumb ist nit not, dis hie zü melden.",
+   "preklad": "V narovnání mezi knížetem a konfederáty bylo také zvlášť ujednáno a knížetem zpečetěno, že čtyři města na Rýně, Waldshut, Laufenburg, Säckingen a Rheinfelden, mají být otevřenými městy a hrady konfederátů ve všech jejich věcech a na věčné časy. Ostatní věci a co je v tomto věčném narovnání obsaženo, nalezne se v Luzernu ve Vodní věži v listině zpečetěné pečetí královského majestátu francouzského a k tomu pečetěmi obou stran. Proto není třeba to zde uvádět."
+  },
+  {
+   "text": "Alsbald nü dis geschrei und gevangnüs des Hagenbachs under den gemeinden, herren und stetten, edlen und andern uskam, hat er sich, wie vor zem teil gemelt ist, mit menglichem gehalten, das nieman mit im erbermde wolt haben; und was das wol müglich, wann er nit allein den gemeinen man, sunder ouch die wirdig priesterschaft, frowen und iungfrowen in vil sachen zem dickern mal gesmecht hat, und geriet do iederman sich sins ungevels fröwen und umb ir smach und unrecht, so er begangen hat, clagen und rechts gein im begern.",
+   "preklad": "Jakmile se tato zpráva a Hagenbachovo zajetí rozneslo mezi obcemi, pány a městy, šlechtici i jinými, ukázalo se, že se, jak bylo zčásti řečeno výše, choval ke každému tak, že s ním nikdo nechtěl mít slitování. A bylo to docela pochopitelné, neboť nejen prostého člověka, ale i ctihodné kněžstvo, ženy a panny v mnoha věcech častokrát potupil. A tu se každý začal radovat z jeho neštěstí a žalovat pro potupu a bezpráví, které spáchal, a žádat proti němu právo."
+  }
+ ],
+ "poznamky": [
+  "Tobler: čtyři města jako „otevřené hrady“ konfederátů je ustanovení Věčného narovnání (Absch. II, 915). Waldshut, Laufenburg, Säckingen, Rheinfelden = tzv. lesní města (Waldstädte) na Rýně. „Offen slos“ = konfederáti do nich smějí kdykoli vstoupit a použít je ve válce.",
+  "Tobler: Vodní věž (Wasserturm) v Luzernu sloužila jako vězení, pokladnice a archiv. Varianta: „und aller parthien“; věta „Darumb ist … zü melden“ ve variantě chybí.",
+  "Variantní nadpis (snad bernský rukopis) před odstavcem „Der vorgenant von Hagenbach hette im ouch selber…“: „Das der von Hagenbach gar mengerlei erdacht, damit er im gern geholfen het.“ = Jak Hagenbach vymýšlel mnoho způsobů, aby si pomohl.",
+  "Tobler: vévoda přijel do Breisachu posledního dubna (30. 4. 1474); Edlibach mluví jen o 200 žoldnéřích. Maršálek = Hildebrand Rasp, s ním hofmistr Markward von Schellenberg. Poslové konfederátů byli vévodovi dáni na jeho přání podle usnesení sněmu z 18. 4. 1474.",
+  "Tobler: útrpný výslech (mučení) proběhl 5. 5. 1474.",
+  "„gichten“ = vyslýchat, vynucovat přiznání (vergicht = výpověď, přiznání); „fragen“ zde = tázat na mučidlech. „aberbetten“ = vyprosit si, vymodlit si (milost). „zü worten gehalten“ = vzat k odpovědnosti, vyslýchán.",
+  "Varianty: „markt, damit verlümdet sin, das er ein harten [stand]“; „des er bekantlich was“; „…ze haben, sunder vast zitig“ = ale bylo nejvyšší čas.",
+  "„frowen und iungfrowen“ – varianta „frowen und töchtern“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

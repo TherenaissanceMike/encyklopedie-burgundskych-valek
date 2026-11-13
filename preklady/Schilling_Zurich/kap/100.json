@@ -1,0 +1,23 @@
+{
+ "cislo": 100,
+ "nadpis": "Das die vorgenante ewig richtung nützit dester minder beslossen wart.",
+ "edice": "Tobler I, s. 142",
+ "rukopis_strana": 215,
+ "odstavce": [
+  {
+   "text": "100. Das die vorgenante ewig richtung nützit dester minder beslossen wart.",
+   "preklad": "100. Jak byl řečený věčný smír přesto uzavřen."
+  },
+  {
+   "text": "Aber nit destminder und einswegs daruf wart die ewig richtunge, wie vorstat, vorab von beiden teilen zügeseit und vom küng verwilliget und genziclichen beslossen, und wart ouch dabi und mit ein früntliche vereinung zechen iare als obstat mit den vorgenanten fürsten und stetten von Strasburg, Basel, Colmar und Sletstat und gemeinen Eidgnossen volzogen, ie ein teil den andern mit lib und güt zü entschütten, als dann das alles die versigelten brief, die darumb gemacht sind, luter dargebent.",
+   "preklad": "Přesto a hned nato byl věčný smír, jak stojí výše, předem oběma stranami přislíben, králem povolen a zcela uzavřen. Zároveň s tím byl také uzavřen přátelský spolek na deset let, jak stojí výše, s řečenými knížaty a městy Štrasburkem, Basilejí, Colmarem a Sélestatem a všemi konfederáty, aby jedna strana druhou vysvobodila životem i statky; to vše jasně ukazují zapečetěné listy, které o tom byly vyhotoveny."
+  }
+ ],
+ "poznamky": [
+  "„einswegs“ = ihned, zároveň (Tobler). Desetiletý spolek = tzv. Dolní spolek (Niedere Vereinigung) hornorýnských měst s konfederáty (1474).",
+  "Varianta (patrně bernský rukopis) vynechává „von Strasburg … Sletstat“. Tobler: ustanovení o vzájemném vysvobozování „mit lib und güt“ v tomto znění ve spolkové listině není.",
+  "„entschütten“ = vysvobodit (z obležení), přijít na pomoc (Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

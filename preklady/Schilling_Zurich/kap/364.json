@@ -1,0 +1,24 @@
+{
+ "cislo": 364,
+ "nadpis": "Von einem grossen sterbot, der ze Bern was.",
+ "edice": "Tobler II, s. 193",
+ "rukopis_strana": 899,
+ "odstavce": [
+  {
+   "text": "364. Von einem grossen sterbot, der ze Bern was.",
+   "preklad": "364. O velkém moru, který byl v Bernu."
+  },
+  {
+   "text": "In dem vorgenanten iare vor der obgenanten Romfart, umb sant Jacops tag, hüp man an sterben des prestens der pestelenz, und wart gar ein grosser sterbot under alten und iungen und sturbent gar vil treffenlicher lüten von geistlichen und weltlichen, edlen und andern, frowen und mannen und sunderlich von kinden. Und wert der sterbot bi zwein iaren aneinandern und man starp an andern enden ouch und was, als man rett, ein gemeiner sterbot. Es wurden ouch in demselben sterbot und darvor nach den kriegen merenteils alle ding türe, von dem meisten bis an das minst. Und die von Bern tatent vil crützgengen und ander güteten, es wolt aber nit helfen, und rett man, der almechtig got were erzürnt von mengerlei sünden und unfür wegen, so man in kriegen und sus wider in begangen het und noch tet.",
+   "preklad": "V dříve jmenovaném roce, před výše zmíněnou římskou poutí, kolem svatého Jakuba, se začalo umírat na nemoc moru. Byl to velmi velký mor mezi starými i mladými a zemřelo velmi mnoho znamenitých lidí, duchovních i světských, šlechticů i jiných, žen i mužů, a zvláště dětí. Mor trval asi dva roky po sobě a umíralo se i na jiných místech, a byl to, jak se říkalo, všeobecný mor. V době toho moru a už předtím, po válkách, také zdražily téměř všechny věci, od největší po nejmenší. Bernští konali mnoho procesí a jiných dobrých skutků, ale nechtělo to pomoci, a říkalo se, že všemohoucí Bůh se rozhněval pro rozmanité hříchy a nepravosti, kterých se proti němu ve válkách i jinak dopouštělo a ještě dopouští."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: do vyčištěného textu byla vlepena Toblerova poznámka ke kap. 363 (výpisy z radních manuálů o římské pouti: Heinrich Han, Hans Salzman, tisk bul v Basileji) a řádek variant byl vlepen do nadpisu; začátek textu („In dem vorgenanten iare vor der obgenanten Romfart“) OCR přičetlo k nadpisu. Text složen znovu ze surových řádků 13457 a 13522–13595, „ıaren“ → „iaren“.",
+  "Datum: svatý Jakub = 25. 7. 1478 (Tobler). „Římská pouť“ (Romfart) je bernský odpustek / milostivé léto z kap. 363.",
+  "Varianty: chybí „vor der obgenanten Romfart“, „des prestens“, „gar“ a „als man rett“; „in kriegen und anders wider in“, „und leider noch tet“.",
+  "Tobler: Knebel mluví jen o moru v Itálii. 19. 11. 1478 Bern nepustil farního kněze na kapitulu „kvůli umírání“; tagsatzung se tehdy kvůli moru v Bernu nescházela. 27. 10. 1479 Bern nařídil po všech městech a zemích: po nejnavštěvovanější mši mají kněz a všichni přítomní pokleknout, muži s rozpjatýma rukama do kříže, ženy se zdviženýma rukama, a pomodlit se pět Otčenášů a pět Zdrávasů; ke modlitbě se má zvonit, aby se přidali i ti mimo kostel; kdo by to svévolně nedodržel, propadne kostelu libru vosku."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

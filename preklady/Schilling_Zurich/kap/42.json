@@ -1,0 +1,29 @@
+{
+ "cislo": 42,
+ "nadpis": "Das der bischof von Basel, der marggraf von Röteln und ander von der sach wegen gen Bern kament und in trüwen arbeitent.",
+ "edice": "Tobler I, s. 50",
+ "rukopis_strana": 95,
+ "odstavce": [
+  {
+   "text": "42. Das der bischof von Basel, der marggraf von Röteln und ander von der sach wegen gen Bern kament und in trüwen arbeitent.",
+   "preklad": "42. Jak kvůli té věci přijeli do Bernu biskup basilejský, markrabě z Röttelnu a jiní a věrně se o ni přičinili."
+  },
+  {
+   "text": "Uf semliche wort, so dann allenthalben gerett und gebrucht wurdent, das in der stat Bern ein misshelle und zweiunge sin solt, kament gen Bern die hochwirdigen und hochgebornen fürsten und herren, herr Johans von gottes gnaden bischof zu Basel, der was einer von Venningen, und herr Rüdolf marggraf von Hochberg, graf zü Welschem Nuwenburg, herr zu Röteln und Susenburg, gubernator zü Lützelburg etc., der ein ewig burgrecht mit der stat von Bern hat, darzü der erbern stetten botten von Basel, Friburg, Solotern, Biel und ander als getrüw herren und frunde, denen dann semlich irrungen und zweitrecht in ganzen truwen leid warent und begerten an die von Bern räte und zweihundert, inen der sachen zu vertrüwen und ander güt mittel darinne zü süchen, damit man bi friden und einhellikeit möcht bliben, mit gar vil früntlicher worten und erbietens, das menglich wol erkant, das inen die ding vast zü herzen eingent.",
+   "preklad": "Na takové řeči, které se všude vedly a šířily, že prý je v městě Bernu rozepře a rozkol, přijeli do Bernu důstojní a vysoce urození knížata a páni: pan Johans, z boží milosti biskup basilejský, který byl z rodu Venningenů, a pan Rudolf, markrabě z Hochbergu, hrabě neuchâtelský, pán Röttelnu a Sausenburgu, gubernátor lucemburský atd., který měl s městem Bernem věčné měšťanské právo; k tomu poslové ctihodných měst Basileje, Fribourgu, Solothurnu, Bielu a jiných, jako věrní páni a přátelé, jimž byly takové rozepře a nesváry ze vší věrnosti líto. Žádali bernské rady a Dvě stě, aby jim tu věc svěřili a [dovolili] hledat v ní nějaký jiný dobrý prostředek, aby se mohlo zůstat v míru a svornosti; a to s velmi mnoha přátelskými slovy a nabídkami, takže každý dobře poznal, že jim ta věc šla velmi k srdci."
+  },
+  {
+   "text": "Also wart inen von räten und burgern vast gedanket und wurden inen die gemachten satzungen und ordnungen vorgelesen und zü erkennen geben, warumb die gemacht und angesechen weren und das man davon erenhalb, nachdem die dann werent gesworen, nit wol könde noch möcht stan, und wurden also dazemal gütlichen von Bern gewiset, wiewol si nit gern dannen schieden und lieber gesechen, das man inen gevolget hette.",
+   "preklad": "Rady a měšťané jim za to velmi poděkovali, přečetli jim vydaná ustanovení a nařízení a vysvětlili jim, proč byla vydána a ustanovena a že se od nich se ctí nelze a nemůže odstoupit, když už byla odpřisáhnuta. A tak byli tehdy po dobrém z Bernu odkázáni, ačkoli neodcházeli rádi a raději by byli viděli, kdyby se jich bylo uposlechlo."
+  }
+ ],
+ "poznamky": [
+  "Osoby: Johann von Venningen, biskup basilejský 1458–1478 (léta mimo Tobler). Markrabě Rudolf z Hochbergu – Tobler (pozn. ke kap. 34): hrabě neuchâtelský, pán Röttelnu, Sausenburgu a Badenweileru, od 1458 v bernském měšťanském právu. Jeho úřad gubernátora Lucemburska (pro burgundského vévodu) Tobler zde blíže neurčuje.",
+  "Místa: Welsch Nuwenburg = Neuchâtel, Röteln = Rötteln, Susenburg = Sausenburg, Lützelburg = Lucembursko, Biel = Biel/Bienne.",
+  "„räte und zweihundert“ = Malá rada a Velká rada Dvou set, bernské orgány. „erenhalb“ = kvůli cti.",
+  "Bernské varianty: „Darumb da nü semlich wort allenthalben“, „min herr von Basel“, „denen von Bern“, „Basel, Sol., Frib.“, „und einikeite“, „mit gar früntlichen worten und erbietens, das dennocht menglich“, „si ungern“, chybí „und lieber … hette“.",
+  "Oprava textu: odstraněno „°“, „Luützelburg“ → „Lützelburg“, „getrüuw“ → „getrüw“, „nıt“ → „nit“."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

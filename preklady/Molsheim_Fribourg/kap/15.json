@@ -1,0 +1,25 @@
+{
+ "cislo": 15,
+ "nadpis": "Wie der herzog von Burgün zwen treffenlich ritter siner räten gen Luzern zu gemeinen Eydgnossen schickt und mit inen dise nachgeschriben meinung reden liess.",
+ "edice": "Büchi 1914, ř. 458–460 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  58
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 58."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Burgün zwen treffenlich ritter siner räten gen Luzern zu gemeinen Eydgnossen schickt und mit inen dise nachgeschriben meinung reden liess.",
+   "preklad": "15. Jak vévoda burgundský poslal dva znamenité rytíře ze svých rad do Luzernu k obecným konfederátům a dal jim přednést níže psané stanovisko."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „Burgunz wen“ → „Burgün zwen“, „Hess“ → „liess“, „nach- geschriben“ spojeno.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 58) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

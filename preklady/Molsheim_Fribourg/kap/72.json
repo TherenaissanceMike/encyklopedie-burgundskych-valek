@@ -1,0 +1,34 @@
+{
+ "cislo": 72,
+ "nadpis": "Was die von Bern dem botten von Strassburg ze antwurt gaben.",
+ "edice": "Büchi 1914, ř. 931–936 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  171
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 171.",
+  "Vgl. Schilling C. 171, S. 245, 1—4."
+ ],
+ "odstavce": [
+  {
+   "text": "Was die von Bern dem botten von Strassburg ze antwurt gaben.",
+   "preklad": "72. Co Bernští odpověděli štrasburskému poslu."
+  },
+  {
+   "text": "73. Wie die von Solotren denen von Strasburg durch ir bitte wegen ouch schickten 150 man.",
+   "preklad": "73. Jak Solothurnští na prosbu Štrasburských poslali také 150 mužů."
+  }
+ ],
+ "poznamky_editora": [
+  "') Ludwig von Luxemburg, Graf von St. Pol, Connetable von Frankreich, vgl. Schilling II, 866 A. 8. — ! ) Am 19. Dezember 1475, v. Rodt I. 493 ff."
+ ],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 171“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 171).",
+  "Skrytá kapitola 73 (jen nadpis); Büchi odkazuje na Schillinga, kap. 171, s. 245, ř. 1–4, tj. závěr té kapitoly, kde Solothurnští dávají 150 mužů s praporcem za žold. Odstraněno číslo řádku „20“.",
+  "Poznámky editora uložené u této kapitoly patří ke kap. 70 (konetábl Saint-Pol) a jsou využity tam.",
+  "Pole schilling opraveno (strojově v něm byla i čísla řádků a stran: 1–4, 245)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

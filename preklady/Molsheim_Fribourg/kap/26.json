@@ -1,0 +1,25 @@
+{
+ "cislo": 26,
+ "nadpis": "Wie der herzog von Bürgün in willen was, die Eydgnosschaft ze zerstören und darnach des riches stett zu sinem gewalt zu bringen und in zu sinen handen ze nemen.",
+ "edice": "Büchi 1914, ř. 514–516 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  91
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 91."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Bürgün in willen was, die Eydgnosschaft ze zerstören und darnach des riches stett zu sinem gewalt zu bringen und in zu sinen handen ze nemen.",
+   "preklad": "26. Jak měl vévoda burgundský v úmyslu zničit Spříseženstvo a potom přivést říšská města pod svou moc a vzít je do svých rukou."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „BUrgtin“ → „Bürgün“, odstraněno číslo řádku „ie“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 91) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

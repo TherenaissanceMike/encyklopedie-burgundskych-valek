@@ -1,0 +1,23 @@
+{
+ "cislo": 64,
+ "nadpis": "Das die von Strasburg Schuttern gewunnen und die gevangnen erlosten.",
+ "edice": "Tobler I, s. 100",
+ "rukopis_strana": 142,
+ "odstavce": [
+  {
+   "text": "64. Das die von Strasburg Schuttern gewunnen und die gevangnen erlosten.",
+   "preklad": "64. Jak Štrasburští dobyli Schutternu a vysvobodili zajaté."
+  },
+  {
+   "text": "In dem wurdent die von Schuttern als strenge und vast von denen von Strasburg genött, das si stat und slos ufgabent in iren gewalt nach irem gevallen. Das schribent die von Strasburg von stund an gen Bern und wart us dem zug nit. Also nament die von Strasburg die gevangnen ze Schuttern, die ir zukunft vast fro wurdent und fürtent die mit inen heim und tatent inen gros ere und früntschaft und brachent Schuttern stat und slos, alle türne, toren und muren und was daran werlich oder schuldig was. Der von Höwdorf und die rechtschuldigen hattent sich darvon gemacht und beschach inen leider nit.",
+   "preklad": "Mezitím Štrasburští dolehli na Schutternské tak tvrdě a usilovně, že vydali město i hrad do jejich moci, aby s nimi naložili podle své vůle. To Štrasburští hned napsali do Bernu, a z [bernského] tažení tak sešlo. Štrasburští tedy vzali zajaté ve Schutternu, kteří byli jejich příchodu velmi rádi, odvedli je s sebou domů a prokázali jim velkou čest a přátelství. A Schuttern, město i hrad, zbořili: všechny věže, brány a hradby a všechno, co na něm bylo k obraně nebo co bylo provinilé [?]. Höwdorfer a ti opravdoví viníci se odtamtud dali na útěk a nic se jim bohužel nestalo."
+  }
+ ],
+ "poznamky": [
+  "Tobler: 13. 4. 1473 oznámili Štrasburští dobytí Schutternu Luzernu (Ruppert), 15. 4. o tom věděli v Bernu (radní manuál). Přesto Bern žádal Oberland, aby zůstal připraven.",
+  "„was daran werlich oder schuldig was“ [?]: doslova „co na něm bylo branné nebo vinné“; bernská varianta má jen „was daran werlich was“, „schuldig“ je tedy možná přídavek opisovače.",
+  "Bernské varianty: „inmassen genött“, „türn und muren“, místo „rechtschuldigen“ „die rechten knaben“ (ti praví chlapíci, ironicky o vinících). Tobler poznamenává, že rukopis 1 má chybně „von denen von Schuttern“ místo „von Strasburg“."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

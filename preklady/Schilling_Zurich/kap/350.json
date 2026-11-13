@@ -1,0 +1,31 @@
+{
+ "cislo": 350,
+ "nadpis": "Das Arberg, stat und slos, mit einandern verbran.",
+ "edice": "Tobler II, s. 156",
+ "rukopis_strana": 883,
+ "odstavce": [
+  {
+   "text": "350. Das Arberg, stat und slos, mit einandern verbran.",
+   "preklad": "350. Jak Aarberg, město i hrad, spolu vyhořely."
+  },
+  {
+   "text": "In dem vorgenanten iare uf des heiligen crütztag zü meyen, umb die achtende stund vormittag, als dann iederman in der kilchen was, ging füre an in Peter Cüntzis, des venners hus zü Arberg und verbran leider stat und slos mit einandern und alles, das darinne was von husrat und allen andern dingen, und wurdent vil armer luten do, dann nieman nit uskam, usgenomen die kilchen und des priesters hus bleip stan. Und was in denen ziten vogt zü Arberg Hans von Grafenried, dem verbran in dem slos was er hat; doch wart im nachmalen von denen von Bern etwas daran, damit er sins schadens ergetzet wart.",
+   "preklad": "V uvedeném roce, na svátek svatého Kříže v máji, kolem osmé hodiny dopoledne, když byli všichni v kostele, vypukl oheň v domě praporečníka Petera Cüntziho v Aarbergu a shořelo bohužel město i hrad zároveň se vším, co v nich bylo, s domácím nářadím i se všemi ostatními věcmi. Mnoho lidí tam zchudlo, neboť nikdo nevyvázl [?]; stát zůstal jen kostel a farářův dům. Fojtem v Aarbergu byl v té době Hans von Grafenried; tomu na hradě shořelo, co měl, ale Bernští mu potom něco přispěli, aby byl za svou škodu odškodněn."
+  },
+  {
+   "text": "Man tet ouch den armen lüten daselbs mengerlei vorteil mit korn, gelt, tüch, husrat und andern dingen; darzü hat ouch die stat, das wider zu buwen, gar grossen schaden und costen.",
+   "preklad": "Chudým lidem tamtéž se dostalo i různé pomoci obilím, penězi, suknem, nářadím a jinými věcmi; a město mělo se znovuvybudováním také velmi velkou škodu a náklady."
+  }
+ ],
+ "poznamky": [
+  "Svátek svatého Kříže v máji (Nalezení sv. Kříže) = 3. 5. 1477 (Tobler). Aarberg vyhořel už r. 1419 (Justinger).",
+  "Peter Cüntzi, praporečník (venner) v Aarbergu: OCR „Oüntzis“ opraveno podle Toblerova rejstříku („Cüntzi, Peter“).",
+  "[?] „dann nieman nit uskam“: doslova „neboť nikdo nevyšel/neunikl“; smysl je patrně, že nikdo nevyvázl bez ztráty (nic se nezachránilo).",
+  "Tobler: údaj, že kostel zůstal stát, není správný; bernská prosebná listina pro Aarberg z 22. 12. 1479 (povolena 2. 12.) mluví o hradu a městě vyhořelých „mit kilchen und allem“, výtěžek šel na stavbu kostela P. Marie. Ke stavbě se váže řada zápisů z let 1477–1479 (dříví, vápno); bernský účet z r. 1482 uvádí na stavbu v Aarbergu 465 liber.",
+  "Varianta: „wurden arm lüt do“; konec „buwen merglichen costen gehebt“.",
+  "Opravy OCR: „Oüntzis“ → „Cüntzis“, „lütendaselbs“ → „lüten daselbs“, nadbytečné tečky a dvojtečky.",
+  "Kontrola úplnosti: surový rozsah ř. 10948–11041 je v textu celý."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

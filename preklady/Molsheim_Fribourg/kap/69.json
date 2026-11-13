@@ -1,0 +1,26 @@
+{
+ "cislo": 69,
+ "nadpis": "Ein lied von dem zug gan Ponterlin.",
+ "edice": "Büchi 1914, ř. 917–918 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  168
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 168."
+ ],
+ "odstavce": [
+  {
+   "text": "Ein lied von dem zug gan Ponterlin.",
+   "preklad": "69. Píseň o tažení k Pontarlier."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 168“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 168).",
+  "Büchi (poznámka uložená u kap. 70): píseň složil Veit Weber; otištěna i u Liliencrona, Die histor. Volkslieder der Deutschen II, 60–64.",
+  "Oprava textu: odstraněna značka poznámky „1 )“."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

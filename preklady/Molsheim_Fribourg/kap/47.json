@@ -1,0 +1,31 @@
+{
+ "cislo": 47,
+ "nadpis": "Wie sich vil gesellen usser dem Sungöw uff machten und hinin gan Blamund zugen und wolten da geroubet han. Do wart ir ob hunderten erschlagen und ir vil gevangen.",
+ "edice": "Büchi 1914, ř. 605–609 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Fehlt Schilling."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie sich vil gesellen usser dem Sungöw uff machten und hinin gan Blamund zugen und wolten da geroubet han. Do wart ir ob hunderten erschlagen und ir vil gevangen.",
+   "preklad": "47. Jak se mnoho tovaryšů ze Sundgau vypravilo a táhlo dovnitř [do Burgundska] k Blamontu, kde chtěli loupit. Tam jich bylo přes sto pobito a mnoho z nich zajato."
+  },
+  {
+   "text": "Item uff dasselb zitt als vorstatt brachten ouch die von Basel an gemein Eydgnossen, wie das sy ettlich von dem land, dem Sungöw, besampnet hetten, ouch mit inen vil gesellen usser der herschaft Pfirt mit inen, und zugen hinin in Burgün wider Blamont und an dieselben ort, die vygent ze schedigen und zu beröben. Und sy an ordnung zugen und grössren flis uff das roubgüt hatten denn uff die vygent, wurden ir by hundert von den vygenden erschlagen und ob hundert gevangen und enweg gefürt.",
+   "preklad": "Item, v tutéž dobu, jak stojí výše, oznámili Basilejští také obecným konfederátům, že se shromáždili někteří [lidé] ze země, ze Sundgau, a s nimi také mnoho tovaryšů z panství Pfirt (Ferrette), a táhli dovnitř do Burgundska proti Blamontu a do těch míst, aby nepřátelům škodili a oloupili je. A protože táhli bez pořádku a dbali víc na kořist než na nepřítele, nepřátelé jich asi sto pobili a přes sto zajali a odvlekli."
+  }
+ ],
+ "poznamky_editora": [
+  "') Vgl. die Klagen an den Kaiser in Basler Chroniken III, 394 ff. — *) Vgl. d.izu auch das Schreiben Berns an Freiburg vom 29. August 1474 bei Büehi, Freiburger Missiven Nr. o. — 3 ) Vgl. Basler Chroniken 11,104, 109."
+ ],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněno „Fehlt Schilling.“, „gerdbet“ → „geroubet“; v textu „her- schaft“ spojeno, „Burgiin“ → „Burgün“, „roubgiit“ → „roubgüt“, „tvurden“ → „wurden“, odstraněn odkaz na poznámku.",
+  "Büchi: viz Basler Chroniken II, 104 a 109. Kapitolu má i rukopis D. Ostatní dvě Büchiho poznámky uložené u této kapitoly (Basler Chroniken III, 394 n.; list Bernu Fribourgu z 29. 8. 1474) patří ke kap. 46.",
+  "Nadpis mluví o „přes sto“ pobitých, text o „asi stu“ pobitých a přes stu zajatých.",
+  "Oproti Schillingovi: kapitola u Schillinga chybí (Büchi: „Fehlt Schilling“). Molsheim výslovně připisuje porážku nekázni: táhli „bez pořádku“ a víc dbali na kořist než na nepřítele."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

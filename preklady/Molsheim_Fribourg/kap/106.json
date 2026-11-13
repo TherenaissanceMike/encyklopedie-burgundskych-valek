@@ -1,0 +1,27 @@
+{
+ "cislo": 106,
+ "nadpis": "Warumb und welicher ursach wegen die zwuo stett Bern und Friburg ungern in krieg kamen mit dem grafen von Remund.",
+ "edice": "Büchi 1914, ř. 1161–1162 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  4,
+  203,
+  204,
+  285
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 203 und 204 zusammengezogen bis S. 285,j 4 . n>"
+ ],
+ "odstavce": [
+  {
+   "text": "Warumb und welicher ursach wegen die zwuo stett Bern und Friburg ungern in krieg kamen mit dem grafen von Remund.",
+   "preklad": "106. Proč a z jaké příčiny se obě města Bern a Fribourg nerada dostala do války s hrabětem z Romontu."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: Büchi pod nadpisem Molsheimův text netiskne, jen odkazuje: „Vgl. Schilling C. 203 und 204 zusammengezogen bis S. 285“ (Molsheim zde Schillingovy kap. 203 a 204 zkracuje a slučuje). Čísla 4 a 285 v poli „schilling“ jsou proto chybně rozpoznaná čísla stránek, ne kapitol."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

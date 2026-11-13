@@ -1,0 +1,36 @@
+{
+ "cislo": 103,
+ "nadpis": "Wie die herzogin von Savoy ir botschaft gon Lucern schickt und gern den burgundschen herzogen mit den Eidgnossen in büntnis het brocht.",
+ "edice": "Büchi 1914, ř. 1139–1144 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  201
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 201, al. 4, 5."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die herzogin von Savoy ir botschaft gon Lucern schickt und gern den burgundschen herzogen mit den Eidgnossen in büntnis het brocht.",
+   "preklad": "103. Jak vévodkyně savojská poslala své poselstvo do Luzernu a ráda by byla přivedla burgundského vévodu ke spolku s konfederáty."
+  },
+  {
+   "text": "Semlicher güter Worten, so den von Bern und Friburg von dem grafen von Gryers und den andern geben wurden, meinten die bede stett, solte etwas erschiessen und durch sy mit der herzogin in massen gerett und verschaffet werden, das sy von irem untrüwen fürnemen wurde stan. Das wolte ir ganz nütz smeken und ward je lenger je strenger, sunderlich wider die von Bern, als zum teil hienach stat.",
+   "preklad": "Po takových dobrých slovech, jež Bernským a Fribourgským dal hrabě z Gruyères a ostatní, mínila obě města, že by to mělo něco přinést a že by tím u vévodkyně mělo být domluveno a zařízeno tolik, že od svého nevěrného úmyslu upustí. To jí však vůbec nechtělo jít k chuti a byla čím dál tvrdší, zvláště vůči Bernským, jak zčásti stojí níže."
+  },
+  {
+   "text": "Item sy schickt ir botschaft gen Luczeren und liess dodurch dieselbe an gemein Eydgnossen werben umb ein richtung mit dem herzogen von Bürgün. So wolte sy daran sin und verschaffen, das er den Eydgnossen die 80,000 guldin von der pfantschaft wegen wurde schenken und übergeben, die der herzog von Oesterich gen Basel geleit hatte. Darzü liess sy och heimlich an ettlich gewaltig lüt in der Eydgnoschaft bringen, das sy jerlich von dem herzogen von Bürgün gelt und schenkinen solten nemen; das wolt sy inen verschaffen und vil me, denn der küng den Eydgnossen gebe. Das was alles vorab wider die ewigen pünd, frid und richtung, den man mit dem herzogen von Oesterich troffen hatt, darzü och wider die einung und verstentnüsse, so man mit dem küng gemacht hatt.",
+   "preklad": "Totiž: poslala své poselstvo do Luzernu a dala skrze ně u všech konfederátů usilovat o smír s vévodou Burgundským. Pak by se prý přičinila a zařídila, aby vévoda konfederátům daroval a přenechal těch 80 000 zlatých kvůli zástavě, které vévoda Rakouský složil v Basileji. K tomu dala také tajně donést některým mocným lidem v konfederaci, aby od vévody Burgundského brali každoročně peníze a dary; to že jim zařídí, a mnohem víc, než konfederátům dává král. To vše bylo především proti věčným spolkům, míru a smíru, který byl uzavřen s vévodou Rakouským, a také proti spolku a dohodě, které byly uzavřeny s králem."
+  }
+ ],
+ "poznamky_editora": [
+  "‘) Vgl. die Tagsatzungen vom 20. März, 9. April, 4. Juli, besonder« die letztere dürfte hier gemeint sein. Vgl. Eidg. Abschiede Nr. 780 k, 785 c, 802 g rmd Büchi, Freiburger Missiven Nr. 42. 43. — 4 ) Johann Egli sollte in Glarus dafür werben, vgl. das Schreiben der Herzogin an Glarus vom 17. Juni a. a. O."
+ ],
+ "poznamky": [
+  "Opravy OCR: der. Eidgnossen → den Eidgnossen, untrirwen fürnenien → untrüwen fürnemen, sunderio lieh → sunderlich, horzogen → herzogen, „von der ir, pfantschaft“ → von der pfantschaft, weit → wolt, kiing → küng; odstraněny odkazy na poznámky.",
+  "Büchi: srov. sněmy (Tagsatzungen) 20. 3., 9. 4. a 4. 7. 1475, míněn je asi poslední. V Glarusu měl pro vévodkyni verbovat Johann Egli (list vévodkyně Glaruským ze 17. 6. 1475).",
+  "Oproti Schillingovi (kap. 201): dobrá slova hraběte z Gruyères dostávají Bernští i Fribourgští a doufají „obě města“, u Schillinga jen Bernští; Schilling navíc píše, že poselstvo šlo do Luzernu „více než jednou“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

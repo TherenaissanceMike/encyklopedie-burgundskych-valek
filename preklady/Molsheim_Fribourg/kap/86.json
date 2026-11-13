@@ -1,0 +1,27 @@
+{
+ "cislo": 86,
+ "nadpis": "Wie der streng wiss ritter der von Bern höppman, herr Niclaus von Diesbach in dem feld siech wart von der pestilenz und in dem leger starb.",
+ "edice": "Büchi 1914, ř. 1030–1032 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  187
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 187."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der streng wiss ritter der von Bern höppman, herr Niclaus von Diesbach in dem feld siech wart von der pestilenz und in dem leger starb.",
+   "preklad": "86. Jak statečný a moudrý rytíř, hejtman Bernských pan Niklaus von Diesbach, v poli onemocněl morem a v táboře zemřel."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 187“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 187).",
+  "Büchi (poznámka uložená u kap. 85): Fribourg vyjádřil Bernu soustrast prostřednictvím Rudolfa von Wippingen.",
+  "Oproti Schillingovi: podle Schillinga (kap. 187) se Diesbach dal odvézt do Porrentruy a tam zemřel; Molsheimův nadpis říká, že zemřel v táboře (rukopisy B, E, St mají ve variantě převoz do Porrentruy).",
+  "Oprava textu: „in u> ' dem leger starb. 3 ).“ → „in dem leger starb.“"
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

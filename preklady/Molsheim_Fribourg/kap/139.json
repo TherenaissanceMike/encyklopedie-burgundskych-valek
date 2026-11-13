@@ -1,0 +1,38 @@
+{
+ "cislo": 139,
+ "nadpis": "Der ander sturm, so der herzog von Burgün an das stettli Gransen so mechtenklich dett, das die unsren den sturm verluren.",
+ "edice": "Büchi 1914, ř. 1657–1666 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  251,
+  252
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 251, 252."
+ ],
+ "odstavce": [
+  {
+   "text": "Der ander sturm, so der herzog von Burgün an das stettli Gransen so mechtenklich dett, das die unsren den sturm verluren.",
+   "preklad": "139. Druhý útok, který vévoda burgundský podnikl na městečko Grandson tak mocně, že naši útok prohráli."
+  },
+  {
+   "text": "Item darnach an der nechsten Mitwuchen des vorgenanten jares sturmpte der herzog von Burgün aber an das stettli Gransen so mit grosser macht in massen, das die Burgüner uff einer siten nebent hin in das stettli brachen durch die muren und das stettli gewunnen. Und wart die angst und nott so gross, das die fromen knecht, so in dem Barfüssenkloster waren, wüsten nit, das daz stettli an einem end gewunnen was. Und also sy der vigend so vil und so mechtig in dem stettlin sachen und ir innen wurdent, do brachen sy uss dem kloster und ab den muren und zinnen und trungen mit gewerter hand durch die vigent in das schlos. Doch beschach das leider nit ane schaden. Es kamen ouch der vigent vil umb an demselben sturm. Und enthieltend sich die fromen gesellen darnach in dem schlos, bis das sy leider schamlich und mörtlich verraten wurden und erhenkt, als hienach stat.",
+   "preklad": "Potom nejbližší středu zmíněného roku útočil vévoda burgundský na městečko Grandson znovu s tak velkou mocí, že Burgunďané z jedné strany prolomili hradby bokem do městečka a městečko dobyli. Strach a nouze byly tak veliké, že stateční knechti, kteří byli v bosáckém klášteře, nevěděli, že městečko je na jednom konci dobyto. A když uviděli nepřátele v městečku v tak velkém počtu a síle a poznali to, vyrazili z kláštera a z hradeb a cimbuří a se zbraní v ruce se probili skrze nepřátele do hradu. To se bohužel nestalo bez ztrát. Při tomto útoku však padlo i mnoho nepřátel. Stateční druhové se pak drželi na hradě, dokud nebyli bohužel hanebně a vražedně zrazeni a oběšeni, jak stojí dále."
+  },
+  {
+   "text": "Und als die fromen gesellen, so von Bern und Friburg zu Gransen in das schlos von dem sturm entrannen warend, der by fünfhundert warend, do namen die Burgüner das stettli in mit grosser macht und gewalt und leiten die büchsen gar nach zu dem schloss und schussen tag und nacht daran. Darumb die fromen knecht nütz gaben und hielten sich gar manlich [und meinten, je mit gottes hilf das schlos ze beheben, biss das sy von iren herren entschütt wurdent, das sy getan hettent, were nit die vereterye gewesen]. Denn die Burgüner das schloss nit me nöttigent mit sturm, denn allein mit schiessen uff einer sitten gegen der statt, da das schlos ouch gar stark und werlich was. Die güten gesellen waren vor ouch umb iren büchsenmeister komen; wart erschossen in dem schlos, der gar ein tröstlicher man was. Darzü gieng inen ir büchsenbulver ein teil an und verbran inen. Und gerieten also in dem schloss ander enandren uneins werden und uneinhelig, des sy übel engulten, als ir hienach werden hören.",
+   "preklad": "A když stateční druhové z Bernu a Fribourgu, kterých bylo asi pět set, z útoku unikli do hradu v Grandsonu, zmocnili se Burgunďané městečka velkou mocí a silou, postavili děla velmi blízko k hradu a stříleli do něj dnem i nocí. Stateční knechti si z toho nic nedělali a drželi se velmi mužně [a mysleli, že s Boží pomocí hrad jistě udrží, dokud je jejich páni nevysvobodí; to by se jim také podařilo, nebýt zrady]. Burgunďané totiž hrad už netísnili útoky, nýbrž jen střelbou z jedné strany, od města, kde byl hrad také velmi silný a dobře hájitelný. Dobří druhové už předtím přišli také o svého puškaře (büchsenmeister); byl zastřelen na hradě a byl to muž, který jim velmi dodával odvahy. K tomu se jim část prachu vznítila a shořela. A tak se na hradě mezi sebou začali rozcházet a nebyli jednotní, za což zle zaplatili, jak uslyšíte dále."
+  }
+ ],
+ "poznamky_editora": [
+  "') Mittwoch, 21. Februar — 2 ) Vgl. Luzerner Missiven Nr. 7 vom 22. Februar und Schreiben Berns an gemeine Eidgenossen Schilling I, 367. Tusch 76. Sicher 19 und Nicolaus S. 21 schätzten die eidg. Besatzung auf 400 Mann."
+ ],
+ "poznamky": [
+  "Text: odstavec rozdělen na dva podle edice; odstraněna čísla řádků (io, ir., ä5) a odkazy na poznámky; OCR opraveno: Barfftssenkloster → Barfüssenkloster, sclilos → schlos, oueh → ouch, daraiy'Darumb → daran. Darumb, „[m nd“ → „[und“, körnen → komen.",
+  "„Barfüssenkloster“ = františkánský (bosácký) klášter v Grandsonu.",
+  "Büchi: druhý útok ve středu 21. 2. 1476. Sicher a Nicolaus odhadují konfederátní posádku na 400 mužů (Molsheim i Schilling asi 500). Schilling (I, 356) mluví o „puškaři z Bernu“.",
+  "Oproti Schillingovi (C. 251–252): Schilling líčí, že puškaři ustřelili hlavu na cimbuří a že s prachem shořela i děla a mnozí byli zmrzačeni; Molsheim jen, že byl zastřelen a shořela část prachu. Navíc má [naději udržet hrad až do vysvobození] a zmínku o nesvornosti posádky, která předznamenává kapitulaci."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

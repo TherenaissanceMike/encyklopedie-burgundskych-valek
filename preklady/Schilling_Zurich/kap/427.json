@@ -1,0 +1,29 @@
+{
+ "cislo": 427,
+ "nadpis": "Das man zü Bern güldin slüg und münzet.",
+ "edice": "Tobler II, s. 299",
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "427. Das man zü Bern güldin slüg und münzet.",
+   "preklad": "427. Jak se v Bernu razily a mincovaly zlaté."
+  },
+  {
+   "text": "Da man zalt von gottes gebürt tusent vierhundert achtzig und vier iare an einem mentag nach sant Othmars tag, hat man zü Bern güldin geslagen und gemünzet, namlich an einem ort sant Peter mit dem slüssel und am andern ort den beren in einem schilt. Die selb gnad und friheit hat der vorgerürt babst Sixtus der vierde denen von Bern verluchen und inen darumb ein versigelt bull geben und die ouch ewiclichen bestetet und nach dem man dann denselben anvang getan hat, so mag ein stat von Bern nü fürwerthin zü ewigen ziten güldin slachen und des niemer mer beroubt werden. Und warent darbi, da man die güldin slüg, herr Wilhelm von Diespach, ritter, schultheis zü Bern und herr ze Signow, herr Peterman von Wabren, ritter, herr ze Belp, Urban von Mülren, Heinrich Matter, Anthoni Archer, Ludwig Ditlinger und Urs Werder.",
+   "preklad": "Když se psalo od Božího narození tisíc čtyři sta osmdesát čtyři let, v pondělí po svatém Othmarovi, razily a mincovaly se v Bernu zlaté: na jedné straně svatý Petr s klíčem a na druhé medvěd ve štítě. Tuto milost a svobodu propůjčil Bernským výše zmíněný papež Sixtus Čtvrtý, dal jim o ní zpečetěnou bulu a také ji navěky potvrdil. A protože se s tím nyní začalo, může město Bern odnynějška po věčné časy razit zlaté a nikdy o to nebude připraveno. Když se zlaté razily, byli při tom pan Wilhelm von Diespach, rytíř, starosta bernský a pán v Signau, pan Peterman von Wabren, rytíř, pán v Belpu, Urban von Mülren, Heinrich Matter, Anthoni Archer, Ludwig Ditlinger a Urs Werder."
+  },
+  {
+   "text": "Item man hat ouch under anderm zü Bern gemünzet und geslagen ein merglich gros zal dick plaphart mit dem rich und dem beren, der drig ein Rünschen güldin tünd, ze glicher wise als die dicken Meylenschen plaphart; die wurden ouch bald verzuckt, das man ir wenig me vand.",
+   "preklad": "Mimo jiné se v Bernu také vyrazilo pozoruhodně velké množství tlustých grošů s říšským znakem a s medvědem, z nichž tři dělají jeden rýnský zlatý, stejně jako tlusté milánské groše. Ty se však brzy rozebraly, takže jich už bylo k nalezení málo."
+  }
+ ],
+ "poznamky": [
+  "Datum: pondělí po sv. Othmarovi (16. 11.) 1484 = 22. 11. 1484 (Tobler). Takový bernský zlatý je vyobrazen u Coraggioniho, Münzgeschichte der Schweiz (1896), tab. VIII, č. 5 (Tobler).",
+  "Tobler: instrukce z 25. 3. 1479 pro Niklause Schmida, který jel do Říma, žádala potvrzení všech výsad, protože je současný císař na rozdíl od předchůdců potvrdit nechtěl, a také právo razit zlaté s bernským znakem. Papež odpověděl bulou z 10. května (latinské znění Tobler otiskuje): Bern smí navěky razit zlaté stejné váhy, kovu a podoby jako rýnské zlaté, s postavou sv. Petra na jedné a bernským znakem na druhé straně.",
+  "„dick plaphart“ = tlusté groše (stříbrné groše typu testonu), tři za rýnský zlatý; o této minci Tobler odkazuje na Absch. III, 193 h. „mit dem rich“ = s říšským znakem (orlicí), výklad mimo Tobler. „verzuckt“ = odvlečeny, rozebrány (Toblerův glosář).",
+  "Osoby a místa: Signow = Signau, Wabren = Wabern, Peterman von Wabren pán v Belpu (Toblerův rejstřík).",
+  "Opravy textu: „süldin“ → „güldin“ v nadpisu; z odstavců odstraněna vlepená Toblerova poznámka („Landeron im Kanton … Seewein = Wein vom Neuenburger- und Bielersee“, „Ueber Rifwein … Münzgeschichte der Schweiz … Zudem wünschen die Berner das Recht « cudendi“) a obnoveno souvislé znění „ein versigelt bull geben und die ouch ewiclichen bestetet und nach dem man…“; „Und warent darbi…“ připojeno k prvnímu odstavci podle edice. Úplnost ověřena proti ř. 20643–20701."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

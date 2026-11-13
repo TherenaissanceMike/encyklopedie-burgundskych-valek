@@ -1,0 +1,39 @@
+{
+ "cislo": 27,
+ "nadpis": "Wie die richstette an dem Bodensew und in Schwaben so untröstlich sich in der Eydgnossen grossen nöten gen inen hielten.",
+ "edice": "Büchi 1914, ř. 517–522 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  92,
+  93,
+  94
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 92.",
+  "Vgl. Schilling C. 93. (kap. 28)",
+  "Vgl. Schilling C. 94. (kap. 29)"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die richstette an dem Bodensew und in Schwaben so untröstlich sich in der Eydgnossen grossen nöten gen inen hielten.",
+   "preklad": "27. Jak se říšská města u Bodamského jezera a ve Švábsku chovala ke konfederátům v jejich velké nouzi tak neutěšeně [tj. bez ochoty pomoci]."
+  },
+  {
+   "text": "28. Wie die obren stett an dem Rin: Rinfelden, Löffenberg, Seckingen und Walzhut sich mit den Eydgnossen heimlich underretten und ir anlegen not an den herzogen von Oesterich brachtend und sines rates begertend.",
+   "preklad": "28. Jak se horní města na Rýně, Rheinfelden, Laufenburg, Säckingen a Waldshut, tajně domluvila s konfederáty, přednesla svou naléhavou potřebu vévodovi rakouskému a žádala o jeho radu."
+  },
+  {
+   "text": "29. Wie die zwen bischof von Strasburg und Basel mitsampt der stetten an die Eydgnossen begerten, in ein früntlich vereinung ze komen.",
+   "preklad": "29. Jak dva biskupové, štrasburský a basilejský, spolu s městy žádali konfederáty, aby s nimi vstoupili do přátelského spolku."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Skryté nadpisy: odstavce 1 a 2 jsou nadpisy kap. 28 a 29, přeloženy jako mezititulky. Jejich odkazy („Vi 1. Schilling 0. 93.“, „Vgl. Schilling U. 94.“) přesunuty z textu do schilling_odkaz a pole schilling doplněno.",
+  "Oprava OCR: odstraněno „,5“ a „%“ (čísla řádků), „sanipt“ → „sampt“ (mitsampt), „körnen“ → „komen“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 92, 93 a 94; platí i pro kap. 28 a 29) a edice ho neotiskuje.",
+  "Horní (lesní) města na Rýně: Rheinfelden, Laufenburg, Säckingen a Waldshut, rakouská města v zástavě Karla Smělého."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

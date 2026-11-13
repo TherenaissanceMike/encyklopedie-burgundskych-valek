@@ -1,0 +1,27 @@
+{
+ "cislo": 16,
+ "nadpis": "Was die Eydgnossen den burgunschen botten uf ir anbringen ze antwurt gaben.",
+ "edice": "Büchi 1914, ř. 464–466 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  59,
+  60,
+  61
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 59, 60, 61."
+ ],
+ "odstavce": [
+  {
+   "text": "Was die Eydgnossen den burgunschen botten uf ir anbringen ze antwurt gaben.",
+   "preklad": "16. Co konfederáti odpověděli burgundským poslům na jejich přednesení."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava OCR: „ul“ → „uf“.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 59, 60, 61) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

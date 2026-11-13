@@ -1,0 +1,24 @@
+{
+ "cislo": 33,
+ "nadpis": "Wie der römsch keisser ein friden macht mit dem hertzog von brugunde vnd da ussschloss den grossen pund der eignoschaft cet. dz doch vnbillichen wz.",
+ "edice": "Usteri 1847, ř. 8176 souboru edice",
+ "rukopis_strana": 315,
+ "odstavce": [
+  {
+   "text": "Wie der römsch keisser ein friden macht mit dem hertzog von brugunde vnd da ussschloss den grossen pund der eignoschaft cet. dz doch vnbillichen wz.",
+   "preklad": "Jak římský císař uzavřel mír s vévodou burgundským a vyloučil z něj velký spolek konfederace atd., což bylo přece nespravedlivé."
+  },
+  {
+   "text": "Item vnd als nun hertzog karoluss von brugun jar vnd tag vor der stat nüss wz gelegen vnd sy nüt erübren mocht ward ein frid gemacht zwuschend dem römschen keisser vnd dem optgenanten fürsten, also dz alle fürsten vnd heren granffen frigen ritter vnd knecht alle stet sy werend dess richs oder nüt jn dissem friden bliben söltend, dann allein hertzog sigmund der hertzog von luttringen die eignossen straspurg bassel kolmer vnd schletzstat vnd welle den zum grossen bund gehorttind die söltend da gantz nütz jm friden begriffen sin, vnd also schloss sy der keisser vs von dissem friden dz doch wider alle billikeitt wz, vnd wider gott diewil vnd doch derselb keisser fridrich von österich sy mit sinnen eignen missiffen vnd brieffen mant bin sinnen keisserlichen hulden denn hertzog von brugunde ze bekriegen wie den da vor statt also beschach disse bericht uff sant volrichs tag jm Lxxv jar.",
+   "preklad": "Když tedy vévoda Karel Burgundský ležel rok a den před městem Neussem a nemohl ho zdolat, byl mezi římským císařem a výše řečeným knížetem uzavřen mír, a to tak, že všichni knížata a páni, hrabata, svobodní páni, rytíři a panoši a všechna města, ať říšská, nebo ne, mají v tomto míru být; jedině vévoda Zikmund, vévoda lotrinský, konfederáti, Štrasburk, Basilej, Colmar a Sélestat a ti, kdo patřili k velkému spolku, nemají být do míru nijak zahrnuti. Tak je císař z tohoto míru vyloučil, což bylo přece proti vší spravedlnosti i proti Bohu, neboť týž císař Fridrich Rakouský je svými vlastními listy a psaními pod ztrátou své císařské milosti vyzýval, aby proti vévodovi burgundskému válčili, jak stojí výše. Toto narovnání se stalo na svátek svatého Oldřicha roku [14]75."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: „anlein“ → „allein“, „ıxxv“ → „Lxxv“.",
+  "Svatý Oldřich = 4. 7. 1475.",
+  "Vévoda Zikmund = Zikmund Habsburský, vévoda rakouský (Tyrolsko); vévoda lotrinský = René II.; „velký spolek“ = Dolní spojenectví alsaských měst a Zikmunda s konfederáty (mimo text).",
+  "Obléhání Neussu trvalo od července 1474 do června 1475 (mimo text); „rok a den“ je ustálená formule. „ritter vnd knecht“ = rytíři a panoši."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

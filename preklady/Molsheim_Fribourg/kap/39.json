@@ -1,0 +1,31 @@
+{
+ "cislo": 39,
+ "nadpis": "Wie der fürst von Oesterich heis Hagenbach fragen und gichten umb sin übeldett, so er an der statt Brichsach wolt getan han.",
+ "edice": "Büchi 1914, ř. 555–565 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  110
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 110.",
+  "Vgl. Schilling C. 110. (kap. 40)"
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der fürst von Oesterich heis Hagenbach fragen und gichten umb sin übeldett, so er an der statt Brichsach wolt getan han.",
+   "preklad": "39. Jak kníže rakouský dal Hagenbacha vyslýchat a útrpně tázat pro jeho zločiny, které chtěl spáchat na městě Breisachu."
+  },
+  {
+   "text": "40. Wie Hagenbach gegicht ward, wie er so gross veretrye, mort und so schantlich lästerlich sachen verjach, das es nit ze sagen ist.",
+   "preklad": "40. Jak byl Hagenbach útrpně vyslýchán a jak se přiznal k tak velké zradě, vraždě a tak hanebným, ohavným věcem, že se to nedá vypovědět."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava textu: z nadpisu odstraněn odkaz „Vgl. Schilling €. 110.“ a „>“; „Qbeldett“ → „übeldett“, „wott“ → „wolt“; „40Wie“ → „40. Wie“, „schantiich“ → „schantlich“. Odstraněn odstavec se šumem a Büchiho poznámkami ke kap. 34 („■t ’■ >) Vgl. Luzerner Schilling …“), shrnuty jsou v kap. 34. „heis“ = hiess (Molsheimův pravopis).",
+  "Skrytý nadpis: odstavec 1 je nadpis kap. 40 (Vgl. Schilling C. 110), přeložen jako mezititulek.",
+  "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 110; platí i pro kap. 40) a edice ho neotiskuje."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

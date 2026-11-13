@@ -1,0 +1,25 @@
+{
+ "cislo": 18,
+ "nadpis": "Hie ward hagenbach enthöptet.",
+ "edice": "Usteri 1847, ř. 7770 souboru edice",
+ "rukopis_strana": 293,
+ "odstavce": [
+  {
+   "text": "Hie ward hagenbach enthöptet.",
+   "preklad": "Zde byl Hagenbach sťat."
+  },
+  {
+   "text": "Sunder gebott er uff den helgen ostertag den tütschen soldneren jren harnysch abzethun, vnn die gewer von jnnen zu legen, dass doch vormals nie beschechen wz, vnd liess den walchen jr gewer vnd harnisch tragen, söllichen gebotten die tütschen alle gehorsam warend den anlein einner dess höptmans gebrüder, der wolte dz über ein nüt zu duon, vnd gab also nütz vmm dess lantuogtz gebot vnd trug den harnisch vnd sinne gewer bin jm wie for, also nam jn der lantuogt jn gefengnus vnd trowte jm er welte jm sinne ougen usstechen lassen, da gieng dessselben gesellen gebrüder der hoptman, mit uil andren sinnen gesellen vir den lantuogt vnd fordret sinnen brüder vnd begertt gnad von jm, aber wie uil er jn batt half alles nütz der lantuogt wolt jn nüt ledig lassen sunder jm sin ougen usstechen also fiel der höptman jnn den lantuogt vnd wolt jn erstochen haben, doch ward es vndertragen von dennen die den darby warend dz es nüt beschach also fienge der höptman mit sinnen gesellen den lantuogt jn sinnem eignen huss vnd wurfent jn die stigen nider vnd leittend jn jn einnen turn doch nüt jn meinung dz er beliben oder sterben müste, als bald aber die von bassel vnd ander stet vernamend jn gefangen sin da fuorend sy gan brisach vnd uerbuttend jn zerecht, da müst er also beliben, darnach vff mentag vor des helgen crütztag ze meyen ward ein gericht gemacht zu brisach von allen puntgnossen, vnd morgens frü für gericht gefürtt vnd mit recht verurteilt vnn demnach bin der nacht bin einnem schoub mit dem schwertt sin houpt von sinnem lib geschlagen es kamend gar uil lütten vnd grosse welt von uil stetten vnd lendren die ja woltend hören ze uerurteillen dz man sy schatz bin viij oder xᵐ menschen nun were uil vnd lang zu melden vmm wz sachen der lantuogt zum schwert verurtteilt wurd dz wurde nun zu lang den jr sin übel vnd wol tun ouch dauor wol uerstanden hand dz hie nüt notturft fordred clag vnd antwort zu schriben.",
+   "preklad": "Zvlášť pak na Boží hod velikonoční nařídil německým žoldnéřům, aby odložili zbroj a složili zbraně, což se předtím nikdy nestalo, a Vlachům nechal zbraně i zbroj nosit. Tomu rozkazu byli všichni Němci poslušni, jen jeden, bratr jejich hejtmana, to za nic na světě nechtěl udělat. Nedbal tedy na fojtův rozkaz a nosil zbroj a zbraně při sobě jako předtím. Proto ho zemský fojt dal uvěznit a vyhrožoval mu, že mu dá vypíchnout oči. Tu šel bratr toho druha, hejtman, s mnoha jinými svými druhy k zemskému fojtovi, žádal svého bratra zpět a prosil o milost. Ale ať prosil sebevíc, nic nepomohlo: zemský fojt ho nechtěl propustit, nýbrž mu chtěl dát vypíchnout oči. Tu se hejtman na zemského fojta vrhl a chtěl ho probodnout, ale ti, kdo byli při tom, se vložili mezi ně, takže se to nestalo. Nato hejtman se svými druhy zajal zemského fojta v jeho vlastním domě, shodili ho ze schodů a odvedli do věže, ovšem ne s úmyslem, že by tam musel zůstat nebo zemřít. Jakmile se však Basilejští a jiná města dozvěděli, že je zajat, jeli do Breisachu a vzali ho do soudní vazby, a tak tam musel zůstat. Potom v pondělí před svátkem svatého Kříže v květnu ustavili všichni spojenci v Breisachu soud. Časně ráno byl předveden před soud a právem odsouzen a potom v noci, při světle pochodně, mu byla mečem sťata hlava. Přišlo velmi mnoho lidí, veliké množství z mnoha měst a zemí, kteří chtěli slyšet rozsudek, takže se jich odhadovalo na osm nebo deset tisíc. Bylo by mnoho a dlouho vypravovat, pro jaké věci byl zemský fojt odsouzen k meči; to by bylo příliš dlouhé, neboť jste jeho zlé i dobré skutky už předtím dobře poznali, takže tu není potřeba vypisovat žalobu a odpověď."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: „von liess“ → „vnd liess“, „söllichen potten“ → „söllichen gebotten“, „des: helgen erütztag“ → „des helgen crütztag“, „xm“ → „xᵐ“ (10 000), „nült“ → „nüt“. Odstavec rozdělený Usteriho poznámkou spojen; poznámka zní: tato později doplněná zpráva v opisu chybí.",
+  "Boží hod velikonoční 1474 = 10. 4. 1474. Pondělí před svátkem Nalezení sv. Kříže (3. 5.) = 2. 5. 1474. Hagenbach byl však souzen a popraven 9. 5. 1474 (mimo text); srov. Schilling kap. 110–112.",
+  "„uerbuttend jn zerecht“ = „verbieten zu Recht“, vzít do soudní vazby, aby nemohl být propuštěn bez soudu.",
+  "„bin einnem schoub“ = při otepi slámy, tj. při pochodni (Schaub = otep slámy, mimo text). Noční poprava při pochodních.",
+  "Hejtmanem německých žoldnéřů byl patrně Friedrich Vögelin (mimo text); Edlibach jméno neuvádí. Příběh o bratrovi, kterému chtěl fojt vypíchnout oči, Schilling v kap. 106 nemá v této podobě (mimo text, nutno ověřit)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

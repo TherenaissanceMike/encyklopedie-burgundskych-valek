@@ -1,0 +1,29 @@
+{
+ "cislo": 56,
+ "nadpis": "Das der herzog von Burgunnen daruf den Eidgnossen gar hochmüticlichen schreip.",
+ "edice": "Tobler I, s. 93",
+ "rukopis_strana": 125,
+ "odstavce": [
+  {
+   "text": "56. Das der herzog von Burgunnen daruf den Eidgnossen gar hochmüticlichen schreip.",
+   "preklad": "56. Jak burgundský vévoda poté konfederátům velmi zpupně psal."
+  },
+  {
+   "text": "Diser sachen und des herzogen von Oesterich nam sich der herzog von Burgunnen an, über das doch die Eidgnossen semlichs umb deheiner siner vordern, noch in, nie verdienet hatten und über und wider, das sin vatter herzog Philippus loblicher hocher gedechtnus und er mit den erbern stetten Zürich, Bern, Friburg und Solotern in ewiger verschribner vereinung warent, das doch deheim fürsten eren- noch wirdenhalb zü tünde zimpt. Und schreip daruf denselben handel und was er mit dem fürsten von Oesterich wider die Eidgnossen beslossen und wie er den in sinen schirm und sunderlich wider die Switzer genomen hette, mit hochen verachtung gemeinen Eidgnossen stolzmüticlichen von stetten und lendern, die man nampt die Switzer, und endrete den iren gewonlichen tittel, des si von altem har von sinem vatter und andern biderben fürsten, herren und stetten vertragen.",
+   "preklad": "Těchto věcí a rakouského vévody se ujal burgundský vévoda, ačkoli si to konfederáti nikdy nezasloužili ani u žádného z jeho předků, ani u něho samého, a navzdory tomu, že jeho otec, vévoda Filip chvalné a vznešené paměti, i on sám byli s ctihodnými městy Curychem, Bernem, Fribourgem a Solothurnem ve věčném, listinou upsaném spolku. Něco takového se přece žádnému knížeti nesluší činit, ani pro čest, ani pro důstojnost. A tu záležitost, i co s rakouským knížetem proti konfederátům ujednal a jak ho vzal do své ochrany, zvlášť proti Švýcům, pak s velkým pohrdáním zpupně napsal všem konfederátům z měst a zemí, jež nazval „Švýci“, a změnil jejich obvyklý titul, jaký jim odedávna přiznával jeho otec i jiní poctiví knížata, páni a města."
+  },
+  {
+   "text": "Wiewol si dennocht von gnaden gottes derselben endrung unenteret waren, dennocht müstent si von im also gesmecht werden; dann in derselben missive zem dritten mal und an drin orten geschriben stünd, das er den herzogen von Oesterich sunders wider die Switzer in sinen schirm genomen hette.",
+   "preklad": "Ačkoli je ta změna z Boží milosti nijak nezneuctila, přesto od něho museli snést takové potupení; neboť v tom listě stálo třikrát a na třech místech, že rakouského vévodu vzal do své ochrany zvláště proti Švýcům."
+  }
+ ],
+ "poznamky": [
+  "Tobler: dohoda (Verständnis) vévody Filipa Burgundského a jeho syna Karla s Curychem, Bernem, Solothurnem a Fribourgem byla uzavřena 22. 5. 1467 (Abschiede II, 899).",
+  "Tobler: Schilling má podle kap. 58 na mysli list předaný sněmu v Luzernu 5. 5. 1473. Odpověď sněmu mluví o psaní, v němž nás vévoda „vysoce pohrdl“.",
+  "„die Switzer“ (Švýci): původně obyvatelé Schwyzu; nepřátelé tak hanlivě nazývali všechny konfederáty místo jejich obvyklého titulu (mimo Tobler). Proto Schilling zdůrazňuje změnu titulu jako urážku.",
+  "Bernské varianty: „Diser dingen“, „keim fürsten“, „endret inen“ (změnil jim), „hocher verachtunge“; smysl nemění.",
+  "Oprava textu: „erennoch“ → „eren- noch“ (OCR)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

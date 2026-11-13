@@ -1,0 +1,30 @@
+{
+ "cislo": 290,
+ "nadpis": "Das der herzog von Burgunnen von sinem leger zü Losann schied, und mit allem sinem züge und ganzer macht gegen Murten zoch.",
+ "edice": "Tobler II, s. 27",
+ "rukopis_strana": 724,
+ "odstavce": [
+  {
+   "text": "290. Das der herzog von Burgunnen von sinem leger zü Losann schied, und mit allem sinem züge und ganzer macht gegen Murten zoch.",
+   "preklad": "290. Jak vévoda burgundský opustil svůj tábor u Lausanne a se vším svým vojskem a celou mocí táhl k Murtenu."
+  },
+  {
+   "text": "Und also an einem samstag vor der heiligen drivaltikeit tag des vorgenanten iares schied der herzog von Burgunnen mit unsaglicher grosser macht und allem sinem züge von buchsen, bulver und andern dingen us sinem leger und wasenburg zü Losann gegen der stat Murten zü, und ruckt sin vorhüt ein teil bis gen Wiblispurg und in dieselben gegnen züuringumb, und tribent grossen mütwillen und hochvart und meinten, es solt alles nach irem willen gan; der herzog beleip aber persönlich zü Betterlingen.",
+   "preklad": "A tak v sobotu před svátkem Nejsvětější Trojice téhož roku vytáhl vévoda burgundský s nevýslovně velkou mocí a se vším svým vojskem, s děly, prachem a jinými věcmi, ze svého tábora a vozové hradby [?] u Lausanne k městu Murtenu. Jeho předvoj postoupil zčásti až k Avenches a do okolních krajů. Tropili velkou svévoli a pýchu a mysleli si, že vše půjde podle jejich vůle; vévoda sám však zůstal v Payerne."
+  },
+  {
+   "text": "Des wart der vorgenant houptman in Murten innen, und zugen inen angendes us der stat mit sechshundert mannen gar unerschrocken engegen und iagtent si wider hindersich bis für Wiblispurg hinus; und viengen desselben mals ein edelman und ein knecht mit im, die fürtent si mit inen gen Murten, umb erfarung des herzogen gelegenheit. Si brachten ouch holz und ander ding mit inen heim, des si notdürftig warent, und beschach inen von gnaden gots kein leid, dann ir einer wart durch ein arm geschossen. Si warent ouch vorhin me dann einmal uf der vienden land getreten und hatten inen grossen schaden getan und schribent semlichs von stund an gen Bern.",
+   "preklad": "Toho si povšiml výše jmenovaný hejtman v Murtenu a vytáhli jim hned z města se šesti sty muži zcela neohroženě vstříc a zahnali je zpět až za Avenches. Při tom zajali jednoho šlechtice a s ním jednoho knechta a odvedli je s sebou do Murtenu, aby se od nich dozvěděli, jak to s vévodou stojí. Přinesli si také domů dříví a jiné věci, kterých měli zapotřebí, a z Boží milosti se jim nic nestalo, jen jeden z nich byl postřelen do paže. Už předtím také víc než jednou vytáhli na nepřátelské území a způsobili jim velkou škodu, a to vše hned psali do Bernu."
+  }
+ ],
+ "poznamky": [
+  "Datum: sobota před svátkem Nejsvětější Trojice = 8. 6. 1476. Tobler: nepřesné, Karel opustil Lausanne už 27. 5. a utábořil se u Morrens jižně od Echallens; 4. 6. táhl k Biolay-Magnou u Yverdonu, 7. 6. tábořil u Montet mezi Yverdonem a Estavayerem a 8. 6. odpoledne táhl k Murtenu, kam dorazil večer. Bernská rada na zprávu o odchodu z Lausanne přijímala od 29. 5. rázná opatření.",
+  "Výpad z Murtenu byl podle Toblera ráno 8. 6.; v burgundském táboře se mluvilo o 6000 Švýcarech. „Výše jmenovaný hejtman“ = Adrian von Bubenberg (bernská varianta: „Der vorgenant houptman von Bübenberg“).",
+  "Bernský rukopis má u odstavce „Des wart der vorgenant houptman…“ vlastní mezititulek: „Das der houptman von Murten und ander dem herzogen von Burgunn engegen zugen“ (Jak hejtman z Murtenu a jiní táhli vévodovi burgundskému vstříc). Nejde o číslovanou kapitolu.",
+  "Wiblispurg = Avenches, Betterlingen = Payerne (Tobler).",
+  "„wasenburg“ [?]: patrně zkomolené „wagenburg“ (vozová hradba), mimo Tobler; glosář slovo neuvádí.",
+  "Oprava textu: odstraněno číslo řádku „2%“, „mütwulen“ → „mütwillen“; odstavce rozděleny podle edice."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

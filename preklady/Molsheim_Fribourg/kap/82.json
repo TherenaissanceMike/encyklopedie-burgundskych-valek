@@ -1,0 +1,25 @@
+{
+ "cislo": 82,
+ "nadpis": "Wie Blamund belegen wart von Strasburg, Basel, Bern, Friburg, Solotern.",
+ "edice": "Büchi 1914, ř. 998–1000 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  182
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 182."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie Blamund belegen wart von Strasburg, Basel, Bern, Friburg, Solotern.",
+   "preklad": "82. Jak byl Blamont oblehnut Štrasburkem, Basilejí, Bernem, Fribourgem a Solothurnem."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Büchi otiskuje jen nadpis s odkazem „Vgl. Schilling C. 182“; text kapitoly zřejmě odpovídá Schillingovi (český překlad viz Schilling_Zurich, kap. 182).",
+  "Oproti Schillingovi: Schillingova kap. 182 má nadpis o odchodu lidu rakouského vévody do Lotrinska; Molsheim ji nadepisuje obléháním Blamontu a vyjmenovává města včetně Fribourgu."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

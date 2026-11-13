@@ -1,0 +1,24 @@
+{
+ "cislo": 372,
+ "nadpis": "Das gar vil redlicher gesellen an dem Gothart in dem schnee verdurbent und umbkament.",
+ "edice": "Tobler II, s. 205",
+ "rukopis_strana": 917,
+ "odstavce": [
+  {
+   "text": "372. Das gar vil redlicher gesellen an dem Gothart in dem schnee verdurbent und umbkament.",
+   "preklad": "372. Jak velmi mnoho statných druhů zahynulo a přišlo o život na Gotthardu ve sněhu."
+  },
+  {
+   "text": "Und als man an den Gothart kam, da warent etlich mütwillig lüte vor dannen geloufen, die machten ein geschrei und wolten nieman volgen, wie vast man inen das verbott. Also kam ein gros ungestüme schnelowinen oben von dem berg harin, darunder leider vil güter gesellen kament und wurdent verzuckt; etlich kament von gottes gnaden wider harus, die über nacht darinne gelegen warent und bi dem leben bliben. Zwar das müst von sundern gnaden und erbermde des almechtigen gottes beschechen, dann si an allen zwivel grossen smerzen hatten erlitten; etlich kament ouch harus lebendig und sturbent darnach angends, aber der merteil bleip leider darin tot, dann ir darnach vil funden wurden, und klagt nachmalen iederman die sinen, die er verlorn hat. Der barmherzig gotte well inen die ewig rüw verliechen.",
+   "preklad": "A když se přišlo na Gotthard, někteří svévolní lidé utekli napřed, dělali křik a nechtěli nikoho poslechnout, jakkoli přísně jim to zakazovali. Tu se shora z hory přivalila velká prudká sněhová lavina, pod kterou se bohužel dostalo mnoho dobrých druhů a byli strženi. Někteří se z Boží milosti zase dostali ven, ačkoli v ní proleželi přes noc, a zůstali naživu. To se jistě muselo stát ze zvláštní milosti a slitování všemohoucího Boha, neboť bezpochyby vytrpěli velké bolesti. Někteří vyšli ven také živí a hned potom zemřeli, ale většina v ní bohužel zůstala mrtvá, neboť jich potom bylo mnoho nalezeno; a potom každý naříkal nad svými, které ztratil. Milosrdný Bůh jim dej věčný pokoj."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: nadpis byl rozdělen zlomem („an dem Gothart _ / in dem scehne verdurbent…“); druhá polovina nadpisu spadla do textu. Nadpis spojen, „scehne“ → „schnee“ (OCR; varianta má „in dem schnew gar iemerlich“). Text a závěrečná modlitba sloučeny do jednoho odstavce podle edice, odstraněny zbloudilé „.“ a „:“.",
+  "Varianty: nadpis „in dem schnew gar iemerlich verdurbent“ (velmi žalostně); „dannen gezogen“; „kament, die wurden“; „die dennocht über (nacht)“; „erbermden“; „on zwivel“.",
+  "Tobler: lavina zasáhla vojsko na zpáteční cestě (Edlibach ji mylně klade na cestu tam); 21. 12. 1478 znali podrobnosti už v Locarnu a 24. 12. psal Bern, že se jasně říká, že „na Gotthardu pádem lavin“ utrpěli jejich lidé velkou škodu.",
+  "„verzuckt“ = strženi, odneseni (glosář: wegreissen). „schnelowinen“ = sněhová lavina. Souvislost křiku s pádem laviny je v textu jen naznačena (výklad mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

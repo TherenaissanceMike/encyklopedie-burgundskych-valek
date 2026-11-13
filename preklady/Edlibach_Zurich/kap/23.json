@@ -1,0 +1,24 @@
+{
+ "cislo": 23,
+ "nadpis": "Wie die brugunschen iij hundurt puren vs pfirtterampt zu tod slogend vnd den rob errattend.",
+ "edice": "Usteri 1847, ř. 7893 souboru edice",
+ "rukopis_strana": 299,
+ "odstavce": [
+  {
+   "text": "Wie die brugunschen iij hundurt puren vs pfirtterampt zu tod slogend vnd den rob errattend.",
+   "preklad": "Jak Burgunďané pobili tři sta sedláků z ferretského úřadu a vzali jim kořist zpět."
+  },
+  {
+   "text": "Vnd also zugend sy desselben sunnentags jn der nacht hinweg mit drühundurt knechten, vnd als sy gan blamund kamend, hinderschlugend sy ein grossen roub vechs, vnd als sy den zwo mil wegs getriben hattend, dz vernament die brugunschen vnd samlontend sich vnd jltend jnnen starck nach, mit viijᶜ manen zu ross vnd fuss, vnd als sy zusemen kamment, staltend sich die drühundurt knecht zu wer, hinder graben die gaben jnn grossen forttel vnd hilff, aber sy wichend von söllichem jren forttel vnd zugend jn dz witt feld, vnd als sy schiessen woltend die büchsen nüt lassen, vnn zursprungend jre armbrust, vnn als sy sachend dz jnn jre gewer nüt zu nutz komen mochtend, da fiengend jr etlich an zu flüchen, jr etliche blibend vnd warttend sich so bast sy mochtend, es hat aber dry nächt vnd dry tag an einandren geregnot darumm die büchsen vnd armbrust nütz soltend, also namend die brugunschen überhand, vnd erstachend vnd fiengend jren bin iijᶜ manen, die übrigen entrunnend, doch so wurdend der brugunschen ouch uil erstochen, disser angriff beschach uff zinstag niderlege, so von den brugunschen vnd den tütschen gethan ward, die von pfirt tattend ouch disse ding ann wissen rat, ouch ane wüssen der von bassel so so (zu) sattenriett lagend denn wo die von bassel disse ding gewust hettend so hettend sy jnnen gehulffen, da mit vnd sy den brugunschen vff dz mal mächt(ig) vnd starck gnug gewessen werend,",
+   "preklad": "Téže neděle v noci tedy vytáhli s třemi sty knechty, a když přišli k Blamontu, zmocnili se velké kořisti dobytka. Když ji hnali už dvě míle cesty, dozvěděli se to Burgunďané, shromáždili se a s 800 muži na koních i pěšky je rychle pronásledovali. Když se setkali, postavilo se těch tři sta knechtů k obraně za příkopy, které jim dávaly velkou výhodu a pomoc. Tuto svou výhodu však opustili a vyšli na širé pole. A když chtěli střílet, pušky nechtěly vypálit a kuše jim praskaly. Když viděli, že jim zbraně nejsou k užitku, začali někteří utíkat, jiní zůstali a bránili se, jak nejlépe mohli. Tři noci a tři dny totiž bez přestání pršelo, a proto pušky a kuše k ničemu nebyly. Tak Burgunďané získali převahu a pobili a zajali jich na tři sta; ostatní utekli. Ale i Burgunďanů bylo mnoho pobito. Tento útok, porážka, kterou Burgunďané uštědřili Němcům, se stal v úterý [?]. Ferretští to podnikli bez vědomí a rady [ostatních], a také bez vědomí Basilejských, kteří leželi v Delle; neboť kdyby to Basilejští věděli, byli by jim pomohli, aby byli tenkrát proti Burgunďanům dost mocní a silní."
+  }
+ ],
+ "poznamky": [
+  "Oprava OCR: „viije“ → „viijᶜ“, „vod zu gendjn“ → „vnd zugend jn“, „jun grossen“ → „jnn grossen“, „nulz“ → „nutz“, „mochtend,,“ → „mochtend,“, „van armbrust“ → „vnd armbrust“, „iij“ manen“ → „iijᶜ manen“. Odstavec rozdělený Usteriho poznámkou spojen (poznámka patří ke kap. 22).",
+  "„disser angriff beschach uff zinstag niderlege“: text je zde porušený, za „zinstag“ zřejmě chybí bližší určení dne a začátek další věty. Úterý po neděli 21. 8. by bylo 23. 8. 1474 (propočet, mimo text) [?].",
+  "„die büchsen nüt lassen“ = pušky nechtěly vypálit (lassen = spustit, vystřelit); „zursprungend jre armbrust“ = kuše praskaly (zerspringen). „flüchen“ = utíkat (fliehen), ne klít. „warttend sich so bast“ = bránili se, jak nejlépe (wehrten sich so best).",
+  "Věta končí v edici čárkou, další text patří ke kap. 24."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

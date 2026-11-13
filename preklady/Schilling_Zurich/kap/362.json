@@ -1,0 +1,23 @@
+{
+ "cislo": 362,
+ "nadpis": "Das die beiden stette Bern und Friburg ein nüwen pund mit dem huse von Saföy fürgenomen und gemacht hand.",
+ "edice": "Tobler II, s. 186",
+ "rukopis_strana": 901,
+ "odstavce": [
+  {
+   "text": "362. Das die beiden stette Bern und Friburg ein nüwen pund mit dem huse von Saföy fürgenomen und gemacht hand.",
+   "preklad": "362. Jak obě města, Bern a Fribourg, uzavřela nový spolek se savojským domem."
+  },
+  {
+   "text": "In dem vorgenanten iare und in dem zite, als die von Friburg wider an das rich komen sind, habend die beiden stett Bern und Friburg ein nüwen pund mit einandern mit dem hus von Saföy gemacht und den alten pund erlütert, dann derselb gar irrig was. Und sind in demselben nüwen pund al sachen von einem an das ander gar wol declariert, als dann das dieselben pünde gar luter dargebent.",
+   "preklad": "V řečeném roce a v době, kdy se Fribourg vrátil k říši, uzavřela obě města, Bern a Fribourg, spolu nový spolek se savojským domem a starý spolek vyjasnila, protože byl velmi nejasný. V tom novém spolku jsou všechny věci jedna po druhé velmi dobře vyloženy, jak to ty spolkové listiny jasně ukazují."
+  }
+ ],
+ "poznamky": [
+  "Opravy OCR: odstraněny tečky a značky poznámek („In.“, „Bern.“, „pund)“, „. al“). Úplnost ověřena proti ř. 13052–13065.",
+  "Data (Tobler): nový spolek 20. 8. 1477 (Absch. II, 936). Starý spolek byl naposledy potvrzen ze savojské strany 15. 4. 1467 (Absch. II, 369).",
+  "„Wider an das rich komen“ = Fribourg byl propuštěn ze savojské svrchovanosti a stal se znovu svobodným říšským městem (srv. kap. 360). „Irrig“ = nejasný, vedoucí ke sporům (mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

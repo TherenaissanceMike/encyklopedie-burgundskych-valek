@@ -1,0 +1,38 @@
+{
+ "cislo": 51,
+ "nadpis": "Hienach stat mit wie viel pferden die fürsten und herren zü Regenspurg ingeritten sind. °)",
+ "edice": "Tobler I, s. 87",
+ "rukopis_strana": 114,
+ "odstavce": [
+  {
+   "text": "51. Hienach stat mit wie viel pferden die fürsten und herren zü Regenspurg ingeritten sind.",
+   "preklad": "51. Zde následuje, s kolika koňmi vjeli knížata a páni do Řezna."
+  },
+  {
+   "text": "Item der bischof von Menz, der marggraf von Brandenburg und der herzog von Mechelburg kament mit einanderen und hatten 1100 pferde. Denne der stetten botschaften hattent 360 pferde. Denne der legat kam mit 65 pferden. Denne herzog Wolfgang von München 100 pferde. Denne der bischof von Trier kam mit 300 pferden. Denne der bischof von Eistetten mit 120 pferden. Denne der bischof von Salzburg und Passow 360 pferde. Denne der bischof von Trient mit 100 pferden. Denne der bischof von Spire mit 50 pferden. Denne der bischof von Brixen mit 30 pferden. Denne der bischof von Basel mit 40 pferden. Denne der bischof von Ougspurg mit 40 pferden. Denne der bischof von Gurk mit 18 pferden. Denne der bischof von Kiensse mit 21 pferden.",
+   "preklad": "Předně biskup mohučský, markrabě braniborský a vévoda meklenburský přijeli spolu a měli 1100 koní. Dále poselstva měst měla 360 koní. Dále legát přijel s 65 koňmi. Dále vévoda Wolfgang Mnichovský 100 koní. Dále biskup trevírský přijel s 300 koňmi. Dále biskup eichstättský se 120 koňmi. Dále biskup salcburský a pasovský 360 koní. Dále biskup tridentský se 100 koňmi. Dále biskup špýrský s 50 koňmi. Dále biskup brixenský s 30 koňmi. Dále biskup basilejský se 40 koňmi. Dále biskup augsburský se 40 koňmi. Dále biskup z Gurku s 18 koňmi. Dále biskup chiemseeský s 21 koňmi."
+  },
+  {
+   "text": "Die weltlichen fürsten und herren:",
+   "preklad": "Světská knížata a páni:"
+  },
+  {
+   "text": "Item der keiser mit sinen herren und dienern und andern stetten, die bi im sind, mit 1800 pferden. Denne herzog Ludwig mit 1300 pferden. Denne herzog Albrecht von München mit 400 pferden. Denne herzog Ott und sin brüder mit 415 pferden. Denne graf Eberhart von Wirtenberg mit 255 pferden. Denne die räte von Burgunnen mit 20 pferden. Denne der abt von Waltsaxen mit 20 pferden. Denne die botten von Meilant mit 8 pferden. Denne der lantgraf von Pfrem mit 20 pferden. Denne des herzogen von Sachsen räte mit 16 pferden. Denne die botten von Venedie mit 44 pferden. Denne der marggraf von Baden und der von Wirtenberg kament mit einandern mit 3000 pferden. Denne der lantgraf von Hessen mit 335 pferden. Denne ander herren, ritter und knecht mit 400 pferden.",
+   "preklad": "Předně císař se svými pány a služebníky a s jinými městy [?], která jsou při něm, s 1800 koňmi. Dále vévoda Ludvík s 1300 koňmi. Dále vévoda Albrecht Mnichovský se 400 koňmi. Dále vévoda Ota a jeho bratr se 415 koňmi. Dále hrabě Eberhart Württemberský s 255 koňmi. Dále radové z Burgundska s 20 koňmi. Dále opat z Waldsassen s 20 koňmi. Dále poslové z Milána s 8 koňmi. Dále lantkrabě z Pfreimdu [?] s 20 koňmi. Dále radové vévody saského s 16 koňmi. Dále poslové z Benátek se 44 koňmi. Dále markrabě bádenský a ten Württemberský přijeli spolu s 3000 koňmi [?]. Dále lantkrabě hesenský s 335 koňmi. Dále jiní páni, rytíři a panoši se 400 koňmi."
+  },
+  {
+   "text": "Darzü vil ander personen geistlich und weltlich, von mannen und frowen, derselben sind unzalich gewesen.",
+   "preklad": "K tomu mnoho jiných osob duchovních i světských, mužů i žen, a těch bylo nespočetně."
+  }
+ ],
+ "poznamky": [
+  "Jde o seznam účastníků říšského sněmu v Řezně 1471 (tzv. velký křesťanský sněm proti Turkům; určení akce mimo Tobler). Tobler: seznam je přílohou zprávy bernských poslů z Řezna (Absch. II, 424, dopis nejdříve z 1. 7. 1471); podrobnější seznam má Špýrská kronika (Mone, Quellensammlung I, 506–8).",
+  "Oprava textu: OCR rozdělilo seznam do sloupců a čísla koní oddělilo od jmen. Čísla na s. 88 byla přiřazena znovu podle pořadí; u Mnichova a Salcburku sedí tvar „pferde“ (bez „mit“), což přiřazení potvrzuje. Nadpis „5l.“ → „51.“, odstraněny zbloudilé tečky a pomlčky. Odstavce: duchovní / „Die weltlichen fürsten und herren:“ / světští / závěr.",
+  "[?] Přiřazení posledních čtyř čísel (Benátky 44, Bádensko a Württembersko 3000, Hesensko 335, ostatní páni 400) je jen podle pořadí v OCR a není jisté; 3000 koní pro bádenského markraběte a Württemberského (víc než císař) je podezřelé a mohlo by patřit spíš „jiným pánům, rytířům a panošům“. Ověřit v rukopisu nebo u Moneho.",
+  "Varianty jiného rukopisu: mohučská skupina „mit 1160“, města „mit 365“; u císaře „und andern bi im wonende“ (a jiní, kteří při něm pobývají). Hlavní text „andern stetten, die bi im sind“ je asi porušený, proto [?] v překladu.",
+  "Tobler určuje: biskup špýrský = Mathias von Ramingen (Rammung, 1464–78), brixenský = Georg Golser (1464–89), gurský = Lorenz von Freiberg (1469–87), chiemseeský = Bernhard von Kraiburg (1466–77); vévoda Ota a bratr = Otto II., falckrabě mosbašský a neumarktský (1461–99), a jeho bratr Johann, kanovník v Augsburgu a Mohuči. Vévodu meklenburského Tobler neurčil („Welcher?“).",
+  "Mimo Tobler: „biskup“ mohučský a trevírský jsou arcibiskupové-kurfiřti; markrabě braniborský = asi Albrecht Achilles; vévoda Ludvík = Ludvík Bohatý Bavorsko-Landshutský; Albrecht a Wolfgang z Mnichova = bavorští vévodové Albrecht IV. a jeho bratr Wolfgang. „lantgraf von Pfrem“ [?] = asi lantkrabě z Leuchtenbergu se sídlem v Pfreimdu."
+ ],
+ "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

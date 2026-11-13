@@ -1,0 +1,32 @@
+{
+ "cislo": 239,
+ "nadpis": "Das die von Iferdun an denen von Bern und den andern stetten brüchig wurden.",
+ "edice": "Tobler I, s. 341",
+ "rukopis_strana": 576,
+ "odstavce": [
+  {
+   "text": "239. Das die von Iferdun an denen von Bern und den andern stetten brüchig wurden.",
+   "preklad": "239. Jak Yverdonští zrušili věrnost Bernským a ostatním městům."
+  },
+  {
+   "text": "Als nü die vier stette Bern, Lutzern, Friburg und Solotern die zwei slos Granson und Iferdun mit iren knechten und soldnern besatzt und dennoch nit vil luten darin getan hatten, dann si inen an beiden enden gar wol getrüwten und meinten, mit sunderheit die von Iferdun solten nit brüchig noch meineit werden, dann man ira gar vast hat geschonet an irem libe und güt. Man hat inen ouch die acht manne von ir stat, die dann als bürgen in den vorgenanten vier stetten langezit gelegen warent, uf ir begeren und güt vertrüwen wider heim gelassen, als hievor zem teil ouch geschriben stat.",
+   "preklad": "Čtyři města Bern, Luzern, Fribourg a Solothurn tedy obsadila oba hrady Grandson a Yverdon svými knechty a žoldnéři, ale nedala do nich mnoho lidí, protože na obou místech obyvatelům velmi důvěřovala. Myslela si, že zvláště Yverdonští nebudou věrolomní ani křivopřísežní, neboť se jich velice šetřilo na životech i statcích. Také jim na jejich žádost a v dobré důvěře propustila domů osm mužů z jejich města, kteří dlouho leželi jako rukojmí ve výše řečených čtyřech městech, jak se o tom zčásti psalo již dříve."
+  },
+  {
+   "text": "Des güten hatten si alles vergessen, und leiten also under inen allen gemeinlich heimlich verreterie an und gerieten betrachten und bedenken, wie si den grafen von Röymont, der vorhin ir herr gewesen und bi dem herzogen von Burgunnen was, wider zü inen in ir stat heimlich bringen möchten, damit die soldner und semlich knecht von den vier stetten mortlich ertöt und umbbracht wurden, dann derselben soldnern nit me dann sibenzig darinne warent und lib und leben und alles ir vermügen in ganzen trüwen zü inen satztent, damit si beschirmt möchten bliben.",
+   "preklad": "Na všechno to dobré zapomněli a všichni společně mezi sebou tajně osnovali zradu. Začali uvažovat a promýšlet, jak by k sobě do města tajně přivedli zpět hraběte z Romontu, který byl dříve jejich pánem a byl u vévody burgundského, aby žoldnéři a knechti ze čtyř měst byli vražedně pobiti a zahubeni. Těch žoldnérů tam totiž nebylo víc než sedmdesát, a ti v naprosté věrnosti nasazovali pro ně život, tělo i všechno, co měli, aby [město] zůstalo chráněno."
+  },
+  {
+   "text": "Das verfing alles nit, als harnach stat.",
+   "preklad": "Nic z toho nepomohlo, jak stojí dále."
+  }
+ ],
+ "poznamky": [
+  "Oprava textu: na konec kapitoly byl vlepen řádek variant („1. vand, darumb kam ‘er mit einandern und darzü me dann umb“, patří ke kap. 238), odstraněn. Úplnost rozsahu ř. 24389–24450 ověřena.",
+  "Tobler: podle zápisu v Rats-M. z 5. 11. 1475 byly Grandson a Yverdon obsazeny 120 muži, po 30 z každého města. K rukojmím odkazuje na kap. 225.",
+  "Varianta (pravděpodobně bernský rukopis): „dann derselben nit me dann sibenzig darinne waren, die inen ir stat, darzü ir libe und güt in trüwen … solten helfen beschirmen“ (sedmdesát, kteří jim měli věrně pomáhat chránit město, životy a statky); věta „Das verfing … stat“ ve variantě chybí. Varianta „meieneid“.",
+  "Graf von Röymont = Jacques de Savoie, hrabě z Romontu, pán Vaudu (mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

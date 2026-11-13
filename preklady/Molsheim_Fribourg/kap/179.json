@@ -1,0 +1,35 @@
+{
+ "cislo": 179,
+ "nadpis": "Wie der herzog von Luttringen gan Bern, darnach gan Zürich uff den tag kam und gemein Eidgnossen bat umb hilf wider den herzogen von Bürgün.",
+ "edice": "Büchi 1914, ř. 2366–2374 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 821."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie der herzog von Luttringen gan Bern, darnach gan Zürich uff den tag kam und gemein Eidgnossen bat umb hilf wider den herzogen von Bürgün.",
+   "preklad": "179. Jak vévoda lotrinský přišel do Bernu a potom do Curychu na sněm a prosil společné konfederáty o pomoc proti burgundskému vévodovi."
+  },
+  {
+   "text": "Darnach uff Mentag nach sant Katherinentag in dem 76. jar kam der herzog von Luttringen, herr Reinhart, persönlich gan Bern und clagte sich gar treffenlich für ratte und den bürgeren; nachdem und er denn sin herzogtüm ze Luttringen wider gewunnen und usser dem gewalt des herzogen von Bürgün an sich gebracht hette, so hette er sin statt Nansse mit nottvesten, fromen lüten, bede, ritter und knechten von tütschen und welschen landen, besetzt und denen verheissen, hoch gelopt und geschwüren, das er sy biss in den tod nit verlassen welte und sy entschütten, [als ferr lib und leben gelangen möchte.] Indem were aber der herzog von Bürgün als ein hasser aller gemeiner tütscher nation mit gewalt und grosser macht widerumb in sin herzogtüm in Luttringen gezogen; das aber im nit vermüglich were, dem herzogen von Bürgün mit einer macht einen widerstand ze tün ane rat und hilf der Eydgnossen, noch inn anzegriffen. Und habe also müssen usser einem eigenen lande ziechen und den herzogen von Bürgün gewaltenklich dar müssen lassen richsnen. Und sich für sin statt Nansse geschlagen in meinung, die fromen lütt, so in Nansse weren, umbzebringen und ze töden da alles, so in der [statt] weren, man, fröwen und kind, nieman usgenomen, und darin sinen hochen grymen zorn an inen bewisen.",
+   "preklad": "Potom v pondělí po svaté Kateřině v [14]76. roce přišel vévoda lotrinský, pan Reinhart, osobně do Bernu a velmi naléhavě si stěžoval před radou a měšťany: když znovu dobyl své vévodství Lotrinsko a vymanil je z moci burgundského vévody, osadil své město Nancy pevnými a zbožnými lidmi, rytíři i panoši z německých i vlašských zemí, a slíbil jim, vysoko přislíbil a přísahal, že je až do smrti neopustí a vysvobodí je, [pokud mu to tělo a život dovolí]. Mezitím však burgundský vévoda jako nepřítel celého německého národa znovu vtáhl s mocí a velkou silou do jeho vévodství Lotrinska; a on prý nemá sílu postavit se burgundskému vévodovi na odpor ani na něj zaútočit bez rady a pomoci konfederátů. Musel proto odejít z vlastní země a nechat tam burgundského vévodu násilím vládnout. Ten se položil táborem před jeho město Nancy v úmyslu zahubit zbožné lidi, kteří jsou v Nancy, a pobít tam všechno, co je ve [městě], muže, ženy i děti, nikoho nevyjímaje, a vylít na nich svůj zpupný, krutý hněv."
+  },
+  {
+   "text": "Und begert also an die von Bern, das sy im in semlichen grossen nötten ze hilf komen welten und im sin vatterland, ouch die fromen lüt, so in Nanssen belegret weren, helfen entschütten und ouch wölten angesechen die trüw und willig bystand, den er inen vor Murten an dem stritt mit sines selbs lib nach allem sinem vermögen getan hette und noch zü allen zitten willig wolte sin ze tün. Er welte ouch gern nach sinem vermügen sold geben. Denn wenne im nit in kurzem zitt hilf und entschüttung zugeseit wurde, so möstend die fromen lütt, [so in Nansse weren, bede, jung und alt] alle sterben, denn er in forchten were, das sy jetz angendes rosse und anders unmönschlig narung mösten essen. Sine klag er mit vil kläglicher worten, [die der herzog von Luttringen da denen brachte,] fürte, darumb dieselbe klag mengem biderman vast zü herzen gieng, das im sin ögen nass wurden.",
+   "preklad": "Žádal proto Bernské, aby mu v tak velikých nouzích přišli na pomoc a pomohli vysvobodit jeho otčinu i zbožné lidi obležené v Nancy, a aby pamatovali na věrnou a ochotnou pomoc, kterou jim u Murtenu v bitvě vlastním tělem ze všech sil prokázal a kterou je vždy ochoten prokázat. Chce také rád podle svých možností platit žold. Nepřislíbí-li se mu totiž v krátké době pomoc a vysvobození, musí ti zbožní lidé [v Nancy, mladí i staří,] všichni zemřít, neboť se obává, že už nyní musí jíst koně a jinou nelidskou potravu. Svou stížnost přednesl mnoha žalostnými slovy, [jež tam vévoda lotrinský před ně přinesl,] takže šla mnohému poctivému muži velmi k srdci, až mu zvlhly oči."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Text: nadpis mluví o sněmu v Curychu, text kap. 180 však o sněmech v Luzernu; patrně omyl nadpisu [?].",
+  "Oprava textu: odstraněny zbloudilá Büchiho poznámka („1 1 1. Dezember … Bernoulli III, 23 ff.“), čísla řádků a značky; spojeny odstavce rozdělené zlomem strany. OCR: „bat!“ → „bat“, „BUrgün“ → „Bürgün“, „wette“ → „welte“, „weiten“ → „welten“, „Uh“ → „lib“, „a/s“ → „als“, „TJnd“ → „Und“, „tun“ → „tün“, „gewattenklich“ → „gewaltenklich“, „froinen“ → „fromen“, „hocben“ → „hochen“, „netten“ → „nötten“, „körnen“ → „komen“, „oueh“ → „ouch“, „förte“ → „fürte“.",
+  "Datum: pondělí po sv. Kateřině (25. 11.; v roce 1476 byla sama v pondělí) = 2. 12. 1476. Büchi (OCR jeho poznámky má „1. Dezember“): 23. 11. byl vévoda v doprovodu Fribourgana Heinricha von Praromana na sněmu v Luzernu a 30. 11. už ve Štrasburku, Bernem tedy projel před 23. 11.; správnější je proto Schillingovo „v pondělí před sv. Kateřinou“, tj. 18. 11. 1476. „Vor“ má i rukopis D.",
+  "„herr Reinhart“ = René II. Lotrinský.",
+  "Varianty: D nazývá burgundského vévodu i „velkým krveprolévačem“ a dodává, že spojenci skutečně s velkou mocí táhli do Lotrinska, aby mu pomohli.",
+  "Oproti Schillingovi: datum „po“ místo „před“ sv. Kateřinou; vévoda si stěžuje „před radou a měšťany“ (Schilling: před radou a Dvěma sty). Molsheim navíc uvádí, že vévoda bez konfederátů nemohl odporovat, musel odejít z vlastní země a že burgundský vévoda chtěl v Nancy pobít všechny, muže, ženy i děti; chybí Schillingova zmínka o lhůtě, kterou vévoda obleženým dal, a o tom, že by se stal křivopřísežníkem."
+ ],
+ "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

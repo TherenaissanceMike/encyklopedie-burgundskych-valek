@@ -1,0 +1,23 @@
+{
+ "cislo": 16,
+ "nadpis": "Das die von Bern und Solotern mit iren gewanten über das Ochsenfeld !) zagen und in dem gar vast brantent.",
+ "edice": "Tobler I, s. 23",
+ "rukopis_strana": 39,
+ "odstavce": [
+  {
+   "text": "16. Das die von Bern und Solotern mit iren gewanten über das Ochsenfeld zugen und in dem gar vast brantent.",
+   "preklad": "16. Jak Bernští a Solothurnští se svými spojenci táhli přes Ochsenfeld a velmi tam pálili."
+  },
+  {
+   "text": "Darnach brachent die von Bern mit iren Eidgnossen und mitburgern von Solotern, Friburg und Biel aber uf und zugen über das Ochsenveld und namen ir leger in einem schönen dorf, genant Ufholz; und wart ouch dazwüschen alles das gewüst und verbrant, das man vand. Si gewunnen ouch ein stetli, genant Watwil; dieselben armen lüte swüren inen angendes, doch wurdent si bald ir eiden ledig gelassen durch gottes und rechter erbermden willen, damit si von iren herrn dester gnediclicher wurden gehalten; und als man morndes ufbrach, da wart das schön dorf Ufholz ouch ganz verbrant, und wart ouch denen von Tann ir galgen abgehowen und das dorf alten Tann vor der stat verbrant und slüg man sich nider vor Tann und in die dörfer darumb. Da kamend die von Zürich und Switz gen Mulhusen und hatten dazwüschen ouch verbrant, was si funden; si gewunnen auch das slos Pfafnach und verbranten das in grund, das gar wol getan, dann ein recht rouphus und denen von Mulhusen und andern vil schadens und kombers darus beschehen was; und wart ouch allerlei unerlichs volkes wider die Eidgnossen und ir verwanten daruf enthalten.",
+   "preklad": "Potom Bernští se svými konfederáty a spoluměšťany ze Solothurnu, Fribourgu a Bielu opět vyrazili, táhli přes Ochsenfeld a rozbili tábor v jedné krásné vsi jménem Uffholtz; cestou bylo také zpustošeno a vypáleno všechno, co se našlo. Dobyli také městečko jménem Wattwiller. Ti chudí lidé jim hned přísahali, brzy však byli přísahy zproštěni pro Boha a z pravého milosrdenství, aby s nimi jejich páni potom zacházeli tím milostivěji. A když se nazítří vyrazilo, byla i krásná ves Uffholtz celá vypálena; Thannským byla také podťata šibenice a ves Alt-Thann před městem vypálena, a vojsko se utábořilo před Thannem a v okolních vsích. Tu přišli Curyšští a Schwyzští do Mulhouse a cestou také vypálili, co našli. Dobyli také zámek Pfafnach a vypálili ho do základů, a to bylo velmi dobře učiněno, neboť to bylo pravé loupežnické hnízdo, z něhož Mulhouseským i jiným vzešlo mnoho škody a strasti; také se na něm zdržovala všelijaká bezectná chasa nepřátelská konfederátům a jejich spojencům."
+  }
+ ],
+ "poznamky": [
+  "Tobler: kap. 16 až nadpis kap. 19 chybějí v obou curyšských rukopisech; Tobler je tiskne podle bernského rukopisu.",
+  "Místa (Tobler): Ochsenfeld je pláň mezi Thannem, Aspach-le-Bas a Uffholtzem, západně od Mulhouse; Wattwiller musel být dobyt před 4. 7. 1468; Bernští stáli u Thannu a Alt-Thannu 2. nebo 3. 7.; Curyšští a Schwyzští přišli do Mulhouse před 2. 7. „Pfafnach“ je podle Toblera omylem místo Pfastatt (sz. od Mulhouse, majetek Hanse Friedricha vom Hus; u Edlibacha „das güt wigerhus Pfastatz“, tj. vodní tvrz).",
+  "Opravy textu: nadpis „zagen“ → „zugen“; vypuštěn vlepený řádek aparátu („… brüderlichen trüwen enpfingen fehlen in beiden Zürcher Hss. Text 2. zugen und …“); „‘von“ → „von“, „dazwuüschen“ → „dazwüschen“, „denen von : Mulhusen“ → „denen von Mulhusen“. Údaj edice opraven z „s. 98“ na s. 23. Odstavce sloučeny/rozděleny podle edice (podle konců řádků v surovém OCR)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

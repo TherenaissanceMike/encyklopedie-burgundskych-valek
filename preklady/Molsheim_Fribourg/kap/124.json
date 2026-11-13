@@ -1,0 +1,25 @@
+{
+ "cislo": 124,
+ "nadpis": "Wie die von Bern und Friburg mit den Eydgnossen von der Morse gan Losen zugend. 3 )",
+ "edice": "Büchi 1914, ř. 1429–1430 souboru edice",
+ "rukopis_strana": null,
+ "schilling": [
+  225
+ ],
+ "schilling_odkaz": [
+  "Vgl. Schilling C. 225 al. 1."
+ ],
+ "odstavce": [
+  {
+   "text": "Wie die von Bern und Friburg mit den Eydgnossen von der Morse gan Losen zugend.",
+   "preklad": "124. Jak Bernští a Fribourgští s konfederáty táhli z Morges do Lausanne."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "V Büchiho edici je u této kapitoly jen nadpis s odkazem „Vgl. Schilling C. 225 al. 1“, vlastní text vytištěn není. Obsah viz Schilling, kap. 225, 1. odstavec. Z nadpisu odstraněna značka poznámky „3 )“.",
+  "Büchi (pozn. k nadpisu): Fribourg, 27. října (Fries 400)."
+ ],
+ "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

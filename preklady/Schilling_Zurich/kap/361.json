@@ -1,0 +1,19 @@
+{
+ "cislo": 361,
+ "nadpis": "Der brief. und verschribunge, wie sich die herzogin und gemein landschaft von Safoy enziechen und begeben aller der gerechtikeit, die si an ein stat von Friburg bishar gehebt hand.')",
+ "edice": "Tobler II, s. 186",
+ "rukopis_strana": 899,
+ "odstavce": [
+  {
+   "text": "361. Der brief und verschribunge, wie sich die herzogin und gemein landschaft von Safoy enziechen und begeben aller der gerechtikeit, die si an ein stat von Friburg bishar gehebt hand.",
+   "preklad": "361. List a zápis, jímž se vévodkyně a celá savojská země zříkají a vzdávají všech práv, která až dosud měly k městu Fribourgu."
+  }
+ ],
+ "poznamky": [
+  "Kapitola má jen nadpis. Tobler: Schilling nechal v rukopisu tři strany volné, ale text listiny (buď z 18. 8., nebo z 10. 9. 1477) chybí. Ověřeno proti surovému OCR ř. 13046–13051; nejde o ztrátu textu v edici. V jiném rukopisu kapitola chybí úplně (varianta „Kap. 361 fehlt“).",
+  "Opravy OCR: „brief.“ → „brief“, z nadpisu odstraněna značka poznámky.",
+  "Souvislost (Tobler ke kap. 360): 20. 7. 1477 dala vévodkyně Jolanda vyslancům plnou moc k propuštění Fribourgu, 18. 8. bylo propuštění smluvně stanoveno, potvrzující list je z 10. 9. (Absch. II, 942). Savojský kříž byl z bran Fribourgu odstraněn 25. 9. 1477. Vévodkyně Jolanda = Jolanda Francouzská, vdova po Amadeovi IX. (mimo Tobler)."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}

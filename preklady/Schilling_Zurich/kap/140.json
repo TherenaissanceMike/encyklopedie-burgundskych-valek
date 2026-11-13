@@ -1,0 +1,35 @@
+{
+ "cislo": 140,
+ "nadpis": "Von einem zedel, was in der obgenanten missive verslossen; der wiset, als harnach stat.",
+ "edice": "Tobler I, s. 199",
+ "rukopis_strana": 306,
+ "odstavce": [
+  {
+   "text": "140. Von einem zedel, was in der obgenanten missive verslossen; der wiset, als harnach stat.",
+   "preklad": "140. O lístku, který byl vložen do výše zmíněného listu; zní, jak následuje."
+  },
+  {
+   "text": "Getrüwen lieben fründe! Wir verkünden üch ouch hiemit, das der herzog von Burgunnen diser tagen einen sinen diener zü der stat Nüss porten geschickt, der hat begert in hinin zü lassen, das im werden möchte des heiligen sant Kuris wasser, ouch begert er etwas mit inen zü reden von bevelhens wegen sins herren. Und also tet man im der stat porten uf und wurden im angendes vor der stat die ougen verbunden und also blint uf das richthus in der stat gefürt; do begert er, man wolt im die ougen entbinden und in nit mer dann vier oder fünf der gewaltigesten in der stat besechen und mit inen reden lassen; das beschach.",
+   "preklad": "Věrní milí přátelé! Oznamujeme vám také tímto, že vévoda burgundský v těchto dnech poslal jednoho ze svých služebníků k bráně města Neussu. Ten žádal, aby ho pustili dovnitř, aby mohl dostat vodu svatého Quirina, a také žádal, aby s nimi mohl mluvit o něčem, co mu nařídil jeho pán. Otevřeli mu tedy městskou bránu, ale hned před městem mu zavázali oči a tak slepého ho dovedli na radnici. Tam žádal, aby mu oči rozvázali a nechali ho vidět jen čtyři nebo pět nejmocnějších mužů ve městě a mluvit s nimi; to se stalo."
+  },
+  {
+   "text": "Do ving er an und rett die meinung, so im der herzog bevolhen hat, das was also: das si die stat Nüss im wolten übergeben, so wolt er si gar gnediclichen enpfachen, si bi iren alten friheiten und güten gewonheiten lassen bliben und si fürer gar hoch und mer frien, mit gar vil güter worten. Daruf gabent si im ze antwurt: si möchten als balde iren rat bi einandern nit haben, er möcht aber wider hinus keren zü sinem herren und im also sagen: wolte er ein antwurt haben uf sin anmütung, so möcht er denselben tag, als er den botten in die stat geschickt hette, anzeichnen, so woltent si sich bedenken und im von dannenthin über ein iare ein antwurt geben.",
+   "preklad": "Tu začal a přednesl, co mu vévoda nařídil, a to bylo toto: vydají-li mu město Neuss, přijme je velmi milostivě, ponechá jim jejich staré svobody a dobré obyčeje a dál je ještě vysoce a více obdaří svobodami; a to vše mnoha pěknými slovy. Na to mu odpověděli: tak rychle svou radu pohromadě mít nemohou, ale ať se vrátí ven ke svému pánu a vyřídí mu toto: chce-li mít odpověď na svůj požadavek, ať si poznamená den, kdy poslal posla do města; oni si to rozmyslí a ode dneška za rok mu dají odpověď."
+  },
+  {
+   "text": "Und schicktent in also mit verbundenen ougen wider von inen mit sant Kuris wasser und keiner andern antwurt.",
+   "preklad": "A tak ho poslali se zavázanýma očima zpět, se svatoquirinskou vodou a bez jiné odpovědi."
+  },
+  {
+   "text": "Dis han ich harin gezogen, darumb das al fromen Berner und hantvesten lüte sich in semlichen sachen und ufsetzen ouch dester bas wissen zü halten und zü regieren; dann man mit vernunft und beschidikeit in solichen kriegen gar vil erobern, das man sus nit zewegen bringen mag.",
+   "preklad": "Toto jsem sem zařadil proto, aby všichni stateční Bernští a zdatní lidé tím lépe věděli, jak se v takových věcech a úskocích chovat a jak si vést; neboť rozumem a chytrostí se v takových válkách dá získat velmi mnoho, čeho by se jinak dosáhnout nedalo."
+  }
+ ],
+ "poznamky": [
+  "Tobler: voda svatého Quirina (patrona Neussu) byla pokládána za léčivou. Knebel vypráví tutéž historku podrobněji podle soukromých listů; událost se prý stala kolem 1. 10. 1474 (kolem svátku sv. Remigia), takže lístek sotva mohl být přílohou listu z 21. 9. (kap. 139).",
+  "Oprava textu: vypuštěny značky poznámek („wasser, !)“, „antwurt.?)“); poslední věta lístku a Schillingova poznámka („Dis han ich harin gezogen…“) odděleny podle edice. Bernská varianta nadpisu: „als das von wort ze wort harnach stat“ (jak doslova následuje).",
+  "„anmütung“ = požadavek, návrh (glosář); „beschidikeit“ = chytrost, lstivost (glosář); „ufsetzen“ = úskoky, nástrahy. Posměšná odpověď Neusských (odpověď „za rok“) a Schillingův komentář ukazují, jak si Bern cenil lsti ve válce."
+ ],
+ "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
+ "overeno_rukopis": false
+}
