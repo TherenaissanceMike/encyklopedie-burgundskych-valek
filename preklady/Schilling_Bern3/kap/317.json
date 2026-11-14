@@ -1,0 +1,45 @@
+{
+ "cislo": 317,
+ "nadpis": "Das man ze Roymond vor der Statt an einen turn gar hartenclichen stürmt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 714,
+ "strany": [
+  714,
+  715,
+  716
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man in die vor Statt kam / da stůnd gar ein mechtiger turn bi der Statt daran etlich endlich lüt luffen / vnd den stürmtent / vnd werte der selb Sturm lang / dann die in dem turn sich ouch mannlich hielten / vnd ritterlich warten / doch tett man inen als not / das man mit gewalt durch die muren in brach / vnd vnnden in den turn kam / dennocht was der turn vngewunnen / dann er gar vest mit gewelben was einß ob dem andern / Vnd als sich nů dis lang verzoch bis an dem abend / da trungen etlich vast dannen / Aber die fromen lüte bi dem turn da die das gesachen / da griffen si die ding gar hart an / vnd wart der turn als vast genötet / das si darinne gnaden begerten / vnd wurden also vff vnd ein teil us dem turn genomen / In dem wart geordnet die vor Statt brönnen / als davor statt / da die in dem turn das gesachen / da wolten si sich nit me ergeben / dann si wol gesachen das man die sachen nit me beharren wolt / Vnd wurden dennocht in dem turn etlich verbrönt vnd gewüst / Es wurden ouch etlich von Bernn erschossen vnd etlich wund / Also zoch man dennocht gen Friburg / vnd kam zů mitter nacht dar / vnd morndes zugent die von Bernn ouch wider heim",
+   "preklad": "Když přišli do předměstí, stála tam u města velmi mohutná věž. Na ni se vrhli někteří odvážní lidé a útočili na ni. Útok trval dlouho, neboť ti ve věži se také drželi statečně a rytířsky se bránili. Přesto na ně dolehli tak tvrdě, že násilím prorazili zdí a dostali se dole do věže. Věž však ještě nebyla dobyta, protože byla velmi pevná, s klenbami jednou nad druhou. Když se to protáhlo až do večera, mnozí silně tlačili k odchodu. Ale stateční lidé u věže, když to viděli, vzali věc velmi tvrdě do rukou a věž byla tak sevřena, že ti uvnitř prosili o milost. Část jich tak byla vzata nahoru a ven z věže. Mezitím bylo nařízeno vypálit předměstí, jak bylo řečeno výše. Když to ti ve věži viděli, už se nechtěli vzdát, neboť dobře viděli, že se v té věci už nechce pokračovat. Přesto byli někteří ve věži upáleni a zahubeni. Také několik Bernských bylo zastřeleno a několik zraněno. A tak se přece táhlo do Fribourgu a přišlo se tam o půlnoci a nazítří táhli také Bernští zase domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 715,
+   "popis": "kolorovaná kresba – útok na věž u Romontu: nahoře na hradbách s kupolovými věžemi obránci s ručnicemi, savojské prapory s bílým křížem; uprostřed na zdi korouhve Fribourgu a Bernu (medvěd); Švýcaři s bílými kříži útočí ručnicemi, halapartnami a krumpáčem na zeď věže, zpoza zdi šlehají plameny; vlevo zranění, jeden s krvácející ranou sedí s puškou, dva padlí na zemi; vlevo jezero s loďkou a hory"
+  },
+  {
+   "strana": 716,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 715,
+   "text": "715 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 716,
+   "text": "716 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se v Romontu před městem velmi tvrdě útočilo na jednu věž",
+ "poznamky_prekladu": [
+  "„endlich lüt“ = odvážní, rázní lidé; „vff vnd ein teil us dem turn genomen“ přeloženo „vzata nahoru a ven z věže“, snad vytahováni přes horní patra – smysl mírně nejistý.",
+  "„gewüst“ = zahubeni, zpustošeni."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

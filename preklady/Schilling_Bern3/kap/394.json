@@ -1,0 +1,60 @@
+{
+ "cislo": 394,
+ "nadpis": "Das die küngklichen botten von franckenrich gen Bernn vnd in ander eidgno[ssen] kament von der Graffschaft wegen von Burgunn",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 892,
+ "strany": [
+  892,
+  893,
+  894
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als dann dis sachen vergangen ware vnd yederman wider heim gezogen was da kamend die küngklichen botten gen Bern vnd füren da dannen gen lutzern zů gemeinen eidgno[ssen] von der Graffschaft wegen von Burgunn die dem küng ze übergeben / So wurd er inen darumb usrichten zů etlichen zilen anderthalb hundert tusent guldin / darzů begerten ouch die selben küngklichen botten von gemeinen eidgno[ssen] ein sumlüten namlich sechs tusent man vmb sold nach innhalt der vereynung / die dann mit versechen frommer houptlüten zem küng ziechen vnd sich dem erzöugen solten / dann doch die Graffschaft Burgunne von der Crone franckenrich lechen / vnd nach abgang des hertzogen von Burgunn daran gevallen were / das dann die küngklichen botten mit gůten vnd vernunftigen worten fürgaben / vnd die eidgno[ssen] derhinder brachten / das man dem küng semlichs uffvnd ouch das land zů sagt / Vnd gaben inen ouch des ein versigelten abscheid / In gemeiner eidgno[ssen] namen dem also nach ze gande",
+   "preklad": "A když tyto věci pominuly a každý se vrátil domů, přišli královští poslové do Bernu a odtud jeli do Luzernu k celému Spříseženstvu kvůli hrabství Burgundskému, aby je přenechali králi; on by jim za to vyplatil v několika lhůtách sto padesát tisíc zlatých. K tomu žádali tito královští poslové od celého Spříseženstva počet lidí, totiž šest tisíc mužů za žold podle znění spolku [s králem], kteří by s ustanovením statečných hejtmanů táhli ke králi a dali se mu k dispozici. Neboť hrabství Burgundsko je přece lénem francouzské koruny a po smrti vévody Burgundského na ni připadlo. To královští poslové předložili dobrými a rozumnými slovy a přiměli Spřísežence k tomu, že králi takové [mužstvo] [?] i zemi přislíbili. A dali jim o tom také zapečetěný sněmovní výnos (abscheid), že se tak má jménem celého Spříseženstva učinit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 893,
+   "popis": "skupina jezdců s péřovými klobouky (královské poselstvo, jeden troubí na trubku/roh) jede po cestě k bráně města se znakem Bernu (medvěd) a padacím mostem; v pozadí jezero s plachetní lodí, hory s hradem, vpravo skály"
+  },
+  {
+   "strana": 894,
+   "popis": "kresba perem s lavírováním mimo text (patrně dodatečná, bez souvislosti s textem): muž klečí na zemi nad uťatou hlavou s dlouhými kadeřemi, vedle leží meč; nad ním prázdná nápisová páska"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 893,
+   "text": "893 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s892), dole odstavec s iniciálou V"
+  },
+  {
+   "strana": 894,
+   "text": "894 X X (pozdější foliace, levý horní roh); stránka bez obrázku v rámečku; konec odstavce, pod ním kresba perem, dole rubrika s iniciálou D (k obrazu na s895)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 892,
+   "text": "Graffschaft von Burgunn = Svobodné hrabství burgundské (Franche-Comté)"
+  },
+  {
+   "strana": 893,
+   "text": "Ludvík XI. nabízí spříseženým 150 000 zlatých ve splátkách za postoupení Svobodného hrabství burgundského"
+  },
+  {
+   "strana": 894,
+   "text": "králova poselstva žádají 6000 žoldnéřů a tvrdí, že hrabství Burgundsko je lénem francouzské koruny a smrtí vévody na ni připadlo; spřísežení „uff=“ (patrně neúplné: „uffbringen“?) a zemi přislíbili, vydán zapečetěný abschied"
+  }
+ ],
+ "nadpis_preklad": "Jak přišli královští poslové z Francie do Bernu a k jiným Spřísežencům kvůli hrabství Burgundskému",
+ "poznamky_prekladu": [
+  "„Graffschaft von Burgunn“ = Svobodné hrabství burgundské (Franche-Comté) (mimo přepis); král = Ludvík XI.",
+  "150 000 zlatých podle textu.",
+  "„vereynung“ zde označuje spolek Spříseženců s francouzským králem (1474/1475), nikoli Dolní spolek (mimo přepis).",
+  "„semlichs uff vnd ouch das land zů sagt“ – text patrně neúplný (snad „uffbringen“ = sebrat mužstvo); přeloženo „takové [mužstvo] [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

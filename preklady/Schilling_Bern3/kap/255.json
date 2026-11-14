@@ -1,0 +1,40 @@
+{
+ "cislo": 255,
+ "nadpis": "Das die Statt Visis am ersten ingenomen vnd gantz geplündert wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 555,
+ "strany": [
+  555,
+  556
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man dennocht in der Wätt was da zugent etlich from lüte von Ober Sibental / Sanen vnd andern der von Bernn gebieten gen Visis / vnd wolten inen ouch dancke[n] der smach vnd schanden / So si denen von Bern iren herrnn vnd andern zů mengen malen mit worten vnd wercken erbotten / vnd ouch vncristenliche sachen von inen gemolet vnd vff geslagen hatten / vnd namen darumb die Statt Visis in / vnd enplünderten die gantz / Darnach wart die selb Statt aber gewunnen vnd verbrönt / des glich ander Stett vnd Slösser in der selben art ouch / vnd darzů gar vil lüten erslagen vnd ertöt / damit inen ir rechter verdienter lon wart / dann si sich gar schantlich gehalten / vnd allen iren trost vf den hertzoge[n] von Burgunn gesatzt hatten / vnd wolten die von Bernn noch die iren nit schetzen",
+   "preklad": "A když se ještě bylo ve Vaudu, táhli někteří stateční lidé z Horního Simmentalu, ze Saanenu a z jiných bernských panství na Vevey. Chtěli se jim také odvděčit za potupu a hanbu, kterou Bernským, svým pánům, i jiným mnohokrát prokázali slovy i činy, a za nekřesťanské věci, které o nich malovali a vyvěšovali. Proto obsadili město Vevey a celé je vyplenili. Později bylo totéž město znovu dobyto a vypáleno, stejně jako jiná města a hrady v tom kraji, a k tomu bylo zabito a usmrceno velmi mnoho lidí. Tím se jim dostalo jejich pravé zasloužené odplaty, neboť se chovali velmi hanebně, vkládali všechnu svou naději ve vévodu Burgundského a nechtěli si vážit ani Bernských, ani jejich lidí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 555,
+   "popis": "kolorovaná kresba – útok Oberhaslských/Sibentalských na Vevey: vlevo zástup pikenýrů s bílými kříži pod bernskou korouhví (medvěd), pištec a bubeník, velitel ukazuje k městu; vpravo vojáci překračují plot a vnikají do brány; v pozadí město s věžemi, jezero s lodí a kopce"
+  },
+  {
+   "strana": 556,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 556,
+   "text": "556 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; v něm rubrika; dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak bylo město Vevey nejprve obsazeno a zcela vypleněno",
+ "poznamky_prekladu": [
+  "Visis = Vevey (něm. Vivis). Pozdější dobytí a vypálení Vevey proběhlo v červnu 1476 po bitvě u Murtenu (mimo přepis).",
+  "„vncristenliche sachen … gemolet vnd vff geslagen“ – zřejmě hanlivé obrázky a nápisy na Bernské."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

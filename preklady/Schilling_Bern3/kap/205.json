@@ -1,0 +1,49 @@
+{
+ "cislo": 205,
+ "nadpis": "Das man die von Blomont in semlichen worten mit ir habe abziechen liess",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 434,
+ "strany": [
+  434,
+  435,
+  436
+ ],
+ "odstavce": [
+  {
+   "text": "Also bedachtent si sich nit lang / vnd namen semlich teding uf als davor stat / Do wurden angendes von allen Stetten vn[d] herren lüte darzů geordnet / die inen den eid gabe[n] vnd gingen also nach einandern harus ein teil ritten ouch / vnd waren gar frölich / Sunderlich die frömden Soldner / vnd fůrten mit inen ir wermen vnd habe / darzů gingen ouch gar vil frowen edel vnd ander harus mit iren kinden / Vnd bleip nieman darinne / die selben frowen trůgen gar vil kleidern vnd anders was si ertragen mochten mit inen / vnd gehůben sich gar übel / dz si also von dem iren müsten scheiden / als nit vnbillich was / Also gingen harus by vier hundert mannen / Burgunner / Lamparter / Saffoyer vnd ander on frowen vnd kind / der gar vil wz die wurden alle hin weg beleitet / vnd tet noch nam man nieman nit",
+   "preklad": "Nato dlouho nerozmýšleli a přijali tyto podmínky, jak stojí výše. Ihned byli ze všech měst a od všech pánů určeni lidé, kteří od nich přijali přísahu. A tak vycházeli jeden za druhým ven, část také jela na koních, a byli velmi veselí, zvláště cizí žoldnéři, a vezli s sebou své zbraně [?] a majetek. K tomu vyšlo ven také velmi mnoho žen, šlechtičen i jiných, se svými dětmi, a nikdo uvnitř nezůstal. Ty ženy nesly s sebou velmi mnoho šatů a jiných věcí, co jen unesly, a velmi naříkaly, že se tak musejí rozloučit se svým majetkem, což nebylo nepochopitelné. Tak vyšlo ven asi čtyři sta mužů – Burgunďanů, Lombarďanů, Savojanů a jiných – kromě žen a dětí, kterých bylo velmi mnoho. Ti všichni byli odvedeni s doprovodem pryč a nikomu se nic neudělalo ani nevzalo."
+  },
+  {
+   "text": "Darnach gingen ouch harus bi viertzig armer ellender gevangner mannen / der waren etlich von eidgno[ssen] / ouch us dem Suntkow / vnd von andern herren vnd Stetten der vereynung / die hatt man darinne gevangen gehebt / vnd in semlicher maß als streng vnd hart gehalten / das si gar vngestalt worden ware[n] die gehůben sich wol / vnd sungen von rechten fröuden über lut / das menglich wol hort / Crist ist erstanden",
+   "preklad": "Potom vyšlo ven také asi čtyřicet ubohých, bídných zajatých mužů. Někteří z nich byli od Spříseženců, také ze Sundgau a od jiných pánů a měst Dolního spolku. Ty tam drželi v zajetí, a to tak přísně a tvrdě, že byli celí znetvoření. Ti byli velmi rádi a z opravdové radosti nahlas zpívali, takže to každý dobře slyšel, „Kristus vstal z mrtvých“."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 434,
+   "popis": "dokončená kolorovaná miniatura – odchod posádky Blamontu: z městské brány vycházejí neozbrojení muži s holemi a s nákladem, vlevo ženy a dítě; uprostřed a vpravo zástup pikenýrů s bílými kříži a prapory (Štrasburk, kříž), jezdci v plné zbroji se svatoondřejskými kříži (burgundští) odjíždějí; vlevo nahoře stany s prapory"
+  },
+  {
+   "strana": 435,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (stany, znak), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 435,
+   "text": "435 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (stany, znak se sluncem); uprostřed velká iniciála D"
+  },
+  {
+   "strana": 436,
+   "text": "436 X (pozdější foliace, levý horní roh); nahoře rubrika, miniatura, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byli obránci Blamontu za těchto podmínek propuštěni s jejich majetkem",
+ "poznamky_prekladu": [
+  "„wermen[?]“ – nejasné slovo; snad „weren“ = zbraně (Wehr), čtení nejisté.",
+  "„Crist ist erstanden“ – nejstarší německá velikonoční píseň (Christ ist erstanden), zpívaná i jako bojová a díkůvzdávající píseň."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,41 @@
+{
+ "cislo": 334,
+ "nadpis": "Das der hertzog von Lothringen vnd annder mit im ouch harnach kemend",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 752,
+ "strany": [
+  752,
+  753
+ ],
+ "odstavce": [
+  {
+   "text": "Darzů kam ouch eigens willens vnd vngemant / der durlücht vnd hochgeboren fürst herr Reinhart hertzog zů Lottringen in eigner persone / vnd mit im vier[?] Grafen von Bitsch vnd von Liningen / me dann mit zwey hundert pferde[n] vnd ilt tag vnd nacht / damit er zem strit möcht komen / als man das an sinen lüten vnd rossen wol sach",
+   "preklad": "K tomu přišel také z vlastní vůle a nevyzván ke spojenecké pomoci jasný a vysoce urozený kníže pan Reinhart, vévoda lotrinský, osobně, a s ním čtyři [?] hrabata z Bitsche a z Leiningenu, s více než dvěma sty koní. Spěchal dnem i nocí, aby stihl bitvu, jak bylo dobře vidět na jeho lidech a koních."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 752,
+   "popis": "jízda vévody Reného Lotrinského: v čele obrněný jezdec s rozpaženou rukou, za ním jezdci s bílými kříži a péry, trubač, pěší s píkami pod velkou korouhví (lotrinská, se šikmým břevnem?); v pozadí město s kostelem o dvou věžích a hrad na skále"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 753,
+   "text": "753 X (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou E a výplňový tah perem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 752,
+   "text": "René II. Lotrinský („Reinhart“); hrabata z Bitsche (Zweibrücken-Bitsch) a Leiningen; přes 200 koní"
+  }
+ ],
+ "nadpis_preklad": "Jak přitáhl také vévoda Lotrinský a jiní s ním",
+ "poznamky_prekladu": [
+  "„Reinhart“ = René II., vévoda lotrinský (mimo přepis).",
+  "„vier[?] Grafen“ – nejisté čtení; ponecháno „čtyři [?]“, ač jsou jmenována jen dvě hrabství (Bitsch = Zweibrücken-Bitsch, Leiningen)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

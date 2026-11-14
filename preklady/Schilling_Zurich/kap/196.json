@@ -18,7 +18,7 @@
   },
   {
    "text": "Basel das wolt nit lassen / und ouch sich machen dran; / als von den Eidgenossen / versoldet es fünfhundert man; / Colmar, Sletstat mit geren, / Solotern, Friburg gemeit, / dem bischof von Basel zü eren / was Biel gar balde bereit.",
-   "preklad": "Basilej nechtěla zůstat stranou / a také se do toho pustila; / od konfederátů / najala pět set mužů; / Colmar, Sélestat ochotně [?], / Solothurn, Fribourg vesele, / k poctě basilejského biskupa / byl Biel velmi rychle připraven."
+   "preklad": "Basilej nechtěla zůstat stranou / a také se do toho pustila; / od Spříseženců / najala pět set mužů; / Colmar, Sélestat ochotně [?], / Solothurn, Fribourg vesele, / k poctě basilejského biskupa / byl Biel velmi rychle připraven."
   },
   {
    "text": "In Burgunnen sind si komen, / mit einem harten sturm / hand si Lila gewunnen, / es rumpft sich als ein wurm; / durch wasser warent si swimmen, / do hüp sich angst und not, / si mochten nit entrinnen, / man slüg ir vil ze tot.",
@@ -84,5 +84,6 @@
   "[?] „Colmar, Sletstat mit geren“: geren snad = gern (ochotně), výklad nejistý. [?] „Grangii wart verhöret von einem wisen rat“: snad o vyjednávání moudré rady o vydání Granges, smysl nejistý. [?] „sechtzechen schüch dick vor truren“: „vor truren“ (proti smutku/na žal) je nejasné, snad výplňkový obrat pro rým. „es rumpft sich als ein wurm“: rumpfen = svraštit se (glosář)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

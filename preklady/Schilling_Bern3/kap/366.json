@@ -1,0 +1,41 @@
+{
+ "cislo": 366,
+ "nadpis": "Das des hertzogen von Lotthringen rätte gemein eidgno[ssen] zem dritten mal mit weinenden ougen vmb hilf vermanten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 836,
+ "strany": [
+  836,
+  837
+ ],
+ "odstavce": [
+  {
+   "text": "Daruff des hertzogen von Lotthringen rätte aber gemein eidgno[ssen] zem dritten mal so ernstlich vnd treffenlich mit weinenden ougen ermanten / vnd erbutten sich Sold zů geben / namlich einem zem monat vier guldin / das si mit witer zůsagten / dann die iren lassen louffen eigens willens die es dann gern tetent / das ouch von inen verwilliget wart / Vnd schriben die von Bernn von stund an in alle ir herschaften / Stett / lennder vnd gebiet / wer vmb Sold zem hertzogen von Lothringen ziechen wolt / der möcht es wol tůn / dz wer ir güter will vnd gevallen / damit die biderben lüte in Nanse möchten entschütt werden / Vnd man dem hertzogen ouch möcht gedancken / des güten / So er inen vnd andern vor Murten / vnd an andern enden menigualticlichen getan vnd erzöugt hatt",
+   "preklad": "Nato radové vévody Lotrinského potřetí tak vážně a důrazně s pláčem v očích vyzvali všechny Spřísežence a nabízeli, že budou platit žold, totiž čtyři zlaté měsíčně na muže, aby [Spříseženci] nepřislíbili mit[?] dále, než že nechají své lidi, kteří by to rádi udělali, táhnout z vlastní vůle. To jim také bylo povoleno. Bernští ihned napsali do všech svých panství, měst, zemí a území: kdo chce táhnout za žold k vévodovi Lotrinskému, ten tak smí učinit, to je jejich dobrá vůle a líbí se jim to – aby mohli být řádní lidé v Nancy vysvobozeni a aby se také mohlo vévodovi oplatit dobro, které jim a ostatním u Murtenu i na jiných místech mnohonásobně prokázal a ukázal."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 836,
+   "popis": "sněm v radní síni s trámovým stropem: vlevo na stěně štíty (lotrinský / bernský); vlotrinští vyslanci – jeden klečí s listinou, další stojí s gesty prosby; na lavicích vyslanci Konfederace v kloboucích s péry a čapkách, vpravo starší muž s holí (předsedající); na podlaze klečící muž s pláštěm"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 837,
+   "text": "837 X (pozdější foliace, pravý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, výplňový tah perem, dole rubrika s iniciálou D (k obrazu na s838)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 836,
+   "text": "žold 4 zlaté měsíčně na muže; „mit witer“ zřejmě „nit witer“"
+  }
+ ],
+ "nadpis_preklad": "Jak radové vévody Lotrinského potřetí s pláčem v očích vyzvali všechny Spřísežence k pomoci",
+ "poznamky_prekladu": [
+  "„das si mit witer zůsagten“ – podle smyslu patrně „nit witer“ (nic dalšího nepřislíbili); přeloženo podle smyslu a čtení „mit“ označeno [?]; text neopravován.",
+  "Žold 4 zlaté měsíčně na muže – Spříseženstvo jako celek nevyhlásilo tažení, jen povolilo volný nábor žoldnéřů."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

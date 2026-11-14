@@ -1,0 +1,37 @@
+{
+ "cislo": 52,
+ "nadpis": "Das aber gemeiner eidgno[ssen] vnd darzů ander botten von der vorgenanten sach wegen gen Bernn kament / vnd iren ernst bruchtent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 106,
+ "strany": [
+  106,
+  107
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů die herrenn vnd ander Edel mit iren gemacheln / vnd etlichem irem anhang / nach lut der Satzung vsgesworn hatten / vnd leisten müsten / da ward in allen eidgno[ssen] vnd anderen Stetten / vnd sunderlich in dero von Bernn landen vnd gebieten allenthalben gar vil worten gebrucht vnd offenlichen gerett / es werent misshell vnd gros zweyung in der Statt von Bernn / das dennocht von gots gnaden nit als gros was / Da kamen aber gen Bernn gemeiner eidgno[ssen] von Stetten treffenlichen / darzů ander erber botten / vnd bruchten in disen dingen gar grossen flis vnd ernst / damit si ettwas gůtes hetten mögen schaffen Da wart inen von Räten vnd burgern ze erkennen geben das si mit den selben herrenn / kein sundern vnwillen noch misshelle hetten / dann si weren mit recht einen monad von der Statt gevertiget / vnd wolten inen gentzlichen vertruwen / wann der selb monad vs wer / das si dann wider zů inen in die Statt kemen / vnd mit inen lieb vnd leid / als si ye welten getan hetten / Vnd wart ouch den selben botten gönnen / das si zů inen keren / vnd das zem aller besten zů erkennen geben möchten / das beschach von inen in gůten trüwen / Vnd bestimpten den herren allen / einen tag gen kúnyts[?] / vnd retten als vil mit inen / das si inen zůsagten / wann der monad ir leistung vs keme / So wolten si mit iren gemacheln all fruntlich vnd gütlich wider zů dem iren keren / vnd gemeinen Räten vnd burgern vertruwen man wurde si in semlichen sachen anders vnd bas bedencken / Vnd als der monad vs kam / da kamen si alle miteinandern an der heiligen dryer küngen tag wider gen Bernn riten / vnd wurden dennocht von menglichem wol enpfangen",
+   "preklad": "Když tedy páni a další šlechtici se svými manželkami a s některými svými přívrženci podle znění ustanovení odpřisáhli [město] a museli jít do vyhnanství (leisten), mluvilo se ve všech [místech] Spříseženců a v jiných městech, a zvlášť všude v zemích a panstvích Bernských, velmi mnoho a veřejně se říkalo, že ve městě Bernu jsou svár a velká roztržka. Z Boží milosti to však tak velké nebylo. Tu přišli do Bernu významní poslové měst všech Spříseženců a k tomu další ctihodní poslové a vynaložili v těch věcech velkou píli a vážnost, aby mohli dosáhnout něčeho dobrého. Radní a měšťané jim dali na vědomí, že se zmíněnými pány nemají žádnou zvláštní nevoli ani svár. Byli prý jen právem na měsíc vypovězeni z města a [radní a měšťané] jim plně důvěřují, že až ten měsíc uplyne, vrátí se k nim zase do města a budou s nimi sdílet dobré i zlé, jak to odjakživa činili. A těm poslům bylo také dovoleno, aby se k nim [pánům] vypravili a dali jim to co nejlépe na vědomí. To od nich v dobré víře také učinili. Určili všem pánům schůzku v Köniz [?] a domluvili s nimi tolik, že jim slíbili: až uplyne měsíc jejich vyhnanství, chtějí se se svými manželkami všichni přátelsky a po dobrém vrátit ke svému a důvěřují všem radním a měšťanům, že je v takových věcech posoudí jinak a lépe. A když ten měsíc uplynul, přijeli všichni společně na den Tří králů zpět do Bernu a byli přece ode všech dobře přijati."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 107,
+   "popis": "místo vynechané pro obrázek (rám se slabou podkresbou)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 107,
+   "text": "X 107 (pozdější foliace, pravý horní roh); text psán přes rám s jen naznačenou podkresbou (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak ještě přišli do Bernu poslové všech Spříseženců a k tomu další poslové kvůli zmíněné věci a jednali s vážností",
+ "poznamky_prekladu": [
+  "„gen kúnyts[?]“ – nejisté čtení; nejspíš Köniz u Bernu (mimo přepis).",
+  "„Räte vnd burger“ přeloženo „radní a měšťané“ (bernská Malá a Velká rada).",
+  "Den Tří králů = 6. 1.; podle souvislosti (vyhnanství v prosinci 1470) jde o 6. 1. 1471 (juliánský kalendář; rok mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "252. Das die in dem slos gar vast genöt wurden und irem büchsenmeister das houpt an einer zinnen abgeschossen wart.",
-   "preklad": "252. Jak byli ti na hradě velmi tísněni a jejich puškaři byla na cimbuří ustřelena hlava."
+   "preklad": "252. Jak byli ti na hradě velmi tísněni a jejich puškaři (mistru dělostřelby) byla na cimbuří ustřelena hlava."
   },
   {
    "text": "Und als nü die fromen lute von Bern und von Friburg in das slos Granson komen und gewichen, der bi fünfhundert mannen warent, do hatten die Burgunschen die stat in mit ganzem gewalt und macht und leiten ir büchsen gar nache zü dem slos und schussent tag und nacht gar vientlich daran. Die güten fromen lüte hieltent sich in dem slos gar manlich und wart das slos fürer nit me genöt mit stürmen, dann allein mit schiessen uf einer siten gein der stat, do es ouch gar stark und werlich was. Si hatten ouch bi inen in dem slos ein büchsenmeister von Bern, der was gar ein manlicher gesell und hielt sich trostlich tag und nacht; demselben wart sin houpt in dem slos an einer zinnen von den vienden abgeschossen, das den fromen luten im slos gar übel kam; dann wo buchsenmeister in stetten oder slossen umbbracht werden, das bringt under lüten gar grossen und merglichen verlust und schaden.",
-   "preklad": "A když tedy stateční lidé z Bernu a Fribourgu, kterých bylo asi pět set mužů, přišli a ustoupili na hrad Grandson, měli Burgunďané město v moci s celou svou silou a mocí, postavili svá děla velmi blízko k hradu a dnem i nocí do něj velmi nepřátelsky stříleli. Dobří stateční lidé se na hradě drželi velmi mužně a hrad už nebyl dále tísněn útoky, nýbrž jen střelbou z jedné strany, od města, kde byl také velmi silný a dobře hájitelný. Měli s sebou na hradě také puškaře z Bernu, který byl velmi mužný chlapík a držel se srdnatě dnem i nocí. Tomu nepřátelé na hradě na cimbuří ustřelili hlavu, což statečným lidem na hradě velmi uškodilo; neboť kde jsou ve městech nebo na hradech zabiti puškaři, to přináší mezi lidmi velmi velkou a znatelnou ztrátu a škodu."
+   "preklad": "A když tedy stateční lidé z Bernu a Fribourgu, kterých bylo asi pět set mužů, přišli a ustoupili na hrad Grandson, měli Burgunďané město v moci s celou svou silou a mocí, postavili svá děla velmi blízko k hradu a dnem i nocí do něj velmi nepřátelsky stříleli. Dobří stateční lidé se na hradě drželi velmi mužně a hrad už nebyl dále tísněn útoky, nýbrž jen střelbou z jedné strany, od města, kde byl také velmi silný a dobře hájitelný. Měli s sebou na hradě také puškaře z Bernu, který byl velmi mužný druh a držel se srdnatě dnem i nocí. Tomu nepřátelé na hradě na cimbuří ustřelili hlavu, což statečným lidem na hradě velmi uškodilo; neboť kde jsou ve městech nebo na hradech zabiti puškaři, to přináší mezi lidmi velmi velkou a znatelnou ztrátu a škodu."
   },
   {
    "text": "Inen ging ouch im slos etwas bulvers an und verbranten inen darinne vil büchsen und ander züg, darzü wurden ouch ir desselbenmals von dem füre und bulver vil gewüst und hatten in dem slos mit einandern vil widerwertikeit.",
@@ -24,5 +24,6 @@
   "„gewüst“ = zpustošen, zohaven (glosář: verwüstet); přeloženo „zmrzačeno“. „büchsenmeister“ = puškař, mistr dělostřelec."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

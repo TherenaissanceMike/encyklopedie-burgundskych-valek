@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Wie herzog Sygmund von Oestrich persönlich zu dem küng von Frankrich reit und batt umb hilf wider die Eydgnossen.",
-   "preklad": "13. Jak vévoda Zikmund Rakouský osobně jel ke králi francouzskému a prosil o pomoc proti konfederátům."
+   "preklad": "13. Jak vévoda Zikmund Rakouský osobně jel ke králi francouzskému a prosil o pomoc proti Spřísežencům."
   }
  ],
  "poznamky_editora": [],
@@ -20,5 +20,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 54, zkráceně) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

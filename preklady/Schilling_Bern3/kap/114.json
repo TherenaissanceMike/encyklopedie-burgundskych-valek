@@ -1,0 +1,41 @@
+{
+ "cislo": 114,
+ "nadpis": "Das die vier Stett am Rine der eidgno[ssen] offen Sloss sin süllent zů ewigen ziten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 231,
+ "strany": [
+  231,
+  232,
+  233
+ ],
+ "odstavce": [
+  {
+   "text": "Es ward ouch sunderlich in der berichtte zwüschen dem fürsten vnd den eidgno[ssen] abgerett / vnd durch den fürsten versigelt das die vier Stette am Rine / waltzhůt / louffenberg / Seckingen vnd Rinvelden / der eidgno[ssen] offen Stett vnd Sloss sin süllent / in allen ir sachen vnd zů ewigen ziten / Die übrigen sachen vnd was in der selben ewigen richtung begriffen ist vindet man zů Lutzern im wasser turn / in einem brief mit der küngklichen maiestat von Franckenrich / vnd aller partheien Insigeln versigelt",
+   "preklad": "V narovnání mezi knížetem a Spříseženci bylo také zvláště dohodnuto a knížetem zapečetěno, že čtyři města na Rýně, Waldshut, Laufenburg, Säckingen a Rheinfelden, mají být ve všech jejich věcech a na věčné časy otevřenými městy a hrady Spříseženců. Ostatní věci a co je v tomto Věčném narovnání obsaženo, najde se v Luzernu ve Vodní věži v listině zapečetěné s královským majestátem Francie a pečetěmi všech stran."
+  },
+  {
+   "text": "Als bald nü dis geschrey vnd gevangnüss des hagenbachs vnder den gemeinden herren vnd Stetten / Edlenn vnd andern us kam / hat er sich wie vor zem teil gemelt ist / mit menglichem gehalten / das nieman mit im erbermde wolt haben / vnd wz das wol müglich / dann er nit allein den gemeinen man / Sunder ouch die wirdig priesterschaft / frowen vnd töchtern / in vil sachen zem dickern mal geswechet hatt / vnd geriet da yederman sich sins vngevells fröwen / vnd vmb ir smach vnd vnrecht / so er begangen hat / clagen vnd rechts gegen im begeren",
+   "preklad": "Jakmile se nyní mezi obcemi, pány a městy, urozenými i jinými rozneslo toto volání a zpráva o Hagenbachově zajetí, [ukázalo se, že] se ke každému choval tak, jak už bylo zčásti řečeno, že s ním nikdo nechtěl mít slitování. A bylo to dobře možné, neboť nejen prostý lid, ale i ctihodné kněžstvo, ženy a dcery v mnoha věcech častokrát zneuctil. Tu se každý začal radovat z jeho neštěstí a žalovat pro potupu a křivdu, které spáchal, a žádat proti němu práva."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 232,
+   "text": "232 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo; chybí rubrika před druhým oddílem (?)"
+  },
+  {
+   "strana": 233,
+   "text": "233 X (pozdější foliace, pravý horní roh); na pravém okraji kresba úponku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak čtyři města na Rýně mají být na věčné časy otevřenými hrady Spříseženců",
+ "poznamky_prekladu": [
+  "„offen Stett vnd Sloss“ = otevřená města a hrady, tj. místa, do nichž mají Spříseženci kdykoli přístup a mohou je užít (srov. glosář „offen slos“).",
+  "„wasser turn“ = Vodní věž (Wasserturm) v Luzernu, sloužila mj. jako archiv (mimo přepis).",
+  "„swechen“ = zneuctít, zhanobit; přeloženo „zneuctil“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

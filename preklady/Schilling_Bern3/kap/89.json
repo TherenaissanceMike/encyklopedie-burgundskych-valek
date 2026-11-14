@@ -1,0 +1,41 @@
+{
+ "cislo": 89,
+ "nadpis": "Das die vorgenanten botten von Bernn / Friburg vnd Sollotern vor dem hertzogen von Burgunn lang knüwen můstent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 185,
+ "strany": [
+  185,
+  186,
+  187
+ ],
+ "odstavce": [
+  {
+   "text": "Und als nü vf semlich schreiben die vorgenanten botten / in gemeiner eidgno[ssen] namen zem hertzogen von Burgunn kamen / vnd meinten einen gnedigen gütigen herrenn zů vinden / da funden si mer hochvart dann demütikeit / vnd müsten ouch lang vor im knüwen / dann der von hagenbach im alzit necher dann ander in oren lag / vnd im nit gůtes vnder wiset / Also hatten die botten in einer versigelten Instruction / was si mit dem hertzogen reden vnd an im bringen solten / als dann die selb Instruction harnach von wort ze wort statt / dabi man wol mag verstan / das die von Bernn vnd ander eidgno[ssen] gern by friden weren bliben / vnd an inen nit erwant",
+   "preklad": "Když nyní na takový list přišli výše jmenovaní poslové jménem všech Spříseženců k vévodovi Burgundskému a mysleli, že naleznou milostivého a dobrotivého pána, nalezli více pýchy než pokory a museli také dlouho před ním klečet. Hagenbach mu totiž vždy ležel v uších blíže než jiní a nenaváděl ho k ničemu dobrému. Poslové měli v zapečetěné instrukci, co mají s vévodou mluvit a co mu přednést, jak tato instrukce dále slovo od slova následuje. Z ní lze dobře pochopit, že by Bernští a jiní Spříseženci byli rádi zůstali v míru a že to nezáviselo na nich."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 186,
+   "popis": "dokončená kolorovaná miniatura – poslové před Karlem Smělým: síň s trámovým stropem a arkádami s výhledem na hrad a krajinu; vpravo pod baldachýnem sedí vévoda v pruhovaném plášti s ondřejským křížem, vedle stojí dvořan (Hagenbach?) s ondřejským křížem na prsou a páže s pohárem; uprostřed tři klečící poslové s prosebně sepjatýma rukama, jeden podává list; vlevo přihlížející dvořané; dlaždicová podlaha"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 186,
+   "text": "186 X (pozdější foliace, levý horní roh); na levém okraji pozdější latinská glosa „Malum consilium con=sultori pessimum“ (Zlá rada je nejhorší pro rádce)"
+  },
+  {
+   "strana": 187,
+   "text": "187 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak výše jmenovaní poslové z Bernu, Fribourgu a Solothurnu museli dlouho klečet před vévodou Burgundským",
+ "poznamky_prekladu": [
+  "Na okraji s. 186 pozdější latinská glosa „Malum consilium consultori pessimum“ (Zlá rada je nejhorší pro rádce) – narážka na Hagenbacha.",
+  "Pro reenactory: dlouhé klečení poslů před vévodou Schilling uvádí jako doklad Karlovy pýchy a ponížení Spříseženců."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

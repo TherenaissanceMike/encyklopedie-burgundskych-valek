@@ -1,0 +1,32 @@
+{
+ "cislo": 132,
+ "nadpis": "Der absag brief / als gemein eidgno[ssen] dem hertzogen von Burgunn vnd sinen Statthaltern vnd anwalten miteinandern abseitent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 271,
+ "strany": [
+  271,
+  272
+ ],
+ "odstavce": [
+  {
+   "text": "Dem durlüchtenden hochgebornen fürsten vnd herren / herrenn karolen hertzogen zů Burgunn / oder sinen Statthaltern vnd anwalten / wie die genempt / oder wo si gesessen sind / enbieten wir Burgermeister / Schultheissen / Ammannen Rete vnd gantz gemeinden des grossen pundes ober tütschen landen / namlich Zürich / Bernn / Lutzernn Vre / Switz / Vnderwalden / Zug vnd Glaris / vnd darzů beid Stette Friburg vnd Sollotern / das wir vff hoch vnd treffenlich gebott vnd vermanen des aller durlüchtigesten / vnüberwintlichesten / hochmechtigesten herren / herrenn Fridrichen / Römschen keisers / vnnsers aller gnedigesten herrenn / dem wir als glider des heiligen Riches mit vndertenikeit müssen begegnen / ouch des durlüchtigen hochgebornen fürsten vnd herren / herrenn Sigmunden ertzhertzogen zů österrich / vnd ander fürsten herrenn vnd Stetten / zů vnns mit eynung gewant / an denen dann vnzimlich gewalt vnd trang / mit vil grossen vnd vncristenlichen misshandeln fürgenome[n] sind vnd teglichs beschechent / üch vnd allen den üwern / wie die genant sind / vnnser offen vindschaft hiemit sagen vnd verkünden / für vnns alle die vnnsern / vnd die so vnns zů versprechen stand vnd was sich nü solicher vindschaft halb gegen üch den üwern vnd gewanten vnd helfern machen wirt es sie mit roup / todslegen / nom / brand / angriffen vnd beschedigungen tag oder nacht durch vnns / die vnsern / vnnser gewanten vnd helfer / nieman usgesündert / damit wellen wir vnnser aller ere wol bewart haben / des zů vrkünd so haben wir / als wir yetz zů Lutzern zů tagen gewesen sind / disen offen brieff mit vnnser von Bernn Insigel besiglen lassen / vnd ist ouch also versigelt / darunder wir vnns alle verbinden / Geben vnd beschechen an zinstag vor Simonis vnd Jude anno lxxiiij^o",
+   "preklad": "Jasnému, vysoce urozenému knížeti a pánu, panu Karlovi, vévodovi Burgundskému, nebo jeho místodržícím a zmocněncům, ať se jmenují jakkoli nebo ať sídlí kdekoli, oznamujeme my, purkmistři, starostové, úředníci, radní a celé obce Velkého spolku hornoněmeckých zemí, totiž Curych, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug a Glarus, a k tomu obě města Fribourg a Solothurn: Na vysoký a důrazný příkaz a výzvu nejjasnějšího, nepřemožitelného, nejmocnějšího pána, pana Fridricha, římského císaře, našeho nejmilostivějšího pána, jemuž jako údy Svaté říše musíme s poddaností vyhovět, a také jasného, vysoce urozeného knížete a pána, pana Zikmunda, arcivévody Rakouského, a jiných knížat, pánů a měst, kteří jsou s námi spojeni spolkem a na nichž bylo spácháno a denně se páchá nepatřičné násilí a útisk s mnoha velkými a nekřesťanskými zločiny, tímto vám i všem vašim, ať se jmenují jakkoli, říkáme a oznamujeme své otevřené nepřátelství, za nás všechny, za všechny naše a za ty, které jsme povinni hájit. A cokoli z tohoto nepřátelství vzejde proti vám, vašim, vašim spojencům a pomocníkům, ať je to loupeží, zabíjením, braním, pálením, útoky a škodami ve dne či v noci, skrze nás, naše, naše spojence a pomocníky, nikoho nevyjímaje, tím chceme mít čest nás všech dobře ochráněnou. Na svědectví toho jsme, když jsme nyní byli v Luzernu na sněmu, dali tento otevřený list zapečetit pečetí nás Bernských, a je tak také zapečetěn, a pod ní se všichni zavazujeme. Dáno a stalo se v úterý před [svatými] Šimonem a Judou léta [14]74."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 272,
+   "text": "272 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám s nedokončenou podkresbou (místo pro obrázek); dole prázdno"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Vypovězení nepřátelství, které všichni Spříseženci společně poslali vévodovi Burgundskému a jeho místodržícím a zmocněncům",
+ "poznamky_prekladu": [
+  "Schilling: úterý před sv. Šimonem a Judou (28. 10.; v roce 1474 pátek) = 25. 10. 1474 (juliánský kalendář) – formální vypovězení války Burgundsku.",
+  "„Ammannen“ přeloženo podle glosáře „úředníci“ (landammani venkovských míst).",
+  "Velký spolek hornoněmeckých zemí (der grosse pund ober tütschen landen) = oficiální označení Spříseženstva v listinách."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,40 @@
+{
+ "cislo": 38,
+ "nadpis": "Das die Statt Vnderseuen gantz miteinandern verbran",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 76,
+ "strany": [
+  76,
+  77
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach in dem anderen Jar an einem fritag nach dem meytag / am morgen frü vmb die zwey nach mitternacht / gieng fiür vff zů Vnderseuen vnd verbrant leider die Statt zů grunde was in der ringmur was / des die armen lüte zů grossem verderplichem schade[n] kamen / Die von Bernn ir herrenn taten inen gros hilf vnd stür / damit si wider mochten gebuwen / Si machten inen ouch ein nüw kofhus[?] / das gar vil costet / Vnd ander gros hilf die si inen tatent",
+   "preklad": "Potom v druhém roce, v pátek po prvním máji, časně ráno ve dvě hodiny po půlnoci, vypukl v Unterseenu oheň a spálil bohužel město do základů, cokoli bylo v hradbách, čímž chudí lidé přišli k velké a zhoubné škodě. Bernští, jejich páni, jim poskytli velkou pomoc a podporu, aby mohli znovu stavět. Postavili jim také nový kupecký dům [?], který stál velmi mnoho, a [poskytli] jinou velkou pomoc, kterou jim prokázali."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 76,
+   "popis": "dolní polovina strany – požár města Unterseen, hořící domy, lidé s vědry a žebříky"
+  },
+  {
+   "strana": 77,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 77,
+   "text": "77 X (pozdější foliace, pravý horní roh); prostřední text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak město Unterseen celé vyhořelo",
+ "poznamky_prekladu": [
+  "„in dem anderen Jar“ – patrně v následujícím roce po 1468, tj. 1469; pátek po 1. 5. by pak byl 5. 5. 1469 (juliánský kalendář). Výklad „anderen Jar“ nejistý.",
+  "„kofhus[?]“ – čtení nejisté; smysl patrně Kaufhaus = kupecký dům, tržnice."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

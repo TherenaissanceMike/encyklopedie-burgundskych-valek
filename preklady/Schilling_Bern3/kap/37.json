@@ -1,0 +1,35 @@
+{
+ "cislo": 37,
+ "nadpis": "Wann vnnser lieben frowen Cappel vnd ouch das Beinhus gebuwen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 75,
+ "strany": [
+  75,
+  76
+ ],
+ "odstavce": [
+  {
+   "text": "Do man zalt von der geburt vnnsers herrenn Ihesu Cristi / Tusent vierhundert Sechtzig vnd acht Jar wart vnnser lieben frowen Cappell von nüwem vff gebuwen vnd gemacht / vnd wart die alte Cappelle vnd Schůl dannen gebrochen / Vnd das toten bein / in dem Beinhus darunder / ouch gar ordenlich geleit / vnd wart von biderben lüten vil geltes daran vff genomen doch hatt die Statt des gar mergklichen costen / Vnd betruret si des gantz nit / des si die himel küngin magt Maria nach irem begeren wol ergetzen mag / Vnd warend buw meister der selben Cappelle / Jacob Closs vn[d] meister Tilman ein scherer / zwen burger von Bern / die ouch darzů grossen ernst hatten /",
+   "preklad": "Když se psalo od narození našeho Pána Ježíše Krista tisíc čtyři sta šedesát osm let, byla kaple naší milé Paní nově postavena a zhotovena; stará kaple a škola byly strženy a kosti mrtvých v kostnici pod ní byly také velmi řádně uloženy. Od poctivých lidí bylo na to vybráno mnoho peněz, přesto mělo město s tím značné náklady; a vůbec toho nelituje, za což mu to Královna nebes, Panna Maria, podle jeho přání může dobře odplatit. Staviteli té kaple byli Jacob Closs a mistr Tilman, ranhojič (lazebník), dva bernští měšťané, kteří o to také velmi usilovali."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 75,
+   "text": "1468 (pozdější ruka, pravý okraj u posledního odstavce)"
+  },
+  {
+   "strana": 76,
+   "text": "76 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Kdy byla postavena kaple naší milé Paní a také kostnice",
+ "poznamky_prekladu": [
+  "„scherer“ = holič, ranhojič.",
+  "Na okraji pozdější rukou letopočet 1468."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

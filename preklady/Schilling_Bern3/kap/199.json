@@ -1,0 +1,37 @@
+{
+ "cislo": 199,
+ "nadpis": "Das die von Bernn vnd ander ir verwanten iren herrenn vnd obern vmb noch me lüten heim schribent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 424,
+ "strany": [
+  424,
+  425
+ ],
+ "odstavce": [
+  {
+   "text": "So man nů von dem Sturm abgezoge[n] was / vnd man ouch grossen schaden enpfangen hatt / da meinten etlich / man möcht es mit stürmen nit me gewynnen / Sunder müst man es an andern enden vorhin ouch beschiessen vnd bas versůchen / dann man noch bis dar us den grossen büchsen vnnerfenglichen[?] geschossen hatt / Die von Straßburg vnd Basel luden ouch ir büchsen wider uf / vnd stůnden etlich tage vf den wägen / vnd begond man vnwillig werden / dann da die von Blomont den Sturm behalten hatten / da wurden si mit schiessen vnd andern dingen gar frödig / vnd meinten alweg von den iren entschütt werden / Darzů kamen ouch in das leger gar gros warnunge[n] / wie der Bastart von Burgunn vnd ander herren mit grossen machten zů zugen / vnd die von Blomont entschütten wolten / Vnd nach dem dann der lantvogt mit den sinen in Lothringen gezogen / der gar vil was / da wart ouch betrachten die grossen warnungen / vnd das man nit vil lüten hat / vnd begerten die von Straßburg / yederman semlichs sinen herrenn vnd obern / zů verkünden / wie sorglich man mit wenig lüten in der vienden land lege / vmb das si etwas witer gestercket wurden / So wolten si ir büchsen widerum[b] hinden an die Statt Blomont richten / Vnd in semlicher maß wercken / damit si hoften / es solt inen allen wol erschiessen / Vnd retten semlich meynung sunderlich mit grossem ernst mit denen von Bernn / vnd meinten / si wolten inen daran zů stüre ein kuch gelt schencken / das ouch beschach als harnach statt",
+   "preklad": "Když se tedy od útoku ustoupilo a utrpěly se velké ztráty, mínili někteří, že se město útokem už dobýt nedá. Muselo by se na jiných místech nejprve také ostřelovat a lépe zkoušet, neboť až dosud se z velkých děl střílelo neúčinně [?]. Štrasburští a Basilejští také znovu naložili svá děla a ta stála několik dní na vozech. Lidé začali být nevrlí, neboť obránci Blamontu, když útok ustáli, nabyli při střelbě i jinak velké odvahy a stále doufali, že je jejich lidé vysvobodí. K tomu přicházela do tábora velmi vážná varování, že Bastard Burgundský a jiní páni táhnou s velkou mocí, aby Blamont vysvobodili. A protože zemský fojt odtáhl se svými lidmi, kterých bylo velmi mnoho, do Lotrinska, uvážili ta velká varování a to, že lidí není mnoho. Štrasburští žádali, aby každý oznámil svým pánům a představeným, jak nebezpečně se s málem lidí leží v zemi nepřátel, aby byli dále posíleni. Pak chtěli svá děla znovu namířit na zadní stranu města Blamontu a pracovat tak, aby se jim všem střelba, jak doufali, dobře vydařila. Takové mínění přednášeli s velkou vážností zvláště Bernským a říkali, že jim na to chtějí jako příspěvek darovat peníze na kuchyni [?], což se také stalo, jak je dále psáno."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 425,
+   "text": "425 X (pozdější foliace, pravý horní roh); stránka bez obrázku; nahoře text, uprostřed volné místo, dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 424,
+   "text": "„vnnerfenglichen“ = neúčinně (nejisté čtení)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a jejich další spojenci psali domů svým pánům a představeným o další lidi",
+ "poznamky_prekladu": [
+  "„vnnerfenglichen[?]“ = neúčinně (nejisté čtení).",
+  "Zemský fojt = rakouský zemský fojt v Alsasku (tehdy Hermann von Eptingen – mimo přepis), který odtáhl k lotrinskému vévodovi.",
+  "„ein kuch gelt“ = peníze na kuchyni (kuchigelt), tj. příspěvek na stravu vojska; srov. kap. 214, kde Štrasburští darují 800 zlatých „für ein kuchi gelt“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

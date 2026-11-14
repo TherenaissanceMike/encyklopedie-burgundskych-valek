@@ -1,0 +1,36 @@
+{
+ "cislo": 74,
+ "nadpis": "Das der vorgenant von hagenbach denen von Müllhusen in mengen stucken vnderstund verreterie vnd böss sachen zů tůnde",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 157,
+ "strany": [
+  157,
+  158,
+  159
+ ],
+ "odstavce": [
+  {
+   "text": "Eigens gewalts vnd on recht / vnderstůnd er ouch die erber Statt Müllhusen / die mit denen von Bernn vnd Sollotern in püntnüss waren / vmb ir Statt Schultheissen ampt / vnd ander ir gerechtikeit / die si dann von altem her bracht / vn[d] vom heiligen Rich verpfent hatten / zů bringen / vnd das mit heimlicher verreterie zů sinen handen ze nemen / über das im solichs nit zů stůnd / Vnd ouch in dem friden von waltzhůt / vnd andern richtungen verbotten was / Alle bössheit vnd mütwillen erdacht er / gegen biderben lüten von Basel vnd andern / denen die von Müllhusen schuldig waren vnd mit inen ze tůnde hatten / si an ze reitzen / dz si dermassen beswert wurden / damit si sich dem gewalt sins herrenn vndergeben solten / Wann si von des vergangnen kriegs / vnd des wegen dz man inen veilen kouf vnd allen iren gewerbe abwarf vnd das vil zit vnd Jaren gewert hat / in gross schulden komen waren / die er am letsten / da er si anders nit trengen mocht / gern für si bezalt / wo si sich sinem herrenn vnder geben hetten / Sy wolten aber das nit tůn / vnd ward inen dennocht am letsten durch die von Bernn vnd Sollotern ir eidgno[ssen] / vnd etlich ander herrenn vnd Stette iren nachburen / mit gelt vnd anderm als vil für gesetzt / das si des halben etwas zů rüwen kamen Vnd bi dem heiligen Riche vnd den gesworenen pünden blibent",
+   "preklad": "Vlastní mocí a bez práva se také pokoušel ctihodné město Mulhouse, které bylo ve spolku s Bernskými a Solothurnskými, připravit o úřad městského starosty a jiná jeho práva, která odedávna mělo a která drželo v zástavě od Svaté říše, a tajnou zradou je vzít do svých rukou, ačkoli mu to nepříslušelo a bylo mu to zakázáno i mírem ve Waldshutu a jinými narovnáními. Vymýšlel všechnu zlobu a svévoli, aby popichoval řádné lidi z Basileje a jiné, jimž byli Mulhouseští dlužni a s nimiž měli co činit, aby byli [Mulhouseští] tak zatíženi, že by se museli podrobit moci jeho pána. Neboť kvůli minulé válce a kvůli tomu, že jim byl odepřen volný trh i veškerý jejich obchod, což trvalo mnoho času a let, se dostali do velkých dluhů. Ty by za ně nakonec, když je jinak donutit nemohl, rád zaplatil, kdyby se jeho pánu podrobili. Oni to však udělat nechtěli. A přece jim nakonec Bernští a Solothurnští, jejich spříseženci, a někteří jiní páni a města, jejich sousedé, poskytli penězi a jinak tolik, že v té věci přišli trochu k pokoji a zůstali při Svaté říši a přísežných spolcích."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 158,
+   "text": "158 X (pozdější foliace, levý horní roh); stránka bez obrázku, dole volné místo s kadelou"
+  },
+  {
+   "strana": 159,
+   "text": "159 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že se zmíněný Hagenbach v mnoha věcech pokoušel páchat na Mulhouseských zradu a zlé věci",
+ "poznamky_prekladu": [
+  "Mulhouse bylo spojencem Bernu a Solothurnu od roku 1466 (mimo přepis).",
+  "„des vergangnen kriegs“ = Mulhouseská (Sundgauská) válka 1468 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

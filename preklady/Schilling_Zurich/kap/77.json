@@ -78,7 +78,7 @@
   },
   {
    "text": "Item der herzog von Burgunnen hat me dann Neehahundent man an sinem hof, die alle anhatten anders nit dann güldin, silbrin und siden gewant und vast wol durchziert mit beslecht, on sin bogner, die in sin garden gehörent; der sind zweihundert, die hatten scharnien an, warent alle guldin und silbrin.",
-   "preklad": "Burgundský vévoda měl u svého dvora více než [?] mužů, kteří neměli na sobě nic jiného než zlaté, stříbrné a hedvábné šaty, hojně zdobené kováním (beslecht); k tomu jeho lučištníci, kteří patří k jeho gardě: těch je dvě stě a měli na sobě válečné pláště (scharnien), všechny zlaté a stříbrné."
+   "preklad": "Burgundský vévoda měl u svého dvora více než [?] mužů, kteří neměli na sobě nic jiného než zlaté, stříbrné a hedvábné šaty, hojně zdobené kováním (beslecht); k tomu jeho lučištníci, kteří patří k jeho gardě: těch je dvě stě a měli na sobě livreje (scharnien), všechny zlaté a stříbrné."
   },
   {
    "text": "Item man sagt ouch, das kein köstlicher mal von keinem herzogen von Burgunnen nie mere gesechen sie und ouch das gros güt und gezierde, als obstat.",
@@ -99,5 +99,6 @@
   "Bernské varianty: „slecht und dennocht köstlich bilde“ (prosté, a přesto nákladné sochy), „drier eln“, „wasserkannen“ (konvice na vodu), „obresten tisch“, „Türkesch“, „keiserliches mal“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

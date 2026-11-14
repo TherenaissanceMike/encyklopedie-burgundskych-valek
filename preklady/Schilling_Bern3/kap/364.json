@@ -1,0 +1,57 @@
+{
+ "cislo": 364,
+ "nadpis": "Von einer mannlichen sach die des Grafen von Walendis lüte getan hand",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 830,
+ "strany": [
+  830,
+  831,
+  832
+ ],
+ "odstavce": [
+  {
+   "text": "An zinstag vor aller heiligen tag des vorgenanten Jares / zugent etlich Burgunner vnd Soldner / So dann in den Slossen Tschüpe[?] In Aetzes[?] vnd andern waren / mit einem grossen züge vnd kraft dem Grauen von Walendis / der dann dero von Bernn erbburger ist / in sin land / vnd kament gewaltlich in ein tal genant Lorla[?] / vnd erstachen angendes zwen arm puren / vnd namen was si funden / vnd reubeten[?] alles das vehe in dem gantzen tale ze samen / die armen lüte torsten sich darwider nit setzen / vnd müsten sich smucken / dann si inen ze mechtig warent / In dem da luffen etlich knecht us dem selben tale / vnd noch von einem andern tale genant Sassanien[?] / das ouch des Grauen von Walendis ist / zů samen / vnd würfent die brucken ab an einem wasser / darüber die viend mit dem vech vnd roub müsten / vnd verfiengen sich heimlich / das si ir nit innen wurden / vnd als si an das wasser kamen da stiessen / slügen vnd stachen si als ernstlich hinden an si / das si von grosser not wegen in das wasser wichen müsten / Vnd welche uff die ansböme[?] vnd laden der bruck kament / die wurden merenteils all erstochen vnd ertrenckt / also das man nachmaln in dem wasser vnd uff dem lande der toten me dan[n] hundert funden vnd abgezogen hatt / Vnd wart den armen lüten ir vehe vnd genomen gůt alles wider / vnd gewunnen darzů ein gros bütt",
+   "preklad": "V úterý před Všemi svatými zmíněného roku vytáhli někteří Burgunďané a žoldnéři, kteří byli na hradech Tschüpe[?], In Aetzes[?] a jinde, s velkým oddílem a mocí do země hraběte z Valanginu, který je dědičným měšťanem Bernských. Vtrhli násilím do údolí zvaného Lorla[?], ihned probodli dva chudé sedláky, brali, co našli, a nahnali dohromady všechen dobytek z celého údolí. Chudí lidé se jim nesměli postavit a museli se skrčit, neboť nepřátelé byli na ně příliš mocní. Mezitím se seběhli někteří knechti z téhož údolí a ještě z jiného údolí zvaného Sassanien[?], které také patří hraběti z Valanginu. Strhli most přes řeku, přes niž museli nepřátelé s dobytkem a kořistí přejít, a tajně se ukryli, takže je nepřátelé nezpozorovali. A když nepřátelé přišli k vodě, vráželi do nich, bili je a bodali zezadu tak vážně, že museli z velké nouze ustoupit do vody. A ti, kteří se dostali na ansböme[?] a prkna mostu, byli většinou všichni probodeni a utopeni, takže potom ve vodě a na zemi našli a svlékli přes sto mrtvých. Chudým lidem se vrátil všechen jejich dobytek i pobraný majetek, a k tomu získali velkou kořist."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 831,
+   "popis": "boj u mostu v údolí: vlevo skály, hrad a vesnice, sedláci odhánějí dobytek; uprostřed muži z Valanginu pod korouhví s krokvemi (znak Valangin) s halapartnami a píkami odrážejí burgundské jezdce pod černými korouhvemi s ondřejským křížem; vpravo dole most se zábradlím, Burgundové padají do řeky – plovoucí přilby, koňské hlavy a trámy rozbitého mostu; v pozadí jezero s lodí a město s věžemi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 831,
+   "text": "831 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou A"
+  },
+  {
+   "strana": 832,
+   "text": "832 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce; dole rubrika s iniciálou H (k obrazu na s833)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 830,
+   "text": "Walendis = Valangin (hrabě Jan z Arbergu-Valangin, bernský „erbburger“)"
+  },
+  {
+   "strana": 831,
+   "text": "„zinstag vor aller heiligen tag“ 1476 = 29. října 1476; místní jména (Tschüpe = Joux? / Jougne, In Aetzes, tal Lorla = Le Locle?) nejistá"
+  },
+  {
+   "strana": 832,
+   "text": "„Sassanien“ nejisté (snad Val-de-Ruz / Sagne?); přes 100 mrtvých Burgundů v řece"
+  }
+ ],
+ "nadpis_preklad": "O statečném činu, který vykonali lidé hraběte z Valanginu",
+ "poznamky_prekladu": [
+  "Úterý před Všemi svatými 1476 = 29. 10. 1476.",
+  "Walendis = Valangin; hrabě Jan z Arbergu-Valanginu (mimo přepis). „erbburger“ = dědičný měšťan (dědičné měšťanské právo v Bernu).",
+  "Místní jména nejistá: „Tschüpe[?]“ (snad Joux / Jougne?), „In Aetzes[?]“, údolí „Lorla[?]“ (snad Le Locle?), „Sassanien[?]“ (snad La Sagne?) – ponechána v podobě přepisu.",
+  "„ansböme[?]“ – nejisté čtení; snad trámy (nosníky) mostu; ponecháno v originále.",
+  "„reubeten[?]“ – nejisté čtení, přeloženo podle smyslu „nahnali“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 6
+}

@@ -1,0 +1,38 @@
+{
+ "cislo": 129,
+ "nadpis": "Das die in der nüwen vereynung an gemein eidgno[ssen] begerten mit inen ein herzug in ober Burgunn ze tůnde",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 265,
+ "strany": [
+  265,
+  266,
+  267
+ ],
+ "odstavce": [
+  {
+   "text": "Nü hat man davor gehört den vngewarnete[n] schantlichen vnd lasterlichen überfal / den dan[n] Steffan von hagenbach / die Burgunner Lamparter vnd ander vncristenliche völcker im Sunckow hievor begangen / vnd was mütwilles vnd vncristenlicher wercken si getan hatten / vnd wie si wider hinder sich in Burgun gezogen ware[n] begab es sich daruf / das dem nach teglichs gros warnungen kament / das der hertzog von Burgunn abermals in ober Burgunn / einen grossen mechtigen zug versampnet / der nüt[?] het harus in das Sunckow vnd Elses ze brechen / vnd aber das land zů verheregen vnd arm lüte machen / vnd das ye des hertzogen von Burgunn anslag wer / alle die wile er da niden vor Nüss lege / das dann die sinen in ober Burgunn krieg wider die eidgno[ssen] / vnd ir zůgewanten mit teglicher anreitzung innmassen üben solten / damit si dester minder dem keiser wider im ze hilf komen möchten / darumb dis zů fürkomen / kamend des fürsten von österrich / ouch beider Bischöfen von Strassburg vnd von Basel / vnd der selben Stetten / Colmar vnd Sletstatt der vereynung wisen vnd treffenlichen Räte für gemein eidgnossen gen Lutzern / vnd begerten von inen hilf vnd rats wie man disen dingen widerstant tete / wann inen vnlidig were / diser vngewarneter kriegen vnd teglicher überfellen zů erwarten / so wurd ouch das den eidgno[ssen] gar kumberhaftig / si alle mal nach innhalt der vereynung zů entschütten / davon wisten si nit bessers / dann das man einen gemeinen herzug die wile dann der hertzog da niden vor Nüss lege / in ober Burgunn tete / vnd rüften darum gemein eidgno[ssen] an / inen damit hilflichen zů sinde / wann si das on hilf der eidgno[ssen] nit torsten noch wolten tůn noch vnderstan",
+   "preklad": "Již dříve se slyšelo o nečekaném, hanebném a ostudném přepadení, kterého se předtím v Sundgau dopustili Steffan von Hagenbach, Burgunďané, Lombarďané a jiné nekřesťanské národy, jakou svévoli a nekřesťanské skutky tam páchali a jak se zase stáhli zpět do Burgundska. Potom se stalo, že denně přicházela velká varování, že vévoda Burgundský opět shromažďuje v Horním Burgundsku velké a mocné vojsko, které nemá nic jiného [?] za úkol, než vtrhnout sem do Sundgau a Alsaska, opět zpustošit zemi a nadělat chudáků. A že je to právě záměr vévody Burgundského: zatímco on leží tam dole před Neussem, mají jeho lidé v Horním Burgundsku vést válku proti Spřísežencům a jejich spojencům a každodenně je takto dráždit, aby tím méně mohli přijít na pomoc císaři proti němu. Aby se tomu předešlo, přišli před všechny Spřísežence do Luzernu moudří a vznešení radní spolku, totiž knížete Rakouského, obou biskupů, štrasburského a basilejského, týchž měst a také Colmaru a Sélestatu. Žádali je o pomoc a radu, jak by se těmto věcem postavilo, neboť je pro ně nesnesitelné čekat na takové nečekané války a každodenní přepady; a také by bylo pro Spřísežence velmi obtížné pokaždé je podle znění spolku vysvobozovat. Proto nevědí nic lepšího, než podniknout společné tažení do Horního Burgundska, dokud vévoda leží tam dole před Neussem. Vyzývali proto všechny Spřísežence, aby jim v tom byli nápomocni, neboť bez pomoci Spříseženců se to neodvažují ani nechtějí učinit ani podniknout."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 266,
+   "text": "266 X (pozdější foliace, levý horní roh); stránka bez obrázku; dole kadela, zbytek prázdný"
+  },
+  {
+   "strana": 267,
+   "text": "267 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); dole velká kadela, zbytek prázdný"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak členové Dolního spolku žádali všechny Spřísežence, aby s nimi podnikli tažení do Horního Burgundska",
+ "poznamky_prekladu": [
+  "„nüt[?]“ – nejisté čtení, smysl „nic jiného (nemá za úkol)“.",
+  "Horní Burgundsko = Svobodné hrabství Burgundsko (Franche-Comté) (mimo přepis).",
+  "„vngewarnet“ = bez varování, bez vypovězení nepřátelství; přeloženo „nečekaný“.",
+  "Vévoda Karel obléhal Neuss od července 1474 do června 1475 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

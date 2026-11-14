@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "220. Das die von Bern und ander zer Morse zugent und das ouch innamen und der andern Eidgnossen do erwartent.",
-   "preklad": "220. Jak Bernští a jiní táhli do Morges, i to obsadili a čekali tam na ostatní konfederáty."
+   "preklad": "220. Jak Bernští a jiní táhli do Morges, i to obsadili a čekali tam na ostatní Spřísežence."
   },
   {
    "text": "Darnach an der mitwochen do man die vorgenanten sachen zü Orban alle usgericht hat, do zoch man abstat und für gen Lasserra durch die stat; dieselben armen lüte hattent sich vorhin ouch ergeben, diewile man dennocht zü Orben lag, und gaben an dem durchzug iederman zü trinken, und brant das slos dennocht vast. Man zoch ouch desselben tages bis gen Cusseney, das hat sich vorhin ouch ergeben.",
@@ -19,5 +19,6 @@
   "Nadpis mluví o Morges, text ale končí v Cossonay; samotné Morges je v kap. 222 (tak i u Toblera, nejde o chybu souboru)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

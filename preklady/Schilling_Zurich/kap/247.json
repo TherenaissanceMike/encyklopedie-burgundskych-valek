@@ -14,11 +14,11 @@
   },
   {
    "text": "Und also in kurzem darnach, als der herzog von Burgunnen das herzogthüm Lothringen gewunnen und zü sinen handen bracht hat, da zoch er angends haruf in Oberburgunnen mit einem gar mechtigen volk und kert von stund an in Saföyer land, die es ouch alle wider die von Bern und ander Eidgnossen hatten wider die geswornen ewigen pünde, darumb inen von gottes gnaden ir rechter lon wart, als man harnach in diser cronick vindet. Derselb herzog von Burgunnen hat ouch vorhin sin sachen mit dem Römschen keiser, dem küng von Frankenrich und andern fürsten und herren in semlichermass gestellt und zügericht, das er meint an allen orten rüwig zü sinde, usgenomen gegen denen von Bern und andern iren Eidgnossen und gewanten meint er sich zü rechen und sinen mütwillen an inen volbringen.",
-   "preklad": "A tak brzy nato, když vévoda burgundský dobyl Lotrinské vévodství a dostal je do svých rukou, hned táhl nahoru do Horního Burgundska s velmi mocným vojskem a okamžitě se obrátil do savojské země. Savojští všichni drželi proti Bernským a ostatním konfederátům, proti přísežným věčným spolkům, a proto se jim z Boží milosti dostalo jejich spravedlivé odplaty, jak se dále v této kronice nachází. Týž vévoda burgundský si také už předtím urovnal a připravil své věci s římským císařem, francouzským králem a jinými knížaty a pány tak, že se domníval, že bude mít všude klid; jen na Bernských a jejich ostatních konfederátech a spojencích se chtěl pomstít a vykonat na nich svou zvůli."
+   "preklad": "A tak brzy nato, když vévoda burgundský dobyl Lotrinské vévodství a dostal je do svých rukou, hned táhl nahoru do Horního Burgundska s velmi mocným vojskem a okamžitě se obrátil do savojské země. Savojští všichni drželi proti Bernským a ostatním Spřísežencům, proti přísežným věčným spolkům, a proto se jim z Boží milosti dostalo jejich spravedlivé odplaty, jak se dále v této kronice nachází. Týž vévoda burgundský si také už předtím urovnal a připravil své věci s římským císařem, francouzským králem a jinými knížaty a pány tak, že se domníval, že bude mít všude klid; jen na Bernských a jejich ostatních Spřísežencích a spojencích se chtěl pomstít a vykonat na nich svou zvůli."
   },
   {
    "text": "Desglich sich die herzogin von Saföy und die ganz landschaft ouch nit spart und taten alles ir vermügen darzü, dann si hielten den herzogen für iren rechten und waren Messias und meinten nit, das im ieman möchte widerstan, als si das vorhin dick gerett und denen von Bern und andern Eidgnossen uf sin zükunft gar vast getröwt hatten.",
-   "preklad": "Stejně tak se nešetřila ani savojská vévodkyně a celá země a vynaložili k tomu všechny své síly, neboť považovali vévodu za svého pravého a skutečného Mesiáše a nemysleli si, že by mu někdo mohl odolat, jak to předtím často říkali a Bernským a ostatním konfederátům jeho příchodem velmi vyhrožovali."
+   "preklad": "Stejně tak se nešetřila ani savojská vévodkyně a celá země a vynaložili k tomu všechny své síly, neboť považovali vévodu za svého pravého a skutečného Mesiáše a nemysleli si, že by mu někdo mohl odolat, jak to předtím často říkali a Bernským a ostatním Spřísežencům jeho příchodem velmi vyhrožovali."
   }
  ],
  "poznamky": [
@@ -28,5 +28,6 @@
   "Odstavce rozděleny podle smyslu (v edici je text bez dělení)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

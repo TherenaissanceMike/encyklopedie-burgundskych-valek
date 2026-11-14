@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "79. Das die von Bern und ander Eidgnossen denen von Basel gar trostlich zuseitent.",
-   "preklad": "79. Jak Bernští a ostatní konfederáti Basilejským velmi útěšně přislíbili pomoc."
+   "preklad": "79. Jak Bernští a ostatní Spříseženci Basilejským velmi útěšně přislíbili pomoc."
   },
   {
    "text": "Dis ir ernstlich anbringen, da das gemeiner Eidgnossen botten von stetten und lendern verstünden und ouch zü gründe betrachteten, was inen an der stat Basel gelegen sin möcht, ob die von inen in gewalt des herzogen von Burgunnen komen solte, als man dann das in mengen weg betrachten mag, wurdent die von Bern und gemein Eidgnossen daruf zü rat und seiten denen von Basel zü achthundert man, die si in ir stat legen woltent, wann si dero begertent, der ieglichem si alle tage drig Baselplaphart zü solde solten geben und nit me; und ob si vom herzogen von Burgunnen belegert wurden, das si dann tetent als biderb lüte, so wolt man si mit der hilf gottes ritterlich und trostlich entschütten und si bis in den tod nit verlassen. Dis was wol ein trostlich antwurt, ab der die von Basel ein güt herz und fröude gewunnen, wann man sich von stund an in allen orten und mit iren zügewanten mit dem züsatz und iederman mit siner paner und machte inmassen züruste, als balde es notdurftig were worden, das man dann denen von Basel, si zü entschütten, zügezogen were.",
-   "preklad": "Když poslové všech konfederátů z měst a zemí tuto jejich vážnou žádost vyslechli a také důkladně uvážili, co by jim na městě Basileji záleželo, kdyby od nich padlo do moci burgundského vévody, jak to lze uvážit mnoha způsoby, poradili se Bernští a všichni konfederáti a slíbili Basilejským osm set mužů, které jim chtějí poslat do města, jakmile o ně požádají. Každému z nich mají Basilejští dávat denně tři basilejské groše žoldu a nic víc. A kdyby je burgundský vévoda oblehl a oni si počínali jako poctiví lidé, chtějí je s Boží pomocí rytířsky a útěšně vyprostit a neopustit je až do smrti. To byla vskutku útěšná odpověď a Basilejští z ní nabyli dobré mysli a radosti, neboť se hned ve všech místech i s jejich spojenci chystali s posádkou a každý se svou korouhví a vojskem tak, aby jakmile by bylo třeba, táhli Basilejským na pomoc a vyprostili je."
+   "preklad": "Když poslové všech Spříseženců z měst a zemí tuto jejich vážnou žádost vyslechli a také důkladně uvážili, co by jim na městě Basileji záleželo, kdyby od nich padlo do moci burgundského vévody, jak to lze uvážit mnoha způsoby, poradili se Bernští a všichni Spříseženci a slíbili Basilejským osm set mužů, které jim chtějí poslat do města, jakmile o ně požádají. Každému z nich mají Basilejští dávat denně tři basilejské groše žoldu a nic víc. A kdyby je burgundský vévoda oblehl a oni si počínali jako poctiví lidé, chtějí je s Boží pomocí rytířsky a útěšně vyprostit a neopustit je až do smrti. To byla vskutku útěšná odpověď a Basilejští z ní nabyli dobré mysli a radosti, neboť se hned ve všech místech (kantonech) i s jejich spojenci chystali s posádkou a každý se svou korouhví a vojskem tak, aby jakmile by bylo třeba, táhli Basilejským na pomoc a vyprostili je."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "Bernské varianty: „der einem si“, „trostlich und erlich antwurt, davon die…“ (útěšná a čestná odpověď)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

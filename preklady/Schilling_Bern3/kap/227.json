@@ -1,0 +1,49 @@
+{
+ "cislo": 227,
+ "nadpis": "Das der Graff von Roymond vom hertzogen von Burgunn harus kam / vnd etlich tütsch karrer nider warff",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 484,
+ "strany": [
+  484,
+  485,
+  486
+ ],
+ "odstavce": [
+  {
+   "text": "In dem kam der Graf von Roymond selbs persönlich mit etlichen den sinen In Safoi vnd sin land die Wätt / vnd vieng von stund an zwen tütsch karrer von Nürenberg denen nam er vil gůtes / vnd fůrt das alles vnd ouch die karrer mit im von dannen / Er besatzt ouch alle sin Stett vnd Sloß in der Wätt / mit frömden vnd heimschen völckern / vnd trost si gar wol / vnd meint ob inen yeman ützit tůn / So wurde inen der hertzog von Burgunn mit gantzer macht zů hilf komen / vnd si vor yederman entschütten vnd nit verlassen / Dann er wer als starck vnd mechtig / das nieman wider im möcht tůn / vnd macht inen damit ein semlichen trost vnd hertz / das si sich daran begonden verlassen / vnd daruf gar mengerley wider die von Bernn vnd Friburg anvingen",
+   "preklad": "Mezitím přišel hrabě z Romontu sám osobně s některými svými lidmi do Savojska a své země Vaud a hned zajal dva německé vozky z Norimberka; vzal jim mnoho zboží a odvezl všechno i s vozky s sebou. Také osadil všechna svá města a hrady ve Vaudu cizím i domácím lidem a velmi je povzbuzoval: kdyby jim někdo něco udělal, vévoda Burgundský jim přijde s celou mocí na pomoc, vysvobodí je proti komukoli a neopustí je. Je prý tak silný a mocný, že proti němu nikdo nic nezmůže. Tím jim dodal takovou naději a odvahu, že se na to začali spoléhat a podnikali potom mnoho věcí proti Bernským a Fribourským."
+  },
+  {
+   "text": "Vnd als nů dis sachen alle ergangen warent / vnd die von Bernn vnd ander ir verwanten gegen dem Graven von Roymond vnd den sinen glimpfs vnd eren gnůg erwartet / da hatten si sich mit iren machten zů gerüst vnd versampnet / vnd das den eidgnossen ouch geschriben / das si zů inen zugent vnd das mit gůter ordnung tetent / Dann si wol hatten vernomen / das die zů Jüngis nit als groß not vnd trang hatten / vnd beschach dz darumb / das die von Bernn vnd ander eidgno[ssen] In disen dingen mit wol bedachtem ratt handlen vnd ouch ir ere bewaren möchten / vnd schickten also die von Bernn dem Graven von Roymond iren absag brief / als harnach statt",
+   "preklad": "A když se tedy všechny tyto věci staly a Bernští a jejich další spojenci vůči hraběti z Romontu a jeho lidem dost vyčkali, jak velela slušnost a čest, vyzbrojili se a shromáždili se svou mocí a napsali také Spřísežencům, aby k nim přitáhli, a to v dobrém pořádku. Dobře se totiž dozvěděli, že ti v Jougne nejsou v tak velké nouzi a tísni; a stalo se to proto, aby Bernští a jiní Spříseženci mohli v těchto věcech jednat s dobře uváženou radou a také uchovat svou čest. A tak poslali Bernští hraběti z Romontu svůj list s vypovězením nepřátelství (absagbrief), jak následuje."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 484,
+   "popis": "kolorovaná kresba – savojští jezdci se savojskými prapory (bílý kříž) přepadají dva německé povozníky: jeden klečí a prosí, druhý zvedá ruce; vpravo povoz se sudy a koňmi; v pozadí hrad na skále, jezero a město"
+  },
+  {
+   "strana": 485,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 485,
+   "text": "485 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám pro obrázek (prázdný); pod ním text s iniciálou V"
+  },
+  {
+   "strana": 486,
+   "text": "486 X (pozdější foliace, levý horní roh); nahoře rubrika, kolorovaná kresba, dole začátek odpovědního listu s iniciálou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak hrabě z Romontu přišel od vévody Burgundského zpět a přepadl několik německých vozků",
+ "poznamky_prekladu": [
+  "„karrer“ = vozkové, povozníci; norimberští obchodníci se zbožím na cestě přes Vaud.",
+  "„harus“ v nadpisu = „sem ven“, tj. z Burgundska zpět do Vaudu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -15,7 +15,7 @@
  "odstavce": [
   {
    "text": "Wie die zwein bischoff von Strassburg und Basel und die stett mit inen begerten an die Eydgnossen, einen herzug ze machen.",
-   "preklad": "51. Jak dva biskupové, štrasburský a basilejský, a s nimi města žádali konfederáty, aby podnikli válečné tažení."
+   "preklad": "51. Jak dva biskupové, štrasburský a basilejský, a s nimi města žádali Spřísežence, aby podnikli válečné tažení."
   }
  ],
  "poznamky_editora": [],
@@ -24,5 +24,6 @@
   "„herzug“ = válečné tažení (výprava na pomoc)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

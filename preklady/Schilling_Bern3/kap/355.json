@@ -1,0 +1,46 @@
+{
+ "cislo": 355,
+ "nadpis": "Das der hertzog von Burgunn von dem Streit ze Murten zer Morse geflochen wz / vnd die hertzogin von Saffoy ouch darkam",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 798,
+ "strany": [
+  798,
+  799
+ ],
+ "odstavce": [
+  {
+   "text": "Nü komen ich wider an die recht materie vnd grunt diser dingen / damit des nit vergessen vnd nach ein anderen ordenlichen gesatzt werde / Als dann der Burgunsch hertzog ein semlich schantlich flucht vor Murten genomen hatt / vnd der sinen so ein gros volck / von allen lannden / darzů alles sin gůt / So er im leger by im gehebt / ouch büchsen / gold / silber vnd anders das dann vnschetzbar ist hinder im hat verloren vnd gelassen / Ist er desselben tages bis zer Morse komen / da hatt er an allen zwivel als mit vnbillelich was wenig fröuden gehebt / vnd sich mit insliessen in heimlichs gemach / als teubrichen gehalten / das niemand torst zů im komen noch genachen / wie wol die hertzogin von Saffoy ouch angendes zů im darkam / So was doch all fröud in im gantz erloschen / vnd was ouch als gar vo[n] im selber komen / das er mit nieman reden wolt die hertzogin möcht nit so vil an im haben / wie wol si sin ratgeberin miteinandern gewesen was / das er kein gespreche mit ir haben noch triben wolt das was dennocht kein wunder / nach dem unsäglichen grossen verlust / der im begegnet was",
+   "preklad": "Nyní se vracím k pravé látce a podstatě těchto věcí, aby se na ně nezapomnělo a aby byly zapsány po pořádku jedna za druhou. Když tedy burgundský vévoda podnikl před Murtenem tak hanebný útěk a ztratil a zanechal za sebou tak velké množství svých lidí ze všech zemí, k tomu všechen svůj majetek, který měl u sebe v ležení, také děla, zlato, stříbro a jiné, co je nedocenitelné, dostal se téhož dne až do Morges. Tam měl bezpochyby, jak bylo zcela namístě, málo radosti. Zavřel se do tajné komnaty a choval se jako šílený [?], takže se nikdo neodvážil k němu přijít ani se přiblížit. Ačkoli k němu také hned přišla vévodkyně Savojská, byla v něm přesto všechna radost úplně uhaslá. A byl také tak docela mimo sebe, že s nikým nechtěl mluvit. Vévodkyně u něho nic nesvedla, ačkoli mu byla ve všem rádkyní, takže s ní nechtěl mít ani vést žádný rozhovor. To nebylo nic divného po nevýslovně velké ztrátě, která ho stihla."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 798,
+   "popis": "Karel Smělý (s pérem na čapce) na koni s ondřejským křížem na čabraku přijíždí po dřevěném mostě/molu k bráně města Morges (štít s křížem), rozpřahuje ruce; za ním burgundská jízda s ondřejskými kříži a korouhvemi (s křesadly); v pozadí Ženevské jezero s loďkou, hory a hrad"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 799,
+   "text": "799 X (pozdější foliace, pravý horní roh); nahoře text, výplňový tah perem; dole rubrika s iniciálou D (k obrazu na s800)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 798,
+   "text": "Morse = Morges u Ženevského jezera"
+  },
+  {
+   "strana": 799,
+   "text": "„teubrichen“ = jako šílený (toben); čtení nejisté; Jolanda Savojská"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda Burgundský z bitvy u Murtenu uprchl do Morges a jak tam přišla také vévodkyně Savojská",
+ "poznamky_prekladu": [
+  "Morse = Morges u Ženevského jezera.",
+  "„teubrichen“ – přeloženo „jako šílený [?]“ (od toben), čtení nejisté.",
+  "Vévodkyně Savojská = Jolanda (Yolande) Francouzská, regentka Savojska (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

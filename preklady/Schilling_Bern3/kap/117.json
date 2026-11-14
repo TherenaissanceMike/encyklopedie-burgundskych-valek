@@ -1,0 +1,43 @@
+{
+ "cislo": 117,
+ "nadpis": "Das man den vorgenanten herr peter von hagenbach an einem offen lanttag in der Statt Brisach berechtigen liess",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 236,
+ "strany": [
+  236,
+  237,
+  238
+ ],
+ "odstavce": [
+  {
+   "text": "Darumb an dem nechsten mentag nach des heiligen Crütz tag im meyen / als man von der geburt Cristi zalt / Tusent vierhundert Sibentzig vnd vier Jar / stalt man zů Brisach den selben von hagenbach an ein offe[n] lantgericht / das da besetzt was von herren[?] Edlenn vnd Stetten die man darzů beschriben vnd geordnet hat / vnd clagt man zů im durch fürsprechen vil sachen vnd artickeln / die er dann verjechen hatt / vnd man von im ouch wol wiste man lies ouch im verfürsprechet sich nach notdurft verantwurten / vnd was das sin best antwurt / nie lang das werte / sin herr von Burgunn wer herr im lande gewesen / vnd er in sinem namen / vnd was er getan / des hett er als ein herr wol gewalt gehebt / vnd getruwt nieman nit darumb ze antwurten haben / dann er das alles von bevelhens wegen desselben sins herrenn hette getan / als er das mit im kuntlich machen wolt / mit vil ander seltzner inzügen die gantz vnverfenglich / vnd im all nit erlich warent / vnd nach verhören clag vnd antwurt / ouch siner vergicht vnd sachen / die er verjechen hat / vnd man ouch wol wiste vnd am tag lagen / wart er mit vrteil vnd recht vom leben zem tode bekant / mit dem vnderscheid / das man im als einem übeltetigen den ritterlichen orden / des er nit wirdig was / abnemen solt / als ouch das durch des fürsten herolt nach erkantem vrteil beschach",
+   "preklad": "Proto příští pondělí po svátku svatého Kříže v květnu, když se od narození Krista psalo tisíc čtyři sta sedmdesát čtyři let, postavili téhož Hagenbacha v Breisachu před veřejný zemský soud, který byl obsazen pány [?], urozenými a městy, kteří k tomu byli obesláni a určeni. Prostřednictvím fürsprechů (řečníků před soudem) byl obžalován z mnoha věcí a článků, k nimž se přiznal a které se o něm také dobře vědělo. Dovolili mu také, aby se prostřednictvím fürsprecha podle potřeby hájil. A jeho nejlepší odpověď, která netrvala dlouho, byla, že jeho pán Burgundský byl pánem v zemi a on v jeho jménu, a k čemu se odhodlal, k tomu měl jako pán dobrou moc, a nevěří, že by za to musel někomu odpovídat, neboť to všechno učinil z rozkazu téhož svého pána, jak to s ním chtěl dokázat. [Uváděl] i mnoho jiných podivných námitek, které byly docela neúčinné a žádná z nich mu nebyla ke cti. Po vyslechnutí žaloby a odpovědi, jakož i jeho výpovědi a věcí, k nimž se přiznal a které se také dobře věděly a byly zjevné, byl rozsudkem a právem odsouzen ze života na smrt, s tím rozdílem, že mu jako zločinci má být odňat rytířský řád, jehož nebyl hoden, což se také po vyneseném rozsudku stalo skrze knížecího herolda."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 237,
+   "popis": "dokončená kolorovaná miniatura – zemský soud nad Hagenbachem v Breisachu: pod přístřeškem na náměstí sedí soudce s holí (rychtář/maršálek) a přísedící v bohatých šatech na lavici, kolem zástup soudců a diváků; vpředu klečí dva muži (žalobce a obhájce / Hagenbach?) a gestikulují; prázdná lavice v popředí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 237,
+   "text": "237 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 238,
+   "text": "238 X (pozdější foliace, levý horní roh); hlavní text psán přes šedě podložený rám (prosvítá miniatura z rubu); vpravo na okraji useknuté poznámky (prosvítají?)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl zmíněný pan Peter von Hagenbach souzen na veřejném zemském soudu ve městě Breisachu",
+ "poznamky_prekladu": [
+  "Pondělí po Nalezení sv. Kříže (3. 5., v roce 1474 úterý) = 9. 5. 1474 (juliánský kalendář); souhlasí s obvyklým datem Hagenbachova procesu a popravy (mimo přepis).",
+  "„herren[?]“ – [?] z přepisu.",
+  "„lanttag / lantgericht“ = zemský soud; soud tvořili zástupci měst Dolního spolku a rakouských zemí (mimo přepis).",
+  "Hagenbachova obhajoba „jednal jsem z rozkazu svého pána“ je známý doklad; sesazení z rytířského stavu provedl herold."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

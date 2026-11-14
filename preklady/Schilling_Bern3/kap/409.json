@@ -1,0 +1,51 @@
+{
+ "cislo": 409,
+ "nadpis": "Das die von Bernn mit ir paner vnd machten ouch gen Bellentz zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 914,
+ "strany": [
+  914,
+  915,
+  916
+ ],
+ "odstavce": [
+  {
+   "text": "In dem zugen die von Bernn ouch us mit ir paner vnd drü tusent gewapneter mannen vn[d] anderm züge / die inen spis nach fůrten / Es zugen ouch mit inen ir getrüwen frunde die von friburg mit anderthalb hundert wol gerüster mannen / Die von Sollottern waren ouch von manung wegen dero von Bernn usgezogen mit vierhundert gůter Streitbarer mannen / Vnd kamen ouch gen Bellentz / vnd leiten sich an ein sunder ort gar nache zer Statt / vnd lagen etwz zites daruor / Do zwüschen beschach gar meng antrag / wie man die Statt vnderstan wolt ze erobern / vnd sunderlich mit dem Swert vnd dem Sturm ze gewynnen / Vnd wart me dann ein mal angesechen vnd geratten / das man stürmen solt / vnd wurden ouch alle sachen darzů gerüst vnd geordnet / an welchem ort yederman stan vnd angriffen solt / Es wart aber gantz nit darus Darzů was ouch angesechen / das man ein gemeine[n] herzug tůn / vnd in lamparten hin in gezogen sin solt / daraus wart ouch nit / vnd zoch yederman den nechsten wider heim",
+   "preklad": "Mezitím vytáhli také Bernští se svou korouhví a třemi tisíci ozbrojenými muži a s dalším trénem, který za nimi vezl zásoby. S nimi táhli i jejich věrní přátelé Fribourgští se sto padesáti dobře vyzbrojenými muži. Také Solothurnští vytáhli na výzvu Bernských ke spojenecké pomoci se čtyřmi sty dobrými bojeschopnými muži. Přišli rovněž do Bellinzony, položili se na zvláštní místo velmi blízko města a nějaký čas před ním leželi. Mezitím padlo velmi mnoho návrhů, jak se pokusit město dobýt, a zvláště je získat mečem a útokem. Nejednou bylo ustanoveno a uradilo se, že se má zaútočit, a také všechno bylo k tomu připraveno a určeno, na kterém místě má kdo stát a útočit. Vůbec však z toho nic nebylo. Kromě toho bylo ustanoveno, že se má podniknout společné tažení a vtáhnout do Lombardie; ani z toho nic nebylo a každý táhl nejkratší cestou zase domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 915,
+   "popis": "zástup pikenýrů s bílými kříži pod bernskou korouhví s medvědem a dlouhým praporcem táhne strmou horskou soutěskou mezi skalami; vlevo město s kupolovitou věží (Bellinzona), dřevěný most a řeka s čluny; vpravo vysoké skály"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 915,
+   "text": "915 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s914), dole odstavec; iniciála I nevyvedena (jen předkreslený tah)"
+  },
+  {
+   "strana": 916,
+   "text": "916 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s917)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 915,
+   "text": "Bern 3000 mužů s korouhví, Fribourg 150, Solothurn 400"
+  },
+  {
+   "strana": 916,
+   "text": "obléhání Bellinzony (listopad–prosinec 1478) bez útoku, tažení do Lombardie se neuskutečnilo"
+  }
+ ],
+ "nadpis_preklad": "Jak také Bernští táhli se svou korouhví a mocí do Bellinzony",
+ "poznamky_prekladu": [
+  "Počty podle textu: Bern 3000 mužů, Fribourg 150 („anderthalb hundert“), Solothurn 400.",
+  "„anderm züge, die inen spis nach fůrten“ – zásobovací trén.",
+  "Obléhání Bellinzony: listopad–prosinec 1478 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

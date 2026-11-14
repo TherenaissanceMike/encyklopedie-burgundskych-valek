@@ -1,0 +1,50 @@
+{
+ "cislo": 209,
+ "nadpis": "Das die von Bernn vnd ander mit iren panern / von Blomont witer In Burgunn zugen / vnd ir viend süchtent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 441,
+ "strany": [
+  441,
+  442,
+  443
+ ],
+ "odstavce": [
+  {
+   "text": "So nů die von Bernn / Sollotern vnd ander mit iren panern vnd machten also für Blomont komen waren / vnd Statt vnd Sloß gantz gebrochen vnd zerrissen hatten / Da wurdent si bedencken den grossen costen müg / vnd arbeit / so si mit irem us zuge hatten gehebt / vn[d] meinten / Solt man also snelle wider heim ziechen vnd nit witers fürnemen / das wer inen allen nit vast erlich / Man ward ouch betrachten vnd daran gedencken / das die fromen lüte us dem Suntkow vorhin vor dem Sloß Gramont[?] gehalten / vnd schaden enpfangen hatten / das man ouch gern[n] hette gerochen / Vnd wurden also miteina[n]andern zů ratt / das man fürer ziechen vnd etwas witer fürnemen solt / das ouch der Statt von Basel wille vnd meynung was / die ouch mit ir paner vnd vil frommer lüten im velde warent / vnd mit Soldnern vnd andern dingen gar grossen costen hatten / Vnd man zoch ouch also mit gantzer macht vnd gewalt wider in Burgunn / Vsgenomen das fůß volck von Straßburg / die wurden mit erlouben der von Bernn vnd ander / wider heim gesant / damit ir Statt vnd land dester bas möcht versůt[?] vnd beschirmt werden / dann si sich als ander vor dem hertzogen von Burgunn ouch vast besorgen müsten / nach dem inen dann me dann andern getröwt wart / vnd warnungen kament / doch ir ross volck bleib alles bi inen",
+   "preklad": "Když tedy Bernští, Solothurnští a další se svými korouhvemi a s takovou mocí přišli k Blamontu a město i hrad úplně zbořili a rozbořili, začali uvažovat o velkých nákladech, námaze a práci, které s tímto tažením měli, a mínili: kdyby se tak rychle táhlo zpět domů a nepodniklo se nic dalšího, nebylo by to pro ně všechny příliš čestné. Uvažovali také a pamatovali na to, že stateční lidé ze Sundgau předtím stáli před hradem Grammont [?] a utrpěli škodu, kterou by se také rádo pomstilo. Usnesli se tedy spolu, že se má táhnout dál a podniknout něco dalšího. To byla také vůle a mínění města Basileje, jež bylo rovněž se svou korouhví a mnoha statečnými lidmi v poli a mělo se žoldnéři a jinými věcmi velmi velké náklady. Táhlo se tedy s celou mocí a silou znovu do Burgundska. Vyjma štrasburské pěší; ti byli se svolením Bernských a dalších posláni zpět domů, aby jejich město a země mohly být tím lépe opatřeny [?] a chráněny. Neboť se museli stejně jako jiní velmi obávat vévody Burgundského, protože jim se vyhrožovalo víc než jiným a přicházela varování. Avšak jejich jízda zůstala celá u ostatních."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 442,
+   "popis": "dokončená kolorovaná miniatura – pochod vojska do Burgundska: zástup pikenýrů s bílými kříži a korouhvemi (Solothurn, Bern s medvědem), vlevo jezdec; vpravo dole u kašny líbající se dvojice; v pozadí jezero s loďkou, skály a hrad na kopci"
+  },
+  {
+   "strana": 443,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 442,
+   "text": "442 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou S"
+  },
+  {
+   "strana": 443,
+   "text": "443 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 441,
+   "text": "„So wurden wart ouch das gros gůt“ – písař zřejmě přepsal; čtu „So wart ouch“"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a další se svými korouhvemi táhli od Blamontu dál do Burgundska a hledali své nepřátele",
+ "poznamky_prekladu": [
+  "„Gramont[?]“ = Grammont (Franche-Comté, u Montbéliardu); porážka Sundgauských se podle dřívějšího vyprávění (s. 415) odehrála u Blamontu – písař zde píše „Gramont“.",
+  "„versůt[?]“ = snad „versorgt“ (opatřeno, zajištěno), čtení nejisté."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

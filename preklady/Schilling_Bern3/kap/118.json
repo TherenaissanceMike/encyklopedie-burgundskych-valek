@@ -1,0 +1,56 @@
+{
+ "cislo": 118,
+ "nadpis": "Das der von hagenbach mit dem Swert vor aller menglichem gericht wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 238,
+ "strany": [
+  238,
+  239,
+  240
+ ],
+ "odstavce": [
+  {
+   "text": "Und darnach ward er dem henker bevolhen / vnd an einer gemeinen richtstat da man dann semlich übeltetig lüte gewonlichen richtet / wart im desselben tages sin houpt abgeslagen / wie wol er nach sinem verdiene[n] als ouch davor gemelt ist / eins strengern todes wirdiger gewesen were / Daran man billich gedencken / sich nieman sins gewaltes in hochvart zů vast überheben / dann alwegen das so gotte vnd dem rechten dienet / on verachtung / vnd dennocht mit zimlicher erbermde menglich bedencke[n] sol / Er wart ouch als demütig / da man im verurteilt vnd usfürt / das er yederman durch gottes vnd siner můter magt Marien willen bat / vnd anrůft / das man im vergeben / vnd got für in bitten wolt / da durch menig mensch zů erbermd mit im bewegt / vnd wart gen hagenbach gefürt vnd zů sinen vordern bestatt / Zů disem rechten wurden ouch der eidgno[ssen] halb vn[d] in ir aller namen gesatzt / von Bernn herr peterman von wabern Ritter / vnd von Lutzern heinrich hasfurter / Es was ouch der gröst lanttag der in den selben landen ye gehalten wart vnd was das nit vnbillich / wann yederman ein gros verwundern ab des wütrichs gevangnüss vnd sinem wesen hat / der almechtig ewig gotte well sich dennocht nach minem begern über die arme sele erbarmen / vnd ir die ewig rüw verlichen",
+   "preklad": "Potom byl předán katovi a na obecném popravišti, kde se obvykle takoví zločinní lidé popravují, mu téhož dne byla stata hlava, ačkoli by byl podle svých zásluh, jak už bylo řečeno, hoden přísnější smrti. Na to je správné pamatovat, aby se nikdo ve své moci v pýše příliš nevyvyšoval, ale aby vždy dbal toho, co slouží Bohu a právu, bez pohrdání [druhými] a přece s náležitým milosrdenstvím ke každému. Byl také tak pokorný, když ho odsoudili a vyváděli, že každého pro Boha a pro jeho matku Pannu Marii prosil a vzýval, aby mu odpustili a chtěli se za něho modlit Bohu, čímž bylo mnoho lidí pohnuto k soucitu s ním. Byl odvezen do Hagenbachu a pohřben u svých předků. K tomuto soudu byli také za Spřísežence a ve jménu jich všech dosazeni: z Bernu pan Petermann von Wabern, rytíř, a z Luzernu Heinrich Hasfurter. Byl to také největší zemský soud, jaký se v těch zemích kdy konal, a nebylo to nespravedlivé, neboť každý se velice divil zajetí toho ukrutníka a jeho počínání. Věčný všemohoucí Bůh nechť se přesto podle mého přání nad tou ubohou duší smiluje a dá jí věčné odpočinutí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 239,
+   "popis": "dokončená kolorovaná miniatura – poprava Petera von Hagenbach u Breisachu: na louce před městem s věžemi zástup měšťanů v pruhovaných pláštích a čepicích; vpředu klečí Hagenbach se sepjatýma rukama a zavázanýma očima, za ním kat s obouručním mečem napřaženým k ráně; vlevo kněz/mnich v kápi s krucifixem; na zemi meč a odložený plášť"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 239,
+   "text": "239 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 240,
+   "text": "240 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "pripisky": [
+  {
+   "strana": 238,
+   "text": "pozdější ruka (kurzíva 16. stol.?), hnědým inkoustem pod rubrikou, na okraji velké „D“:"
+  },
+  {
+   "strana": 238,
+   "text": "Wie sich der von hagenbach solcher vrtheil vorhin verwägen hatt."
+  },
+  {
+   "strana": 238,
+   "text": "Der von hagenbach was jn einem thurn gelegen / neben jm[?] der Statt Brysach / dadurch jedermann müst zichen vnd ghan / daß er mit den thorwächtern mocht reden / Vnd was je / wyl er gfangen lag / hinyn rait[?] / fragte er allwegen wär es wäre / So lang biß der Eidgnossen botten mit den beschrottnen[?] mäntlen[?] ynrytend / Da fragte er aber siner gewonheit nach / wär da yngeritten wäre / Vnd do jm der torhütter nit anders[?] sagen kont / dann daß es Schwyzer[?] wärent mit beschrottenen[?] Röcken / Da sprach er / Jch hör daß es die Eidgnossen sind / Min läben ist vß / Dan er wußt / wie er der Eidgnossen botten zů Basel / da der alt Keiser da was / geschändert[?] vnd gestrafft[?] / für ein keiser[?] verdienen[?] / auch hinder[?] sich[?] von jnen gredt / da jm der Hr. Niclaus von Dießbach getröwt hatt / jm müßt solichs angeschriben werden."
+  }
+ ],
+ "nadpis_preklad": "Jak byl Hagenbach před zraky všech popraven mečem",
+ "poznamky_prekladu": [
+  "Poprava proběhla 9. 5. 1474 večer v Breisachu (mimo přepis).",
+  "Hagenbach = rodový hrad/obec Hagenbach v Sundgau (Horní Alsasko) (mimo přepis).",
+  "Zástupci Spříseženců u soudu: Petermann von Wabern (Bern) a Heinrich Hasfurter (Luzern)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

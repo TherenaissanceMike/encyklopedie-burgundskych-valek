@@ -1,0 +1,31 @@
+{
+ "cislo": 84,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] denen von Basel gar trostlich zů seiten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 178,
+ "strany": [
+  178,
+  179
+ ],
+ "odstavce": [
+  {
+   "text": "Dis ir ernstlich anbringen / da das gemeiner eidgno[ssen] botten von Stetten vnd lendern verstůnden / vnd ouch in grunde betrachtent was inen an der Statt Basel gelegen sin möcht ob die von inen in gewalt des hertzogen von Burgunn komen solt / als man dann das in mengen weg betrachten mag / wurden die von Bernn / vnd ander eidgno[ssen] zů ratt / Vnd seiten denen von Basel zů / acht hundert man die si in ir Statt legen wolten / wann si dero begerten / der einem si alle tag dryg Basel plaphart zů Sold geben solten / vnd nit me / Vnd ob ouch si vom hertzogen von Burgunn belegert wurden / das si dann tetent als biderb lüte / So wolt man si mit der hilf gottes ritterlich vnd trostlich entschütten / vnd bis in den tod nit verlass[en] Dis was wol ein trostlich vnd erlich antwurt / dar[um] die von Basel ein gůt hertz vnd fröud gewunne[n] Wann man sich von stund an / in allen orten vnd mit iren zů gewanten / mit dem zů satz / vnd yederman mit siner paner vnd macht / dermassen zů ruste / als balde es notdürftig were worden das man dann denen von Basel si zů entschütten zů gezogen were",
+   "preklad": "Když tuto jejich vážnou žádost vyslechli poslové všech Spříseženců z měst a zemí a také důkladně uvážili, jak mnoho by na nich záviselo, kdyby jim město Basilej mělo padnout do moci vévody Burgundského, jak to lze uvažovat mnoha způsoby, usnesli se Bernští a jiní Spříseženci a přislíbili Basilejským osm set mužů, které jim chtějí položit do města, budou-li o ně žádat. Každému z nich mají [Basilejští] dávat denně tři basilejské groše žoldu a nic víc. A budou-li vévodou Burgundským obleženi a zachovají-li se jako řádní lidé, chtějí je s pomocí Boží rytířsky a statečně vyprostit a až do smrti neopustit. To byla věru povzbudivá a čestná odpověď, z níž Basilejští nabyli dobré mysli a radosti. Neboť ve všech místech (kantonech) a u jejich spojenců se hned začali připravovat s posádkou a každý se svou korouhví a mocí tak, aby Basilejským, jakmile by to bylo zapotřebí, přitáhli na pomoc a vyprostili je."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 179,
+   "text": "179 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a jiní Spříseženci Basilejským velmi povzbudivě přislíbili [pomoc]",
+ "poznamky_prekladu": [
+  "„dryg Basel plaphart“ = tři basilejské groše denně na muže; počet 800 mužů ponechán podle textu.",
+  "Pro reenactory: Spříseženci výslovně stanoví, že žold platí hostitelské město a „nic víc“ – běžná praxe při posádkách."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -18,7 +18,7 @@
   },
   {
    "text": "Do ward aber ein zug im Burgün angeschlagen von dem herzogen von Oesterich, von beden bischofen Strasburg und Basel, ouch von denselben stetten und andren, so mit den Eydgnossen in einung waren. Beschach ouch zum teil von sachen wegen, das der küng von Frankrich einen merklichen reisigen züg wider Luttringen ligen hatt zü widerstan dem herzogen von Bürgün, der denn dem herzogen von Luttringen sin ganz herzogtüm mit gewalt und an recht angewunen und erobrot hatt. Das gieng ouch zum teil mit grosser valschheit und vereterge zu; denn der küng sin volk, das in Luttringen ziechen solt, bevolen hatt dem Conthetabile von Frankrich, derselbe heimlich ein güter Burgüner was. Doch vernam ich darnach, das im sin lon ward, denn der küng von Frankrich liess im sin houpt abschlachen.",
-   "preklad": "Tehdy rakouský vévoda, oba biskupové, štrasburský a basilejský, i tatáž města a další, kteří byli s konfederáty ve spolku, opět vyhlásili výpravu do Burgundska. Stalo se tak zčásti také proto, že francouzský král měl proti Lotrinsku značné jízdní vojsko, aby se postavilo burgundskému vévodovi, který lotrinskému vévodovi mocí a bez práva dobyl a zabral celé jeho vévodství. Zčásti se to však dálo s velkou falší a zradou: král totiž svěřil své vojsko, které mělo táhnout do Lotrinska, francouzskému konetáblovi, a ten byl tajně dobrý Burgunďan. Později jsem se však dozvěděl, že dostal svou odměnu, neboť francouzský král mu dal stít hlavu."
+   "preklad": "Tehdy rakouský vévoda, oba biskupové, štrasburský a basilejský, i tatáž města a další, kteří byli se Spříseženci ve spolku, opět vyhlásili výpravu do Burgundska. Stalo se tak zčásti také proto, že francouzský král měl proti Lotrinsku značný jízdní sbor, aby se postavilo burgundskému vévodovi, který lotrinskému vévodovi mocí a bez práva dobyl a zabral celé jeho vévodství. Zčásti se to však dálo s velkou falší a zradou: král totiž svěřil své vojsko, které mělo táhnout do Lotrinska, francouzskému konetáblovi, a ten byl tajně dobrý Burgunďan. Později jsem se však dozvěděl, že dostal svou odměnu, neboť francouzský král mu dal stít hlavu."
   }
  ],
  "poznamky_editora": [
@@ -32,5 +32,6 @@
   "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

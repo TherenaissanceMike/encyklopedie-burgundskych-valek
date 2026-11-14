@@ -1,0 +1,31 @@
+{
+ "cislo": 104,
+ "nadpis": "Das der hertzog von Burgunn semlich gelt nit nemen wolt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 218,
+ "strany": [
+  218,
+  219
+ ],
+ "odstavce": [
+  {
+   "text": "Darumb so wart das selb gelt / zů vrsach als ouch die götlich vnd recht wz / genome[n] vnd vnder den vorgenanten Stetten Strassburg / Basel / vnd iren zůgewanten / die dann das vf hoche verschribung der fürsten darlichen vfbracht / vnd vor beslus der richtung vn[d] des ewigen friden gen Basel geleit / vnd ouch dem hertzogen von Burgunn das nach aller notdurft verkündt / der aber das nit nemen / dann Sunder als er meint mit gewalt die verpfanten lande innhaben vnd beherschen wolt",
+   "preklad": "Proto byly tytéž peníze z příčiny, která byla také božská a spravedlivá, vybrány mezi zmíněnými městy Štrasburkem, Basilejí a jejich spojenci, kteří je na vysoký závazek knížat zapůjčením [darlichen] opatřili, a ještě před uzavřením narovnání a věčného míru složeny v Basileji. Vévodovi Burgundskému to bylo také se vší náležitostí oznámeno. On je však nechtěl přijmout, nýbrž chtěl, jak se domníval, zastavené země držet a ovládat mocí."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 219,
+   "text": "219 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly velká prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévoda Burgundský nechtěl ty peníze přijmout",
+ "poznamky_prekladu": [
+  "„darlichen“ – snad dar-lîhen = půjčit; přeloženo „zapůjčením opatřili“.",
+  "Věta je v originále neúplná (sloveso u „genomen vnd vnder … Stetten“ chybí); přeloženo podle smyslu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

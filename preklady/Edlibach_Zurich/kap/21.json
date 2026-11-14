@@ -6,19 +6,20 @@
  "odstavce": [
   {
    "text": "Als vnsser her der römsch keysser hertzog sigmund vnn alle eignossen dess grossen punds mant über den hertzog karolus von bruguny.",
-   "preklad": "Jak náš pán, římský císař, vyzval vévodu Zikmunda a všechny konfederáty Velkého spolku k tažení proti vévodovi Karlovi Burgundskému."
+   "preklad": "Jak náš pán, římský císař, vyzval vévodu Zikmunda a všechny Spřísežence Velkého spolku k tažení proti vévodovi Karlovi Burgundskému."
   },
   {
    "text": "Inn dissen zitten also sich nun die sachen verluffen hattend so den optsat, wz der römsch keisser fridrich von östrich ouch zogen für nüs die statt wol mit Lxxxᵐ manen den er alle fürsten vnd heren frigen granffen ritter vnd knächt gemant hatt jm hilff zu schicken dessglichen hatt er ouch gemant alle richstet die jm gar uil lütten geschickt hattend vnd meint also nüss die stat mit gewalt zu enschütten vnd schlug also ein gross wagenburg nach zu dess hertzog von brugun leger vnd lag da etwen fil zitt dz mengerleig lustiger scharmützlen zu beden sitten beschach vnd dz ich nun hie die mattery kürtzre, so lasse ich nüss hie gantz fallen vnd sag fürer, da ward vnsser her der keisser zu ratt dz er liess schriben ein mondat vnd liess darjnne mannen bin sinnen keisserlichen gebotten hertzog sigmund von östrich die gemeinnen eignossen mit sampt allen puntgnossen dess grossen puntz über den hertzog von brugune zu züchen vnn den an sinnen landen vnd lütten zu schädigen mit roub brand dottschleg vnd wz den sol zu sömlichen sachen gehören nach lutt vnd sag der optgenanten mondat die dann dz gar lutter begriffen hatt.",
-   "preklad": "V těch dobách, kdy se věci seběhly, jak stojí výše, táhl také římský císař Fridrich Rakouský před město Neuss s dobrými 80 000 muži. Vyzval totiž všechna knížata a pány, svobodné pány, hrabata, rytíře a panoše, aby mu poslali pomoc; stejně tak vyzval všechna říšská města a ta mu poslala velmi mnoho lidí. Mínil tak město Neuss mocí vysvobodit. Postavil velkou vozovou hradbu blízko ležení vévody burgundského a ležel tam dosti dlouho, takže se na obou stranách odehrávaly všelijaké veselé šarvátky. Abych však látku zkrátil, nechám tu Neuss docela stranou a povím dál. Tu se náš pán císař rozhodl dát sepsat mandát a dal v něm pod svými císařskými příkazy vyzvat vévodu Zikmunda Rakouského a obecné konfederáty se všemi spojenci Velkého spolku, aby táhli proti vévodovi burgundskému a škodili mu na zemích a lidech loupeží, pálením, zabíjením a vším, co k takovým věcem patří, podle znění řečeného mandátu, který to velmi jasně obsahoval."
+   "preklad": "V těch dobách, kdy se věci seběhly, jak stojí výše, táhl také římský císař Fridrich Rakouský před město Neuss s dobrými 80 000 muži. Vyzval totiž všechna knížata a pány, svobodné pány, hrabata, rytíře a panoše, aby mu poslali pomoc; stejně tak vyzval všechna říšská města a ta mu poslala velmi mnoho lidí. Mínil tak město Neuss mocí vysvobodit. Postavil velkou vozovou hradbu blízko ležení vévody burgundského a ležel tam dosti dlouho, takže se na obou stranách odehrávaly všelijaké veselé šarvátky. Abych však látku zkrátil, nechám tu Neuss docela stranou a povím dál. Tu se náš pán císař rozhodl dát sepsat mandát a dal v něm pod svými císařskými příkazy vyzvat vévodu Zikmunda Rakouského a všechny Spřísežence se všemi spojenci Velkého spolku, aby táhli proti vévodovi burgundskému a škodili mu na zemích a lidech loupeží, pálením, zabíjením a vším, co k takovým věcem patří, podle znění řečeného mandátu, který to velmi jasně obsahoval."
   }
  ],
  "poznamky": [
   "Oprava OCR: „Lxxx®“ → „Lxxxᵐ“ (80 000), „darjune“ → „darjnne“, „optgenantien“ → „optgenanten“.",
   "„ritter vnd knächt“ = rytíři a panoše (titulární dvojice). „frigen granffen“ chápu jako „frigen, granffen“ (svobodní páni, hrabata).",
-  "Císařské vojsko stálo před Neussem až v květnu 1475 (mimo text); Edlibach to vypráví před vypovězením války z podzimu 1474. Císařskou výzvu konfederátům srov. Schilling kap. 138, 144–145.",
-  "„Velký spolek“ (grosser pund obertütschen landen): spojenectví konfederátů s Dolním spolkem (alsaská města a biskupové) a vévodou Zikmundem z let 1474 (mimo text)."
+  "Císařské vojsko stálo před Neussem až v květnu 1475 (mimo text); Edlibach to vypráví před vypovězením války z podzimu 1474. Císařskou výzvu Spřísežencům srov. Schilling kap. 138, 144–145.",
+  "„Velký spolek“ (grosser pund obertütschen landen): spojenectví Spříseženců s Dolním spolkem (alsaská města a biskupové) a vévodou Zikmundem z let 1474 (mimo text)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

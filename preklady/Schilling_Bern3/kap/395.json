@@ -1,0 +1,46 @@
+{
+ "cislo": 395,
+ "nadpis": "Das des hertzogen von österich botten von der obgenanten Graffschaft wegen ouch zů den eidgno[ssen] gen lutzern kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 894,
+ "strany": [
+  894,
+  895,
+  896
+ ],
+ "odstavce": [
+  {
+   "text": "Dem nach kamend des hertzogen von österich botten ouch gen lutzern / vnd meinten man solt irem herren die Graffschaft von Burgunn zů hannden komen lassen / dann er doch ein houpterbe desselben kriegs[?] vnd werent die eidgno[ssen] von sinen wegen darin komen / was dann der küng den eidgno[ssen] darumb geben das wolt er ouch tůn / Vnd das vmb si verdienen vn[d] erkennen / Doch wart nit darus vnd bleip dem küng der bezalt ouch die eidgno[ssen] nach irem benügen",
+   "preklad": "Nato přišli do Luzernu také poslové vévody rakouského a mínili, že by se mělo jejich pánu dovolit, aby mu hrabství Burgundské připadlo, neboť je přece hlavním dědicem téže války [?] a Spříseženci se do ní dostali kvůli němu. Co by za to Spřísežencům dal král, to chtěl dát také on, a chtěl si to u nich zasloužit a odvděčit se. Avšak nic z toho nebylo a [hrabství] zůstalo králi, který také Spřísežence vyplatil k jejich spokojenosti."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 895,
+   "popis": "skupina jezdců (rakouské poselstvo, vpředu jezdec s péřovým kloboukem, za ním muž s vysokou čepicí) jede po cestě k opevněnému městu se znaky na věžích (Lucern?); vpravo dole ptáčnická chýše z došků, z jejíhož otvoru vyčnívá tyč, kolem poletují a sedí ptáci a postava (sova/ptáčník) u vchodu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 895,
+   "text": "895 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s894), dole odstavec s iniciálou D, pod ním ozdobná kadela"
+  },
+  {
+   "strana": 896,
+   "text": "896 X (pozdější foliace, levý horní roh); nahoře rubrika s iniciálou V, pod ní celostránkový obraz, dole odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 895,
+   "text": "Zikmund Rakouský se dovolává práva na Svobodné hrabství („houpterbe“, nejisté „kriegs[?]“ – snad „lands“); hrabství zůstalo králi, který spřísežené vyplatil; ptáčnická chýše na obraze snad alegorie (vábení ptáků = lákání spříseženců penězi)"
+  }
+ ],
+ "nadpis_preklad": "Jak přišli poslové vévody rakouského kvůli výše zmíněnému hrabství také ke Spřísežencům do Luzernu",
+ "poznamky_prekladu": [
+  "Vévoda rakouský = Zikmund Habsburský (Tyrolský) (mimo přepis).",
+  "„kriegs[?]“ – čtení nejisté (snad „lands“ = země); přeloženo „války [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -12,15 +12,16 @@
  "odstavce": [
   {
    "text": "Von dem hochen tröwen, so Hagenbach mit mutwillen und gewalt den Eydgnossen zufügte und ouch dett.",
-   "preklad": "24. O velkých výhrůžkách, jimiž Hagenbach svévolně a násilně ohrožoval konfederáty, a co jim také činil."
+   "preklad": "24. O velkých výhrůžkách, jimiž Hagenbach svévolně a násilně ohrožoval Spřísežence, a co jim také činil."
   }
  ],
  "poznamky_editora": [],
  "poznamky": [
   "Oprava OCR: „zu fugten“ → „zufügte“; v odkazu odstraněno „; ^“.",
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 83) a edice ho neotiskuje.",
-  "Büchi: nadpis v rukopisech B, E a St zní „O velké pýše, výhrůžkách a zlých slovech, které Hagenbach projevoval vůči konfederátům a spojencům“."
+  "Büchi: nadpis v rukopisech B, E a St zní „O velké pýše, výhrůžkách a zlých slovech, které Hagenbach projevoval vůči Spřísežencům a spojencům“."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

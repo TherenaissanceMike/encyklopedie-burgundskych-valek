@@ -1,0 +1,40 @@
+{
+ "cislo": 28,
+ "nadpis": "Das etlich von Bernn vnd ander vs dem leger an den Swartzwald zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 61,
+ "strany": [
+  61,
+  62,
+  63
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man nů vor Waltzhůt lag / da zugent etlich von Bernn vnd ander an den Swartzwalt vnd kamen gar in ein schön dorff genant Bondorff / vnd über vielent das an einem morgen frü / vnd erstachen darinn Sechtzechen buren / vnd namen me dann viertzig gevangen / Vnd gewunne[n] inen ir vennli an / vnd me dann Sechs hundert houpt veches / das brachtent si alles in das leger gen Waltzhůt vnd teilten das vnder einanderen",
+   "preklad": "A když se tedy leželo před Waldshutem, táhli někteří Bernští a další do Schwarzwaldu a přišli k velmi pěkné vesnici jménem Bonndorf a přepadli ji jednoho rána časně. Pobili v ní šestnáct sedláků a vzali více než čtyřicet zajatců. Získali od nich také jejich praporec a více než šest set kusů dobytka; to všechno přivedli do ležení u Waldshutu a rozdělili mezi sebe."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 62,
+   "popis": "horní dvě třetiny strany – přepadení vsi Bonndorf ve Schwarzwaldu, padlí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 62,
+   "text": "62 (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 63,
+   "text": "63 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří Bernští a další táhli z ležení do Schwarzwaldu",
+ "poznamky_prekladu": [
+  "„houpt veches“ = kusů (hlav) dobytka."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

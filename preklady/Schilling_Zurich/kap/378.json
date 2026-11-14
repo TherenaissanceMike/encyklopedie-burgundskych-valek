@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "378. Die straf, so die von Bern und ander Eidgnossen von semlicher sach wegen den iren tatent.",
-   "preklad": "378. Trest, který Bernští a ostatní konfederáti kvůli té věci uložili svým lidem."
+   "preklad": "378. Trest, který Bernští a ostatní Spříseženci kvůli té věci uložili svým lidem."
   },
   {
    "text": "Semlich bös sachen und mere kament gar bald und am ersten gen Bern, die des, als nit unbillich was, usdermassen übel erschracken und vorchten den zorn gottes, der gar ze mengen malen die unschuldigen mit den schuldigen hat verderben lassen; und wurden von stund an durch si tag angesetzt und gemeinen Eidgnossen gen Lutzern verkünt. Do wart semlich mort und bös sachen von inen betracht und einhelliclich geraten und beslossen, das iederman von stetten und lendern zü den sinen, die dann bi semlichem mort gewesen und an dem küng oder andern meineidig worden oder sust über eide oder ere hinweg gangen werent, griffen und die angendes in turn und snöde gevangnüsse werfen und den nachrichtern bevelhen, die solten si nach aller notdurft martren und voltern.",
-   "preklad": "Takové zlé věci a zprávy přišly velmi brzy, a nejdříve do Bernu. Bernští se toho, jak nebylo nespravedlivé, nesmírně zle polekali a báli se Božího hněvu, který už mnohokrát nechal zahynout nevinné spolu s vinnými. Hned vypsali sněm a oznámili ho obecným konfederátům do Luzernu. Tam onu vraždu a zlé věci uvážili a jednomyslně se uradili a usnesli, že každý, města i země, má sáhnout na své lidi, kteří byli při té vraždě a stali se křivopřísežníky vůči králi nebo jiným, anebo jinak porušili přísahu či čest, a hned je vsadit do věže a do tvrdého vězení a poručit je katům, aby je, jak bude třeba, mučili a trápili na útrpném právu."
+   "preklad": "Takové zlé věci a zprávy přišly velmi brzy, a nejdříve do Bernu. Bernští se toho, jak nebylo nespravedlivé, nesmírně zle polekali a báli se Božího hněvu, který už mnohokrát nechal zahynout nevinné spolu s vinnými. Hned vypsali sněm a oznámili ho obecným Spřísežencům do Luzernu. Tam onu vraždu a zlé věci uvážili a jednomyslně se uradili a usnesli, že každý, města i země, má sáhnout na své lidi, kteří byli při té vraždě a stali se křivopřísežníky vůči králi nebo jiným, anebo jinak porušili přísahu či čest, a hned je vsadit do věže a do tvrdého vězení a poručit je katům, aby je, jak bude třeba, mučili a trápili na útrpném právu."
   },
   {
    "text": "Und wo iemand bi semlichen sachen gewesen und daran schuldig were, die solt man nach irem verdienen mit schantlichen töden richten und ouch alle von iren eren gesatzt sin und weder zü rat noch gericht niemermer genomen werden, noch kein kuntschaft wider nieman sagen, sunder ganz meineid und erlos sin und bliben. Das ouch zem teil beschach und wurdent ze Bern und andern enden gar vil gevoltert, die müsten urfechbrief über sich geben um die sachen, als obstat. Es wurden ouch etlich derselben mit schantlichen, lasterlichen töden nach irem verdienen gericht.",
@@ -18,7 +18,7 @@
   },
   {
    "text": "Und nach dem dann denen von Bern semlich sachen gar leid und widrig warent, da wurdent si betrachten und bedenken, wie si semlich und derglich bös handlungen nü fürwerthin ewiclichen abstellen und verkomen möchten, wie wol si die iren als ander Eidgnossen, wie hievor stat, ouch gestraft hattent und machten darüber ein ordnung, als harnach stat.",
-   "preklad": "A protože Bernským byly takové věci velmi líté a protivné, začali uvažovat a přemýšlet, jak by takové a podobné zlé činy mohli nyní a napříště navždy zastavit a jim předejít, ačkoli své lidi, stejně jako ostatní konfederáti, jak stojí výše, už potrestali; a vydali o tom nařízení, jak stojí dále."
+   "preklad": "A protože Bernským byly takové věci velmi líté a protivné, začali uvažovat a přemýšlet, jak by takové a podobné zlé činy mohli nyní a napříště navždy zastavit a jim předejít, ačkoli své lidi, stejně jako ostatní Spříseženci, jak stojí výše, už potrestali; a vydali o tom nařízení, jak stojí dále."
   }
  ],
  "poznamky": [
@@ -30,5 +30,6 @@
   "Oprava textu: „wie ..si“ → „wie si“."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

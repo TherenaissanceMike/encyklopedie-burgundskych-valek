@@ -34,7 +34,7 @@
   },
   {
    "text": "Von disem obgenanten Philippen und der küngin von Portigal wart geborn herzog Carolus, ir einiger erbe, von dem dann dis cronick merenteils gemacht ist; des elich gemachel heist ouch frow Margrett, ein küngin von Engellant. Und hat alle dis vorgenanten herschaften geerbt und im ouch das treffenlich land Lüttich underworfen, und hat ouch ander gros sachen wider Tütsch nacion und sunderlich wider die von Bern und ander ir Eidgnossen des grossen pundes Obertütschen landen understanden, daran im dennocht am letsten misslungen, als dann hievor zü mengenmalen erlütert ist, und hat keinen elichen sün von im geboren, dann allein ein einige tochter hinder im verlassen, genant Maria, die ist nach sinem tode vermechlet worden herzog Maximianen von Oesterich, eins Römschen keisers sün, von dem ouch harnach etwas wirt gesagt.",
-   "preklad": "Z tohoto výše jmenovaného Filipa a z portugalské královny se narodil vévoda Karel, jejich jediný dědic, o němž je tato kronika z větší části sepsána; jeho manželka se jmenuje také paní Markéta, královna [z rodu králů] anglických. Zdědil všechna výše jmenovaná panství, podrobil si také znamenitou zemi Lutych a podnikl i jiné veliké věci proti německému národu, a zvláště proti Bernským a jejich ostatním konfederátům velkého spolku hornoněmeckých zemí, což se mu však nakonec nezdařilo, jak už bylo výše mnohokrát vyloženo. Nezplodil žádného manželského syna, nýbrž po sobě zanechal jen jedinou dceru jménem Marie; ta byla po jeho smrti provdána za vévodu Maximiana Rakouského, syna římského císaře, o kterém se také dále něco poví."
+   "preklad": "Z tohoto výše jmenovaného Filipa a z portugalské královny se narodil vévoda Karel, jejich jediný dědic, o němž je tato kronika z větší části sepsána; jeho manželka se jmenuje také paní Markéta, královna [z rodu králů] anglických. Zdědil všechna výše jmenovaná panství, podrobil si také znamenitou zemi Lutych a podnikl i jiné veliké věci proti německému národu, a zvláště proti Bernským a jejich ostatním Spřísežencům velkého spolku hornoněmeckých zemí, což se mu však nakonec nezdařilo, jak už bylo výše mnohokrát vyloženo. Nezplodil žádného manželského syna, nýbrž po sobě zanechal jen jedinou dceru jménem Marie; ta byla po jeho smrti provdána za vévodu Maximiana Rakouského, syna římského císaře, o kterém se také dále něco poví."
   }
  ],
  "poznamky": [
@@ -45,5 +45,6 @@
   "Mimo Tobler: Karlova manželka Markéta z Yorku nebyla anglickou královnou, nýbrž sestrou krále Eduarda IV.; „Filip Bezzemek“ (on land) – Filip jako nejmladší syn neměl dědictví. „ufenthalten“ = poskytnout útočiště (Tobler, glosář). Varianta: „Eidgnossen und verwanten“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

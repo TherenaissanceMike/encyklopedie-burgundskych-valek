@@ -1,0 +1,37 @@
+{
+ "cislo": 25,
+ "nadpis": "Das etlich von eidgno[ssen] an den Swartzwald zugen vnd inen grossen schaden tatent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 56,
+ "strany": [
+  56,
+  57,
+  58
+ ],
+ "odstavce": [
+  {
+   "text": "Es zugen ouch etlich der eidgno[ssen] knechte an den Swartzwald / vnd gewunnen da ein starck letze / die si den eidgno[ssen] zů gegen were gemacht hatten / vnd erstachen ob achtzig mannen / vnd namen inen ein grossen roup veches / den brachten si mit inē gen Schafhusen / Si brantschatzten ouch den Abt von Sant Bläsin vmb drü tusent guldin / Daran wurden von im bezalt fünftzechen hundert guldin Vnd das überige ward von eidgno[ssen] gantz ab getedinget",
+   "preklad": "Někteří knechti Spříseženců také táhli do Schwarzwaldu a dobyli tam silný zátaras, který [nepřátelé] postavili jako obranné postavení proti Spřísežencům, a pobili přes osmdesát mužů a vzali jim velkou kořist dobytka, kterou přivedli s sebou do Schaffhausenu. Vybrali také od opata ze Svatého Blažeje výpalné tři tisíce zlatých; z toho od něho bylo zaplaceno patnáct set zlatých a zbytek mu Spříseženci zcela odpustili vyjednáváním."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 57,
+   "popis": "horní dvě třetiny strany – knechti dobývají zátaras ve Schwarzwaldu, padlí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 58,
+   "text": "58 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří ze Spříseženců táhli do Schwarzwaldu a způsobili tam velkou škodu",
+ "poznamky_prekladu": [
+  "Sant Bläsin = benediktinský klášter St. Blasien ve Schwarzwaldu (mimo přepis).",
+  "„ab getedinget“ = vyjednáním prominuto/sleveno."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

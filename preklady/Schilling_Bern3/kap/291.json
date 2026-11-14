@@ -1,0 +1,35 @@
+{
+ "cislo": 291,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] von Famerki zugen / vnd mit den vienden gar mannlichen an viengen Scharmutzen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 643,
+ "strany": [
+  643,
+  644
+ ],
+ "odstavce": [
+  {
+   "text": "Als balde man das vernam / da kert sich von stund an die paner von Bernn vnd Friburg gegen denen von Switz vnd Thün / vnd liess man das Slos Famerki stan / vnd zoch yederman von statt ein teil zů den panern von Bernn vnd Friburg vnd der ander teil vnder dem Sloß hin / da man ouch die viend bald ansichtig ward / vnd hatt yederman ernst vnd fliß si mannlichen an ze greiffen / Vnd kamen damit an beiden enden an si / vnd iagten si am ersten durch den berg nider bis zůr Carthuß / Do zwüschen ouch menger sin leben verlore / die man wol gesach in den gassen vnd an den wegen ligen / Des glich ward etlicher von eidgno[ssen] ouch wund vnd herttlichen verletzt",
+   "preklad": "Jakmile se to dozvěděli, obrátila se ihned korouhev Bernu a Fribourgu ke Schwyzským a Thunským. Hrad Vaumarcus nechali být a každý hned vyrazil: jedna část ke korouhvím Bernu a Fribourgu a druhá část pod hradem, kde také brzy spatřili nepřátele. Každý se vážně a usilovně snažil statečně je napadnout. Tak na ně udeřili z obou stran a hnali je nejprve dolů horou až ke kartouze. Přitom mnohý přišel o život; bylo je dobře vidět ležet v uličkách a na cestách. Stejně tak byli někteří ze Spříseženců zraněni a těžce poraněni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 643,
+   "popis": "kolorovaná kresba s rubrikou v banderole – první srážka u Vaumarcus: vlevo burgundští jezdci pod prapory s ondřejským křížem a erbem s ocílkami útočí, vpravo švýcarští pikenýři a halapartníci s bílými kříži v lese a křoví, vpravo nahoře korouhve (Schwyz, Thun s hvězdou); vpředu padlý kůň a zraněný burgundský rytíř; vlevo nahoře hrad"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 644,
+   "text": "644 XX (pozdější foliace, levý horní roh); nahoře 5 řádků textu, pod ním celostránková kolorovaná kresba s rubrikou vepsanou do banderoly"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a další Spříseženci táhli od Vaumarcus a velmi statečně začali s nepřáteli šarvátky",
+ "poznamky_prekladu": [
+  "Carthuß = kartuziánský klášter La Lance u Concise (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

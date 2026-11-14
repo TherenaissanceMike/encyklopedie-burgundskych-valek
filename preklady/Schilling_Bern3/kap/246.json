@@ -1,0 +1,46 @@
+{
+ "cislo": 246,
+ "nadpis": "Das die von Zurich vnd ander eidgnoss[en] mit iren panern ouch harnach kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 533,
+ "strany": [
+  533,
+  534
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach kamen die von Zurich vnd ander eidgno[ssen] mit iren panern / die laten[?] sich gen Losann in die Statt / vnd allenthalben in die dörffer / vnd schickten ir botten von allen orten zer Morse / mit den andern zů ratt werden / was man nů fürbas tůn / oder war ma[n] ziechen wolt / Dann des Grafen von Roymond landschaft / namlich die Wätt / hatt sich miteinandern ergeben / vnd was ouch gantz gewunne[n] vnd erobert / Do wart man bedencken der Safoyern vntrüw / wider gemein eidgno[ssen] von inen menigvaltig beschechen / vnd besunder wart man betrachten der mergklichen tücken der von Jenff / das si die eidgno[ssen] vnd ander tütschen gar vast gehasset / vnd inen merglichen widerdries getan hatten / namlichen an herr Josen von Silenen probst zů Münster im Ergow / vnd an herr Niclausen von Diespach Rittern / die dann In gemeiner eidgno[ssen] namen zem küng geritten waren / vnd da si wider harus gen Jenf kamen / da wart inen groß smach mit worten vnd wercken erbotten / Vnd sunderlichen herr Niclaus von Diessbach / den fůrten si von einem zů dem andern gevangen / als ob er ein schedlicher man wer gewesen / on alle ursach vnd kamen mit grossen sorgen vnd listen von Jenff / das vnd anders lag denen von Bern vnd andern eidgno[ssen] vast ob / vnd was yederman geneigt gen Jenf zů ziechen / Semliche smach vnd schand an inen zů rechen / vnd si nach irem verdienen straffen",
+   "preklad": "Potom přitáhli Curyšští a další Spříseženci se svými korouhvemi. Ubytovali se [?] v Lausanne ve městě a všude po vesnicích a ze všech míst (kantonů) poslali své posly do Morges, aby se s ostatními poradili, co se má dále dělat nebo kam se má táhnout. Neboť krajina hraběte z Romontu, totiž Vaud, se celá vzdala a byla také úplně dobyta a podmaněna. Tehdy se začalo uvažovat o věrolomnosti Savojských, které se mnohonásobně dopustili proti všem Spřísežencům. Zvláště se uvažovalo o velkých úskocích Ženevských: že Spřísežence a jiné Němce velmi nenáviděli a způsobili jim značná příkoří, totiž panu Jostovi von Silenen, proboštovi v Beromünsteru v Aargau, a panu Niklausovi von Diesbach, rytíři, kteří jménem všech Spříseženců jeli ke králi. Když se odtud vraceli přes Ženevu, dostalo se jim velké potupy slovy i činy. Zvláště pana Niklause von Diesbach vodili jako zajatce od jednoho k druhému, jako by byl nějaký zločinec, bez jakékoli příčiny, a z Ženevy se dostali jen s velkými obavami a lstí. To i jiné Bernské a ostatní Spřísežence velmi tížilo a každý byl ochoten táhnout na Ženevu, aby takovou potupu a hanbu na nich pomstil a potrestal je podle zásluhy."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 533,
+   "popis": "kolorovaná kresba – zástup pikenýrů s bílými kříži, s korouhvemi (Uri s býčí hlavou s kruhem v nose, další) táhne k opevněnému městu s branou a prázdným štítem nad ní; v pozadí jezero s loďkou, kopce, hořící budova"
+  },
+  {
+   "strana": 534,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 534,
+   "text": "534 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 533,
+   "text": "„die laten sich“ – snad „leiten sich“ (ubytovali se); korouhev s býčí hlavou = Uri"
+  }
+ ],
+ "nadpis_preklad": "Jak přitáhli také Curyšští a další Spříseženci se svými korouhvemi",
+ "poznamky_prekladu": [
+  "„die laten[?] sich“ – snad „leiten sich“ = ubytovali se, utábořili se (nejisté čtení).",
+  "„zer Morse“ = do Morges, kde se radili poslové Spříseženců; „die Wätt“ = Vaud (Waadt), země hraběte Jakuba Savojského z Romontu (mimo přepis).",
+  "Králem je míněn francouzský král Ludvík XI.; Jost von Silenen byl probošt v Beromünsteru (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

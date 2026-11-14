@@ -1,0 +1,31 @@
+{
+ "cislo": 86,
+ "nadpis": "Das ein botschaft von gemeiner eidgnossen wegen vnd in irem namen zem hertzogen von Burgundien geordnet wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 181,
+ "strany": [
+  181,
+  182
+ ],
+ "odstavce": [
+  {
+   "text": "Und da nü die von Bernn vnd Sollotern / denen dann nit allein von ir anstossenden landtschaft / Sunder ouch von ir eidgno[ssen] / dero von Müllhusen / vnd ander sachen vnd vngerechtkeiten wegen / die dann wie vor zem teil stat / inen vnd gemeiner eidgnosschaft / des von heüdorf / ouch der von Schafhusen / der nüwen zöllen ze waltzhůt vnd ir gevangnen koufluten halb / von dem lantvogt dem von hagenbach mengerley begegnet warent / vnd an disen dingen vil gelegen was des hertzogen von Burgunn zůkunft vernament dachtent si den eren nach / vnd mit ratt der eidgnossen Vnd in ir aller namen ordnetent si ein treffenliche botschaft / von den drin Stetten Bernn / Friburg vnd Sollotern / zů im in das Suntgow / Vnd schriben im aber vorhin / als harnach statt",
+   "preklad": "Bernským a Solothurnským se od zemského fojta Hagenbacha přihodilo mnoho věcí – nejen od jejich sousední krajiny, nýbrž i kvůli jejich spříseženci, městu Mulhouse, a kvůli jiným věcem a křivdám, jak je zčásti výše uvedeno, které se týkaly jich i celého Spříseženstva: kvůli Heudorfovi, také kvůli Schaffhauským, kvůli novým clům ve Waldshutu a kvůli jejich zajatým kupcům. Protože jim na těch věcech mnoho záleželo, uvažovali, když se dozvěděli o příchodu vévody Burgundského, jak by to bylo čestné, a s radou Spříseženců a jménem všech vypravili k němu do Sundgau význačné poselstvo ze tří měst Bernu, Fribourgu a Solothurnu. Předtím mu však ještě napsali, jak následuje."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 182,
+   "text": "182 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak bylo za všechny Spřísežence a jejich jménem vypraveno poselstvo k vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "Mulhouse byl od roku 1466 ve spolku s Bernem a Solothurnem (mimo přepis); Schilling je nazývá „ir eidgnossen“.",
+  "Souvětí je v originále velmi spletité; rozděleno do několika vět."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

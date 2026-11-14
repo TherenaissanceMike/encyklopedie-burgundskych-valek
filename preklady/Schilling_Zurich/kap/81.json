@@ -6,18 +6,19 @@
  "odstavce": [
   {
    "text": "81. Das ein botschaft von gemeiner Eidgnossen wegen zem herzogen geordnet wart.",
-   "preklad": "81. Jak bylo jménem všech konfederátů vypraveno poselstvo k vévodovi."
+   "preklad": "81. Jak bylo jménem všech Spříseženců vypraveno poselstvo k vévodovi."
   },
   {
    "text": "Und do nü die von Bern und Solotern, denen dann nit allein von ir anstossenden landschaft, sunder ouch von ir Eidgnossen, der von Mulhusen und ander sachen und ungerechtikeit wegen, die dann, wie vor zem teil stat, inen und gemeiner Eidgnosschaft herr Bilgris von Höwdorfs, ouch der von Schafhusen, der nüwen zöllen zü Walzhüt und ir gevangnen kouflüten halb von dem lantvogt, dem von Hagenbach, mengerlei begegnet warent und an disen dingen vil gelegen was, des herzogen von Burgunnen zükunft vernament, tatent si als wise lüte, und mit rat der Eidgnossen und in ir aller namen ordnetent si ein treffenliche botschaft zü im in das Sunkow und schribent im aber vorhin, als harnach stat.",
-   "preklad": "Bernští a Solothurnští se setkali s mnoha křivdami nejen kvůli své sousední krajině, ale i kvůli svým konfederátům, Mulhouským a jiným věcem a bezprávím, které jim i celému Spříseženstvu, jak zčásti stojí výše, působil zemský fojt Hagenbach ve věci pana Bilgeriho von Höwdorf, Schaffhausenských, nových cel ve Waldshutu a jejich zajatých kupců; a na tom všem mnoho záleželo. Když se nyní dozvěděli o příchodu burgundského vévody, učinili jako moudří lidé: s radou konfederátů a jménem všech k němu vypravili do Sundgau znamenité poselstvo, a předtím mu ještě napsali, jak stojí dále."
+   "preklad": "Bernští a Solothurnští se setkali s mnoha křivdami nejen kvůli své sousední krajině, ale i kvůli svým Spřísežencům, Mulhouským a jiným věcem a bezprávím, které jim i celému Spříseženstvu, jak zčásti stojí výše, působil zemský fojt Hagenbach ve věci pana Bilgeriho von Höwdorf, Schaffhausenských, nových cel ve Waldshutu a jejich zajatých kupců; a na tom všem mnoho záleželo. Když se nyní dozvěděli o příchodu burgundského vévody, učinili jako moudří lidé: s radou Spříseženců a jménem všech k němu vypravili do Sundgau znamenité poselstvo, a předtím mu ještě napsali, jak stojí dále."
   }
  ],
  "poznamky": [
   "Oprava nadpisu a textu (OCR): odstraněno „Ä“, „sı als’“ → „si als“.",
   "Bernské varianty: nadpis „…von gemeiner Eidgnossen wegen und in irem namen zem herzogen von Burgundien geordnet wart“; „des von Höwdorf“; „tatent si den eren nach und mit rat…“ (učinili, jak velí čest); poselstvo „von den drin stetten Bern, Friburg und Solotern“ (od tří měst Bernu, Fribourgu a Solothurnu).",
-  "Bilgeri von Heudorf, nepřítel konfederátů, viz kap. 73 (der von Höwdorf)."
+  "Bilgeri von Heudorf, nepřítel Spříseženců, viz kap. 73 (der von Höwdorf)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

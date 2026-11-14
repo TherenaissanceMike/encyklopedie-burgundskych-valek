@@ -10,7 +10,7 @@
   },
   {
    "text": "Darzü gewunnen ouch dero von Bern und ander der Eidgnossen knechte etlich slos und stark hüser und vil gütes darinne und erstachen der vienden vil, wo si die mochten ankomen; dann alle diewile man zü Grangii oder andern enden lag, do mochtent si nit still ligen und luffent tag und nacht umb roubens willen uf die viend, des ouch etlichem der lone wart.",
-   "preklad": "Kromě toho dobyli knechti Bernských a jiných konfederátů také několik hradů a pevných domů a v nich mnoho statků a pobili mnoho nepřátel, kdekoli je mohli dostihnout. Po celou dobu, co se leželo u Granges nebo jinde, totiž nevydrželi v klidu a dnem i nocí vybíhali na nepřítele kvůli loupení, za což se také leckomu dostalo odplaty."
+   "preklad": "Kromě toho dobyli knechti Bernských a jiných Spříseženců také několik hradů a pevných domů a v nich mnoho statků a pobili mnoho nepřátel, kdekoli je mohli dostihnout. Po celou dobu, co se leželo u Granges nebo jinde, totiž nevydrželi v klidu a dnem i nocí vybíhali na nepřítele kvůli loupení, za což se také leckomu dostalo odplaty."
   }
  ],
  "poznamky": [
@@ -20,5 +20,6 @@
   "Oprava textu: odstraněna zbloudilá závorka na konci („wart.)“)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

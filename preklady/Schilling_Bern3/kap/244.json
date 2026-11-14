@@ -1,0 +1,50 @@
+{
+ "cislo": 244,
+ "nadpis": "Das Jungis das Sloß von den Soldnern verbrant wart / vnd si dannen zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 528,
+ "strany": [
+  528,
+  529,
+  530
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die dryg Stett Bern / Friburg vnd Sollotern / vnd mit inen die von Lutzernn ir knecht vnd Soldner langezit zů Jungis vnd in den andern Slossen hatten gehebt / da wolt nieman me zů Jungis bliben vnd ward yederman vnlustig / dann man vorcht man wurd etwann / so manß aller mynst vertrüwt / lüt da verlieren / vnd wart man zů ratt / das man allen züg von büchsen / vnd andern dingen dannen nemen / vnd dann dz gůt starck Sloß / das doch ein rechte paß des landes was / anstossen vnd verbrennen solt Semlichs ouch nach notdurft beschach / Das ward aber nachmaln die von Bernn vnd ander ir verwanten gar übel gerüwen / dann hette man es also lassen stan / vnd mit lüten vnd züge nach notdurft besatzt / der hertzog von Burgunn hett nit mögen als liechtlich harin rucken / als man harnach gar lüter vindet",
+   "preklad": "A protože tři města Bern, Fribourg a Solothurn a s nimi Luzernští měli dlouhou dobu své knechty a žoldnéře v Jougne a v jiných hradech, nechtěl už nikdo v Jougne zůstávat a každý byl nevrlý, neboť se obávali, že by tam někdy, až by se to nejméně čekalo, mohli lidé přijít o život. Usneslo se tedy, že se odtamtud odveze všechna výzbroj, děla i jiné věci, a pak se ten dobrý silný hrad, který byl přece pravým průsmykem do země, zapálí a spálí. To se také náležitě stalo. Ale Bernští a jejich další spojenci toho později velmi zle litovali, neboť kdyby se byl hrad nechal stát a byl náležitě osazen lidmi a výzbrojí, nebyl by vévoda Burgundský mohl tak snadno vtáhnout do země, jak se dále velmi jasně najde."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 529,
+   "popis": "kolorovaná kresba – odchod posádky z Jougne: vlevo hořící hrad, z brány vycházejí pikenýři, vpravo jezdci a pěší s bílými kříži odjíždějí; uprostřed jezero s plachetní lodí plnou vojáků, v pozadí města a hory"
+  },
+  {
+   "strana": 530,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 529,
+   "text": "529 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 530,
+   "text": "530 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (s vodními skvrnami); dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 528,
+   "text": "Cussenay = Cossonay"
+  }
+ ],
+ "nadpis_preklad": "Jak žoldnéři spálili hrad Jougne a odtáhli odtud",
+ "poznamky_prekladu": [
+  "Jougne střežil průsmyk z Franche-Comté do Vaudu (mimo přepis); tudy na počátku roku 1476 vtáhl vévoda Karel před Grandson.",
+  "„züg von büchsen“ = výzbroj, děla (dělostřelectvo)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

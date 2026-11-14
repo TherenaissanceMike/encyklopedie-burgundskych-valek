@@ -1,0 +1,49 @@
+{
+ "cislo": 250,
+ "nadpis": "Das die von Bernn / Lutzernn / Friburg vnd Sollottern Iferdun vnd Granson mit den iren nach notdurft besatzten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 541,
+ "strany": [
+  541,
+  542,
+  543
+ ],
+ "odstavce": [
+  {
+   "text": "Die von Bernn / Lutzernn / Friburg vnd Sollottern / besatzten ouch in dem Iferde[n] vnd Granson Stett vnd Sloß / nach aller notdurft / vnd als man noch nit vil vertrüwens noch gloubens zů denen von Iferdun hatt / So wurden us ir Statt genomen acht manne von den richesten / vnd den gewaltigeste[n] vnd in die vier Stette in yeglich zwen geleit Vnd beschach das darumb / das si destminder vntrüw vnd verreterie möchten triben / Es bestůnd aber nit lang / dann die von Iferdun wurbent gar menig mal an die vier Stett / dz man den iren heim erlouben / So wolten si die selben vnd ouch ander an ir statt / alwegen in kurtzem wider dar senden / vnd anders nit tůn / dann das frommen lüten gebürt / vnd si ouch das gesworen hetten / das tribent si als lang bis die selben acht manne wider heim kament Vnd da man inen wol vertrüwt / vnd man sich zů inen keins argen versach / vnd die Soldner von den vier Stetten da lagen / vnd nieman nit tatent / dann mit menglichem wol lebten / vn[d] ouch yederman das sin bezalten / da hattent die von Iferden heimlich verreterie wider si an getragen / vnd wurden darnach in einer nacht die selben fromen lüte mortlich vnd schantlich überfallen / vnd mit inen gehandlet / als dann in der selben mort nacht harnach lüter vnd witer gemeldet statt",
+   "preklad": "Bernští, Luzernští, Fribourgští a Solothurnští také obsadili města a hrady Yverdon a Grandson podle vší potřeby. A protože se Yverdonským ještě příliš nedůvěřovalo ani nevěřilo, bylo z jejich města vzato osm mužů z nejbohatších a nejmocnějších a umístěno do těch čtyř měst, do každého dva. To se stalo proto, aby tím méně mohli páchat věrolomnost a zradu. Netrvalo to však dlouho, neboť Yverdonští se velmi mnohokrát ucházeli u čtyř měst, aby jejich lidem dovolila domů; pak prý vždy v krátké době pošlou zpátky tytéž nebo jiné na jejich místo a nebudou činit nic jiného, než co se sluší na poctivé lidi a k čemu se také zavázali přísahou. Naléhali tak dlouho, až se oněch osm mužů vrátilo domů. A když se jim dobře důvěřovalo a nikdo od nich nic zlého neočekával, a žoldnéři ze čtyř měst tam leželi, nikomu nic nedělali, se všemi dobře vycházeli a každému platili, co mu patřilo, tu Yverdonští proti nim tajně kuli zradu. Potom byli jedné noci tito poctiví lidé vražedně a hanebně přepadeni a naloženo s nimi tak, jak se dále jasněji a šířeji vypráví o té vražedné noci."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 542,
+   "popis": "kolorovaná kresba – posádka vchází do Yverdonu: pikenýři s bílými kříži, pištec a bubeník procházejí branou s palisádou, velitel s péry, dlouhé vlající prapory (Bern s medvědem, další) nad zástupem; v pozadí kopce"
+  },
+  {
+   "strana": 543,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 542,
+   "text": "542 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 543,
+   "text": "543 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 541,
+   "text": "„den irren“ – čtení nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští, Luzernští, Fribourgští a Solothurnští obsadili Yverdon a Grandson svými lidmi podle potřeby",
+ "poznamky_prekladu": [
+  "Vražedná noc v Yverdonu – přepadení posádky v lednu 1476 (mimo přepis), Schilling ji popisuje později."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

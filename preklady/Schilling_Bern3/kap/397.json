@@ -1,0 +1,50 @@
+{
+ "cislo": 397,
+ "nadpis": "Das Arberg Statt vnd Sloß mitteinandern verbrant",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 898,
+ "strany": [
+  898,
+  899,
+  900
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Jar an des heiligen crütz tag zů meyen vmb die achtende stund vor mittage als dann yederman in der kilchen was / Ging füre an in peter Cüntzis des venners hus / Vnd verbran leider Statt vnd Sloß mitteinandern / vnd alles das darinn was von husratt vnd allen andern dingen / vnd wurden arm lüt / do dann nieman nit us kam usgenomen die kilchen vnd des priesters hus bleip stan / Vnd was in denen ziten vogt ze Arberg hanns von Grafenried / dem verbran in dem Sloß was er hatt / doch wart im nachmalen von denen von Bernn etwas daran damit er sins schadens ergetzet wart / Man tet ouch den armen lüten daselbs mengerley vorteils mit korn gelt husratt tůch vnd anndern dingen / darzů hatt ouch die Statt das wider zů buwen mergklichen costen gehebt",
+   "preklad": "Zmíněného roku, na den svatého Kříže v květnu, kolem osmé hodiny dopoledne, když byli všichni v kostele, vypukl oheň v domě praporečníka Petera Cüntziho. A shořelo, bohužel, město i hrad dohromady a všechno, co v nich bylo, domácí zařízení i všechny ostatní věci, a lidé zchudli. Nevyvázlo nic, jen kostel a farářův dům zůstaly stát. A v těch časech byl fojtem v Aarbergu Hans von Grafenried; tomu na hradě shořelo, co měl, ale Bernští mu potom něco poskytli, aby byl za svou škodu odškodněn. Také tamějším chudým lidem se dostalo všelijaké pomoci obilím, penězi, domácím zařízením, suknem a jinými věcmi. K tomu mělo město se znovuvybudováním značné náklady."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 899,
+   "popis": "hořící město a hrad Aarberg – plameny šlehají ze střech a věží; u brány s můstkem muž s rozpřaženýma rukama, lidé (ženy i muži) prchají s ranci a nůší; vpravo řeka/jezero s člunem a veslaři, kopec a keře"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 899,
+   "text": "899 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s898), dole odstavec; iniciála I nevyvedena (jen předkreslený kruh na okraji)"
+  },
+  {
+   "strana": 900,
+   "text": "900 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz z s899); konec odstavce, uprostřed rubrika s iniciálou V, pod ní odstavec s iniciálou I (místo pro obraz vynecháno)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 899,
+   "text": "požár Aarbergu o svátku Nalezení sv. Kříže 3. května 1477, kolem 8. hodiny ráno, vznikl v domě praporečníka Petera Cüntziho; ušetřen jen kostel a fara"
+  },
+  {
+   "strana": 900,
+   "text": "fojt v Aarbergu Hans von Grafenried"
+  }
+ ],
+ "nadpis_preklad": "Jak Aarberg, město i hrad, společně vyhořel",
+ "poznamky_prekladu": [
+  "Den sv. Kříže v květnu (Nalezení sv. Kříže) 1477 = 3. 5. 1477 (juliánský kalendář).",
+  "„venner“ = praporečník (velitel městské korouhve); Peter Cüntzi."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

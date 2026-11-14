@@ -19,11 +19,12 @@
  ],
  "poznamky": [
   "Tobler: Schilling měl patrně na mysli Hagenbachův list z 22. 1. 1473 (Mossmann, Cartulaire IV, 97 n.), v němž zemský fojt připouští, že řekl, že Mulhouse je plevel v růžové zahradě, který je třeba vytrhnout; jinak by nebylo krásnější růžové zahrady než Sundgau, Alsasko a Breisgau.",
-  "„kügstal“ = kravín (glosář: Kuhstall). Narážka na tehdejší posměšnou nadávku Švýcarům jako „kravařům“ (Kuhschweizer), jíž se urážela i města spojená s konfederáty (mimo Tobler).",
+  "„kügstal“ = kravín (glosář: Kuhstall). Narážka na tehdejší posměšnou nadávku Švýcarům jako „kravařům“ (Kuhschweizer), jíž se urážela i města spojená se Spříseženci (mimo Tobler).",
   "„verstentnüs“ = dohoda Burgundska s Bernem, Solothurnem, Curychem a Fribourgem z 22. 5. 1467 (viz kap. 56).",
   "Bernské varianty: nadpis „mit schriben und andern bösen dingen“; „der allermechtigest in der cristenheit wer“ (nejmocnější v křesťanstvu) místo „in der welt“; „darzü gezwungen“; „an sinem libe oder gut … verkümbern“.",
   "Oprava textu: odstraněn zbytek OCR „em]“, dále „Muülhusen“ → „Mülhusen“, „lüute“ → „lüte“, „züu“ → „zü“, „das:“ → „das“, „werent,.“ → „werent,“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

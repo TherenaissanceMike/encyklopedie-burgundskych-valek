@@ -1,0 +1,40 @@
+{
+ "cislo": 66,
+ "nadpis": "Das der hertzog von Burgunn herrenn peteren von hagenbach zů lantvogt macht",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 144,
+ "strany": [
+  144,
+  145,
+  146
+ ],
+ "odstavce": [
+  {
+   "text": "Die erber vnd zimlich nü solich antwurt / die man den Burgunschen botten gab was / So hat sich über das alles der hertzog von Burgunn nützit destminder des regiments der selben vnd ander verpfanten landen / in hocher verachtunge gemeiner eidgno[ssen] vnd tütschen nation angenomen Vnd damit als er wonde / im selber einen starcken ingang ze machen / da durch er tütsch land vnd die eidgno[ssen] dester bas zwingen möcht / So hatt er über die selben verpfanten lande vnd Stett in sinem name einen lantvogt gemacht / genant herr peter von hagenbach / der dann davor in vergangnen Jaren vmb mercklich boßheiten / verreterie vnd missetaten us tütschen landen flüchtig worden / Vnd lange zit des hertzogen von Burgunn diener / vnd im allen vntaten im vast glich gewesen was",
+   "preklad": "Ačkoli tedy odpověď, kterou dali burgundským poslům, byla poctivá a slušná, vévoda Burgundský se přesto přes to všechno, s velkým pohrdáním všemi Spříseženci i německým národem, nicméně ujal vlády nad těmito i jinými zastavenými zeměmi. A aby si, jak se domníval, udělal silný vstup, jímž by mohl tím lépe podrobit německou zemi i Spřísežence, ustanovil nad těmito zastavenými zeměmi a městy svým jménem zemského fojta jménem pan Peter von Hagenbach. Ten předtím v minulých letech pro velké ničemnosti, zradu a zločiny uprchl z německých zemí, byl dlouho služebníkem vévody Burgundského a ve všech zlých skutcích se mu velmi podobal."
+  },
+  {
+   "text": "Der nü in anfang sins regiments / als ein gar grymmer durechter / so den willen sins herrenn us vil geschichten wol erkant / sich desselben amptes stoltzmüticlichen an nam / vnd eins wegs sich den eidgno[ssen] zů wider wertigen / mit nüwen vngehörten zöllen vnd schatzungen / so er anders dann von altem her komen was / wider die fünfzechen Jerigen[?] / vnd ouch ander friden vnd richtungen / vor waltzhůt vnd anderen enden troffē daselbs zů waltzhůt / vnd ouch anderswo vff dem Rine / über die eidgno[ssen] vnd die iren vff geleit vnd erdacht han / der doch die eidgno[ssen] in deheins wegs vertragen noch liden wolten",
+   "preklad": "Ten se tedy na počátku své vlády jako velmi ukrutný pronásledovatel, který dobře znal vůli svého pána z mnoha příhod, ujal toho úřadu pyšně a hned se postavil Spřísežencům na odpor. Novými, neslýchanými cly a dávkami, jiným způsobem, než bylo odedávna obyčejem, proti patnáctiletému [?] míru a také proti jiným mírům a narovnáním uzavřeným ve Waldshutu a jinde, je uvalil a vymyslel na Spřísežence a jejich lidi tamtéž ve Waldshutu i jinde na Rýně. To však Spříseženci nijak nechtěli strpět ani snést."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 145,
+   "text": "145 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  },
+  {
+   "strana": 146,
+   "text": "146 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že vévoda Burgundský udělal pana Petera von Hagenbach zemským fojtem",
+ "poznamky_prekladu": [
+  "„fünfzechen Jerigen[?]“ – čtení nejisté; míněn snad patnáctiletý mír mezi Rakouskem a Spříseženci z Kostnice 1461 (mimo přepis).",
+  "Peter von Hagenbach (asi 1420–1474), burgundský zemský fojt v Předních zemích od 1469, popraven v Breisachu 9. 5. 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

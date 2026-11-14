@@ -10,7 +10,7 @@
   },
   {
    "text": "Der fürste von Oesterich, herzog Sigmund, hat ouch von stund an zü merer sterkunge diser dingen mit den vorgenanten fürsten und stetten und si mit im ein sunderbar vereinung gemacht, und nachmalen den herzogen von Lothringen, hern Reinharten, des lande und herzogtüm Lothringen und das Westerich gar wol harus zem Elses und Tütschen landen dienen, mit gunst der Eidgnossen in dieselbe vereinunge ouch genomen.",
-   "preklad": "Kníže rakouský, vévoda Zikmund, také ihned k většímu posílení těchto věcí uzavřel s řečenými knížaty a městy a ona s ním zvláštní spolek. Později s přízní konfederátů přijal do téhož spolku také vévodu lotrinského, pana Reinharta, jehož země a vévodství Lotrinsko a Westrich velmi dobře slouží sem k Alsasku a k německým zemím."
+   "preklad": "Kníže rakouský, vévoda Zikmund, také ihned k většímu posílení těchto věcí uzavřel s řečenými knížaty a městy a ona s ním zvláštní spolek (Dolní spolek). Později s přízní Spříseženců přijal do téhož spolku také vévodu lotrinského, pana Reinharta, jehož země a vévodství Lotrinsko a Westrich velmi dobře slouží sem k Alsasku a k německým zemím."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "„herr Reinhart“ = René II. Lotrinský. „Westrich“ = krajina mezi Lotrinskem a Falcí."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

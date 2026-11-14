@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "226. Das die von Bern und ander Eidgnossen gen Ruw und Röyment ouch zugent und das innamen und gewunnent.",
-   "preklad": "226. Jak Bernští a jiní konfederáti táhli také na Rue a Romont, obsadili je a dobyli."
+   "preklad": "226. Jak Bernští a jiní Spříseženci táhli také na Rue a Romont, obsadili je a dobyli."
   },
   {
    "text": "Nü darnach zoch man gen Ruw und Röymont und nam man das ouch in — und gap man menglichem von win, brot und andern dingen, des man bedorft, gnüg; wie wol inen nit am herzen was, so müsten si es doch tün — und do dannen den nechsten gen Friburg. Do wurdent die von Bern und ander Eidgnossen gar wol und früntlich enpfangen, als dann ein fründ und brüder den andern enpfachen sol, und noch vil bas gelassen, dann si schankten iederman insunderheit win und anders und hatten des grossen und merglichen costen, das man nach minem bedunken ouch verdienen und nit vergessen sol.",
-   "preklad": "Nato se táhlo na Rue a Romont a i ty se obsadily – a každému dávali vína, chleba a jiných potřebných věcí dost; ačkoli jim to nebylo po chuti, museli to přesto udělat – a odtud nejkratší cestou do Fribourgu. Tam byli Bernští a jiní konfederáti přijati velmi dobře a přátelsky, jak má přítel a bratr přijímat druhého, a pohoštěni ještě mnohem lépe, neboť každého zvlášť obdarovali vínem a jiným a měli s tím veliké a značné náklady, což se podle mého zdání má také oplatit a nezapomenout."
+   "preklad": "Nato se táhlo na Rue a Romont a i ty se obsadily – a každému dávali vína, chleba a jiných potřebných věcí dost; ačkoli jim to nebylo po chuti, museli to přesto udělat – a odtud nejkratší cestou do Fribourgu. Tam byli Bernští a jiní Spříseženci přijati velmi dobře a přátelsky, jak má přítel a bratr přijímat druhého, a pohoštěni ještě mnohem lépe, neboť každého zvlášť obdarovali vínem a jiným a měli s tím veliké a značné náklady, což se podle mého zdání má také oplatit a nezapomenout."
   },
   {
    "text": "Und als man samstag vor sant Gallen tag mit der paner von Bern usgezogen was in dem vorgenanten iare, da kam man mit derselben paner und grossen eren wider heim an aller selen tag, und was man villicht bi drin wuchen us gewesen und hat man in demselben kurzen zite mit hilf und von gnaden des almechtigen gottes gar vil stetten und slossen gewunnen und erobert mit dem sturm, mit dem swert und anders; dann derselben stetten und slossen namen, als sich nach gelegenheit gebürt, harnach von wort ze wort eigentlichen geschriben stand.",
@@ -24,5 +24,6 @@
   "Bernský rukopis má u slov „a odtud nejkratší cestou do Fribourgu“ nový nadpis: „Das die von Bern und ander Eidgnossen mit einandern gen Friburg zugen und gar früntlich von inen enpfangen wurden.“ a pokračuje vlastním zněním („Darnach zugen die von Bern … gen Friburg. Da wurden si gar früntlich und in brüderlichen trüwen enpfangen und noch bas gelassen…“). Tobler ho jako kapitolu nečísluje. (Útržek této varianty byl omylem vlepen do textu kap. 227.)"
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

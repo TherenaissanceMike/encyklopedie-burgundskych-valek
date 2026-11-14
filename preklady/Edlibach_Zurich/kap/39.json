@@ -14,7 +14,7 @@
   },
   {
    "text": "Item vnd als sich nun der brugunsch hertzog vir die statt murtten gelegt hatt wie obstat wol mit hundurt tussend mann darvnder xvᵐ jtel kürrisser warend fieng er die stat zu beschiessen mit uil grossen büchssen vnd lag der graff von remund am see mit sinnem leger dessglichen der hertzog von brugund vnd sin übrig her am berg zu ring vmm, also da sy etliche zitt geschussend, fiengend die brugunschen murtten an zu stürmen vnd tattend wol dryg stürm an murtten vnd ver lurend der brugunschen wol jn dissen dry stürmen ob xvᶜ mann, vnd behubend die eignossen den sturm, also liess der hertzog nüt ab er schoss gencklichen an vnderlass jn die statt vnd grubend die brugunschen biss an graben dz sy mit swertten zusamen stachen, vnd also littend die jn murtten gar grosse not die ich hie von ville wegen nüt schriben mag der brugunsch hertzog gab",
-   "preklad": "A když se burgundský vévoda položil před město Murten, jak výše stojí, s dobrými sto tisíci muži, mezi nimiž bylo patnáct tisíc samých kyrysníků, začal město ostřelovat z mnoha velkých děl. Hrabě z Romontu ležel se svým táborem u jezera a vévoda burgundský se zbytkem svého vojska na návrší kolem dokola. Když nějaký čas stříleli, začali Burgunďané na Murten útočit a podnikli na něj dobré tři útoky; v těch třech útocích ztratili Burgunďané přes patnáct set mužů a konfederáti útok odrazili. Vévoda však nepřestával a střílel bez ustání do města a Burgunďané se prokopali až k příkopu, takže se [s obránci] bodali meči. Tak trpěli ti v Murtenu velikou nouzi, kterou zde pro velké množství nemohu popsat. Burgundský vévoda dal"
+   "preklad": "A když se burgundský vévoda položil před město Murten, jak výše stojí, s dobrými sto tisíci muži, mezi nimiž bylo patnáct tisíc samých těžkých jezdců (kürisser), začal město ostřelovat z mnoha velkých děl. Hrabě z Romontu ležel se svým táborem u jezera a vévoda burgundský se zbytkem svého vojska na návrší kolem dokola. Když nějaký čas stříleli, začali Burgunďané na Murten útočit a podnikli na něj dobré tři útoky; v těch třech útocích ztratili Burgunďané přes patnáct set mužů a Spříseženci útok odrazili. Vévoda však nepřestával a střílel bez ustání do města a Burgunďané se prokopali až k příkopu, takže se [s obránci] bodali meči. Tak trpěli ti v Murtenu velikou nouzi, kterou zde pro velké množství nemohu popsat. Burgundský vévoda dal"
   },
   {
    "text": "*, Durch die Schrift missleitet setzt die Copie: vnd der von dattenriet sechs hundert hopt fechs gnomen in meinung cet.",
@@ -29,9 +29,10 @@
   "Opravy OCR: „sy leger“ → „sin leger“, „dz_beleitt“ → „dz beleitt“, „widerymm“ → „widerumm“, „vif“ → „uff“, „murlten“/„muriten“ → „murtten“, „xv”“ → „xvᵐ“ (15 000), „grafl“ → „graff“, „tatlend“ → „tattend“, „xv°“ → „xvᶜ“ (1500), „bie“ → „hie“, „gulle“/„gulter“ → „gutte“/„gutter“, „vad“ → „vnd“, „janen“ → „jnen“, „antwortiend“ → „antworttend“, „hofltend“ → „hofftend“.",
   "Odstavec je Usteriho ediční poznámka (popis obrazu v rukopisu / opisu), ne Edlibachův text; ponechán, přeložen v hranatých závorkách. (odstavec 3, poznámka k textu kap. 38)",
   "„milden“ = Moudon, „betterlingen“ = Payerne, „wiblispurg“ = Avenches. Hrabě z Romontu = Jakub Savojský (mimo text).",
-  "„jtel kürrisser“ = samí kyrysníci (plně obrnění jezdci). „nussböm stücken“ přeloženo „osekat ořešáky“ [?]: snad připravit stromy jako šibenice, viz oběšení na ořešácích u Grandsonu (kap. 34). „helssig“ = oprátky.",
+  "„jtel kürrisser“ = samí těžcí jezdci (kürisser, plně obrnění jezdci). „nussböm stücken“ přeloženo „osekat ořešáky“ [?]: snad připravit stromy jako šibenice, viz oběšení na ořešácích u Grandsonu (kap. 34). „helssig“ = oprátky.",
   "Srov. Schilling kap. 290 a násl. (tažení k Murtenu a obléhání)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

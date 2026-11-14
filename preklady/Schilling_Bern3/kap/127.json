@@ -1,0 +1,33 @@
+{
+ "cislo": 127,
+ "nadpis": "Das die hertzogin von Saffoy vf dem tag der gen Lutzern gesetzt wart / mengerley anbötten[?] / gieng daran am letsten gantz nit nach",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 263,
+ "strany": [
+  263,
+  264
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü gemein eidgno[ssen] in beladung diser sach vff dem vorgenanten tage zů Lutzern waren da kamen der hertzogin treffenlichen Räte vff den selben tag gen Lutzernn / namlich herr Anthonius[?] Champion president / Humbertus Cerjat herr ze Combremont / vnd ander / vnd mit vil vnd allerley glatter vnd güter worten / darunder doch anders nit / als man harnach hören wirt / dann alle betrogenheit was / wann si alwegen davor vnd ouch noch die Lamparter vnd ander fromd völcker zů hilf dem hertzogen von Burgunn / hatt lassen in ir land ziechen / vnd ouch dardurch / wie wol der krieg noch nit angevangen was / da erbutten sich die selben botten / zwar mit valschem hertzen vnd anders nit / ob es den eidgno[ssen] gevellig wer / so wolt si sich gein dem hertzogen von Burgunn vermögen das er sich wider si nit wurde slechten[?] noch annemen daruf dancket man ir gütlich / vnd rett man dennocht mit den selben botten sovil / das si wol verstünden / das die eidgno[ssen] an semlichem durchzuge der Lamparten vnd ander völckern ein gros missvallen hatten / angesechen die ewigen gesworenen pünde / die si mit denen von Bernn / die dann semlichs vmb das hus von Saffoy nie hetten verdient dis wart von den selben botten mit verdachten wort[en] verantwurt / vnd seiten ouch den eidgno[ssen] offenlichen zů / das solich durchziechen niemer me beschechen vnd das ouch die ewigen pünde an denen von Bernn vnd andern iren eidgno[ssen] vestenclich gehalten werden solten / vnd ob man des begert / so wolt die hertzogin von Saffoy ir lib vnd gůt wider den hertzogen von Burgunn / vnd zů den eidgno[ssen] setzen das aber am letsten durch si vergessen wart / vnd nit gehalten / als man harnach bas hören vnd vernemen wirt",
+   "preklad": "Když tedy všichni Spříseženci na zmíněném sněmu v Luzernu jednali o této věci, přišli na týž sněm do Luzernu vznešení radní vévodkyně, totiž pan Anthonius [?] Champion, president, Humbertus Cerjat, pán na Combremontu, a jiní. Mluvili mnoha a všelijakými hladkými a dobrými slovy, za nimiž však, jak se uslyší dále, nebylo nic jiného než samý podvod. [Vévodkyně] totiž vždy předtím i nadále nechávala Lombarďany a jiné cizí národy táhnout na pomoc vévodovi Burgundskému do své země i skrze ni, ačkoli válka ještě nezačala. Tito poslové se tehdy nabídli, ovšem s falešným srdcem a nijak jinak, že bude-li to Spřísežencům milé, vynasnaží se [vévodkyně] u vévody Burgundského, aby se proti nim nestavěl [?] a nemíchal se do toho. Za to se jí vlídně poděkovalo. Přesto se s těmi posly mluvilo natolik, aby dobře pochopili, že Spříseženci mají nad takovým průchodem Lombarďanů a jiných národů velkou nelibost, s ohledem na věčné přísežné spolky, které mají s Bernskými, kteří si něco takového od savojského rodu nikdy nezasloužili. Na to tito poslové odpověděli rozvážnými slovy a veřejně Spřísežencům slíbili, že se takový průchod už nikdy nestane a že věčné spolky s Bernskými a s jejich ostatními Spříseženci budou pevně dodržovány. A bude-li si toho kdo přát, že vévodkyně Savojská nasadí svůj život i statek proti vévodovi Burgundskému a postaví se na stranu Spříseženců. To však nakonec zapomněla a nedodržela, jak se dále lépe uslyší a dozví."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 264,
+   "text": "264 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdná místa (prosvítá text z rubu); dole kadela"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévodkyně Savojská na sněmu, který byl svolán do Luzernu, ledacos nabízela [?], ale nakonec nic z toho nedodržela",
+ "poznamky_prekladu": [
+  "„anbötten[?]“ (nadpis) – nejisté čtení, smysl „nabízela“.",
+  "„Anthonius[?]“ – nejisté čtení křestního jména; snad Antoine Champion, předseda savojské rady (mimo přepis). Humbert Cerjat, pán na Combremontu (Vaud).",
+  "„slechten[?]“ – nejisté čtení, smysl patrně „zakročit, stavět se proti“; přeloženo „nestavěl [?]“.",
+  "Vévodkyně Savojská = Jolanda (Yolande) Francouzská, regentka Savojska, sestra Ludvíka XI. (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

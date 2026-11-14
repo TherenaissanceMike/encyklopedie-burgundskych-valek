@@ -1,0 +1,31 @@
+{
+ "cislo": 105,
+ "nadpis": "Das die vorgenant ewig richtunge nützit destminder beslossen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 219,
+ "strany": [
+  219,
+  220
+ ],
+ "odstavce": [
+  {
+   "text": "Aber nützit destminder vnd eins wegs daruf / wart die ewig richtung / wie vorstat / vorab von beiden teilen zůgeseit vnd vom küng verwilliget / vnd gentzlichen beslossen / vnd wart ouch dabi vnd mit ein fruntlich vereynung zechen Jar / als obstat / mit den vorgenanten fürsten vnd Stetten / vnd gemeinen eidgno[ssen] volzogen / ye ein teil den andern mit lib vnd gůt zů entschütten / als dann das alles die versigelten brief / die darumb gemacht sind / lüter dargebent",
+   "preklad": "Avšak nicméně a hned nato bylo Věčné narovnání, jak stojí výše, předně oběma stranami přislíbeno, králem schváleno a zcela uzavřeno. A přitom a zároveň byl také se zmíněnými knížaty a městy a všemi Spříseženci uzavřen přátelský spolek na deset let, jak stojí výše, aby jedna strana vždy pomáhala druhé životem i statky, jak to vše jasně vykládají zpečetěné listiny, které o tom byly sepsány."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 220,
+   "text": "220 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly velká prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak bylo zmíněné Věčné narovnání nicméně uzavřeno",
+ "poznamky_prekladu": [
+  "„entschütten“ = vysvobodit, přispět na pomoc; přeloženo „pomáhala“.",
+  "Přátelský spolek = Dolní spolek (viz kap. 99)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

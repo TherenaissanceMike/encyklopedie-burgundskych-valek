@@ -1,0 +1,35 @@
+{
+ "cislo": 5,
+ "nadpis": "Das die vorgenanten zwey hundert knecht mit iren houptlüten gen Mülhusen kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 18,
+ "strany": [
+  18,
+  19
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also an dem fünftzechenden tag meyen des vorgenanten Jares Zugen die zwey hundert man vss / vnd kamen am dritten tag gen Mülhusen / vnd wurden von menglichem gar wol vnd mit grossen fröuden enpfangen / Also ward aber ein tag zů Basel geleist / nach dem es dann vorhin angesechen was ob man noch möcht wege funden haben / damit man die von Mülhusen hette mögen zů friden vnd rüwen bringen",
+   "preklad": "A tak patnáctého dne května zmíněného roku těch dvě stě mužů vytáhlo, třetího dne přišli do Mulhouse a všichni je tam přijali velmi dobře a s velkou radostí. Tu se opět konal sněm v Basileji, jak bylo předtím ujednáno, zda by se ještě nenašla cesta, jak Mulhouseské přivést k míru a klidu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 18,
+   "popis": "místo vynechané pro obrázek (jen podkresba / prázdné pole mezi nadpisem a textem)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 19,
+   "text": "19 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak zmínění dva sta knechtů se svými hejtmany přišli do Mulhouse",
+ "poznamky_prekladu": [
+  "15. 5. 1468 (neděle podle juliánského kalendáře); příchod do Mulhouse třetího dne, tj. kolem 17. 5."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,48 @@
+{
+ "cislo": 95,
+ "nadpis": "Das gar vil fromdes volckes von Lamparten vnd andern harus in tütsch land kam / vnder die von Bernn vnd ander eidgno[ssen]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 202,
+ "strany": [
+  202,
+  203,
+  204,
+  205
+ ],
+ "odstavce": [
+  {
+   "text": "In disen dingen kamen den eidgno[ssen] tegklich warnungen / wie das von Lamparten harus / durch die Saffoyschen land / vnd ouch die etsch hertzog Sigmunds lande / vil Scharen von Lamparten / venedien / vnd von Napels harus in tütsch lande zugen / dem hertzogen von Burgunn zů hilf wider die eidgno[ssen] als man das ouch wol tegklich sach / vnd die man vnder wilen wol mit gůtem glimpf gewendet vnd inen den weg vnder gangen / wo man anders etwann den gemeinden / vnd nit alweg den gewaltigen gevolget hett / wie wol das von den gewaltigen ouch im besten angesechen was / vnd darumb beschach / das man des kriegs nit ein anfang wurde / vnd man ouch ander gůt sachen damit dann etlich from lüte vmbgiengen / mit dester bessern fůgen gehandlen möcht / vnd solichen vngetrüwen louffen begegnen / Die selben walchen vnd Lamparter / als der vil harus kam / vnderstůnd nü der von hagenbach mit bösen listen vnd verreterie / in die Stett vnd Sloss an dem Rine / gen Brisach / Seckingen / Rinvelden louffenberg vnd waltzhůt zů legen / vnd die mit denen dermassen zů besetzen / das er dero sicher wer damit vnd da durch sin herr von Burgunn sinen ingang / wider die eidgno[ssen] vnd ander tütsche land gehaben / vnd da wib vnd kinde nach sinem anslage verderben möcht / Des aber im der selben Stetten merenteils / vnd sunderlich die ob Basel am Rine / nit gestatten / noch kein welsch oder fromd Soldner in lassen wolten / wann das si ye meinten / im dem vnd anderm by irem alten herkomen zů bliben / vnd sich nit anders treingen lassen / dann aber inen das vom hertzoge[n] von Burgunn zůgesagt / verbriefet vnd versigelt worden were",
+   "preklad": "Za těchto věcí přicházela Spřísežencům denně varování, že z Lombardie sem přes savojské země a také přes Adiži, zemi vévody Zikmunda, táhne do německé země mnoho houfů z Lombardie, Benátek a Neapole na pomoc vévodovi Burgundskému proti Spřísežencům, jak se to také denně dobře vidělo. Ty by se byly občas dobře mohly s dobrým zdáním [glimpf] odvrátit a zatarasit jim cestu, kdyby se byli někdy poslechli obcí, a ne vždycky mocných. Ačkoli i mocní to mysleli nejlépe; stalo se to proto, aby se nestali původci války a aby se s tím tím vhodněji daly projednat jiné dobré věci, jimiž se někteří řádní lidé zabývali, a čelit takovým nevěrným pletichám. Tyto Vlachy a Lombarďany, jakmile jich sem mnoho přišlo, se nyní ten z Hagenbachu pokoušel zlými lstmi a zradou rozmístit do měst a hradů na Rýně, do Breisachu, Säckingenu, Rheinfeldenu, Laufenburgu a Waldshutu, a obsadit je jimi tak, aby si jich byl jist. Tím a skrze to by jeho pán Burgundský měl vstup proti Spřísežencům a do jiných německých zemí a mohl tam podle svého záměru zahubit ženy i děti. To mu však většina těch měst, a zvláště ta nad Basilejí na Rýně, nechtěla dovolit a nechtěla pustit dovnitř žádné vlašské ani cizí žoldnéře. Chtěla totiž v tom i v jiném zůstat při svém starém zvyku a nedat se tlačit jinak, než jak jim to bylo vévodou Burgundským přislíbeno, listinně stvrzeno a zpečetěno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 203,
+   "popis": "dokončená kolorovaná miniatura – táhnoucí vojsko (lombardští žoldnéři pro Karla Smělého): v čele obrněný jezdec ukazuje cestu, trubač, za ním pěchota v kloboukových přilbách s kopími a halapartnami, burgundské korouhve s ondřejským křížem; vlevo město s věžemi u jezera s lodí, hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 203,
+   "text": "203 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 204,
+   "text": "204 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); dole volné místo s kadelou"
+  },
+  {
+   "strana": 205,
+   "text": "205 X (pozdější foliace, pravý horní roh); stránka bez obrázku; ZAČÁTEK „VĚČNÉHO MÍRU“ (Ewige Richtung 1474)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak přišlo mnoho cizího lidu z Lombardie a odjinud sem do německé země mezi Bernské a ostatní Spřísežence",
+ "poznamky_prekladu": [
+  "„die etsch“ = údolí Adiže (Etschtal) v Tyrolsku, země vévody Zikmunda Rakouského (mimo přepis).",
+  "„den gemeinden … den gewaltigen“ – Schilling staví proti sobě obce (prostý lid) a mocné (vládnoucí radu); kritika diplomatické zdrženlivosti.",
+  "„walchen“ přeloženo „Vlaši“ (podle doplňků ke glosáři).",
+  "Čtyři lesní města na Rýně nad Basilejí: Rheinfelden, Säckingen, Laufenburg, Waldshut (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

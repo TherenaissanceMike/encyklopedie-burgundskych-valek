@@ -1,0 +1,41 @@
+{
+ "cislo": 69,
+ "nadpis": "Das die von Strassburg Schuttern gewunnen / vnd die gevangnen erlosten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 149,
+ "strany": [
+  149,
+  150,
+  151
+ ],
+ "odstavce": [
+  {
+   "text": "Andem wurden die von Schuttern als streng vnd vast / von denen von Strassburg dermassen genöt[?] / das si Statt vnd Sloss vfgaben in iren gewalt nach irem gevallen das schriben die von Strassburg von stund an gen Bernn / vnd ward us dem zug nit / Also namen die von Strassburg die gevangnen ze Schuttern / die ir zůkunft vast fro wurden / vnd fürten die mit inen heim / vnd taten inen gros ere vnd fruntschaft / vnd brachen Schuttern Statt vnd Sloss / alle türn vnd muren / vnd was daran werlich was / der von heüdorf vnd die rechten knaben hatten sich darvon gemacht / vnd beschach inen leider nit",
+   "preklad": "Mezitím byli Schutternští od Štrasburských tak tvrdě a silně stísněni [?], že vydali město i hrad do jejich moci a na jejich vůli. To Štrasburští ihned napsali do Bernu, a tak z tažení sešlo. Štrasburští tedy vzali zajatce v Schutternu, kteří byli jejich příchodu velmi rádi, odvedli je s sebou domů a prokázali jim velkou čest a přátelství. A rozbořili město i hrad Schuttern, všechny věže a zdi a všechno, co tam bylo k obraně. Heudorf a ti praví chlapíci se odtamtud dali na útěk a nic se jim bohužel nestalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 150,
+   "popis": "dokončená kolorovaná miniatura – obležení Schutternu: hradby a věže, obránci na hradbách gestikulují; před branou štrasburští pěší s kopími, velká bombarda, ležení se stany a štrasburskou korouhví (šikmý pruh); vpředu odcházející muži s meči (vysvobození zajatci?)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 150,
+   "text": "150 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 151,
+   "text": "151 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že Štrasburští dobyli Schuttern a vysvobodili zajatce",
+ "poznamky_prekladu": [
+  "„genöt[?]“ – čtení nejisté; smysl „stísněni, donuceni“.",
+  "„die rechten knaben“ – ironicky „ti praví chlapíci“, tj. vlastní pachatelé."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

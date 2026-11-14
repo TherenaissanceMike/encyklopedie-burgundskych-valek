@@ -14,11 +14,11 @@
  "odstavce": [
   {
    "text": "Wie denen von Basel warnungen kamen, wie der herzog von Bürgün ir statt belegren wolte, darumb sy die Eydgnossen umb soldner und hilf batten.",
-   "preklad": "21. Jak Basilejským přicházela varování, že vévoda burgundský chce oblehnout jejich město, a proto prosili konfederáty o žoldnéře a pomoc."
+   "preklad": "21. Jak Basilejským přicházela varování, že vévoda burgundský chce oblehnout jejich město, a proto prosili Spřísežence o žoldnéře a pomoc."
   },
   {
    "text": "22. Wie die Eydgnossen denen von Basel nach irem begeren 800 man züseiten, damit sy inen ouch ze entschütten, wenn sy belegret wurden von dem herzogen von Bürgün.",
-   "preklad": "22. Jak konfederáti podle žádosti Basilejských přislíbili 800 mužů, aby je vysvobodili, kdyby je vévoda burgundský oblehl."
+   "preklad": "22. Jak Spříseženci podle žádosti Basilejských přislíbili 800 mužů, aby je vysvobodili, kdyby je vévoda burgundský oblehl."
   }
  ],
  "poznamky_editora": [],
@@ -28,5 +28,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 78 a 79; platí i pro kap. 22) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,40 @@
+{
+ "cislo": 8,
+ "nadpis": "Das manlich Scharmutzen So von etlichen knechten von Bernn vnd Sollotern beschach",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 22,
+ "strany": [
+  22,
+  23,
+  24
+ ],
+ "odstavce": [
+  {
+   "text": "Vor disen dingen vnd e die zweyhundert man hinab kament warent bi drissig knechten von Bernn vnd Sollotern / vmb Sold ze Mülhusen gelegen die hatten ouch von den vienden mengerley anreitzung gehebt / Vnd zugen eins mals mit denen von Mülhusen für die Statt / Da kamen die viend von Brunstat harus gein inen mit gantzer macht zů ross vnd fůs / vnd vermeinten si gar liechtlichen vmb ze bringen / Also stalten si sich miteinanderen ze were vnd tatent als ein manlichen widerstand / das die viend wiche[n] vnd kamen ouch etlich der vienden vmb vnd wurden inen vil rossen erstochen",
+   "preklad": "Před těmito věcmi, ještě než oněch dvě stě mužů přišlo dolů, leželo v Mulhouse za žold asi třicet knechtů z Bernu a Solothurnu. I oni zažili od nepřátel mnohé popichování. Jednou vytáhli s Mulhouseskými před město. Tu proti nim vyrazili nepřátelé z Brunstattu celou mocí na koních i pěšky a mysleli, že je velmi snadno pobijí. Postavili se tedy společně na odpor a bránili se tak mužně, že nepřátelé ustoupili; několik nepřátel přitom padlo a bylo jim probodáno mnoho koní."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 23,
+   "popis": "horní dvě třetiny strany – jezdecká potyčka s bernskými a solothurnskými knechty před Mülhausenem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 22,
+   "text": "dolní část strany prázdná (obrázek ke kapitole je až na s. 23)"
+  },
+  {
+   "strana": 24,
+   "text": "24 (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "O mužné šarvátce, kterou svedli někteří knechti z Bernu a Solothurnu",
+ "poznamky_prekladu": [
+  "Obrázek ke kapitole je až na s. 23; dolní část s. 22 zůstala prázdná."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

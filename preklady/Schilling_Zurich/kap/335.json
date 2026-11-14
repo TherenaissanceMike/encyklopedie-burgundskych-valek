@@ -18,11 +18,11 @@
   },
   {
    "text": "Aber die, so denselben brüdern zü semlichen sachen ir stür und rat geben hatten, die torsten noch wolten sich des nit underwinden noch annemen, und wart derselb teter [?] gar eins herten tödes ertött und etlich siner brüdern und dero, so daran schuldig warent, ouch. Zwar der fromen lüten was me zü erbarmen, dann des herzogen, dann er inen gewalt und unrecht getan hat.",
-   "preklad": "Ale ti, kdo těm bratřím k takové věci dali svou pomoc a radu, se toho neodvážili ani nechtěli ujmout a zastat. Ten pachatel byl usmrcen velmi krutou smrtí, a také někteří z jeho bratří a z těch, kdo na tom měli vinu. Věru, těch zbožných lidí bylo víc líto než vévody, protože on jim učinil násilí a bezpráví."
+   "preklad": "Ale ti, kdo těm bratřím k takové věci dali svou pomoc a radu, se toho neodvážili ani nechtěli ujmout a zastat. Ten pachatel byl usmrcen velmi krutou smrtí, a také někteří z jeho bratří a z těch, kdo na tom měli vinu. Věru, těch poctivých lidí bylo víc líto než vévody, protože on jim učinil násilí a bezpráví."
   },
   {
    "text": "In dem vorgenanten iare starp ouch herr Friderich, pfallenzgrafe bi Rine, der sich dann vor etlichen ziten mit denen von Bern und andern Eidgnossen ouch gar früntlich gehalten und sich aber nachmalen wider die Eidgnossen gar treffenlichen gesatzt und understanden hat, mit dem herzogen von Burgunnen daran zü sinde, der dann ir tötlicher viend was, als davor stat.",
-   "preklad": "V řečeném roce zemřel také pan Fridrich, falckrabě rýnský, který se kdysi k Bernským a ostatním konfederátům choval také velmi přátelsky, později se však proti konfederátům velmi rozhodně postavil a pokusil se jít s vévodou burgundským, jejich smrtelným nepřítelem, jak je psáno výše."
+   "preklad": "V řečeném roce zemřel také pan Fridrich, falckrabě rýnský, který se kdysi k Bernským a ostatním Spřísežencům choval také velmi přátelsky, později se však proti Spřísežencům velmi rozhodně postavil a pokusil se jít s vévodou burgundským, jejich smrtelným nepřítelem, jak je psáno výše."
   }
  ],
  "poznamky": [
@@ -32,5 +32,6 @@
   "Tobler: falckrabě Fridrich (I. Vítězný) zemřel 12. 12. 1476. Varianty: „der armen und fromen“; „Aber die inen hilf angesagt hatten“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

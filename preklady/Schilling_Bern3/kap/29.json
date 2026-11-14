@@ -1,0 +1,36 @@
+{
+ "cislo": 29,
+ "nadpis": "Das etlich der eidgnossen knechte von den vienden erstochen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 63,
+ "strany": [
+  63,
+  64
+ ],
+ "odstavce": [
+  {
+   "text": "Es lüffen ouch vs dem leger etlich vngehorsam knecht on ordnung / die warent von Bernn Vre vnd Vnderwalden hinuss gegen der letze da die viend warent / in das korn / Vnd wolten das ab meygen vnd damit fůtern / vnd stunden also in iren wamslen vnd hembden / vnd ein teil gantz abgezogen / Da kamen die viend mit gantzer macht von der letze harus gerant vnwissender dinge vnd erstachen einlif der warent Sechs von Vnderwalden / des glich wurden der vitern[?] etlich von inen ouch erstochen",
+   "preklad": "Z ležení také vyběhli bez pořádku někteří neposlušní knechti z Bernu, Uri a Unterwaldenu ven proti zátarasu, kde byli nepřátelé, do obilí, a chtěli je posekat a nakrmit jím [koně]. Stáli tam tak ve svých kabátcích a košilích a část úplně svlečená. Tu nepřátelé nečekaně vyrazili celou silou ze zátarasu a pobili jedenáct, z nichž šest bylo z Unterwaldenu; stejně tak bylo několik vitern [?] od nich také pobito."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 63,
+   "popis": "dvě třetiny strany – knechti při sečení obilí přepadení nepřátelskou jízdou ze zátarasu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 64,
+   "text": "64 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří knechti Spříseženců byli nepřáteli pobiti",
+ "poznamky_prekladu": [
+  "„der vitern[?]“ – čtení nejisté; snad „der vienden“ (tedy i několik nepřátel bylo pobito), nebo jiné slovo. Ověřit v rukopisu.",
+  "„fůtern“ = pícovat, krmit (koně)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 306,
+ "nadpis": "Das die eidgnossen tusent gewapnet mannen mit iren venlinen gen Friburg schicktent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 690,
+ "strany": [
+  690,
+  691,
+  692
+ ],
+ "odstavce": [
+  {
+   "text": "[A]Ls nů der Burgunsch hertzog also vor Losann lag / vnd die eidgno[ssen] von Granson alle wider heim gezogen waren / vnd aber die gemein red was er wolt sin leger für Friburg slachen / vnd das am ersten zwingen vnd vnder sich bringen / Da schickten gemein eidgno[ssen] von Stetten vnd lenndern tusent gewapneter mannen gen Friburg / Si vnd ir Statt in allen trüwen helfen beschirmen vnd verhüten / die lagen ouch da etwas zites / vnd hielten sich mit yederman fruntlich / vnd taten nieman kein vnzucht / weder frowen noch mannen / vnd bezalten ouch gütlich was si verzartent",
+   "preklad": "Když nyní vévoda Burgundský takto ležel před Lausanne a Spříseženci se všichni od Grandsonu vrátili domů, obecná řeč však byla, že chce rozbít ležení před Fribourgem a ten nejdříve zdolat a podrobit, poslali obecní Spříseženci z měst i venkovských zemí do Fribourgu tisíc ozbrojených mužů, aby jim a jejich městu ve vší věrnosti pomohli je chránit a hájit. Ti tam také nějaký čas leželi, chovali se ke každému přátelsky, nikomu nečinili žádné nepřístojnosti, ani ženám, ani mužům, a po dobrém zaplatili, co spotřebovali."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 691,
+   "popis": "kolorovaná kresba – švýcarská posádka 1000 mužů vchází do Fribourgu: zástup pikenýrů s bílými kříži, bubeník a pištec, prapory (černočervené, pruhované s křížem), branou s padacím mostem vstupují do města s kupolovými věžemi; vpravo dole pavézy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 691,
+   "text": "691 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou A"
+  },
+  {
+   "strana": 692,
+   "text": "692 X (pozdější foliace, levý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 690,
+   "text": "„einstrichen“, „scharemen“ – nejisté (snad „ein strichen“ = spěšně šít; „scharpen“?); Karel slibuje Romontovi Bern a Jolandě Fribourg, rozdělení domů losem"
+  }
+ ],
+ "nadpis_preklad": "Že Spříseženci poslali do Fribourgu tisíc ozbrojených mužů se svými praporci",
+ "poznamky_prekladu": [
+  "„von Stetten vnd lenndern“ = městská a venkovská místa Spříseženstva (Länder = venkovské kantony)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

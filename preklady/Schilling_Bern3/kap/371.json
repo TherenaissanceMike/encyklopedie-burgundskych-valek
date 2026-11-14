@@ -1,0 +1,40 @@
+{
+ "cislo": 371,
+ "nadpis": "Das der hertzog mit den eidgno[ssen] zů Sant Niclaus port kam / vnd ir an dem selben ennde vil erslagen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 844,
+ "strany": [
+  844,
+  845
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zugent si miteinandern gen Sant Niclaus port / das der hertzog von Burgunn innhatt / vnd namend das angendes ritterlichen in / vnd erstachen der vienden ob hundert manne[n] zů roß vnd füs / vnd viengen da den ersten Streit an / vnd vermeinten der hertzog von Burgunn solt an dem selben ende die sinen haben entschütt er torst aber nit komen",
+   "preklad": "A tak táhli spolu k Saint-Nicolas-de-Port, které držel vévoda Burgundský, a ihned je rytířsky dobyli. Probodli přes sto mužů nepřátel na koni i pěších a zahájili tam první boj. Mínili, že vévoda Burgundský tam měl své lidi vysvobodit, on se však neodvážil přijít."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 844,
+   "popis": "dobytí Saint-Nicolas-de-Port: vlevo město s kostelem a věžemi, před ním stromy; u brány vojáci s kříži na kabátcích (lotrinské dvojité kříže) a s halapartnami bodají a srážejí obránce (padlý jezdec s koněm); vpravo jezdci útočí kopími; dole mezi skalami velký zástup pikenýrů s korouhvemi (s křížem, pruhované, se světcem) a jízda s pruhovaným štítem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 845,
+   "text": "845 X (pozdější foliace, pravý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); odstavec s iniciálou V, výplňový tah perem, dole rubrika s iniciálou V (k obrazu na s846)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 845,
+   "text": "Sant Niclaus port = Saint-Nicolas-de-Port (u Nancy); přes 100 padlých Burgundů"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda se Spříseženci přišel k Saint-Nicolas-de-Port a jak tam bylo mnoho [nepřátel] pobito",
+ "poznamky_prekladu": [
+  "Saint-Nicolas-de-Port u Nancy, dobyto v sobotu 4. 1. 1477 (srov. píseň v kap. 381: „der Streitt der ving am Samstag an“; mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

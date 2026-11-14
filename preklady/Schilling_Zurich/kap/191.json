@@ -21,8 +21,9 @@
   "Oprava OCR v nadpisu: „von «lenen von Bern“ → „von denen von Bern“.",
   "Bourání proběhlo 12. 8. 1475 (Tobler podle Witteho); Bern schválil rozhodnutí vojska Blamont zničit dopisem z 12. 8. (Teutsch Missiven C, 532).",
   "knöpfe = makovice na věžích (Tobler, glosář: Turmknauf). Varianta: bylo jich šestnáct a „připadly Štrasburským“.",
-  "Tobler: Schilling zamlčuje, že se konfederační knechti při dělení kořisti dopustili hrubých výstřelků (Knebel, Witte)."
+  "Tobler: Schilling zamlčuje, že se spříseženečtí knechti při dělení kořisti dopustili hrubých výstřelků (Knebel, Witte)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

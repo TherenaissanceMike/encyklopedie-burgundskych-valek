@@ -1,0 +1,33 @@
+{
+ "cislo": 7,
+ "nadpis": "Das die zwey hundert knecht / das schön dorff Brunstatt entblünderten vnd verbranten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 21,
+ "strany": [
+  21,
+  22
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach wurdent die houptlüte von Bernn vnd von Sollotern mit denen von Mülhusen zů ratt vnd zugen an einem morgen frü gen Brunstat in das dorff / Das was mit einem starcken wasser graben vmb geben / vnd kamen dar / das ir nieman innen ward / dann die vff dem Sloss vnd dem kilchturn / die schussen zů inen / Si vingen aber nützit dester minder an / Vnd entplünderten das dorff miteinanderen / vnd sturmten an den kilchhoff vnd den turn / vnd tatent inen als angst vnd not das si es vff gaben / Vnd waren darinne bi zwentzig mannen / die fůrtent si mit inen gevangen gen Mülhusen / Man vand ouch gar vil gůtes in der kilchen vnd dem turn das man darin geflöicket hatt / das nament si alles / Darzů fundent si ouch in dem dorff gar vil wines / den fůrtent si allen hinweg / Vnd morndes gewunnen si den vorhoff am Sloss vnd name[n] ouch etlichen win darinne vnd fůrten vil gůtes von dannen vnd ward also das schön dorff ouch verbrant",
+   "preklad": "Potom se hejtmani z Bernu a Solothurnu poradili s Mulhouseskými a jednoho rána časně táhli do vesnice Brunstatt. Ta byla obehnána silným vodním příkopem. Přišli tam tak, že o nich nikdo nevěděl, jen ti na hradě a v kostelní věži, kteří na ně stříleli. Přesto se do toho pustili, společně vesnici vyplenili, zaútočili na hřbitov a věž a nahnali jim takový strach a tíseň, že je vzdali. Bylo v nich asi dvacet mužů a ty odvedli zajaté s sebou do Mulhouse. V kostele a ve věži se také našlo velmi mnoho majetku, který tam lidé ukryli; to všechno vzali. Kromě toho našli ve vesnici velmi mnoho vína a všechno odvezli. Nazítří dobyli předhradí hradu, vzali tam také nějaké víno a odvezli odtud mnoho majetku. A tak byla i ta pěkná vesnice vypálena."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 21,
+   "popis": "dolní polovina strany – knechti s korouhví (kříž) před hořící vsí Brunstatt, vůz s kořistí, knecht pije z konvice"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 22,
+   "text": "22 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak dva sta knechtů vyplenilo a vypálilo pěknou vesnici Brunstatt",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

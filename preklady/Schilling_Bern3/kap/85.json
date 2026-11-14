@@ -1,0 +1,44 @@
+{
+ "cislo": 85,
+ "nadpis": "Das der vorgenant hertzog von Burgunn mit einem treffenlichen züge in das Suntgow vnd Elsess kam",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 179,
+ "strany": [
+  179,
+  180,
+  181
+ ],
+ "odstavce": [
+  {
+   "text": "Dis gestůnd also etwas zites / das die von Basel nieman vmb den zůsatz ervorderte[n] vnd villicht nit als vast als vorhin von den Burgundern bekümbert wurden / bis darnach vmb der heiligen dryer küngen tag / kam der hertzog von Burgund durch das Münster tal mit einem treffenlichen züge / vier oder fünf tusent pferden harus gen Sant pilten[?] / vnd da dannen gen Brisach / da bleip er etlich tage / die lande siner pfandschaft zů geschowen / mit erzöugen vil hochvart vnd gewaltes / zoch er da wider vnd für gegen Tann vnd in die selben art / vnd liess doch nieman nit beschechen / wann das er dem glich tet als ob er etwas güten zites im lande bliben wolt Von den Edlenn vnd etlichen houptlüten[?] der selben landen / vnd ouch des hegöws / die alweg zwüschen der herschaft von österrich vnd ouch den eidgno[ssen] anreitzer gewesen warent / wart er wol enpfangen vnd des nieman zwiveln sol / im von den selben wenig das zů fryd der landen / vnd zů gůt dem gemeinen nutz / oder den eidgno[ssen] zů eren gedienen möcht ingeblasen / wann das si sin gemüte / das on das hertstrichen[?] zů allen vntugenden vnd hochvart vff steig / mit vil vnd mengerley sachen vnd vntaten die nach ir inen aller meist anhengen / tegklichen wider die eidgnosschaft bewegten / als si das vormaln dem frommen fürsten hertzog Sigmunden irem natürlichen herrenn ouch getan / vnd zem dickern mal im wider sinen willen verfürt hatten darinne mer ir dienst gelt vnd eigner nutz / dann die ere des fürsten oder frid der landen von inen angesechen wart",
+   "preklad": "Tak to nějaký čas trvalo, takže Basilejští nikoho o posádku nežádali a snad je Burgunďané neznepokojovali tolik jako předtím. Až potom kolem svátku Tří králů přitáhl vévoda Burgundský údolím Münstertal s význačným vojskem, čtyřmi nebo pěti tisíci koní, sem do Saint-Hippolyte [?] a odtud do Breisachu. Tam zůstal několik dní, aby si prohlédl země své zástavy, a ukazoval přitom mnoho pýchy a moci. Pak odtáhl zase k Thannu a do těch končin. Nikomu však nedal nic udělat, jen se choval tak, jako by chtěl v zemi zůstat delší čas. Šlechtici a někteří hejtmani [?] z těch zemí a také z Hegau, kteří vždy mezi rakouským panstvím a Spříseženci podněcovali [nepřátelství], ho dobře přijali. A nikdo nemá pochybovat, že mu od nich bylo našeptáno jen málo toho, co by mohlo sloužit k míru zemí, k obecnému blahu nebo ke cti Spříseženců. Spíše jeho mysl, která se i bez toho hertstrichen [?] povznášela ke všem nectnostem a pýše, denně mnoha a rozličnými věcmi a zlými činy, jež jim samým nejvíce lpěly, popuzovali proti Spříseženstvu. Tak to dříve činili i řádnému knížeti vévodovi Zikmundovi, svému přirozenému pánu, a mnohokrát ho proti jeho vůli svedli; přitom jim šlo spíše o vlastní služné a prospěch než o čest knížete nebo mír zemí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 180,
+   "popis": "dokončená kolorovaná miniatura – Karel Smělý táhne do Sundgau: v čele vousatý vévoda v pruhovaném plášti na tmavém koni, kolem obrnění jezdci s péry na helmách, trubač, les kopí; korouhve – černá s bílým ondřejským křížem a bílá s iniciálami „KAR“ (Karolus) a ocílkami; koně v bohatých čabrakách; v pozadí hrad na kopci (Pfirt?)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 180,
+   "text": "180 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 181,
+   "text": "181 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám; dole volné místo s kadelou"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak výše jmenovaný vévoda Burgundský přitáhl s význačným vojskem do Sundgau a Alsaska",
+ "poznamky_prekladu": [
+  "Tři králové = 6. 1. 1474 (čtvrtek) podle souvislosti; Schilling rok výslovně neuvádí (mimo přepis).",
+  "„Sant pilten[?]“ = snad St. Pilt, Saint-Hippolyte v Alsasku (mimo přepis); čtení i určení nejisté.",
+  "„lande siner pfandschaft“ = Horní Alsasko a Sundgau, které vévoda Zikmund zastavil Karlu Smělému smlouvou ze Saint-Omer 1469 (mimo přepis).",
+  "„houptlüten[?]“ – čtení nejisté; „hertstrichen[?]“ – nejasné slovo, ponecháno v originále.",
+  "„dienst gelt“ = služné, peníze za službu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

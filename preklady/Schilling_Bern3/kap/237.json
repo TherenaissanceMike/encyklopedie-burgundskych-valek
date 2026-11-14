@@ -1,0 +1,33 @@
+{
+ "cislo": 237,
+ "nadpis": "Das vil landsherrnn vnd ander denen von Bernn vnd den andern engegen füren / vnd sich an si ergaben",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 510,
+ "strany": [
+  510,
+  511
+ ],
+ "odstavce": [
+  {
+   "text": "Es brachten ouch etlich landsherrn vnd ander ir Slüssel zů iren Stetten vn[d] Slossen / vnd antwurten die den houptlüten von Bernn vnd andern / vnd swůren inen Etlich liessen sich ouch brantschatzen / So wurden ouch da zwüschen etlich Sloß ingenomen vnd verbrant",
+   "preklad": "Také několik zemských pánů a jiných přineslo klíče od svých měst a hradů, odevzdali je hejtmanům z Bernu a jiným a přísahali jim. Někteří se také vykoupili výpalným. Mezitím bylo také několik hradů obsazeno a spáleno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 510,
+   "popis": "kolorovaná kresba – páni a měšťané na koních (jeden v mnišském rouchu) přijíždějí se svazky klíčů a předávají je velitelům s bílými kříži; vpravo zástup pikenýrů pod korouhvemi (Bern s medvědem, Fribourg, Solothurn); v pozadí hořící hrad, město s kostelem, jezero a hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 511,
+   "text": "511 X (pozdější foliace, pravý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak mnoho zemských pánů a jiných vyjelo vstříc Bernským a ostatním a vzdalo se jim",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

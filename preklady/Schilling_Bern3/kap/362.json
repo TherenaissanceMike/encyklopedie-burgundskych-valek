@@ -1,0 +1,37 @@
+{
+ "cislo": 362,
+ "nadpis": "Von der ersten Romfart So zů Bernn gewesen ist",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 827,
+ "strany": [
+  827,
+  828
+ ],
+ "odstavce": [
+  {
+   "text": "Vff Samstag was Sant Michels abend des heiligen ertzengels / als man von der gebürt Cristi zalt Tusent vierhundert Sibentzig vnd Sechs Jare vmb mittag hatt angevangen das gnadenrich zit vnd die Romfart / die dann der Statt Bern / von sundern gnaden vnd verdienen / durch vnnsern aller heiligesten vatter den Babst genant Sixtus geben vnd verlichen / Vnd durch den hoch gelerten herrn Türingen Fricken / doctorn der rechten / iren Statschriber / mit grossem fliß vnd ernst / vnd durch besunder kuntschaft die er zů Rom gehebt hatt / erworben ist nach lut der bullen / vnd hatt die selb Romfart gewert acht tag nach Sant Michels tag / vnd am mentag nach den achttagen ouch / Vnd hatt man an dem selben Samstag Sant Michels abend nach mittem tag in der Statt angevangen lüten / vnd dem menigualtigen heiligen aplas mit allen glocken vnd grossen fröuden ingelütet / als wol zimlich vnd ouch billich gewesen ist / dann der Statt Bern nach minem erkennen nie grosser schatz zů sele vnd libe dienende verlichen ist worden / daran alle frommen lüte vnd biderben Berner gedencken / vnd des niemer mer vergessen süllent / In der meynung / wann semlicher aplas vnd gnadenrich zit wider kumpt nach innhalt der bullen / das sich dann yederman mit rüw vnd andacht darzů sterken sol / Vnd wie sich ouch die Romfart geendet hatt / vindet man in andern büchern von wort ze wort",
+   "preklad": "V sobotu, v předvečer svatého archanděla Michala, když se psalo od narození Krista tisíc čtyři sta sedmdesát šest let, kolem poledne začal milostivý čas a římská pouť, kterou městu Bernu ze zvláštní milosti a zásluhy udělil a propůjčil náš nejsvětější otec papež jménem Sixtus. Vymohl ji podle znění buly velmi učený pan Türing Fricker, doktor práv, jejich městský písař, s velkou pílí a vážností a díky zvláštním známostem, které měl v Římě. Ta římská pouť trvala osm dní po svatém Michalu a také v pondělí po oktávu. V tu sobotu, v předvečer svatého Michala, se odpoledne ve městě začalo zvonit a mnohonásobné svaté odpustky byly vyzváněny všemi zvony a s velkou radostí, jak bylo náležité a také spravedlivé. Městu Bernu totiž podle mého poznání nikdy nebyl udělen větší poklad sloužící duši i tělu. Na to mají všichni poctiví lidé a řádní Bernští pamatovat a nikdy na to nezapomenout, v tom smyslu, aby se každý, až takové odpustky a milostivý čas podle znění buly znovu přijdou, k nim posílil lítostí a zbožností. A jak ta římská pouť skončila, najde se v jiných knihách slovo od slova."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 828,
+   "text": "828 X (pozdější foliace, levý horní roh); stránka bez obrázku; odstavec s iniciálou V; dole rubrika s iniciálou D (k obrazu na s829)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 828,
+   "text": "„Samstag … Sant Michels abend 1476“ = 28. září 1476; „Romfart“ = jubilejní odpustky (papež Sixtus IV.), vymohl je městský písař Thüring Fricker; trvaly osm dní po sv. Michalu a v pondělí po oktávu"
+  }
+ ],
+ "nadpis_preklad": "O první římské pouti, která byla v Bernu",
+ "poznamky_prekladu": [
+  "Sobota, předvečer sv. Michala 1476 = 28. 9. 1476 (sv. Michal 29. 9. byl neděle). Oktáv trval do 6. 10., pondělí po oktávu = 7. 10. 1476 (mimo přepis).",
+  "„Romfart“ (římská pouť) = jubilejní odpustky udělené Bernu papežem Sixtem IV., aby se je věřící nemuseli získávat cestou do Říma (mimo přepis).",
+  "Schilling píše „Türingen Fricken“; v kap. 360 „Thüring Fricker“ – ponecháno podle textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

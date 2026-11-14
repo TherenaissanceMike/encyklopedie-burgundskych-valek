@@ -10,7 +10,7 @@
   },
   {
    "text": "In dem lies sich gar ein starker reisiger züg neben den panern harin bergshalb, darunder was der herr von Tschettegion mit verhangtem zöm, zü glicher wise, als ob si die panern mit gewalt wolten haben genomen, dann si gar nache darzü kamend. Do warent die langen spies zeringumb die panern gestalt nach ordnung der houptlüten und vennern, die man inen gar manlichen in die nasen sties, also das si sich bald widerkarten und von dannen ranten; doch bleip do tot ligen der herr von Tschettegion, der ein rechter fürst was und von einem burger von Bern umbbracht wart, hies Hans von der Grüb, darzü ander ouch, die tot bliben ligen.",
-   "preklad": "Mezitím se vedle korouhví od hory přihnal velmi silný jízdní oddíl a mezi nimi pán z Tschettegionu, s povolenou uzdou, tak jako by chtěli korouhve násilím vzít, neboť se k nim dostali velmi blízko. Tu stála dlouhá kopí kolem dokola korouhví, jak je rozestavili hejtmani a praporečníci, a těmi je velmi mužně bodali do nosů, takže se brzy obrátili a odcválali pryč. Zůstal však ležet mrtev pán z Tschettegionu, který byl skutečný kníže a kterého zabil jeden bernský měšťan jménem Hans von der Grüb; a zůstali tam ležet mrtví i jiní."
+   "preklad": "Mezitím se vedle korouhví od hory přihnal velmi silný jízdní oddíl a mezi nimi pán z Tschettegionu, s povolenou uzdou, tak jako by chtěli korouhve násilím vzít, neboť se k nim dostali velmi blízko. Tu stály dlouhé píky kolem dokola korouhví, jak je rozestavili hejtmani a praporečníci, a těmi je velmi mužně bodali do nosů, takže se brzy obrátili a odcválali pryč. Zůstal však ležet mrtev pán z Tschettegionu, který byl skutečný kníže a kterého zabil jeden bernský měšťan jménem Hans von der Grüb; a zůstali tam ležet mrtví i jiní."
   }
  ],
  "poznamky": [
@@ -22,5 +22,6 @@
   "„mit verhangtem zöm“ = s povolenou uzdou, tj. v plném trysku; „in die nasen sties“ = bodali do nosů, tj. přímo do tváří koní a jezdců."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

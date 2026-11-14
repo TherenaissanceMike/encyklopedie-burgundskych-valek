@@ -1,0 +1,33 @@
+{
+ "cislo": 93,
+ "nadpis": "Das der genant von hagenbach sins mutwillens nit abstan wolt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 199,
+ "strany": [
+  199,
+  200
+ ],
+ "odstavce": [
+  {
+   "text": "Wo ouch die eidgno[ssen] oder ir zůgewanten mit yemand ir widersechern oder viende[n] zů tagen kamen / zů Costentz oder andern enden / So nam der von hagenbach sich des alwegen wider die eidgno[ssen] us freveler gewüssikeit[?] an mit hochen vnd scharpfen tröw worten / vf sinen herrenn von Burgunn / darumb man im aber nit vil gap / doch kreich was alles sin regieren tůn vnd lan / dem glich vnd us semlicher hochmütiger frevelkeit siner getaten / das er ye alle herren Stett vnd gemeinden verachtet / vnd des gemüt[?] was durch sin valschen übungen vnd anslege / die eidgnosschaft zů zerstören / vnd sinem herrenn das heilig rich vnd tütsch nation vndertenig ze machen / als des zem dickern mal sin eigen wort zügnüss gabent Wann das der almechtig ewig gott / der kein bosheit vngestraft latt / semlichs durch sin barmhertzig mittel fürkomen / vnd inn vallen lassen hatt / zů verderben in der grůb / die er andern gemacht hatt",
+   "preklad": "Kdekoli se také Spříseženci nebo jejich spojenci sešli s někým ze svých protivníků nebo nepřátel na sněmech, v Kostnici nebo jinde, ten z Hagenbachu se toho vždy proti Spřísežencům ujímal z drzé svévole [?] vysokými a ostrými výhrůžkami, spoléhaje na svého pána Burgundského; na to se mu však mnoho nedalo. Přesto bylo celé jeho vládnutí, konání i nekonání válečné [kreich] a právě tak to šlo z drzé pýchy jeho činů: pohrdal všemi pány, městy a obcemi a měl v úmyslu [?] svými falešnými praktikami a úklady zničit Spříseženstvo a podrobit svému pánu Svatou říši a německý národ, jak o tom častokrát svědčila jeho vlastní slova. Avšak všemohoucí věčný Bůh, který nenechá žádnou zlobu bez trestu, tomu svým milosrdným zásahem předešel a nechal ho padnout ke zkáze do jámy, kterou on připravil jiným."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 200,
+   "text": "200 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak zmíněný z Hagenbachu nechtěl upustit od své svévole",
+ "poznamky_prekladu": [
+  "„us freveler gewüssikeit[?]“ – čtení nejisté; přeloženo „z drzé svévole [?]“.",
+  "„doch kreich was alles sin regieren“ – doslova „přece bylo všechno jeho vládnutí válka“; přeloženo „válečné [kreich]“, smysl snad „svárlivé, nepřátelské“.",
+  "„des gemüt[?] was“ – čtení nejisté; přeloženo „měl v úmyslu [?]“.",
+  "Obraz „jámy, kterou připravil jiným“ podle Žalmu 7,16 / Přísloví 26,27."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

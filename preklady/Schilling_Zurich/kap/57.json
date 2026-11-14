@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "57. Das der herzog von Burgunnen etliche der Eidgnossen offen viend in sinen schirm nam.",
-   "preklad": "57. Jak burgundský vévoda vzal do své ochrany některé otevřené nepřátele konfederátů."
+   "preklad": "57. Jak burgundský vévoda vzal do své ochrany některé otevřené nepřátele Spříseženců."
   },
   {
    "text": "Von stund an nam er ouch herr Bernharten von Eptingen, der Eidgnossen offen viend und darzü ander ir widerwertigen und sunderlich den von Höwdorf, von dem dann dis krieg und irrungen allermeist komen waren, in sinen schirm, als er das ouch den Eidgnossen hochmüticlichen schreip, und gestattet ouch, das derselb von Höwdorf über den friden zü Walzhüt troffen und wider alle billicheit darnach bald, als etlich dero von Bern kouflüt und ander der Eidgnossen von stetten und lendern in der vastmessen den Rine hinab gen Frankfurt varen wolten, mit hilf sins lantvogts und des von Gerolzecke uf des heiligen richs strassen des Rines dieselben kouflut niderwarf, inen ir barschaft und hab nam, ouch etlich mortlich vom leben zem tode bracht und si gevangen gen Schuttern in des von Gerolzeck stat fürt, als man das harnach witer hören wirt.",
-   "preklad": "Hned nato vzal do své ochrany také pana Bernharta von Eptingen, otevřeného nepřítele konfederátů, a k tomu jiné jejich odpůrce, zvláště Höwdorfera, od něhož tyto války a rozepře vzešly nejvíce; i to konfederátům zpupně napsal. A dopustil také, aby tentýž Höwdorfer navzdory míru uzavřenému u Waldshutu a proti vší spravedlnosti brzy nato, když někteří bernští kupci a jiní konfederáti z měst a zemí chtěli o postním veletrhu plout po Rýnu dolů do Frankfurtu, s pomocí jeho zemského fojta a pána z Geroldsecku na říšské cestě po Rýnu ty kupce přepadl. Vzal jim hotové peníze i zboží, některé vražedně připravil o život a zajaté odvlekl do Schutternu, města pána z Geroldsecku, jak se dále ještě uslyší."
+   "preklad": "Hned nato vzal do své ochrany také pana Bernharta von Eptingen, otevřeného nepřítele Spříseženců, a k tomu jiné jejich odpůrce, zvláště Höwdorfera, od něhož tyto války a rozepře vzešly nejvíce; i to Spřísežencům zpupně napsal. A dopustil také, aby tentýž Höwdorfer navzdory míru uzavřenému u Waldshutu a proti vší spravedlnosti brzy nato, když někteří bernští kupci a jiní Spříseženci z měst a zemí chtěli o postním veletrhu plout po Rýnu dolů do Frankfurtu, s pomocí jeho zemského fojta a pána z Geroldsecku na říšské cestě po Rýnu ty kupce přepadl. Vzal jim hotové peníze i zboží, některé vražedně připravil o život a zajaté odvlekl do Schutternu, města pána z Geroldsecku, jak se dále ještě uslyší."
   }
  ],
  "poznamky": [
@@ -23,5 +23,6 @@
   "Oprava textu: číslo v nadpisu „97.“ → „57.“, odstraněn zbytek OCR „a ne“ před „Schuttern“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

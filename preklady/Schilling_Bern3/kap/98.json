@@ -1,0 +1,33 @@
+{
+ "cislo": 98,
+ "nadpis": "Das etlich from lüte / Edel vnd ander / semlich sachen an iren herrenn den hertzogen von österrich mit clag brachten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 208,
+ "strany": [
+  208,
+  209
+ ],
+ "odstavce": [
+  {
+   "text": "Dis vnd merers ward von den frommen betrachtet / vnd gerieten da etlich Edel vnd ander biderb lüte / so in der verpfante[n] landschaft vnd dem joch des hertzogen von Burgun[n] vnd sins strengen landtvogts warend / das blatt harumb keren / vnd die trüw vnd fromkeit der eidgno[ssen] innmassen erkennen / vnd funden solichen ratt vnd rucken[?] / damit si ye ir not vnd anligen swere mit mergklicher clage an hertzog Sigmunden der si dann villicht in widermůt dem hertzogen von Burgunn verpfent hatt / brachten / vnd begerten darunder siner gnaden ratt vnd hilff wann si kurtz den von hagenbach / besunder die vier Stett am Rine ob Basel / mit sinem gezüge fürer nit me in lassen / noch ander beswerden vnd hertikeit mit dem böss pfennig / vnd anderm so wider ir freiheit vnd alt herkomen was / fürer liden wolten / vnd hatten doch die selben fromen Stette in disen dingen ir gröste[n] trost zů den eidgno[ssen] / die si ouch on allen zwivel nit verlassen hetten / daran taten die selben biderben lüte wislich / wann si damit in frid vnd gnade kament vnd inen selbs ouch iren wiben vnd kinden eins vntreglichen lastes ab hulfent",
+   "preklad": "To i více uvážili řádní lidé. A tu se někteří urození i jiní poctiví lidé, kteří byli v zastavené krajině a pod jhem vévody Burgundského a jeho tvrdého zemského fojta, rozhodli obrátit list a plně uznat věrnost a poctivost Spříseženců. Našli takovou radu a oporu [?], že svou nouzi a těžké starosti s důraznou stížností přednesli vévodovi Zikmundovi, který je snad z nevole zastavil vévodovi Burgundskému, a žádali přitom radu a pomoc jeho milosti. Zkrátka totiž nechtěli toho z Hagenbachu, zvláště čtyři města na Rýně nad Basilejí, už dále pouštět dovnitř s jeho ozbrojenci [gezüge], ani dále snášet jiná břemena a tvrdosti se „zlým fenikem“ a jiným, co bylo proti jejich svobodě a starému zvyku. A ta statečná města měla v těchto věcech svou největší naději ve Spřísežencích, kteří by je také bez vší pochyby neopustili. Ti poctiví lidé v tom jednali moudře, neboť tím došli míru a milosti a sami sobě i svým ženám a dětem pomohli sejmout nesnesitelné břemeno."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 209,
+   "text": "209 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří řádní lidé, urození i jiní, přednesli tyto věci se stížností svému pánu vévodovi Rakouskému",
+ "poznamky_prekladu": [
+  "„rucken[?]“ – čtení nejisté; snad rucken = záda, opora; přeloženo „oporu [?]“.",
+  "„böss pfennig“ = „zlý fenik“, Hagenbachova daň z vína (spotřební dávka), velmi nenáviděná (mimo přepis).",
+  "„strengen landtvogts“ – zde ve smyslu tvrdý, krutý (nikoli titul); přeloženo „tvrdého“.",
+  "„in widermůt“ – v nevoli, z rozmrzelosti (nad porážkami od Spříseženců)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

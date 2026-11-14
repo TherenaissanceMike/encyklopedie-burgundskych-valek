@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "406. Das die von Zürich die von Bern und ander Eidgnossen mantent.",
-   "preklad": "406. Jak Curyšští vyzvali Bernské a jiné konfederáty."
+   "preklad": "406. Jak Curyšští vyzvali Bernské a jiné Spřísežence."
   },
   {
    "text": "Den fürsichtigen, fromen, wisen, dem schultheissen, rat und den zweihunderten der stat Bern, ünsern besundern güten fründen und getrüwen lieben Eidgnossen enbieten wir der burgermeister, die räte, die zunftmeister und der gros rat, die zweihundert der stat Zurich ünser früntlich willig dienste und was wir eren und güts vermügen alzit bevor. Und als bi üwer lieben früntschaft wir ünser treffenlich botschaft gehebt und der erscheinen lassen hand, was uns von denen von Strasburg ist begegnet und was wir darzü tün wolten und die bitten lassen, üwer getrüw ufsechen zü üns ze haben, und wir demnach über üwer und ünser geswornen pünde gesessen und die verhört und üns dero inhalt nach uf ünser eid erkant, das wir üwer liebe, uns wider die von Strasburg hilf ze tünde, wol ze manen haben und manen mögen, manen ouch üwer früntschaft mit disem ünserm ofnen brief nach begriffung und wisung üwer und ünser pünden, als wir mit denen von Strasburg in vechde und vindschaft sind und uf ietzt mitwochen in dem namen gottes si ze schedigen mit ünser stat paner usziechen wellen, das ir fürderlich demnach uns züziechen und wider si mit üwerm libe und güt hilflichen sind.",
-   "preklad": "Prozíravým, zbožným, moudrým, starostovi, radě a Dvěma stům města Bernu, našim zvláštním dobrým přátelům a věrným milým konfederátům, vzkazujeme my, purkmistr, rady, cechmistři a velká rada, Dvě stě města Curychu, své přátelské ochotné služby a vždy předem vše, co ctí a dobrým zmůžeme. Měli jsme u vaší milé přízně své přední poselstvo a dali mu vyložit, co se nám od Štrasburských přihodilo a co jsme k tomu chtěli učinit, a dali jsme vás prosit, abyste na nás měli věrný ohled. Potom jsme zasedli nad vašimi a našimi přísežnými spolkovými smlouvami, vyslechli je a podle jejich obsahu na svou přísahu uznali, že máme a můžeme vaši lásku dobře vyzvat, abyste nám proti Štrasburským pomohli. Vyzýváme proto vaši přízeň tímto naším otevřeným listem podle znění a obsahu vašich a našich spolkových smluv – neboť jsme se Štrasburskými v nepřátelství a příští středu chceme ve jménu Božím s korouhví našeho města vytáhnout, abychom jim škodili –, abyste nám neprodleně přitáhli na pomoc a byli nám proti nim nápomocni tělem i statkem."
+   "preklad": "Prozíravým, poctivým, moudrým, starostovi, Malé radě a Radě dvou set města Bernu, našim zvláštním dobrým přátelům a věrným milým Spřísežencům, vzkazujeme my, purkmistr, rady, cechmistři a velká rada, Rada dvou set města Curychu, své přátelské ochotné služby a vždy předem vše, co ctí a dobrým zmůžeme. Měli jsme u vaší milé přízně své přední poselstvo a dali mu vyložit, co se nám od Štrasburských přihodilo a co jsme k tomu chtěli učinit, a dali jsme vás prosit, abyste na nás měli věrný ohled. Potom jsme zasedli nad vašimi a našimi přísežnými spolkovými smlouvami, vyslechli je a podle jejich obsahu na svou přísahu uznali, že máme a můžeme vaši lásku dobře vyzvat, abyste nám proti Štrasburským pomohli. Vyzýváme proto vaši přízeň tímto naším otevřeným listem podle znění a obsahu vašich a našich spolkových smluv – neboť jsme se Štrasburskými v nepřátelství a příští středu chceme ve jménu Božím s korouhví našeho města vytáhnout, abychom jim škodili –, abyste nám neprodleně přitáhli na pomoc a byli nám proti nim nápomocni tělem i statkem."
   },
   {
    "text": "Mit urkünd dis briefs versigelt mit ünser stat secret, offenlich harin getruckt. Datum dornstag nach Ulrici anno (14)82.",
@@ -24,5 +24,6 @@
   "Výzva (manung) je formální postup podle spolkových smluv: místo, které se cítí napadeno, „napomene“ spojence k pomoci; spojenci nejprve posuzují, zda je napomenutí oprávněné (srov. kap. 409)."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

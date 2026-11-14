@@ -1,0 +1,32 @@
+{
+ "cislo": 128,
+ "nadpis": "Das die Statt Mümpelgarten von denen von Bernn vnd Sollotern innamen gemeiner eidgno[ssen] ouch in die eynung genomen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 264,
+ "strany": [
+  264,
+  265
+ ],
+ "odstavce": [
+  {
+   "text": "Vff dem selben tage zů Lutzern / brachten ouch die von Bernn vnd Sollotern an gemein eidgno[ssen] / wie das die Statt Mümpelgart / so dann Graf Heinrichen von wirtenberg / den der hertzog von Burgunn gevangen hette / zůgehort / ouch begert in die vereynung ze komen / vnd mit den tütschen zů leben / dann si vil vnd mengerley anvechtunge hetten von Burgunnern / das si sich den selben vnderwerfen solten / vnd nach dem man dann vff dem selben tage ward betrachten / das Mümpelgart den eidgno[ssen] vnd allem tütschen lande als wol gelegen vnd ein rechter Slüssel des landes wer / da wart denen von Bernn vnd Sollotern bevolhen vnd gewalt geben / das si die selb Statt innamen gemeiner eidgno[ssen] in die nüwe vereynung nemen / vnd das mit briefen vnd Sigeln bevestnen solten / vnd ob das ze schulden[?] keme / Soldner darin legen / wann es dann not tete / so wolten si die selben mit lib vn[d] gůt helfen entschütten / vnd niemer me verlassen / also kamend die von Mümpelgart ouch in die vereynung das denen von Bernn vnd gemeinen eidgno[ssen] zů meren malen wol erschossen hat / als harnach statt",
+   "preklad": "Na tomtéž sněmu v Luzernu Bernští a Solothurnští předložili všem Spřísežencům, že město Montbéliard, které patří hraběti Heinrichovi z Württemberka, jehož vévoda Burgundský zajal, si také přeje vstoupit do spolku a žít s Němci, neboť má od Burgunďanů mnoho a všelijakých útoků, aby se jim podrobilo. A protože se na tomtéž sněmu uvážilo, že Montbéliard leží pro Spřísežence i pro celou německou zemi velmi dobře a je pravým klíčem země, bylo Bernským a Solothurnským uloženo a dáno zmocnění, aby to město jménem všech Spříseženců přijali do Dolního spolku a utvrdili to listinami a pečetěmi, a bude-li toho třeba [?], aby do něj položili žoldnéře. A kdyby bylo nouze, chtějí mu životem i statkem pomoci, vysvobodit je a nikdy je neopustit. Tak se i Montbéliardští dostali do spolku, což Bernským a všem Spřísežencům mnohokrát dobře prospělo, jak stojí dále."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 265,
+   "text": "265 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo (prosvítá text z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští jménem všech Spříseženců přijali do spolku také město Montbéliard",
+ "poznamky_prekladu": [
+  "„ze schulden[?]“ – nejisté čtení, ustálené „ze schulden komen“ = dojít k tomu, být třeba.",
+  "„die nüwe vereynung“ přeloženo podle glosáře „Dolní spolek“; v nadpisu jen „eynung“ = spolek.",
+  "Hrabě Heinrich z Württemberka (pán Montbéliardu) byl zajat Burgunďany v roce 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

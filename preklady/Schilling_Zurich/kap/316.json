@@ -18,7 +18,7 @@
   },
   {
    "text": "Denne von Lutzern herr Caspar von Hertenstein, herr Albin von Sillinen, rittere und Heinrich Hasfurter. Denne von Ure ein treffenlich botschaft. Denne von Switz ein treffenlich botschaft. Denne von Underwalden ein treffenlich botschaft. Denne von Zug ein treffenlich botschaft. Denne von Glarus ein treffenlich botschaft. Denne von Solotern ein treffenlich botschaft. Denne von Biel ein treffenlich botschaft. Denne des pfalenzgrafen treffenlichen botten. Denne von Colmar, Sletstat und andern stetten der nüwen vereinung treffenlichen botten.",
-   "preklad": "Dále z Luzernu pan Caspar von Hertenstein, pan Albin von Sillinen, rytíři, a Heinrich Hasfurter. Dále z Uri přední poselstvo. Dále ze Schwyzu přední poselstvo. Dále z Unterwaldenu přední poselstvo. Dále ze Zugu přední poselstvo. Dále z Glarusu přední poselstvo. Dále ze Solothurnu přední poselstvo. Dále z Bielu přední poselstvo. Dále přední poslové falckraběte. Dále přední poslové z Colmaru, Sélestatu a jiných měst Nového spolku."
+   "preklad": "Dále z Luzernu pan Caspar von Hertenstein, pan Albin von Sillinen, rytíři, a Heinrich Hasfurter. Dále z Uri přední poselstvo. Dále ze Schwyzu přední poselstvo. Dále z Unterwaldenu přední poselstvo. Dále ze Zugu přední poselstvo. Dále z Glarusu přední poselstvo. Dále ze Solothurnu přední poselstvo. Dále z Bielu přední poselstvo. Dále přední poslové falckraběte. Dále přední poslové z Colmaru, Sélestatu a jiných měst Dolního spolku."
   },
   {
    "text": "Denne von dem bischof und gemeinem lande von Wallis treffenlich botten, geistlich und weltlich und vil ander, der namen nit hie stand. Und mit kurzen worten, so hat der tag angefangen an sant Jacobs tag des vorgenanten 76. iares und hat gewert 22 tag aneinandern und sind als vil lüten darkomen, das alle ding türe worden und gewesen sind an win, brot und allen andern dingen. Und mit namen, so hat ein alt hün golten gern vier plaphart und ein iung hün zwen plaphart und mocht man ir dennocht nit gnüg finden noch haben.",
@@ -30,12 +30,13 @@
   "„derselben lant[?]“: OCR má „derselben at“, čtení je nejisté. Další drobné opravy: allereristenlichesten → allercristenlichesten, Jarzü → darzü.",
   "Tobler: podobné seznamy mají Basler Chr. III, 466–468, Absch. II, 601 a Chmel, ale všechny jsou neúplné. Jména dalších pěti francouzských vyslanců, Reinhartova doprovodu, rakouských, štrasburských a basilejských poslů, savojských, vaudských a ženevských delegátů jsou tam.",
   "„den drin stetten“ = podle Toblera překlad italského „tre stati“, tedy tři savojské stavy (ne tři města).",
-  "Tobler uvádí jména poslů: Uri Hans Imhoff, Schwyz amman Dietrich, Unterwalden amman Heinzli, Zug amman Itten, Glarus fojt Schidle, Solothurn Urs Steger a Hans vom Stall, Biel Peter Göuffi a Stephan Korn. Za Valais jich bylo osm, ale jejich jména neznáme. Jména poslů falckraběte chybějí.",
+  "Tobler uvádí jména poslů: Uri Hans Imhoff, Schwyz úředník (amman) Dietrich, Unterwalden úředník Heinzli, Zug úředník Itten, Glarus fojt Schidle, Solothurn Urs Steger a Hans vom Stall, Biel Peter Göuffi a Stephan Korn. Za Valais jich bylo osm, ale jejich jména neznáme. Jména poslů falckraběte chybějí.",
   "Varianty: místo „ein treffenlich botschaft“ má jiný rukopis všude „zwen botten“; u Göldliho má „burgermeister“. Za „noch haben“ dodává: „Doch was der tag nit übel angeleit, dann die sachen merenteils al gericht und betragen wurden, darumb man dann da was“ (sněm však nebyl zbytečný, protože se většina věcí urovnala).",
   "Sv. Jakub = 25. 7. 1476. Tobler: sněm trval od 25. 7. do 16. 8. Bernští vyslanci přijeli do Fribourgu 28. 7.",
   "„Reinhart“ je René II. Lotrinský. Admirálem Francie byl tehdy Ludvík, levoboček Bourbonský (mimo Tobler). „Nüwe vereinung“ je Dolní spolek alsaských měst a biskupů (mimo Tobler).",
   "Plaphart (plapart) byla basilejská stříbrná mince, podle tabulky termínů „groš“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

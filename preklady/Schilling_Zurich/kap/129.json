@@ -14,7 +14,7 @@
   },
   {
    "text": "Es zugen ouch mit denen von Bern die von Friburg mit einem venlin wolgerüster lüten. Darzü kamen ouch zü inen die von Solotern mit einem venlin und gar vil wolerzügter, endlicher lüten, die ein stat von Bern in keinen nöten nie verlassen und alwegen lieb und leid mit inen gelitten haben. Und zugen also in die stat gen Borrentrut, darinne man etwas tagen lag, iederman der sinen zü erwarten.",
-   "preklad": "S Bernské táhli také Fribourgští s praporcem dobře vyzbrojených lidí. Přišli k nim i Solothurnští s praporcem a s velmi mnoha dobře vystrojenými a zdatnými muži, kteří Bern nikdy v žádné nouzi neopustili a vždy s ním snášeli dobré i zlé. A tak táhli do města Porrentruy, kde se několik dní leželo a každý čekal na své lidi."
+   "preklad": "S Bernskými táhli také Fribourgští s praporcem dobře vyzbrojených lidí. Přišli k nim i Solothurnští s praporcem a s velmi mnoha dobře vystrojenými a zdatnými muži, kteří Bern nikdy v žádné nouzi neopustili a vždy s ním snášeli dobré i zlé. A tak táhli do města Porrentruy, kde se několik dní leželo a každý čekal na své lidi."
   }
  ],
  "poznamky": [
@@ -28,5 +28,6 @@
   "Oprava textu: číslo kapitoly „123.“ → „129.“ (OCR)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; s. 276–277 porovnány s rukopisem; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": true
+ "overeno_rukopis": true,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

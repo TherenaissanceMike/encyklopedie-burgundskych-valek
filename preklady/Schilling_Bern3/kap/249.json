@@ -1,0 +1,39 @@
+{
+ "cislo": 249,
+ "nadpis": "Das die von Bernn vnd ander ir eidgno[ssen] alle miteinandern gen Losan zugen mit iren panern",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 540,
+ "strany": [
+  540,
+  541
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zugen die von Bernn / vnd gemein eidgno[ssen] mit allen iren panern von Morse den nechsten gen Losan / vn[d] wart ouch zů Morse vast geplündert / Dann man inen viend was / vnd nam ouch yederma[n] am abziechen was im werden mocht / wie wol man den irren[?] nit vil geben hatt / Darzů verbranten ouch die von Lutzern das schön Sloß in der Statt / darinne si mit allem irem volck waren gelegen / vnd als man gen Losann kam da wart man ze ratt / das yederman den nechste[n] heim ziechen solt",
+   "preklad": "Potom táhli Bernští a všichni Spříseženci se všemi svými korouhvemi z Morges nejkratší cestou do Lausanne. Také Morges bylo silně vypleněno, neboť jim [tamější] byli nepřátelé, a každý při odchodu bral, co mohl dostat, ačkoli se jim [?] mnoho nedalo. K tomu Luzernští vypálili pěkný hrad ve městě, ve kterém leželi se všemi svými lidmi. A když se přišlo do Lausanne, usneslo se, že každý má táhnout nejkratší cestou domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 540,
+   "popis": "kolorovaná kresba – spojené švýcarské vojsko s množstvím korouhví (Uri s býčí hlavou, Bern s medvědem, další) a pištci vchází do Lausanne: velké opevněné město s katedrálou s gotickými okny a věžemi, prázdný štít na věži; pikenýři s bílými kříži na zádech"
+  },
+  {
+   "strana": 541,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (vojáci s bílými kříži), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 541,
+   "text": "541 X (pozdější foliace, pravý horní roh); text s iniciálou D psán přes šedě podloženou nedokončenou miniaturu (postavy s kříži); dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a ostatní jejich Spříseženci táhli všichni spolu se svými korouhvemi do Lausanne",
+ "poznamky_prekladu": [
+  "„wie wol man den irren[?] nit vil geben hatt“ – čtení „irren“ nejisté (snad „den iren“ = jejich lidem); smysl věty nejasný, snad omluva plenění tím, že vojáci mnoho nedostali."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

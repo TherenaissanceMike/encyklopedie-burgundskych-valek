@@ -14,7 +14,7 @@
   },
   {
    "text": "Und zugen also angendes von Lutzern, und besunder die zwei örter Ure und Switz, die ouch den ersten anfang und ufbruch tatent. Die von Lutzern hatten ouch mit den iren ir stat nach aller notdurft besatzt und das darumb getan, das si vor inen sicher und ir meister möchten sin, dann inen ouch allerlei unfrüntlicher tröwworten begegnet warent, die ir stat und sundrig personen berürten und angingen.",
-   "preklad": "A hned nato z Luzernu táhli dál, zvláště ta dvě místa, Uri a Schwyz, která také učinila první začátek a vytáhla jako první. Luzernští také obsadili své město svými lidmi, jak bylo třeba, a učinili to proto, aby byli před nimi v bezpečí a zůstali ve svém městě pány, neboť i k nim dolehla všelijaká nepřátelská výhrůžná slova, která se týkala jejich města i jednotlivých osob."
+   "preklad": "A hned nato z Luzernu táhli dál, zvláště ta dvě místa (kantony), Uri a Schwyz, která také učinila první začátek a vytáhla jako první. Luzernští také obsadili své město svými lidmi, jak bylo třeba, a učinili to proto, aby byli před nimi v bezpečí a zůstali ve svém městě pány, neboť i k nim dolehla všelijaká nepřátelská výhrůžná slova, která se týkala jejich města i jednotlivých osob."
   }
  ],
  "poznamky": [
@@ -23,5 +23,6 @@
   "„gewent“ = odvrátit (wenden); varianta nadpisu: „gern wider heim gevertiget het“ (rádi by je byli poslali zpátky domů). Varianty: „als hoch gelobt hetten, das si dem“, „zugen damit angendes“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

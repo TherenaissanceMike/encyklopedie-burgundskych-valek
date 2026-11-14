@@ -1,0 +1,51 @@
+{
+ "cislo": 277,
+ "nadpis": "Das die vorgenanten fromen lüte von Bernn vnd Friburg So in dem Sloß warent vast genöt wurden / vnd irem büchsen meister das houpt an einer zynnen gantz abgeschossen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 608,
+ "strany": [
+  608,
+  609,
+  610
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die fromen lüte von Bernn vnd Friburg in das Sloß Granson komen vnd gewichen / der bi fünf hundert mannen warent / da hatten die Burgunschen die Statt inn mit gantzem gewalt vnd macht / vnd leiten ir büchsen gar nache zů dem Sloß / vnd schussen tag vnd nacht gar vientlich daran / die gůten fromen lüte hielten sich in dem Sloß gar mannlich / vnd wart das Sloß fürer nit me genöt mit stürmen / dann allein mit schiessen an einer siten gegen der Statt / da es ouch gar starck vnd werlich was / Sy hatten ouch bi inen in dem Sloß einen büchsen meister von Bernn / der wz gar ein mannlicher man / dem wart sin houpt in dem Sloß an einer zynnen von den vienden abgeschossen / das inen gar übel kam / dann wo büchsen meister in Stetten oder Slossen vmb bracht werden das bringt ander lüten grossen verlust vnd schade[n] Inen ging ouch im Slos etwas bulvers an / vnd verbranten inen darinn vil büchsen vnd ander züg / darzů wurden ouch ir desselben mals von dem füre vnd bulver vil gewüst / vnd hatten in dem Slos vil widerwertikeit miteinandern",
+   "preklad": "Když tedy stateční lidé z Bernu a Fribourgu, kterých bylo asi pět set mužů, ustoupili a dostali se do hradu Grandsonu, drželi Burgunďané město celou silou a mocí. Postavili svá děla velmi blízko k hradu a ve dne v noci do něj velmi nepřátelsky stříleli. Dobří stateční lidé se v hradu drželi velmi mužně. Hrad už nebyl dále tísněn útoky, nýbrž jen střelbou z jedné strany směrem k městu, kde byl také velmi silný a dobře k obraně. Měli také u sebe v hradu puškaře (mistra dělostřelby) z Bernu, který byl velmi mužný muž. Tomu nepřátelé v hradu na cimbuří ustřelili hlavu, což jim velmi uškodilo. Neboť když jsou ve městech nebo na hradech zabiti puškaři, přináší to ostatním lidem velkou ztrátu a škodu. Také se jim v hradu vznítil střelný prach a shořelo jim tam mnoho děl a jiné výzbroje. K tomu jich také tehdy byl ohněm a prachem mnoho zohaveno a v hradu mezi sebou měli mnoho svárů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 609,
+   "popis": "kolorovaná kresba – posádka v hradě Grandson: vlevo burgundští pikenýři pod prapory s ondřejskými kříži vnikají do města, vpravo z cimbuří hradní věže visí zastřelený bernský puškař s krvácející hlavou, obránci s ručnicemi za dřevěnou střechou; spodní polovina (hradby nad jezerem) jen kresebně načrtnuta"
+  },
+  {
+   "strana": 610,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 609,
+   "text": "609 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany (spodní část jen kresebně), dole text s iniciálou V"
+  },
+  {
+   "strana": 610,
+   "text": "610 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám pro obrázek; pod textem přípisek pozdější rukou; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "pripisky": [
+  {
+   "strana": 610,
+   "text": "pod textem pozdější rukou: „…ouch wol ein anzeigung was si zů nachfolgenden vngefelle[n]“ (čtení nejisté)"
+  }
+ ],
+ "nadpis_preklad": "Jak byli zmínění stateční lidé z Bernu a Fribourgu, kteří byli v hradu, těžce tísněni a jak jejich puškaři byla na cimbuří zcela ustřelena hlava",
+ "poznamky_prekladu": [
+  "Posádka hradu Grandson asi 500 mužů z Bernu a Fribourgu.",
+  "„gewüst“ = zpustošeni, zohaveni (popáleni); „widerwertikeit miteinandern“ = sváry, nesvornost mezi sebou (předznamenává kapitulaci)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

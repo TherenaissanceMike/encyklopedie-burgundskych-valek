@@ -1,0 +1,40 @@
+{
+ "cislo": 295,
+ "nadpis": "Das der hertzog von Burgunn von denen von Bernn vnd andern eidgno[ssen] vnd verwanten gar mannlichen veriagt / vnd im ouch sin leger angewunnen wartt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 649,
+ "strany": [
+  649,
+  650,
+  651
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů der hertzog von Burgunn vnd die sinen die fromen eidgno[ssen] mit iren panern als mannlichen gesachen harnach ziechen vnd ouch die vordern so vnerschrockenlich uff im trungen / wie wol inen von den vienden ouch gar we beschach mit schiessen / vnd sunderlich von den bognern / die gar vast schussen glich einem regenn vnd ouch grossen schaden tatent / dann ouch die pfilysen merenteils vergift warent / davon vil lüten gewüst wurdent",
+   "preklad": "Když nyní vévoda Burgundský a jeho lidé spatřili, jak stateční Spříseženci se svými korouhvemi tak statečně přitahují a jak se přední tak neohroženě na něj tlačí – ačkoli i jim nepřátelé střelbou velmi ublížili, zvláště lučištníci, kteří stříleli velmi hustě jako déšť a působili také velkou škodu, neboť hroty šípů byly většinou otrávené, čímž bylo mnoho lidí zmrzačeno –"
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 650,
+   "popis": "celostránková kolorovaná kresba – útěk Burgunďanů u Grandsonu: nahoře vlevo burgundská pěchota s mnoha prapory (ondřejské kříže, ocílky, světec) prchá, Švýcaři s bílými kříži bodají píkami do zad, vpravo nahoře střelci s ručnicemi a hrad na skále; uprostřed vlevo převrácená loďka a topící se vojáci v jezeře; vpravo uprostřed švýcarské korouhve (sv. Leodegar? / sv. Fridolín, Uri s býčí hlavou, Bern s medvědem, Fribourg) a zástup pikenýrů; vpředu hromady mrtvých burgundských rytířů a koní, krev a odhozené zbraně, pikenýři s bílými kříži na zádech a trubač postupují doprava"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 650,
+   "text": "650 XX (pozdější foliace, levý horní roh); celostránková kolorovaná kresba, bez textu"
+  },
+  {
+   "strana": 651,
+   "text": "651 X (pozdější foliace, pravý horní roh); stránka bez obrázku; text s iniciálou D, rubrika, pak odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl vévoda Burgundský Bernskými a ostatními Spříseženci a spojenci velmi statečně zahnán a jak mu bylo dobyto i jeho ležení",
+ "poznamky_prekladu": [
+  "Věta pokračuje v kap. 296 („Vnd also namen si die flucht“); rubrika kap. 296 ji v rukopisu přerušuje."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

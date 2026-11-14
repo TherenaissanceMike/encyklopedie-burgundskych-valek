@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "Wie der hertzog reinhartt von luttringen gan zürich vnd jn andre ortt der eignoschaft reitt vmm hilff vnd bystand wider den brugunschen hertzogen.",
-   "preklad": "Jak vévoda Reinhart Lotrinský jel do Curychu a do ostatních kantonů spříseženstva prosit o pomoc a podporu proti vévodovi burgundskému."
+   "preklad": "Jak vévoda Reinhart Lotrinský jel do Curychu a do ostatních míst (kantonů) Spříseženstva prosit o pomoc a podporu proti vévodovi burgundskému."
   },
   {
    "text": "Item vnd als sich nun disse sachen allso uerluffend vnd nun der brugunsch hertzog wider für nansse zogen wz mit grosser macht vnd dz beschoss an underlass vnd jnnen gar uil zu leid ted mit stürmen vnd andren sachen vnd nun jnnen dabig alle tor oder portten der stat nansse verleid vnd besetz hatt zu dem aller strengsten dz sy nüt uss nansse noch niement zu jnnen mocht noch torst komen ist nüt minder den dz sy an spiss vnd andren dingen, grossen mangel von tag ze tag wurdend gewunnen vnd so gross dz etliche lüt als man warlichen sagt mit vrlob müss vnd ratzen assend den man die ochssen vnd ross for alle geessen hatt diss alles ward nun hertzog reinhart kunt getan der kam nun gar jn grosses mitliden vnd kumber, vnd reid nun schnel jn alle ortt der eignoschafft vnd klagt dz allen eignossen mit grossem truren vnd weinnen vnd begert an sy jm zu lichen vjm man dennen welte er gar gutten sold geben also von grosser pitt so den der hertzog von luttringen gethan hatt vor allen eignossen ward ein tag gan zürich angesächen sich darum ze underreden also kamend aller eignossen ratzbotten und dz ich aber also diss red hie mindre ward man ze ratt dem hertzog von luttringen sinner gebett ze willen werden vnd jm also sinner bette zu geweren.",
-   "preklad": "Když se tyto věci takto udály, vévoda burgundský opět s velkou mocí vytáhl před Nancy, bez ustání je ostřeloval a útoky i jinak působil obyvatelům mnoho škod. Všechny brány města Nancy jim obsadil a zatarasil tak přísně, že nikdo nemohl ani se neodvážil z Nancy vyjít ani k nim přijít. Den ode dne tak u nich rostl velký nedostatek potravin i jiných věcí, a to tak veliký, že někteří lidé, jak se pravdivě vypráví, s odpuštěním jedli myši a krysy, protože voly a koně už předtím všechny snědli. To vše bylo oznámeno vévodovi Reinhartovi. Ten pocítil velký soucit a zármutek, rychle objel všechny kantony spříseženstva a s velkým smutkem a pláčem si stěžoval všem konfederátům. Žádal je, aby mu půjčili 6000 mužů, jimž chtěl dát velmi dobrý žold. Na tak velkou prosbu, kterou vévoda lotrinský přednesl před všemi konfederáty, byl vypsán sněm do Curychu, aby se o tom poradili. Přišli tedy vyslanci všech konfederátů a, abych to zkrátil, usnesli se vyhovět prosbě vévody lotrinského a jeho žádost mu splnit."
+   "preklad": "Když se tyto věci takto udály, vévoda burgundský opět s velkou mocí vytáhl před Nancy, bez ustání je ostřeloval a útoky i jinak působil obyvatelům mnoho škod. Všechny brány města Nancy jim obsadil a zatarasil tak přísně, že nikdo nemohl ani se neodvážil z Nancy vyjít ani k nim přijít. Den ode dne tak u nich rostl velký nedostatek potravin i jiných věcí, a to tak veliký, že někteří lidé, jak se pravdivě vypráví, s odpuštěním jedli myši a krysy, protože voly a koně už předtím všechny snědli. To vše bylo oznámeno vévodovi Reinhartovi. Ten pocítil velký soucit a zármutek, rychle objel všechna místa Spříseženstva a s velkým smutkem a pláčem si stěžoval všem Spřísežencům. Žádal je, aby mu půjčili 6000 mužů, jimž chtěl dát velmi dobrý žold. Na tak velkou prosbu, kterou vévoda lotrinský přednesl před všemi Spříseženci, byl vypsán sněm do Curychu, aby se o tom poradili. Přišli tedy vyslanci všech Spříseženců a, abych to zkrátil, usnesli se vyhovět prosbě vévody lotrinského a jeho žádost mu splnit."
   },
   {
    "text": "Von stunden an dz kunt gethan ward torst man nüt ussnemen keinnen man jn luttringen zu reissen besunder warend glich bin viijm mannen da, die alle dess soldes begerttend vnd gab man jetlichem daruff so uil so jngeschriben wurdent vff den zug ij guldin, vnd warend jren bin tussend junger jüngling die noch klein knaben warend keinnen sold vnd müstend daheimmen bliben, also zugend von zürich allein ob xvc man, derren hoptman wz her hanss waldman vnd fenrich meister hanss holtzhalm vnd zugend also von zürich jm namen gotz.",
@@ -18,7 +18,7 @@
   },
   {
    "text": "Da nun der hertzog von luttringen sinner bett geereit ward danket er gemeinnen eignossen mit allem fliss vnd nam vrlob von jnnen vnd reid schnel gan bassel da wolte er der knächten wartten.",
-   "preklad": "Když byla vévodovi lotrinskému jeho prosba splněna, horlivě poděkoval všem konfederátům, rozloučil se s nimi a rychle odjel do Basileje; tam chtěl na knechty počkat."
+   "preklad": "Když byla vévodovi lotrinskému jeho prosba splněna, horlivě poděkoval všem Spřísežencům, rozloučil se s nimi a rychle odjel do Basileje; tam chtěl na knechty počkat."
   }
  ],
  "poznamky": [
@@ -30,5 +30,6 @@
   "Hans Waldmann, pozdější curyšský purkmistr (popraven 1489, mimo text). Podle Usteriho úvodu byl Edlibach jeho zeť (Schwiegersohn)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

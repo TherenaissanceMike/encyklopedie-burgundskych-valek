@@ -1,0 +1,46 @@
+{
+ "cislo": 340,
+ "nadpis": "Das der vienden gar ein mergklich zal in dem Sewe verdriben vnd gar iemerlich vmb kament vnd ertrunken",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 762,
+ "strany": [
+  762,
+  763,
+  764
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zoch yederman mit fryem hertze[n] gar mannlichen wider des hertzogen leger vnd in sin wagenburg / mit einem semlichen schalle / das der Burgunsch hochuertig hertzog vnd die sinen zů flucht kamen / Vnd wart der ernst als gros / das alles das si möchten erriten vnd erlouffen / von inen nider geslagen vnd ertött ward / vnd kam ouch semlich gros angst vnd nott vnnder si / das gar vil von rechtem iamer vnd schrecken in den Murten Sew riten vnd louffen müsten / das er von der Statt Murten bis oben us an das moß / da er ein ennde hatt / aller vol lüten stůnd vnd lag / die alle darinne ersturben[?] vnd erslagen wurden / vnd sich ouch selber von rechter angst vnd nott müsten ertrencken / das die nieman möcht zelen noch überslagen von menge der lüten Vnd warent merenteils alles Lamparter / dann die selben ir leger bi der Statt vnnder den nußbömen neben dem Sew hatten / Vnd als die in der Statt innen wurden vnd gesachen das die Burgunschen also fluchen / da marckten si wol das man si entschütten wolt",
+   "preklad": "A tak táhl každý se svobodným srdcem velmi mužně proti vévodovu ležení a do jeho vozové hradby s takovým hlukem, že se pyšný burgundský vévoda a jeho lidé dali na útěk. A boj byl tak urputný, že všechno, co mohli dohonit na koni i pěšky, bylo jimi sraženo a zabito. Mezi nepřátele přišel takový strach a nouze, že velmi mnoho jich z pravé hrůzy a zděšení muselo vjet a vběhnout do Murtenského jezera, takže od města Murtenu až nahoru k močálu, kde jezero končí, bylo plné lidí, kteří tam stáli a leželi. Ti všichni v něm zahynuli [?] a byli pobiti a sami se z pravého strachu a nouze museli utopit, takže je pro to množství lidí nikdo nemohl spočítat ani odhadnout. Byli to většinou samí Lombarďané, neboť ti měli své ležení u města pod ořešáky vedle jezera. A když to obránci ve městě postřehli a viděli, že Burgunďané takto prchají, poznali dobře, že je chtějí vysvobodit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 763,
+   "popis": "konec bitvy u Morata: nahoře konfederační korouhve (Uri s volskou hlavou, Schwyz, bernský medvěd, sv. Leodegar aj.) a jízda vtrhávají do burgundského ležení se stany, Burgundové prchají pod ondřejskými korouhvemi; vlevo hradby a věže Moratu; vpravo dole Burgundové zahnaní do jezera topí se (hlavy a ruce nad vodou), Švýcaři v loďkách je bodají píkami a bijí vesly; v popředí široká hladina jezera"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 763,
+   "text": "763 X (pozdější foliace, pravý horní roh); celostránkový obraz bez textu"
+  },
+  {
+   "strana": 764,
+   "text": "764 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavec s iniciálou V (vyznačena jen kadelou), dole rubrika s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 764,
+   "text": "jezero plné utonulých od Moratu až po „moß“ (močál na konci jezera); většinou Lombarďané („Lamparter“), kteří táborem pod ořešáky u jezera"
+  }
+ ],
+ "nadpis_preklad": "Jak velmi znatelný počet nepřátel byl zahnán do jezera a velmi žalostně zahynul a utonul",
+ "poznamky_prekladu": [
+  "„moß“ = močál na horním konci jezera (Grosses Moos; mimo přepis).",
+  "„ersturben[?]“ – nejisté čtení, přeloženo „zahynuli [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

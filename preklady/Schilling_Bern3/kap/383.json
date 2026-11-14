@@ -1,0 +1,46 @@
+{
+ "cislo": 383,
+ "nadpis": "Das ein hertzog von Meyland in siner eignen kirchen erstochen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 870,
+ "strany": [
+  870,
+  871
+ ],
+ "odstavce": [
+  {
+   "text": "An Sant Steffans tag ze winechten im lxxvij Jar / wart hertzog Galiatz zů Meyland in Sant Franciscen kirchen erstochen Vnd was das die ursach / Es waren zů Meyland funf brüder von alten güten geslechten wol her komen der selben vordern vnd ouch si hatten etwas güteren lange zit innegehebt / die wurden inen durch den hertzogen genomen / vnd anndern lüten geben Des appellierten die selben brüder für den Babst vnd gewunnen semlich sachen zem dritten mal mit recht / daran wolt sich der hertzog nit keren vnd trowt inen darzů / si solten der ding vor im nit me gedencken / er wolt si anders hencken Das clagten die brüder iren frunden vnd andern gemeinen / vnd meinten darzů ze tůnde / vnd den hertzogen heimlichen vmb bringen / Vnd hatten darumb ein merklich volck an sich gehenckt vnd vermeinten ouch damit fry werden / vnd keinen semlichen herren me haben / Vnd do der hertzog an dem vorgenanten Sant Steffans tag mit sinen dieneren nach gewonheit in die kirchen kam / do wart er von der selben brüdern einem erstochen / vnd wart ein grosser uff louff in der kilchen vnd der Statt Meylant / Aber die inen hilf zůgesagt hatten / torsten noch wolten sich des nit annder winden noch annemen / vnd wart der selb geteter gar hertiklich ertöt / vnd ein teil siner brüderen ouch / Zwar der armen vnd fromen lüten was me zů erbarmen dann des hertzogen dann er inen gewalt vnd vnrecht getan hatt",
+   "preklad": "Na den svatého Štěpána o Vánocích roku [14]77 byl vévoda Galeazzo Milánský probodnut v kostele svatého Františka. A příčina byla tato: V Miláně bylo pět bratří, kteří pocházeli ze starých dobrých rodů. Jejich předkové i oni sami drželi po dlouhou dobu nějaké statky; ty jim vévoda vzal a dal jiným lidem. Proti tomu se bratři odvolali k papeži a třikrát takové spory podle práva vyhráli. Na to se vévoda nechtěl ohlížet a ještě jim vyhrožoval, že by mu o té věci už neměli připomínat, jinak je dá oběsit. To si bratři stěžovali svým přátelům a jiným prostým lidem a umínili si, že s tím něco udělají a vévodu tajně odstraní. Proto k sobě připoutali značný počet lidí a doufali, že se tím také osvobodí a už žádného takového pána mít nebudou. A když vévoda na zmíněný den svatého Štěpána přišel podle zvyku se svými služebníky do kostela, byl jedním z těch bratří probodnut. V kostele i ve městě Miláně nastal velký rozruch. Ale ti, kdo jim přislíbili pomoc, se neodvážili a nechtěli se toho ujmout ani se k tomu přiznat. A sám pachatel byl velmi krutě usmrcen a s ním i část jeho bratří. Věru, těch ubohých a poctivých lidí bylo víc k politování než vévody, neboť on jim učinil násilí a bezpráví."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 870,
+   "popis": "vražda Galeazza Marii Sforzy v kostele: gotická loď s mřížovanými okny, vpravo oltář se svícny a sochou Panny Marie s Ježíškem; uprostřed muž v pruhovaném oděvu bodá dýkou vévodu, kterého drží druhý útočník, vévoda krvácí; vlevo skupina dvořanů, jeden tasí meč; na zemi pohozený klobouk s péry a pochva; vlevo nahoře průhled na nádvoří, kde prchají a jsou pronásledováni útočníci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 871,
+   "text": "871 X (pozdější foliace, pravý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); pokračování odstavce, dole rubrika s iniciálou D (k obrazu na s872)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 870,
+   "text": "Galeazzo Maria Sforza zavražděn 26. prosince 1476 (rok „lxxvij“ počítán od Vánoc); ve skutečnosti v kostele sv. Štěpána, text uvádí „Sant Franciscen kirchen“"
+  },
+  {
+   "strana": 871,
+   "text": "Schillingova verze motivu vraždy (pět bratří připravených o statky); vrah byl krutě popraven"
+  }
+ ],
+ "nadpis_preklad": "Jak byl vévoda milánský probodnut ve svém vlastním kostele",
+ "poznamky_prekladu": [
+  "Schilling: den sv. Štěpána o Vánocích roku [14]77 = 26. 12. 1476 (rok počítán od Vánoc); Galeazzo Maria Sforza byl skutečně zavražděn 26. 12. 1476 (mimo přepis).",
+  "Schilling uvádí kostel sv. Františka; podle jiných pramenů šlo o kostel sv. Štěpána (Santo Stefano) v Miláně (nesoulad, mimo přepis).",
+  "Příběh o pěti bratrech připravených o statky je Schillingova verze; vrahy byli podle jiných pramenů Giovanni Andrea Lampugnani, Girolamo Olgiati a Carlo Visconti (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 172,
+ "nadpis": "Das die zwey güten Sloss Montanyis vnd Escharles[?] / von denen von Bern ouch ingenomen vnd gewunnen wurde[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 359,
+ "strany": [
+  359,
+  360,
+  361
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach wurden ouch die zwey güten vnd starcken Sloss / Montangy vnd Etscharles von denen von Bernn vnd andern iren gewanten gewunnen vnd ingenomen / die selben Sloss ouch des herren von Tschattegion warent / vnd wurden ouch von denen von Bernn nach aller notdurft besatzt",
+   "preklad": "Potom Bernští a jejich další spojenci dobyli a obsadili také dva dobré a silné hrady Montagny a Les Clées [?]; i tyto hrady patřily pánu z Châteauguyonu. Bernští je také osadili posádkou se vším potřebným."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 360,
+   "popis": "velká dokončená kolorovaná miniatura – dobytí hradů Montagny a Les Clées: hrad s věžemi a branou, jezero s loďkou; vlevo na kopci muži nesou bernský štít s medvědem a žebřík; obránci na hradbách házejí kameny, střelec s píšťalou/hákovnicí; vpředu spříseženci s bílými kříži a halapartnami, dělo na kolové lafetě střílí do brány (koule zasahují hradbu)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 360,
+   "text": "360 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 361,
+   "text": "361 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 359,
+   "text": "rubrika – snad Montagny (u Yverdonu) a Les Clées; čtení nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští obsadili a dobyli také dva dobré hrady Montagny a Les Clées [?]",
+ "poznamky_prekladu": [
+  "„Montangy vnd Etscharles“ (v rubrice „Montanyis vnd Escharles[?]“) – snad Montagny u Yverdonu a Les Clées (mimo přepis; identifikace nejistá)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

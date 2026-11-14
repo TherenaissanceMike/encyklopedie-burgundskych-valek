@@ -1,0 +1,46 @@
+{
+ "cislo": 275,
+ "nadpis": "Das der vorgenant hertzog von Burgunn den ersten Sturm an Granson tůn lies / vnd si gar hart an greiff",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 605,
+ "strany": [
+  605,
+  606,
+  607
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als das leger geslagen wart / da lies er die Statt stürmen an Sonnentag vor Sant Mathis tag des heiligen zwölfbotten in dem vorgenanten Jare / mit grossem gewalt vnd vil lüten / Also wartent sich die frommen lüte von Bernn vnd Friburg so tröstlich vnd mannlich / das si inen den Sturm vorbehielten / vnd der vienden an dem Sturm gar vil vmb brachten / vnd müsten also mit schanden vnd schaden abwichen / da durch der hertzog von Burgunn vast entsetzt wart",
+   "preklad": "Když byl tábor rozbit, dal útočit na město v neděli před svátkem svatého Matěje, svatého apoštola, ve zmíněném roce, s velkou silou a mnoha lidmi. Stateční lidé z Bernu a Fribourgu se však bránili tak odvážně a mužně, že útok odrazili a mnoho nepřátel při útoku zahubili, takže [nepřátelé] museli s hanbou a škodou ustoupit. Tím byl vévoda Burgundský velmi zaražen."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 606,
+   "popis": "kolorovaná kresba – první útok na Grandson: obránci s bílými kříži na hradbách města házejí kameny a bodají píkami, útočníci s žebříky, štíty a burgundskými prapory (sv. Ondřej, ondřejské kříže, erb s lvy a liliemi) útočí na hradby; vlevo dole za hradbou dva vousatí muži, štít s burgundským erbem; vpředu padlý pod štítem s ondřejským křížem; vpravo stany tábora (spodní část jen kresebně)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 606,
+   "text": "606 X (pozdější foliace, levý horní roh); POZOR: na e-codices je tato strana ve snímku 608 (snímky 606 a 608 jsou zaměněny); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 607,
+   "text": "607 X (pozdější foliace, pravý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 606,
+   "text": "první útok na Grandson: neděle před sv. Matějem 1476 = 18. února 1476"
+  }
+ ],
+ "nadpis_preklad": "Jak zmíněný vévoda Burgundský dal podniknout první útok na Grandson a velmi tvrdě na ně dorážel",
+ "poznamky_prekladu": [
+  "Neděle před sv. Matějem (24. 2.) 1476 = 18. února 1476 (jul.).",
+  "„vorbehielten“ = odrazili (udrželi se proti útoku); „entsetzt“ = zaražen, vyveden z míry."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

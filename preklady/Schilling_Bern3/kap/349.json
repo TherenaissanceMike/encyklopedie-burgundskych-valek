@@ -1,0 +1,46 @@
+{
+ "cislo": 349,
+ "nadpis": "Das die anndern eidgno[ssen] ouch gemeinlich mit allen iren panern gen Lopsingen zugen vnd das gewunnen vnd verbranten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 783,
+ "strany": [
+  783,
+  784
+ ],
+ "odstavce": [
+  {
+   "text": "Die anndern eidgno[ssen] zugen aber mit iren panern gen Lopsingen / das dem Bistům von Losann zů gehort / vnd gewunnen das von stunden an / wie es gar ein starck Statt vnd Sloß was / vnd funden darinne gar mergklich gůt / dz namend si alles bi gemůde[?] / vnd verbranten es darnach miteinandern / das denen von Bernn gar leid vnd widrig was / von vnnser lieben frowen wegen von Losann der es zů gehort / Si möchten es aber nit erwenden noch darwider sin",
+   "preklad": "Ostatní Spříseženci však táhli se svými korouhvemi k Lucens, které patří biskupství lausannskému, a ihned ho dobyli, ačkoli to bylo velmi silné město a hrad. Nalezli v něm velmi značný majetek a ten všechen pobrali bi gemůde [?]. Potom to společně vypálili. To bylo Bernským velmi líto a proti mysli kvůli naší milé Paní Lausannské, jíž to patřilo; nemohli tomu však zabránit ani se tomu vzepřít."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 783,
+   "popis": "konfederační vojsko pod korouhvemi (Uri s volskou hlavou, Unterwalden, sv. Leodegar/Luzern s postavou, Schwyz s křížem, bernský medvěd aj.) táhne s trubačem s rohem, dudákem, bubeníkem a pištcem; vlevo hořící město (Lucens)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 784,
+   "text": "784 X (pozdější foliace, levý horní roh); nahoře konec odstavce; rubrika s iniciálou D a pod ní celostránkový obraz"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 783,
+   "text": "Lopsingen = Lucens (patřil biskupství lausannskému); „bi gemůde“ nejisté čtení"
+  },
+  {
+   "strana": 784,
+   "text": "Lucens patřil lausannské katedrále Panny Marie – Bernským bylo vypálení proti mysli"
+  }
+ ],
+ "nadpis_preklad": "Jak ostatní Spříseženci také společně se všemi svými korouhvemi táhli k Lucens, dobyli ho a vypálili",
+ "poznamky_prekladu": [
+  "Lopsingen = Lucens (hrad a městečko lausannského biskupa).",
+  "„bi gemůde [?]“ – čtení i smysl nejisté (snad „podle libosti“); ponecháno v originále.",
+  "„vnnser lieben frowen von Losann“ = Panna Maria, patronka lausannské katedrály a biskupství; Bern byl s Lausanne spřízněn, proto nesouhlas s vypálením."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

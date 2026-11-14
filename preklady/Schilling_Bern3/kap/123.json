@@ -1,0 +1,48 @@
+{
+ "cislo": 123,
+ "nadpis": "Das der hertzog von Burgunn mit gantzer macht für die Statt Nüss ein leger slůg",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 254,
+ "strany": [
+  254,
+  255,
+  256
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü der vorgenant Römsch keiser vnd ouch der hertzog von Burgunn angzit[?] byeinandern warent zů Trier vnd an andern ende[n] vnd der genant hertzog dem keiser innamen des heiligen Römschen Riches gehuldet vnd gesworn hatt wider das Rich noch sin glider kein beschedigung zů",
+   "preklad": "Když byli nyní zmíněný římský císař a také vévoda Burgundský nějakou dobu [?] spolu v Trevíru a na jiných místech a zmíněný vévoda císaři jménem Svaté říše římské složil hold a přísahal, že proti Říši ani jejím údům žádnou škodu"
+  },
+  {
+   "text": "Stünde noch für ze nemen / vnd gar fruntlich miteinandern lepten / das man offenlichen von im rett si wolten ir kinde zů samen geben / vnd das mocht nit wendig werden / da schiedent si wider voneinandern / vnd glich darnach vnderstůnd der hertzog von Burgunn durch sin eigen gewalt / vnd on recht etwas mit dem Bistům von Cöln an ze fachen vnd das selb wider sin alt herkomen vnd freiheit ze trencken / vnd damit den heiligen Stůl von Rom / vnd das Römsch Rich zů beswerden / da im das nach sinem willen nit mocht verlangen / das er vor im hat / do zoch er bald mit grosser macht vnd gewalt für die Statt Nüss / die dem Bistům von Cöln verwand / vnd ouch ein Rich Statt was / vnd slůg von stund an sin leger darfür / da hat er sinen eid / den er vorhin dem keiser kurtzlich gesworn hatt / wider das Römsch Rich nit ze tůnde / gar slechtlich gehalten vnd gar wenig betrachtet / das der Bischof von Cölne ouch ein kurfürst des heiligen Richs ist",
+   "preklad": "nedopustí ani nepodnikne, a [když] spolu žili velmi přátelsky, takže se o nich veřejně říkalo, že chtějí spolu sezdat své děti, a to se nemohlo uskutečnit, tu se zase od sebe rozešli. A hned nato se vévoda Burgundský vlastní mocí a bez práva pokusil něco podniknout s kolínským biskupstvím, utlačit je proti jeho starému obyčeji a svobodě a tím obtížit Svatý stolec v Římě i Říši římskou. Když se mu to podle jeho vůle nemohlo podařit, jak to měl v úmyslu, táhl brzy s velkou mocí a silou před město Neuss, které patřilo ke kolínskému biskupství a bylo také říšským městem, a ihned se před ním položil ležením. Tu svou přísahu, kterou krátce předtím přísahal císaři, že nic proti Říši římské neučiní, dodržel velmi špatně a pramálo uvážil, že kolínský arcibiskup je také kurfiřtem Svaté říše."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 255,
+   "popis": "velká dokončená kolorovaná miniatura – Karel Smělý před Neussem: v pozadí opevněné město s věžemi na řece (Rýn) s loďkami, hory; burgundské ležení se stany a korouhvemi (pruhované, ondřejský kříž); v popředí jízda a pěchota s kopími a velkou pruhovanou korouhví s ondřejským křížem; obrněný vévoda s vousem a péry v klobouku na koni s maskovanou čabrakou (zvířecí/lidská hlava na čabrace), mladí šlechtici s péry; zadní řady pěšáků v kloboukových přilbách"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 255,
+   "text": "255 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 256,
+   "text": "256 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se vévoda Burgundský s celou mocí položil ležením před město Neuss",
+ "poznamky_prekladu": [
+  "Věta je v přepisu rozdělena mezi dva odstavce („kein beschedigung zů / Stünde noch für ze nemen“); překlad dělení zachovává.",
+  "„angzit[?]“ – snad „ein zit“ = nějakou dobu; [?] z přepisu.",
+  "Setkání Fridricha III. a Karla Smělého v Trevíru, září–listopad 1473; zamýšlený sňatek = Maxmilián a Marie Burgundská (uskutečněn 1477) (mimo přepis).",
+  "Obléhání Neussu začalo 29./30. 7. 1474 a trvalo do června 1475 (mimo přepis).",
+  "„Bischof von Cölne“ = kolínský arcibiskup (v textu „Bischof“), přeloženo podle smyslu „arcibiskup“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -10,7 +10,7 @@
   },
   {
    "text": "Disse sachen vernamend nun die von strasburg wie der eignossen wattlüt sy werend von zürich oder von bern vnd von wellichem ort vnd enden sy den vs der eignoschaft bürtig oder säshaftig warend, werend vomm lantuogt vff dem rin uffgehept vnd gan schutzren uff dz schloss gefürtt, also wurdent die von bassel zu rat vnd zugend für schutzren mit jr stat panner vnd mit jren grossen büchssen vnd gewunnend dzselbe schloss vnd erlosstend die geffangnen wattlüt, an alle engeltnus, dem nach zugend sy für hochen geroldsex vnd gewunnend dz ouch den derselbig her ouch bin dissen dingen gewessen wass.",
-   "preklad": "Štrasburští se tedy dozvěděli, že soukeníci konfederátů, ať byli ze Zürichu nebo z Bernu nebo z kteréhokoli jiného místa a kraje konfederace rodem nebo usedlí, byli zemským fojtem na Rýně zadrženi a odvlečeni do Schutternu na hrad. I usnesli se Basilejští [sic] a táhli před Schuttern se svou městskou korouhví a se svými velkými děly, dobyli ten hrad a vysvobodili zajaté soukeníky bez jakékoli škody. Potom táhli před Hohengeroldseck a dobyli i ten, protože tamní pán byl při těchto věcech také."
+   "preklad": "Štrasburští se tedy dozvěděli, že soukeníci Spříseženců, ať byli ze Curychu nebo z Bernu nebo z kteréhokoli jiného místa (kantonu) a kraje Spříseženstva rodem nebo usedlí, byli zemským fojtem na Rýně zadrženi a odvlečeni do Schutternu na hrad. I usnesli se Basilejští [sic] a táhli před Schuttern se svou městskou korouhví a se svými velkými děly, dobyli ten hrad a vysvobodili zajaté soukeníky bez jakékoli škody. Potom táhli před Hohengeroldseck a dobyli i ten, protože tamní pán byl při těchto věcech také."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "„grossen büchssen“ = velká děla (nejde o termín houptbüchse, proto obecně). „an alle engeltnus“ = bez újmy, bez škody (pro ně). Hohengeroldseck = hrad pánů z Geroldsecku v Ortenau (mimo text)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

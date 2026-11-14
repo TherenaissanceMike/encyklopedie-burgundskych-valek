@@ -1,0 +1,39 @@
+{
+ "cislo": 33,
+ "nadpis": "Das die Statt Waltzhůt nützit destminder an allen orten genötiget wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 68,
+ "strany": [
+  68,
+  69
+ ],
+ "odstavce": [
+  {
+   "text": "Man hatt aber nützit destminder die Statt Waltzhůt bi vier oder fünff wuchen belegert / vnd doch vor vnd nach allerley angriff / vnd Scharmutzens vff dem Swartzwalde an der letze / ze Tüngen ze Bondorff / ouch vor der Statt Waltzhůt vn[d] an anderen enden beschechen / da man mergklich gůt den vienden genomen vnd ir ouch vil ertött hat / als dann hievor zem teil ouch gemelt ist / Vnd aber dabi vnder allen malen etlich knecht von eidgno[ssen] ouch vmbkomen / die den mertal iren houptlüten vngehorsam gewesen sind / vnd mit vnordnungen den vienden ze wit in iren vorteil gan / vnd si gantz verachten wolte[n] das aber selten nutz oder ere / bringet / Wann wie starck wie gewaltig oder wie mannlich einer ist So sol doch von götlicher vnd natürlicher ordnunge nieman sinen viend als gantz verachten / Dann was man mit gůter ordnung tůt / das mag kum übel geratten / Wo man ouch in gehorsami lebet da wircket die craft des barmhertzigen ewigen gottes / wann doch gehorsamkeit in allen dingen die obreste tugent ist",
+   "preklad": "Město Waldshut bylo však přesto obléháno asi čtyři nebo pět týdnů a předtím i potom docházelo ke všelijakým útokům a šarvátkám ve Schwarzwaldu u zátarasu, v Tiengenu, v Bonndorfu, také před městem Waldshutem a na jiných místech, při nichž byl nepřátelům vzat značný majetek a mnoho z nich bylo zabito, jak je výše zčásti také uvedeno. Při tom však pokaždé zahynuli i někteří knechti Spříseženců, kteří byli většinou neposlušní svých hejtmanů, s nepořádkem zacházeli příliš daleko do výhodného postavení nepřátel a chtěli jimi zcela pohrdat; to však zřídka přináší užitek nebo čest. Neboť ať je kdo jakkoli silný, mocný nebo statečný, podle božího i přirozeného řádu nemá nikdo svým nepřítelem tak zcela pohrdat. Co se totiž dělá s dobrým pořádkem, to se sotva může zle podařit. A kde se žije v poslušnosti, tam působí moc milosrdného věčného Boha, neboť poslušnost je ve všech věcech nejvyšší ctnost."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 68,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  },
+  {
+   "strana": 69,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 69,
+   "text": "X 69 (pozdější foliace, pravý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak bylo město Waldshut přesto ze všech stran tísněno",
+ "poznamky_prekladu": [
+  "„den mertal“ = většinou (mehrteil)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

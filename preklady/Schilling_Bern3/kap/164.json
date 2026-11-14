@@ -1,0 +1,35 @@
+{
+ "cislo": 164,
+ "nadpis": "Das die von Bernn mit ir paner gen Ponterlin zugen / vnd ir vnd ander eidgnossen knechte entschütten wolten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 344,
+ "strany": [
+  344,
+  345
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nü dis sachen am ersten gen Bernn kament / wie die iren vnd ander eidgno[ssen] gen Ponterlin kömen / vnd als mechticlichen belegen waren / do wurden Rät vnd zwey hundert angendes zů ratt / das man si entschütten vnd nit verlassen wolt / vnd zugen also us in dem namen gottes mit vfgeworfner paner / vnd me dann mit drithalb tusent gewapneter mannen / der obrester houptman was herr Niclaus von diespach ein Ritter / vnd fürt die paner hanns kutler ein venner von dem erbern hantwerk der metzgern dem wart für einen houptman vnd Ratt / nach harkomen der Statt Bernn geben vnd zů geordnet Ludwig Brügler ouch ein venner / von dem erbern hantwerk der gerwern / vnd schreiben also dis sachen angends gen Lutzern vnd Sollotern / so die iren ouch zů Ponterlin ligen hatten / darzů andern eidgno[ssen] ouch / das man zů inen ziechen solt",
+   "preklad": "A když tyto věci nejprve došly do Bernu – jak se jejich lidé a další Spříseženci dostali do Pontarlier a jak byli mocně obleženi –, usnesla se ihned Malá rada a Rada dvou set, že je chtějí vysvobodit a neopustit je. Vytáhli tedy ve jménu Božím s rozvinutou korouhví a s více než dvěma a půl tisíci ozbrojených mužů. Nejvyšším hejtmanem byl pan Niklaus von Diesbach, rytíř, a korouhev nesl Hans Kutler, praporečník z ctihodného řemesla řezníků; tomu byl podle starého obyčeje města Bernu dán a přidělen za hejtmana a radu Ludwig Brügler, rovněž praporečník, z ctihodného řemesla koželuhů. A hned o těch věcech napsali do Luzernu a Solothurnu, kteří také měli své lidi v Pontarlier, a také dalším Spřísežencům, aby k nim táhli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 344,
+   "popis": "velká dokončená kolorovaná miniatura – bernské vojsko vytahuje z Bernu: město s věžemi, na bráně štít s medvědem, bernský prapor s medvědem; z brány vychází zástup pěšáků s dlouhými píkami a halapartnami a bílými kříži, bubeník s bubnem, ženy v šatech je vyprovázejí; vpředu potok/příkop a most"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 345,
+   "text": "345 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek); rubrika dole"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští se svou korouhví táhli k Pontarlier a chtěli vysvobodit své knechty i knechty ostatních Spříseženců",
+ "poznamky_prekladu": [
+  "„Drithalb tusent“ = dva a půl tisíce."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

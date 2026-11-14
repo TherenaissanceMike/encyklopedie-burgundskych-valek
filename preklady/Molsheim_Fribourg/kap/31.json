@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Wie der küng von Frankrich durch sin künglich mayestat botschaft sich underwand, die vereinung ze machen zwüschent dem herzogen von Oesterich und den Eydgnossen.",
-   "preklad": "31. Jak se král francouzský skrze poselstvo svého královského majestátu ujal zprostředkování spolku mezi vévodou rakouským a konfederáty."
+   "preklad": "31. Jak se král francouzský skrze poselstvo svého královského majestátu ujal zprostředkování spolku mezi vévodou rakouským a Spříseženci."
   }
  ],
  "poznamky_editora": [],
@@ -21,5 +21,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 95, odst. 2, a kap. 96–98) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

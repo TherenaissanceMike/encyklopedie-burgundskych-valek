@@ -1,0 +1,37 @@
+{
+ "cislo": 184,
+ "nadpis": "Das die von Straßburg ir erbern botte[n] gen Bernn santen vnd si vmb etwas lüten baten / den wolten si Sold geben",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 398,
+ "strany": [
+  398,
+  399
+ ],
+ "odstavce": [
+  {
+   "text": "Dis gestůnd an bis zů angendem höwmonat des vorgenanten Jares / Do ward aber ein zug in Burgunn angeslagen von allen herren vnd Stetten / So dann mit denen von Bernn vnd andern eidgno[ssen] in der nüwen vereynung waren / Vnd also schickte[n] die von Straßburg ir treffenlichen botten gen Bern[n] namlichen herrn Petern Schotten iren ammeister Vnd gaben inen semlichen zug vnd anslag / den si mit andern in Burgunn tůn wolten zů erkennen Vnd rett der selb ammeister vor einem Ratt / vnd den zweyhunderten also / wie dann sin herren vnd ander fürsten vnd Stette der nüwen vereynunge sich des gantz vereinbart hetten / einen gemeinen herzug in Burgunn zů tůnde / vnd dasselb landt vnderstan zů wüsten vnd schedigen / Dann der hertzog von Burgunn mit gewalt in Lothringen lege / vnd wann er das gewunnen vnd erobert hett So wurde es dann zem nechsten über si gan / vnd also von einem an den andern / damit er das heilig rich vnd gemein tütsch nation nach sinem willen zwingen vnd vnder sich bringen möcht / Vnd bat also die von Bernn / In namen siner herren vnd obren[?] / das si inen einen kleinen zůschup / namlich vier hundert man verwilligen / So wolten si die versolden / vnd das zů ewigen ziten niemer mere vergessen / vmb das si den namen von Bern[n] vnd ander eidgno[ssen] bi inen haben möchten / So hoffte er semlichs wurde inen gem vnnser aller vienden gar vil nutzes vnd frommen bringen / vnd wol erschiessen / Dann die von Bernn vnd ander eidgnossen ir lob vnd ritterliche ere also harbracht hetten / wo oder an welichen enden si im velde weren / das alweg ir viend darab gros vorcht vnd schrecken hetten / mit mer gůter vernünftiger worten So dann der selb ammeister In namen siner herr[e]n rett",
+   "preklad": "To trvalo až do začátku července zmíněného roku. Tehdy bylo opět ujednáno tažení do Burgundska ode všech pánů a měst, kteří byli s Bernskými a ostatními Spříseženci v Dolním spolku. A tak Štrasburští poslali do Bernu svého význačného posla, totiž pana Petera Schotta, svého cechmistra, a oznámili jim to tažení a plán, který chtěli s jinými podniknout do Burgundska. A tentýž cechmistr promluvil před Malou radou a Radou dvou set takto: jeho páni i jiná knížata a města Dolního spolku se plně dohodli podniknout společné tažení do Burgundska a pokusit se tu zemi zpustošit a poškodit. Neboť vévoda Burgundský leží s mocí v Lotrinsku, a až je dobude a podrobí si je, dojde nejblíž na ně, a tak od jednoho k druhému, aby mohl Svatou říši a celý německý národ podle své vůle zdolat a podrobit si. A tak prosil Bernské jménem svých pánů a vrchnosti [?], aby jim povolili malou posilu, totiž čtyři sta mužů; ty chtějí žoldem zaplatit a nikdy na věčné časy na to nezapomenout, aby mohli mít u sebe jméno Bernských a ostatních Spříseženců. Doufal, že jim to proti nepřátelům nás všech přinese mnoho užitku a prospěchu a dobře poslouží. Neboť Bernští a ostatní Spříseženci si svou chválu a rytířskou čest vydobyli tak, že ať byli v poli kdekoli, jejich nepřátelé z nich měli vždy velký strach a hrůzu. To a ještě více dobrých a rozumných slov řekl tentýž cechmistr jménem svých pánů."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 399,
+   "text": "399 X (pozdější foliace, pravý horní roh); stránka bez obrázku; konec projevu, pak rubrika a text s iniciálou S"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 398,
+   "text": "Peter Schott, ammeister Štrasburku; „höwmonat“ = červenec (1475)"
+  }
+ ],
+ "nadpis_preklad": "Jak Štrasburští poslali své ctihodné posly do Bernu a prosili je o nějaké lidi, jimž chtěli platit žold",
+ "poznamky_prekladu": [
+  "„höwmonat“ = červenec (1475). Peter Schott, cechmistr (ammeister) Štrasburku.",
+  "„vnd obren[?]“ – nejisté čtení (snad „vnd obern“ = vrchnost), přeloženo „vrchnosti“.",
+  "„nüwe vereynung“ = Dolní spolek (alsaská a hornorýnská města a biskupové, spojenci Spříseženců proti Burgundsku)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

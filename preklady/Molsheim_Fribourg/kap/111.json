@@ -21,8 +21,9 @@
  ],
  "poznamky": [
   "Opravy OCR: bereiten! → bereitent, Saroge → Savoye, odstraněno „8ff“ (číslo strany 89) a „Vgl. Schilling C. 205, al. 2“.",
-  "Oproti Schillingovi (kap. 205, odst. 2): Molsheim přidává „[a Fribourgští]“ a vypovězení posílají obě města (u Schillinga Bernští); vynechává Schillingovu poznámku, že se konfederáti měli shromáždit v dobrém pořádku, protože posádka v Jougne prý nebyla v tak velké nouzi."
+  "Oproti Schillingovi (kap. 205, odst. 2): Molsheim přidává „[a Fribourgští]“ a vypovězení posílají obě města (u Schillinga Bernští); vynechává Schillingovu poznámku, že se Spříseženci měli shromáždit v dobrém pořádku, protože posádka v Jougne prý nebyla v tak velké nouzi."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

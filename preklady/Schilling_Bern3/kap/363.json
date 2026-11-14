@@ -1,0 +1,51 @@
+{
+ "cislo": 363,
+ "nadpis": "Das etlich panern von Burgunn vnd ander in dem münster vff gehenckt wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 828,
+ "strany": [
+  828,
+  829,
+  830
+ ],
+ "odstavce": [
+  {
+   "text": "Vff Fritag vor Sant Michels tag in dem vorgnaten Jare / wurden etlich panern von Burgunn / vnd ander / So man in beiden Striten vor Granson vn[d] Murten / ouch in der Watt / vnd andern enden gewunnen hatt / in dem münster zů Bernn uff gehenckt / der was gar vil / Vnd wurden darnach der selben panern der merteil wider danne[n] genomen / vnd gen Lutzern gefürt / da teilt man die selben vnd ander paner vnnder gemeinen eidgnossen vnd hanckten die von Bernn iren teil wider in das münster / als die noch da hangen / Man macht ouch us etlichen panern meßachel / fanen vnd ander gotz gezierden",
+   "preklad": "V pátek před svatým Michalem zmíněného roku byly v bernském minstru zavěšeny některé burgundské a jiné korouhve, které byly ukořistěny v obou bitvách u Grandsonu a Murtenu, také ve Vaud a na jiných místech; bylo jich velmi mnoho. Potom byla většina těch korouhví zase sňata a odvezena do Luzernu. Tam se tyto i jiné korouhve rozdělily mezi všechny Spřísežence a Bernští zavěsili svůj díl zase do minstru, kde ještě visí. Z některých korouhví se také udělaly mešní ornáty, chrámové prapory a jiné ozdoby Božího domu."
+  },
+  {
+   "text": "Darzů haben ouch die von Bernn gar vil köstlicher guldiner vnd sidiner tücher / ouch ander gezierden us der offnen büt kouft / vnd das alles durch gottes willen in ir münster vnd in ander klöster in der Statt / ouch in ander gotzhüser in iren lande[n] vnd gebieten geben vnd geteilt / vnd das alles mit barem gelt bezalt",
+   "preklad": "K tomu Bernští také koupili z veřejné kořisti velmi mnoho drahocenných zlatých a hedvábných látek i jiné ozdoby a to vše pro Boží vůli darovali a rozdělili do svého minstru a do jiných klášterů ve městě, také do jiných kostelů ve svých zemích a panstvích, a to vše zaplatili hotovými penězi."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 829,
+   "popis": "vztyčování ukořistěných korouhví v bernském minstru: v kostelní lodi s klenutými okny visí nahoře mnoho burgundských praporů a korouhví (s křesadly a ondřejským křížem, pruhované, kostkované, se lvem); vlevo vojáci s bílými kříži nesou korouhve; vpravo skupina mužů s bílými kříži a měšťanů u kamenného podstavce (oltáře/hrobu), jeden v péřovém klobouku"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 829,
+   "text": "829 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V"
+  },
+  {
+   "strana": 830,
+   "text": "830 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, odstavec s iniciálou D, dole rubrika s iniciálou V (k obrazu na s831)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 829,
+   "text": "„Fritag vor Sant Michels tag“ 1476 = 27. září 1476"
+  }
+ ],
+ "nadpis_preklad": "Jak byly některé burgundské a jiné korouhve zavěšeny v minstru",
+ "poznamky_prekladu": [
+  "Pátek před sv. Michalem 1476 = 27. 9. 1476.",
+  "„fanen“ zde v církevním smyslu = chrámové (procesní) prapory; „meßachel“ = mešní ornát (kasule).",
+  "Pro reenactory: ukořistěné burgundské korouhve a látky skončily jako bohoslužebná roucha – část tzv. burgundské kořisti je dodnes v Bernském historickém muzeu (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

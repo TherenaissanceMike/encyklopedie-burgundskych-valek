@@ -1,0 +1,42 @@
+{
+ "cislo": 345,
+ "nadpis": "Das man den hertzogen von Lotthringen in des hertzogen von Burgunn zelten vnd sinem gemach vnd huse ligen ließ",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 774,
+ "strany": [
+  774,
+  775
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als dann der hertzog von Burgunn in sinem leger vff einem rein ein hüpsches köstlich gezymmert huß hatt lassen machen vnd sin zelten darumb vff slachen / do er ouch sin wonung hatt / Do wurden gemein houptlüt vmb eren willen ze ratt / das si den hertzogen von Lotthringen mit sinen dieneren darin lassen wolten als ouch beschach / vnd er hat das ouch zů grossem danck / vnd was darin gar frölich / wie wol im von groben lüten gros vnuernunft erzöugt wart dann etlich brachen im sin kisten vnd laden vff vnd namen im das sin darus / vnd meinten villicht es were des hertzogen von Burgunn / das vertrůg er vnd die sinen alles miltlich / vnd wolten mit nieman darumb vechten",
+   "preklad": "A protože vévoda Burgundský si ve svém ležení na svahu nechal postavit pěkný, drahocenný roubený dům a kolem něho rozbít své stany, kde také bydlel, usnesli se hejtmani společně, že tam kvůli cti nechají vévodu Lotrinského s jeho služebníky, jak se také stalo. Ten to přijal s velkým díkem a byl tam velmi veselý, ačkoli mu hrubí lidé prokázali velkou nerozumnost: někteří mu vylomili truhly a schránky a vzali mu z nich, co bylo jeho, neboť se snad domnívali, že je to vévody Burgundského. To všechno on i jeho lidé snášeli mírně a nechtěli se kvůli tomu s nikým bít."
+  },
+  {
+   "text": "Der vorgenant hertzog von Burgunn hat ouch in sinem leger allerley koufmanschatz gehebt / an sidinen vnd anndern gůten tüchern / köstlichem kram / Specerien vnd allen andern dingen / das man erdencken mag / als nit vnbillich was in einem semlichen grossen leger / als dann das gewesen ist / vnd man ouch wol gesechen hatt",
+   "preklad": "Zmíněný vévoda Burgundský měl ve svém ležení také všelijaké zboží, hedvábné a jiné dobré látky, drahocenné kramářské zboží, koření a všechny jiné věci, jaké si lze vymyslet, jak se slušelo v tak velkém ležení, jaké to bylo, a jak se také dobře vidělo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 774,
+   "popis": "vévodův dřevěný „dům“ v ležení: vpravo nahoře stavení s okny, z nichž vyhlížejí lidé; před ním muži s bílými kříži vybírají truhly, sudy a nádobí; vedle prapor se svatým (sv. Ondřej?); vlevo hradby Moratu; dole stany ležení a štít lotrinského vévody (čtvrcený s lvem ve středním štítku?)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 775,
+   "text": "775 X (pozdější foliace, pravý horní roh); stránka bez obrázku (prosvítá obraz); konec odstavce, odstavec s iniciálou D, dole rubrika s iniciálou D (k obrazu na s776)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 774,
+   "text": "René Lotrinský ubytován v Karlově dřevěném domě a stanech"
+  }
+ ],
+ "nadpis_preklad": "Jak byl vévoda Lotrinský ubytován ve stanech vévody Burgundského a v jeho komnatě a domě",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

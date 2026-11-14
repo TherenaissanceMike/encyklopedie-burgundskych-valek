@@ -10,7 +10,7 @@
   },
   {
    "text": "Den fürsichtigen, fromen, wisen schultheissen und rat und burgern zü Friburg, unsern sundern güten frunden und getruwen lieben mitburgern enbieten wir schultheis, rat und burger zü Bern unser früntlich gütwillig dienst und was wir eren vermögent, zü voran bereit. Als wir dann von manung wegen der keiserlichen maiestat zü widerstand des herzogen von Burgunnen hoch und tief ermant sind und wir uns der und andrer merglichen sachen halb darin schicken söllen und müssen, harumb so manen wir üwer brüderlich lieb in kraft dis offen briefs so hoch und tief wir können und mogen inhalt üwers und unsers geswornen burgrechten, das ir uns üwer treffenlich [hilf] und bistand tün, und zü stunden wellen uf fritag zü nacht bi uns und den unsern zü Nidow oder Biel zü sind, und üch daran deheins wegs zü sumen, als wir uns zu üwer lieb in kraft üwers und unsers geswornen burgrechts versechen und ir uns schuldig und pflichtig sind.",
-   "preklad": "Prozíravým, zbožným a moudrým starostovi, radě a měšťanům ve Fribourgu, našim zvláště dobrým přátelům a věrným milým spoluměšťanům, vzkazujeme my, starosta, rada a měšťané v Bernu, napřed svou přátelskou, ochotnou službu a vše, co můžeme ke cti. Protože jsme byli na výzvu císařského majestátu vysoce a naléhavě vyzváni k odporu proti burgundskému vévodovi a protože se kvůli tomu i kvůli jiným závažným věcem musíme a máme do toho dát, vyzýváme proto vaši bratrskou lásku mocí tohoto otevřeného listu tak vysoce a naléhavě, jak jen můžeme a smíme, podle znění vašeho a našeho přísežného měšťanského práva, abyste nám poskytli svou znamenitou [pomoc] a podporu a abyste byli neprodleně v pátek večer u nás a našich v Nidau nebo v Bielu. Nijak se přitom neopožďujte, jak se toho od vaší lásky mocí vašeho a našeho přísežného měšťanského práva nadějeme a jak jste nám povinni a zavázáni."
+   "preklad": "Prozíravým, poctivým a moudrým starostovi, radě a měšťanům ve Fribourgu, našim zvláště dobrým přátelům a věrným milým spoluměšťanům, vzkazujeme my, starosta, rada a měšťané v Bernu, napřed svou přátelskou, ochotnou službu a vše, co můžeme ke cti. Protože jsme byli na výzvu císařského majestátu vysoce a naléhavě vyzváni k odporu proti burgundskému vévodovi a protože se kvůli tomu i kvůli jiným závažným věcem musíme a máme do toho dát, vyzýváme proto vaši bratrskou lásku mocí tohoto otevřeného listu tak vysoce a naléhavě, jak jen můžeme a smíme, podle znění vašeho a našeho přísežného měšťanského práva (burgrecht), abyste nám poskytli svou znamenitou [pomoc] a podporu a abyste byli neprodleně v pátek večer u nás a našich v Nidau nebo v Bielu. Nijak se přitom neopožďujte, jak se toho od vaší lásky mocí vašeho a našeho přísežného měšťanského práva nadějeme a jak jste nám povinni a zavázáni."
   },
   {
    "text": "Das wellen wir zü der billikeit umb üwer brüderlichen lieb verdienen. Datum under unserm insigel uf mentag nach der 11,000 megt tag, anno 74.",
@@ -25,5 +25,6 @@
   "Oprava textu: „ın“ → „in“, „‚burgrechten“ → „burgrechten“, „\\wers“ → „üwers“, „uns|“ → „uns“, „üuwer“ → „üwer“ (OCR)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Wie der herzog von Burgün zwen treffenlich ritter siner räten gen Luzern zu gemeinen Eydgnossen schickt und mit inen dise nachgeschriben meinung reden liess.",
-   "preklad": "15. Jak vévoda burgundský poslal dva znamenité rytíře ze svých rad do Luzernu k obecným konfederátům a dal jim přednést níže psané stanovisko."
+   "preklad": "15. Jak vévoda burgundský poslal dva znamenité rytíře ze svých rad do Luzernu k obecným Spřísežencům a dal jim přednést níže psané stanovisko."
   }
  ],
  "poznamky_editora": [],
@@ -21,5 +21,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 58) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

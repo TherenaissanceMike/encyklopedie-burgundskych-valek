@@ -1,0 +1,37 @@
+{
+ "cislo": 219,
+ "nadpis": "Von der vntrüw wegen So die hertzogin von Safoi genant Yoland die ein kint gin[?] von Franckenrich was / denen von Bernn vnd andern menigvaltiklich tett",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 461,
+ "strany": [
+  461,
+  462
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man nů zem teil davor ouch vernomen hatt / wie die Safoyer an dem Streit vnd der Slacht vor Heilcort / vnd andern enden / wider die von Bernn vnd ander ir eidgno[ssen] gewesen warent / vnd wider ir ewigen geswornen punde / So schantlich vnd lasterlich taten / dann ir etlich vor Heilcort gevange[n] vnd ouch erslagen wurden / das man sich gein inen keins gůten künde noch mocht versechen / Darzů wurden ouch die Lamparter vnd ander / So zů dem hertzogen von Burgunn füren / wider die von Bernn vnd ander ir gewanten / durch Safoi gelassen / vnd dem selben hertzogen merglicher zůschup wider die ewigen geswornen punde getan Das gerieten die von Bernn vnd Friburg mit inen betrachten / vnd schriben der hertzogin vnd dem lannde zů mengen malen / was si sich zů inen versechen solten / Vnd manten si ouch / das si den Lamparten vnd andern / So wider si werent / kein durchgang nit gestattent Daruf die hertzogin von Safoi zů meren malen antwurt / was die geswornen ewigen punde zwüschen ir vnd denen von Bernn uswisten / das wolt si halten / vnd dem nach gan / vnd wider si nit kriegen / Sy wolt ouch daran sin / das der durchzug der Lampter vnd ander durch ir land vermitten wurd / dz waren alles verdackte wort vnder einem bösen verborgenen schin / vnd was alwegen nit daran dann ouch die Lamparter vnd ander frömde völcker / die wider die von Bernn vnd ander ir gewanten waren / wurden nit dester minder durch gelassen / damit die ewigen punde gar vast vnd mercklich gebrochen wurden",
+   "preklad": "Jak se již dříve zčásti slyšelo, Savojští se v boji a bitvě u Héricourtu i na jiných místech postavili proti Bernským a jiným jejich Spřísežencům a proti svým věčným přísežným spolkům a jednali tak hanebně a potupně – neboť někteří z nich byli u Héricourtu zajati, a také zabiti –, že se od nich nedalo očekávat nic dobrého. K tomu byli Lombarďané a jiní, kteří táhli k vévodovi Burgundskému proti Bernským a jejich dalším spojencům, propuštěni přes Savojsko a témuž vévodovi byla tak proti věčným přísežným spolkům poskytnuta značná pomoc. To Bernští a Fribourští s nimi začali zvažovat a mnohokrát psali vévodkyni i zemi, co od nich mají očekávat. Také je vyzývali, aby Lombarďanům a jiným, kteří jsou proti nim, nedovolili žádný průchod. Na to vévodkyně Savojská vícekrát odpověděla, že co přísežné věčné spolky mezi ní a Bernskými obsahují, to chce dodržovat a podle toho jednat a nechce proti nim válčit. Prý se také přičiní, aby se průtahu Lombarďanů a jiných přes její zemi zabránilo. To všechno byla zastřená slova pod zlým, skrytým zdáním a nikdy na nich nic nebylo, neboť Lombarďané a jiné cizí národy, které byly proti Bernským a jejich dalším spojencům, byly přesto propouštěny. Tím byly věčné spolky velmi těžce a zjevně porušeny."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 462,
+   "text": "462 X (pozdější foliace, levý horní roh); stránka bez obrázku; nahoře text, dole rubrika s kadelou"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 461,
+   "text": "Yoland = Jolanda Francouzská, vévodkyně Savojská, dcera (sestra?) francouzského krále – „ein kint gin[?] von Franckenrich“; Heilcort = Héricourt"
+  }
+ ],
+ "nadpis_preklad": "O nevěrnosti, kterou vévodkyně Savojská jménem Jolanda, jež byla dcerou [?] z Francie, mnohonásobně prokazovala Bernským a jiným",
+ "poznamky_prekladu": [
+  "„ein kint gin[?] von Franckenrich“ – slovo „gin“ nejisté; smysl: dítě (dcera) z francouzského [královského rodu]. Mimo přepis: Jolanda Francouzská (1434–1478), dcera Karla VII., sestra Ludvíka XI. (srov. kap. 222, kde je nazvána královou sestrou), vdova po Amadeovi IX., regentka Savojska.",
+  "Bitva u Héricourtu 13. listopadu 1474; savojské oddíly tehdy bojovaly na burgundské straně.",
+  "„mit inen betrachten“ – nejasné, s kým Bernští a Fribourští věc zvažovali (snad se Savojskými, snad mezi sebou); přeloženo doslovně."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

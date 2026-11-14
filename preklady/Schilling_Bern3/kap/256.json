@@ -1,0 +1,36 @@
+{
+ "cislo": 256,
+ "nadpis": "Das die von Bernn mit dem Bischof vnd dem gantzen lande von Wallis einen ewigen pund machtent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 556,
+ "strany": [
+  556,
+  557
+ ],
+ "odstavce": [
+  {
+   "text": "Do man zalt von gottes geburt Tusent vierhundert Sibentzig vnd fünf Jare an dem andern herbst monat / als man in dem veld lag / machten die von Bern mit dem Bischof vnd gemeinem lande von Wallis von allen zechenden einen ewigen pund das si einandern zů ewigen ziten / mit libe vnd gůt süllent beholfen vnd beratten sin / wider all fürsten vnd herren / die dann dewederen teile an sinem libe oder gůt schedigen wolten / nach wisunge der selben ewigen punden / die das vnd anders gar lüter innhalten",
+   "preklad": "Léta od narození Páně tisíc čtyři sta sedmdesát pět, druhého podzimního měsíce [?], když se leželo v poli, uzavřeli Bernští s biskupem a celou zemí Valais ze všech desátků věčný spolek: že si mají navzájem na věčné časy pomáhat a radit životem i statkem proti všem knížatům a pánům, kteří by chtěli kterékoli straně škodit na životě nebo statku, podle znění těch věčných spolků, které to i jiné zcela jasně obsahují."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 557,
+   "text": "557 X (pozdější foliace, pravý horní roh); nahoře 3 řádky, pak rubrika a kolorovaná kresba přes zbytek strany"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 556,
+   "text": "„der ander herbst monat“ = říjen 1475; zechenden = desátky (okresy) Valais"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští uzavřeli s biskupem a celou zemí Valais věčný spolek",
+ "poznamky_prekladu": [
+  "„an dem andern herbst monat“ – herbstmonat = září, „der ander herbstmonat“ = říjen 1475, což odpovídá tažení do Vaudu (14. 10. – 2. 11. 1475); možné je i čtení „druhého [dne] září“ (2. 9. 1475). K ověření.",
+  "„zechenden“ = desátky (Zenden), samosprávné okresy země Valais."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

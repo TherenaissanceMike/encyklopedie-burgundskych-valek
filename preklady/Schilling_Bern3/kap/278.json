@@ -1,0 +1,52 @@
+{
+ "cislo": 278,
+ "nadpis": "Das die von Bernn mit ir offnen paner vnd gantzen macht gen Murten[?] zugen die iren zů Granson zů entschütten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 610,
+ "strany": [
+  610,
+  611,
+  612
+ ],
+ "odstavce": [
+  {
+   "text": "Do sich nů der hertzog von Burgunn mit also grossem gewalt vnd machten für Granson geleget / vnd die Statt gewunnen ouch vorhin zwen Sturm nach einandern getan das hatten die von Bernn wol vernomen / vnd zugen also mit ir paner vnd gantzer machte fürderlichen uß bis gen Murten / Vnd waren ir houptlüt herr Niclaus von Scharnachtal Ritter dazemal Schultheis / vnd mit im herr Hanns von Halwil ouch ein fromer vnd türer Ritter / der vorhin in mengem velt streit in Vngern / Behem vnd an andern enden gewesen was / vnd sich gar wol vnd erlichen gehalten hatt / als man dann allenthalben von im rett / vnd was vorhin ouch bi herr Niclausen von Diesbach zů Ponterlin gewesen / vnd hat sich an dem selben ende ouch gar wol vnd erlich gehalten / darumb von siner mannheit vnd fromkeit wegen / da ward er einhelliclich für einen houptman zů dem von Scharnachtal geordnet Vnd fůrt aber die paner Hanns Kutler ein venner von dem erbern hantwerck der metzgern dem wart für einen houptman zů geben vnd geordnet Ludwig Brügler ouch ein venner vo[n] dem erbern hantwerck der gerwern / Vnd was ouch in dem selben zuge Schützen meister Peter Simon ouch ein venner / die selben houptlüt vnd venner mit andern Räten vnd burgern / So inen dann zů geordnet waren / sich in disen dinge[n] gar erlich vnd wol hielten / vnd tag vnd nacht zů samen gingen zů betrachten wie si die iren erlösen vnd entschütten möchten",
+   "preklad": "Když se nyní vévoda Burgundský s tak velkou mocí a silou položil před Grandson, dobyl města a předtím také podnikl dva útoky jeden po druhém, Bernští se to dobře dozvěděli. Vytáhli tedy se svou korouhví a celou mocí neprodleně až do Murtenu. Jejich hejtmany byli pan Niclaus von Scharnachtal, rytíř, tehdy starosta, a s ním pan Hanns von Halwil, rovněž statečný a vzácný rytíř, který byl předtím v mnoha polních bitvách v Uhrách, v Čechách i jinde a choval se velmi dobře a čestně, jak se o něm všude vypráví. Byl také předtím s panem Niclausem von Diesbach u Pontarlier a i tam se choval velmi dobře a čestně. Proto byl pro svou mužnost a statečnost jednomyslně ustanoven hejtmanem vedle pana von Scharnachtal. Korouhev nesl Hanns Kutler, praporečník z ctihodného cechu řezníků; tomu byl jako hejtman přidělen a ustanoven Ludwig Brügler, rovněž praporečník, z ctihodného cechu koželuhů. V témže tažení byl také velitel střelců (schützenmeister) Peter Simon, též praporečník. Tito hejtmani a praporečníci spolu s dalšími radními a měšťany, kteří jim byli přiděleni, se v těch věcech chovali velmi čestně a dobře a ve dne i v noci se scházeli, aby uvážili, jak by své lidi mohli vysvobodit a osvobodit z obležení."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 611,
+   "popis": "kolorovaná kresba – bernské vojsko táhne k Moratu: vlevo velká bernská korouhev s medvědem, uprostřed hejtmani s velkými péry na kloboucích, bubeník a pištec, pikenýři s bílými kříži na zádech; vpravo opevněné město (Morat) s branou a korouhví s kuší (?); vpravo dole zajíc u keře"
+  },
+  {
+   "strana": 612,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 611,
+   "text": "611 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 612,
+   "text": "612 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám pro obrázek; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 610,
+   "text": "„Murten[?]“ – písmo v rubrice nezřetelné; na s. 612 v textu jasně „gen Murten“"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští táhli se svou rozvinutou korouhví a celou mocí do Murtenu [?], aby vysvobodili své lidi v Grandsonu",
+ "poznamky_prekladu": [
+  "„Murten[?]“ v nadpisu: písmo rubriky je nezřetelné; v textu kapitoly stojí jasně „gen Murten“.",
+  "„mit ir offnen paner“ = s rozvinutou (otevřenou) korouhví, tj. tažení celé obce, ne jen dobrovolníků.",
+  "„Schultheis“ = starosta (bernský Schultheiss); „venner“ = praporečník (velitel městské čtvrti a jejího cechu).",
+  "„gerwer“ = koželuzi (jircháři)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

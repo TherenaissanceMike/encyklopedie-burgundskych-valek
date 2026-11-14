@@ -1,0 +1,41 @@
+{
+ "cislo": 22,
+ "nadpis": "Das die von Lutzern vnd etlich ander örter der eidgno[ssen] mit inen am ersten für die Statt Waltzhůt zugent / vnd die belagertent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 51,
+ "strany": [
+  51,
+  52
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die von Bernn vnd von Sollotern mit iren panern vs dem Sunckgöw wider heim komen waren / vnd es inen vnd anderen eidgno[ssen] von den gnaden des almechtigen gottes wol vnd glücklichen ergangen was / Dann darumb si vsgezogen waren das hatten si nach irem willen vnd gevallen wol geschaffet Da bliben die anderen eidgno[ssen] mit iren panern zů Tüngen vnd in der selben art / vnd wolten nit wider heim ziechen / Si begerten dann ein gantzen vnd gůten friden mit inen / Dann si hatten vernomen / das ein grosser treffenlicher zug der vienden von Behem vnd anderen landen gar vff den beinen waren / denen si gern widerstanden hetten / Vnd besatzten daruff Schafhusen mit noch mer lüten vnd Soldnern das si von inen einen gůten trost vnd vffenthalt möchten haben / Vnd zugen also am ersten die von Lutzern mit etlichen anderen orten vff Sant Marien Magdalenen abend durch Baden für die Statt Waltzhůt / vnd kamen die anderen eidgno[ssen] alle zů inen mit iren panern / Die von Zürich beschickten ouch angendes ir gros houptbüchsen / vnd anderen iren zug / was si dann hatten / vnd darzů nütz vnd gůt was / vnd leiten den für die Statt Waltzhůt vnd vingen an schiessen vnd werken",
+   "preklad": "A když se tedy Bernští a Solothurnští se svými korouhvemi vrátili ze Sundgau domů a jim i ostatním Spřísežencům se z milosti všemohoucího Boha dobře a šťastně vedlo – neboť to, kvůli čemu vytáhli, vyřídili dobře podle své vůle a libosti –, zůstali ostatní Spříseženci se svými korouhvemi v Tiengenu a v tom kraji a nechtěli táhnout domů, dokud s nimi [panství] neuzavře úplný a dobrý mír. Doslechli se totiž, že velké a mocné vojsko nepřátel z Čech a z jiných zemí je již na nohou, a tomu by se byli rádi postavili. Obsadili proto Schaffhausen ještě dalšími lidmi a žoldnéři, aby u nich [Schaffhauští] měli dobrou podporu a oporu. A tak jako první táhli Luzernští s některými dalšími místy (kantony) v předvečer svaté Marie Magdalény přes Baden k městu Waldshut a všichni ostatní Spříseženci k nim přišli se svými korouhvemi. Curyšští také ihned poslali pro své velké obléhací dělo (bombardu) a další výzbroj, co jí měli a co k tomu bylo užitečné a dobré, postavili je před město Waldshut a začali střílet a pracovat [na obléhacích dílech]."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 51,
+   "popis": "dvě třetiny strany – vojsko s korouhvemi (Luzern, Uri) táhne k Waldshutu"
+  },
+  {
+   "strana": 52,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 52,
+   "text": "52 X (pozdější foliace, levý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Luzernští a některá další místa Spříseženců s nimi jako první táhli k městu Waldshut a oblehli je",
+ "poznamky_prekladu": [
+  "Předvečer sv. Marie Magdalény (22. 7.) = 21. 7. 1468 (juliánský kalendář).",
+  "Tüngen = Tiengen (Waldshut-Tiengen), Baden = Baden v Aargau (mimo přepis).",
+  "„ir gros houptbüchsen“ – jednotné číslo (jejich velké obléhací dělo) i množné je možné; přeloženo jednotně."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

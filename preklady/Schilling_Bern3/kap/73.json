@@ -1,0 +1,43 @@
+{
+ "cislo": 73,
+ "nadpis": "Das der vorgenant herr peter von hagenbach etlich from lüte zů Tann mit dem Swert sins eignen gewalts an alles recht richten / vnd etwas zites an den gassen ligen liess",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 155,
+ "strany": [
+  155,
+  156,
+  157
+ ],
+ "odstavce": [
+  {
+   "text": "Die erbern Stette im Brissgow / im Suntgöw vnd am Rine / die dann siner pflege verwant / vnd sinem Schirm vndertenig warent / beswert er mit dem böss pfenning / Vnd andern harten Stüren / witer vnd anders / dann aber inen vermüglich / vnd ir freiheit oder alt herkomen was / Vnd als sich des etlich biderb lüte der Räten vnd burgern von Tann etwas wideren wolten / vnd gern bi iren freiheiten vnd gerechtikeiten bliben werent / Als bald er das vernam / da hat er einen heimlichen schantlichen anslag getan / vnd überviel die armen fromen lüte an einem morge[n] frü / mit denen so bi im waren / Vnd liess si alle den merteil nackent vff das Rathus füren / vnd liess ein teil sweren nit us dem Rathus ze komen bis er inen erloubt / vnd ouch ir werinen von inen zů geben / Die andern so im eben dero bi drissig waren / liess er also nackent binden / vnd an den blatz in der Statt füren / in der meynung si alle enthoupten vnd vom leben zem tode bringen lassen Dabi warent Graf Oswalt von Tierstein / herr hanns Erhart von Rinach / vnd ander Ritter vnd knecht / die das gros mort liessen beschechen / vnd nit darzů taten / Also wurden der armen vnschuldige[n] martrer vier enthoupptet mit gewalt vnd an recht die liess er in smach vnd voracht der menscheit also ellend vnd tott vor iren wiben kinden vnd frunden etlich tage an den gassen ligen / Da retten dennocht die vorgenanten vmbstender als vil darin / dz der snöd wüterich ein benügen hatt / vnd die andern bi dem leben liess / Er straft si aber an irem gůt hertiklich / vnd nam inen was im eben was / alles wider gott vnd recht / Der glich vnd ander jamerdiente[?] grym töde / volbracht er an mengem biderman armen vnd richen",
+   "preklad": "Ctihodná města v Breisgau, v Sundgau a na Rýně, která patřila pod jeho správu a byla podřízena jeho ochraně, zatížil „zlým fenikem“ (böser Pfennig) a jinými tvrdými daněmi, víc a jinak, než byla jejich možnost a než odpovídalo jejich svobodám či starému obyčeji. A když se tomu někteří řádní lidé z radních a měšťanů v Thannu chtěli poněkud vzepřít a rádi by zůstali při svých svobodách a právech, jakmile se to dozvěděl, ukul tajný hanebný úklad a přepadl ty ubohé poctivé lidi jednoho rána časně s těmi, kdo byli s ním. Většinu z nich dal nahé odvést na radnici; část nechal přísahat, že z radnice nevyjdou, dokud jim to nedovolí, a že odevzdají své zbraně. Ostatní, kterých bylo právě asi třicet, dal takto nahé svázat a odvést na náměstí ve městě s úmyslem dát je všechny stít a připravit o život. Byli při tom hrabě Oswald von Thierstein, pan Hans Erhart von Reinach a jiní rytíři a panoši, kteří tu velkou vraždu nechali stát a nic proti ní neudělali. Tak byli čtyři z ubohých nevinných mučedníků násilím a bez práva sťati. Ty nechal k potupě a pohrdání lidskostí takto bídně a mrtvé ležet před jejich ženami, dětmi a přáteli několik dní na ulicích. Tu se přece jen zmínění přítomní přimluvili natolik, že se ten ohavný ukrutník spokojil a ostatní nechal naživu. Potrestal je však tvrdě na majetku a vzal jim, co se mu zlíbilo, všechno proti Bohu a právu. Takové a jiné žalostné [?] kruté smrti způsobil mnohému řádnému muži, chudému i bohatému."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 156,
+   "popis": "dokončená kolorovaná miniatura – poprava v Thannu: náměstí s domy, ženy na pavlači lomí rukama, muži v okně přihlížejí; Hagenbach (?) v pruhovaném oděvu s černobílou čepicí uprostřed dvořanů s péry; kat s mečem, odsouzenci jen v bederních rouškách, na zemi dvě sťatá těla s hlavami, klečící odsouzený; na zemi meč a klobouk"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 156,
+   "text": "156 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 157,
+   "text": "157 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že zmíněný pan Peter von Hagenbach dal v Thannu některé poctivé lidi vlastní mocí bez jakéhokoli práva popravit mečem a nechal je nějaký čas ležet na ulicích",
+ "poznamky_prekladu": [
+  "„böss pfenning“ = „zlý fenik“ (böser Pfennig), nepřímá daň z vína a nápojů, kterou Hagenbach zavedl 1473; termín chybí v glosáři.",
+  "„jamerdiente[?]“ – čtení nejisté; smysl „žalostné“.",
+  "Čtyři popravení v Thannu – Schilling; počty (asi třicet zajatých, čtyři sťatí) ponechány podle textu. Událost se klade do roku 1469/1470 (mimo přepis).",
+  "Oswald von Thierstein a Hans Erhart von Reinach – šlechtici Předních zemí v Hagenbachových službách (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

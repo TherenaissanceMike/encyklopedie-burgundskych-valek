@@ -1,0 +1,30 @@
+{
+ "cislo": 403,
+ "nadpis": "Von einem heissen vnd warmen Summer",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 907,
+ "strany": [
+  907
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach in dem nechsten Jare wart gar ein heisser vnd türer Sumer / Also das merenteils alle bäche vnd brunnen uff dem lande vnd ouch in etlichen Stetten abgiengen / dann es me dann in zwölf oder dritzehen wuchen an einandern nie geregnet / vnd was ouch da zwüschen vast heis / doch wart von gottes gnaden ein gůt Jar an win koren vnd allen anndern früchten / vnd vmb ein rechten pfennig geben",
+   "preklad": "Potom v následujícím roce bylo velmi horké a drahé léto, takže většina potoků a studní na venkově a také v některých městech vyschla, neboť déle než dvanáct nebo třináct týdnů za sebou ani jednou nezapršelo a bylo přitom také velmi horko. Přesto z Boží milosti byl dobrý rok na víno, obilí a všechny jiné plodiny a prodávalo se to za spravedlivou cenu."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [],
+ "poznamky": [
+  {
+   "strana": 907,
+   "text": "horké suché léto 1478 (12–13 týdnů bez deště), přesto dobrá úroda vína a obilí za přiměřenou cenu"
+  }
+ ],
+ "nadpis_preklad": "O horkém a teplém létě",
+ "poznamky_prekladu": [
+  "„in dem nechsten Jare“ – po roce 1477 (kap. 398, 402), tedy léto 1478 (mimo přepis).",
+  "„türer Sumer“ – doslova „drahé léto“, ačkoli dále se píše o dobré úrodě za spravedlivou cenu; ponecháno podle textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,47 @@
+{
+ "cislo": 369,
+ "nadpis": "Das der hertzog von Lotthringen mit den eidgno[ssen] von Basel gen Nanse zoch",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 841,
+ "strany": [
+  841,
+  842,
+  843
+ ],
+ "odstavce": [
+  {
+   "text": "An Sant Steffans tag ze winechten des heiligen martrers vnd zwölf botten / als man von der gebürt Cristi zalt Tusent vierhundert Sibentzig vnd Siben Jar / zoch der hertzog in eigner persone mit den eidgno[ssen] von Basel den nechsten weg gen Nanse / sin hertzogthům vnd vatter land zů retten / vnd die fromen lüte so er in Nanse ligen hatt zů entschütten / dann si grossen mangel vnd presten an essen / trincken vnd an allen andern dingen hatten / vnd zoch yederman gar mit gütem hertzen",
+   "preklad": "Na den svatého Štěpána o Vánocích, svatého mučedníka a apoštola, když se psalo od narození Krista tisíc čtyři sta sedmdesát sedm let, táhl vévoda osobně se Spříseženci z Basileje nejkratší cestou k Nancy, aby zachránil své vévodství a otcovskou zemi a vysvobodil statečné lidi, které měl v Nancy, neboť měli velký nedostatek a nouzi o jídlo, pití a všechny ostatní věci. A každý táhl s velmi dobrým srdcem."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 842,
+   "popis": "vojsko vytahuje z Basileje (štít s berlou nad branou): velký zástup pěchoty s píkami a halapartnami, vojáci s kříži na kabátcích (rakouské/lotrinské dvojité kříže?), korouhve – se svatým a lvy, s křížem, pruhované, Uri s volskou hlavou; vlevo jezdci; vpředu kopce, v pozadí Rýn s loďkou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 842,
+   "text": "842 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou A"
+  },
+  {
+   "strana": 843,
+   "text": "843 (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou E a výplňový tah perem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 842,
+   "text": "„Sant Steffans tag ze winechten … 1477“ = 26. prosince 1476 (rok počítán od Vánoc)"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda Lotrinský táhl se Spříseženci z Basileje k Nancy",
+ "poznamky_prekladu": [
+  "Sv. Štěpán 1477 = 26. 12. 1476 (čtvrtek); Schilling počítá rok od Vánoc, proto „1477“.",
+  "„zwölf botten“ = apoštol; sv. Štěpán byl jáhen, ne apoštol – ponecháno doslova podle textu (nesoulad).",
+  "Podle kap. 367 a 368 vyrazili z Bernu 19. 12., v Basileji dostali zálohu a 26. 12. táhli dál."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

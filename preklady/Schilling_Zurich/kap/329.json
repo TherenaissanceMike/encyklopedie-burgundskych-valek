@@ -29,5 +29,6 @@
   "OCR opraveno: „ver5 nemen“ → „vernemen“ (číslo řádku v textu), „vernam ch darnach“ → „vernam ouch darnach“ (začátek strany, „ou“ doplněno podle smyslu), odstraněny zbloudilé apostrofy a tečky."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

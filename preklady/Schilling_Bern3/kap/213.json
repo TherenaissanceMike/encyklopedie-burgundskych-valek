@@ -1,0 +1,35 @@
+{
+ "cislo": 213,
+ "nadpis": "Das man von forcht wegen des prästens der Pestilentz zů Rath ward wider vß Burgündt heim ze züchen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 449,
+ "strany": [
+  449,
+  450
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man nů die selben zwey Sloß so ritterlichen gewunnen / geplündert vnd in füre geleit hatt / da wer man wol des gůten willen gewesen witer vnd verrer in Burgunn zů ziechen / dann man vil mannlicher lüten byeinandern hat / da entsas man den presten der pestelentz / der in dem lande vast richsnet / vnd sturben vil lüten von frunden vnd vienden / des selben prestens / das man mer entsitzen vnd vörchten müst dann die viend / darzů mocht man ouch nit zů Spis komen / dann yederman geflöchet hat / vnd was in allem lande vast tür / Also wart man gemeinlichen zů ratt / das yederman den nechsten wider heim ziechen solt / das ouch beschach / vnd schieden die von Bernn vnd ander eidgno[ssen] vnd verwanten gar fruntlich vnd brůderlich voneinandern",
+   "preklad": "Když tedy ty dva hrady tak rytířsky dobyli, vyplenili a zapálili, byli by měli dobrou vůli táhnout dál a hlouběji do Burgundska, neboť měli pohromadě mnoho mužných lidí. Báli se však morové nákazy, která v zemi silně řádila, a na tutéž nemoc umíralo mnoho lidí z přátel i nepřátel, takže se jí bylo třeba bát a obávat víc než nepřátel. K tomu se také nedalo dostat k zásobám, neboť všichni utekli a v celé zemi byla velká drahota. Proto se společně usnesli, že každý má táhnout nejkratší cestou zpět domů. To se také stalo a Bernští i ostatní Spříseženci a spojenci se rozešli velmi přátelsky a bratrsky."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 450,
+   "text": "450 X (pozdější foliace, levý horní roh); stránka bez obrázku; nahoře text, rubrika POZDĚJŠÍ rukou (kurzíva), pak text s velkou iniciálou V, dole kadela"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 449,
+   "text": "rubrika „Das man von forcht wegen …“ je psána pozdější rukou (novější kurzíva, pravopis „Burgündt“, „züchen“), ne písařem kroniky"
+  }
+ ],
+ "nadpis_preklad": "Jak se ze strachu před morovou nákazou usneslo vrátit se z Burgundska domů",
+ "poznamky_prekladu": [
+  "Rubrika kapitoly je psána pozdější rukou (novější kurzíva, pravopis „Burgündt“, „züchen“), ne písařem kroniky."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

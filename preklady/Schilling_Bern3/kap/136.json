@@ -1,0 +1,43 @@
+{
+ "cislo": 136,
+ "nadpis": "Das die von Lutzern mit einem erlichen volck vnder wegen zů denen von Bernn kamend / vnd mit inen gen Ericurt zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 277,
+ "strany": [
+  277,
+  278,
+  279
+ ],
+ "odstavce": [
+  {
+   "text": "Als nü die von Bernn vnd die iren zůsamen waren komen / da zugen si mit denen von Sollotern / Friburg vnd Biel von Porrentrut[?] den nechsten weg gen Ericurt / yederman gantz vnerschrocken / vnd bleip man der selben nacht in einem dorff hie disenthalb Ericurt / vnd also morndes zoch man darfür / als man des miteinandern zů ratt worden was / das der hertzog von österrich / darzů Strassburg / Basel vnd ander iren grossen züg von büchsen vnd anderm mit inen bringen / vnd man das leger für Ericurt slachen solt vnd vnder wegen / als man wider Mümpellgart zů kam / da kamen die von Lutzern mit einem trefflich[en][?] vnd wol geordneten erlichen volck / vnd fügen sich angendes zů denen von Bernn / vnd vermischletent sich vnder einandern / vnd zugen also in brüderlichen trüwen desselben tages bis für Ericurt / vnd kamen in der nacht dar / vnd wolten nit me von einandern wichen / vnd slůgen ir leger ze sammen vnd was dennocht nieman vor der Statt / weder von fürsten / herrenn / Stetten noch den eidgno[ssen] / vnd als man spatt an einem Samstag dar was komen vnd man in einem witen velde wider Mümpelgart lag / da mocht man bi tage weder hütten noch andern schirmen machen noch haben / darzů kam ouch ein grosser regen / vnd regnet durch die gantze nacht das yederman stan vnd sich erweren müst als er mocht / darzů litten si ouch der selben nacht hunger vnd frost / vnd warent dennocht frölich",
+   "preklad": "Když se tedy Bernští a jejich lidé sešli, táhli se Solothurnskými, Fribourgskými a Bielskými z Porrentruy [?] nejkratší cestou k Héricourtu, každý zcela neohrožen. Tu noc se zůstalo ve vesnici z této strany Héricourtu. Nazítří se táhlo před [město], neboť se spolu usnesli, že vévoda Rakouský, k tomu Štrasburk, Basilej a jiní přivezou s sebou svůj velký trén děl a jiného a že se ležení má rozbít před Héricourtem. Cestou, když se přišlo k Montbéliardu, přišli Luzernští s vynikajícím [?] a dobře uspořádaným čestným lidem, ihned se připojili k Bernským, promísili se navzájem a táhli tak v bratrské věrnosti téhož dne až před Héricourt. Přišli tam v noci, nechtěli se již od sebe odloučit a rozbili ležení spolu. A ještě nikdo před městem nebyl, ani z knížat, pánů, měst, ani ze Spříseženců. A protože se tam přišlo pozdě v sobotu a leželo se v širém poli směrem k Montbéliardu, nemohlo se za dne udělat ani mít chýše ani jiné přístřeší. K tomu přišel velký déšť a pršelo celou noc, takže každý musel stát a bránit se, jak mohl. Kromě toho trpěli tu noc hladem a zimou, a přesto byli veselí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 277,
+   "popis": "velká dokončená kolorovaná miniatura, rubrika vepsána do pásky nahoře – setkání Lucernských s Berňany na pochodu: vlevo město s hradbami a věžemi, bernský prapor s medvědem a pruhované a šachovnicové korouhve; zástup pěšáků s dlouhými píkami a halapartnami, v přilbách a pruhovaných kabátcích, s bílými kříži na prsou; vpředu mladík v kabátci s křížem; vpravo křoví"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 278,
+   "text": "278 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); dole velká kadela"
+  },
+  {
+   "strana": 279,
+   "text": "279 X (pozdější foliace, pravý horní roh); celostránková miniatura, text pod ní chybí"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Luzernští s čestným lidem cestou přišli k Bernským a táhli s nimi k Héricourtu",
+ "poznamky_prekladu": [
+  "„Porrentrut[?]“ – nejisté čtení; patrně Porrentruy (Pruntrut) v Jursku (mimo přepis).",
+  "„trefflich[en][?]“ – nejisté rozepsání, smysl „vynikající“.",
+  "Sobota příchodu před Héricourt = patrně 29. 10. 1474 (odvozeno, mimo přepis).",
+  "„züg von büchsen“ přeloženo podle glosáře „trén děl“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

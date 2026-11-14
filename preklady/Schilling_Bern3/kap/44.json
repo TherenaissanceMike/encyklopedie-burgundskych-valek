@@ -1,0 +1,37 @@
+{
+ "cislo": 44,
+ "nadpis": "Das min herr von Basel / der Marggraf von Rötteln / vnd ander von der sach wegen gen Bernn kamen / vnd sich in trüwen arbeitent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 82,
+ "strany": [
+  82,
+  83
+ ],
+ "odstavce": [
+  {
+   "text": "Darumb da nů semlich wort allenthalben gerett vnd gebrucht wurden / das in der Statt Bernn ein misshell vnd zweyung sin solt / Da kamen gen Bernn die hochwirdigen vnd hochgeborn fürsten vnd herrenn herr Johanns von gottes gnaden Bischoff zů Basel / der was einer von Venyngen / vnd herr Rüdolf Marggraf von Hochberg Graff zů welschem Nüwenburg / herr zů Rötteln vnd Susenburg Gubernator zů Lützelburg / der ein ewig burgrecht mit denen von Bernn hat / darzů der erbern Stetten botten von Basel / Sollotern / Friburg / Biell vnd ander / als getrüw herrenn vnd frunde / denen dann semlich irrunge vnd zweytracht in gantzen trüwen leid waren / Vnd begerten an die von Bernn / räte vnd zwey hundert / inen der sachen zů vertrüwen / vnd ander gůt mittel darinne zů sůchen / damit man bi friden vnd einikeite möcht bliben / mit gar fruntlichen worten vnd erbietens das dennocht menglich wol erkant / das inen die ding vast zů hertzen giengen / Also wart inen von räten vnd burgern vast gedancket / vnd wurden inen die gemachten Satzungen vnd ordnungen vor gelesen / Vnd zů erkennen geben / warumb die gemacht vnd angesechē weren / vnd das man davon eren halb / nach dem man die gesworen hette / nit wol konde noch möcht stan / Vnd wurden also dazemal gütlichen von Bernn gewiset / wie wol si vngern dannen schieden",
+   "preklad": "Protože se tedy všude říkala a šířila taková slova, že ve městě Bernu má být rozepře a rozkol, přišli do Bernu důstojní a vysoce urození knížata a páni: pan Johann, z Boží milosti biskup basilejský, který byl z rodu Venningenů, a pan Rudolf, markrabě z Hochbergu, hrabě z vlašského Neuchâtelu, pán na Röttelnu a Sausenbergu, gubernátor Lucemburska, který má s Bernskými věčné měšťanské právo (burgrecht); k tomu poslové ctihodných měst Basileje, Solothurnu, Fribourgu, Bielu a jiných, jako věrní páni a přátelé, jimž byl takový nesoulad a rozkol upřímně líto. Žádali Bernské, Malou radu a Radu dvou set, aby jim tu věc svěřili a dovolili v ní hledat jiný dobrý prostředek, aby se mohlo zůstat v míru a svornosti. Mluvili velmi přátelskými slovy a s nabídkami, takže každý dobře poznal, že jim ty věci velmi leží na srdci. Radní a měšťané jim za to velmi poděkovali, přečetli jim vydaná nařízení a řády a dali jim na vědomí, proč byly vydány a ustanoveny a že od nich kvůli cti, když už byly odpřisáhnuty, nelze dobře ustoupit. A tak byli tehdy v dobrém z Bernu odbyti, ačkoli odcházeli neradi."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 83,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 83,
+   "text": "83 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak můj pán basilejský, markrabě z Röttelnu a jiní kvůli té věci přišli do Bernu a věrně se o ni přičiňovali",
+ "poznamky_prekladu": [
+  "Biskup Johann von Venningen (basilejským biskupem 1458–1478) (mimo přepis).",
+  "Markrabě Rudolf von Hochberg, hrabě neuchâtelský (welsch Nüwenburg = Neuchâtel, na rozdíl od Neuenburgu na Rýně); Susenburg = Sausenberg (mimo přepis).",
+  "„räte vnd zwey hundert“ přeloženo podle glosáře „Malá rada a Rada dvou set“; „räte vnd burger“ = radní a měšťané (tytéž dva sbory)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,62 @@
+{
+ "cislo": 285,
+ "nadpis": "Das die fromen lüt über das alles vor Granson erhenckt / vnd ouch ertrenckt wurdent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 632,
+ "strany": [
+  632,
+  633,
+  634,
+  635
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also gingen si leider us dem Sloß / vnd wurden in das Burgunsch here mit grossem geschrey vnd smach gefürt / an der erst mit worten / alweg zechen oder zwentzig miteinandern an ein ort / vnd versachen sich nit anders / dann wie si uff genomen warend / dabi solt es ouch bliben vnd si mit dem leben von dannen komen sin / das möcht leider nit helfen / dann der verräter von Rünschan offenlichen rett / er hette si darumbe verratten vnd hin geben / das im vor ziten von denen von Sollottern ouch etwas schadens were beschechen Darzů batt ouch der Graff von Roymond / vnd allermeist die von Iferdun / den hertzogen von Burgunn das er die fromen lüte über ein nit leben liess / dz ouch leider beschach / vnd wurden also am dornstag vnd am fritag darnach an die böme vor Granson mortlichen erhenckt / vnd in dem Sewe ertrencket der ob fünfthalb hunderten was / vnd doch wie vor statt des lebens gesichert warent / der almechtig gott welle sich über die armen selen erbarmen / Dann solicher mortlicher sachen von denen von Bernn vnd andern iren eidgno[ssen] von gottes gnaden nie gehört noch vernomen sind / was si ye zů gesagt das haben ouch si gehalten / vnd sich an nieman gerochen / dann an der ersten not in Stürmen vnd Striten vnd was nit also am ersten von inen erslagen wart da hatt man doch nachmalen erbermde gebrucht / als man dann ze Blomont vnd in andern Stetten vn[d] Slossen / da man die lüte vffgenomen / wol gesechen hatt Zwar es was ein groß mort an dem verräter von Rünschan / vnd noch grösser an dem Burgunschen hertzogen / der solt es nit gestattet noch verhengt habe[n] doch ward es nachmalen durch verhengnüß des almechtigen barmhertzigen gottes / an sinem libe vnd gůt swarlichen gerochen / als harnach gelütert wirt",
+   "preklad": "Tak tedy bohužel vyšli z hradu a byli s velkým křikem a potupou vedeni do burgundského vojska, zprvu jen se slovy [?], vždy po deseti nebo dvaceti spolu na jedno místo. Nečekali nic jiného, než že jak byli přijati, při tom zůstane a oni odejdou se životem. To však bohužel nebylo nic platné, neboť zrádce von Rünschan veřejně říkal, že je proto zradil a vydal, že mu kdysi Solothurnští také způsobili nějakou škodu. K tomu prosil hrabě z Romontu a nejvíce Yverdonští vévodu Burgundského, aby statečné lidi vůbec nenechal naživu. To se bohužel také stalo: ve čtvrtek a v pátek potom byli na stromech před Grandsonem vražedně oběšeni a utopeni v jezeře, a bylo jich přes čtyři sta padesát, ačkoli jim byl, jak výše stojí, zaručen život. Všemohoucí Bůh se smiluj nad těmi ubohými dušemi! Neboť o takových vražedných věcech od Bernských a jiných jejich Spříseženců nebylo z Boží milosti nikdy slyšet: co kdy přislíbili, to také dodrželi, a nemstili se na nikom jinak než v první nouzi při útocích a bitvách; a kdo nebyl takto hned zpočátku zabit, s tím se potom přece zacházelo milosrdně, jak se to dobře ukázalo v Blamontu a v jiných městech a hradech, kde lidi přijali [na milost]. Věru to byla velká vražda ze strany zrádce von Rünschan a ještě větší ze strany burgundského vévody, který to neměl dovolit ani připustit. Přesto to později z dopuštění všemohoucího milosrdného Boha bylo těžce pomstěno na jeho životě i statku, jak bude vyloženo níže."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 633,
+   "popis": "kolorovaná kresba – poprava posádky Grandsonu: vlevo stromy plné oběšených mužů s bílými kříži, kat na žebříku věší další, svázaní zajatci čekají; vpravo dole burgundští vojáci a velitel s péry; uprostřed nahoře burgundský prapor s ondřejským křížem; vpravo nahoře na jezeře loďka s katovými pomocníky topí zajatce (z vody trčí hlavy); v pozadí hory a stan"
+  },
+  {
+   "strana": 634,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 633,
+   "text": "633 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 634,
+   "text": "634 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole velký ozdobný tah"
+  },
+  {
+   "strana": 635,
+   "text": "635 X (pozdější foliace, pravý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou S"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 632,
+   "text": "„geüct“ – nejisté (snad „geübt“)"
+  },
+  {
+   "strana": 634,
+   "text": "přes 450 mužů posádky oběšeno a utopeno ve čtvrtek a pátek (29. 2. a 1. 3. 1476)"
+  }
+ ],
+ "nadpis_preklad": "Jak byli stateční lidé navzdory tomu všemu před Grandsonem oběšeni a také utopeni",
+ "poznamky_prekladu": [
+  "„am dornstag vnd am fritag darnach“ = čtvrtek 29. 2. a pátek 1. 3. 1476 (juliánský kalendář, přestupný rok).",
+  "„der ob fünfthalb hunderten was“ = přes čtyři sta padesát („fünfthalb hundert“ = 450); ponecháno podle textu. Jiné prameny uvádějí kolem 410 popravených (mimo přepis).",
+  "„an der erst mit worten“ – smysl nejistý; snad že zprvu byli tupeni jen slovy, nebo že zprvu bylo s nimi zacházeno podle slibu.",
+  "„der Graff von Roymond“ = hrabě z Romontu, Jakub Savojský (mimo přepis); „Iferdun“ = Yverdon.",
+  "Blamont – narážka na milosrdné zacházení se zajatci při dobytí Blamontu 1475."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

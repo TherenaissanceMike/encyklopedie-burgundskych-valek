@@ -1,0 +1,56 @@
+{
+ "cislo": 367,
+ "nadpis": "Das die von Bernn dem hertzogen von Lotthringen gar ein erlich streitbar volck mit einem venner schickten vnd santent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 837,
+ "strany": [
+  837,
+  838,
+  839
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also schickt man von stund an ein erlich vnd mannlich volck / mit einem venli hinweg / denen wurden für houptlüt geben vnd zůgeordnet Brandolf vom Stein vnd Bilian von Rümlingen / Vnd zugen also von Bern uß an dornstag vor dem heiligen winacht tage des vorgenanten Jares / vnd versampneten sich in der Statt Basel / dahin ouch ander eidgno[ssen] kamen Vnd bleben daselbs / bis ir von Bernn / vnd andern orten von eidgno[ssen] me dann acht tusent wurdent da gab man yeglichem uff sinen Sold zwen guldi[n]",
+   "preklad": "A tak se ihned vypravil počestný a statečný lid s praporcem. Za hejtmany jim byli dáni a přiděleni Brandolf vom Stein a Bilian von Rümlingen. Vytáhli tedy z Bernu ve čtvrtek před svatým dnem Vánoc zmíněného roku a shromáždili se ve městě Basileji, kam přišli i ostatní Spříseženci. Zůstali tam, dokud jich z Bernu a z jiných míst (kantonů) Spříseženců nebylo přes osm tisíc. Tu dostal každý na svůj žold [zálohu] dva zlaté."
+  },
+  {
+   "text": "Es wart ouch ein frommer man von Bern namlich Vrban von Mülren der dazemal ein venner was / ouch gen Basel geschickt etwas mit inen zů reden / vnd inen ir sachen nach dem besten helfen ordnen / der selb von Mülron zoch mit inen in Lotthringen an den Streit sins eignen willens / vnd bewert sich da als ein frommer Berner als dann sin vordern vor lanngen Jaren in der Statt nöten an dem Streit ze Louppen vnd andern enden ouch getan hand / das man in den alten Croniken wol vindet",
+   "preklad": "Byl také poslán do Basileje statečný muž z Bernu, jmenovitě Vrban von Mülren, který byl tehdy praporečníkem, aby s nimi něco projednal a pomohl jim co nejlépe uspořádat jejich věci. Tento von Mülron táhl s nimi do Lotrinska do bitvy z vlastní vůle a osvědčil se tam jako statečný Bernan, jak to už jeho předkové před dlouhými lety v nouzi města činili v bitvě u Laupenu a na jiných místech, což se dobře najde ve starých kronikách."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 838,
+   "popis": "odchod bernského oddílu z Bernu: vlevo městská brána s bernským štítem (medvěd), věž s kupolí a hradby nad řekou/jezerem s loďkou; před branou jezdci – dva s erbovními štíty na zádech (hejtmani Brandolf vom Stein a Bilian/Bilgerin von Rümlingen?), jezdec s halapartnou a kříži na kabátci; vpravo zástup pěších s bílými kříži a píkami pod korouhví s křížem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 838,
+   "text": "838 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V"
+  },
+  {
+   "strana": 839,
+   "text": "839 X (pozdější foliace, pravý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, odstavec s iniciálou E, dole rubrika s iniciálou D (k obrazu na s840)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 838,
+   "text": "„dornstag vor dem heiligen winacht tage“ 1476 = 19. prosince 1476; „Bilian“ = Bilgeri von Rümlingen (čtení nejisté)"
+  },
+  {
+   "strana": 839,
+   "text": "shromaždiště v Basileji, přes 8000 mužů, každý dostal zálohu 2 zlaté"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští poslali vévodovi Lotrinskému velmi počestný a bojeschopný lid s praporečníkem",
+ "poznamky_prekladu": [
+  "Čtvrtek před Vánocemi 1476 = 19. 12. 1476 (Vánoce 25. 12. byly středa).",
+  "Nadpis říká „mit einem venner“ (s praporečníkem), text „mit einem venli“ (s praporcem) – ponecháno, jak stojí.",
+  "„Bilian von Rümlingen“ – snad Bilgeri von Rümlingen (čtení nejisté, mimo přepis).",
+  "Jméno Mülren / Mülron kolísá v textu, ponecháno. Bitva u Laupenu 1339 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

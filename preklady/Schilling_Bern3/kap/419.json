@@ -1,0 +1,48 @@
+{
+ "cislo": 419,
+ "nadpis": "Das die von Bernn ein Stettli genant Arles[?] gewunnen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 935,
+ "strany": [
+  935,
+  936
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů der houptman von Bernn gen Chalun zoch / do zugen si für ein Stetli genant Arles[?] gehört dem herrn von Chasteguion[?] / darinne wolt man si nit herbergen / noch essen oder trincken vmb ir gelt geben / vnd müsten ouch allerley böser worten von inen hören / darumb si sich gern an inen gerochen hetten / dann das semlichs durch de[n] houptman mit vernunft vnnder tragen wart Vnd als man von Chalun wider harus kam do wolt man inen aber weder win noch brot vmb ir gelt geben / Do lüffen etlich knecht on des houptmans wissen an das Stetli / vnd stigen hin in / vnd hatten es bald gewunnen / Vnd vingen an plündern / vnd etlich erstachen die si vermeinten schuldig sin / In dem kam der houptman / vnd rett mit den houptlüten gar zornlich[?] / warumb si die Statt beslossen / vnd inen weder win noch brot vmb ir gelt geben hettent dann solt es der küng / in des dienst si weren / vernemen / er wurde si mit vngnaden bedencken / vnd er wolt es ouch angendes dem küng schriben / vnd dannen nit komen / bis inen für die sinach[?] tusent Schilt wurden / darab si erschracken / vnd meinten si hetten des geltes nit / dann si all arm Soldner des küngs werent / vnd wart die Sum vertedinget das si nit me dann funftzechen Schilt gaben / das wart den knechten die wund warent / Vnd zugen damit von dannen / vnd wurden dennocht bi einem dotzen[?] erstochen / Der vorgenant houptman von diesbach verschůf ouch / was yeman genomen / das es inen wider wart / vnd was inen werden mocht / das bezalt er etlichen armen lüten mit sinem eignen gelt / das gar erlich getan wz",
+   "preklad": "Když tedy bernský hejtman táhl do Chalonu, přitáhli k městečku zvanému Arles [?], které patří pánu z Châteauguyonu [?]. Tam je nechtěli ubytovat ani jim prodat jídlo a pití za jejich peníze a museli od nich slyšet všelijaká zlá slova; proto by se jim byli rádi pomstili, kdyby to hejtman rozumně nezarazil. A když se z Chalonu vraceli zpět, zase jim nechtěli dát víno ani chléb za jejich peníze. Tu někteří knechti bez hejtmanova vědomí vyběhli k městečku, vlezli dovnitř a brzy ho dobyli. Začali plenit a někteří probodli ty, o nichž se domnívali, že jsou vinni. Vtom přišel hejtman a velmi rozhněvaně [?] mluvil s představenými [městečka], proč zavřeli město a nedali jim víno ani chléb za jejich peníze; kdyby se to dozvěděl král, v jehož službách byli, potrestal by je svou nemilostí. Chtěl to také hned králi napsat a neodejít odtud, dokud mu za tu potupu [?] nedají tisíc štítových zlatých. Toho se lekli a tvrdili, že ty peníze nemají, protože jsou všichni chudí žoldnéři [poddaní] krále. Suma byla vyjednána tak, že nedali víc než patnáct štítových zlatých, a ty dostali knechti, kteří byli zraněni. A tak odtud odtáhli; přesto bylo asi tucet [?] [lidí] probodnuto. Zmíněný hejtman von Diesbach také zařídil, aby to, co komu bylo vzato, mu bylo vráceno, a co se vrátit nedalo, to některým chudým lidem zaplatil ze svých vlastních peněz, což bylo velmi čestně učiněno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 935,
+   "popis": "dobytí městečka: vlevo zástup pikenýrů pod bernskou korouhví s křížem za kopcem; uprostřed střelci z ručnic a kuše míří na hradby, muž na hradbě hází kámen; vpravo vojáci s píkami se tlačí do městské brány; vpředu kopce s trávou a řeka"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 936,
+   "text": "936 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s937)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 935,
+   "text": "jméno městečka „Arles[?]“ a pána „Chasteguion[?]“ (Châteauguyon, rod Chalon-Arlay?) nejisté; patrně Arlay v Jura"
+  },
+  {
+   "strana": 936,
+   "text": "hejtman Wilhelm von Diesbach nechal vrátit kořist a chudým zaplatil ze svého; měšťané zaplatili 15 štítů pro raněné; „sinach[?] tusent“ a „bi einem dotzen[?]“ (asi tucet zabitých) nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští dobyli městečko zvané Arles [?]",
+ "poznamky_prekladu": [
+  "„Arles[?]“ a „Chasteguion[?]“ – nejistá čtení; patrně Arlay v Jura, panství rodu Chalon-Arlay, pán z Châteauguyonu (Hugo z Chalonu?) (určení mimo přepis, [?]).",
+  "„houptlüten“ zde patrně představení městečka, ne vojenští hejtmani.",
+  "„für die sinach[?]“ – nejisté čtení, snad „smach“ = potupa.",
+  "„all arm Soldner des küngs“ – měšťané se vymlouvají, že jsou chudí lidé krále; smysl „Soldner“ zde nejasný.",
+  "„bi einem dotzen[?]“ – nejisté čtení, asi tucet."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 6
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 185,
+ "nadpis": "Das die von Bernn denen von Straßburg gar semlichen zůsagten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 399,
+ "strany": [
+  399,
+  400,
+  401
+ ],
+ "odstavce": [
+  {
+   "text": "Semlich bitt vnd vermanen der loblichen Statt von Straßburg ward denen von Bernn zů hertzen gan / vnd wurdent betrachten den grossen costen müg vnd arbeit / So dan[n] ein Statt von Straßburg zů allen ziten mit inen vnd andern eidgno[ssen] gehebt hett / Vnd besunder von des wegen / das der von Bern[n] vnd ander eidgno[ssen] kouflüte / In kurtzem mit grossem costen durch si entschüt vnd erlöst waren worden als si dann der von Howdorf uff dem Rine nider geworfen vnd gevangen hat / Von der vn[d] ander sachen vnd gůtteten wegen / vnd ouch darum[b] si als wol als ander mit dem hertzogen von Burgunn in offner vientschaft stůnden / vnd dem kriege gernn ein ende hetten geben / da sagtent si denen von Straßburg semlichen zů / Si wolten inen ein erlichen zůschup vnd hilf senden / vnd doch nit me dann von vier hundert mannen nach irem begeren Sold nemen / vnd was si inen darüber santen / darumb bedörften si nieman besolden / des inen die von Straßburg grossen danck sagten / Vnd also zugent die von Bernn von stund an tusent wol gewapneter vnd Streitbarer mannen mit einem venli uß / vnd gaben denen zů houptman herr Niclausen von Diesbach Rittern / vnd namen doch nit me Soldes dann von vier hundert mannen als vor statt Des glich gaben inen die von Sollotern ouch anderthalb hundert man vmb Sold mit einem venli die warend ouch bi denen von Bernn / Vnd hatten miteinandern lieb vnd leid / als si dann yeweltten[?] getan hand",
+   "preklad": "Taková prosba a napomenutí chvalného města Štrasburku šly Bernským k srdci. Uvážili velké náklady, námahu a práci, které město Štrasburk vždy s nimi a s ostatními Spříseženci mělo, a zvláště to, že kupci Bernských a ostatních Spříseženců byli nedávno s velkými náklady jejich zásluhou osvobozeni a vykoupeni, když je von Howdorf na Rýně přepadl a zajal. Kvůli tomu a jiným věcem a dobrodiním, a také proto, že [Štrasburští] stejně jako jiní byli s vévodou Burgundským v otevřeném nepřátelství a rádi by válce učinili konec, přislíbili Štrasburským, že jim pošlou čestnou posilu a pomoc, a přitom podle jejich žádosti nebudou brát žold za více než čtyři sta mužů; a co jim pošlou navíc, za to nemusí nikomu platit žold. Za to jim Štrasburští velmi děkovali. A tak Bernští ihned vypravili tisíc dobře ozbrojených a bojeschopných mužů s praporcem a dali jim za hejtmana pana Niklause von Diesbach, rytíře, a přece nebrali žold za více než čtyři sta mužů, jak je výše řečeno. Stejně tak jim Solothurnští dali za žold sto padesát mužů s praporcem; ti byli také s Bernskými a sdíleli spolu dobré i zlé, jak to odjakživa [?] činili."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 400,
+   "text": "400 X (pozdější foliace, levý horní roh); stránka bez obrázku; dole kadela"
+  },
+  {
+   "strana": 401,
+   "text": "401 X (pozdější foliace, pravý horní roh); nahoře rubrika, pod ní miniatura přes většinu strany, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 399,
+   "text": "„vnd obren“ na začátku strany – nejisté čtení (snad „vnd obern“ = vrchnost)"
+  },
+  {
+   "strana": 400,
+   "text": "„der von Howdorf uff dem Rine“ – Peter von Hagenbachs spojenec? Patrně Bilgeri von Heudorf, který 1473 na Rýně přepadl švýcarské kupce"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 400,
+   "text": "nad řádkem pozdější rukou „Bernn“ jako oprava přeškrtnutého „Straßburg“"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští Štrasburským takovou pomoc přislíbili",
+ "poznamky_prekladu": [
+  "„der von Howdorf“ – patrně Bilgeri von Heudorf, který 1473 na Rýně přepadl a zajal švýcarské kupce (mimo přepis; viz poznámka k přepisu).",
+  "„yeweltten[?]“ – nejisté čtení, přeloženo „odjakživa“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

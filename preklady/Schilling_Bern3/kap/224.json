@@ -1,0 +1,46 @@
+{
+ "cislo": 224,
+ "nadpis": "Hienach vindet man den krieg mit dem Grafen von Romont / vnd von was vrsach wegen man die Wätt im nam / vnd was da von den von Bernn vnd andern iren eidgno[ssen] vnd verwanten gehandelt wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 476,
+ "strany": [
+  476,
+  477,
+  478
+ ],
+ "odstavce": [
+  {
+   "text": "[V]nd als nů die hertzogin von Safoi in steter übung vnd anreitzunge was gar in menge[n] sachen / wider die von Bern vnd Friburg es were mit dem durchzug der Lamparter oder andern heimlichen vntücken vnd smacheiten / damit die ewigen geswornen punde von ir gebrochen vnd gantz vernicht wurden / So werend die von Bernn vnd Friburg mit dem hus von Safoi / alweg gern in der alten gůten fruntschaft / vnd bi iren gesworne[n] punden bliben / vnd wurden si erbarmen die iungen fürsten vnd kinde von Safoi / die aber des regiments nit gewaltig warent / dann die hertzogin das mit andern nach irem eignen willen usricht / durch die selben ward gar schantlich vn[d] übel regiert / alles zů schaden vnd abbruch des vorgenanten hertzogthůms / das des gar menigvalticlich durch ir vntrüw vnd ander sachen willen engolten hatt / als man harnach vindet Dann si zů allen ziten mit iren vngetrüwen bösen räten daruf studiert / wie si die von Bern vnd ander eidgno[ssen] hette mögen in des wüttrichs vnd blůt vergiessers des Burgunners gewalt bringen / das ir von gottes gnaden nit geriet",
+   "preklad": "Vévodkyně Savojská tedy Bernské a Fribourské ustavičně a v mnoha věcech dráždila, ať už průtahem Lombarďanů, nebo jinými tajnými úskoky a potupami, takže z její strany byly věčné přísežné spolky porušeny a zcela zmařeny. Bernští a Fribourští by přesto rádi zůstali se savojským domem vždy ve starém dobrém přátelství a při svých přísežných spolcích. Bylo jim také líto mladých savojských knížat a dětí, které však neměly vládu v moci, neboť vévodkyně ji s jinými vykonávala podle své vlastní vůle. Těmi se vládlo velmi hanebně a špatně, vše ke škodě a újmě zmíněného vévodství, které to pro její nevěrnost a jiné věci mnohonásobně odpykalo, jak se dále dočteme. Neboť ona se svými nevěrnými zlými rádci po všechny časy přemítala, jak by mohla Bernské a jiné Spřísežence dostat do moci toho tyrana a krveprolévce Burgunďana, což se jí z Boží milosti nepodařilo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 477,
+   "popis": "velká malovaná iniciála V (mřížkované pozadí, akant, květ); dolní část textu psána přes šedě podložený rám pro obrázek"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 477,
+   "text": "477 X (pozdější foliace, pravý horní roh); velká malovaná iniciála V na mřížkovaném pozadí s akantem a květem, text obtéká vpravo; pak text přes šedě podložený rám pro obrázek"
+  },
+  {
+   "strana": 478,
+   "text": "478 X (pozdější foliace, levý horní roh); nahoře rubrika, miniatura (kolorovaná kresba) přes většinu strany, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 476,
+   "text": "„die Wätt“ = Waadt (Vaud); Graf von Romont = Jakub Savojský, hrabě z Romontu"
+  }
+ ],
+ "nadpis_preklad": "Zde následuje válka s hrabětem z Romontu: z jaké příčiny mu byl vzat Vaud a co při tom Bernští a jiní jejich Spříseženci a spojenci podnikli",
+ "poznamky_prekladu": [
+  "„die Wätt“ = Vaud (Waadt); hrabě z Romontu = Jakub Savojský (Jacques de Savoie), pán Vaudu, bratr zesnulého vévody Amadea IX., tedy švagr Jolandy (mimo přepis).",
+  "„die iungen fürsten vnd kinde von Safoi“ = nezletilý vévoda Filibert I. a jeho sourozenci (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

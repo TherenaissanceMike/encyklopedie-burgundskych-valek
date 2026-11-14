@@ -1,0 +1,35 @@
+{
+ "cislo": 47,
+ "nadpis": "Das gemeiner adel frowen vnd man mit ire[m] anhang mit recht fürgenomen wurden / von der vorgenanten Satzungen wegen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 86,
+ "strany": [
+  86,
+  87
+ ],
+ "odstavce": [],
+ "obrazky": [
+  {
+   "strana": 87,
+   "popis": "dokončená kolorovaná miniatura přes většinu strany – soudní jednání v radní síni: za stolem písař s listinou a muž s holí (Grossweibel), uprostřed předstupující muži s dlouhými špičatými botami, kolem přihlížející dav, vpředu sedící muži na stoličkách, ozbrojení mladíci a pejsek"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 87,
+   "text": "87 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 86,
+   "text": "Kapitola má v rukopisu jen rubriku a obrázek; text navazuje pod další rubrikou (kap. 48)."
+  }
+ ],
+ "nadpis_preklad": "Jak byla všechna šlechta, ženy i muži, se svými přívrženci soudně pohnána kvůli výše zmíněným nařízením",
+ "poznamky_prekladu": [
+  "Kapitola má v rukopisu jen rubriku a miniaturu (soudní jednání v radní síni, muži s dlouhými špičatými botami); text navazuje v kap. 48."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

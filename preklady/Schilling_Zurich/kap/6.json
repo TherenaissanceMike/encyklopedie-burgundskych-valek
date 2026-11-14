@@ -22,7 +22,7 @@
   },
   {
    "text": "Also kament si darnach al tage für die stat und scharmutzten teglichs mit einandern; do warent aber gar endlich gesellen von Bern und Solotern mit hantbuchsen, von denen wurdent si hinder sich enthalten und luffen ouch dick harus under si und tatent inen grossen schaden, davon mengerlei zu schriben were, es wirt aber durch der kürze willen underwegen gelassen; doch wart inen ir rechter lone, als harnach stat.",
-   "preklad": "Potom přicházeli [nepřátelé] každý den před město a denně se s nimi strhávaly potyčky. Byli tam ale velmi zdatní tovaryši z Bernu a Solothurnu s ručnicemi, kteří je drželi zpátky, často mezi ně vybíhali a působili jim velkou škodu. O tom by se dalo mnoho psát, ale pro stručnost se to vynechává. Dostali však svou pravou odměnu [?], jak stojí dále."
+   "preklad": "Potom přicházeli [nepřátelé] každý den před město a denně se s nimi strhávaly potyčky. Byli tam ale velmi zdatní druhové z Bernu a Solothurnu s ručnicemi, kteří je drželi zpátky, často mezi ně vybíhali a působili jim velkou škodu. O tom by se dalo mnoho psát, ale pro stručnost se to vynechává. Dostali však svou pravou odměnu [?], jak stojí dále."
   }
  ],
  "poznamky": [
@@ -35,5 +35,6 @@
   "Oprava OCR: do 1. odstavce byly vlepeny řádky variant ze s. 11 („2. handlen wölt. Und was der hundert mannen von Bern houptman Niclaus Zerkinden … Hierauf der Titel: Das die vorgenanten zweihundert knecht mit iren“), které patří ke kap. 5; odstraněny. Dále „schick =n“ → „schickten“, „kilehturn“ → „kilchturn“, „nngeschediget“ → „ungeschediget“, „diek“ → „dick“, „von’den“ → „von den“, „Muülhusen“ → „Mülhusen“, „sı“ → „si“; z nadpisu odstraněno „|“."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

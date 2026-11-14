@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "62. Das etlich from kouflüte von Bern und anderen Eidgnossen von dem von Höwdorf uf dem Rine gevangen und ein teil vom leben zem tode schantlich gebracht wurden.",
-   "preklad": "62. Jak byli někteří poctiví kupci z Bernu a od jiných konfederátů zajati Höwdorferem na Rýně a část z nich byla hanebně připravena o život."
+   "preklad": "62. Jak byli někteří poctiví kupci z Bernu a od jiných Spříseženců zajati Höwdorferem na Rýně a část z nich byla hanebně připravena o život."
   },
   {
    "text": "Uf samstag nach mitvasten, als man von der geburt unsers lieben hern Jhesu Cristi zalt tusent vierhundert sibenzig und dru iare, fürent etlich from kouflüte von Bern, Lutzern, Switz und andern enden der Eidgnosschaft den Rine ab und woltent gen Frankfurt irem gewerbe des tüchs nachvaren, und wistent mit nieman nit dann gütes ze tünde haben. Do zwüschent, als dann davor zem teil ouch gemelt und angezogen ist, hat der von Hagenbach siner tücken einen erzöugt und den von Höwdorf zü rat und diener sins herren des herzogen von Burgunnen in sinen schirm und ufgenomen, von deswegen, als davor ouch stat, vorhin mengerlei kombers uferstanden was von des herzogen von Oesterichs und dero von Schafhusen wegen, deshalb er in nach uswisunge der bericht weder zü rat noch diener genomen haben solt.",
@@ -27,5 +27,6 @@
   "Oprava textu: nadpis byl rozdělen uprostřed slova („Eid- / gnossen“) a jeho konec přešel do textu; vrácen do nadpisu. Dále „kouflüute“ → „kouflüte“, „zwuüschent“ → „zwüschent“, „zü ’\"schif“ → „zü schif“, „libsnoch“ → „libs- noch“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

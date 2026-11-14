@@ -1,0 +1,36 @@
+{
+ "cislo": 64,
+ "nadpis": "Die antwurt so gemeiner eidgno[ssen] botten inen hin widerumb ouch gabent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 142,
+ "strany": [
+  142,
+  143,
+  144
+ ],
+ "odstavce": [
+  {
+   "text": "Vff semlich der Burgunschen botten anbringe das dann mit witern worten beschach / liessen die von Bernn / vnd gemeiner eidgno[ssen] Räte die selben Burgunschen botten / vorab die versigelt vereynunge zwüschen dem hertzogen von Burgunn vnd ouch den eidgno[ssen] / vnd ouch dabi hören die richtunge vor waltzhůt / darinne dann eigentlich berett was das der fürst von österrich den von heüdorf abtragen vnd dabi die von Schafhusen von den keiserlichen penen vnd echten lösen solt / Das nü alles nit were beschechen / wann das darüber vnd in hangender sach der hertzog von Burgunn den fürsten von österrich vnd die sinen wider die eidgno[ssen] in schirm genomen hette / vnd si damit verachtet / Vnd dem von heüdorf gestattet der eidgno[ssen] koufelüt vff dem Rine also nider ze werfen / vnd schantlich in sinen landen vnd gerichten zů ertöten / Vnd die wile die eidgno[ssen] mit solcher gewaltsami vnd on recht des iren entwert / vnd die iren gevangen vnd ertöt weren / so wolten si für inn als iren hasser vnd widerwertigen nit zů recht noch fruntlichen tagen komen / Doch die wile er sich des fürsten von österrich vnd siner zůgewanten / als der sinen / zů schirmen vnderstünde / wie vnbillichen er dz tete so were der eidgno[ssen] antwurt vnd begern / mit dem fürsten von österrich zů verschaffen / das vorab die von Schafhusen vnclagber gemacht / vnd ouch die eidgno[ssen] von ir sach vnd der gevangne[n] wegen entschediget wurden / ob er dann dannenthin witer werbung an die eidgno[ssen] tete / darzů wolt man erber zimlich antwurt geben / Vnd ob dann er oder ander die eidgno[ssen] darüber witer ersůchen / bekriegen oder bekümbern wolt / wer dann der fürst von österrich vnd die sinen in sinem schirm / So weren aber die löblichen eidgno[ssen] in des almechtigen gottes schirm / den selben vnd ouch sin wirdigen můter magt Marie ouch aldann die eidgno[ssen] zů hilf nemen / vnd mit den iren vnderstan wolten / sich ir aller macht vngewaltes trostlichen zů erweren / vnd ir vatterland ritterlich zů beschirmen",
+   "preklad": "Na takový přednes burgundských poslů, který se dál ještě obšírněji rozváděl, dali Bernští a radní všech Spříseženců týmž burgundským poslům nejprve vyslechnout zapečetěný spolek mezi vévodou Burgundským a Spříseženci a k tomu také narovnání ve Waldshutu. V něm bylo výslovně ujednáno, že kníže Rakouský má [ve věci] Heudorfa [Schaffhauské] odškodnit a zároveň Schaffhauské zprostit císařských trestů a klateb. To by se bylo všechno stalo, kdyby navzdory tomu a za nevyřízené věci vévoda Burgundský nevzal knížete Rakouského a jeho lidi do ochrany proti Spřísežencům a tím jimi nepohrdl. A [kdyby] nedovolil Heudorfovi takto přepadnout kupce Spříseženců na Rýně a hanebně je v jeho zemích a soudních obvodech zabíjet. A protože byli Spříseženci takovým násilím a bez práva zbaveni svého a jejich lidé zajati a zabiti, nechtěli před něho jako před svého nepřítele a protivníka jít k právu ani k přátelským sněmům. Protože se však odvažuje chránit knížete Rakouského a jeho spojence jako své vlastní, jakkoli nespravedlivě to činí, je odpovědí a žádostí Spříseženců, aby s knížetem Rakouským zařídil, že nejprve budou Schaffhauští uspokojeni a také Spříseženci odškodněni za svou věc a za zajatce. Bude-li pak dále Spřísežencům něco předkládat, chtějí mu dát poctivou a slušnou odpověď. A kdyby pak on nebo jiní chtěli Spřísežence navzdory tomu dále obtěžovat, válčit nebo trápit, ať je tedy kníže Rakouský a jeho lidé v jeho ochraně; chvalní Spříseženci však jsou v ochraně všemohoucího Boha. Toho a jeho důstojnou matku Pannu Marii vezmou Spříseženci tehdy na pomoc a se svými lidmi se pokusí s důvěrou ubránit se násilí kohokoli a rytířsky chránit svou vlast."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 143,
+   "text": "143 X (pozdější foliace, pravý horní roh); stránka bez obrázku; dole volné místo"
+  },
+  {
+   "strana": 144,
+   "text": "144 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Odpověď, kterou jim posli všech Spříseženců zase dali",
+ "poznamky_prekladu": [
+  "„abtragen“ – Schilling zde říká, že kníže má Heudorfa „odstranit, odškodnit“; smysl: zbavit Schaffhauské jeho nároků (srov. kap. 57).",
+  "„in hangender sach“ = za nevyřízené (projednávané) věci."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

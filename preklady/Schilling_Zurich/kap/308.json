@@ -6,15 +6,15 @@
  "odstavce": [
   {
    "text": "308. Das die andern Eidgnossen mit iren panern gen Lopsingen zugen und das gewunnen.",
-   "preklad": "308. Jak ostatní konfederáti táhli se svými korouhvemi na Lucens a dobyli ho."
+   "preklad": "308. Jak ostatní Spříseženci táhli se svými korouhvemi na Lucens a dobyli ho."
   },
   {
    "text": "Die andern Eidgnossen zugent aber mit iren panern gen Lopsingen, das dem bistüm von Losann zügehort, und gewunnen das von stund an, wie wol es gar ein stark stat und slos was, und fundent daruf gar vil gütes, das nament si alles bi grunde, und verbranten es darnach ganz und gar, das denen von Bern gar usdermassen leid und widrig was von ünser lieben frowen wegen zü Losann, der es zügehort. Si mochten es aber leider nit wenden, noch darwider sin, dann das es ganz verbrönt und zü himel gericht wart.",
-   "preklad": "Ostatní konfederáti však táhli se svými korouhvemi na Lucens, který patří lausannskému biskupství, a dobyli ho hned, ačkoli to bylo velmi silné město a hrad. Našli na něm velmi mnoho statků, to všechno pobrali do posledního a potom ho úplně vypálili. To bylo Bernským nesmírně líto a proti mysli kvůli Naší milé Paní v Lausanne, které patřil. Nemohli tomu však bohužel zabránit ani se tomu postavit, a tak byl docela vypálen a [dým] stoupal k nebi [?]."
+   "preklad": "Ostatní Spříseženci však táhli se svými korouhvemi na Lucens, který patří lausannskému biskupství, a dobyli ho hned, ačkoli to bylo velmi silné město a hrad. Našli na něm velmi mnoho statků, to všechno pobrali do posledního a potom ho úplně vypálili. To bylo Bernským nesmírně líto a proti mysli kvůli Naší milé Paní v Lausanne, které patřil. Nemohli tomu však bohužel zabránit ani se tomu postavit, a tak byl docela vypálen a [dým] stoupal k nebi [?]."
   },
   {
    "text": "Do nü die von Bern und ander ir Eidgnossen und zügewanten dennocht in dem leger zü Murten warent und e si dannen zugen und gen Milden oder an ander ende kament, dazwüschent hat sich der graf von Gryers mit den sinen von Sanen und andern ufgemacht und für gen Losann in die stat, do man im keinen widerstant tet; dann der schrecke und vorchte in si komen was, und fürten er und die sinen gar vil gütes mit inen dannen, dann si anvingen in der stat plündern und namen iederman was er hat.",
-   "preklad": "Když byli Bernští a jiní jejich konfederáti a spojenci ještě v ležení u Murtenu, ještě než odtamtud vytáhli a přišli do Moudonu nebo jinam, vypravil se mezitím hrabě z Gruyères se svými lidmi ze Saanenu a s jinými a táhl do města Lausanne, kde mu nikdo neodporoval, neboť na ně padl strach a hrůza. A on i jeho lidé odvezli odtamtud velmi mnoho statků, neboť začali ve městě plenit a brali každému, co měl."
+   "preklad": "Když byli Bernští a jiní jejich Spříseženci a spojenci ještě v ležení u Murtenu, ještě než odtamtud vytáhli a přišli do Moudonu nebo jinam, vypravil se mezitím hrabě z Gruyères se svými lidmi ze Saanenu a s jinými a táhl do města Lausanne, kde mu nikdo neodporoval, neboť na ně padl strach a hrůza. A on i jeho lidé odvezli odtamtud velmi mnoho statků, neboť začali ve městě plenit a brali každému, co měl."
   }
  ],
  "poznamky": [
@@ -22,8 +22,9 @@
   "„Naše milá Paní v Lausanne“ = lausannská katedrála Panny Marie (biskupství), které Lucens patřil.",
   "[?] „zü himel gericht“ doslova „obráceno k nebi“; chápu jako obrat pro úplné vypálení (dým k nebi). Bernský rukopis tuto větu („dann das… gericht wart“) vůbec nemá.",
   "Gryers = Gruyères (Greyerz), hrabě Ludvík z Gruyères; Sanen = Saanen (Gessenay). Bernský rukopis má tu vlastní nadpis „Das der graf von Gryers mit den sinen am ersten gen Losann kam und die stat plündert“ a konec ironicky: každý nevzal nic jiného, „než čeho se mu nemohlo dostat“.",
-  "Tobler: přepadení Lausanne muselo proběhnout 23.–25. 6. Schilling je s touto zprávou sám a zdá se, že chce část viny přesunout z konfederátů na lidi hraběte z Gruyères; ti se podle lausannských účtů plenění opravdu účastnili „permaxime“ (nejvíce)."
+  "Tobler: přepadení Lausanne muselo proběhnout 23.–25. 6. Schilling je s touto zprávou sám a zdá se, že chce část viny přesunout ze Spříseženců na lidi hraběte z Gruyères; ti se podle lausannských účtů plenění opravdu účastnili „permaxime“ (nejvíce)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,33 @@
+{
+ "cislo": 193,
+ "nadpis": "Das aber von dero von Bernn Sollotern vnd andern knechten noch me Slossen gewunnen vnd ingenomen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 414,
+ "strany": [
+  414,
+  415
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach gewunnen aber der von Bernn Sollotern vnd ander knecht me Slossen vnd starck hüser / vnd vil gůtes darinn / vnd erstachen der vienden etwie mengen / wo si die ankomen mochten / dann alle die wile man zů Grangis oder andern enden lag / da mochten si weder tag noch nacht kein rüw haben vmb roubens willen des etlicher engalt vnd nit wider heim kam",
+   "preklad": "Potom knechti Bernských, Solothurnských a jiní dobyli ještě další hrady a silná sídla a v nich mnoho jmění a probodli dost nepřátel, kdekoli je mohli dostihnout. Neboť po celou dobu, co se leželo u Granges nebo jinde, nemohli ve dne ani v noci mít klid, protože chtěli loupit. Za to někteří zaplatili a už se domů nevrátili."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 414,
+   "popis": "dokončená kolorovaná miniatura s rubrikou v rámečku – dobývání hradu: obránci na hradbě házejí kameny, útočníci s kříži sekerami prorážejí bránu, uprostřed padlý muž a bojující, vpravo zástup pikenýrů; v pozadí jezero, město a zřícenina"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 415,
+   "text": "415 X (pozdější foliace, pravý horní roh); nahoře rubrika, miniatura, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak dále knechti Bernských, Solothurnských a jiných dobyli a obsadili ještě další hrady",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -6,20 +6,21 @@
  "odstavce": [
   {
    "text": "13. Das die andern Eidgnossen ouch alle mit einandern zugen und vast brantent.",
-   "preklad": "13. Jak i ostatní konfederáti táhli všichni spolu a hodně pálili."
+   "preklad": "13. Jak i ostatní Spříseženci táhli všichni spolu a hodně pálili."
   },
   {
    "text": "Aber die andern und übrigen Eidgnossen alle zugent in zwein huffen, und namen den strich Rins halb für Otmersheim nider und durch die Hard über das Hirzveld, und was da zwüschen was von slossen und dörfern, das wart merenteils alles von denselben Eidgnossen erobert und verbrant. Und zugent also umb uber das Hirzveld und anderswo mit gewalt und macht, das inen von vienden ganz kein widerstand beschach, wie vast si vorhin alwegen getröwt und die Eidgnossen uf die wite zü inen gewunschet hetten; si warent aber inen nach minem bedunken zü frü komen, und beschach von gottes gnaden nieman der iren ganz kein leid.",
-   "preklad": "Ale ostatní a zbylí konfederáti táhli všichni ve dvou houfech a vydali se podél Rýna dolů kolem Ottmarsheimu a lesem Hardt přes Hirzveld, a co bylo mezitím hradů a vsí, to tíž konfederáti většinou všechno dobyli a vypálili. A tak táhli dokola přes Hirzveld i jinudy s mocí a silou, takže se jim od nepřátel nedostalo vůbec žádného odporu, ačkoli předtím vždy vyhrožovali a přáli si mít konfederáty u sebe v otevřeném poli. Ale ti jim podle mého mínění přišli příliš brzy, a z Boží milosti se nikomu z jejich lidí nestalo vůbec nic zlého."
+   "preklad": "Ale ostatní a zbylí Spříseženci táhli všichni ve dvou houfech a vydali se podél Rýna dolů kolem Ottmarsheimu a lesem Hardt přes Hirzveld, a co bylo mezitím hradů a vsí, to tíž Spříseženci většinou všechno dobyli a vypálili. A tak táhli dokola přes Hirzveld i jinudy s mocí a silou, takže se jim od nepřátel nedostalo vůbec žádného odporu, ačkoli předtím vždy vyhrožovali a přáli si mít Spřísežence u sebe v otevřeném poli. Ale ti jim podle mého mínění přišli příliš brzy, a z Boží milosti se nikomu z jejich lidí nestalo vůbec nic zlého."
   }
  ],
  "poznamky": [
   "Tobler: jeden houf tvořily Curych a Schwyz, druhý Luzern, Uri, Unterwalden, Zug a Glarus; k Ottmarsheimu na Rýně přišel jen druhý. „Schilling ist hier schlecht unterrichtet“ (Schilling je zde špatně zpraven; podrobněji Witte, s. 315–321).",
   "Tobler: Hard je velký les mezi Illem a Rýnem (dnes Forêt de la Hardt, mimo Tobler); Hirzveld leží u Sausheimu severně od Mulhouse. Jméno Hirzveld ponecháno.",
-  "„uf die wite“ = do otevřeného pole (glosář). „zü frü komen“ je Schillingova ironie: nepřátelé si konfederáty přáli, ale když přišli, nebyli na ně připraveni.",
+  "„uf die wite“ = do otevřeného pole (glosář). „zü frü komen“ je Schillingova ironie: nepřátelé si Spřísežence přáli, ale když přišli, nebyli na ně připraveni.",
   "Varianty: „und was si ankamen alles verbranten“ (a co potkali, všechno vypálili); „slossen und stetten und dörfern“; „erobret, verbrant und gewüst“; „zü inen an die wite“.",
   "Oprava OCR: „huffen ,“ → „huffen,“ (odkaz na poznámku)."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

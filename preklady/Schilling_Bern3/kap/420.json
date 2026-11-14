@@ -1,0 +1,49 @@
+{
+ "cislo": 420,
+ "nadpis": "Das leider etlich von eidgno[ssen] ze wangen an der brugk ertrunken vnd vmb kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 936,
+ "strany": [
+  936,
+  937,
+  938
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man von Chalun wider harus kam / do hatten sich etlich von eidgno[ssen] zů Sollottern versampnet / vnd waren der merenteil von Baden / ouch von zug Glarus vnd anndern eidgno[ssen] / vnd füren die aren ab mit den Schifluten von Sollottern die verfůrten si an der brugk ze wangen / vnd zerbrachen die Schif / vnd ertrunken ir leider me dann zwey hundert / die nachmaln merenteils wider funden vnd vergraben wurden / der almechtig gott verlich inen die ewig rüw",
+   "preklad": "A když se z Chalonu vraceli zpět, shromáždili se někteří Spříseženci v Solothurnu – většinou z Badenu, také ze Zugu, Glarusu a od jiných Spříseženců – a pluli dolů po Aaře s lodníky ze Solothurnu. Ti je u mostu ve Wangenu zavedli špatně, lodě se roztříštily a utonulo jich bohužel přes dvě stě; ti byli potom většinou znovu nalezeni a pohřbeni. Všemohoucí Bůh jim dej věčný pokoj."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 937,
+   "popis": "neštěstí u mostu ve Wangenu: přeplněné lodě narážejí na kamenný most s oblouky a převracejí se, muži s rozpřaženýma rukama se topí v řece, z vody trčí hlavy a ruce; vpravo na břehu muž vynáší tonoucího; v pozadí městečko s hradbami a věží, vlevo pahorek s keři"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 937,
+   "text": "937 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s936), dole odstavec; iniciála V nevyvedena (jen předkreslený tah), pod ním ozdobná kadela"
+  },
+  {
+   "strana": 938,
+   "text": "938 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); rubrika s iniciálou H a seznam položek s iniciálami I (Item), pod ním ozdobná kadela"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 936,
+   "text": "Wangen an der Aare – utonutí na mostě při návratu (podzim 1480)"
+  },
+  {
+   "strana": 937,
+   "text": "přes 200 utonulých při plavbě po Aaře ze Solothurnu, když lodníci narazili na most ve Wangenu (1480)"
+  }
+ ],
+ "nadpis_preklad": "Jak bohužel někteří Spříseženci utonuli u mostu ve Wangenu a zahynuli",
+ "poznamky_prekladu": [
+  "Wangen an der Aare; podzim 1480 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

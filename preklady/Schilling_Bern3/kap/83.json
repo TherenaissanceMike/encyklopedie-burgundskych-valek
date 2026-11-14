@@ -1,0 +1,32 @@
+{
+ "cislo": 83,
+ "nadpis": "Das denen von Basel vnd andern Stetten gros warnungen kamend",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 177,
+ "strany": [
+  177,
+  178
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach vnlangest vmb Sant Thomans tag des vorgenanten Jares / kament den von Basel vnd andern des Richs Stetten im Elses / tegklichs gros mercklich warnungen / wie das der hertzog von Burgunn / sich mit einer grosse[n] macht vnd züge samnete / harus in das Suntgow vnd Elses zů ziechen / vnd ein leger zů slachen Vnd was das die gemein rede / das er für Basel wolt / vnd die belegen / Darumb an dem nechsten mentag vor Sant Thomans tag des vorgenanten Jares / schickten die von Basel ir treffenlichen Räte für gemeiner eidgno[ssen] botten gen Lutzern / vnd erzalten da vor denen die ding / vnd was inen vnd allen eidgno[ssen] / wo si anders belegert werden solten / an der sach gelegen wer / Si hetten wol ein gůt Statt / inen wer aber in vergangnen töden so vil biderber lüten abgangen das si ye ir Statt nit wol besetzen noch on der eidgno[ssen] hilf vnd entschüttung behalten möchten Darumb si begerten / das man inen von allen eidgno[ssen] ein Sum Soldnern zů seite / denen wolten si / wo das anders nit sin möchte / ir lifrung geben Vnd das man inen dabi zůseit / ob si belegert wurden / das man si aldann entschütten / So wolten si als biderb lüte / mit der hilf gottes ir Statt bis an der eidgno[ssen] entschüttung vnderstan zů behalten vnd des zů gůtem den eidgno[ssen] niemer ewiklichen vergessen / dann wo die eidgno[ssen] das nit teten / vnd si verliessen / Si wistent si sich nit zů enthalten / vnd was ioch inen darnach ging / so wolten si das den eidgno[ssen] geseit / vnd sich damit entladen haben / als si dann das mit vil erberer vnd mergklicher vrsache[n] so inen daran gelegen was / gar ernstlich / vnd mit grossen begirden anbrachten",
+   "preklad": "Brzy nato, kolem svatého Tomáše výše jmenovaného roku, přicházela Basilejským a jiným říšským městům v Alsasku denně velká a závažná varování, že vévoda Burgundský shromažďuje velkou moc a vojsko, aby přitáhl sem do Sundgau a Alsaska a rozbil tu ležení. A obecně se povídalo, že chce táhnout před Basilej a oblehnout ji. Proto v nejbližší pondělí před svatým Tomášem výše jmenovaného roku poslali Basilejští své význačné radní k poslům všech Spříseženců do Luzernu a vylíčili jim ty věci a jak mnoho na té věci záleží jim i všem Spřísežencům, kdyby měli být obleženi. Mají prý sice dobré město, ale v minulých morech jim zemřelo tolik řádných lidí, že své město nemohou dobře obsadit ani bez pomoci a vyproštění od Spříseženců udržet. Proto žádali, aby jim všichni Spříseženci přislíbili určitý počet žoldnéřů; těm chtějí, nebude-li to jinak možné, dávat zaopatření (lifrung). A aby jim přitom přislíbili, že je v případě obležení přijdou vyprostit. Pak chtějí jako řádní lidé s pomocí Boží své město až do vyproštění od Spříseženců hájit a toto dobrodiní Spřísežencům nikdy na věky nezapomenout. Kdyby to však Spříseženci neučinili a opustili je, nevědí, jak by se udrželi; a cokoli by se jim pak stalo, chtějí to mít Spřísežencům oznámeno a tím se zbavit odpovědnosti. To vše přednesli velmi vážně a naléhavě a s mnoha ctihodnými a závažnými důvody, neboť jim na tom mnoho záleželo."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 178,
+   "text": "178 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Basilejským a jiným městům přicházela velká varování",
+ "poznamky_prekladu": [
+  "Sv. Tomáš apoštol = 21. 12.; pondělí před ním: pro rok 1473 = 20. 12. 1473; „výše jmenovaný rok“ je u Schillinga 1474 [?] (kap. 82), tj. 19. 12. 1474. Podle jiných pramenů jde o prosinec 1473, před vévodovým příchodem do Alsaska v lednu 1474 (nesoulad, mimo přepis).",
+  "„in vergangnen töden“ = v minulých úmrtích (morových ranách); přeloženo „v minulých morech“.",
+  "„entschüttung“ = vyproštění obleženého města (odsazení)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,41 @@
+{
+ "cislo": 146,
+ "nadpis": "Das die von Bernn drü hundert werlicher mannen gen Mümpelgart schickten / die inen ir Statt in trüwen behůten solten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 305,
+ "strany": [
+  305,
+  306,
+  307
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man dann hievor vernomen vnd verstanden hatt / wie das von gemeinen eynungs herren vnd ouch gemeinen eidgno[ssen] angesechen was worden / am ersten uff einem tag zů Basel / vnd darnach ouch zů Lutzern abgerett vnd beslossen wart / das beid Stett Bernn vnd Sollotern die Statt Mümpelgarten / in namen gemeiner eidgnossen in die vereynung nemen solten / als ouch nachmalen von inen beschach / vnd als bald man von dem tage von Basel kam / das was alles vor dem e man gen Ericort zoch / da wurden die von Bernn betrachten / das inen vnd andern eidgno[ssen] die Statt Mümpelgarten nit von handen keme / vnd zugent der iren drü hundert gar werlicher mannen us mit einem venli / vnd gaben den für einen houptman zů / heinrich Matter / vnd bevalchen denen in die Statt Mümpelgart zů ziechen / vnd die in trüwen zů verhüten / so wolt man si entschütten vnd nit verlassen / vnd als si gen Nidow kamen / da kam der houptman von Mümpelgart was einer vom Stein / gen Bernn / vnd meint es tet noch nit als not / si wolten sich noch wol enthalten bis das die vereynung mit inen verzogen vnd vffgericht wurde / vnd danckt denen von Bernn gar mit hochem ernst / also zugent si wider har heim",
+   "preklad": "Jak už bylo dříve slyšet a vyrozumět, páni Dolního spolku a také všichni Spříseženci se nejprve na sněmu v Basileji usnesli a potom i v Luzernu dohodli a rozhodli, že obě města, Bern a Solothurn, mají jménem všech Spříseženců přijmout město Montbéliard do Dolního spolku, jak se potom od nich také stalo. Hned jak se vrátili ze sněmu v Basileji – a to bylo všechno předtím, než se táhlo k Héricourtu –, Bernští uvážili, aby jim a ostatním Spřísežencům město Montbéliard nevypadlo z rukou. Vyslali tedy tři sta velmi branných mužů ze svých lidí s praporcem a dali jim za hejtmana Heinricha Mattera. Přikázali jim, aby táhli do města Montbéliardu a věrně je střežili; [Bernští] je pak chtěli vysvobodit a neopustit je. Když však došli do Nidau, přišel do Bernu hejtman z Montbéliardu, jeden z rodu vom Stein, a mínil, že to ještě není tolik zapotřebí; že se ještě dobře udrží, dokud nebude spolek s nimi projednán a uzavřen. Velmi vážně Bernským poděkoval, a tak se [ti tři sta] zase vrátili domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 306,
+   "popis": "dokončená kolorovaná miniatura – bernská posádka táhne do Montbéliardu: vlevo nahoře hrad/město s věžemi na skále, hory a jezero; pochodující pěšáci s dlouhými píkami a bílými kříži na prsou, jezdec se štítem s kozorožcem/jelenem (erb velitele?), černá korouhev s bílým křížem; v popředí stromy a řeka"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 306,
+   "text": "306 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 307,
+   "text": "307 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští poslali tři sta branných mužů do Montbéliardu, aby jim věrně střežili jejich město",
+ "poznamky_prekladu": [
+  "„gemeine eynungs herren“ = páni Dolního spolku (vereynung, glosář); přijetí Montbéliardu do spolku souvisí s výpravou k Héricourtu v listopadu 1474.",
+  "Nidow = Nidau u Bielu (určení mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

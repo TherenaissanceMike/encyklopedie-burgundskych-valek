@@ -1,0 +1,47 @@
+{
+ "cislo": 10,
+ "nadpis": "Das die viend vor Mülhusen mit gantzer macht in den reben lagen vnd inen drey absag brief von Bernn Sollotern vnd Friburg durch der selben Stetten botten offenlichen geantwurt wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 28,
+ "strany": [
+  28,
+  29,
+  30
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů dis Scharmutzen vnd sachen am fritag am bach vergangen warent / da zugent die viend aber am Samstag frü mit gantzer macht vnd gewalt für Mülhusen / vnd versluogent[?] sich vff den berg vnd dar hinder in die reben / Vnd verwüsten aber die iungen reben / die wider gewachse[n] waren vnd verbranten die alle vnd schunden die fruchtbaren böme vnd was si vorhin hatten gelassen / das ward da alles verderbet / das doch den vngloubige[n] zů vil were gewesen / Ich geswigen das ein cristen mensch dem anderen das tůn sol / Doch weis der almechtig gotte nach siner götlichen gerechtikeit einen yeglichen nach sinem verdienen zů belonen / Also lüffen dennocht etlich knecht von Mülhusen harus vn[d] Scharmutzten mit inen den gantzen tag / Darnach am mentag frü kament si aber mit macht für die Statt vnd verwüsten aber die reben böme vnd was si funden vnd hatten ir karren zů gerüst die vingen an das korn ab meygen vnd böme vnd reben ab howen vnd schinten da beslos man zů Mülhusen alle tore vnd wolt man nieman zů inen lassen Dennoch lüffen etlich mit hantbüchsen vnd ander zů inen hinuss vn[d] Scharmutzten mit inen bis das ein grosser regen kam der si zů beiden siten ab treip das was wol vmb mittag / In dem da kamen drey louffen botten von Bernn Sollotern vnd Friburg die brachten von den drin Stetten drey offen absag brief in dem langen stecken vnd antwurten die herr Tavringen[?] von Halwil dem lantvogt der besampnet von stund an die obristen die er bi im hatt / vnd liess sin trumeter angends vff blasen vnd zoch yederman mit sneller yle von dannen",
+   "preklad": "Když tedy ta šarvátka a ty věci u potoka v pátek pominuly, táhli nepřátelé v sobotu časně ráno znovu celou mocí a silou před Mulhouse, rozložili se [?] na kopci a za ním ve vinicích a znovu zpustošili mladou révu, která znovu vyrostla, všechnu ji spálili, oloupali plodné stromy, a co předtím nechali, to tam všechno zničili – což by bylo příliš i u nevěřících, nemluvě o tom, aby to činil křesťan křesťanu. Avšak všemohoucí Bůh podle své Boží spravedlnosti umí každému odplatit podle jeho zásluh. Přesto vyběhli někteří knechti z Mulhouse ven a celý den s nimi sváděli šarvátky. Potom v pondělí časně ráno přišli znovu s mocí před město, znovu pustošili révu, stromy a cokoli našli; měli připravené své káry a začali sekat obilí, kácet stromy a révu a loupat kůru. Tu v Mulhouse zavřeli všechny brány a nechtěli nikoho k nim pustit. Přesto k nim vyběhli někteří s ručnicemi a jiní a sváděli s nimi šarvátky, dokud nepřišel velký déšť, který obě strany zahnal; to bylo asi kolem poledne. Vtom přišli tři běžci, poslové z Bernu, Solothurnu a Fribourgu, kteří přinesli od těch tří měst tři otevřené listy o vypovězení války v dlouhé holi a odevzdali je panu Thüringovi [?] von Hallwyl, zemskému fojtovi. Ten ihned svolal nejvyšší velitele, které měl u sebe, dal hned troubit svým trubačům a každý odtud ve velkém spěchu odtáhl."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 29,
+   "popis": "horní dvě třetiny strany – rakouské vojsko ve vinicích před Mülhausenem, poslové předávají odpovědní listy"
+  },
+  {
+   "strana": 30,
+   "popis": "místo vynechané pro obrázek (rámeček s podkresbou, dolní část textového pole)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 28,
+   "text": "dolní část strany prázdná (obrázek ke kapitole je na s. 29)"
+  },
+  {
+   "strana": 30,
+   "text": "30 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak nepřátelé celou mocí leželi před Mulhouse ve vinicích a jak jim byly listy o vypovězení války od Bernu, Solothurnu a Fribourgu veřejně doručeny posly těch měst",
+ "poznamky_prekladu": [
+  "Vypovězení války Bernem, Solothurnem a Fribourgem – červen 1468 (pondělí před tažením z kap. 11, tj. asi 20. 6. 1468; odvozeno mimo přepis).",
+  "„Tavringen[?] von Halwil“ – nejisté čtení křestního jména; jde o Thüringa von Hallwyl, rakouského zemského fojta (určení mimo přepis).",
+  "„in dem langen stecken“ – listy byly doručeny zastrčené v rozštěpené holi, jak bylo zvykem u heroldů a poslů s opovědním listem.",
+  "Obrázek ke kapitole je na s. 29; dolní část s. 28 je prázdná."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

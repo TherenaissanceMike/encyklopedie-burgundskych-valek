@@ -1,0 +1,47 @@
+{
+ "cislo": 343,
+ "nadpis": "Das man herberg in des hertzogen leger nam / vnd yederman gnůg vant",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 769,
+ "strany": [
+  769,
+  770,
+  771
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also blibent die von Bernn vnd alle ander eidgno[ssen] vnd zůgewanten mit iren panern vnd allem irem volck in des hertzogen leger / darinn gar gros gůt / an gold / silber / cleidern vnd allen anndern dingen gewunnen wart / dann si das alles hinder inen müsten lan von rechter angst vnd not / Es ist aber nieman nit darus gangen / dann merenteils den snöden sergeiten vnd anndern verzagten schelmen vnd büben die harnach geloufen sind / vnd das alles verslagen vnd verstolen hand / vnd ist den biderben wenig worden / dann die selben alle dann vorn am rechten ernst sind gewesen / Man vand ouch in dem selben leger an win / brott vnd allen anndern essigen dingen ein gros notdurft / vnd was gantz kein prest do / als aber von etlichen büben / so us dem Burgunschen here komen vnd abtrünnig warent / offenlichen geredt wart / von dem grossen mangel vnd presten / so an win vnd brott da solt sin gewesen / das doch nit also was / als das menig from man wol gesechen hatt / darumb man in semliche[n] offnen kriegen nit yederman glouben sol / vnd sunder sich solichen büben / so von iren herren also heimlich abtrünnig werdent / dann si biderb lüte wol möchten verratten / Vnd ich wil glouben wer es vnns übel gangen vnd vmbgeslagen / Sy werent widder an die anndern siten geloufen / vnd hetten vnns verkouft vnd verratten / das sol an mich nieman zwiuen[?] / dann ich semlichen lüten gantz nit getrüwen",
+   "preklad": "A tak zůstali Bernští a všichni ostatní Spříseženci a spojenci se svými korouhvemi a se vším svým lidem ve vévodově ležení. V něm bylo ukořistěno velmi mnoho statků, zlata, stříbra, šatů a všech jiných věcí, neboť to všechno [nepřátelé] museli z pravého strachu a nouze nechat za sebou. Nikdo si to však neodnesl kromě převážně ničemných sergeiten [?] a jiných zbabělých šelem a darebáků, kteří přiběhli až dodatečně a to všechno rozebrali a rozkradli; a řádným lidem se dostalo málo, neboť ti všichni byli vpředu v pravém boji. V tom ležení se také našla velká zásoba vína, chleba a všech jiných potravin a nebylo tam vůbec žádného nedostatku – jak se však někteří darebáci, kteří přišli z burgundského vojska a byli přeběhlíky, veřejně vyjadřovali o velkém nedostatku a nouzi o víno a chléb, který tam prý byl. To však nebyla pravda, jak to viděl mnohý statečný muž. Proto se v takových otevřených válkách nemá věřit každému, a zvláště ne takovým darebákům, kteří od svých pánů takto tajně přebíhají, neboť by mohli řádné lidi zradit. A já věřím, že kdyby se nám bylo vedlo zle a obrátilo se to, byli by zase přeběhli na druhou stranu a prodali a zradili by nás. O tom nemá nikdo pochybovat [?], neboť já takovým lidem vůbec nedůvěřuji."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 769,
+   "popis": "vojsko vstupuje do opuštěného burgundského ležení u Moratu: vlevo hradby a brána města s palisádou, uprostřed velké stany (jeden s ondřejským křížem), konfederační korouhve (Basilej s berlou, Bern, Unterwalden, Uri, korouhev se sv. Mikulášem/svatým, Luzern); vpravo obrněný hejtman s péry na klobouku ukazuje rukou, za ním pikenýři, bubeník a pištec; v pozadí jezero a hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 770,
+   "text": "770 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavec s nevyplněnou iniciálou V, výplňový tah perem"
+  },
+  {
+   "strana": 771,
+   "text": "771 X (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s nevyplněnou iniciálou M"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 770,
+   "text": "kořist z ležení rozkradli hlavně „sergeiten“ a čeledíni ze zadních řad; varování před přeběhlíky; autor mluví v 1. osobě; „zwiuen“ = pochybovat, nejisté čtení"
+  }
+ ],
+ "nadpis_preklad": "Jak se zabral nocleh ve vévodově ležení a každý našel dost",
+ "poznamky_prekladu": [
+  "„sergeiten“ – termín chybí v glosáři, ponechán v originále s [?]; zřejmě čeleď / vozatajové táhnoucí za vojskem (mimo přepis).",
+  "„zwiuen[?]“ – nejisté čtení (zwîfeln = pochybovat).",
+  "Schilling mluví v 1. osobě."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

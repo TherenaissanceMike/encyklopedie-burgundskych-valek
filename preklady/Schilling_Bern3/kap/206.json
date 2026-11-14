@@ -1,0 +1,37 @@
+{
+ "cislo": 206,
+ "nadpis": "Das die von Bernn vnd Sollotern mit iren panern / darzů die von Friburg mit einem vennli ouch gen Blomont kament als es gewunnen vnd ingenomen wz",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 436,
+ "strany": [
+  436,
+  437
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die von Bernn mit ir paner us gezogen waren als davor statt / des glich die von Sollotern mit ir paner ouch vnd mit vil gewapneter vnd Streitbarer manne[n] die beiden Stette / alwegen in lieb vnd leid miteinandern gezogen sind / vnd einandern / als getrüw hertz frunde vnd brüder nie verlassen haben / vnd ob got wil zů ewigen ziten / niemer mer tůn werden / Darzů kamen die von Friburg ouch harnach mit einem vennli erlicher lüten alles zů sterckung der iren vor Blomont / Vnd als si dennocht vnder wegen / vnd noch nit dar komen waren / da kamen inen mer / das Blomont Statt vnd Slos erobert vnd gewunnen wer / vnd schreip man inen ouch allen handel in welicher maß man si ufgenomen vnd abziechen lassen hette",
+   "preklad": "Bernští tedy vytáhli se svou korouhví, jak stojí výše, a stejně tak Solothurnští se svou korouhví a s mnoha ozbrojenými a bojeschopnými muži. Ta dvě města vždy táhla spolu v dobrém i ve zlém a jako věrní srdeční přátelé a bratři se nikdy neopustila, a dá-li Bůh, nikdy na věčné časy tak neučiní. K tomu za nimi přišli také Fribourgští s praporcem čestných lidí, vše na posílení svých lidí před Blamontem. A když byli ještě na cestě a ještě tam nedorazili, přišla jim zpráva, že město i hrad Blamont jsou dobyty. Napsali jim také celý průběh, za jakých podmínek byli obránci přijati a propuštěni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 436,
+   "popis": "dokončená kolorovaná miniatura – příchod bernské korouhve k dobytému Blamontu: vlevo jezdci v plné zbroji s bílými kříži, uprostřed les, vpravo pikenýři s korouhvemi (Bern s medvědem, Solothurn, Fribourg); v pozadí město s kostelem a hrad na skále, řeka s loďkou"
+  },
+  {
+   "strana": 437,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 437,
+   "text": "437 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (stany); uprostřed rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští se svými korouhvemi a k tomu Fribourgští s praporcem přišli také k Blamontu, když už byl dobyt a obsazen",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

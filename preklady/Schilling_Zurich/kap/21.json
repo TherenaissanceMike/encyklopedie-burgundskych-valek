@@ -10,7 +10,7 @@
   },
   {
    "text": "Woluf mit richem schalle, / und sind al frisch und geil! / Bern, Solotern vil balde, / got geb uns glück und heil / ir fromen Eidgnossen, / die sach sond ir verstan, / als ich vernomen han, / einandern sond ir nit lassen, / als uwern vordern hand getan.",
-   "preklad": "Vzhůru s mocným hlaholem, / buďte všichni svěží a veselí! / Berne, Solothurne, honem, / Bůh nám dej štěstí a zdar, / vy stateční konfederáti, / té věci máte rozumět, / jak jsem ji slyšel: / jeden druhého neopouštějte, / jak to činili vaši předkové."
+   "preklad": "Vzhůru s mocným hlaholem, / buďte všichni svěží a veselí! / Berne, Solothurne, honem, / Bůh nám dej štěstí a zdar, / vy stateční Spříseženci, / té věci máte rozumět, / jak jsem ji slyšel: / jeden druhého neopouštějte, / jak to činili vaši předkové."
   },
   {
    "text": "Zurich, Bern, Lutzern, Solotar, / Ure, Switz, Underwalden, / Zug, Glarus nemend war, / woluf mit richem schalle! / die herschaft hat gebrochen, / das man gesetzet hat, / das merken frü und spat; / ich trüw es werd gerochen, / so gar mit wisem rat.",
@@ -18,7 +18,7 @@
   },
   {
    "text": "Ir herschaft sicherlichen, / ir hand unrecht getan, / das irs als bosclichen / wider die Eidgnossen hand gehan. / die strassen tün ir berouben, / und nemen mengem das sin, / bringt vil herzenpin! / das blüt tün ir verreren, / wann es güt frid sol sin.",
-   "preklad": "Vy, panstvo, věru / jste se dopustili křivdy, / že jste si tak zle / vedli proti konfederátům. / Silnice olupujete / a mnohým berete, co je jejich, / to působí mnoho srdečné bolesti! / Krev proléváte, / ač má být dobrý mír."
+   "preklad": "Vy, panstvo, věru / jste se dopustili křivdy, / že jste si tak zle / vedli proti Spřísežencům. / Silnice olupujete / a mnohým berete, co je jejich, / to působí mnoho srdečné bolesti! / Krev proléváte, / ač má být dobrý mír."
   },
   {
    "text": "Ich getrüw es werd gerochen / der grosse übermüt; / der frid der ist zerbrochen, / zwar es tüt niemer güt. / der ber ist ufgewecket, / gar tief us siner hül, / man sach in uf dem brül, / er ist noch unerschrecket, / als ich die warheit lül.",
@@ -55,9 +55,10 @@
   "Místa: Brattelheim = Pratteln (Tobler; bernská varianta má „Brattellen, Blotzen“). Zboží Bernharda von Eptingen v Prattelnu bylo podle stížnosti z 10. 12. 1468 tehdy vyloupeno a vypáleno. Flachsland = Flaxlanden (jižně od Mulhouse). Gütwil je podle Toblera asi záměna za hrad Gutenberg (u Ober-Aspachu), o jehož dobytí píše Bern 12. 7.; Boltzwil snad Balschwiller u Hagenbachu (Tobler „vielleicht“, proto [?]). Habkessen = Habsheim a Richtessen = Rixheim (Tobler u dřívějších kapitol), Hesingen = Hésingue, Zulissen = Zillisheim, Frenyngen = Froeningen.",
   "[?] „Habkessen das ging an“: „angân“ = začít hořet / být napaden; přeloženo „vzplál“.",
   "Slova podle Toblerova glosáře: geil = veselý, hül = sluj, brül = bažinaté místo, louka, lül = zpíval (préteritum od „lulen“), verreren = prolévat, überhören = dobýt, berendet = obklíčen (berennen), widergelt = odplata, tör = odváží se (turren).",
-  "Bernské varianty sloky 9–10: místo „Bern, Friburg, Solotar / hand achtzechen slos berant“ má „gemein Eidgnossen fürware“ (osmnáct hradů tedy oblehli všichni konfederáti); dále „ist ganz lobesan“, „ander“, „offenbare“ a „Marie jungfrow reine“ (Maria, čistá panno).",
+  "Bernské varianty sloky 9–10: místo „Bern, Friburg, Solotar / hand achtzechen slos berant“ má „gemein Eidgnossen fürware“ (osmnáct hradů tedy oblehli všichni Spříseženci); dále „ist ganz lobesan“, „ander“, „offenbare“ a „Marie jungfrow reine“ (Maria, čistá panno).",
   "Opravy textu: sloky rozděleny do samostatných odstavců (bez Toblerových čísel), verše odděleny „ / “; ve sloce 7 vypuštěn vlepený řádek varianty „8. Brattellen, Blotzen.“ a sloka spojena přes zlom strany; nadpis „semacht“ → „gemacht“; „Amen“ připojeno k 10. sloce."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

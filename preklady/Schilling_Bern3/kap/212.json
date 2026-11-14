@@ -1,0 +1,54 @@
+{
+ "cislo": 212,
+ "nadpis": "Das die von Bernn vnd ander ir verwanten das schön Sloß Valant ouch gewunnen vnd verbranten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 447,
+ "strany": [
+  447,
+  448,
+  449
+ ],
+ "odstavce": [
+  {
+   "text": "Es lag ouch vnder dem selben Sloß Gramont noch gar ein schön Sloß genant Valant / das wolt sich am ersten ouch nit gernn ergeben / vnd vermeinten ein widerstand ze tůnde / Vnd als si gesachen vnd vernamen / das Gramont das starck Slos gewunnen / vnd es inen als übel ergangen was / da ergaben si sich ouch / vnd begerten gnade vnd barmhertzikeit / die man inen ouch mitteilt doch müsten si alle nackent in iren hembdern vnd mit stecken an iren henden von dannen gan / vnd getorst nieman nit mit im nemen / vn[d] lobten dennocht got / das man si bi dem leben liess bliben / Es was ouch in dem selben Sloß gros merglich gůt / das man yederman nemen liess Vnd also wurden die zwey Sloß mit grosser mannheit vnd arbeiten necher dann in vier stunden ritterlichen gewunnen / vnd kam nieman vmb / dann etlich wurden am Sturm übel geworffen / die genasent aber von gottes gnaden darnach wider / vnd wurdent die selben beiden Sloß mit dem füre zů grund gericht",
+   "preklad": "Pod týmž hradem Grammontem ležel ještě velmi krásný hrad jménem Valant. Ten se zprvu také nechtěl vzdát a mínil klást odpor. Když však viděli a dozvěděli se, že pevný hrad Grammont byl dobyt a jak zle to s ním dopadlo, vzdali se také a žádali o milost a slitování. To se jim také dostalo, museli však všichni odejít nazí, jen v košilích a s holemi v rukou, a nikdo si nesměl nic vzít s sebou. Přesto chválili Boha, že je nechali naživu. I na tom hradě byl velký a značný majetek, který se nechal brát každému. A tak byly ty dva hrady s velkou mužností a námahou za necelé čtyři hodiny rytířsky dobyty a nikdo nepřišel o život; jen několik bylo při útoku ošklivě zasaženo házením, ti se však z Boží milosti potom zase uzdravili. A oba tyto hrady byly ohněm srovnány se zemí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 448,
+   "popis": "dokončená kolorovaná miniatura – kapitulace hradu Valant: z brány vycházejí neozbrojení muži v bílých košilích s holemi a prosí o milost, vlevo voják s bílým křížem k nim napřahuje ruku, vpravo pikenýři a halapartníci s kříži, bubeník, sedící žena; nahoře korouhve (Bern s medvědem, Solothurn), v pozadí jezero s lodí"
+  },
+  {
+   "strana": 449,
+   "popis": "místo pro obrázek – šedě podložený rám s nedokončenou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 448,
+   "text": "448 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou E"
+  },
+  {
+   "strana": 449,
+   "text": "449 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; rubrika uprostřed doplněna POZDĚJŠÍ rukou (kurzíva) do místa pro obrázek; dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 447,
+   "text": "„verschter lon“ – čtení nejisté (snad „verdienter lon“)"
+  },
+  {
+   "strana": 448,
+   "text": "Valant – hrad pod Grammontem, identifikace nejistá"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a jejich další spojenci dobyli také krásný hrad Valant a vypálili jej",
+ "poznamky_prekladu": [
+  "Valant – hrad pod Grammontem, identifikace nejistá [?].",
+  "Odchod „nazí v košilích s holemi v rukou“ = obvyklá ponižující forma kapitulace bez práva odnést majetek."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

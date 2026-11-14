@@ -10,7 +10,7 @@
   },
   {
    "text": "In disem herzug wurdent die roten crütze, die man dann iewelten wider die Eidgnossen gefürt hat, abgetan und die wissen crütze für ein gemein herzeichen angenomen. Und hieltent sich des fürsten von Oesteriche und ander lüte in allen sachen als früntlich und erberlich mit den Eidgnossen und si hinwiderumb mit inen ouch, das erst an dem ende ieglicher teil dem andern wol getrüwen und gar ein güt fruntschaft wart.",
-   "preklad": "Na tomto tažení byly odloženy červené kříže, které se proti konfederátům odjakživa nosily, a jako společné polní znamení byly přijaty bílé kříže. Lidé knížete rakouského i jiní se ke konfederátům ve všech věcech chovali tak přátelsky a čestně a oni zase k nim, že nakonec každá strana té druhé dobře důvěřovala a vzniklo velmi dobré přátelství."
+   "preklad": "Na tomto tažení byly odloženy červené kříže, které se proti Spřísežencům odjakživa nosily, a jako společné polní znamení byly přijaty bílé kříže. Lidé knížete rakouského i jiní se ke Spřísežencům ve všech věcech chovali tak přátelsky a čestně a oni zase k nim, že nakonec každá strana té druhé dobře důvěřovala a vzniklo velmi dobré přátelství."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "„iewelten“ = odjakživa, vždy (Toblerův glosář). „herzeichen“ = polní (vojskové) znamení. Tobler odkazuje na Basler Chroniken III, 423."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

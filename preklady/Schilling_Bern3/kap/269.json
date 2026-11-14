@@ -1,0 +1,51 @@
+{
+ "cislo": 269,
+ "nadpis": "Das Brandolf vom Stein der ein houptman vff Granson was / In dem selben zite ouch gevangen / vnd hinweg gefürt wardt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 590,
+ "strany": [
+  590,
+  591,
+  592
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů diser mortlicher anslag in der nacht über die fromen lüte zů Iferdun angetragen / Zů glicher wise was ouch ein semlich valsch verreterie / über die so in dem Sloß zů Granson waren / angetragen / vnd erdacht / dann in der Statt Granson ouch etlich verreter waren komen / vnd lagen in den Ställen heimlich Vnd als der houptman von Bernn / namlich Brandolf vom Stein / vnd die andern knechte / So bi im in dem Sloß waren / das groß geschrey / schiessen vnd getemmer zů Iferdun horten / da marckten si glich wol / das etwas daran was / vnd das ir frund vnd gesellen zů Iferdun liten / vnd bereitent sich von stund an zů der werj / Also was der vorgenant houptman vom Stein gar balde bereit vnd lies im das tor uf tůn / vnd ging snellenclich in die Statt selb drit / vnd wolt die ouch uf wecke[n] vnd warnen / vnd tet das in erlicher vnd gůter meynung / Vnd als er kam zů dem Closter der barfüssen / da waren die verreter da / vnd namen den vorgenanten houptman / vnd fůrten im gevangen für das Sloß / mit grossem gespötte vnd mütwillen / vnd tröwten denen im Sloß / si wolten inen iren houptman / vnd die andern knechte an gesicht ir ougen hencken / oder aber si müsten inen dz Sloß über geben / vnd hatten ouch dem houptman einen strick an den hals geworfen / damit si zů erschrecken vnd über geben wurden geneigt / dz wolten si nit tůn / da fürten si den houptman mit inen hinweg / der lag langezit in Burgunn gevangen bis er nachmalen mit andern gevangnen / an dem Streit zů Granson wider erlöset wart / als harnach statt",
+   "preklad": "Když byl tento vražedný úklad v noci osnován proti statečným mužům v Yverdonu, byla stejným způsobem osnována a vymyšlena podobná falešná zrada i proti těm, kdo byli na hradě v Grandsonu. Do města Grandsonu totiž také přišli někteří zrádci a skrývali se tajně ve stájích. Když bernský hejtman, totiž Brandolf vom Stein, a ostatní knechti, kteří byli s ním na hradě, slyšeli velký křik, střelbu a hluk v Yverdonu, hned poznali, že se něco děje a že jejich přátelé a druhové v Yverdonu trpí, a ihned se připravili ke zbrani. Zmíněný hejtman vom Stein byl velmi rychle připraven, dal si otevřít bránu a sám třetí spěšně vyšel do města, chtěje i je probudit a varovat; učinil to v čestném a dobrém úmyslu. Když došel ke klášteru bosáků, byli tam zrádci. Zmíněného hejtmana zajali a vedli ho jako zajatce před hrad s velkým posměchem a zpupností. Vyhrožovali těm na hradě, že jim jejich hejtmana i ostatní knechty před jejich očima oběsí, ledaže by jim hrad vydali. Hejtmanovi také hodili provaz na krk, aby je tím vystrašili a přiměli k vydání. To však oni udělat nechtěli. Tu odvedli hejtmana s sebou pryč. Ležel dlouho zajatý v Burgundsku, dokud nebyl později s jinými zajatci v bitvě u Grandsonu opět vysvobozen, jak níže stojí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 591,
+   "popis": "kolorovaná kresba – zajetí Brandolfa vom Stein v Grandsonu: zrádci s píkami a ručnicemi pod savojským praporem s bílým křížem vedou zajatého hejtmana s provazem na krku k hradu, ukazují na obránce, kteří z hradní věže míří ručnicemi; vpravo kostel (klášter františkánů) se štítem s křížem a branou s palisádou; dole příkop"
+  },
+  {
+   "strana": 592,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 591,
+   "text": "591 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 592,
+   "text": "592 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 590,
+   "text": "Brandolf vom Stein, bernský hejtman v Grandsonu"
+  }
+ ],
+ "nadpis_preklad": "Jak byl Brandolf vom Stein, hejtman v Grandsonu, v téže době také zajat a odvlečen",
+ "poznamky_prekladu": [
+  "Brandolf vom Stein, bernský hejtman v Grandsonu; „selb drit“ = sám třetí (se dvěma průvodci).",
+  "Klášter bosáků (barfüssen) = františkánský klášter v Grandsonu.",
+  "Pozn.: text předpokládá, že hluk z Yverdonu byl v Grandsonu slyšet (vzdálenost asi 4 km, mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

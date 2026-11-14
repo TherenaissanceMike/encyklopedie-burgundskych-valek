@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "30. Das etlich von Bern und andern Eidgnossen enent dem Rine überfallen wurdent.",
-   "preklad": "30. Jak byli někteří Bernští a jiní konfederáti přepadeni za Rýnem."
+   "preklad": "30. Jak byli někteří Bernští a jiní Spříseženci přepadeni za Rýnem."
   },
   {
    "text": "Do man nü also vor der stat lag und e man das leger enent dem Rine hat geslagen, da hattent die von Bern und ander mit inen ein hüt uber Rine geordnet, das si dieselben nacht wachen soltent, namlichen zweihundert man. Also in derselben nacht hatten die viend einen anslag getan und meintent Walzhüt zu spisen mit mel, büchsenbulver und andern dingen und ouch me lüten darin zü tün, als ouch beschach. Und griffen also ungewarneter dingen dieselben zweihundert knecht an, wol mit tusent mannen zü füs und zweihunderten zü ros und meintent damit über Rine in die stat zü komen.",
@@ -18,7 +18,7 @@
   },
   {
    "text": "Man sagt ouch nachmalen, das der vienden in der stat zü Basel me dann sechzig wund worden werent und an den arzeten legent; derselben sturben ouch etlich. Es was ouch derselben nacht vast vinster, und als die viend die flücht als schantlich nament und iren harnesch selber absnitten und werinen hinder inen liessen, da mag man wol meinen, si haben einandern selber erstochen und verwunt; dann sich dieselben zweihundert knechte von Bern und andern Eidgnossen vast züsamen hieltent und in ir ordenunge blibent, daran si gar wol tatent.",
-   "preklad": "Později se také říkalo, že ve městě Basileji leží u lékařů přes šedesát raněných nepřátel a že někteří z nich také zemřeli. Té noci byla veliká tma, a když se nepřátelé dali tak hanebně na útěk, sami si odřezávali zbroj a nechávali za sebou zbraně, lze se dobře domnívat, že se navzájem sami pobodali a poranili. Neboť těch dvě stě knechtů z Bernu a od jiných konfederátů se drželo pevně pohromadě a zůstalo ve svém šiku, čímž si počínali velmi dobře."
+   "preklad": "Později se také říkalo, že ve městě Basileji leží u lékařů přes šedesát raněných nepřátel a že někteří z nich také zemřeli. Té noci byla veliká tma, a když se nepřátelé dali tak hanebně na útěk, sami si odřezávali zbroj a nechávali za sebou zbraně, lze se dobře domnívat, že se navzájem sami pobodali a poranili. Neboť těch dvě stě knechtů z Bernu a od jiných Spříseženců se drželo pevně pohromadě a zůstalo ve svém šiku, čímž si počínali velmi dobře."
   },
   {
    "text": "Doch kament derselben nacht in die stat me dann zweihundert werlicher mannen, darzü gar vil bulvers, mel und anders, das man nachmalen wol und eigentlichen vernam.",
@@ -26,12 +26,13 @@
   }
  ],
  "poznamky": [
-  "Souvislost: obléhání Waldshutu v létě 1468 (válka konfederátů s rakouským panstvím, tzv. waldshutská válka).",
+  "Souvislost: obléhání Waldshutu v létě 1468 (válka Spříseženců s rakouským panstvím, tzv. waldshutská válka).",
   "Tobler: takové pokusy o zásobení města byly zřejmě dva, druhý v noci z 8. na 9. 8. 1468. K „enent dem Rine“ (za Rýnem) Tobler poznamenává „na levé straně Rýna“.",
   "Tobler: nepřátelství biskupa štrasburského zakusili Bernští už při sundgauském tažení; Andres von Bossenstein však u tohoto přepadení zmiňuje jen pomoc lidí z Breisachu, z Breisgau a markraběte bádenského.",
   "Bernské varianty: „da was von Bern und andern ein hüt dargeordnet“; trubači „die ennenthalb warent, bliesen“ (kteří na druhé straně troubili); místo zpráv o Basileji: „Es wurden ouch der vienden me dann sechzig wund gen Basel an die arzat gefürt, der sturben etwie menger“ (přes 60 raněných bylo dopraveno k lékařům do Basileje, mnoho jich zemřelo); „flücht so unerlich namen“; chybí „von Strasburg“.",
   "„swinspiess“ = kančí oštěp, podle Toblerova glosáře kopí pěchoty. Oprava textu: „'einandern“ → „einandern“."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

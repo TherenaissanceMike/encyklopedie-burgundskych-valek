@@ -1,0 +1,35 @@
+{
+ "cislo": 4,
+ "nadpis": "Das die von Bernn vnd von Sollotern / den von Mülhusen / zwey hundert werlicher mannen schickten / Ir Statt ze verhůten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 17,
+ "strany": [
+  17,
+  18
+ ],
+ "odstavce": [
+  {
+   "text": "Do sich nů vil sachen verlouffen hatten / vnd menig tag geleist / vnd weg gesuchet warent wie man zů friden möcht komen / Von dero von Mülhusen Schafhusen vnd aller ander sache[n] wegen / das stund also an / bis wider ostern vss hin Da man zalt Tusent vierhundert Sechtzig vnd acht Jar Da zwüschen wurden die von Mülhusen nit dest minder von der herrschaft gar mergklichen geschediget / Vnd ward inen vmb ir Statt alles das abgehouwen vnd verwüst das si hatten / Da wurden die von Bernn vnd Sollotern betrachten das si eren halb nit kunden mochten über werden dann das si müsten zů den sachen tůn / Vnd also von bitt vnd manung wegen der von Mülhusen / schicket man inen von beiden Stetten Zwey hundert werlicher mannen das si inen ir Statt solten helfen beschirmen bis man fürer zů ratt werden möcht / wie man die sachen handlen wolt / Vnd was der hundert mannen von Bernn houptman / Niclaus Zer kinden ein pfister / der sich gar wol vnd erlich hielt",
+   "preklad": "Když se tedy stalo mnoho věcí, konalo se mnoho sněmů a hledaly se cesty, jak by se mohlo dojít k míru ve věci Mulhouseských, Schaffhausenských a všech dalších, zůstalo to tak až do doby po Velikonocích, kdy se psalo tisíc čtyři sta šedesát osm let. Mezitím byli Mulhouseští panstvem nicméně velmi citelně poškozováni a kolem jejich města jim bylo všechno, co tam měli, posekáno a zpustošeno. Tu Bernští a Solothurnští uvážili, že se tomu kvůli své cti nemohou vyhnout a že musí v té věci jednat. A tak na prosbu a vyzvání Mulhouseských jim obě města poslala dvě stě branných mužů, aby jim pomohli chránit město, dokud se neporadí dále, jak chtějí věc vést. Hejtmanem sta mužů z Bernu byl Niklaus Zurkinden, pekař, který si počínal velmi dobře a čestně."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 17,
+   "popis": "dvě třetiny strany – ozbrojený oddíl s bernskou a solothurnskou korouhví táhne k Mülhausenu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 18,
+   "text": "18 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští poslali Mulhouseským dvě stě branných mužů, aby jim střežili město",
+ "poznamky_prekladu": [
+  "Velikonoce 1468 připadly na 17. dubna."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

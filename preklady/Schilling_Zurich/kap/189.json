@@ -14,7 +14,7 @@
   },
   {
    "text": "Also gingen harus bi vierhundert mannen von Burgunnen, Lamparten, Saföyer und ander on frowen und kind, der gar vil was; die wurden alle hinweg beleitet und tet noch nam man nieman nit. Darnach gingen ouch harus bi vierzig armer, elender, gevangner mannen, der warent etlich von Eidgnossen us dem Sunkow und von andern herren und stetten der vereinung; die hatten die viend darinne gevangen gehebt und in semlicher mass als streng und hart gehalten, das si gar ungestalt worden waren; dieselben gehüben sich wol und sungen von rechten fröuden uberlut, das menglich wol hort.",
-   "preklad": "Tak vyšlo ven na čtyři sta mužů z Burgundska, Lombardie, Savojska a odjinud, nepočítaje ženy a děti, kterých bylo velmi mnoho. Všechny je odvedli pod ochranou pryč a nikomu nic neudělali ani nevzali. Potom vyšlo ven také na čtyřicet ubohých, bídných zajatých mužů; někteří z nich byli od konfederátů, ze Sundgau a od jiných pánů a měst spolku. Ty nepřátelé drželi uvnitř v zajetí a zacházeli s nimi tak tvrdě a krutě, že byli celí znetvoření. Ti se velmi radovali a zpívali z upřímné radosti nahlas, že to každý dobře slyšel."
+   "preklad": "Tak vyšlo ven na čtyři sta mužů z Burgundska, Lombardie, Savojska a odjinud, nepočítaje ženy a děti, kterých bylo velmi mnoho. Všechny je odvedli pod ochranou pryč a nikomu nic neudělali ani nevzali. Potom vyšlo ven také na čtyřicet ubohých, bídných zajatých mužů; někteří z nich byli od Spříseženců, ze Sundgau a od jiných pánů a měst Dolního spolku. Ty nepřátelé drželi uvnitř v zajetí a zacházeli s nimi tak tvrdě a krutě, že byli celí znetvoření. Ti se velmi radovali a zpívali z upřímné radosti nahlas, že to každý dobře slyšel."
   }
  ],
  "poznamky": [
@@ -24,5 +24,6 @@
   "Tobler má k textu poznámku (v OCR poškozenou, odkaz v textu ztracen), že tyto oddíly byly krátce nato přesto pobity; podrobnosti nejsou z OCR čitelné. Sunkow = Sundgau."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

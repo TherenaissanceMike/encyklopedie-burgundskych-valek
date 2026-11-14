@@ -14,7 +14,7 @@
   },
   {
    "text": "Und wart gar grosser merglicher unwillen von inen gesechen, so verr, das ein gemein geschrei allenthalben in Eidgnossen, ouch zu Basel und an andern enden in stat und uf dem lande gebrucht und offenlichen gerett wart: es weren gros uneinhellikeiten und parthien zwüschent dem adel und der gemeinde, das von gottes gnaden dennocht nit was; und wurdent vil wunderlicher und selzner worten gebrucht von einem und dem andern, die ich umb der kürze und sunderlich umb fridens und rüwe willen unterwegen und bliben lass.",
-   "preklad": "U nich bylo vidět velmi velkou a značnou nevoli, a to tak, že se všude mezi konfederáty, také v Basileji a na jiných místech, ve městech i na venkově, šířila obecná pověst a veřejně se říkalo, že jsou mezi šlechtou a obcí velké neshody a strany; to však z boží milosti přece nebyla pravda. Z jedné i druhé strany padalo mnoho podivných a zvláštních slov, která pro stručnost a hlavně kvůli míru a klidu vynechávám a nechávám být."
+   "preklad": "U nich bylo vidět velmi velkou a značnou nevoli, a to tak, že se všude mezi Spříseženci, také v Basileji a na jiných místech, ve městech i na venkově, šířila obecná pověst a veřejně se říkalo, že jsou mezi šlechtou a obcí velké neshody a strany; to však z boží milosti přece nebyla pravda. Z jedné i druhé strany padalo mnoho podivných a zvláštních slov, která pro stručnost a hlavně kvůli míru a klidu vynechávám a nechávám být."
   }
  ],
  "poznamky": [
@@ -23,5 +23,6 @@
   "Bernské varianty: „Do nü“, „obstat“, „recht und ouch dem adel zügeeignet were“, „könden sich mit keinen andern dingen uszeichen noch bekantlich [machen]“, „Und wart ein grosser merglicher unwill“, „weren uneinikeiten und gros parthien“, „gemeinde von Bern“, chybí „dennocht“."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

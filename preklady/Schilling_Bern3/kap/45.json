@@ -1,0 +1,36 @@
+{
+ "cislo": 45,
+ "nadpis": "Das darnach gemeiner eidgno[ssen] vnd ander botten ouch gar treffenlichen gen Bernn kamend",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 83,
+ "strany": [
+  83,
+  84,
+  85
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů die vorgenanten herrenn vnd botten / von Bernn füren / vnd inen gar leid was / das si nit geschaffet hatten / da wart der vnwille / vom adel von mannen vnd frowen mit irem anhang / noch grösser / vnd ye mer in risen[?] / Vnd meinten ye man hette si in semlichem nit also zů zwingen / Sunder solt man inen vor anderem gemeinem volck einen vorteil lassen / dann si dannocht semlich Satzungen noch ordnunge[n] nit gesworen hetten / noch willen darzů geben / Vnd was alweg ir meynung / von der langen Swentzen wegen an den kleidern / damit möchtent sich ir wiber vnd töchtern bas dann mit anderen dingen vs zeichnen / Vnd wurden gar mengerley seltzner worten zů Bernn in der Statt vnd allenthalben im lande gebrucht vnd gerett / es werent irrung vnd zweyung vnder inen / das wart ouch in den eidgno[ssen] vnd anderswo vnverholen gerett / vmb das kamen ouch gemeiner eidgno[ssen] botten von Stetten vnd lendern / vnd darzů ander erber botten gen Bernn Vnd begerten ouch an Rätt vnd zweyhundert / inen gönnen in dis ding zů reden / vnd etwas mittel zů sůchen damit man zů friden vnd rüwen keme / mit gar fruntliche[n] worten vnd vil erbietens / Also wart inen ouch vast gedancket / vnd lüter zů erkennen geben / warumbe man dis ding angesechen hette / vnd wurden inen ouch die gemachten ordnungen vnd Satzungen / als ouch den vorbestimpten herrenn vor gelesen / vnd ouch dabi gesagt / das man von eren wegen nit wol davon lan noch die endern möcht / vnd schieden damit ouch von Bernn / Vnd waren nit wol Content",
+   "preklad": "Když pak výše jmenovaní páni a poslové odjeli z Bernu a bylo jim velmi líto, že nic nepořídili, nevole šlechty, mužů i žen, s jejich přívrženci ještě vzrostla a stále víc narůstala [?]. Tvrdili, že je v takové věci nelze takto nutit, nýbrž že jim má být ponecháno zvýhodnění před ostatním obyčejným lidem, protože ta nařízení a řády přece nepřísahali ani k nim nedali svůj souhlas. A vždy šlo hlavně o dlouhé vlečky na šatech, jimiž se prý jejich manželky a dcery mohou vyznačit lépe než jinými věcmi. V Bernu ve městě i všude na venkově se užívalo a mluvilo mnoho podivných slov, že jsou mezi nimi nesváry a rozkol; to se také nepokrytě říkalo mezi Spříseženci i jinde. Proto přišli do Bernu také poslové všech Spříseženců z měst a zemí a k tomu jiní ctihodní poslové. Také oni žádali Malou radu a Radu dvou set, aby jim dovolili do té věci promluvit a hledat nějaký prostředek, jak dojít k míru a klidu; mluvili velmi přátelskými slovy a s mnoha nabídkami. Také jim bylo velmi poděkováno a jasně dáno na vědomí, proč se ta věc ustanovila. Byly jim také přečteny vydané řády a nařízení jako předtím zmíněným pánům a zároveň řečeno, že od nich kvůli cti nelze dobře ustoupit ani je změnit. A tak i oni odjeli z Bernu a nebyli příliš spokojeni."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 84,
+   "text": "84 X (pozdější foliace, levý horní roh); stránka bez obrázku; dole jen kadela, bez nadpisu"
+  },
+  {
+   "strana": 85,
+   "text": "85 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak potom přišli do Bernu ve velmi významném zastoupení také poslové všech Spříseženců a jiní",
+ "poznamky_prekladu": [
+  "„in risen[?]“ – nejisté čtení; smysl zřejmě „narůstat“ (risen = stoupat).",
+  "„Content“ – Schilling užívá francouzské/latinské slovo „content“ = spokojený."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

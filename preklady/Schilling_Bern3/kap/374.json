@@ -1,0 +1,50 @@
+{
+ "cislo": 374,
+ "nadpis": "Das man morndes den hertzogen von Burgunn vnd ander die sinen tott funden hatt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 850,
+ "strany": [
+  850,
+  851,
+  852
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man am morgen die walstatt beritten vnd besechen / vnd man die toten abgezogen / do hatt man überslagen das me dan[n] Sechs tusent mann der vienden vmbkomen vnd von gottes gnaden erslagen sind / Darunder ist durch die grundlose barmhertzikeit gottes des almechtigen der gros blůt vergiesser der hertzog von Burgunn selber bliben / vnd ander die mitgewaltigen mit im / des man got dem almechtigen vnd allem himelschen here billichen lob / ere vnd danck sagen / vnd in gantzer danckberer wise niemer mer vergessen sol dann er das durch sin götliche barmhertzikeit selber getan / vnd den grossen mechtigen wüterich nider geslagen vnd vallen lassen in die grüben die er andern gemacht hatt",
+   "preklad": "A když ráno projeli a prohlédli bojiště a mrtvé svlékli, odhadli, že přes šest tisíc mužů nepřátel zahynulo a z Boží milosti bylo pobito. Mezi nimi zůstal skrze bezednou milosrdnost všemohoucího Boha i ten velký prolévač krve, sám vévoda Burgundský, a s ním jiní jeho spoluvládci. Za to se má všemohoucímu Bohu a všemu nebeskému zástupu právem vzdávat chvála, čest a dík a s plnou vděčností na to nikdy nezapomenout, neboť to on učinil sám ze svého božího milosrdenství a srazil toho velkého mocného ukrutníka a nechal ho padnout do jámy, kterou kopal jiným."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 851,
+   "popis": "nalezení mrtvého Karla Smělého: před branou Nancy (věže s jehlanovými střechami) skupiny vojáků s lotrinskými dvojitými kříži prohledávají bojiště a ukazují na mrtvé; vlevo dole leží vévoda v plné zbroji s bohatým kabátcem; hromada padlých rytířů s ondřejskými kříži na kabátcích; dole mrtvý kůň s čabrakem a sedlem, meč, přilby; v zamrzlém rybníku/řece trčí nohy utonulého a plovou přilby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 851,
+   "text": "851 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V"
+  },
+  {
+   "strana": 852,
+   "text": "852 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, výplňový tah perem, dole rubrika s iniciálou D (k obrazu na s853)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 851,
+   "text": "přes 6000 padlých nepřátel"
+  },
+  {
+   "strana": 852,
+   "text": "smrt Karla Smělého u Nancy (5. 1. 1477), tělo nalezeno druhý den"
+  }
+ ],
+ "nadpis_preklad": "Jak byl nazítří nalezen mrtvý vévoda Burgundský a jiní z jeho lidí",
+ "poznamky_prekladu": [
+  "Přes 6000 padlých nepřátel podle textu.",
+  "Tělo Karla Smělého bylo nalezeno 7. 1. 1477 u rybníka Saint-Jean (mimo přepis); Schilling píše „morndes“ (nazítří)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

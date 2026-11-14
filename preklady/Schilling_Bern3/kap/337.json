@@ -1,0 +1,41 @@
+{
+ "cislo": 337,
+ "nadpis": "Das die von Zürich mit ir paner vnd gantzer macht ouch harnach kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 755,
+ "strany": [
+  755,
+  756
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nü die fromen hantvesten lüt von Zürich ouch mit ir paner vnd macht ußgezogen vnd uff den beinen warent / Da wurden die sachen dester lenger verzogen / vnd wolt man vmb eren vnd trüwen willen ir warten / als si ouch des begerten / vnd ouch gar bald trostlich vnd mannlich harnach kament / Da zwüschen warent all houptlüt / venner vnd Räte von Stetten / vnd lenndern / darzů ander puntgno[ssen] vnd verwanten tag vnd nacht byeinanderen zů bedencken vnd ratslagen / wie si die sachen nach eren angriffen vnd handlen möchten / dann si alweg in fürsorgen warent / der hertzog vnd die rechtschuldigen wurden inen entrynnen / als vorhin vor Granson ouch beschechen was / vnd wurden des miteinanderen einhellenclichen zů rat / das si in dem namen gottes vnd mit siner götlichen hilf / den rechten herrn am ersten angriffen vnd den hinnassen[?] hinder ziechen wolten / das er inen nit wol möcht entrynnen / dan[n] si meinten / ob si joch den Grauen von Römond / der sin leger hie disenthalb Murten ouch merchlichen geslagen hatt / am ersten angriffen vnd ersligen / So wurden der hertzog vnd die andern rechtschuldige[n] zů flucht bewegt / vnd müsten die armen vnd vnschuldigen liden / das ouch nach wisheit vnd vernunft gar mannlich vnd erlich angesechen was",
+   "preklad": "A když teď také udatní, pevní lidé z Curychu se svou korouhví a mocí vytáhli a byli na pochodu, věc se o to déle odkládala a chtělo se na ně počkat kvůli cti a věrnosti, jak si to i přáli; a také velmi brzy, povzbudivě a mužně přitáhli. Mezitím byli všichni hejtmani, praporečníci a radní měst a zemí, k tomu ostatní spolkoví druhové a spojenci, dnem i nocí pohromadě, aby uvážili a radili se, jak by věc mohli se ctí započít a provést. Neboť se stále obávali, že vévoda a skuteční viníci jim uniknou, jako se to stalo již předtím u Grandsonu. I usnesli se společně a jednomyslně, že ve jménu Božím a s jeho božskou pomocí napadnou nejprve samotného pána a obejdou ho [?] zezadu, aby jim nemohl snadno uniknout. Mínili totiž, že kdyby nejprve napadli a pobili hraběte z Romontu, který měl své ležení silně rozbité na této straně Murtenu, dal by se vévoda i ostatní skuteční viníci na útěk a museli by trpět chudí a nevinní. To bylo podle moudrosti a rozumu velmi mužně a čestně uváženo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 755,
+   "popis": "příchod Curyšských: zástup pěších s bílými kříži, bubeník a pištec, nesou ručnice a píky pod curyšskou korouhví (šikmo dělená); vpravo ležení se stany a korouhvemi spojenců (bernský medvěd, sv. Leodegar/Luzern, Schwyz, Uri s volskou hlavou, Zug, Glarus aj.)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 756,
+   "text": "756 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá velký obraz z rubu, s757); konec odstavce, rubrika s iniciálou V, výplňový tah perem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 756,
+   "text": "válečná rada: udeřit nejprve na samotného vévodu (ne na Romonta), aby neunikl jako u Grandsonu; „hinnassen“ nejisté čtení"
+  }
+ ],
+ "nadpis_preklad": "Jak Curyšští se svou korouhví a celou mocí také přitáhli",
+ "poznamky_prekladu": [
+  "„hinnassen[?] hinder ziechen“ – nejisté čtení, přeloženo podle smyslu „obejdou ho [?] zezadu“.",
+  "„puntgnossen“ přeloženo „spolkoví druhové“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

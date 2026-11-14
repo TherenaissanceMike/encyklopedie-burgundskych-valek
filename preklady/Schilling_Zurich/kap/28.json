@@ -14,10 +14,11 @@
   }
  ],
  "poznamky": [
-  "Tobler: tažení na Bonndorf (sv. od Waldshutu) bylo 21. 8. 1468. Curyšští hejtmani 22. 8. psali, že tam táhli konfederáti z Luzernu, Schwyzu, Glarusu a Appenzellu, 14 jich pobili, 26 zajali, ves z velké části vypálili, vzali přes 400 kusů dobytka a 20 vozů a káry naložené domácím vybavením; později se k nim přidali i Curyšští a Zugští. Podle Tschachtlana bylo zajato 34 Bonndorfských i s jejich praporcem.",
+  "Tobler: tažení na Bonndorf (sv. od Waldshutu) bylo 21. 8. 1468. Curyšští hejtmani 22. 8. psali, že tam táhli Spříseženci z Luzernu, Schwyzu, Glarusu a Appenzellu, 14 jich pobili, 26 zajali, ves z velké části vypálili, vzali přes 400 kusů dobytka a 20 vozů a káry naložené domácím vybavením; později se k nim přidali i Curyšští a Zugští. Podle Tschachtlana bylo zajato 34 Bonndorfských i s jejich praporcem.",
   "Bernské varianty: nadpis „etlich von Bern und ander us dem leger“, „etliche von Bern und ander an den Swarzwalt“, „me dann vierzig“ (víc než čtyřicet zajatých).",
   "Oprava OCR: „an einem Stu morgen“ → „an einem morgen“ („Stu“ je zbytek okraje strany)."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

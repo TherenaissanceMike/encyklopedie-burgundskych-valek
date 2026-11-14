@@ -1,0 +1,41 @@
+{
+ "cislo": 19,
+ "nadpis": "Das gemein eidgno[ssen] von Stetten vnd lenndern mit allen iren panern vff dem ochsen velde ze samen kamen / vnd einanderen gar fruntlich vn[d] in gantzen brüderlichen trüwen enpfingen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 45,
+ "strany": [
+  45,
+  46,
+  47
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen gottes brachen die von Bernn vnd gemein eidgno[ssen] von Stetten vnd lendern alle vff mit iren panern / Vnd kamen zů samen vff dem ochsen velde / Da enpfingen si einanderen gar fruntlich vnd in gantzen brüderlichen trüwen als ein brüder den anderen / Wie dann die frommen eidgno[ssen] ye welten gegen einanderen ze tůnde gewonet hand / vnd sagten ouch einanderen in brüderlichen trüwen was si getan vnd gehandlet hatten Vnd zugen in dem grossen mechtigen hüffen vff dem witen velde zů samen / gar in lieplicher ordnung / vnd waren von gantzem hertzen begern / mit der herschaft vnd allen iren vienden einen Streit ze tůnde / Vnd des mannlichen zů erwarten / Dann die edelen im lande vnd allenthalben vormalen gar dicke gerett vnd tröw wort gebrucht hatten / Möchten si die Switzer an die wite / vnd sunderlich vff den rechten spor das ochsen velt bringen / So wolten si gernn mit inen Streiten vnd inen iren gewalt vnd hochmůt erzöugen Es bleib aber vnder wegen / dann si alle vom lande warent gewichen / vnd hatten sich verborgen / vnd getorsten ir nasen nit me har für bieten / Vnd also dankten die von Bernn vnd Sollotern den eidgno[ssen] gar fruntlich vnd mit gantzen hertz trüwen / Das mengem biderman sin ougen über giengen / von rechten fröuden / vnd schieden damit in allen trüwen von einanderen vnd teilten sich aber in drey scharen / vnd zugen wider gen Basel zů / vnd ward alles dz gewůst vnd verbrant was enent Basel was das hattent si mit irem grossen übermůt vnd hochvart / vmb den almechtigen gotte wol verdient / vnd was inen ouch ir rechter lon worden",
+   "preklad": "A tak ve jménu Božím se Bernští a všichni Spříseženci z měst a zemí zvedli se svými korouhvemi a sešli se na Ochsenfeldu. Tam se přijali navzájem velmi přátelsky a v naprosté bratrské věrnosti jako bratr bratra, jak to stateční Spříseženci odjakživa mezi sebou mívali ve zvyku, a vyprávěli si v bratrské věrnosti, co udělali a vykonali. A táhli ve velkém mocném houfu na širém poli spolu ve velmi pěkném šiku a z celého srdce si přáli svést s panstvem a všemi jeho nepřáteli bitvu a mužně ji očekávat. Šlechtici v zemi i všude jinde totiž předtím velmi často mluvili a vyhrožovali, že kdyby mohli dostat Švýcary do širého pole, a zvláště na pravou stopu, na Ochsenfeld, rádi by s nimi bojovali a ukázali jim svou moc a pýchu. Zůstalo to však neuskutečněno, neboť všichni ze země utekli, ukryli se a neodvážili se už vystrčit nos. A tak Bernští a Solothurnští velmi přátelsky a s celou srdečnou věrností poděkovali Spřísežencům, takže mnohému poctivému muži přešly oči pravou radostí, a tak se v plné věrnosti rozloučili. Znovu se rozdělili do tří zástupů, táhli zase k Basileji a všechno, co bylo za Basilejí, bylo zpustošeno a vypáleno. To si svou velkou zpupností a pýchou před všemohoucím Bohem dobře zasloužili a dostalo se jim i jejich pravé odplaty."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 45,
+   "popis": "celá zbývající strana – setkání korouhví Spříseženstva na Ochsenfeldu (korouhve Uri s býkem, Luzern, Bern…), pištec a bubeník, jezdci; bez dalšího textu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 46,
+   "text": "46 X (pozdější foliace, levý horní roh); text je psán přes slabě prosvítající rámeček / podkresbu"
+  },
+  {
+   "strana": 47,
+   "text": "47 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se všichni Spříseženci z měst a zemí se všemi svými korouhvemi sešli na Ochsenfeldu a přijali se navzájem velmi přátelsky a v naprosté bratrské věrnosti",
+ "poznamky_prekladu": [
+  "„als ein brüder den anderen“ – formule bratrství Spříseženců; „mengem biderman sin ougen über giengen“ = mnohému poctivci vstoupily slzy do očí.",
+  "„vff den rechten spor das ochsen velt“ – Ochsenfeld jako proslulé bojiště (místní tradice o bitvě na Ochsenfeldu), proto „pravá stopa“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

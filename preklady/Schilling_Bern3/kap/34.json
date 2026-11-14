@@ -1,0 +1,42 @@
+{
+ "cislo": 34,
+ "nadpis": "Das etlich Behem von dem richen hertzogen von peyeren / wider die eidgno[ssen] harus kamen / vnd vermeinten die in Waltzhůt ze entschütte[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 69,
+ "strany": [
+  69,
+  70,
+  71
+ ],
+ "odstavce": [
+  {
+   "text": "Es wurden ouch in dem als man vor Waltzhůt lag / vom richen hertzogen wol Sechtzechen hundert Behem / zů hilff der herschaft harus geschickt / Vnd als die kamen / wart dennocht durch si nit kriegshaftigs wider die eidgno[ssen] gehandlet / wann das si den fründen me schadens taten dann den eidgno[ssen] / Doch so lies dennocht der rich hertzog dis durch sin botschaft gegen den eidgno[ssen] also verantwurten / Er were mit hertzog Sigmunden von österich in einer verstentnüss nach der innhalt hett er im lüt müssen schicken / Vnd ob ioch die so er im geschickt hette vnder wegen bliben / vnd nit wider heim kemend da lege im nit vil an / wann er hette im die eren vnd siner verschribung halb die si vor disen kriegen allen miteinanderen gemacht hetten / müssen schicken / Was er aber sust zů friden vnd gůtem in disen sachen getůn vnd betedingen möcht / das wolt er mit gůten trüwen tůn / als er vnd sin vordern ye welten getan hetten / In dem vorgenanten fünftzechen Jerigen friden vnd andn sachen",
+   "preklad": "Mezitím, co se leželo před Waldshutem, bylo bohatým vévodou posláno na pomoc panství dobrých šestnáct set Čechů. A když přišli, nevykonali přesto proti Spřísežencům nic válečného, leda že přátelům [panství] napáchali více škody než Spřísežencům. Bohatý vévoda to však přesto dal svým poselstvím u Spříseženců vysvětlit takto: je s vévodou Zikmundem Rakouským ve smlouvě, podle jejíhož obsahu mu musel poslat lidi. A i kdyby ti, které mu poslal, zůstali na cestě a nevrátili se domů, na tom mu příliš nezáleží, neboť mu je musel poslat kvůli cti a kvůli svému závazku, který spolu uzavřeli před všemi těmito válkami. Co by však jinak mohl k míru a dobru v těchto věcech učinit a vyjednat, to chce učinit v dobré víře, jak to on a jeho předkové vždy činili. V zmíněném patnáctiletém míru a jiných věcech."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 70,
+   "popis": "horní dvě třetiny strany – české vojsko (Behem) bavorského vévody v boji"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 70,
+   "text": "70 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 71,
+   "text": "71 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří Čechové od bohatého vévody Bavorského přišli proti Spřísežencům a hodlali vysvobodit ty ve Waldshutu",
+ "poznamky_prekladu": [
+  "„richen hertzogen von peyeren“ = Ludvík IX. Bohatý, vévoda bavorsko-landshutský (mimo přepis).",
+  "Poslední věta („In dem vorgenanten fünftzechen Jerigen friden vnd andn sachen“) je v rukopisu neúplná, přeložena tak, jak stojí.",
+  "Patnáctiletý mír = mír uzavřený v Kostnici 1461 po dobytí Diessenhofenu (viz kap. 36; datum mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

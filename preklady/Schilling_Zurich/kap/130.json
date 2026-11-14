@@ -14,7 +14,7 @@
   },
   {
    "text": "Und underwegen, als man wider Mumpelgart zükam, do kament die von Lutzern mit einem venlin und gar einem schönen wolgeordneten volk und slügent sich angendes zü denen von Bern und vermischletent sich under einandern und zugent also in ganzen brüderlichen truwen desselben tages bis für Erikort, und kament in der nacht dar, und woltent nit me von einandern wichen und slügent ir leger züsamen, und was dennocht nieman vor der stat weder von fürsten, herren, stetten noch den Eidgnossen. Und als man spat an einem samstag dar was komen und in einem witen velde wider Mumpelgarten lag, do mocht man bi tage weder hutten noch andern schermen machen noch haben; darzü kam ouch ein grosser regen und regnet durch die ganz nacht, das iederman stan und sich erneren müsten als si mochten, darzü littent si ouch derselben nacht hunger und frost und warent dennocht alle frölich.",
-   "preklad": "A cestou, když přišli k Montbéliardu, přitáhli Lucernští s praporcem a s velmi krásným a dobře uspořádaným vojskem. Hned se k Bernským připojili, promísili se navzájem a tak táhli v plné bratrské věrnosti téhož dne až před Héricourt. Dorazili tam v noci a nechtěli se už od sebe odloučit, takže rozbili ležení společně. Před městem přitom ještě nikdo nebyl, ani z knížat, ani z pánů, měst či konfederátů. A protože tam dorazili pozdě v sobotu a leželi na širém poli směrem k Montbéliardu, nemohli za světla postavit ani mít boudy ani jiný přístřešek. K tomu přišel ještě velký déšť a pršelo celou noc, takže každý musel stát a pomáhat si, jak mohl. Tu noc trpěli také hladem a zimou, a přesto byli všichni veselí."
+   "preklad": "A cestou, když přišli k Montbéliardu, přitáhli Lucernští s praporcem a s velmi krásným a dobře uspořádaným vojskem. Hned se k Bernským připojili, promísili se navzájem a tak táhli v plné bratrské věrnosti téhož dne až před Héricourt. Dorazili tam v noci a nechtěli se už od sebe odloučit, takže rozbili ležení společně. Před městem přitom ještě nikdo nebyl, ani z knížat, ani z pánů, měst či Spříseženců. A protože tam dorazili pozdě v sobotu a leželi na širém poli směrem k Montbéliardu, nemohli za světla postavit ani mít boudy ani jiný přístřešek. K tomu přišel ještě velký déšť a pršelo celou noc, takže každý musel stát a pomáhat si, jak mohl. Tu noc trpěli také hladem a zimou, a přesto byli všichni veselí."
   }
  ],
  "poznamky": [
@@ -25,5 +25,6 @@
   "Oprava textu: číslo kapitoly „1350.“ → „130.“, „mit’ inen“ → „mit inen“, „das. iederman“ → „das iederman“, odstraněn zbytek OCR „= Ä“ na konci."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

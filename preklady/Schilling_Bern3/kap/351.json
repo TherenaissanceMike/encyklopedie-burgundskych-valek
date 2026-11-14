@@ -1,0 +1,40 @@
+{
+ "cislo": 351,
+ "nadpis": "Das die von Bernn vnd annder gemein eidgnossen mit iren panern ouch gen Losann zugen vnd namen was si funden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 785,
+ "strany": [
+  785,
+  786,
+  787
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als die von Bernn vnd annder eidgno[ssen] mit allen iren panern ouch gen Losann kame[n] da was vorhin sackman da gemacht / Vnd was man übriges da vant / nach dem dann gar vil gůtes da was / das wart ouch alles genomen / vnd gar wenig da gelassen / Vnd wart leider von etlichen snöden büben / vnd nit von den frommen in semlicher maß mit beroubung der kilchen da gehandlet / das ich die himel küngin magt Marien demüticlichen bitten / das des die frommen vnd vnschuldigen nit engelten / dann es die selben in keinen dingen möchten gewenden",
+   "preklad": "A když Bernští a ostatní Spříseženci se všemi svými korouhvemi také přišli do Lausanne, bylo tam už předtím vypleněno. A co se tam ještě našlo – a dobrého majetku tam bylo velmi mnoho –, to bylo také všechno pobráno a zůstalo tam jen velmi málo. A bohužel se tam někteří mrzcí ničemové, a ne ti stateční, dopouštěli takového loupení kostelů, že pokorně prosím Královnu nebes, Pannu Marii, aby za to nepykali ti stateční a nevinní, neboť tomu nijak nemohli zabránit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 786,
+   "popis": "konfederační vojsko pod korouhvemi (Uri s volskou hlavou, bernský medvěd, Unterwalden, Luzern aj.) a s rohem táhne k Lausanne; vpravo město s katedrálou a věžemi s kopulemi, u brány postavy; vlevo Ženevské jezero s lodí s plachtou a hory; dole kostel mezi stromy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 786,
+   "text": "786 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s nevyplněnou iniciálou V"
+  },
+  {
+   "strana": 787,
+   "text": "787 X (pozdější foliace, pravý horní roh); nahoře konec odstavce; pod ním celostránkový obraz s rubrikou vepsanou do páskové banderoly v obraze"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a ostatní Spříseženci táhli se svými korouhvemi také do Lausanne a brali, co našli",
+ "poznamky_prekladu": [
+  "Schilling se zde osobně (v 1. osobě) distancuje od vyloupení lausannských kostelů „snöden büben“ (mrzkými ničemy)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

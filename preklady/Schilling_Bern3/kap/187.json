@@ -1,0 +1,44 @@
+{
+ "cislo": 187,
+ "nadpis": "Das die von Basel ouch Soldner von Lutzernn vnd andern eidgno[ssen] vmb Sold bestalten vnd mit inen brachten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 402,
+ "strany": [
+  402,
+  403,
+  404
+ ],
+ "odstavce": [
+  {
+   "text": "Die vorgenanten von Basel hatten ouch von Lutzernn vnd andern eidgno[ssen] zů inen für Soldner bestelt vnd ufgenomen fünf hundert werlicher mannen / denen si allen Sold gaben / die selben erbutten sich gegent dem houptman von Bernn gar fruntlich / vnd meinten si wolten mit im sterben vnd genesen / vnd bevalchen sich gantz in sinen schirm / Vnd also am fritag darnach zugen die von Bernn in dem namen gottes mit iren zůgewanten von Basel den nechsten in Burgunn / da funden si Graf Oswalt von Tierstein des hertzogen von Österrich lantvogt / darzů der beider Bischofen vnd Stetten von Straßburg Basel vnd ander volck vnd sunderlich die von Straßburg mit gar grosse[n] machten zů ross vnd fůs / vnd enpfingen einandn[!] in allen sunderlichen trüwen",
+   "preklad": "Zmínění Basilejští také najali a přijali od Luzernských a ostatních Spříseženců za žoldnéře pět set branných mužů a všem jim platili žold. Ti se k hejtmanovi Bernských zachovali velmi přátelsky, řekli, že s ním chtějí zemřít i přežít, a zcela se svěřili pod jeho ochranu. A tak v pátek potom táhli Bernští ve jménu Božím se svými spojenci z Basileje nejkratší cestou do Burgundska. Tam zastihli hraběte Oswalda von Tierstein, zemského fojta vévody Rakouského, k tomu lid obou biskupů a měst Štrasburku a Basileje i jiný, a zvláště Štrasburské s velmi velkou mocí na koních i pěšky. A přijali se navzájem se vší zvláštní věrností."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 403,
+   "popis": "dokončená kolorovaná miniatura – pochodující zástup žoldnéřů s píkami a bílými kříži, vpravo praporečník s praporem s motivem (snad basilejská berla), vlevo žena s měšcem; v pozadí jezero s lodí, město, zřícenina a další oddíl s prapory na kopci"
+  },
+  {
+   "strana": 404,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (vojáci s kříži, budovy), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 403,
+   "text": "403 X (pozdější foliace, pravý horní roh); miniatura přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 404,
+   "text": "404 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (vojsko s kříži, hrad); dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Basilejští také najali žoldnéře z Luzernu a od ostatních Spříseženců a přivedli je s sebou",
+ "poznamky_prekladu": [
+  "Pátek potom = 14. července 1475. Hrabě Oswald von Tierstein, rakouský zemský fojt v Alsasku (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

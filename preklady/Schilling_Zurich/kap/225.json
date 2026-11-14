@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "225. Das die von Bern und ander Eidgnossen mit einandern gen Losan zugent.",
-   "preklad": "225. Jak Bernští a jiní konfederáti společně táhli do Lausanne."
+   "preklad": "225. Jak Bernští a jiní Spříseženci společně táhli do Lausanne."
   },
   {
    "text": "Darnach zoch man von der Morse den nechsten gen Losan, und wart zer Morse vast geplündert, dann an dem abziechen nam iederman was im werden mocht, wie wol man umb die ürti nit vil geben hat. Darzü verbranten ouch die von Lutzern das schön hübsch slos in der stat, darinne si mit allem irem volke warent gelegen; und als man gen Losan kam, do wart man ze rat, das man den nechsten heimkeren solte.",
@@ -28,5 +28,6 @@
   "Tobler: rukojmí z Yverdonu propustili poslové čtyř měst 16. 11. 1475. Tvrzení o dobrém chování posádky neodpovídá skutečnosti: Bern musel 10. 11. napomínat hejtmana v Yverdonu Albina von Silinen, aby respektoval svobody měšťanů, 16. 11. nařídil žoldnéřům nic nebrat bez zaplacení a 8. 12. jim zakázal věznit a loupit. Vražedná noc v Yverdonu viz kap. 239–243."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

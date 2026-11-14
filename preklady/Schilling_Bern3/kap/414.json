@@ -1,0 +1,38 @@
+{
+ "cislo": 414,
+ "nadpis": "Die straff So die von Bernn vnd ander eidgno[ssen] von semlicher mortlicher sach wegen den iren an leiten vnd tatent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 926,
+ "strany": [
+  926,
+  927
+ ],
+ "odstavce": [
+  {
+   "text": "Semlich böß sachen kamen bald vnd am ersten gen Bernn / die daran gros misfallen hatten / Vnd vorchten den zorn gottes / der gar ze mengen malen die vnschuldigen mit den schuldigen hatt verderben lassen / vnd wurden von stund an gemeinen eidgno[ssen] gen lutzern tag angesatzt / Do wart semlicher mort vnd böß sachen von inen betracht / vnd einhelleclich geratten / das yederman von Stetten vnd lenndern zů den sinen / die bi semlichem mort gewesen / vnd an dem küng oder anndern meyneidt worden / oder sust über eid oder ere hinweg gangen weren greiffen / vnd die angendes in türn vnd slöß gevangknüß werffen / vnd den nachrichtern beuelhen / die solten si nach aller notdurft martern vnd voltern / Vnd wo yeman bi semliche[n] sachen gewesen vnd daran schuldig were / die solt man nach irem verdienen mit schantlichen töden richten / vnd ouch von eren gesatzt sin / vnd weder an ratt noch gericht niemer mer genomen werden / noch kein kuntschaft wider nieman sagen Sunder gantz meyneid vnd erloß sin vnd bliben Das ouch zem teil beschach / vnd wurdent ze Bernn vnd anndern ennden etlich gemartert / die musten dem nach gan als ob statt / Es wurden ouch etlich der selben mit schantlichen lasterlichen töden nach irem verdienen gericht / Darzů machten ouch die von Bernn ewig Satzungen vnd ordnunge[n] über si / als das ouch in anndern iren bůchern geschriben statt",
+   "preklad": "Takové zlé věci se brzy a nejprve doneslo do Bernu a [Bernští] nad tím měli velkou nelibost. Báli se Božího hněvu, který velmi mnohokrát nechal zahynout nevinné spolu s vinnými, a ihned byl všem Spřísežencům vypsán sněm do Luzernu. Tam byla taková vražda a zlé věci posouzeny a jednomyslně se uradilo, aby každé z měst a zemí sáhlo po těch svých, kteří byli při takové vraždě a stali se vůči králi nebo jiným křivopřísežnými, nebo jinak odešli proti přísaze či cti, a ihned je uvrhlo do vězení ve věžích a na hradech a nařídilo katům, aby je podle vší potřeby mučili a tázali útrpným právem. A kdo byl při takových věcech a byl na nich vinen, toho měli podle jeho zásluhy popravit potupnou smrtí; a měli být také zbaveni cti a nikdy více přijati do rady ani soudu, ani nesměli proti nikomu svědčit, nýbrž měli být a zůstat zcela křivopřísežní a bezectní. To se také zčásti stalo, a v Bernu i na jiných místech byli někteří mučeni a museli se tím řídit, jak výše stojí. Někteří z nich byli také podle své zásluhy popraveni potupnou a hanebnou smrtí. Kromě toho vydali Bernští o nich věčná nařízení a pořádky, jak je to také zapsáno v jiných jejich knihách."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 927,
+   "text": "927 X (pozdější foliace, pravý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s928); vpravo dole slabé tužkové poznámky pozdější rukou (nečitelné)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 927,
+   "text": "lucernský sněm nařídil zatknout a mučit („voltern“ = foltern) účastníky masakru v Dole; vinní popraveni a zbaveni cti (nesmějí do rady, soudu ani svědčit)"
+  }
+ ],
+ "nadpis_preklad": "Trest, který Bernští a ostatní Spříseženci kvůli té vražedné věci uložili a vykonali na svých lidech",
+ "poznamky_prekladu": [
+  "„martern vnd voltern“ – mučit a tázat útrpným právem (voltern = foltern).",
+  "„nachrichter“ = kat; „kein kuntschaft sagen“ = nesmět svědčit.",
+  "„Stetten vnd lenndern“ – městská a venkovská místa Spříseženstva.",
+  "Sněm v Luzernu po vyplenění Dole (1479); přesné datum text neuvádí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

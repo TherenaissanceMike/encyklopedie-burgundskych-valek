@@ -1,0 +1,31 @@
+{
+ "cislo": 110,
+ "nadpis": "Das der vorgenant von hagenbach an denen von Brisach gar schantlich vnd mortlich wolt haben gehandelt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 226,
+ "strany": [
+  226,
+  227
+ ],
+ "odstavce": [
+  {
+   "text": "Der almechtig ewig got / als der dis menigvaltig vnrecht lenger nit hat wellen gestatten / Sunder den selben wütrich des Sunde der rach nie was / in die grůben siner vntat / die er andern gemacht / vallen lassen hat vnd in glich Lucifero / durch sin vngerechte hochvart von dem Stůl sins gewaltes abstürtzen wolt / hat im das alles gewaltiklichen wellen vnderziechen wann darnach an dem heiligen österlichen tage als yederman zů Brisach in der kilchen / vnd man dennocht im ampt der mess was / gebot er allen burgern vnd tütschen bi iren eiden vnd penen des todes / das si angendes heim giengent zů imbis essen / vnd dann von stund an yederma[n] was von burgern oder tütschen wer / hinus für die Statt in den graben kemen / wann er willen hett den Rine darin zů leiten / das si dester sicherer werent / dis was sin verreterie / vnd tett ouch das darumb / so balde vnd die burger vnd tütschen für die Statt werend komen / so wolt er angendes die Statt vnd alle hüser / wib vnd kind mit walchen besatzt / vnd also die burger vnd armen lüte da ussen gelassen / vnd als jemerlich an lib / eren vnd gůt gantz vnd gar verderbet haben",
+   "preklad": "Všemohoucí věčný Bůh, který toto mnohonásobné bezpráví už déle nechtěl trpět, nýbrž nechal téhož ukrutníka, jehož hříchy nikdy nebyly pomstěny, padnout do jámy jeho zločinu, kterou připravil jiným, a chtěl ho jako Lucifera pro jeho nespravedlivou pýchu svrhnout ze stolce jeho moci, mu to vše chtěl mocně překazit. Potom totiž ve svatý velikonoční den, když byl v Breisachu každý v kostele a ještě se sloužila mše, přikázal [Hagenbach] všem měšťanům a Němcům pod jejich přísahami a pod trestem smrti, aby ihned šli domů k obědu a pak hned každý, kdo je z měšťanů nebo Němců, přišel ven před město do příkopu, neboť má prý v úmyslu svést do něho Rýn, aby byli tím bezpečnější. To byla jeho zrada; učinil to proto, že jakmile by měšťané a Němci byli venku před městem, chtěl ihned obsadit město a všechny domy, ženy a děti Vlachy, a tak měšťany a chudé lidi nechat venku a docela a úplně je bídně zahubit na životě, cti a statcích."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 227,
+   "text": "227 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak chtěl zmíněný z Hagenbachu s Breisašskými jednat velmi hanebně a vražedně",
+ "poznamky_prekladu": [
+  "„des Sunde der rach nie was“ – doslova „jehož hřích nebyl nikdy [pomstěn]“; přeloženo podle smyslu.",
+  "Velikonoční neděle 1474 = 10. 4. 1474 (juliánský kalendář; rok mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

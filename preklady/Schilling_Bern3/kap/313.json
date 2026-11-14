@@ -1,0 +1,46 @@
+{
+ "cislo": 313,
+ "nadpis": "Das die Statt zem Turen von dero von Bernn lüten mit hartem Sturm gewunne wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 704,
+ "strany": [
+  704,
+  705
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als der hertzog von Burgunn In sinem leger vor Losann lag / vnd gen Murten ziechen wolt / da schriben die von Bernn irem tschachtlan von Ober Sibental / namlich Niclaus zer Kinden[?] / mit den iren vnd ouch etlichen von Sanen daran zů sinde / das wider Visis vnd zem Turen kein frömd völcker harin zugen / vnd dz versechen / vnd sunderlich das die von Visis gestraft wurden / Also zoch der vorgenant tschachtlan mit acht hundert mannen dar / vnd gewunnen die Statt zem Turen mit dem Swert vnd einem harten Sturm über houpt / vnd ertöten alles das darinne von manß personen was / der waren me dann fünff hundert die alle vmb kamen / vnd bliben nit me dann acht man lebendig / die hatten sich verborgen / So wart ouch der alten geschonet / des glich priestern / frowen vnd kinden ouch / vnd stiessen damit die Statt in füre an / vnd nam ouch yederman was im werden oder mit im hinweg bringen möcht",
+   "preklad": "A když vévoda Burgundský ležel ve svém ležení u Lausanne a chtěl táhnout k Murtenu, napsali Bernští svému kastelánovi (tschachtlan) z Horního Simmentalu, jmenovitě Niclausi zer Kinden [?], aby se svými lidmi a také s některými ze Saanenu dbal na to, aby přes Vevey a La Tour-de-Peilz nepřitáhl dovnitř žádný cizí lid, a to zajistil; a zvláště aby byli potrestáni lidé z Vevey. Tak tam zmíněný kastelán táhl s osmi sty muži a dobyli město La Tour-de-Peilz mečem a tvrdým útokem na hlavu a pobili všechno, co tam bylo mužského pohlaví. Těch bylo více než pět set a všichni zahynuli; nezůstalo naživu víc než osm mužů, kteří se ukryli. Starých však bylo ušetřeno, stejně tak kněží, žen a dětí. Pak zapálili město a každý si vzal, co mohl dostat nebo s sebou odnést."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 704,
+   "popis": "kolorovaná kresba – útok na La Tour-de-Peilz: obránci na hradbách města s kupolovými věžemi házejí kameny, vlevo savojský prapor s bílým křížem; útočníci s bílými kříži nesou žebříky a pavézy, vlevo zástup pikenýrů s halapartnami a velitel s péry; vpravo jezero s loďkou a hory"
+  },
+  {
+   "strana": 705,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 705,
+   "text": "705 X (pozdější foliace, pravý horní roh); text s iniciálou V psán přes šedě podložený rám pro obrázek; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 704,
+   "text": "„zem Turen“ = La Tour-de-Peilz u Vevey"
+  }
+ ],
+ "nadpis_preklad": "Že město La Tour-de-Peilz bylo dobyto lidmi Bernských tvrdým útokem",
+ "poznamky_prekladu": [
+  "„zem Turen“ = La Tour-de-Peilz u Vevey; „Visis“ = Vevey; „Sanen“ = Saanen.",
+  "tschachtlan = kastelán, bernský úředník venkovského okresu. Jméno „Niclaus zer Kinden[?]“ nejisté, [?] z přepisu.",
+  "„über houpt“ = útokem na hlavu, bez milosti. Počty 800, přes 500 a 8 ponechány podle textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

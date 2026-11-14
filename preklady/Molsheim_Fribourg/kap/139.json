@@ -21,7 +21,7 @@
   },
   {
    "text": "Und als die fromen gesellen, so von Bern und Friburg zu Gransen in das schlos von dem sturm entrannen warend, der by fünfhundert warend, do namen die Burgüner das stettli in mit grosser macht und gewalt und leiten die büchsen gar nach zu dem schloss und schussen tag und nacht daran. Darumb die fromen knecht nütz gaben und hielten sich gar manlich [und meinten, je mit gottes hilf das schlos ze beheben, biss das sy von iren herren entschütt wurdent, das sy getan hettent, were nit die vereterye gewesen]. Denn die Burgüner das schloss nit me nöttigent mit sturm, denn allein mit schiessen uff einer sitten gegen der statt, da das schlos ouch gar stark und werlich was. Die güten gesellen waren vor ouch umb iren büchsenmeister komen; wart erschossen in dem schlos, der gar ein tröstlicher man was. Darzü gieng inen ir büchsenbulver ein teil an und verbran inen. Und gerieten also in dem schloss ander enandren uneins werden und uneinhelig, des sy übel engulten, als ir hienach werden hören.",
-   "preklad": "A když stateční druhové z Bernu a Fribourgu, kterých bylo asi pět set, z útoku unikli do hradu v Grandsonu, zmocnili se Burgunďané městečka velkou mocí a silou, postavili děla velmi blízko k hradu a stříleli do něj dnem i nocí. Stateční knechti si z toho nic nedělali a drželi se velmi mužně [a mysleli, že s Boží pomocí hrad jistě udrží, dokud je jejich páni nevysvobodí; to by se jim také podařilo, nebýt zrady]. Burgunďané totiž hrad už netísnili útoky, nýbrž jen střelbou z jedné strany, od města, kde byl hrad také velmi silný a dobře hájitelný. Dobří druhové už předtím přišli také o svého puškaře (büchsenmeister); byl zastřelen na hradě a byl to muž, který jim velmi dodával odvahy. K tomu se jim část prachu vznítila a shořela. A tak se na hradě mezi sebou začali rozcházet a nebyli jednotní, za což zle zaplatili, jak uslyšíte dále."
+   "preklad": "A když stateční druhové z Bernu a Fribourgu, kterých bylo asi pět set, z útoku unikli do hradu v Grandsonu, zmocnili se Burgunďané městečka velkou mocí a silou, postavili děla velmi blízko k hradu a stříleli do něj dnem i nocí. Stateční knechti si z toho nic nedělali a drželi se velmi mužně [a mysleli, že s Boží pomocí hrad jistě udrží, dokud je jejich páni nevysvobodí; to by se jim také podařilo, nebýt zrady]. Burgunďané totiž hrad už netísnili útoky, nýbrž jen střelbou z jedné strany, od města, kde byl hrad také velmi silný a dobře hájitelný. Dobří druhové už předtím přišli také o svého puškaře (büchsenmeister, mistra dělostřelby); byl zastřelen na hradě a byl to muž, který jim velmi dodával odvahy. K tomu se jim část prachu vznítila a shořela. A tak se na hradě mezi sebou začali rozcházet a nebyli jednotní, za což zle zaplatili, jak uslyšíte dále."
   }
  ],
  "poznamky_editora": [
@@ -30,9 +30,10 @@
  "poznamky": [
   "Text: odstavec rozdělen na dva podle edice; odstraněna čísla řádků (io, ir., ä5) a odkazy na poznámky; OCR opraveno: Barfftssenkloster → Barfüssenkloster, sclilos → schlos, oueh → ouch, daraiy'Darumb → daran. Darumb, „[m nd“ → „[und“, körnen → komen.",
   "„Barfüssenkloster“ = františkánský (bosácký) klášter v Grandsonu.",
-  "Büchi: druhý útok ve středu 21. 2. 1476. Sicher a Nicolaus odhadují konfederátní posádku na 400 mužů (Molsheim i Schilling asi 500). Schilling (I, 356) mluví o „puškaři z Bernu“.",
+  "Büchi: druhý útok ve středu 21. 2. 1476. Sicher a Nicolaus odhadují posádku Spříseženců na 400 mužů (Molsheim i Schilling asi 500). Schilling (I, 356) mluví o „puškaři z Bernu“.",
   "Oproti Schillingovi (C. 251–252): Schilling líčí, že puškaři ustřelili hlavu na cimbuří a že s prachem shořela i děla a mnozí byli zmrzačeni; Molsheim jen, že byl zastřelen a shořela část prachu. Navíc má [naději udržet hrad až do vysvobození] a zmínku o nesvornosti posádky, která předznamenává kapitulaci."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

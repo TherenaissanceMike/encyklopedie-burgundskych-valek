@@ -1,0 +1,46 @@
+{
+ "cislo": 279,
+ "nadpis": "Das die von Friburg / Sollottern vnd Biell mit iren panern ouch us zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 612,
+ "strany": [
+  612,
+  613,
+  614
+ ],
+ "odstavce": [
+  {
+   "text": "Darzů zugen ouch die von Friburg / Sollottern vnd Biell ouch uß mit iren panern vn[d] gantzen machten / vnd bliben zů Murten vnd in der selben art zů erwarten / bis die andn[!] eidgno[ssen] ouch harnach kament / die ouch die von Bernn me dann ein mal manten / vnd inen schriben / als dann zem teil harnach statt",
+   "preklad": "K tomu vytáhli také Fribourgští, Solothurnští a Bielští se svými korouhvemi a celou mocí a zůstali v Murtenu a v tom kraji, aby vyčkali, až přijdou i ostatní Spříseženci. Ty Bernští také nejednou vyzývali a psali jim, jak zčásti následuje níže."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 613,
+   "popis": "kolorovaná kresba – Fribourg, Solothurn a Biel táhnou k Moratu: vlevo korouhve (Biel se zkříženými sekerami, Fribourg černobílá, Solothurn), uprostřed bubeník a pištec, hejtmani s péry, pikenýři s bílými kříži na zádech táhnou do brány města; nad branou černý prapor s kuší; v pozadí jezero a skály"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 613,
+   "text": "613 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 614,
+   "text": "614 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; nahoře rubrika, pak dopis s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 612,
+   "text": "Hans von Hallwyl (válčil v Uhrách a Čechách, byl u Pontarlier); praporečník Hans Kutler (řezníci), Ludwig Brügler (jirchářové), Peter Simon, mistr střelců"
+  }
+ ],
+ "nadpis_preklad": "Jak Fribourgští, Solothurnští a Bielští také vytáhli se svými korouhvemi",
+ "poznamky_prekladu": [
+  "„andn[!]“ v přepisu = „andern“ (ostatní).",
+  "Biell = Biel/Bienne."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

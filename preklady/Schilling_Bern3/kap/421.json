@@ -1,0 +1,78 @@
+{
+ "cislo": 421,
+ "nadpis": "Hienach statt die zal der lüten So zů Chalun mitteinandern gewesen sind",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 938,
+ "strany": [
+  938,
+  939,
+  940
+ ],
+ "odstavce": [
+  {
+   "text": "Item die von zürich tusent man / hand mit dem ros volck me dann xj[c] man gehebt",
+   "preklad": "Položka: Curyšští tisíc mužů; s jízdou měli přes jedenáct set mužů."
+  },
+  {
+   "text": "Item die von Bern tusent man / hand mit dem ros volck ob xij[c] mannen gehebt",
+   "preklad": "Položka: Bernští tisíc mužů; s jízdou měli přes dvanáct set mužů."
+  },
+  {
+   "text": "Item die von lutzern viij[c] man / hand mit dem ros volck ouch me gehebt",
+   "preklad": "Položka: Luzernští osm set mužů; s jízdou jich měli také víc."
+  },
+  {
+   "text": "Item friburg vnd Sollottern tusent man / hand mit iren ros lüten ouch anderes[?] me gehebt",
+   "preklad": "Položka: Fribourg a Solothurn tisíc mužů; se svými jezdci jich měli také víc [?]."
+  },
+  {
+   "text": "Item die anndern örter der eidgno[ssen] / namlich vre Switz vnderwalden zug vnd Glarus / mit rotwil / von Sant gallen / vnd von anndern iren emptern / haben ob zwey tusent mannen gehebt",
+   "preklad": "Položka: ostatní místa (kantony) Spříseženstva, totiž Uri, Schwyz, Unterwalden, Zug a Glarus, s Rottweilem, se Svatým Havlem (St. Gallen) a z ostatních jejich úřadů (okrsků), měli přes dva tisíce mužů."
+  },
+  {
+   "text": "Item die von Biell anderthalb hundert man mit iren reisigen",
+   "preklad": "Položka: Bielští sto padesát mužů se svými jezdci."
+  },
+  {
+   "text": "So sind vorhin bi dem küng me dann Sechs tusent man von eidgno[ssen] vnd anndern tütschen vmb Sold ouch gewesen",
+   "preklad": "Kromě toho bylo už předtím u krále za žold více než šest tisíc mužů ze Spříseženců a jiných Němců."
+  },
+  {
+   "text": "Vnd was sider har me beschechen vnd in ze schriben notdurftig ist / das dann ein Statt von Bernn von kriegen oder ander dingen wegen berürt han ich in einer anderen nüwen Cronicken angefangen / vnd nit vnnder wegen gelassen / Zů lobe vnd eren minen gnedigen herren von Bernn vnd iren ewigen nachkomen / der ouch si in sinem schirm behalten / vnd niemer mer verlassen welle Amen",
+   "preklad": "A co se od té doby stalo dalšího a co je nutné zapsat, co se týká města Bernu kvůli válkám či jiným věcem, to jsem započal v jiné, nové kronice a nenechal toho, ke chvále a cti svých milostivých pánů z Bernu a jejich věčných potomků. Kéž je [Bůh] ve své ochraně zachová a nikdy neopustí. Amen."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 939,
+   "text": "939 X (pozdější foliace, pravý horní roh); stránka bez obrázku a bez rámečku; položka s iniciálou I, odstavec s iniciálou S, závěrečný odstavec s iniciálou V (explicit), „Amen“ a ozdobná kadela; dolní část prázdná"
+  },
+  {
+   "strana": 940,
+   "text": "940 (pozdější foliace, levý horní roh); prázdná stránka, prosvítá text z s939; poslední snímek svazku"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 938,
+   "text": "početní stavy u Chalonu 1480: Curych 1000 (s jízdou přes 1100), Bern 1000 (s jízdou přes 1200), Lucern 800, Fribourg a Solothurn 1000, ostatní místa s Rottweilem a St. Gallenem přes 2000; „anderes[?]“ nejisté"
+  },
+  {
+   "strana": 939,
+   "text": "Biel 150 mužů s jízdou; dalších přes 6000 Švýcarů a Němců bylo u krále na žold; ZÁVĚR SVAZKU (explicit): kronikář („han ich“) uvádí, že další události zapsal v jiné, nové kronice, kterou započal – k chvále a cti „minen gnedigen herren von Bernn“; Amen"
+  },
+  {
+   "strana": 940,
+   "text": "konec rukopisu Mss.h.h.I.3 (text končí explicitem na s939)"
+  }
+ ],
+ "nadpis_preklad": "Zde následuje počet lidí, kteří byli spolu u Chalonu",
+ "poznamky_prekladu": [
+  "„anderes[?]“ (odst. 4) – nejisté čtení.",
+  "Závěrečný odstavec je explicit svazku: Schilling odkazuje na „jinou, novou kroniku“ – o jaké kronice jde, z textu nevyplývá. Text svazku končí na s. 939, s. 940 je prázdná.",
+  "„emptern“ = úřady, tj. poddanská území (okrsky) jednotlivých míst."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

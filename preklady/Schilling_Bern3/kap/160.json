@@ -1,0 +1,35 @@
+{
+ "cislo": 160,
+ "nadpis": "Das aber etlich knecht von Bernn / Sollotern vnd Biell miteinandern in Burgunn zugen / vnd ouch ein roup namen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 336,
+ "strany": [
+  336,
+  337
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zugen aber etlich knecht von Bern Sollotern vnd Biell / der gar wenig wz gen Granson / vnd namen ouch ein grosse[n] roup / me dann fünff hundert gehürnter houpten vechs / vnd anders / das tribent si ouch us dem lande mit gewerter hand / vnd beschach inen nit",
+   "preklad": "Potom znovu táhli někteří knechti z Bernu, Solothurnu a Bielu, jichž bylo velmi málo, ke Grandsonu a vzali také velkou kořist, přes pět set kusů rohatého dobytka a jiné; i to vyhnali se zbraní v ruce ze země a nic se jim nestalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 336,
+   "popis": "velká dokončená kolorovaná miniatura – další nájezd: v pozadí zřícenina hradu a vesnice s kostelem; pěšáci s halapartnami a bílými kříži na prsou ženou velké stádo krav s volskými zvonci a divokého kance s selaty; skály a les"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 337,
+   "text": "337 X (pozdější foliace, pravý horní roh); nahoře text, pak rubrika a velká miniatura"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak znovu někteří knechti z Bernu, Solothurnu a Bielu společně táhli do Burgundska a také vzali kořist",
+ "poznamky_prekladu": [
+  "Biell = Biel/Bienne."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

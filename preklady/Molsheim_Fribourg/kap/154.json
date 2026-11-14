@@ -16,7 +16,7 @@
   },
   {
    "text": "Und do nu der herzog von Bürgün by acht oder nün tagen in Bürgün was und das volk vast begonde wider samlen, do zoch er uss Bürgün mit dem grafen von Remund in Savoy gen Losen. Daselbs der herzog ein gros leger schlug vor der statt. Und kam aber ein grosse welt zesamen und fulten stett und dörfer, und zoch im aber grosse welt zu. Die herzogin von Savoy was ouch mit aller ir macht by im und hatte bestelt in ir land alle handwerklüte und besunder vil schnider, die tag und nacht anders nüzt daten, denn sidin und ander kleider, schornyen und zelten machen. Es gieng auch darzwüschen mängerlei red, das man nit eigentlich möchte vernemen, wohin sich der herzog keren wurde, oder was er müt hette; denn das allweg ein gemein rede was, er wolte für Bern oder Friburg ziechen.",
-   "preklad": "Když byl vévoda burgundský asi osm nebo devět dní v Burgundsku a začal znovu usilovně shromažďovat lid, vytáhl z Burgundska s hrabětem z Romontu do Savojska k Lausanne. Tam si vévoda rozbil před městem velký tábor. Znovu se sešlo velké množství lidí, kteří zaplnili města i vesnice, a stále k němu přitahovaly další zástupy. Byla u něho i vévodkyně savojská s celou svou mocí a ve své zemi objednala všechny řemeslníky, zvláště mnoho krejčích, kteří dnem i nocí nedělali nic jiného, než že šili hedvábné i jiné šaty, válečné pláště a stany. Mezitím se vedly všelijaké řeči, takže se nedalo spolehlivě zjistit, kam se vévoda obrátí nebo co má v úmyslu; stále se však obecně říkalo, že chce táhnout na Bern nebo na Fribourg."
+   "preklad": "Když byl vévoda burgundský asi osm nebo devět dní v Burgundsku a začal znovu usilovně shromažďovat lid, vytáhl z Burgundska s hrabětem z Romontu do Savojska k Lausanne. Tam si vévoda rozbil před městem velký tábor. Znovu se sešlo velké množství lidí, kteří zaplnili města i vesnice, a stále k němu přitahovaly další zástupy. Byla u něho i vévodkyně savojská s celou svou mocí a ve své zemi objednala všechny řemeslníky, zvláště mnoho krejčích, kteří dnem i nocí nedělali nic jiného, než že šili hedvábné i jiné šaty, livreje (schornyen) a stany. Mezitím se vedly všelijaké řeči, takže se nedalo spolehlivě zjistit, kam se vévoda obrátí nebo co má v úmyslu; stále se však obecně říkalo, že chce táhnout na Bern nebo na Fribourg."
   },
   {
    "text": "Daruff sich ouch die beden stett vast rustent, inn ze entfachen und im einen manlichen widerstand ze tun mit der hilf gottes. Es wart ouch gerett, wie das der herzog dem grafen von Remund zügeseit und versprochen hatt, [in] herrn ze Bern ze machen und über all ir land und gebiet, und aber dem herzogen von Savoye, Friburg mit aller siner zügehörde inngeben und undertänig machen, also das vorhin in beden stetten jederman, man und kind und wib ertöt sötte werden und umbbracht. Und hatt ouch die hüser in beden stetten under sin edellüt geteilt.",
@@ -28,10 +28,11 @@
  ],
  "poznamky": [
   "Text: odstraněny odkazy na poznámky a opraveny chyby OCR (TJnd → Und, weit → welt, dSrfer → dörfer, tvib → wib, „[m] herrn“ → „[in] herrn“).",
-  "„schornyen“ = válečné pláště (Tobler: scharine, scharnie = Kriegsmantel; Schilling má „scharinen“).",
+  "„schornyen“ = livreje (scharnie, waffenrock; Tobler: scharine, scharnie = Kriegsmantel; Schilling má „scharinen“).",
   "Büchi: vévoda byl u Lausanne patrně už 12. 3. 1476 a sídlil na zámku Menthon [?]; lausannské městské účty kladou jeho příchod na neděli. Vévodkyně přijela i se svými rádci.",
   "Oproti Schillingovi (C. 278): vévoda byl v Burgundsku „osm nebo devět dní“ (Schilling v C. 277 asi deset); Molsheim výslovně uvádí, že s ním přitáhl hrabě z Romontu; Fribourg má dostat „vévoda savojský“ (Schilling: vévodkyně); chybí Schillingova zmínka o lenních listinách s pečetí a losování o domy."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

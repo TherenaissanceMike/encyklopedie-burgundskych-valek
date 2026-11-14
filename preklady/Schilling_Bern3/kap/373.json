@@ -1,0 +1,47 @@
+{
+ "cislo": 373,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] vnd verwanten in des hertzogen leger vnd wagenburg zugen / vnd darinn gros güt / darzů essen vnd trincken gnůg funden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 848,
+ "strany": [
+  848,
+  849,
+  850
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zugen die von Bernn vnd ander eidgno[ssen] vnd verwanten widerumb in des hertzogen wagenburg vnd leger / vnd waren mit gewalt darinn bis an den dritten tag nach gewonheit semlicher erlicher Striten / Vnd wart da dem hertzogen von Burgunn aber angewunnen hundert vnd dryg büchsen / zwo gros houptbüchsen / Steck[?] büchsen / darus man stein schusset grösser dann eins yeglichen mans houpt / dz ander warent als Stein vnd slangen büchsen / Darzů wart im vnd den sinen ouch angewunnen / alles ir gros gůt / cleider / siden gewant / roß / harnesch vnd anders / vnd ouch vil houpt paner vnd vennlinen / das si dann von rechter angst vnd not hinder inen haben müssen lassen",
+   "preklad": "A tak se Bernští a ostatní Spříseženci a spojenci vrátili do vévodovy vozové hradby a ležení a byli v nich mocí až do třetího dne, podle zvyku takových čestných bitev. Vévodovi Burgundskému tam opět ukořistili sto tři děla: dvě velká obléhací děla (bombardy), Steck[?] děla, z nichž se střílely kameny větší než hlava kteréhokoli muže; ostatní byla děla na kamenné koule a serpentiny. K tomu jemu a jeho lidem ukořistili také všechen jejich velký majetek, šaty, hedvábné roucho, koně, zbroj a jiné, a také mnoho hlavních korouhví a praporců, které museli z pravé úzkosti a nouze nechat za sebou."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 849,
+   "popis": "dobytí burgundského ležení u Nancy: vlevo stany ležení, uprostřed velká bombarda v dřevěném lůžku, hromady kamenných koulí, dva muži utíkají (jeden s kbelíkem); vpravo Nancy s hradbami a věžemi a les korouhví vítězů (Uri s volskou hlavou, korouhev se svatým/sv. Mořicem?, se světicí, pruhované, s křížem); zástup pikenýrů a jezdců s lotrinskými dvojitými kříži postupuje; dole hromady padlých obrněnců a koní; v popředí rybník/řeka, v níž se topí a jsou bodáni burgundští rytíři (jeden s mečem zabodnutým shora)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 849,
+   "text": "849 X (pozdější foliace, pravý horní roh); celostránkový obraz bez textu"
+  },
+  {
+   "strana": 850,
+   "text": "850 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); odstavec s iniciálou V, výplňový tah perem, dole rubrika s iniciálou D (k obrazu na s851)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 850,
+   "text": "103 děl, z toho dvě velké bombardy; „Steck büchsen“ nejisté čtení"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a ostatní Spříseženci a spojenci vtáhli do vévodova ležení a vozové hradby a našli v nich velký majetek, k tomu dost jídla a pití",
+ "poznamky_prekladu": [
+  "103 děla podle textu.",
+  "„Steck[?] büchsen“ – nejisté čtení; ponecháno v originále. Není jasné, zda jde o dvě uvedené bombardy, nebo o další kusy.",
+  "Tři dny na bojišti = zvyk vítěze na znamení vítězství (držení bojiště)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

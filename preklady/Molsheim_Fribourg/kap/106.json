@@ -23,5 +23,6 @@
   "Text: Büchi pod nadpisem Molsheimův text netiskne, jen odkazuje: „Vgl. Schilling C. 203 und 204 zusammengezogen bis S. 285“ (Molsheim zde Schillingovy kap. 203 a 204 zkracuje a slučuje). Čísla 4 a 285 v poli „schilling“ jsou proto chybně rozpoznaná čísla stránek, ne kapitol."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,37 @@
+{
+ "cislo": 63,
+ "nadpis": "Das der hertzog von Burgunn etlich sin Räte zů gemeinen eidgno[ssen] gen Lutzern schickte / die hochmüticlich mit inen retten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 141,
+ "strany": [
+  141,
+  142
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach an dem nechsten mitwochen nach dem meytag / da man von der geburt vnsers lieben herrenn Jhesu Cristi zalt Tusent vier hundert Sibentzig vnd vier Jar / schickte der hertzog von Burgunn zwen treffenlich Ritter siner Räten vnd sinen herolt / für gemeiner eidgno[ssen] botten / gen Lutzern / zů dem vorgenanten über mütigen schriben das er den eidgno[ssen] getan hatt / mit sinen Credentz briefen / vnd liess mit den eidgno[ssen] reden / wie er den fürsten von österrich / ouch den von heüdorf vnd ander des fürsten land vnd lüte in sinen schirm genomen / vnd ouch wie er die Graffschaft pfirt verpfent hette / vnd wer daruff sin will vnd meynung mit gar hochvertigen worten / das die eidgno[ssen] mit dem fürsten von österrich / ouch dem von heüdorf vnd anderen den sinen / nützit vnfruntlichs fürnement vnd ob die eidgno[ssen] mit inen ützit ze tůnde hettent / das si dann des zů recht oder fruntlichen tagen vff inn kement / so wolt er darinne selber handlen vnd rechtsprechen / vnd das anders nieman gestatten dann wo man dis nit tete / so müst er si hanthaben vnd schirmen / vnd wolt si ouch nit verlassen",
+   "preklad": "Potom nejbližší středu po prvním máji, když se od narození našeho milého Pána Ježíše Krista psalo tisíc čtyři sta sedmdesát čtyři let, poslal vévoda Burgundský dva přední rytíře ze svých radních a svého herolda před posly všech Spříseženců do Luzernu, [aby jednali] o zmíněném zpupném listu, který Spřísežencům napsal, se svými pověřovacími listy. A dal se Spříseženci mluvit o tom, jak vzal do své ochrany knížete Rakouského, také Heudorfa a další knížecí země a lidi a jak mu bylo zastaveno hrabství Pfirt. A jeho vůle a mínění prý je – řečeno velmi pyšnými slovy –, aby Spříseženci proti knížeti Rakouskému, ani proti Heudorfovi a jiným jeho lidem nic nepřátelského nepodnikali. A pokud by s nimi Spříseženci měli co činit, ať se s tím na něho obrátí k právu nebo k přátelským sněmům; v té věci chtěl sám jednat a soudit a nikomu jinému to nedovolit. Kdyby se to však nestalo, musel by je [Rakušany] hájit a chránit a také by je neopustil."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 141,
+   "popis": "dokončená kolorovaná miniatura – v síni s trámovým stropem vlevo skupina spříseženských poslů (vousatý muž s knihou), vpravo burgundští vyslanci a válečníci s péry na kloboucích, meči a kušemi, jeden drží tmavou korouhev s ornamentem (burgundské ondřejské kříže / ocílky?); špičaté boty"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 142,
+   "text": "142 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že vévoda Burgundský poslal některé své radní ke všem Spřísežencům do Luzernu, kteří s nimi pyšně mluvili",
+ "poznamky_prekladu": [
+  "Středa po 1. máji (sv. Filip a Jakub) 1474 = 4. 5. 1474 (juliánský kalendář; 1. 5. 1474 byla neděle).",
+  "„fruntliche tage“ = přátelské (smírčí) sněmy, tj. jednání mimo řádný soud.",
+  "„Credentz briefe“ = pověřovací (akreditační) listy poselstva."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

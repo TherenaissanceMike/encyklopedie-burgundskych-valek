@@ -1,0 +1,44 @@
+{
+ "cislo": 322,
+ "nadpis": "Das der houptman von Murten vnd ander dem hertzogen von Burgunn entgegen zuge",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 727,
+ "strany": [
+  727,
+  728
+ ],
+ "odstavce": [
+  {
+   "text": "Des wart der vorgenant houptman von Bůbenberg innen / vnd zoch inen angendes mit Sechs hundert mannen vnerschrocken entgegen vnd iagten si wider hinder sich bis für Wiblisperg hinuß Vnd viengen dazemal ein edelman vnd ein knecht mit inen / die fürten si mit inen gen Murten vmb erfarunge des hertzogen gelegenheit / Si brachten ouch holtz vnd ander ding mit inen heim / des si notdurft warent / vnd beschach inen von gottes gnaden kein leid / dann ir einer ward durch ein arm geschossen / Sy waren ouch vorhin me dann ein mal uff der vienden land geritten / vnd hatten inen grossen schaden getan vnd schriben ouch semlichs von stund an gen Bernn",
+   "preklad": "To zpozoroval zmíněný hejtman von Bubenberg a neprodleně jim neohroženě vytáhl naproti se šesti sty muži. Hnali je zpátky až za Avenches a tehdy s sebou zajali jednoho šlechtice a jednoho knechta. Ty odvedli s sebou do Murtenu, aby se dozvěděli o postavení vévody. Přinesli si také domů dříví a jiné věci, kterých měli potřebu, a z Boží milosti se jim nic zlého nestalo, jen jeden z nich byl prostřelen do paže. Už předtím také víc než jednou vyjeli do nepřátelské země a způsobili jim velkou škodu. A ihned o tom také psali do Bernu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 727,
+   "popis": "kolorovaná kresba – výpad posádky Moratu proti burgundskému předvoji: vlevo burgundská jízda a pěchota pod prapory (sv. Ondřej, ocílky), uprostřed skála, velitel s péry na koni (Bubenberg) se rozhání proti burgundským jezdcům, švýcarští pěšáci s halapartnami; vpředu muž chytá koně, na zemi odhozené píky a zbraně, sedící raněný se šípem a otep (?) ; vpravo nahoře město Morat u jezera s loďkou"
+  },
+  {
+   "strana": 728,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 728,
+   "text": "728 X (pozdější foliace, levý horní roh); text s iniciálou D, pod ním šedě podložený rám pro obrázek (prázdný) a v něm rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 727,
+   "text": "Wiblisperg = Wiblisburg / Avenches; Betterlingen = Payerne"
+  }
+ ],
+ "nadpis_preklad": "Jak hejtman v Murtenu a jiní vytáhli proti vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "„ein edelman vnd ein knecht“ – „knecht“ zde ponechán podle glosáře jako knecht (může jít i o pacholka šlechtice)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

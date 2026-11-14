@@ -1,0 +1,46 @@
+{
+ "cislo": 416,
+ "nadpis": "Das die von lutzernn vnd ander gemein eidgno[ssen] mit iren vennlinen vn[d] den iren ouch troschlich gen Bern kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 929,
+ "strany": [
+  929,
+  930,
+  931
+ ],
+ "odstavce": [
+  {
+   "text": "Darzů kamen ouch die von lutzern vnd ander gemein eidgno[ssen] mit iren vennlinen vnd vil erlicher lüten gen Bernn / aber die von Sollottern vnd friburg ouch den nechsten / Zwar die von Bernn hatten mit inen grossen mergklichen costen an win vnd allen anndern dingen / vnd wurden alle wol empfangen vnd gelassen",
+   "preklad": "K tomu přišli do Bernu také Luzernští a ostatní Spříseženci se svými praporci a mnoha čestnými lidmi, Solothurnští a Fribourgští však nejkratší cestou [přímo]. Bernští s nimi měli opravdu velké a citelné náklady na víno a na všechny ostatní věci; všichni byli dobře přijati a dobře se s nimi zacházelo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 930,
+   "popis": "zástup pikenýrů s bílými kříži pod korouhvemi (Lucern – dělená, korouhev se světcem, dělená tmavá, tmavá) táhne k městu se znakem Bernu (medvěd) na věži; vpředu vojáci s meči, tmavé svahy, keře a voda u cesty"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 930,
+   "text": "930 X (pozdější foliace, levý horní roh); celostránkový obraz (k rubrice na s929), dole odstavec; iniciála D nevyvedena (jen předkreslený tah), pod ním ozdobná kadela"
+  },
+  {
+   "strana": 931,
+   "text": "931 X (pozdější foliace, pravý horní roh); nahoře rubrika s iniciálou D, pod ní celostránkový obraz; bez textu pod obrazem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 930,
+   "text": "Bern nesl velké náklady na pohoštění („an win“)"
+  }
+ ],
+ "nadpis_preklad": "Jak Luzernští a ostatní Spříseženci se svými praporci a lidmi také statečně [?] přišli do Bernu",
+ "poznamky_prekladu": [
+  "„troschlich“ v nadpisu – nejasné slovo (snad „tröstlich“ = statečně, s důvěrou, nebo zkomolené „fruntlich“); v překladu „statečně [?]“.",
+  "„aber die von Sollottern vnd friburg ouch den nechsten“ – smysl nejistý: Solothurnští a Fribourgští patrně táhli nejkratší cestou, ne přes Bern."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

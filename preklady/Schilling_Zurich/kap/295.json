@@ -10,7 +10,7 @@
   },
   {
    "text": "Und am zinstag darnach, als der herzog mit so grossem gewalt und macht vor Murten was, ving man an zü der stat vast graben und leiten die grossen houptbüchsen, namlich zwo hie disenthalb der stat wider Bern zü, do der graf von Röymont lag; darus schos man vast die muren nider uf demselben ort und was gar ein gros geschrei von inen und tröwten inen alle stund zü henken. Es wurden ouch von den vienden etliche bogenpfile in Murten geschossen mit bappiren zedeln.",
-   "preklad": "A v úterý potom, když byl vévoda s tak velkou silou a mocí před Murtenem, začalo se usilovně kopat směrem k městu a postavili velká obléhací děla, totiž dvě z této strany města, směrem k Bernu, kde ležel hrabě z Romontu. Z nich se usilovně střílelo a bořily se hradby na tom místě. Byl od nich slyšet veliký křik a každou hodinu jim vyhrožovali, že je pověsí. Nepřátelé také vstřelili do Murtenu několik šípů z luku s papírovými lístky."
+   "preklad": "A v úterý potom, když byl vévoda s tak velkou silou a mocí před Murtenem, začalo se usilovně kopat směrem k městu a postavili velká obléhací děla (bombardy), totiž dvě z této strany města, směrem k Bernu, kde ležel hrabě z Romontu. Z nich se usilovně střílelo a bořily se hradby na tom místě. Byl od nich slyšet veliký křik a každou hodinu jim vyhrožovali, že je pověsí. Nepřátelé také vstřelili do Murtenu několik šípů z luku s papírovými lístky."
   },
   {
    "text": "An dem einen stünd geschrieben: «ir buren, gebent die stat und slos uf, ir mügent üch nit enthalten, dann alle hemmer möchten nit gelts gnüg slachen, das ir damit erlöst wurden; wir komen bald in die stat und werden üch vachen, ertöten und an üwer gurglen henken.»",
@@ -42,5 +42,6 @@
   "Oprava textu: „serichsnet“ → „gerichsnet“, „Sı/sı“ → „Si/si“, odstraněny zbloudilé znaky „. :“; odstavce rozděleny podle edice (lístky jako samostatné odstavce)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

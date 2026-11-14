@@ -1,0 +1,43 @@
+{
+ "cislo": 11,
+ "nadpis": "Das die von Bernn mit irem paner Vnd gantzer macht in das Sunckgöw zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 30,
+ "strany": [
+  30,
+  31,
+  32,
+  33
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also morndes am zinstag vor Sant Johanns tag zů Sunngichten des vorgenanten Jares Zugen die von Bernn in dem namen gottes vss mit ir paner vnd gantzer macht vn[d] hatten der iren bi inen ob Siben tusent Stritbarer mannen / vnd gar vil wägen karren vnd Söm vass Es zugen ouch mit inen ir getruwen frunde von Friburg vnd von Biell / mit einem erlichen volcke / vnd iren vennlinen / Darzů die von Sanen vnd Graf Wilhelm von Valendis / der von Bernn burger / Vnd waren houptlüt von Bernn herr Adryan von Bůbenberg Ritter herr zů Spietz / herr Niclaus von Scharnachtal Ritter herr zů Oberhofen / Vnd Hartman vom Stein edelknecht / Vnd was venner Ludwig Brügler von dem erberen hantwerk der gerwern Vnd sin houptman vnd ratt peter Kistler von dem erberen hantwerk der metzgern / die ordneten alle sache[n] wol vnd vernünftlich / Man hatt ouch ein ross paner gemacht des houptman was Caspar von Scharnachtal herr zů Brandis / dann die von Bern gar ein erlich ross volck hatten / Es zugen ouch mit inen ir aller getruwesten frunde vnd alten eidgno[ssen] von Sollotern / mit ir Statt paner vnd einem erlichen volcke / Vnd meinten also in dem Sunckgöw vnd der selben art ein strouff reise ze tůnde / vnd die smach vnd den schaden ze rechen / der denen von Mülhusen wider alle billicheit beschechen was / Dis vernamen die anderen eidgnossen / namlich von Zürich / Lutzern / Vre / Switz Vnderwalden / Zug vnd Glarus / vnd seiten von stund an der herschaft ouch ab / vnd ward denen von Vnderwalden ir löuffer / mit irem zeichen / der iren absag brief trůg / von etlichen der herschaft lüten ertrenckt das doch vnerlich vnd schantlich was / Vnd zugen also die selben eidgno[ssen] mit iren offnen panern vnd gantzer macht durch das hegöw über den nidern Howenstein / vnd was inen gar ernst / das si bald zů denen von Bernn vnd Sollotern kemend / Als getruw hertz frunde",
+   "preklad": "A tak nazítří, v úterý před svatým Janem o slunovratu zmíněného roku, vytáhli Bernští ve jménu Božím se svou korouhví a celou mocí a měli s sebou přes sedm tisíc bojeschopných mužů a velmi mnoho vozů, kár a soumarských sudů. Táhli s nimi také jejich věrní přátelé z Fribourgu a z Bielu s čestným lidem a svými praporci, k tomu lidé ze Saanenu a hrabě Wilhelm z Valanginu, bernský měšťan. Hejtmany z Bernu byli pan Adrian von Bubenberg, rytíř, pán na Spiezu, pan Niklaus von Scharnachtal, rytíř, pán na Oberhofenu, a Hartmann vom Stein, panoš. Praporečníkem byl Ludwig Brügler z ctihodného řemesla koželuhů a jeho hejtmanem a radou Peter Kistler z ctihodného řemesla řezníků; ti všechny věci dobře a rozumně uspořádali. Udělali také jezdeckou korouhev, jejímž hejtmanem byl Caspar von Scharnachtal, pán na Brandisu, neboť Bernští měli velmi čestnou jízdu. Táhli s nimi také jejich nejvěrnější přátelé a staří spříseženci ze Solothurnu se svou městskou korouhví a čestným lidem. Zamýšleli tak v Sundgau a v tom kraji podniknout trestnou výpravu a pomstít potupu a škodu, které se Mulhouseským staly proti vší slušnosti. To se dozvěděli ostatní Spříseženci, totiž z Curychu, Luzernu, Uri, Schwyzu, Unterwaldenu, Zugu a Glarusu, a ihned také vypověděli panstvu nepřátelství. Unterwaldenským utopili někteří lidé panstva jejich běžce s jejich znamením, který nesl jejich list o vypovězení války, což bylo nečestné a hanebné. A tak ti Spříseženci táhli se svými rozvinutými korouhvemi a celou mocí přes Hegau a přes Dolní Hauenstein a velmi jim záleželo na tom, aby brzy přišli k Bernským a Solothurnským jako věrní srdeční přátelé."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 31,
+   "popis": "horní dvě třetiny strany – bernské vojsko s korouhví vytahuje (Sundgau 1468)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 32,
+   "text": "32 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 33,
+   "text": "33 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští se svou korouhví a celou mocí táhli do Sundgau",
+ "poznamky_prekladu": [
+  "Úterý před sv. Janem Křtitelem (24. 6., v roce 1468 pátek) = 21. 6. 1468 (juliánský kalendář).",
+  "„Söm vass“ = soumarské sudy (sudy pro náklad na soumarech, míra „som“).",
+  "Hejtmani: Adrian von Bubenberg (pozdější obránce Murtenu 1476), Niklaus von Scharnachtal, Hartmann vom Stein; praporečník Ludwig Brügler. Jízdní korouhev vedl Caspar von Scharnachtal."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -6,19 +6,20 @@
  "odstavce": [
   {
    "text": "22. Das die von Lutzern und etlich ander Eidgnossen mit inen am ersten für die stat Walzhüt zugent und belagent.",
-   "preklad": "22. Jak Luzernští a s nimi někteří další konfederáti táhli jako první k městu Waldshut a oblehli je."
+   "preklad": "22. Jak Luzernští a s nimi někteří další Spříseženci táhli jako první k městu Waldshut a oblehli je."
   },
   {
    "text": "Und als nü die von Bern und von Solotern mit iren panern us dem Sunkow wider heim komen waren, und es inen und andern Eidgnossen von den gnaden des almechtigen gottes wol und glücklichen ergangen was, — dann darumb si usgezogen waren, das hatten si nach irem willen und gevallen wol geschaffet, — da bliben die andern Eidgnossen mit iren panern zü Tüngen und in derselben art, und wolten nit wider heim ziechen, si brechten dann ein ganzen und güten friden mit inen; dann si hatten vernomen, das ein grosser treffenlicher zug der vienden von Behem und andern landen har uf den beinen waren, denen si gern widerstanden hetten. Und besatzten daruf Schafhusen mit noch mer lüten und soldnern, das si von inen einen güten trost und ufenthalt möchten haben; und zugen also am ersten die von Lutzern mit etlichen andern orten uf sant Marien Magdalenen abend durch Baden für die stat Walzhüt, und kamen die andern Eidgnossen alle zu inen mit iren panern. Die von Zürich beschickten ouch angendes ir gros houptbüchsen und andern iren züg, was si dann hatten und darzü nutz und güt was, und leiten den für die stat Walzhüt und vingen an schiessen und werken.",
-   "preklad": "A když se teď Bernští a Solothurnští se svými korouhvemi vrátili ze Sundgau domů a jim i ostatním konfederátům se z milosti všemohoucího Boha vedlo dobře a šťastně – neboť to, proč vytáhli, podle své vůle a libosti dobře vykonali –, zůstali ostatní konfederáti se svými korouhvemi v Tiengenu a v tom kraji a nechtěli táhnout domů, dokud s nepřáteli neuzavřou úplný a dobrý mír. Doslechli se totiž, že je na nohou velké a znamenité vojsko nepřátel z Čech a jiných zemí, a tomu by se rádi postavili. Obsadili proto Schaffhausen ještě dalšími lidmi a žoldnéři, aby v něm měli dobrou oporu a záštitu. Jako první táhli Luzernští s několika dalšími místy v předvečer svaté Máří Magdalény přes Baden k městu Waldshut, a ostatní konfederáti k nim všichni přišli se svými korouhvemi. Curyšští si také hned dali přivézt svá velká obléhací děla (bombardy) a další náčiní, co měli a co se k tomu hodilo, postavili je před město Waldshut a začali střílet a pracovat na obléhání."
+   "preklad": "A když se teď Bernští a Solothurnští se svými korouhvemi vrátili ze Sundgau domů a jim i ostatním Spřísežencům se z milosti všemohoucího Boha vedlo dobře a šťastně – neboť to, proč vytáhli, podle své vůle a libosti dobře vykonali –, zůstali ostatní Spříseženci se svými korouhvemi v Tiengenu a v tom kraji a nechtěli táhnout domů, dokud s nepřáteli neuzavřou úplný a dobrý mír. Doslechli se totiž, že je na nohou velké a znamenité vojsko nepřátel z Čech a jiných zemí, a tomu by se rádi postavili. Obsadili proto Schaffhausen ještě dalšími lidmi a žoldnéři, aby v něm měli dobrou oporu a záštitu. Jako první táhli Luzernští s několika dalšími místy (kantony) v předvečer svaté Máří Magdalény přes Baden k městu Waldshut, a ostatní Spříseženci k nim všichni přišli se svými korouhvemi. Curyšští si také hned dali přivézt svá velká obléhací děla (bombardy) a další výzbroj, co měli a co se k tomu hodilo, postavili je před město Waldshut a začali střílet a pracovat na obléhání."
   }
  ],
  "poznamky": [
   "Tobler: v curyšském originálním rukopisu je mezera od začátku kap. 22 až po „Als man nü vor Walzhüt lag“ v kap. 27 (v Msc. A 54, 55 až po začátek kap. 25). Kap. 22–24 tiskne Tobler podle bernského rukopisu, kap. 25–26 podle Msc. A 54, 55.",
-  "Data (Tobler): konfederáti dorazili do Tiengenu (sv. od Waldshutu) 19. 7. 1468. Předvečer sv. Máří Magdalény = 21. 7. 1468 (jiný pramen uvádí 22. 7.). Hlavní síla Curyšských vytáhla podle Edlibacha až 26. 7.",
+  "Data (Tobler): Spříseženci dorazili do Tiengenu (sv. od Waldshutu) 19. 7. 1468. Předvečer sv. Máří Magdalény = 21. 7. 1468 (jiný pramen uvádí 22. 7.). Hlavní síla Curyšských vytáhla podle Edlibacha až 26. 7.",
   "„von Behem“ = z Čech: zprávy o českém žoldnéřském vojsku na pomoc Rakousku se objevují i v kap. 27.",
   "Opravy OCR: „zig“ → „züg“ (náčiní), „houptbuchsen“ → „houptbüchsen“, vypuštěna dvojtečka po „ouch“."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

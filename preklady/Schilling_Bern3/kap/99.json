@@ -1,0 +1,36 @@
+{
+ "cislo": 99,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] mit etlichen fürsten herren vnd Stetten ein fruntlich vereynung machte",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 209,
+ "strany": [
+  209,
+  210,
+  211
+ ],
+ "odstavce": [
+  {
+   "text": "Do sich nü dis ding also begaben / vnd teglichs gros warnungen kamen / wie der hertzog von Burgunn mit aller siner macht vnd gezüge / harus in tütsch land vnd das Elsess wolt / vnd yederman an den selben enden / in grossen sorgen was / die sach wurde am ersten über si gan / Fůgten sich beid Bischöfe / namlich der durlüchten hochwirdig fürst herr Rüprecht ein Bischof zů Strassburg / pfallentzgraf bi Rine vnd hertzog in peyern / vnd ouch der hochwirdig fürst herr Johanns Bischof zů Basel / der dann einer von venyngen was / darzů des vorgenante[n] heiligen Richs Stette / Strassburg / Basel / Colmar vnd Sletstatt zů samen / als die denen dann dis sweren vnd vngetrüwen löuffe leid vnd vnlidig waren / vnd wol wisten zů betrachten / was dann inen vnd andern tütschen des heiligen Richs glidern / an disen dingen künftiklichen gelegen sin möchte / vnd vnderretten sich darumb so verr vnd witt / das si dis ding vnd ir anligen durch ir treffenlichen räte vnd botten / an gemein eidgno[ssen] als ir gůten frunde vnd nachburen / ouch glider des heiligen Richs / denen si dann ir fromkeit vnd mannlicheit halben / bas dann yeman andern getruwten / vnd denen ouch wie vor zem teil gelütert ist / mengerley widerwertikeit von dem hertzogen von Burgunn vnd sinem lantvogt begegnet was / fruntlich bringen liessen / ir hilf vnd rats begerten / wie man solicher swerer sachen vnd des mannes mit nutz vnd eren abkeme / vnd ward durch die selben fürsten vnd Stette als vil geworben / das si baten vnd begerten / mit den eidgno[ssen] in ein fruntlich vereynung ze komen das ouch beschach / vnd ward semlich vereynung zechen jar gemacht / vnd von allen teilen versigelt vfgericht",
+   "preklad": "Když se nyní tyto věci tak sběhly a denně přicházela velká varování, že vévoda Burgundský chce se vší svou mocí a výzbrojí táhnout sem do německé země a do Alsaska, a každý v těch končinách měl velké obavy, že věc dopadne nejprve na něj, sešli se oba biskupové, totiž osvícený a důstojný kníže pan Ruprecht, biskup štrasburský, falckrabě rýnský a vévoda bavorský, a také důstojný kníže pan Johanns, biskup basilejský, který byl z rodu Venningenů, a k tomu zmíněná města Svaté říše Štrasburk, Basilej, Colmar a Sélestat. Těm byly tyto těžké a nevěrné pletichy protivné a nesnesitelné a dobře uměli uvážit, co by na těchto věcech mohlo v budoucnu záležet jim i jiným německým údům Svaté říše. Poradili se o tom tak daleko a široce, že dali tyto věci a své starosti skrze své význačné radní a posly přátelsky přednést všem Spřísežencům jakožto svým dobrým přátelům a sousedům, rovněž údům Svaté říše. Těm pro jejich statečnost a mužnost důvěřovali více než komukoli jinému a i jim se, jak bylo výše zčásti vyloženo, od vévody Burgundského a jeho zemského fojta dostalo mnohého protivenství. Žádali jejich pomoc a radu, jak by se s užitkem a se ctí zbavili takových těžkých věcí i toho muže. A ta knížata a města vyjednávala tolik, že prosila a žádala, aby se Spříseženci směla vstoupit do přátelského spolku. To se také stalo a ten spolek byl uzavřen na deset let a všemi stranami zpečetěn a zřízen."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 210,
+   "text": "210 X (pozdější foliace, levý horní roh); stránka bez obrázku; dole volné místo"
+  },
+  {
+   "strana": 211,
+   "text": "211 X (pozdější foliace, pravý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a jiní Spříseženci uzavřeli s některými knížaty, pány a městy přátelský spolek",
+ "poznamky_prekladu": [
+  "„fruntlich vereynung“ = tzv. Dolní spolek (Niedere Vereinigung) alsaských měst a biskupů se Spříseženstvem, 1474 (mimo přepis); v textu jen „přátelský spolek“.",
+  "Ruprecht Falcký, biskup štrasburský 1440–1478; Johann von Venningen, biskup basilejský 1458–1478 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

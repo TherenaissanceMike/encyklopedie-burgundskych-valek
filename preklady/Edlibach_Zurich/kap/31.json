@@ -20,8 +20,9 @@
  "poznamky": [
   "Opravy OCR: „bin e vod xx“ → „bin c vnd xx“ (asi 120), „bin ij engelschen“ → „ijᶜ“ (asi 200; Usteriho horní index OCR ztratilo), „ob ec“ → „ob c“ (přes 100), „ja meinung eiwz“ → „jn meinung etwz“, „vod“ → „vnd“, „blündrentend“ → „blündrottend“. Čísla jsou rekonstrukce z poškozeného OCR, je třeba je ověřit v edici nebo rukopisu [?].",
   "„engelschen“ = Angličané, tj. angličtí žoldnéři ve službě Karla Smělého (mimo text).",
-  "Héricourt drželi konfederáti po bitvě u Héricourtu v listopadu 1474 jako posádku (mimo text)."
+  "Héricourt drželi Spříseženci po bitvě u Héricourtu v listopadu 1474 jako posádku (mimo text)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

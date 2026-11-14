@@ -8,11 +8,11 @@
  "odstavce": [
   {
    "text": "Wie Bern und Friburg die Eydgnossen manten, in hilflich ze sin, die schand und mort an den Savoyren rechen.",
-   "preklad": "109. Jak Bern a Fribourg vyzvali konfederáty, aby jim pomohli pomstít tu hanbu a vraždu na Savojanech."
+   "preklad": "109. Jak Bern a Fribourg vyzvali Spřísežence, aby jim pomohli pomstít tu hanbu a vraždu na Savojanech."
   },
   {
    "text": "Do nu sich diss ding also machen wart, [als ir gehört hand], das den Unsren ze Junge, Gransen und Orben veiler kouf abgeschlagen wart und die botten ermürt, bedächte die von Bern und Friburg zü semlichem mütwillen, anreuzen und unerlichen Sachen, so inen unbewart zügefügt wurde von denen, die billicher von sag ir pünden [?] ir lib und güt zü inen setzen sölten, ir eren halb fürer zü den Sachen gedenken ze tünd, und schriben das iren getrüwen Eydgnossen und manten die, zu inen ze ziechen, das sy ouch von stund uff mit trüwen datten.",
-   "preklad": "Když se tedy ty věci takto dály, [jak jste slyšeli,] že našim v Jougne, Grandsonu a Orbe byl odepřen prodej potravin a poslové byli zavražděni, usoudili Bernští a Fribourgští, že kvůli takové svévoli, popouzení a nečestným věcem, které jim bez varování činili ti, kdo by za ně podle znění svých spolků [?] měli spíše nasadit život i statky, musí kvůli své cti pomýšlet na další kroky. Napsali to svým věrným konfederátům a vyzvali je, aby k nim přitáhli, což ti také hned věrně učinili."
+   "preklad": "Když se tedy ty věci takto dály, [jak jste slyšeli,] že našim v Jougne, Grandsonu a Orbe byl odepřen prodej potravin a poslové byli zavražděni, usoudili Bernští a Fribourgští, že kvůli takové svévoli, popouzení a nečestným věcem, které jim bez varování činili ti, kdo by za ně podle znění svých spolků [?] měli spíše nasadit život i statky, musí kvůli své cti pomýšlet na další kroky. Napsali to svým věrným Spřísežencům a vyzvali je, aby k nim přitáhli, což ti také hned věrně učinili."
   }
  ],
  "poznamky_editora": [
@@ -20,9 +20,10 @@
  ],
  "poznamky": [
   "Opravy textu: odstraněn odstavec „SS“ (číslo strany 88) a odkaz „Vgl. Schilling I, 287“; Grausen → Gransen (Grandson), zti/zä → zü, gilt → güt, sotten → sölten, getrüweu → getrüwen; „von sag ir blinden“ čteno jako „von sag ir pünden“ [?] (podle znění jejich spolků).",
-  "Varianta D. N. dodává, že Bernští a jejich věrní spoluměšťané z Fribourgu chtěli vtáhnout [do Vaudu] celou mocí a že Luzernští a jiní konfederáti hned věrně přislíbili pomoc.",
+  "Varianta D. N. dodává, že Bernští a jejich věrní spoluměšťané z Fribourgu chtěli vtáhnout [do Vaudu] celou mocí a že Luzernští a jiní Spříseženci hned věrně přislíbili pomoc.",
   "Büchi: srov. list Fribourgu vévodkyni savojské z 13. 10. 1475; téhož dne vystoupili před fribourgskou radou dva bernští vyslanci a líčili škody, které utrpěli Bernští i Fribourgští, a odepření trhu. Jména zavražděných poslů uvádí Büchi, Freiburger Akten 22."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

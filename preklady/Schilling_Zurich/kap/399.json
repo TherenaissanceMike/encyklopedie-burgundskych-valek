@@ -10,7 +10,7 @@
   },
   {
    "text": "Und als man dann hievor gehört hat von den grossen und merglichen kriegen und striten, so die von Bern und ander ir Eidgnossen und verwanten am ersten mit der herschaft von Oesterich, darnach mit den herzogen von Burgunnen und allen iren verwanten und helfern gehebt und si mit der hilf des almechtigen gottes als glücklich überwunden hand, da haben die von Bern und sunderlich die räte und gewaltigen, durch eins gemeinen nutzes und fromen willen in semlichen grossen kriegen allen nützit dester minder ein gros sum an houptgüt und zinsen, damit die stat swarlich beladen was, abgelöst.",
-   "preklad": "Jak už bylo slyšet výše o velkých a značných válkách a bitvách, které Bernští a jejich další konfederáti a spojenci vedli nejprve s rakouským vévodou a jeho lidmi, potom s burgundským vévodou a všemi jeho spojenci a pomocníky, a které s pomocí všemohoucího Boha tak šťastně překonali: Bernští, a zvláště rady a mocní [města], přesto i během všech těch velkých válek kvůli obecnému dobru a prospěchu splatili velkou sumu jistiny a úroků, jimiž bylo město těžce zatíženo."
+   "preklad": "Jak už bylo slyšet výše o velkých a značných válkách a bitvách, které Bernští a jejich další Spříseženci a spojenci vedli nejprve s rakouským vévodou a jeho lidmi, potom s burgundským vévodou a všemi jeho spojenci a pomocníky, a které s pomocí všemohoucího Boha tak šťastně překonali: Bernští, a zvláště rady a mocní [města], přesto i během všech těch velkých válek kvůli obecnému dobru a prospěchu splatili velkou sumu jistiny a úroků, jimiž bylo město těžce zatíženo."
   },
   {
    "text": "Und hat ouch iederman sin burde müssen tragen und sin libe und güt daran stecken, das man zü einem erlichen ende keme, und hat man dennocht in denselben kriegen, wie lang die gewert hand und wie hart und swer die gewesen sind, kein stür noch tell angeleit. Darzü haben ouch die von Bern gar grossen und merglichen costen müssen haben. Am ersten mit iren lüten und soldnern, so si dann vom anfang aller diser kriegen bis zem ende in iren stetten und slossen gehebt haben, des alles so vil gewesen ist in einem und dem andern, das man es nit wol kan schriben, dann das vorab die gnad gottes und ouch die wissheit und vernunft von Bern darzü geholfen und als erlich geregiert hat, das es zü gütem ende komen, und ist dennocht vast alles über ein stat gangen und ir land und lüte wenig damit beladen worden.",
@@ -28,9 +28,10 @@
  "poznamky": [
   "Oprava textu: do třetího odstavce byly vlepeny zbytky Toblerovy poznámky ke kap. 398 („hern burger ze bringen, den kouf Wildeck hinzülassen, angesechen das er“ a „hus halb en sol man der tag eins mit vernunft anbringen, wie sich“); odstraněny a věta obnovena podle surového OCR. Dále „eosten“ → „costen“, „hanl“ → „hand“ (nadpis), „sı“ → „si“, „gottes Job“ → „gottes lob“.",
   "Tobler k nákladům na stavby: 24. 10. 1481 bylo usneseno předložit Velké radě nařízení, jak stáhnout z oběhu „špatný fenik“ na zaplacení velkých staveb a na koupi obecní pastviny (allmend); nařízení bylo přijato 26. 10. 1481.",
-  "„kein stür noch tell“ = žádná daň ani dávka (glosář: stür = příspěvek). „pension“ = roční penze, kterou francouzský král platil konfederátům (výklad mimo Tobler). „herschaft von Oesterich“ = rakouský vévoda a jeho lidé (POZNAMKY). Are = Aare; Wangen = Wangen an der Aare (mimo Tobler).",
+  "„kein stür noch tell“ = žádná daň ani dávka (glosář: stür = příspěvek). „pension“ = roční penze, kterou francouzský král platil Spřísežencům (výklad mimo Tobler). „herschaft von Oesterich“ = rakouský vévoda a jeho lidé (POZNAMKY). Are = Aare; Wangen = Wangen an der Aare (mimo Tobler).",
   "Úplnost: ř. 17190–17249 projity."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

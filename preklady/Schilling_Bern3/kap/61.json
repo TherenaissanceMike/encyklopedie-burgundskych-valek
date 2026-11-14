@@ -1,0 +1,33 @@
+{
+ "cislo": 61,
+ "nadpis": "Das der hertzog von Burgunn daruf den eidgnossen gar hochmütlich schreip",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 139,
+ "strany": [
+  139,
+  140
+ ],
+ "odstavce": [
+  {
+   "text": "Diser dingen / vnd des hertzogen von österrich nam sich der hertzog von Burgunn an über das doch die eidgno[ssen] semlichs vmb deheiner siner vordern noch inn nie verdient hatten Vnd über vnd wider das sin vatter hertzog philipps löblicher hocher gedechtnüss vnd er mit den erbern Stetten Zürich / Bernn / Friburg vnd Sollotern / in ewiger verschribner vereynung warend / Das doch kein fürsten eren noch wirden halb ze tůnde gezimpt / vnd schreip daruf den selben handel / vnd was er mit dem fürsten von österrich wider die eidgnossen beslossen / vnd wie er den in sinem schirm vnd sunderlich wider die Switzer genomen hett / mit hocher verachtunge gemeinen eidgno[ssen] / stoltzmüticlich von Stetten vnd lendern / die man nampt die Switzer / vnd endrett[?] inen iren gewonlichen tittel des si von altem har von sinem vatter / vnd andern biderben fürsten herren vnd Stetten vertragen / wie wol si dennocht von gottes gnaden der selben endrung vnentteret[?] waren / dennocht müsten si von im also geswecht[?] werden / dann in der selben missiue zem dritten mal / vnd an dem orten geschriben stůnd / dz er den hertzogen von österrich / Sunders wider die Switzer in sinen schirm genomen hette",
+   "preklad": "Těchto věcí i vévody Rakouského se vévoda Burgundský ujal, ačkoli si to Spříseženci nikdy nezasloužili ani u žádného z jeho předků, ani u něho. A to přes to a proti tomu, že jeho otec vévoda Filip, chvalné a vznešené paměti, i on sám byli s ctihodnými městy Curychem, Bernem, Fribourgem a Solothurnem ve věčném, písemně stvrzeném spolku, což žádnému knížeti pro jeho čest a důstojnost nesluší. A napsal pak o tom jednání, o tom, co s knížetem Rakouským proti Spřísežencům ujednal, a jak ho vzal do své ochrany, a zvláště proti Švýcarům, s velkým pohrdáním všem Spřísežencům pyšně, [jako] městům a zemím, kterým se říká Švýcaři. A změnil [?] jim jejich obvyklý titul, který jim odedávna přiznával jeho otec i jiná řádná knížata, páni a města. Ačkoli tou změnou nebyli z Boží milosti zneuctěni [?], přesto od něho museli být takto zlehčeni [?]. Neboť v témž listu stálo potřetí a na tom místě napsáno, že vzal vévodu Rakouského do své ochrany zvláště proti Švýcarům."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 140,
+   "text": "140 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že vévoda Burgundský nato Spřísežencům velmi pyšně napsal",
+ "poznamky_prekladu": [
+  "„endrett[?]“ – čtení nejisté; smysl „změnil, upřel“ (ändern).",
+  "„vnentteret[?]“ – čtení nejisté; smysl „nezneuctěni“ (unentehrt).",
+  "„geswecht[?]“ – čtení nejisté; smysl „zlehčeni, ponížení“ (geschwächt/geschmäht).",
+  "Oslovení „Switzer“ (Švýcaři) místo obvyklého titulu „Spříseženci“ chápali Spříseženci jako urážku. Spolek Filipa Dobrého s Curychem, Bernem, Fribourgem a Solothurnem z roku 1467 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

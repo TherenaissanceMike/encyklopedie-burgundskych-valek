@@ -1,0 +1,41 @@
+{
+ "cislo": 16,
+ "nadpis": "Das die von Bernn vnd Sollotern mit iren gewanten / über das ochsen velt zugen vnd da zwüschen was si funden verwůsten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 39,
+ "strany": [
+  39,
+  40,
+  41
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach brachent die von Bernn mit iren eidgnossen vnd mitburgern / von Sollotern Friburg vnd Biell aber vff / vnd zugen über dz ochsen veld / vnd namen ir leger in einem schönen dorff genant Vffholtz / Vnd ward ouch da zwüschen alles das gewůst vnd verbrant das man vand Sy gewunnen ouch ein Stetli genant Wattwil die selben armen lüte swůren inen angendes / Doch wurdent si bald ir eiden ledig gelassen / durch gottes vnd rechter erbernden willen damit si von iren herren dester gnedlicher wurden gehalten / vnd als man morndes vff brach da ward das schön dorff Vffholtz ouch gantz verbrant / vn[d] ward ouch denen von Tann ir galgen ab gehowen / vnd das dorf alten Tann vor der Statt verbrant / Vnd slůg man sich nider vor Tann / vnd in die dörfer darum Da kamend die von Zürich vnd Switz gen Mülhusen Vnd hatten da zwüschen ouch verbrant was si funden Sy gewunnen ouch das Sloss Pfaffnach / vnd verbranten das in grund / das gar wol getan / dann ein recht roupnüss vnd denen von Mülhusen vnd anderen vil schadens vn[d] kumbers darus beschechen was / vnd ward ouch allerley vnerlichs volckes wider die eidgnossen vnd ir verwante[n] daruf enthalten",
+   "preklad": "Potom se Bernští se svými spříseženci a spoluměšťany ze Solothurnu, Fribourgu a Bielu znovu zvedli, táhli přes Ochsenfeld a rozložili se táborem v pěkné vesnici zvané Uffholtz. Mezitím bylo také zpustošeno a vypáleno všechno, co se našlo. Dobyli také městečko zvané Wattwiller; ti ubozí lidé jim hned přísahali, byli však brzy své přísahy zproštěni pro Boha a z pravého milosrdenství, aby s nimi jejich páni zacházeli tím milostivěji. A když se nazítří táhlo dál, byla i pěkná vesnice Uffholtz úplně vypálena, Thannským byla poražena jejich šibenice a vesnice Alt-Thann před městem vypálena. Pak se rozložili před Thannem a po okolních vesnicích. Curyšští a Schwyzští přišli k Mulhouse a mezitím také vypálili, co našli. Dobyli také hrad Pfaffnach [?] a vypálili ho do základů, což bylo velmi dobře učiněno, neboť to bylo pravé loupežnické hnízdo, z něhož Mulhouseským a jiným vzešlo mnoho škod a soužení, a zdržovala se tam všelijaká nečestná cháska proti Spřísežencům a jejich spojencům."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 40,
+   "popis": "horní dvě třetiny strany – vojsko na Ochsenfeldu, hořící vesnice"
+  },
+  {
+   "strana": 41,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 41,
+   "text": "X 41 (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští se svými spojenci táhli přes Ochsenfeld a pustošili, co mezitím našli",
+ "poznamky_prekladu": [
+  "Pfaffnach – hrad; určení nejisté (snad hrad Pfaffans nebo Pflixburg?), [?].",
+  "Wattwil = Wattwiller, Vffholtz = Uffholtz u Cernay (určení mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

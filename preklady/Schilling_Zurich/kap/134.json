@@ -14,7 +14,7 @@
   },
   {
    "text": "Also glich am morgen frü, do begertent si, das man si mit ir habe abziechen lies, so woltent si stat und slos rumen und übergeben. Das wart inen zügesagt und wart darinne ouch betrachtet das gros glük, das got der almechtig den fromen Eidgnossen und iren zügewanten verluchen hat. Und zugen also us dem slos und der stat der vienden von Burgunnern, Lamparten, Bickarten und andern bi vierdhalbhunderten mit ir habe; die wurdent über die waldstat beleitet, do die slacht beschechen was und die toten allermeist lagen.",
-   "preklad": "Hned časně ráno pak žádali, aby jim dovolili odtáhnout s jejich majetkem; pak že město i hrad vyklidí a vydají. To jim bylo přislíbeno, a přitom se také vzalo v úvahu to veliké štěstí, které Bůh všemohoucí propůjčil statečným konfederátům a jejich spojencům. A tak vytáhlo z hradu a města asi tři sta padesát nepřátel, Burgunďanů, Lombarďanů, Pikarďanů a jiných, i s jejich majetkem. Ti byli vedeni přes bojiště, kde se bitva odehrála a kde leželo nejvíc mrtvých."
+   "preklad": "Hned časně ráno pak žádali, aby jim dovolili odtáhnout s jejich majetkem; pak že město i hrad vyklidí a vydají. To jim bylo přislíbeno, a přitom se také vzalo v úvahu to veliké štěstí, které Bůh všemohoucí propůjčil statečným Spřísežencům a jejich spojencům. A tak vytáhlo z hradu a města asi tři sta padesát nepřátel, Burgunďanů, Lombarďanů, Pikarďanů a jiných, i s jejich majetkem. Ti byli vedeni přes bojiště, kde se bitva odehrála a kde leželo nejvíc mrtvých."
   },
   {
    "text": "Do gesachent si wol, wie es den iren ergangen was; also gab man der herschaft stat und slos in, die swüren ouch angendes zü iren handen, und wart ouch mit houptlüten und soldnern gar wol besetzet, die darnach den vienden darus grossen schaden tatent und ir vil umbbrachtent.",
@@ -22,11 +22,11 @@
   },
   {
    "text": "Also ratslaget man gemeinlich, was man fürer uf die viende fürnemen wolt und satzten die Eidgnossen das der herschaft und den andern stetten bi inen ganz heim, mit inen ze handlen was ir willens und gevallens, nachdem si dann die rechten houptsecher dis krieges werent.",
-   "preklad": "Potom se společně radili, co dál proti nepřátelům podniknout. Konfederáti to zcela ponechali panství a ostatním městům, která byla s nimi, ať s tím naloží podle své vůle a libosti, protože oni byli vlastními hlavními stranami této války."
+   "preklad": "Potom se společně radili, co dál proti nepřátelům podniknout. Spříseženci to zcela ponechali panství a ostatním městům, která byla s nimi, ať s tím naloží podle své vůle a libosti, protože oni byli vlastními hlavními stranami této války."
   },
   {
    "text": "Und wann es nü vast kalt und stets von regen und schne gros ungewitter und sunderlich, das an denselben arten die pestelenz allenthalben richsnete und darzü tür was und man deheiner kuntschaft noch wegwiser hat, das doch den Eidgnossen vorhin gar vil anders zü verstan geben wart, und ouch der herzog von Burgunnen noch dennocht alweg vor Nuss lag und man sinen züg niendert wiste zü treffen, do brach man im namen gots uf und zoch iederman den nechsten wider heim ze ratslagen, was fürer fürzenemen were, und bleip man darnach etwas zites rüwig, doch nit lang, als man harnach wol hören wirt.",
-   "preklad": "A protože bylo velmi chladno a stále panovala velká nepohoda s deštěm a sněhem, a zvlášť protože v těch krajích všude řádil mor a k tomu byla drahota, a protože neměli žádné zprávy ani průvodce (ačkoli konfederátům předtím dávali na srozuměnou něco docela jiného), a také protože vévoda burgundský stále ještě ležel před Neussem a jeho vojsko nebylo nikde k zastižení, zvedli se ve jménu Božím a každý táhl nejkratší cestou domů, aby se radili, co dál podniknout. Potom byl nějaký čas klid, ale ne dlouho, jak se dále uslyší."
+   "preklad": "A protože bylo velmi chladno a stále panovala velká nepohoda s deštěm a sněhem, a zvlášť protože v těch krajích všude řádil mor a k tomu byla drahota, a protože neměli žádné zprávy ani průvodce (ačkoli Spřísežencům předtím dávali na srozuměnou něco docela jiného), a také protože vévoda burgundský stále ještě ležel před Neussem a jeho vojsko nebylo nikde k zastižení, zvedli se ve jménu Božím a každý táhl nejkratší cestou domů, aby se radili, co dál podniknout. Potom byl nějaký čas klid, ale ne dlouho, jak se dále uslyší."
   }
  ],
  "poznamky": [
@@ -38,5 +38,6 @@
   "„houptsecher“ = hlavní strany sporu: Švýcaři nechali další postup na Rakousku a Dolním spolku (Basilej, Štrasburk, Colmar, Sélestat), protože válka byla hlavně jejich věcí."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

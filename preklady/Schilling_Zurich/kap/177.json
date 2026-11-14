@@ -10,7 +10,7 @@
   },
   {
    "text": "Es wurden ouch, diewile man zü Grangii lag, von dero von Bern und andern knechten von Eidgnossen mit hilf dero von Strasburg zwei stark slos mit dem sturm gewunnen, das ein genant Nanlaratscha, das ander Nan, die lagent bi einandern; die wurden geplündert und darnach in füre geleit.",
-   "preklad": "Zatímco se leželo u Granges, dobyli knechti Bernských a jiných konfederátů s pomocí Štrasburských útokem také dva silné hrady, jeden jménem Nans-la-Roche, druhý Nans; ležely blízko sebe. Byly vypleněny a potom zapáleny."
+   "preklad": "Zatímco se leželo u Granges, dobyli knechti Bernských a jiných Spříseženců s pomocí Štrasburských útokem také dva silné hrady, jeden jménem Nans-la-Roche, druhý Nans; ležely blízko sebe. Byly vypleněny a potom zapáleny."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "Oprava textu: „17%.“ → „177.“, „»trasburg“ → „Strasburg“, „ın“ → „in“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

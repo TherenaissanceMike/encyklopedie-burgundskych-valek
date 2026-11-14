@@ -1,0 +1,42 @@
+{
+ "cislo": 207,
+ "nadpis": "Das die von Basel mit ir Statt paner vnd gar vil erlicher lüten / ouch harnach für Blomont kamend",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 437,
+ "strany": [
+  437,
+  438,
+  439
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů die von Bernn das vernamend da wart herr Niclaus von Scharnachtal houptman / darzů die andern venn[er] vnd Räte / des glich die von Sollotern vnd Friburg mit den iren zů ratt / nach dem si dan[n] von iren herren vnd obern mit iren panern vnd sovil erlicher lüten / den iren vnd sunderlich der frommen Statt Straßburg vnd andern / zů eren vnd trost us gevertiget / wie wol dann Blomont gewunnen vnd erobert wer / So wolten si dennocht zů inen ziechen / vnd si besechen damit si trost vnd fröude von einandern hetten vnd zugen also zů inen gen Blomont in dz veld / Des glich kamend die von Basel ouch gar snell harnach / mit ir Statt paner / vnd gar vil erlicher lüten / vnd kam sovil volckes harnach / das si in dem velde / ein grosse türe machten / vnd müst man von inen mangel haben / dann nit Spis harnach gefürt wart als man aber verheissen vnd zů gesagt hatt",
+   "preklad": "Když se to Bernští dozvěděli, usnesli se pan Niklaus von Scharnachtal, hejtman, a k tomu ostatní praporečníci a radní, stejně tak Solothurnští a Fribourgští se svými lidmi: protože je jejich páni a představení vypravili s korouhvemi a s tolika čestnými lidmi ke cti a útěše jejich lidí, a zvláště statečného města Štrasburku a dalších, chtějí k nim přesto táhnout, ačkoli je Blamont dobyt a obsazen, a navštívit je, aby jeden z druhého měli útěchu a radost. Táhli tedy za nimi k Blamontu do pole. Stejně tak přišli velmi rychle za nimi i Basilejští se svou městskou korouhví a s velmi mnoha čestnými lidmi. A přišlo tolik lidu, že v poli způsobili velkou drahotu a kvůli nim byl nedostatek, neboť za nimi nebyly dováženy zásoby, jak se ovšem slíbilo a přislíbilo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 438,
+   "popis": "dokončená kolorovaná miniatura – vojsko s korouhvemi (Bern s medvědem, Solothurn, Basilej) a bubeníkem přichází k Blamontu, jezdec s trubačem; pikenýři s bílými kříži; vpravo stany a prapory s kříži, z městské brány vycházejí ozbrojenci; v pozadí hradby, věže a kostel"
+  },
+  {
+   "strana": 439,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 438,
+   "text": "438 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 439,
+   "text": "439 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; uprostřed kadela, dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Basilejští se svou městskou korouhví a s velmi mnoha čestnými lidmi přišli také za ostatními k Blamontu",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

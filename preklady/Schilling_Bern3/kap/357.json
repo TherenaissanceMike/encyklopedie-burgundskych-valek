@@ -1,0 +1,43 @@
+{
+ "cislo": 357,
+ "nadpis": "Das die hertzogin von Saffoy gevangen vnd darnach gantz geplündert wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 801,
+ "strany": [
+  801,
+  802
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als darnach der Burgunsch hertzog ouch von der Morse für / do hat er mit der hertzogin von Saffoy in vntrüwen angeleit / den rechten hertzogen von Saffoy / vnd die anndern kinde mit im in Burgunn ze füren vmb das er sinen gewalt vnd hochmůt dester witer möcht erzöugen / das begonde die hertzogin dennocht betrachten / vnd wart si gewarnen / vnd vnnderstůnd sich mit den kinden hin ir land zů fügen / vnd heimlich abstelen / das möcht si aber nit zů wegen bringen / vnd wart von etlichen Lampartern So vom hertzogen von Burgunn darzů geordnet warend / mit gewalt vnd gar snödiclichen von irem wagen oder roßbaren genomen / vnd an alle erbermde uff ein roß geworffen / vnd in Burgund gefürt / vnd etlich ir kind mit ir / doch wart der eltest herr vnd recht hertzog von Saffoy / von etlichen sinen dienern heimlich verborgen / das er nit hinweg gefürt wart / Vnd leiten also die hertzogin in ein Sloß in Burgunn gevangen darinn si etwas zites was / bis si nachmalen durch listikeit wider heimlich hinweg kam vnd entran Do wart si aber von etlichen tütschen knechten uffgespertt[?] vnd nider geworfen / vnd alles das si bi ir hatt / cleinöder / cleider vnd anders genomen / vnd ward ir damit dennocht nit der recht lon / den si in disen dingen vmb die von Bernn vnd annder ir eidgno[ssen] gar menigualticlichen verdienet / nach dem si den hertzogen von Burgunn gar vast gestüpfet vnd angereitzt hatt / vnd ein rechter vrsprung vnd hertzbrunn[?] aller diser kriegen was",
+   "preklad": "A když potom burgundský vévoda také odjel z Morges, pojal proti vévodkyni Savojské zrádný úmysl odvézt s sebou do Burgundska pravého vévodu Savojského a ostatní děti, aby mohl tím dále ukázat svou moc a pýchu. To však vévodkyně přece jen prohlédla, byla varována a pokusila se s dětmi odebrat do své země a tajně se vytratit. To se jí však nepodařilo. Někteří Lombarďané, které k tomu burgundský vévoda určil, ji násilím a velmi hanebně vytáhli z jejího vozu či koňských nosítek, bez veškerého slitování ji hodili na koně a odvezli do Burgundska a s ní některé z jejích dětí. Nejstarší pán a pravý vévoda Savojský byl však některými svými služebníky tajně ukryt, takže nebyl odvlečen. A tak vévodkyni uvěznili na jednom hradě v Burgundsku, kde nějaký čas pobyla, až později lstí opět tajně odešla a utekla. Tu ji však někteří němečtí knechti zastavili [?] a srazili k zemi a vzali jí všechno, co měla u sebe, klenoty, šaty a jiné. A ani tím se jí ještě nedostalo pravé odplaty, kterou si v těchto věcech vůči Bernským a ostatním jejich Spřísežencům mnohonásobně zasloužila, neboť burgundského vévodu velmi silně podněcovala a dráždila a byla pravým počátkem a zřídlem [?] všech těchto válek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 801,
+   "popis": "zajetí Jolandy Savojské: v průvodu na koních dvě ženy (vévodkyně v plášti s kožešinou a dvorní dáma v turbanu), obklopené ozbrojenci s píkami a burgundskou korouhví s ondřejským křížem; vpravo krytý kočár se savojským štítem (kříž) tažený koňmi; vlevo hrad na skále"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 802,
+   "text": "802 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); konec odstavce, dole rubrika s iniciálou D (k obrazu na s803)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 802,
+   "text": "Jolanda Savojská unesena do Burgundska (zámek Rouvres), mladý vévoda Filibert ukryt sluhy; vévodkyně označena za „vrsprung“ všech válek; „uffgespertt“, „hertzbrunn“ nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak byla vévodkyně Savojská zajata a potom úplně oloupena",
+ "poznamky_prekladu": [
+  "„roßbaren“ = nosítka nesená koňmi.",
+  "Pravý vévoda = Filibert I. Savojský, tehdy dítě (mimo přepis).",
+  "„uffgespertt [?]“ – nejisté čtení, přeloženo „zastavili [?]“; „hertzbrunn [?]“ – nejisté, přeloženo „zřídlem [?]“.",
+  "Jolanda byla zajata koncem června 1476 u Ženevy a držena na zámku Rouvres; podle jiných pramenů ji v říjnu 1476 vysvobodili lidé francouzského krále (mimo přepis) – Schilling líčí útěk lstí; nesoulad ponechán."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

@@ -1,0 +1,49 @@
+{
+ "cislo": 406,
+ "nadpis": "Das die von vre mit ir paner vnd gantzen machten von semlicher sach wegen am ersten gen liffinen zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 909,
+ "strany": [
+  909,
+  910
+ ],
+ "odstavce": [
+  {
+   "text": "Nů vermeinten die von vre / Si wurden von den lamparten vmb all ir sachen vnd ansprachen vmmůtlich[?] vmb getribe[n] vnd möchten keins rechten gegen inen bekomen / vnd wart me dann ein tag ze lutzern vnd anndern ennden darumb gehalten / Das mocht nit verfachen / dann das etlich der iren am ersten gen liffinen lieffent / vnd da allerley wider die lamparter vnderstůnden an ze fachen / als dann semlicher mutwiller gewonheit ist / Vnd wie wol nů die von Bernn vn[d] ander eidgno[ssen] mit denen von vre me dann ein mal gerett hatten gantz nit an ze fachen vnd die iren wider heim manen / So wolten si darinn handlen das zimlich vnd ir aller ere wer / das mocht nit helfen / Dann das die von vre meinten inen an disen dingen so vil gelegen das si eren halb daruor nit kondent sin / Vnd zugen mit ir paner vnd gantzen macht zů den iren gen liffinen an die gegenwer / Vnd manten von stund an die von Bernn vnd ander eidgno[ssen] zů inen / Do wurden zů Bernn angendes räte vnd burger versampnet / vnd denen von vre zů geseit / das man si bis in den tod nit wolt verlassen / Vnd wurden von stund an houptlüt / namlich herr Adryan von Bůbenberg ritter Schultheis / vnd herr wilhelm von diesbach ouch ritter / darzů ouch peter bomgarter venner von dem erbern hantwerk der Smiden usgezogen / dem wart für einen houptman geben vnd geordnet Bartholome hůber[?] ouch ein venner von den pfistern / vnd wurden alle sachen nach nordurft angesechen",
+   "preklad": "Nuže Urijští měli za to, že je Lombarďané kvůli všem jejich věcem a nárokům zbytečně [?] vodí za nos a že proti nim nemohou dosáhnout žádného práva. Kvůli tomu se konal nejeden sněm v Luzernu i jinde, ale nic to nepomohlo, až někteří z nich nejprve vyběhli do Leventiny a začali tam proti Lombarďanům podnikat všelicos, jak už je zvykem takových svévolníků. A ačkoli Bernští a ostatní Spříseženci nejednou s Urijskými jednali, aby vůbec nic nezačínali a své lidi povolali zpět domů, že oni sami chtějí v té věci jednat tak, jak je to slušné a ke cti jim všem, nepomohlo to. Urijští totiž měli za to, že jim na těch věcech tolik záleží, že se jich kvůli své cti nemohou vzdát. Táhli se svou korouhví a celou mocí ke svým lidem do Leventiny k obrannému postavení a ihned vyzvali Bernské a ostatní Spřísežence ke spojenecké pomoci. Tu byly v Bernu hned shromážděny Malá rada a měšťané a Urijským bylo přislíbeno, že je až do smrti neopustí. Ihned byli vybráni hejtmani, totiž pan Adrian von Bubenberg, rytíř, starosta, a pan Wilhelm von Diesbach, rovněž rytíř, k tomu praporečník Peter Bomgarter z ctihodného kovářského řemesla. Tomu byl za hejtmana dán a ustanoven Bartholome Hůber [?], rovněž praporečník, od pekařů. A všechny věci byly zařízeny podle potřeby."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 909,
+   "popis": "zástup pikenýrů s bílými kříži na zádech táhne pod korouhví Uri (býčí hlava) po horské stezce mezi skalami; vpravo za skálou budovy a řeka/jezero s člunem; vpředu keře a údolí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 910,
+   "text": "910 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz z s909); konec odstavce, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s911)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 909,
+   "text": "„lamparten“ = Lombarďané (Milánští); „vmmůtlich[?]“ nejisté (snad „vnnütlich“ = zbytečně)"
+  },
+  {
+   "strana": 910,
+   "text": "bernští velitelé tažení k Bellinzoně (podzim 1478): Adrian von Bubenberg, Wilhelm von Diesbach, praporečník Peter Bomgarter (kovářský cech), hejtman Bartholome Hůber[?] (praporečník pekařů); příjmení Hůber nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak Urijští se svou korouhví a celou mocí kvůli té věci nejprve táhli do Leventiny",
+ "poznamky_prekladu": [
+  "„vmmůtlich[?]“ – čtení nejisté (snad „vnnütlich“ = zbytečně); přeloženo „zbytečně [?]“.",
+  "„an die gegenwer“ – k obrannému postavení (hranici proti Milánsku v Leventině).",
+  "„räte vnd burger“ – Malá rada a měšťané (tj. Velká rada).",
+  "„Bartholome hůber[?]“ – příjmení nejisté, ponecháno s [?]; „von den pfistern“ = z pekařského cechu.",
+  "„dem wart für einen houptman geben“ – zřejmě hejtman ke korouhvi praporečníka Bomgartera; vztah nejasný.",
+  "Tažení k Bellinzoně: podzim 1478 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

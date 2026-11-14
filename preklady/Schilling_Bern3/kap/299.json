@@ -1,0 +1,51 @@
+{
+ "cislo": 299,
+ "nadpis": "Das die Burgunner So in Famerki warent nachtes heimlich us dem Sloß giengen / vnd all ir roß vnd ouch anders darinn liessent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 658,
+ "strany": [
+  658,
+  659,
+  660
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als dann der hertzog von Burgunn das Slos Famerki ingenomen / vnd wol mit vierdhalb hundert mannen besatt hatt / die im gar lieb vnd sin besten diener waren / Da hatten sich die eidgno[ssen] gar eigentlich vnd gemeinlich vnderrett / das man vor allen dingen lüt us ziechen / vnd darzů ordnen / die das Slos verhůten solten / vmb das man die selben darinne behebe[n] / vnd die biderben lüte So zů Granson erhenckt vnd ertrenckt warend / mit inen gerechen möcht / Es wart aber nachmaln yederman die gewaltigen vnd ander / vff das arbeit selig gůt so gitig vnd begirlich / das man der eren vergaß vnd wart so gantz verwarloset / das die lüt al einer nacht us dem Slos heimlich durch einen berg gingen vnd hin weg kamend / vnd was rossen si da hattent den hüwent si allen ir Spann aderen ab / vnd verwundeten die / damit si nieman me nütz weren / das alles man nachmalen wol sach / darzů vand man ouch vil harnasch vnd anderen züg da / Semlichs die von Bern vnd ander eidgno[ssen] gar übel ward gerüwen / vnd warend aber daran selber schuldig / dann man si wol behalten / wo man anders andern ernst gehebt hett",
+   "preklad": "Když vévoda Burgundský hrad Vaumarcus obsadil a dobře osadil třemi sty padesáti muži, kteří mu byli velmi milí a byli to jeho nejlepší služebníci, Spříseženci se velmi důkladně a společně dohodli, že se především mají vyslat a určit lidé, kteří by hrad hlídali, aby se ti uvnitř udrželi a aby se na nich mohli pomstít řádní lidé, kteří byli v Grandsonu oběšeni a utopeni. Později však byl každý, mocní i ostatní, po tom bídném majetku [?] tak lakomý a dychtivý, že se zapomnělo na čest a všechno bylo tak zanedbáno, že ti lidé jedné noci tajně odešli z hradu přes horu a dostali se pryč. A všem koním, které tam měli, přesekli šlachy a zranili je, aby už nikomu nebyli k užitku; to vše se potom dobře vidělo. Našlo se tam také mnoho zbrojí a jiné výzbroje. Toho Bernští a ostatní Spříseženci velmi litovali, ale byli si tím vinni sami, neboť by je byli dobře udrželi, kdyby k tomu přistoupili s jinou vážností."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 659,
+   "popis": "kolorovaná kresba – burgundská posádka tajně opouští hrad Vaumarcus: vpravo hrad se dvěma věžemi a burgundským praporem s ondřejským křížem, zástup obrněných Burgunďanů s péry a halapartnami se radí, vousatý velitel v klobouku s pérem gestikuluje; vlevo na kopci hlídka Švýcarů s bílými kříži a prapor s Ukřižovaným (?), jezero s loďkou a hory"
+  },
+  {
+   "strana": 660,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 659,
+   "text": "659 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 660,
+   "text": "660 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 658,
+   "text": "po spatření oběšených druhů byli zajatci v hradě Grandson (asi 30) ubiti; ušetřeni jen pán hradu a mladíci – výměnou za Brandolfa vom Stein"
+  }
+ ],
+ "nadpis_preklad": "Jak Burgunďané, kteří byli ve Vaumarcus, v noci tajně odešli z hradu a nechali tam všechny své koně i jiné věci",
+ "poznamky_prekladu": [
+  "„vierdhalb hundert“ = tři sta padesát; ponecháno podle textu.",
+  "„vff das arbeit selig gůt“ – snad arbeitselig = bídný, prokletý; míněna kořist v ležení. Přeloženo „po tom bídném majetku [?]“.",
+  "„Spann aderen“ = šlachy (na nohou koní); koně byli zchromeni."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

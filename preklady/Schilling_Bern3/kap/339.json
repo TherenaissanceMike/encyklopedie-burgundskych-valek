@@ -1,0 +1,55 @@
+{
+ "cislo": 339,
+ "nadpis": "Das der hertzog von Lothringen vnd etlich herren vnd annder vor Murten zů Rittern wurden geslagen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 760,
+ "strany": [
+  760,
+  761,
+  762
+ ],
+ "odstavce": [
+  {
+   "text": "Es wurden ouch vor dem angriff / als mit vnbillich was / gar vil Rittern geslagen / namlich der vorgenant hertzog von Lottringen / der des von gantzem hertzen begert / darzů annder Grafen / frye[n] herren / edel vnd annder from lüte / der ob dru hunderten was / vnd es ouch nachmaln wol verdienten",
+   "preklad": "Před útokem bylo také, jak se slušelo, pasováno velmi mnoho rytířů, totiž zmíněný vévoda Lotrinský, který po tom toužil z celého srdce, k tomu jiní hrabata, svobodní páni, šlechtici a jiní stateční lidé, kterých bylo přes tři sta, a později si to také dobře zasloužili."
+  },
+  {
+   "text": "Vnd also glich dem selben nach beschach der angriff / vnd wart uff beiden siten mit grossen Stein slangen vnd anderen büchsen gar vast geschossen / des etlicher übel engolten hatt Vnd mit vnuerzagtem můt hurrent die reisigen drin / vnd nebend inen das füs volck / als helde / büchsen schützen vnd die langen spies / vnd wurden all ordnungen von stund zerbrochen / Vnd kamen am ersten an einen hag / darüber man nit möcht komen / dann das si widerumb müsten keren / vnd neben zů durch einen engen weg zů roß vnd füs brechen müsten / das leider etlichem übel kam / dann wer der selbe hag nit da gewesen / Sy hettent an dem selben ersten angriff gros lob vnd ere in geleit nach dem dann die Burgunner am ersten ritterlich befunden / vnd ouch in gantzer ordnung ware[n]",
+   "preklad": "A hned nato došlo k útoku a na obou stranách se velmi silně střílelo z velkých serpentin a jiných děl, za což leckterý zle zaplatil. A s neohroženou myslí vrazili jezdci dovnitř a vedle nich pěší lid jako hrdinové, střelci z ručnic a dlouhé píky, a všechny šiky byly ihned rozbity. Nejprve přišli k plotu, přes který nebylo možno se dostat, takže se museli zase obrátit a probít se stranou úzkou cestou na koních i pěšky, což bohužel mnohému zle posloužilo. Neboť kdyby ten plot nebyl býval, byli by si při tom prvním útoku získali velkou chválu a čest, protože Burgunďany zpočátku shledali rytířskými a v plném pořádku."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 761,
+   "popis": "pasování na rytíře před bitvou: skupina klečících obrněnců s bílými kříži, se sepjatýma/zdviženýma rukama; vpravo stojící muž s mečem je pasuje (dotýká se mečem ramene); pozadí kopec, vpravo skála"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 761,
+   "text": "761 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou E a výplňový tah perem"
+  },
+  {
+   "strana": 762,
+   "text": "762 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavec s iniciálou V, dole rubrika s iniciálou D a výplňový tah perem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 761,
+   "text": "přes 300 pasovaných rytířů, mezi nimi René Lotrinský"
+  },
+  {
+   "strana": 762,
+   "text": "„hag“ = burgundský zelený plot / palisáda (Grünhag); útočníci museli odbočit úzkou cestou"
+  }
+ ],
+ "nadpis_preklad": "Jak byl před Murtenem pasován na rytíře vévoda Lotrinský a někteří páni a jiní",
+ "poznamky_prekladu": [
+  "„als mit vnbillich was“ – v přepisu „mit“, smyslem patrně „nit vnbillich“ (jak bylo náležité); přeloženo „jak se slušelo“.",
+  "Mezi pasovanými byl René II. Lotrinský (mimo přepis).",
+  "„Stein slangen“ přeloženo podle glosáře (steinslangen) jako serpentiny."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,40 @@
+{
+ "cislo": 386,
+ "nadpis": "Das die vorgenanten knecht in dem torechtigen leben am ersten gen Lutzern kament / da man si gern wider heim geuertiget hett",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 875,
+ "strany": [
+  875,
+  876
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also an der eschmitwochen des vorgenanten Jares zugent si uß / vnd kament am ersten gen Lutzern / die hetten si gern behalten / dann inen die sachen vnd ir fürnemen leid wz / Vnd was ouch dazemal ein grosser tag / do man allen fliß brucht die zů behalten / Es mocht aber nit sin dann das si über ein irem mütwilligen fürneme[n] nach gan / vnd verfolgen wolten / Vnd von wem si gefragt oder angezogen wurden wz ir sachen oder fürnemen wer / so gaben si ze antwurt Es were das torecht leben / darin si ze samen als hoch gelobt hetten / das si dem nachkomen vnd über ein nit vnnderwegen lassen / oder aber alle darumb sterben wolten / Vnd zugen damit angendes von Lutzern / vnd sunders die zwey örter Vre vnd Switz / die ouch den ersten anfang vnd uffbruch tatent Die von Lutzern hatten ouch mit den iren ir Statt nach aller notdurft besatzt / vnd das darumb getan das si vor inen sicher vnd ir herren möchten sin dann inen ouch allerley vnfruntlicher tröwworten begegnet waren / die ir Statt vnd sunder personen berürten vnd angingen",
+   "preklad": "A tak na Popeleční středu zmíněného roku vytáhli a přišli nejprve do Luzernu. Luzernští by je byli rádi zadrželi, neboť jim ta věc a jejich záměr byly líté. A byl tehdy také velký sněm, na němž se vynaložilo všechno úsilí, aby byli zadrženi. Nebylo to však možné, neboť chtěli za každou cenu jít za svým svévolným záměrem a provést ho. A kdo se jich ptal nebo je oslovil, jaká je jejich věc či záměr, tomu odpovídali, že je to Bláznivý život, v němž si spolu tak vysoce slíbili, že tomu dostojí a za nic to nevynechají, anebo že kvůli tomu všichni chtějí zemřít. A s tím hned z Luzernu táhli, a zvláště obě místa (kantony) Uri a Schwyz, která také učinila první začátek a vytáhla první. Luzernští také obsadili své město svými lidmi, jak bylo zapotřebí, a učinili to proto, aby byli před nimi v bezpečí a mohli zůstat svými pány, neboť i jim se dostalo všelijakých nepřátelských výhrůžek, které se týkaly jejich města i jednotlivých osob."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 875,
+   "popis": "příjezd tažení do Lucernu po jezeře: vlevo město s věžemi a branou, v bráně měšťané pozorují příchozí; dvě velké lodě plné mužů v pruhovaných oděvech s čepicemi a dlouhými píkami, pištec a bubeník na přídi, veslaři; nad loďmi korouhev s kancem (Saubanner); vzadu další loď, skalnatý hrad a hory; dole jezero a ostrůvek/skála"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 876,
+   "text": "876 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); odstavec s iniciálou V, dole rubrika s iniciálou D (k obrazu na s877)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 876,
+   "text": "„eschmitwochen“ 1477 = Popeleční středa, 19. února 1477; „das torecht leben“ – heslo tažení"
+  }
+ ],
+ "nadpis_preklad": "Jak výše zmínění knechti z Bláznivého života přišli nejprve do Luzernu, kde by je byli rádi poslali zpět domů",
+ "poznamky_prekladu": [
+  "Popeleční středa 1477 = 19. 2. 1477 (juliánský kalendář)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

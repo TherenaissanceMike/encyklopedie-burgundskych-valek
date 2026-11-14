@@ -1,0 +1,46 @@
+{
+ "cislo": 417,
+ "nadpis": "Das die von Bernn mit den iren vnd einem vennli ouch us zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 931,
+ "strany": [
+  931,
+  932
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd wart also von denen von Bernn zů einem obresten houptman geordnet herr wilhelm von diesbach ein ritter / dem wurden zů geben zů dem vennli für einen houptman heinrich matter vom ratt / vnd wart zem Schützen vennli geordnet für einen Schützen meister Niclaus zer kinden Vnd trůg das recht vennli Bartholome Hutschelbach[?] was ein metzger / Vnd das schützen vennli wart aber ze tragen beuolhen hanns linder[?] was ein gerwer / Darzů wurden ouch annder sachen wol angesechen vnd geordnet / Vnd zugen also in dem namen der heiligen drivaltikeit an mitwochen vor Bartholomej gar frölich vnd in gůter ordnung hinweg mit einem erlichen volck ze ros vnd fůs",
+   "preklad": "Bernští tedy ustanovili nejvyšším hejtmanem pana Wilhelma von Diesbach, rytíře. K praporci mu byl přidělen jako hejtman Heinrich Matter z rady a ke střeleckému praporci byl ustanoven jako velitel střelců (schützenmeister) Niklaus Zurkinden. Hlavní praporec nesl Bartholome Hutschelbach [?], řezník, a nést střelecký praporec bylo svěřeno Hansi Linderovi [?], koželuhovi. Také jiné věci byly dobře uváženy a uspořádány. A tak ve jménu svaté Trojice ve středu před svatým Bartolomějem odtáhli velmi vesele a v dobrém pořádku s čestným lidem na koních i pěšky."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 931,
+   "popis": "z brány města se znakem Bernu (medvěd) vychází zástup pikenýrů s bílými kříži pod korouhvemi (s křížem, se sluncem s tváří – francouzský královský odznak?, tmavá); vpředu jezdec na bílém koni s péřovým kloboukem a zbrojí (hejtman), pěšák s chocholem; vpravo dřevěný most přes vodu, jezero s člunem, hory v pozadí; vpředu tmavý svah"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 932,
+   "text": "932 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); odstavec s nevyvedenou iniciálou V, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s933)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 931,
+   "text": "bernský „vennli“ (praporec) pro tažení do Francie (srpen 1480)"
+  },
+  {
+   "strana": 932,
+   "text": "bernské velení tažení do Francie (1480): nejvyšší hejtman Wilhelm von Diesbach, hejtman praporce Heinrich Matter z rady, mistr střelců Niclaus zer Kinden; praporečníci: řezník Bartholome Hutschelbach[?] (hlavní praporec) a jirchář Hanns Linder[?] (praporec střelců) – příjmení nejistá; odchod ve středu před sv. Bartolomějem (23. 8. 1480)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští se svými lidmi a s praporcem také vytáhli",
+ "poznamky_prekladu": [
+  "Středa před sv. Bartolomějem (24. 8., v roce 1480 čtvrtek) = 23. 8. 1480 (juliánský kalendář).",
+  "Příjmení praporečníků Hutschelbach[?] a Linder[?] jsou v rukopisu nejistá.",
+  "„das recht vennli“ = hlavní (vlastní) praporec, na rozdíl od střeleckého praporce."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

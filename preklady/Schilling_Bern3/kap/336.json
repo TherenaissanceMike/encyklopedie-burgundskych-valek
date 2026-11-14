@@ -1,0 +1,40 @@
+{
+ "cislo": 336,
+ "nadpis": "Das der Graff von Gryers vnd annder Stett vnd verwanten ouch harnach kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 754,
+ "strany": [
+  754,
+  755
+ ],
+ "odstavce": [
+  {
+   "text": "Der Graf von Gryers mit den sinen zů roß vnd fůs / kam ouch gar erlich vnd wol erzüget / des glich die von Rotwil / Schafhusen Sant Gallen / Appentzel kament ouch mit vil erlicher lüten / vnd erzöugten sich in allen brüderlichen trüwe[n] nach irem besten vermügen",
+   "preklad": "Hrabě z Gruyères se svými lidmi na koních i pěšky přišel také velmi čestně a dobře vyzbrojen; stejně tak přišli Rottweilští, Schaffhausenští, Svatohavelští a Appenzellští s mnoha čestnými muži a prokázali se ve vší bratrské věrnosti podle svých nejlepších sil."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 754,
+   "popis": "příchod hraběte z Gruyères: korouhve s jeřábem (znak Gruyères); zprava jízda se samostřely a trubač, pěší s bílými kříži a píkami; vlevo dvě ženy (jedna s mečem/holí) ukazují na vojsko; v pozadí město s věžemi a pěchota s píkami"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 755,
+   "text": "755 X (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 754,
+   "text": "Gryers = hrabě z Gruyères; Rottweil, Schaffhausen, St. Gallen, Appenzell"
+  }
+ ],
+ "nadpis_preklad": "Jak hrabě z Gruyères a jiná města a spojenci také přitáhli",
+ "poznamky_prekladu": [
+  "Gryers = Gruyères; Sant Gallen = St. Gallen (Svatý Havel)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

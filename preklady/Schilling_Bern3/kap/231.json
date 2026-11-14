@@ -1,0 +1,51 @@
+{
+ "cislo": 231,
+ "nadpis": "Das die Statt Betteringen von denen von Bernn vnd Friburg ouch In genomen vnd gewunnen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 492,
+ "strany": [
+  492,
+  493,
+  494
+ ],
+ "odstavce": [
+  {
+   "text": "[D]o sich nů die von Murten ergeben vnd den beiden Stetten gesworen hatten / Do zoch man morndes am Sonnentag gen Betteringen / In meynung dz ouch ze erobern vnd in ze nemen / Also kamen die erbern lüte in der Statt geistlich vnd weltlich denen von Bernn vnd Friburg engegen riten vnd gan mit iren Slüsseln / vnd ergaben sich ouch mit allem dem rechten / als der Graff von Roymond an inen gehebt hatt / vnd swůren zů beider Stetten handen / Also zoch das volck alles gen Betteringen / vnd bleip man den selben Sonnentag vnd ouch mentag do / dan[n] win vnd brott gnůg da was / das müst ouch yederman bezalen / vnd nam man nieman nit So was ouch dero von Bernn volck noch alles nit byeinandern / der beitet man ouch da / vmb das man zů samen komen / vnd dester sterker vnd sicherer ziechen möcht / vnd ward man ouch da zwüschen zů ratt / was man fürer tůn vnd anfachen wolt",
+   "preklad": "Když se nyní Murtenští vzdali a přísahali oběma městům, táhlo se nazítří v neděli k Payerne s úmyslem dobýt a obsadit i je. Tu vyšli ctihodní lidé z města, duchovní i světští, Bernským a Fribourským vstříc, jízdmo i pěšky, se svými klíči. I oni se vzdali se vším právem, které nad nimi měl hrabě z Romontu, a přísahali do rukou obou měst. Celé vojsko tedy táhlo do Payerne a zůstalo se tam tu neděli i pondělí, neboť tam bylo dost vína i chleba. To však musel každý zaplatit a nikomu se nic nebralo. Také bernský lid ještě nebyl celý pohromadě; i na ten se tam čekalo, aby se spojilo a mohlo se táhnout tím silněji a bezpečněji. Mezitím se tam také radilo, co se má dále dělat a podniknout."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 493,
+   "popis": "kolorovaná kresba – kapitulace Payerne: vojsko s bílými kříži, bubeníkem a pištcem, s bernskou korouhví (medvěd), přechází dřevěný most přes řeku k městu s kostelem; vpravo měšťané podávají jezdci svazek klíčů; v pozadí hory"
+  },
+  {
+   "strana": 494,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (budovy, postavy), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 493,
+   "text": "493 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text (místo pro iniciálu D nevyplněno)"
+  },
+  {
+   "strana": 494,
+   "text": "494 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 492,
+   "text": "Betteringen = Payerne (Peterlingen)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a Fribourští dobyli a obsadili také město Payerne",
+ "poznamky_prekladu": [
+  "„Betteringen“ = Payerne (něm. Peterlingen).",
+  "Neděle po kapitulaci Murtenu = snad 15. října 1475 (mimo přepis; v textu jen „nazítří v neděli“).",
+  "Hrabě z Romontu = Jakub Savojský, hrabě z Romontu, pán Vaudu (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

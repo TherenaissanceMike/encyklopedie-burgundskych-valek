@@ -1,0 +1,40 @@
+{
+ "cislo": 165,
+ "nadpis": "Das die von Sollotern mit ir Statt paner / des glich die von Friburg vn[d] Biell mit iren venlinen / ouch gar fürderlich en gen Ponterlin zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 345,
+ "strany": [
+  345,
+  346,
+  347
+ ],
+ "odstavce": [
+  {
+   "text": "Vs zugen ouch die von Sollottern mit ir Statt paner / darzů die von Friburg vnd Bielle mit iren venlinen us / vnd wie die von Bernn hatten vernomen / das die iren vnd ander von Ponterlin mit gewerter hand abgezogen waren / vnd gros gůt mit inen hatten bracht / nützit dester minder zugent si gestrax in Burgunn / vnd kamen am ersten gen Ponterlin / das namend si von stund an wider in / vnd wolt ir meinen[?] darinn beiten / vnd zugen witer in Burgunn / vnd branten vil schöner dörffern / vnd funden ouch wenig lüten",
+   "preklad": "Vytáhli také Solothurnští se svou městskou korouhví a k tomu Fribourgští a Bielští se svými praporci. A ačkoli se Bernští dozvěděli, že jejich lidé a další odtáhli z Pontarlier se zbraní v ruce a přinesli s sebou velký lup, přesto táhli rovnou do Burgundska. Přišli nejprve k Pontarlier, ihned je znovu obsadili, ale nikdo z nich [?] tam nechtěl vyčkávat, a táhli dál do Burgundska. Vypálili mnoho pěkných vesnic a lidí našli jen málo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 346,
+   "popis": "velká dokončená kolorovaná miniatura – Solothurn, Fribourg a Biel táhnou k Pontarlier: v pozadí hory, jezero s plachetní lodí, hrad na skále; zástup pěšáků s píkami, halapartnami a bílými kříži na prsou, korouhve – pruhovaná, se zkříženými sekerami/halapartnami, černo-bílá; vpravo stany a stromy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 346,
+   "text": "346 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 347,
+   "text": "347 X (pozdější foliace, pravý horní roh); pod rubrikou celostránková miniatura"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Solothurnští se svou městskou korouhví a stejně tak Fribourgští a Bielští se svými praporci také velmi rychle táhli k Pontarlier",
+ "poznamky_prekladu": [
+  "„vnd wolt ir meinen[?] darinn beiten“ – čtení slova nejisté (snad „ir keiner“ = nikdo z nich); překlad podle smyslu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

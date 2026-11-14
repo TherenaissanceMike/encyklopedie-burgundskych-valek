@@ -1,0 +1,42 @@
+{
+ "cislo": 170,
+ "nadpis": "Das die von Lutzernn mit ir Statt paner vnd einem erlichen volcke ouch fürderlich gen Granson kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 354,
+ "strany": [
+  354,
+  355,
+  356
+ ],
+ "odstavce": [
+  {
+   "text": "Die fromen notvesten lüte die von Lutzern / hatten sich ouch zitlichen darzů gerüst gen Ponterlin zů ziechen / vnd die iren vnd ander helfen entschütten / vnd wie wol inen die von Bernn schreiben / das die iren vnd ander von Ponterlin gezogen / vnd nit not were fürer zů ziechen / dann si mit ir paner ouch wider us Burgunn werend komen da bewisten si sich dennocht als getrüw frunde vnd sprachen / wir sind von vnnser getrüwen vnd brüderlichen frunden vnd eidgno[ssen] wegen von Bernn us gezogen / vnd wellen ouch zů inen ziechen / vnd bi inen sterben vnd genesen vnd zugen also mit ir paner / vnd einem gar erlichen wol gewapneten volcke gar fürderlich zů denen von Bernn / vnd wolten sich nieman lassen wenden / bis si zů inen für Granson kame[n] da hielten si sich in allen trüwen mit inen / dz man gein inen ouch niemer mer vergessen sol",
+   "preklad": "Stateční a pevní lidé Luzernští se také včas vystrojili, aby táhli k Pontarlier a pomohli vysvobodit své lidi i jiné. A ačkoli jim Bernští napsali, že jejich lidé a další z Pontarlier odtáhli a že není třeba táhnout dál, neboť se oni [Bernští] se svou korouhví také vrátili z Burgundska, přesto se ukázali jako věrní přátelé a řekli: „Vytáhli jsme kvůli svým věrným a bratrským přátelům a spřísežencům z Bernu a chceme k nim také táhnout a s nimi zemřít i přežít.“ Táhli tedy se svou korouhví a s velmi čestným, dobře ozbrojeným lidem velmi rychle k Bernským a nedali se nikým odvrátit, dokud k nim nepřišli před Grandson. Tam se k nim chovali ve vší věrnosti, takže se jim také nikdy nemá zapomenout."
+  },
+  {
+   "text": "Vnd also von stund an / richten die von Bernn ir büchsen die si bi inen hatten an das Closter zen barfüssen / des glich die von Basel ouch tatent / vnd ward gar erndlich daran geschossen vnd gewerket / darzů schickten ouch die von Bernn us dem velde vm[b] ir grossen houptbüchsen / damit man end möcht geben / die wurden ouch inen angendes nach gesant",
+   "preklad": "A hned potom zamířili Bernští děla, která měli u sebe, na bosácký klášter, stejně tak to učinili Basilejští, a do kláštera se velmi usilovně střílelo a pracovalo se na něm. K tomu poslali Bernští z pole ještě pro svá velká obléhací děla (bombardy), aby se věc mohla skončit; ta jim také byla ihned poslána."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 355,
+   "popis": "velká dokončená kolorovaná miniatura – Lucernští táhnou ke Grandsonu: v pozadí hrad na skále s dvěma vojáky, jezero s loďkou, město s věžemi a hory; zástup pěšáků s píkami a halapartnami, bílými kříži a lucernským praporem (modro-bílý, svisle dělený); vpředu obrněnec s chocholem, žena v šatech mezi vojáky; vpravo kostel s věží, kopce a vědro u studny"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 355,
+   "text": "355 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 356,
+   "text": "356 X (pozdější foliace, levý horní roh); text přes šedě podložený rám (místo pro obrázek); dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Luzernští se svou městskou korouhví a čestným lidem také rychle přitáhli ke Grandsonu",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

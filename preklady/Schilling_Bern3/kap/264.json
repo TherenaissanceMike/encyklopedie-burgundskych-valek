@@ -1,0 +1,36 @@
+{
+ "cislo": 264,
+ "nadpis": "Hienach vindet man von der mort nacht zů Iferdun / vnd wie die selbe[n] an iren herrnn verreter brüchig vnd gantz meyneidig wurdent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 577,
+ "strany": [
+  577,
+  578
+ ],
+ "odstavce": [
+  {
+   "text": "Als nů die vier Stette Bernn / Lutzernn Sollotern vnd Friburg / die zwey Sloß Granson vnd Iferdun mit iren knechten vnd Soldnern besatzt / vnd dennocht nit vil lüten darin getan hatten / dann si inen an beiden enden gar wol getrüwten / vnd meinten mit sunderheit die von Iferdun solten nit brüchig noch meyneid werden / dann man ir gar vast hatt geschont an irem libe vnd gůt / Man hatt inen ouch die acht man von ir Statt / die in den vier Stetten lang zite gelegen warent / vf ir begern vnd gůt vertrüwen wider heim gelassen / als hievor ouch zem teil statt / des hatten si alles vergessen / Vnd leiten also vnder inen allen gemeinlich heimlich verreterie an / vnd geriten betrachten vnd bedencken / wie si den Graven von Roymond / der vorhin ir herr gewesen / vnd bi dem hertzogen von Burgunn was / wider zů inen in ir Statt heimlich bringen möchten / damit die Soldner vnd knecht von den vier Stetten mortlich ertöt vnd vmb bracht wurden / dann der selben nit me dann Sibentzig darinne waren / die inen ir Statt darzů ir lib vnd gůt in trüwen als si ouch taten solten helfen beschirmen",
+   "preklad": "Čtyři města Bern, Luzern, Solothurn a Fribourg obsadila oba hrady Grandson a Yverdon svými knechty a žoldnéři, přesto do nich však nedala mnoho lidí, neboť na obou místech jim velmi důvěřovala. Zvláště se domnívala, že Yverdonští se nezpronevěří ani neporuší přísahu, neboť je velmi šetřila na životě i majetku. Také jim na jejich žádost a v dobré důvěře propustila domů těch osm mužů z jejich města, kteří dlouho leželi [jako rukojmí] ve čtyřech městech, jak již dříve zčásti stojí. To vše zapomněli. A tak mezi sebou všichni společně tajně zosnovali zradu a radili se, uvažovali a přemýšleli, jak by mohli hraběte z Romontu, který byl dříve jejich pánem a byl u vévody Burgundského, tajně přivést zpět k sobě do města. Tím měli být žoldnéři a knechti ze čtyř měst vražedně zabiti a zahubeni. Těch tam nebylo více než sedmdesát a měli jim věrně pomáhat chránit jejich město, a k tomu jejich životy i majetek, jak to také činili."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 578,
+   "text": "578 X (pozdější foliace, levý horní roh); stránka bez obrázku; text s velkou iniciálou A, dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 577,
+   "text": "markrabě přišel o víno ve sklepech zámku v Neuchâtelu a o více než 30 000 zl."
+  }
+ ],
+ "nadpis_preklad": "Zde následuje o vražedné noci v Yverdonu a jak se Yverdonští jako zrádci zpronevěřili svým pánům a stali se zcela křivopřísežnými",
+ "poznamky_prekladu": [
+  "Hrabě z Romontu = Jakub Savojský, hrabě z Romontu, pán Vaudu, v burgundských službách (mimo přepis).",
+  "„geriten“ = gerieten (radili se); doplnění „[jako rukojmí]“ podle smyslu (osm mužů držených ve čtyřech městech)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

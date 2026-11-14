@@ -14,7 +14,7 @@
   },
   {
    "text": "Und als nü dis sachen alle ergangen warent und die von Bern und ander ir gewanten gegen dem grafen von Röymont und den sinen glimpfs und eren gnüg erwart, do hattent si sich mit iren machten zügerüst und versampnet und das den Eidgnossen ouch geschriben, das si zü inen zugen und das mit güter ordnunge tetent; dann si wol hatten vernomen, das die zü Jungii nit als gros not noch trang hatten, und beschach das darumb, das die von Bern und ander ir Eidgnossen in disen dingen mit wolbedachtem rat handlen und ouch ir ere bewaren möchten; und also schicktent die von Bern dem grafen von Röymont iren absagbrief, als harnach stat.",
-   "preklad": "Když se nyní všechny tyto věci staly a Bernští a jejich spojenci vůči hraběti z Romontu a jeho lidem dostatečně zachovali slušnost a čest, přichystali se a shromáždili se svou mocí. Napsali to i konfederátům, aby k nim přitáhli, a to v dobrém pořádku, neboť se dobře dozvěděli, že ti v Jougne nejsou v tak velké nouzi a tísni. Stalo se tak proto, aby Bernští a jejich ostatní konfederáti v těchto věcech jednali s dobře uváženou radou a mohli také zachovat svou čest. A tak Bernští poslali hraběti z Romontu svůj list s vypovězením války, jak následuje."
+   "preklad": "Když se nyní všechny tyto věci staly a Bernští a jejich spojenci vůči hraběti z Romontu a jeho lidem dostatečně zachovali slušnost a čest, přichystali se a shromáždili se svou mocí. Napsali to i Spřísežencům, aby k nim přitáhli, a to v dobrém pořádku, neboť se dobře dozvěděli, že ti v Jougne nejsou v tak velké nouzi a tísni. Stalo se tak proto, aby Bernští a jejich ostatní Spříseženci v těchto věcech jednali s dobře uváženou radou a mohli také zachovat svou čest. A tak Bernští poslali hraběti z Romontu svůj list s vypovězením války, jak následuje."
   }
  ],
  "poznamky": [
@@ -24,5 +24,6 @@
   "Bernský rukopis podle variant: „not und trang“, na konci „Röymont mit irem botten abseiten“ (vypověděli válku po svém poslu)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

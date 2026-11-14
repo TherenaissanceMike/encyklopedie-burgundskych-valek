@@ -1,0 +1,45 @@
+{
+ "cislo": 356,
+ "nadpis": "Das der küng von Napels vnd mit im ander landsherren ouch zer Morse kament vnd balde dannen fluchent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 799,
+ "strany": [
+  799,
+  800,
+  801
+ ],
+ "odstavce": [
+  {
+   "text": "Der küng von Napels kam ouch zer Morse den möcht aber nieman da behalten / des glich ander gros landsherren ouch / die ritten alle mit schantlicher flucht gar snellichen von dannen / von des schreckens vnd sterbender not wegen als vor statt",
+   "preklad": "Král neapolský přišel také do Morges, toho však tam nikdo nemohl udržet, stejně tak ani jiné velké zemské pány. Ti všichni odjeli s hanebným útěkem velmi rychle pryč kvůli strachu a smrtelné nouzi, jak bylo řečeno výše."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 800,
+   "popis": "útěk z Morges: z města s kulatými věžemi vyjíždí skupina jezdců – obrněný muž s korunkou (král neapolský = Federico, princ Tarentský?), pán ve vysoké čepici, burgundští jezdci s ondřejskými kříži a korouhvemi (se lvem / křesadly) a halapartníci; vpravo jezero s loďkou, hrad na skále, stromy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 800,
+   "text": "800 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou D a výplňový tah perem"
+  },
+  {
+   "strana": 801,
+   "text": "801 X (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 800,
+   "text": "„küng von Napels“ – ve skutečnosti Federico, princ z Tarentu, syn neapolského krále"
+  }
+ ],
+ "nadpis_preklad": "Jak král neapolský a s ním jiní zemští páni přišli také do Morges a brzy odtud uprchli",
+ "poznamky_prekladu": [
+  "Schilling: „küng von Napels“; ve skutečnosti Federico Aragonský, princ z Tarentu, syn krále Ferranta (mimo přepis); sám Schilling v kap. 358 (čl. 25) píše „syn krále neapolského“. Podle jiných pramenů opustil Federico burgundské ležení už před bitvou u Murtenu (nesoulad, mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,42 @@
+{
+ "cislo": 350,
+ "nadpis": "Das der Graff von Gryers mit den sinen am ersten gen Losann kam vnd die Statt plündert",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 784,
+ "strany": [
+  784,
+  785
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü die von Bernn vnd annder ir eidgno[ssen] vnd verwanten dennocht in dem leger vor Murten warent / vnd e si dannen zugen vnd gen Milden oder annder ennde kament / da zwüschen hatt sich der Graff von Gryers mit den sinen / von Sanen vnd anndern vff gemacht / vnd für gen Losann in die Statt / da man im keinen widerstant tet / dann der schreck vnd vorcht in si komen was / Vnd fürten er vnd die sinen gar merklich gůt mit inen von dannen / dann si ouch an vingen die Statt plündern Vnd nam yederman anders nit dann das im mit[?] werden möcht",
+   "preklad": "Zatímco Bernští a ostatní jejich Spříseženci a spojenci byli ještě v ležení před Murtenem, a než odtud vytáhli a přišli do Moudonu nebo jinam, vypravil se mezitím hrabě z Gruyères se svými lidmi ze Saanenu a odjinud a vtáhl do Lausanne do města. Tam mu nikdo nekladl odpor, neboť je pojal strach a hrůza. On a jeho lidé odtud odvezli velmi značný majetek, neboť také začali město plenit. A každý bral prostě to, co mohl [?] dostat."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 784,
+   "popis": "jízda hraběte z Gruyères s korouhví s jeřábem a pěší s bílými kříži a píkami táhnou k Lausanne nad Ženevským jezerem (lodě s plachtou, hory); vpravo u brány plenitelé odnášejí kořist na vůz; dole katedrála a kostel mezi stromy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 785,
+   "text": "785 X (pozdější foliace, pravý horní roh); stránka bez obrázku; odstavec s nevyplněnou iniciálou D, dole rubrika s iniciálou D (k obrazu na s786)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 785,
+   "text": "Sanen = Saanen (Gessenay); poslední věta zřejmě „was im werden möcht“"
+  }
+ ],
+ "nadpis_preklad": "Jak hrabě z Gruyères se svými přišel do Lausanne jako první a plenil město",
+ "poznamky_prekladu": [
+  "Graff von Gryers = hrabě z Gruyères (Ludvík z Gruyères, mimo přepis), spojenec Bernu.",
+  "Sanen = Saanen (Gessenay).",
+  "„das im mit[?] werden möcht“ – slovo „mit“ nejisté, snad nadbytečné; smysl „co se mu dostalo do rukou“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

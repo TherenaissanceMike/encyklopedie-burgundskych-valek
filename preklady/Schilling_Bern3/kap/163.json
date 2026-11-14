@@ -1,0 +1,47 @@
+{
+ "cislo": 163,
+ "nadpis": "Das die Burgunner / Lamparter vnd Bickarten mit grossen machten für Ponterlin zugen / vnd einen Sturm daran tatent / die wile dennocht die eidgnossen darinne warent / vnd nit schüffent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 341,
+ "strany": [
+  341,
+  342,
+  343,
+  344
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also bleibent si darinn mit gewalt bis an den Sechsten tag / vnd hatten an win / brot / vnd andern dingen kein mangel / vnd sunderlich an gůtem win / der si gantz frölich macht / do zwüschen hattent sich die Burgunner / Lamparter vnd Bickarten in dem gantzen lande / mit gar grossen machten zů ross vnd füs versampnet / der me dann zwölf tusent warent / als nachmaln von dem widerteil selber gerett wart / vnd zugen miteinandern gen Ponterlin / vnd meinten die Statt vnd das Slos wider zů gewynnen / vnd die eidgno[ssen] darinn vmb zů bringen / vnd vingent die Statt an stürmen an allen orten / vnd hatten ouch darzů geordnet allen zug / von leitern vnd was zů einem Sturm gehort / also wart den eidgno[ssen] als not vnd ernst / das si von stund an us dem Slos luffen / vnd machten ein ordnung ze ring vmb an den muren der Statt / vnd vermeinten der sach ein widerstand ze tůnde vnd sich der grossen machten zů erweren / dann ouch die muren der Statt gar nider vnd vnwerlich waren / vnd vachten als ritterlich vnd mannlich mit inen / das si von gottes gnaden den Sturm behielten / vnd der vienden me dann zwey hundert wurden erslagen / gar redlicher lüten / das die viend nachmalen selber retten / vnd kam der eidgno[ssen] von gottes gnaden gar wenig vmb / dann etlich wurden wund / die kamen wider / es wurden ouch an dem selben Sturm zwo panern vnd etwie menig venli gewunnen / die si miteinandern teilten / also zugen die viend so mit grossen machten schantlich vnd vneerlichen ab / vnd getorsten die eidgno[ssen] nit angreiffen / vnd da si also abgezogen warent / da namen die eidgno[ssen] in der Statt vn[d] in dem Slos / was si mochten mit inen bringen vnd stiessen die Statt mit füre an / vnd zugent mit gewerter hand von allen vienden / das inen gantz nit beschach",
+   "preklad": "A tak tam zůstali mocí až do šestého dne a neměli nedostatek vína, chleba ani jiných věcí, a zvláště ne dobrého vína, které je velmi rozveselilo. Mezitím se Burgunďané, Lombarďané a Pikarďané po celé zemi shromáždili ve velmi velké moci na koních i pěšky, bylo jich přes dvanáct tisíc, jak potom vypravovala sama protistrana. Táhli spolu k Pontarlier a zamýšleli město i hrad znovu dobýt a Spřísežence v něm zahubit. Začali město ze všech stran útočit a připravili k tomu také všechnu výzbroj, žebříky a co k útoku patří. Spřísežencům tu šlo do tuhého a bylo to tak vážné, že ihned vyběhli z hradu a rozestavili se dokola na hradbách města, neboť chtěli té věci vzdorovat a ubránit se velké moci; hradby města totiž byly velmi nízké a neschopné obrany. Bojovali s nimi tak rytířsky a mužně, že z Boží milosti útok ubránili a nepřátel padlo přes dvě stě, velmi zdatných lidí, jak potom vypravovali sami nepřátelé. Spříseženců z Boží milosti padlo velmi málo; někteří byli raněni, ale ti se vrátili. Při témž útoku také získali dvě korouhve a několik praporců, které si mezi sebou rozdělili. Tak nepřátelé s tak velkou mocí odtáhli hanebně a nečestně a neodvážili se Spřísežence napadnout. A když takto odtáhli, vzali Spříseženci ve městě a na hradě, co mohli odnést, zapálili město a odtáhli se zbraní v ruce [?] přede všemi nepřáteli, takže se jim vůbec nic nestalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 342,
+   "popis": "velká dokončená kolorovaná miniatura – burgundský útok na Pontarlier: spříseženci s bílými kříži brání hradby a věže (obránce s obouručním mečem na věži, vrhač kamenů); zleva útočí masa burgundských pěšáků v přilbách s ondřejskými kříži (X), s korouhvemi pruhovanými a s ondřejským křížem, šplhají po žebřících; padlí útočníci pod hradbou; v pozadí stany, kopec s figurkami, jezero s loďkou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 342,
+   "text": "342 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 343,
+   "text": "343 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám (místo pro obrázek); dole kadela"
+  },
+  {
+   "strana": 344,
+   "text": "344 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Burgunďané, Lombarďané a Pikarďané táhli s velkou mocí k Pontarlier a podnikli na něj útok, zatímco v něm ještě byli Spříseženci, a nic nepořídili",
+ "poznamky_prekladu": [
+  "Rubrika: „vnd nit schüffent“ = a nic nepořídili (podmětem jsou útočníci).",
+  "„Mit gewerter hand“ = se zbraní v ruce, ozbrojeně, v bojovém pořádku; překlad podle smyslu.",
+  "Událost: obsazení Pontarlier dobrovolníky ze Spříseženstva a burgundský protiútok na jaře 1475 (srov. dopis Štrasburku v kap. 180: město drželi šest dní, útok trval celý čtvrtek)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

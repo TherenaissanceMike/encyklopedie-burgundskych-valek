@@ -1,0 +1,42 @@
+{
+ "cislo": 12,
+ "nadpis": "Das die von Bernn vnd von Sollotern mit anderen iren verwanten / Habkessen die höltzen Statt / in namen vnd gewunnen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 33,
+ "strany": [
+  33,
+  34,
+  35
+ ],
+ "odstavce": [
+  {
+   "text": "Aber die von Bernn vnd Sollotern mit anderen iren verwanten / namen iren striche[?] wider Habkessen da durch nider / bergs halb den nechsten gen Mülhusen zů / da si essen vnd trincken gnůg funden / Vnd was da zwüschen ze ring vmb was / das verbranten vnd wůstent si Vnd zugent gar snelle gegen Habkessen der höltzinen Statt / In gantzer meynung die mit dem Swert vnd Sturm ze erobern / dann die viend hatten davor gar vil tröw worten getriben / vnd vermeint in der höltzinen Statt zů beiten / vnd da eins sturms vnd Streites erwarten / Vnd hatten darumb mit buwen vnd anderen dingen grossen costen daruf geleit damit si einen widerstand möchten tůn / Vnd als man dar kam / da hatten si die Statt gerumpt / vnd ir eignen frunde vnd die armen lüte selber geplündert Vnd was nieman me da / Doch vand man gar vil gůts wins vnd wenig wasser / dann si hatten die brunnen verworffen vnd verslagen / vnd bleip man dem gůten starcken win / zwen tage aneinanderen zů dienst da des menger gar fröulichen ward / Vnd als man dannen zoch / da starkt[?] man die höltzen Statt an allen orten an / vnd ward in grund verbrant / des menglich begnüglich[?] was / Die von Bernn hiessen ouch mit grossen arbeiten vnd costen / die nechsten hüser vmb die kilchen ab brechen / vmb das der mit iren gezierden wurde geschonet / als das von gottes gnaden beschach / Vnd als man dennocht in der höltzine[n] Statt was da kament die zweyhundert man von Bern vnd Sollotern von Mülhusen / vnd mit inen die von Mülhusen mit ir Statt paner / vnd enpfingen ir herren mit frölichem hertzen vnd fröuden als nit vnbillichen was dann si erst am dritten tage hatten vernomen das man als nache bi inen lag / Vnd wurden also an dem abzuge die selben zweyhundert man in die vorhůt mit irem vennli geordnet für das Sloss Brunstatt / dafür man angendes ein gewaltig vnd gros leger slůg / vnd vinig man glich an die in dem Sloss zů nötigen / dermassen das si sich balde ergaben vnd gnaden begerten / des si ouch durch gottes willen gewert vnd vff genomen wurden / vnd zugen mit ir habe ab / von menglichem vnbekümbert / Vnd ward darnach das schön Sloss geplündert / vnd gantz verbrönt /",
+   "preklad": "Bernští a Solothurnští s dalšími svými spojenci však vzali svou cestu [?] k Habsheimu dolů podél hor nejkratší cestou k Mulhouse, kde našli dost jídla a pití. A co bylo mezitím všude kolem, to vypálili a zpustošili. Táhli velmi rychle k Habsheimu, Dřevěnému městu, s pevným úmyslem dobýt ho mečem a útokem, protože nepřátelé předtím mnoho vyhrožovali a zamýšleli v Dřevěném městě vyčkat a tam čekat útok a boj. Vynaložili proto na stavby a jiné věci velké náklady, aby mohli klást odpor. A když tam přišli, město vyklidili, sami vyplenili své vlastní přátele a chudé lidi a nikdo už tam nebyl. Našlo se však velmi mnoho dobrého vína a málo vody, protože studny zasypali a zničili. A tak se dva dny po sobě sloužilo dobrému silnému vínu, z čehož mnohý velmi zveselel. A když se odtamtud táhlo, zapálilo [?] se Dřevěné město ze všech stran a bylo vypáleno do základů, s čímž byli všichni spokojeni [?]. Bernští také s velkou námahou a náklady dali strhnout nejbližší domy kolem kostela, aby byl ušetřen i se svou výzdobou, což se z Boží milosti stalo. A když byli ještě v Dřevěném městě, přišlo z Mulhouse oněch dvě stě mužů z Bernu a Solothurnu a s nimi Mulhouseští se svou městskou korouhví a přivítali své pány s radostným srdcem a veselím, jak to nebylo nic divného, protože teprve třetího dne se dozvěděli, že se leží tak blízko u nich. Při odchodu byli oněch dvě stě mužů se svým praporcem zařazeni do předvoje před hrad Brunstatt, před nímž se ihned rozložilo mocné a velké ležení. Hned začali obránce hradu tísnit tak, že se brzy vzdali a prosili o milost, která jim byla pro Boha udělena a byli přijati. Odtáhli se svým majetkem, nikým neobtěžováni. Potom byl ten pěkný hrad vypleněn a úplně vypálen."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 33,
+   "popis": "dvě třetiny strany – jízda a pěchota s korouhvemi před dřevěným opevněním (Habsheim)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 34,
+   "text": "34 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 35,
+   "text": "35 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští s dalšími svými spojenci vzali a dobyli Habsheim, Dřevěné město",
+ "poznamky_prekladu": [
+  "„striche[?]“ – nejisté čtení, smysl „cesta, směr tažení“ (Streich).",
+  "„starkt[?] man … an“ – nejisté čtení, smysl „zapálilo se“ (anstecken).",
+  "„begnüglich[?]“ – nejisté čtení, smysl „spokojený“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

@@ -19,5 +19,6 @@
   "Opravy OCR: sı → si, „.die“ → „die“. Odstavce sloučeny/rozděleny podle edice (podle konců řádků v surovém OCR)."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

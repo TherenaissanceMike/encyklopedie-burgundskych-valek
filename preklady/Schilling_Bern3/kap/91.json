@@ -1,0 +1,42 @@
+{
+ "cislo": 91,
+ "nadpis": "Das der hertzog von Burgunn wider vom lande für / vnd die vorgenanten botten mit stoltzen worten abwiset",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 196,
+ "strany": [
+  196,
+  197,
+  198
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü die vorgenanten botten semlich sachen an den hertzogen von Burgunn hatten bracht als dann die Instruction hievor wiset / da wart inen wenig güter antwurt noch ustragss[?] vnd wurden vf die zite mit stoltzen worten im fürer nach ze riten abgewisen / Vnd als man vermeint er solte etwas zites bliben sin / vnd das vnd anders im lande zů gůtem bringen / da rust er sich heimlichen zů / vnd macht sich den nechsten us dem lande wider heim in Burgunn / vnd liess aber den hagenbach das witen Swin[?] nach sinem mutwillen regieren",
+   "preklad": "Když nyní zmínění poslové přednesli vévodovi Burgundskému tyto věci, jak ukazuje výše uvedená instrukce, dostalo se jim málo dobré odpovědi či vyřízení [?] a byli tehdy pyšnými slovy odbyti, ať za ním jedou dál. A když se mělo za to, že [vévoda] nějaký čas zůstane a tuto i jiné věci v zemi uvede k dobrému, tajně se přichystal a nejkratší cestou odjel ze země zpět domů do Burgundska. Hagenbacha, „das witen Swin“ [?], však nechal dál vládnout podle jeho svévole."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 197,
+   "popis": "dokončená kolorovaná miniatura – Karel Smělý odjíždí: obrněný vévoda na koni se zdviženou rukou odmítá/odbývá posly; vlevo skupina poslů a jezdců s péry, trubač; vpravo burgundská jízda s korouhví s ondřejským křížem a bílou korouhví s iniciálami „KAR“; v pozadí město se štíty domů a hory s hrady, řeka/brod v popředí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 197,
+   "text": "197 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 198,
+   "text": "198 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévoda Burgundský opět odjel ze země a zmíněné posly odbyl pyšnými slovy",
+ "poznamky_prekladu": [
+  "„ustragss[?]“ – čtení nejisté; snad ustrag = vyřízení, rozhodnutí; přeloženo „vyřízení [?]“.",
+  "„das witen Swin[?]“ – nejasné, ponecháno v originále. Snad nadávka na Hagenbacha („to divoké prase“), nebo zkomolené místní jméno; ověřit v rukopisu.",
+  "Instrukce poslů viz kap. 90. Karel Smělý pobýval v Horních zemích (Alsasko, Breisach) na přelomu 1473/1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

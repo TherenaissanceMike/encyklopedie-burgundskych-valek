@@ -1,0 +1,43 @@
+{
+ "cislo": 81,
+ "nadpis": "Das der hertzog von Meyland sich gegen gemeinen eidgno[ssen] gar fruntlich erbott",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 167,
+ "strany": [
+  167,
+  168,
+  169
+ ],
+ "odstavce": [
+  {
+   "text": "Es schickte ouch in disen dingen / vnd darnach vmb Sant Dyonisien tag des vorgenanten Jares / der hertzog von Meylant / genant Galiatz Maria Forcia / sin volmechtig botschaft gen Lutzernn zů gemeiner eidgno[ssen] botten / Vnd liess inen sagen / das hertzog Sigmund von österrich vmb ein püntnüss an im würbe / wider die eidgnossen / das hette er kurtz abgeslagen / vnd wolt ouch das nit tůn / Sunder als ein fromer fürste die ewigen Cappitel / so er vnd die eidgno[ssen] zůsamen hetten / an inen halten / Er begert ouch das sich die eidgno[ssen] mit zem keiser / oder hertzogen von Burgunn / wider im verbunden / das wolt er ouch tůn / Vnd ob die eidgno[ssen] siner lüten oder geltes notdürftig werend / wolt er inen gern mitteilen / mit vil glatter vnd güter worten / Ob aber er sin zůsagen gehalten / oder was er in disen dingen den eidgno[ssen] zů gůtem oder argem getan hatt / das wirt man hienach bas hören vnd vernemen / da er die sinen mit grossen scharen wider die eidgno[ssen] hat lassen ziechen / Si sind aber von gottes gnaden nit all wider heim komen / Vnd inen ir rechter verdienter Sold worden / als harnach bas erlütert wirt",
+   "preklad": "V těch věcech a potom kolem svatého Diviše výše jmenovaného roku poslal také vévoda milánský, jménem Galeazzo Maria Sforza, své zplnomocněné poselstvo do Luzernu k poslům všech Spříseženců. Dal jim říci, že se u něho vévoda Zikmund Rakouský uchází o spolek proti Spřísežencům; to prý rázně odmítl a ani to nechce učinit, nýbrž jako řádný kníže chce vůči nim dodržet věčné kapituly, které spolu se Spříseženci mají. Žádá také, aby se Spříseženci [ne]spojovali s císařem nebo s vévodou Burgundským proti němu; totéž chce činit i on. A kdyby Spříseženci potřebovali jeho lidi nebo peníze, rád jim je poskytne – a to vše s mnoha uhlazenými a dobrými slovy. Zda však svůj slib dodržel a co v těch věcech Spřísežencům učinil dobrého či zlého, to se dále lépe uslyší a pozná, až nechal své lidi ve velkých zástupech táhnout proti Spřísežencům. Z Boží milosti se však nevrátili všichni domů a dostalo se jim jejich pravého, zaslouženého žoldu, jak bude dále lépe vyloženo."
+  },
+  {
+   "text": "Und als ich dann hievor gemelt vnd angezogen han / wie der hertzog von Burgunn so mit grossem gewalt / hochvart vnd richtům / vnd sunderlich mit der Crone / dem zepterun / vnd andern dingen darzů dienende zů dem vorgenanten Römschen keiser gen Trier komen / vnd in meynung was / er solt von im zů einem küng gekrönt vnd in hochvart erhebt worden sin / das aber nit beschach / als hievor ouch gemelt ist / Da gab in dem selben zite der genant hertzog von Burgunn / dem vorgenanten Römschen keiser ouch sinem Sun Maximianen / vnd andern fürsten vnd herrenn die by im warent / gar ein köstlich mal / vnd erzöugt damit sinen gewalt vnd hochvart als hienach geschriben statt / Vnd ouch denen von Bernn vnd andern eidgno[ssen] von einer Statt von Cöln geschriben wart",
+   "preklad": "Jak jsem již výše uvedl a zmínil, přijel vévoda Burgundský s tak velkou mocí, pýchou a bohatstvím, a zvláště s korunou, žezlem a jinými věcmi k tomu potřebnými, k výše jmenovanému římskému císaři do Trevíru a domníval se, že ho korunuje na krále a v pýše povýší; to se však nestalo, jak je také výše řečeno. V tom čase vystrojil jmenovaný vévoda Burgundský výše jmenovanému římskému císaři, také jeho synu Maximianovi a jiným knížatům a pánům, kteří byli s ním, velmi nákladnou hostinu a ukázal tím svou moc a pýchu, jak je dále popsáno a jak to také Bernským a jiným Spřísežencům napsalo město Kolín."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 168,
+   "text": "168 X (pozdější foliace, levý horní roh); stránka bez obrázku; dole volné místo s kadelou"
+  },
+  {
+   "strana": 169,
+   "text": "169 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se vévoda milánský vůči všem Spřísežencům projevil velmi přátelsky",
+ "poznamky_prekladu": [
+  "Sv. Diviš (Dionysius) = 9. 10. „Výše jmenovaný rok“ je u Schillinga 1471 [?] (kap. 79) = 9. 10. 1471; podle jiných pramenů jde o události roku 1473 (nesoulad, mimo přepis).",
+  "„mit zem keiser“ – v textu stojí „mit“, smysl vyžaduje „nit“ (nespojovali se); přeloženo „[ne]spojovali“, ověřit v rukopisu.",
+  "„ewigen Cappitel“ = věčné kapituly, smlouvy Spříseženců s Milánem (1467; mimo přepis).",
+  "„rechter verdienter Sold“ – ironie: myšleny milánské oddíly, které později táhly s Karlem Smělým a padly (Grandson, Murten).",
+  "Maximian = Maxmilián, pozdější císař Maxmilián I. (jméno ponecháno podle pramene)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

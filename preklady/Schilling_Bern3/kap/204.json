@@ -1,0 +1,38 @@
+{
+ "cislo": 204,
+ "nadpis": "Die antwurt so die von Bernn vnd ander ir verwanten denen von Blomont vff ir anbringen gabent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 432,
+ "strany": [
+  432,
+  433,
+  434
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd da man das von inen vernam / da ward menglich fro / dann man kein hoffnu[n]g hatt / das man es mit dem Sturme hett mögen gewynnen / dann ouch die Statt vnd Sloß gar gůt / vnd das aller sterckest in Burgunn wz Vnd gab man inen ze antwurt / man were in semlicher meynung dar komen / das man si nöten vnd mit dem Swert erobern wolt / dann man ein semlich macht darvor hette / vnd ouch noch als gros volck von Bernn vnd andern enden harnach keme / das si den hertzogen von Burgunn noch nieman andern bedörften noch wolten entsitzen Doch so wolt man nach irem begern inen gnad tůn / vnd si alle mit ir habe abziechen lassen In denen worten / das si inen Statt vnd Sloß zů iren handen lidiclich übergeben / damit zů handlen vnd tůn nach irem gevallen / Dann inen vnd den iren semlicher grosser schad vnd müttwillen darus beschechen / das si es über ein haben Doch wolt man yederman von mannen frowen vnd kinden mit ir habe lassen abziechen / vnd nieman nit tůn / vnd anders wolt man si nit ufnemen / dis antwurt ward inen lüter zů verstan geben / vnd beschach das darumb / das si nachmaln nit möchten sagen / man hette inen gůt wort geben / vnd darüber witer fürgenomen / oder an inen nit gehalten",
+   "preklad": "Když se to od nich dozvěděli, každý se zaradoval, neboť nebylo naděje, že by se město dalo útokem dobýt; vždyť město i hrad byly velmi dobré a nejpevnější v celém Burgundsku. Dali jim za odpověď: přišli sem s tím úmyslem, že je chtějí přimět a dobýt mečem, neboť mají před městem takovou moc a za nimi ještě přichází tolik lidu z Bernu a odjinud, že se nemusejí ani nechtějí bát ani vévody Burgundského, ani nikoho jiného. Přesto jim chtějí podle jejich žádosti prokázat milost a nechat je všechny odtáhnout s jejich majetkem, avšak s tou podmínkou, že jim město a hrad zcela volně vydají do rukou, aby s nimi mohli naložit a učinit podle své vůle. Neboť jim a jejich lidem z něho vzešlo tolik velké škody a svévole, že se na tom shodli. Přesto chtějí každého – muže, ženy i děti – nechat odtáhnout s jejich majetkem a nikomu nic neudělat; jinak je přijmout nechtějí. Tato odpověď jim byla dána jasně na srozuměnou, a stalo se to proto, aby později nemohli říkat, že se jim dávala dobrá slova a pak se proti nim přesto podniklo něco dalšího nebo se jim slovo nedodrželo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 433,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 433,
+   "text": "433 X (pozdější foliace, pravý horní roh); text s iniciálou V psán přes šedě podloženou nedokončenou miniaturu; dole kadela"
+  },
+  {
+   "strana": 434,
+   "text": "434 X (pozdější foliace, levý horní roh); nahoře rubrika, miniatura, dole text s iniciálou A"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Odpověď, kterou Bernští a jejich další spojenci dali obráncům Blamontu na jejich návrh",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -10,11 +10,11 @@
  "odstavce": [
   {
    "text": "Wie sich vil gesellen usser dem Sungöw uff machten und hinin gan Blamund zugen und wolten da geroubet han. Do wart ir ob hunderten erschlagen und ir vil gevangen.",
-   "preklad": "47. Jak se mnoho tovaryšů ze Sundgau vypravilo a táhlo dovnitř [do Burgundska] k Blamontu, kde chtěli loupit. Tam jich bylo přes sto pobito a mnoho z nich zajato."
+   "preklad": "47. Jak se mnoho druhů ze Sundgau vypravilo a táhlo dovnitř [do Burgundska] k Blamontu, kde chtěli loupit. Tam jich bylo přes sto pobito a mnoho z nich zajato."
   },
   {
    "text": "Item uff dasselb zitt als vorstatt brachten ouch die von Basel an gemein Eydgnossen, wie das sy ettlich von dem land, dem Sungöw, besampnet hetten, ouch mit inen vil gesellen usser der herschaft Pfirt mit inen, und zugen hinin in Burgün wider Blamont und an dieselben ort, die vygent ze schedigen und zu beröben. Und sy an ordnung zugen und grössren flis uff das roubgüt hatten denn uff die vygent, wurden ir by hundert von den vygenden erschlagen und ob hundert gevangen und enweg gefürt.",
-   "preklad": "Item, v tutéž dobu, jak stojí výše, oznámili Basilejští také obecným konfederátům, že se shromáždili někteří [lidé] ze země, ze Sundgau, a s nimi také mnoho tovaryšů z panství Pfirt (Ferrette), a táhli dovnitř do Burgundska proti Blamontu a do těch míst, aby nepřátelům škodili a oloupili je. A protože táhli bez pořádku a dbali víc na kořist než na nepřítele, nepřátelé jich asi sto pobili a přes sto zajali a odvlekli."
+   "preklad": "Item, v tutéž dobu, jak stojí výše, oznámili Basilejští také obecným Spřísežencům, že se shromáždili někteří [lidé] ze země, ze Sundgau, a s nimi také mnoho druhů z panství Pfirt (Ferrette), a táhli dovnitř do Burgundska proti Blamontu a do těch míst, aby nepřátelům škodili a oloupili je. A protože táhli bez pořádku a dbali víc na kořist než na nepřítele, nepřátelé jich asi sto pobili a přes sto zajali a odvlekli."
   }
  ],
  "poznamky_editora": [
@@ -27,5 +27,6 @@
   "Oproti Schillingovi: kapitola u Schillinga chybí (Büchi: „Fehlt Schilling“). Molsheim výslovně připisuje porážku nekázni: táhli „bez pořádku“ a víc dbali na kořist než na nepřítele."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

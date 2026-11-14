@@ -18,7 +18,7 @@
   },
   {
    "text": "Es ritten ouch vil grosser herren und ander güt lüte, der namen ich nit weis, mit iren güldinen scharinen, verdackten rossen und andern köstlichen dingen von harnesch, cleidern und anderm in den sewe und understünden überzüswemmen; si zarten ouch iren harnesch, cleider und anders, was si konden oder mochten von inen zü uffenthalt und lengrung ir lebens und wann si lang gezableten und nit erschossen und erslagen wurden, so gingent si von rechter angst und not mit den rossen under, das doch ein gros not und iemerlich ding was. Si hattens aber umb den almechtigen gotte mit ir hochvart und übermüt wol verdienet, daran alle fromen Berner und biderben lüte gedenken und sich vor unnützer hochvart hüten und in gottes gebotte und gehorsamkeit bliben sullent, so mag inen niemer misslingen.",
-   "preklad": "Také mnoho velkých pánů a jiných dobrých lidí, jejichž jména neznám, vjelo se svými zlatými válečnými plášti, s koňmi v pokrývkách a s jinými drahocennými věcmi ze zbroje, šatů a podobně do jezera a pokoušeli se je přeplavat. Strhávali ze sebe zbroj, šaty a co jiného mohli, aby si udrželi a prodloužili život. A když se dlouho zmítali a nebyli zastřeleni ani ubiti, šli z čirého strachu a nouze i s koňmi ke dnu, což byla jistě velká bída a žalostná věc. U všemohoucího Boha si to však svou pýchou a zpupností dobře zasloužili. Na to mají pamatovat všichni stateční Bernští a poctiví lidé, chránit se zbytečné pýchy a setrvávat v Božích přikázáních a poslušnosti; pak se jim nikdy nic nezdaří špatně."
+   "preklad": "Také mnoho velkých pánů a jiných dobrých lidí, jejichž jména neznám, vjelo se svými zlatými livrejemi, s koňmi v bardách a s jinými drahocennými věcmi ze zbroje, šatů a podobně do jezera a pokoušeli se je přeplavat. Strhávali ze sebe zbroj, šaty a co jiného mohli, aby si udrželi a prodloužili život. A když se dlouho zmítali a nebyli zastřeleni ani ubiti, šli z čirého strachu a nouze i s koňmi ke dnu, což byla jistě velká bída a žalostná věc. U všemohoucího Boha si to však svou pýchou a zpupností dobře zasloužili. Na to mají pamatovat všichni stateční Bernští a poctiví lidé, chránit se zbytečné pýchy a setrvávat v Božích přikázáních a poslušnosti; pak se jim nikdy nic nezdaří špatně."
   },
   {
    "text": "Es wurden ouch etlich uf den hochen bomen, daruf si von rechter tötlicher angst und not gestigen waren, erstochen; die müsten leren fliegen on alles gefider; darzü warent vil frowen under inen, die sich in harnesch hatten angeleit; der wurden ouch etlich unerkant erstochen und umbbracht, doch wo man die mocht erkennen, so tet man inen nit; dann es etlichen darzü kam, das si ir schamen und brust endecken und zöugen müsten.",
@@ -43,12 +43,13 @@
   "Bernský rukopis má u výpadu posádky vlastní podnadpis („Das etlich soldner von Murten us der stat in das Lampersch here lüffen“) a text: „Když to hejtman v Murtenu zpozoroval a pochopil, že Bernští a jiní jsou v poli a táhnou na vévodu, nechal…“. Hejtmanem je Adrian von Bubenberg. Pozdější ruka připsala, že Lombarďané vysypali peníze z měšců do jezera, aby z nich nikdo neměl užitek.",
   "U stromů má bernský rukopis podnadpis („Das der vienden etlich uf den hochen bömen erstochen … wurden“) a pozdější ruka připsala „ouch in bachöfen und hüsern“ (i v pecích na chleba a v domech).",
   "„moss“ = Velké blato (Grosses Moos), rovina mezi severním koncem Murtenského jezera a obcemi Kerzers, Ins a Gampelen (Tobler). Wiblispurg = Avenches.",
-  "„scharinen“ = válečné pláště (Tobler); „verdackte ross“ = koně s pokrývkami (čabrakami); „zarten“ = strhávali; „gezableten“ = zmítali se; „endlich knechte“ = zdatní knechti (Tobler: tüchtig).",
+  "„scharinen“ = livreje (glosář; Tobler: Waffenröcke); „verdackte ross“ = koně v bardách (pokrývkách); „zarten“ = strhávali; „gezableten“ = zmítali se; „endlich knechte“ = zdatní knechti (Tobler: tüchtig).",
   "„leren fliegen on alles gefider“ (učit se létat bez peří) je úsloví, které užívá i Veit Weber v písních o Pontarlier a Murtenu (Tobler).",
   "Tobler: nikoho nebrat do zajetí, ale nepřátele zabíjet, ukládala přísaha do pole, kterou sněm schválil 18. 3. 1476. Pronásledování podle Etterlina až k Payerne (podle Toblera rozhodně příliš daleko), podle Kagenecka jedna velká míle.",
   "Etterlin uvádí místo dvou výstřelů Romontových lidí na Murten tři (Tobler). Hrabě z Romontu = Jakub Savojský.",
   "„die obenus fluchen“ [?]: doslova „kteří prchali nahoru ven“, tj. asi jinou cestou než přes blata."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

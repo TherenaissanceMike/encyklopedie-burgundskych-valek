@@ -1,0 +1,38 @@
+{
+ "cislo": 183,
+ "nadpis": "Hienach vindet man geschriben von des zugs vnd reisen wegen gen Blomont vnd an ander ende / vnd wz man in dem selben zuge Stetten vnd Slosse gewunnen vnd erobert hatt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 396,
+ "strany": [
+  396,
+  397,
+  398
+ ],
+ "odstavce": [
+  {
+   "text": "[D]arnach als die von Bernn vnd ander so bi inen vor Granson vnd an andern ende waren wider heim kamen vnd ir sachen mit hilf des almechtigen gottes gar wol geschaffet hatten / vnd inen glücklich gangen was / vnd aber der krieg zwüsche[n] inen vnd Burgunn offen stůnd Da luffen nützit destminder gůt gesellen von Bernn vnd andern eidgno[ssen] In Burgunn / vnd an ander ende / die viend zů schedigen / Vnd taten inen grossen schaden mit merglichem berouben / vechs vnd ander dingen / ouch mit erstechen vnd vmb bringen gar vil lüten / des glich namen si ouch etwann hin widerumb von inen schaden / Als man dann in semlichs kriegs übungen erwarten müss / Es hat ouch der küng von Franckrich ein merglichen reisigen züg wider Lothringen ligen zů widerstand dem hertzogen von Burgund / der dann dem hertzogen von Lothringen sin gantz hertzogthům mit gewalt vnd on recht angewunnen vnd im davon vertriben hatt / als hievor ouch statt",
+   "preklad": "Potom, když se Bernští a ostatní, kteří s nimi byli před Grandsonem a na jiných místech, vrátili domů a s pomocí všemohoucího Boha své věci velmi dobře vyřídili a dařilo se jim šťastně, válka mezi nimi a Burgundskem však stále trvala, vybíhali nicméně stateční druhové z Bernu a od ostatních Spříseženců do Burgundska a jinam, aby škodili nepřátelům. A působili jim velké škody značným loupením dobytka a jiných věcí, také tím, že probodli a pobili velmi mnoho lidí. Stejně tak občas utrpěli zase škodu od nich, jak se toho při takových válečných akcích dlužno očekávat. Také francouzský král měl proti Lotrinsku rozložený značný jízdní sbor na odpor vévodovi Burgundskému, který vévodovi Lotrinskému násilím a bez práva vzal celé jeho vévodství a vyhnal ho z něj, jak také výše stojí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 397,
+   "popis": "velká kolorovaná historizovaná iniciála D – v krajině klečí obrněný bernský praporečník s bernskou korouhví (medvěd), před ním na zemi helma a hromádky kořisti; v oblacích vlevo Panna Maria s Ježíškem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 397,
+   "text": "397 X (pozdější foliace, pravý horní roh); velká historizovaná iniciála D v akantovém rámu, text obtéká vpravo; dole kadela"
+  },
+  {
+   "strana": 398,
+   "text": "398 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá miniatura z rubu); nahoře rubrika, pak text s iniciálou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Zde se najde psáno o tažení a výpravě k Blamontu a na jiná místa a o tom, jaká města a hrady byly na tomto tažení dobyty a vybojovány",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

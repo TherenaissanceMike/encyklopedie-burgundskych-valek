@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "290. Das der herzog von Burgunnen von sinem leger zü Losann schied, und mit allem sinem züge und ganzer macht gegen Murten zoch.",
-   "preklad": "290. Jak vévoda burgundský opustil svůj tábor u Lausanne a se vším svým vojskem a celou mocí táhl k Murtenu."
+   "preklad": "290. Jak vévoda burgundský opustil svůj tábor u Lausanne a se vší svou výzbrojí a celou mocí táhl k Murtenu."
   },
   {
    "text": "Und also an einem samstag vor der heiligen drivaltikeit tag des vorgenanten iares schied der herzog von Burgunnen mit unsaglicher grosser macht und allem sinem züge von buchsen, bulver und andern dingen us sinem leger und wasenburg zü Losann gegen der stat Murten zü, und ruckt sin vorhüt ein teil bis gen Wiblispurg und in dieselben gegnen züuringumb, und tribent grossen mütwillen und hochvart und meinten, es solt alles nach irem willen gan; der herzog beleip aber persönlich zü Betterlingen.",
-   "preklad": "A tak v sobotu před svátkem Nejsvětější Trojice téhož roku vytáhl vévoda burgundský s nevýslovně velkou mocí a se vším svým vojskem, s děly, prachem a jinými věcmi, ze svého tábora a vozové hradby [?] u Lausanne k městu Murtenu. Jeho předvoj postoupil zčásti až k Avenches a do okolních krajů. Tropili velkou svévoli a pýchu a mysleli si, že vše půjde podle jejich vůle; vévoda sám však zůstal v Payerne."
+   "preklad": "A tak v sobotu před svátkem Nejsvětější Trojice téhož roku vytáhl vévoda burgundský s nevýslovně velkou mocí a se vší svou výzbrojí, s děly, prachem a jinými věcmi, ze svého tábora a vozové hradby [?] u Lausanne k městu Murtenu. Jeho předvoj postoupil zčásti až k Avenches a do okolních krajů. Tropili velkou svévoli a pýchu a mysleli si, že vše půjde podle jejich vůle; vévoda sám však zůstal v Payerne."
   },
   {
    "text": "Des wart der vorgenant houptman in Murten innen, und zugen inen angendes us der stat mit sechshundert mannen gar unerschrocken engegen und iagtent si wider hindersich bis für Wiblispurg hinus; und viengen desselben mals ein edelman und ein knecht mit im, die fürtent si mit inen gen Murten, umb erfarung des herzogen gelegenheit. Si brachten ouch holz und ander ding mit inen heim, des si notdürftig warent, und beschach inen von gnaden gots kein leid, dann ir einer wart durch ein arm geschossen. Si warent ouch vorhin me dann einmal uf der vienden land getreten und hatten inen grossen schaden getan und schribent semlichs von stund an gen Bern.",
@@ -26,5 +26,6 @@
   "Oprava textu: odstraněno číslo řádku „2%“, „mütwulen“ → „mütwillen“; odstavce rozděleny podle edice."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

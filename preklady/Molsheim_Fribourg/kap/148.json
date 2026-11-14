@@ -30,11 +30,11 @@
   },
   {
    "text": "Item man fand ouch in dem leger unsäglich gros kolben, waren us bly gemacht als lang mortaxen und suss vil mortaxen, spies, hantbogen, pfilen, schwertren und ander werinen, gross huffen, die all nüw zügerüst waren. Darzü fand man me denn ein fass voll helsingen und stricken, denn er sich verwegen hatt, die fromen von [Bern und Friburg] ze henken, darvor gott mit sinen gnaden was. Item er hatt ouch in dem leger ein münz uffgericht und hatt all hoffart und all köstlichkeit manigfaltig by im gehept, als sich das nachmalen wol erzöugte, denn es in kurzem darzü kam, das in alle Eydgnoschaft und in ander stett und land so köstliche sydenkleider an rücken, wamsel und andren köstlichem gewand getragen werden, die als gemein sind als ander gewand.",
-   "preklad": "Dále se v táboře našlo nevýslovně mnoho velkých palic, udělaných z olova a dlouhých jako válečné sekery (mortaxen), a jinak mnoho válečných seker, kopí, ručních luků, šípů, mečů a jiných zbraní ve velkých hromadách, samá nová výzbroj. K tomu se našel víc než sud plný oprátek a provazů, neboť se odvážil statečné [Bernské a Fribourgské] věšet, před čímž je Bůh svou milostí ochránil. Dále si v táboře zřídil i mincovnu a měl u sebe všechnu pýchu a nádheru hojnou měrou, jak se pak dobře ukázalo; neboť zakrátko došlo k tomu, že se v celém Spříseženstvu i v jiných městech a zemích nosily tak drahocenné hedvábné šaty, suknice, kabátce (wamsel) a jiné drahocenné oděvy, že byly stejně běžné jako jiné šaty."
+   "preklad": "Dále se v táboře našlo nevýslovně mnoho velkých palcátů, udělaných z olova a dlouhých jako válečné sekery (mortaxen), a jinak mnoho válečných seker, kopí, ručních luků, šípů, mečů a jiných zbraní ve velkých hromadách, samá nová výzbroj. K tomu se našel víc než sud plný oprátek a provazů, neboť se odvážil statečné [Bernské a Fribourgské] věšet, před čímž je Bůh svou milostí ochránil. Dále si v táboře zřídil i mincovnu a měl u sebe všechnu pýchu a nádheru hojnou měrou, jak se pak dobře ukázalo; neboť zakrátko došlo k tomu, že se v celém Spříseženstvu i v jiných městech a zemích nosily tak drahocenné hedvábné šaty, suknice, kabátce (wamsel) a jiné drahocenné oděvy, že byly stejně běžné jako jiné šaty."
   },
   {
    "text": "149. Dise nachgeschriben stuck sind gan Luzeren in gemeiner Eydgnossen namen in die bütt komen, so ouch vor Granssen gewunnen sind.",
-   "preklad": "149. Tyto níže zapsané kusy, rovněž ukořistěné před Grandsonem, přišly do kořisti v Luzernu ve jménu všech konfederátů."
+   "preklad": "149. Tyto níže zapsané kusy, rovněž ukořistěné před Grandsonem, přišly do kořisti v Luzernu ve jménu všech Spříseženců."
   },
   {
    "text": "Item am ersten an silbrin kannen, blatten, schalen, bechren und andrem silbrin geschir und suss von wissem silber, das man gewegen hat, düt by vier zentner schwer, macht 800 mark.",
@@ -58,9 +58,10 @@
   "Text: opraven nadpis („goid, Silber und edlem w gestern“ → gold, silber und edlem gestein). Z konce odstavce [1] odstraněny Büchiho poznámky (k pasování v kap. 146, viz tam) a samostatný odstavec s jeho poznámkou ke Knebelovi (viz níže). V popisu dýky doplněno podle surového textu vypadlé „15“ (perel; Schilling má rovněž 15) a odstraněno číslo řádku („i fi“); „lieft“ → heft (jílec). Další drobné opravy OCR.",
   "Text: odstavec [5] je skrytý nadpis kap. 149 (Büchi: vgl. Schilling C. 274, al. 1–4); přeložen jako mezititulek, nic nepřesunuto.",
   "Büchi: podle Knebela věnovali Bernští hedvábný stan sv. Vincenci (bernskému minsteru) a dali z něj udělat bohoslužebná roucha. O dělení ostatků viz Eidgenössische Abschiede III/1 a Ochsenbein 654.",
-  "Oproti Schillingovi: Molsheim neuvádí Schillingův odhad ztráty přes milion zlatých (jen „nejmenší část“ vyšla najevo; varianta Sch. má „ani dvacetina“), počet 4000 olověných palic ani otrávené šípy; oprátky byly podle něj určeny pro „Bernské a Fribourgské“ (Schilling: zbožné křesťany). Navíc píše, že ze stanu starého vévody byla v Bernu ušita mešní roucha a že kupci a kramáři k tomu dostali rány a byli pobodáni. Diamant je „velký jako vlašský ořech“ (Schilling: jako půl ořechu) a u dýky jsou rubíny „malé“ (rubinli).",
+  "Oproti Schillingovi: Molsheim neuvádí Schillingův odhad ztráty přes milion zlatých (jen „nejmenší část“ vyšla najevo; varianta Sch. má „ani dvacetina“), počet 4000 olověných palcátů ani otrávené šípy; oprátky byly podle něj určeny pro „Bernské a Fribourgské“ (Schilling: zbožné křesťany). Navíc píše, že ze stanu starého vévody byla v Bernu ušita mešní roucha a že kupci a kramáři k tomu dostali rány a byli pobodáni. Diamant je „velký jako vlašský ořech“ (Schilling: jako půl ořechu) a u dýky jsou rubíny „malé“ (rubinli).",
   "Míry: 4 centy (zentner) = 800 hřiven (mark) stříbra, stejně jako u Schillinga."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

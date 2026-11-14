@@ -1,0 +1,45 @@
+{
+ "cislo": 375,
+ "nadpis": "Das der hertzog von Lotthringen den hertzogen von Burgunn in siner Statt zů Nanse mit grossen wirden vnd eren bestatten ließ",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 852,
+ "strany": [
+  852,
+  853,
+  854
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also nam der hertzog von Lotthringen den toten hertzogen von Burgunn / vnd lies den mit grossen eren vnd wirdikeiten als dann wol zimlich vnd billich was / In siner Statt zů Nanse bestatten / der almechtig gott welle demnach nach minem begern siner armen / vnd darzů allen andern gloubigen selen barmhertzig vnd gnedig sin",
+   "preklad": "A tak vzal vévoda Lotrinský mrtvého vévodu Burgundského a dal ho s velkou ctí a důstojností, jak bylo náležité a spravedlivé, pohřbít ve svém městě Nancy. Všemohoucí Bůh buď potom podle mého přání milosrdný a milostivý k jeho ubohé duši a k tomu ke všem ostatním věřícím duším."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 853,
+   "popis": "pohřeb Karla Smělého v kostele v Nancy: gotická loď s mřížovanými okny; vlevo procesí s kříži na žerdích a smutečními korouhvemi, kněží a měšťané; uprostřed dva hrobníci ukládají mrtvého do kamenné hrobky, vedle druhá otevřená tumba s mrtvým; vpravo kněží s knihami a vědrem se svěcenou vodou u oltáře s krucifixem, Pannou Marií a svícny; v popředí náhrobní deska s rytinou rytíře ve zbroji"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 853,
+   "text": "853 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V (nevyplněnou) a výplňový tah perem"
+  },
+  {
+   "strana": 854,
+   "text": "854 X (pozdější foliace, levý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 853,
+   "text": "pohřeb v kostele sv. Jiří v Nancy"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda Lotrinský nechal vévodu Burgundského pohřbít se velkou důstojností a ctí ve svém městě Nancy",
+ "poznamky_prekladu": [
+  "Pohřben v kolegiátním kostele sv. Jiří v Nancy; 1550 převezen do Bruggy (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

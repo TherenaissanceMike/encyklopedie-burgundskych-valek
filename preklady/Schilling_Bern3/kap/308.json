@@ -1,0 +1,40 @@
+{
+ "cislo": 308,
+ "nadpis": "Das die von Friburg ouch einen houptman mit achtzig gewapneter mannen / vnd einem vennli gen Murten schicktent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 694,
+ "strany": [
+  694,
+  695
+ ],
+ "odstavce": [
+  {
+   "text": "Die von Friburg die sich an denen von Bernn vnd andern eidgno[ssen] gar erberlich vnd fromclich gehalten hand / schickten ouch von ir Statt einen houptman mit achtzig werlicher mannen gen Murten / nach dem inen dann Murten zem halb teil gehört / die selben mit denen von Bernn vingen an tag vnd wercken / vnd machten vor der Statt vssen vnd ouch innen an der rinck[mur] gar starck höltzin bolwerck / vnd versorgten die Statt an allen orten mit büchsen / bulver / vnd andn[!] züge nach aller notdurft / vnd schickt man inen ouch tag vnd nacht von Bernn vnd Friburg wes si begerten vnd notdürftig warend / dann der ernste groß / So was ouch die gemein rede in semlicher maß das man sich wol versach / der hertzog wurde sin leger darfür slachen",
+   "preklad": "Fribourgští, kteří se k Bernským a ostatním Spřísežencům chovali velmi čestně a poctivě, poslali také ze svého města do Murtenu hejtmana s osmdesáti ozbrojenými muži, neboť jim Murten napůl patřil. Ti spolu s Bernskými začali dnem i nocí pracovat a postavili venku před městem i uvnitř na hradbách velmi silné dřevěné bolverky (předsunuté bašty) a zásobili město na všech místech děly, prachem a další výzbrojí podle vší potřeby. Z Bernu a Fribourgu jim také dnem i nocí posílali, čeho si žádali a co potřebovali, neboť šlo o velmi vážnou věc. Také obecná řeč byla taková, že se všichni dobře nadáli, že vévoda rozbije ležení před ním."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 694,
+   "popis": "kolorovaná kresba – fribourgský oddíl s černobílým praporem a bubeníkem a pištcem táhne k Moratu; pikenýři s bílými kříži, velitel ukazuje na bránu města s mříží a prázdným štítem; v pozadí jezero s loďkou a kopce"
+  },
+  {
+   "strana": 695,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (děla na lafetách)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 695,
+   "text": "695 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika s velkou kadelou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že Fribourgští také poslali do Murtenu hejtmana s osmdesáti ozbrojenými muži a praporcem",
+ "poznamky_prekladu": [
+  "Murten patřil od r. 1475 společně Bernu a Fribourgu (srov. poznámku k přepisu u kap. 309).",
+  "„rinck[mur]“ = hradby; „andn[!]“ v přepisu = andern."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

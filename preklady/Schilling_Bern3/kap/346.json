@@ -1,0 +1,55 @@
+{
+ "cislo": 346,
+ "nadpis": "Das me dann drü tusent gemeiner vnd varender frowen vor Murten gewesen sind",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 775,
+ "strany": [
+  775,
+  776,
+  777
+ ],
+ "odstavce": [
+  {
+   "text": "Es sind ouch in dem leger vor Murten gewesen me dann drü tusent varender vnd gemeiner frowen / als man das wol gesech[en] vnd von des hertzogen lüten gehört hatt / Darzů annder erber frowen / die mit iren elichen mannen ouch da warent vnd koufmanschatz triben / der ouch an der zal vil was / Si gewunnen aber von gottes gnaden nüt vil daran / dann si müsten alle ding vmb wenig geltes hinder inen lassen",
+   "preklad": "V ležení před Murtenem bylo také přes tři tisíce potulných a obecných žen, jak se to dobře vidělo a jak se o tom slyšelo od vévodových lidí. K tomu jiné počestné ženy, které tam byly se svými manželi a provozovaly obchod; i těch bylo hojně. Z Boží milosti však na tom mnoho nevydělaly, neboť musely všechno za málo peněz nechat za sebou."
+  },
+  {
+   "text": "Es ist ouch mengerley seltzsams volckes vo[n] verren lannden vnnder inen gewesen vnd erslagen worden / namlich wart einer im leger tott funden / dem warent beid füß gespalten vnd hatt an yetlichem fůß anders nit dann zwo zechen / des glich an yetlicher hand ouch nit me dann zwen vinger ouch gespalten / Vnd man sagt ouch / das etlich lüt mit einem breiten fůß die man nempt rarel[?] / vnd ander wunderlew[?] vnd seltzen lüte ouch weren erslagen worden vnd vmb komen / der selben han aber ich keinen gesechen / dann ich ouch nit an alle ende möcht komen",
+   "preklad": "Bylo mezi nimi také mnoho podivného lidu z dalekých zemí a byli zabiti. Jmenovitě byl v ležení nalezen mrtvý jeden, který měl obě nohy rozštěpené a na každé noze neměl nic než dva prsty, a stejně tak na každé ruce také jen dva prsty, rovněž rozštěpené. A říká se také, že byli zabiti a zahynuli i někteří lidé s jednou širokou nohou, kterým se říká rarel [?], a jiní podivní [?] a zvláštní lidé. Z nich jsem však já žádného neviděl, neboť jsem ani nemohl přijít na všechna místa."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 776,
+   "popis": "nevěstky v burgundském ležení: vlevo hradby a brána Moratu, v pozadí jezero s loďkou a skála; mezi stany skupina žen v turbanech a čepcích, vojáci s péry a halapartnami, objímající se páry; ve vchodech stanů milenci; dole žena v dlouhé vlečce a muž objímající dívku"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 776,
+   "text": "776 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou E"
+  },
+  {
+   "strana": 777,
+   "text": "777 X (pozdější foliace, pravý horní roh); stránka bez obrázku; konec odstavce, odstavec s iniciálou E, dole rubrika s iniciálou D (k obrazu na s778)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 776,
+   "text": "přes 3000 „varender vnd gemeiner frowen“ (nevěstek) v ležení"
+  },
+  {
+   "strana": 777,
+   "text": "podivní lidé z dalekých zemí: mrtvý s rozštěpenýma nohama a rukama (dva prsty); „rarel“ a „wunderlew“ nejisté čtení; autor uvádí, že je sám neviděl"
+  }
+ ],
+ "nadpis_preklad": "Jak před Murtenem bylo přes tři tisíce obecných a potulných žen",
+ "poznamky_prekladu": [
+  "„varender vnd gemeiner frowen“ = potulné ženy, nevěstky; srov. „přes čtyři tisíce žen“ u Grandsonu (kap. 292).",
+  "„rarel[?]“ a „wunderlew[?]“ – nejisté čtení; Schilling zjevně naráží na bájné „jednonožce“ (skiapody) ze středověkých cestopisů (mimo přepis).",
+  "Mrtvý s rozštěpenýma rukama a nohama – snad vrozená vada (ektrodaktylie; mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

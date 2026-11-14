@@ -1,0 +1,64 @@
+{
+ "cislo": 56,
+ "nadpis": "Hienach statt mit wie vil pferden die fürsten vnd herrenn zů Regenspurg in geritten sind",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 130,
+ "strany": [
+  130,
+  131,
+  132,
+  133
+ ],
+ "odstavce": [
+  {
+   "text": "Item der Bischof von Mentz / der Marggraf von Brandenburg / vnd der hertzog von Merckelburg kamen miteinandern mit ———— xj^c lx[?] pferden Denne der Stetten botschaften mit —— iij^c lxv[?] pferde Denne der legatt mit ———— lxv pferden Denne hertzog wolfgang von München mit c pferde Denne der Bischof von Trier mit ——— iij^c pferde Denne der Bischof von Eystetten mit —— c xx pferde Denne der Bischof von Saltzburg vnd passow iij^c lx pferd Denne der Bischof von Trient mit —— c pferden Denne der Bischof von Spire mit —— l pferd Denne der Bischof von Frysen[?] mit —— xxx pferden Denne der Bischof von Basel mit —— xl pferden Denne der Bischof von Ougspurg mit —— xl pferden Denne der Bischof von Gurck mit —— xviij pferde Denne der Bischof von keysse[?] mit —— xxj pferde",
+   "preklad": "Dále arcibiskup mohučský, markrabě braniborský a vévoda meklenburský přijeli spolu s 1160 [?] koňmi. Dále poselstva měst s 365 [?] koňmi. Dále legát s 65 koňmi. Dále vévoda Wolfgang Mnichovský se 100 koňmi. Dále arcibiskup trevírský s 300 koňmi. Dále biskup eichstättský se 120 koňmi. Dále arcibiskup salcburský a [biskup] pasovský s 360 koňmi. Dále biskup tridentský se 100 koňmi. Dále biskup špýrský s 50 koňmi. Dále biskup frisinský [?] s 30 koňmi. Dále biskup basilejský se 40 koňmi. Dále biskup augsburský se 40 koňmi. Dále biskup krkský se 18 koňmi. Dále biskup z Keysse [?] s 21 koňmi."
+  },
+  {
+   "text": "Die weltlichen fürsten vnd herrenn",
+   "preklad": "Světská knížata a páni",
+   "podnadpis": true
+  },
+  {
+   "text": "Item der keiser mit sinen herrenn vnd dieneren vnd andern bi im wonende mit ———— xviij^c pferde Denne hertzog ludwig mit ———— xvj^c[?] pferde Denne hertzog Albrecht von München mit iiij^c pferde Denne hertzog Ott vnd sin brůder mit —— iiij^c xv[?] pferde Denne Graff Eberhart von wirtenberg mit ij^c lxv pferd Denne die Räte von Burgunn mit ——— xx pferden Denne der Abt von waltsassen mit —— xx pferden Denne die botten von Meyland mit —— viij pferden Denne der lantgraf von pfreim[?] mit —— xx pferd Denne des hertzogen von Sachsen Räte / mit xvj pferd Denne die botten von venedie mit —— xliiij pferd Denne der Marggraf von Baden vnd der —— von wirtenberg miteinandern mit iij^c xxxv pferd Denne der lantgraf von hessen mit —— iiij^c pferden Denne ander herrenn Ritter vnd knecht mit iij^m[?] pferd Darzů vil ander personen geistlich vnd weltlich von mannen vnd frowen / der sind vnzalich gewesen",
+   "preklad": "Dále císař se svými pány a služebníky a dalšími, kteří jsou u něho, s 1800 koňmi. Dále vévoda Ludvík s 1600 [?] koňmi. Dále vévoda Albrecht Mnichovský se 400 koňmi. Dále vévoda Ota a jeho bratr s 415 [?] koňmi. Dále hrabě Eberhard Württemberský s 265 koňmi. Dále radové Burgundska s 20 koňmi. Dále opat z Waldsassenu s 20 koňmi. Dále poslové z Milána s 8 koňmi. Dále lankrabě z Pfreimdu [?] s 20 koňmi. Dále radové vévody saského se 16 koňmi. Dále poslové Benátek se 44 koňmi. Dále markrabě bádenský a [hrabě] württemberský spolu s 335 koňmi. Dále lankrabě hesenský se 400 koňmi. Dále další páni, rytíři a knechti s 3000 [?] koňmi. K tomu mnoho dalších osob duchovních i světských, mužů i žen, kterých bylo nespočetně."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 132,
+   "popis": "celostránková dokončená kolorovaná miniatura – císař Fridrich III. na trůnu s mitrovou korunou, žezlem a jablkem pod baldachýnem; vpravo mladík s taseným mečem (říšský maršálek Pappenheim) a vousatý muž, vlevo dva dvořané; vpředu tři biskupové v mitrách s berlami (Mohuč, Trevír, ?), v pozadí za zábradlím tlačící se dav; podlaha s vodorovným šrafováním. Přes obraz prosvítá text z rubu."
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 130,
+   "text": "součet arabskými číslicemi „1919“ (stejná ruka?)"
+  },
+  {
+   "strana": 131,
+   "text": "131 X (pozdější foliace, pravý horní roh); seznam psán přes rám s nedokončenou podkresbou postav (místo pro obrázek); počty římskými číslicemi"
+  },
+  {
+   "strana": 131,
+   "text": "součet arabskými číslicemi „7543“"
+  },
+  {
+   "strana": 132,
+   "text": "132 (pozdější foliace, levý horní roh, vybledlé)"
+  },
+  {
+   "strana": 133,
+   "text": "133 X (pozdější foliace, pravý horní roh); stránka bez obrázku; ZAČÁTEK BURGUNDSKÉ VÁLKY"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Zde následuje, s kolika koňmi vjela knížata a páni do Řezna",
+ "poznamky_prekladu": [
+  "Počty v rukopisu římskými číslicemi (např. xj^c lx = 1160, iij^m = 3000), v překladu převedeny na arabské; [?] u nejistých čtení přeneseno. Pomlčky (————) jsou Schillingovy výplňové čáry.",
+  "Součet duchovních (odst. 1) podle přepsaných čísel dává 2769; na okraji str. 130 stojí součet „1919“ (nesoulad, ponecháno). Součet světských (odst. 3) dává 8343; na okraji str. 131 stojí „7543“ (rozdíl 800 – snad souvisí s nejistým „xvj^c[?]“; nesoulad, ponecháno).",
+  "Určení míst (mimo přepis): Frysen[?] = Freising; Gurck = Krka (Gurk) v Korutanech; keysse[?] = snad Chiemsee; Merckelburg = Meklenbursko; lantgraf von pfreim[?] = lankrabě z Leuchtenbergu sídlící v Pfreimdu; hertzog Ott = Ota II. Falcko-Mosbašský (?)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 8
+}

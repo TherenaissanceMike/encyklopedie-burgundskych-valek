@@ -1,0 +1,36 @@
+{
+ "cislo": 152,
+ "nadpis": "Des Marggraven von Brandenburg absagung dem hertzogen vo[n] Burgunn",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 318,
+ "strany": [
+  318,
+  319,
+  320
+ ],
+ "odstavce": [
+  {
+   "text": "Wir Albrecht Marggraf von Brandenburg vnd kurfürst / lassen üch den hochgeborne[n] karolen hertzogen zů Burgunn wissen das der aller durlüchtigest / groß mechtigest vnd vnüberwintlichest fürst vnd herr / herr Friderich Römscher keiser / zů allen ziten merer des richs / zů Hungern / Dalmacien / Croacien küng etc / hertzog zů österrich / zů Stier etc / vnnser aller gnedigester herr vnns schriftlich vnd mündlich ervordert hatt vnd gebotten bi den pflichten sinen gnaden verwant im hilf vnd bistand ze tůn / wider üch / ouch üwer helfer vnd bi leger / vnd nach dem wir ein kurfürst des heiligen riches vnd ouch dem selben verwant sind / zimpt vnns nit sinen gnaden des zů widern / sunder als ein glid des heiligen riches neben sinen gnaden ze halten / vnd harumb haben wir vnns mit etlichen den vnnsern sinen keiserlichen gnaden vnd dem heiligen riche personlichen zů hilf erhaben / vnd zů sinen gnade[n] gefügt / üwerm fürnemen widerstant vnd gegenwer helfen zů tůn / vnd ob ir / die üwern vnd üwer bi leger des schaden nemen / solichs schadens vend[?] wellen wir sin vnd des vnnser kurfürstlich ere hiemit bewart haben / für vnns vnd die vnnsern / vnnser helfer vnd by leger / vnd nechen vnns des im vnnsers gnedigesten herrn des Römschen keisers friden vnd vnfriden / versigelt mit vnnserm Insigel / datum etc",
+   "preklad": "My, Albrecht, markrabě Braniborský a kurfiřt, dáváme vám, vysoce urozenému Karlovi, vévodovi Burgundskému, na vědomí: Nejjasnější, nejmocnější a nepřemožitelný kníže a pán, pan Fridrich, římský císař, po všechny časy rozmnožitel říše, uherský, dalmatský, chorvatský král atd., vévoda rakouský, štýrský atd., náš nejmilostivější pán, nás písemně i ústně vyzval a přikázal nám při povinnostech, jimiž jsme jeho milosti zavázáni, abychom mu poskytli pomoc a podporu proti vám a také proti vašim pomocníkům a spojencům. A protože jsme kurfiřt Svaté říše a jsme jí zavázáni, nepřísluší nám jeho milosti v tom odporovat, nýbrž jako úd Svaté říše stát při jeho milosti. Proto jsme se s některými ze svých lidí osobně vypravili jeho císařské milosti a Svaté říši na pomoc a připojili se k jeho milosti, abychom pomohli vašemu záměru odporovat a postavit se na odpor. A kdybyste vy, vaši lidé a vaši spojenci z toho utrpěli škodu, chceme být za takovou škodu nepřítelem [?] a tímto mít svou kurfiřtskou čest ochráněnu, za sebe i své lidi, své pomocníky a spojence. A přijímáme se do míru i nemíru našeho nejmilostivějšího pána, římského císaře. Zpečetěno naší pečetí. Dáno atd."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 319,
+   "text": "319 X (pozdější foliace, pravý horní roh); stránka bez obrázku; velká iniciála W; dole kadela"
+  },
+  {
+   "strana": 320,
+   "text": "320 X (pozdější foliace, levý horní roh); stránka bez obrázku; prosvítá z rubu"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Odpovědní list markraběte Braniborského vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "Albrecht Achilles, braniborský kurfiřt, vrchní velitel říšského vojska u Neussu (mimo přepis).",
+  "„solichs schadens vend[?]“ – nejisté čtení, snad „feind“ (nepřítel); přeloženo „nepřítelem [?]“. „nechen vnns des im … friden vnd vnfriden“ = sdílíme císařův mír i válku (nebudeme uzavírat zvláštní mír)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -1,0 +1,35 @@
+{
+ "cislo": 156,
+ "nadpis": "Das der hertzog von Burgunn am ersten in Lothringen zoch / vnd den hertzogen vertreip / vnd das land miteinander in nam",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 330,
+ "strany": [
+  330,
+  331
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd nach dem dann der hertzog von Burgunn also von Nüss vertedinget worden vnd schantlichen abgezogen was / do zoch er angendes mit grosser hochvart / vnd frevelm gewalt in das hertzogtům von Lothringen / vnd vertreip den frommen fürsten / vnd nam im sin land vnd das gantz hertzogtům miteinandern in / der im doch nie kein leid getan hat / dann das er damit vermeint gemein tütsch nation vnd besunders die alten loblichen pünde / der eidgnosschaft vnd ouch ir verwanten der nüwen vereynunge zů vertriben / vnd si mit semlichem sinem fürnemen gantz zů vertrucken / als harnach gelütert wirt",
+   "preklad": "Když byl tedy vévoda Burgundský od Neussu odvolán vyjednáváním a hanebně odtáhl, táhl ihned s velkou pýchou a zpupnou mocí do vévodství Lotrinského, vyhnal statečného knížete a zabral mu jeho zemi i celé vévodství, ačkoli mu ten nikdy nic zlého neudělal. Tím totiž zamýšlel vyhnat celý německý národ a zvláště staré chvályhodné spolky Spříseženstva a také jejich spojence z Dolního spolku a tímto svým záměrem je úplně potlačit, jak bude dále vyloženo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 330,
+   "popis": "velká dokončená kolorovaná miniatura – Karel Smělý vjíždí do lotrinského města (Nancy): vlevo nahoře přes kopec táhne jízda a pěchota s píkami a korouhví s ondřejským křížem; město s věžemi, na bráně lotrinský štít (pruh s alerionky); branou vjíždí vousatý vévoda v černém na koni s čabrakou s lví hlavou, korouhev s burgundským erbem (lvi, pruhy) a ondřejským křížem s ocílkami a písmenem „I“; vpředu na břehu potoka velká žába"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 331,
+   "text": "331 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek); iniciála V jen červeně naznačena; pod rubrikou prázdný rám (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévoda Burgundský nejprve táhl do Lotrinska, vyhnal vévodu a zabral celou zemi",
+ "poznamky_prekladu": [
+  "Lotrinský vévoda = René II. (mimo přepis); Karel zabral Lotrinsko na podzim 1475, Nancy padlo 30. listopadu 1475 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

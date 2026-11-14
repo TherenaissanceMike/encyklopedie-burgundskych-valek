@@ -1,0 +1,46 @@
+{
+ "cislo": 192,
+ "nadpis": "Das aber etlich knecht von Bernn Sollotern vnd Friburg zwey starck Sloß über houpt in namen vnd gewunne[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 412,
+ "strany": [
+  412,
+  413,
+  414
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach gewunnen der von Bernn / Sollotern vnd Friburg knechte ouch miteinandern zwey starcke Sloß mit dem Sturm / das ein genant Annoy[?] / vnd noch eins / darinn was vil gůts / das namend si was si dannen mochten bringen / vnd teilten das vnder einandern / vnd erstachen der vienden bi zwentzig mannen / Vnd vertsten[?] darnach die beiden Sloß zů grunde",
+   "preklad": "Potom dobyli knechti Bernských, Solothurnských a Fribourgských také spolu útokem dva silné hrady, jeden jménem Annoy [?] a ještě jeden. Bylo v nich mnoho jmění; vzali, co mohli odnést, a rozdělili si to mezi sebou. A probodli asi dvacet nepřátel. A potom oba hrady zničili [?] do základů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 413,
+   "popis": "dokončená kolorovaná miniatura – útok na hrad: vlevo žoldnéři prorážejí zeď krumpáči, uprostřed útočníci pod štíty (pavézami) u brány, obránci na věži házejí kameny, vpravo střelci s ručnicemi a pikenýři; vpravo nahoře hořící hrad na kopci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 413,
+   "text": "413 X (pozdější foliace, pravý horní roh); miniatura přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 414,
+   "text": "414 X (pozdější foliace, levý horní roh); miniatura s rubrikou vepsanou do rámečku nahoře, dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 413,
+   "text": "jméno hradu „Annoy“ / „Amroy“ nejisté; „vertsten“ – snad „verbrenten“, čtení nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak dále někteří knechti z Bernu, Solothurnu a Fribourgu obsadili a dobyli rovnou [?] dva silné hrady",
+ "poznamky_prekladu": [
+  "„über houpt“ v rubrice – nejasné; snad ‚nadto, navíc‘ nebo ‚bez rozmýšlení, zhurta‘; přeloženo „rovnou“ [?].",
+  "Jméno hradu „Annoy“ / „Amroy“ nejisté. „vertsten[?]“ – snad „verbrenten“ (vypálili), přeloženo „zničili“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

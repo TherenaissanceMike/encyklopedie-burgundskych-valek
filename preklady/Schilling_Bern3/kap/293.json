@@ -1,0 +1,53 @@
+{
+ "cislo": 293,
+ "nadpis": "Das der herr von Tschettegion von einem burger von Bernn vmbbracht wartt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 646,
+ "strany": [
+  646,
+  647,
+  648
+ ],
+ "odstavce": [
+  {
+   "text": "In dem lies sich gar ein starcker reisiger zug neben den panern harin bergs halb / darunder der herr von Tschettegion / der ein fürst vnd houptman in Burgunn was / mit verhangtem zoum / Vnd glicher wise als ob si die panern mit gewalt wolten haben genomen / dann si ouch gar nache darzů kamend / da warend die langen Spies zů ring vmb die panern gestalt nach ordnunge der houptlüten vnd vennern / die man inen gar mannlichen in die nasen sties / damit si sich bald wider kerten / vnd von dannen ranten / doch bleip tot ligen der vorgenat[!] herr von Tschettegion / der wart von [von] einem burger von Bernn vmb bracht / hies Hanns von der Grüb / vnd ander mit im",
+   "preklad": "Mezitím se vedle korouhví od hory přihnal velmi silný jízdní oddíl, mezi nimi pán z Châteauguyonu, který byl knížetem a hejtmanem v Burgundsku, s povolenou uzdou, právě jako by chtěli korouhve mocí uchvátit; dostali se k nim totiž velmi blízko. Tu byly dlouhé píky rozestaveny dokola kolem korouhví podle rozkazu hejtmanů a praporečníků a ty jim velmi statečně vráželi do nosů, takže se brzy zase obrátili a odcválali pryč. Zůstal však ležet mrtev zmíněný pán z Châteauguyonu; toho zabil jeden bernský měšťan jménem Hanns von der Grüb, a s ním [padli] i další."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 647,
+   "popis": "kolorovaná kresba – smrt pána z Châteauguyonu: burgundská jízda pod mnoha prapory (sv. Ondřej, ondřejské kříže, ocílky, pruhy) útočí na švýcarský ježek pík; uprostřed vousatý bernský muž na koni probodává kopím rytíře v plné zbroji, který padá i s koněm; vlevo korouhve (Bern, orel), vzadu kostel a vinice"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 647,
+   "text": "647 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou I; na pravém okraji přípisek pozdější rukou"
+  },
+  {
+   "strana": 648,
+   "text": "648 XX (pozdější foliace, levý horní roh); nahoře 5 řádků textu, pod ním celostránková kolorovaná kresba s rubrikou v banderole"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 646,
+   "text": "u Karla „über 4000 žen – kemerin oder ander gemein varendirnen“; „bläser wise“ – snad „bläsen wise“ (do klínu?), nejisté"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 647,
+   "text": "na pravém okraji pozdější rukou: „Nota die grosse nutzbarkeit der Spiessen“; řádky o dlouhých píkách podtrženy"
+  }
+ ],
+ "nadpis_preklad": "Jak byl pán z Châteauguyonu zabit jedním bernským měšťanem",
+ "poznamky_prekladu": [
+  "Tschettegion = Hugo z Chalon, pán z Châteauguyonu (mimo přepis).",
+  "V přepisu „vorgenat[!]“ (chyba písaře za vorgenant) a zdvojené „von [von]“.",
+  "„vnd ander mit im“ – nejasné, zda jde o další padlé spolu s ním, nebo o další, kteří ho zabíjeli s Grübem; doplněno [padli]."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -10,7 +10,7 @@
  "odstavce": [
   {
    "text": "Wie das schlos und statt Grangi an sturm gewunnen und uffgenomen wart.",
-   "preklad": "76. Jak byl hrad a město Granges dobyt útokem a obsazen."
+   "preklad": "76. Jak byl hrad a město Granges získán bez útoku a obsazen."
   }
  ],
  "poznamky_editora": [],
@@ -20,5 +20,6 @@
   "Oprava textu: z nadpisu odstraněno „2 ) Vgl Schilling 0. 175.“ (a doplněno pole schilling), „uffge- nomen“ → „uffgenomen“."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

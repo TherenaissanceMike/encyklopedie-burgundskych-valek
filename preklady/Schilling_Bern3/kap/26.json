@@ -1,0 +1,45 @@
+{
+ "cislo": 26,
+ "nadpis": "Das Waltzhůt gantz vmbgeben vnd mit schiessen vnd anderen dingen vast genött wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 58,
+ "strany": [
+  58,
+  59
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů die von Zürich / Lutzern vnd ander gemeinen eidgno[ssen] / alle byeinanderen obwendig der Statt Waltzhůt lagent / da leiten die von Zürich ir grossen büchsen ouch darfür / Aber die von Bernn machten ir leger vnder der Statt Waltzhůt hinab / als man gen Louffenberg gatt / vnd leiten ir grossen büchsen von stund an gar nache zer Statt / vnd des ersten schutzes ward das vnder tor an Waltzhůt nider geschossen / vnd darnach gar ein starcker turn / daruss sich die von Waltzhůt vast warten vnd grossen schaden taten / Mit dem selben wart ouch mit schiessen So witt gehandlet / das si sich daruss nit lang behelfen mochten / Darzů schussen ouch der von Bernn büchsen meister etlich turn vnd muren ab / das gar ein gros wite wart / Vnd wurden ouch vil lüten darinn zů tode geschossen vnd übel gewůst / Als man nachmalen wol sach / Des glich taten die von Zürich mit ir grossen büchsen ouch / Die in der Stat tate[n] ouch ir bestes / vnd wartent sich gar manlich / mit Schiessen vnd anderen dingen / dann etlich von eidgno[ssen] ouch erschossen vnd gewůst wurden / vnd besunder ein büchsen meister vnd ander endlich lüte von Bernn",
+   "preklad": "Když tedy Curyšští, Luzernští a ostatní Spříseženci leželi všichni pospolu nad městem Waldshutem, postavili Curyšští také svá velká děla před ně. Bernští však zřídili své ležení pod městem Waldshutem, směrem dolů, kudy se jde do Laufenburgu, a ihned postavili svá velká děla velmi blízko k městu. První ranou byla sestřelena dolní brána Waldshutu a potom velmi silná věž, z níž se Waldshutští usilovně bránili a působili velkou škodu. Tím se střelbou dosáhlo tolik, že se z ní [věže] nemohli dlouho bránit. Kromě toho puškaři (mistři dělostřelby) Bernských sestřelili několik věží a zdí, takže vznikla velmi velká mezera. Také mnoho lidí uvnitř bylo zastřeleno a těžce zraněno, jak se později dobře ukázalo. Totéž činili Curyšští se svými velkými děly. Ti ve městě také dělali, co mohli, a bránili se velmi statečně střelbou i jinak, neboť i někteří ze Spříseženců byli zastřeleni a zraněni, a zvláště jeden puškař a další zdatní lidé z Bernu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 58,
+   "popis": "většina strany – obléhání Waldshutu: děla na hradbách, ležení se stany, korouhve Uri a Bernu; v popředí knecht čepuje sud a dvojice v objetí"
+  },
+  {
+   "strana": 59,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 58,
+   "text": "nadpis je vepsán na pásce uvnitř rámu obrázku"
+  },
+  {
+   "strana": 59,
+   "text": "59 X (pozdější foliace, pravý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl Waldshut zcela obklíčen a střelbou a jinými věcmi velmi tísněn",
+ "poznamky_prekladu": [
+  "Louffenberg = Laufenburg, po proudu Rýna od Waldshutu.",
+  "„gewůst“ = zraněn, zmrzačen (verwüstet).",
+  "„endlich lüte“ = zdatní, rázní lidé."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

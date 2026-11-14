@@ -1,0 +1,45 @@
+{
+ "cislo": 27,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] noch me lüten gen Waltzhůt schickten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 59,
+ "strany": [
+  59,
+  60,
+  61
+ ],
+ "odstavce": [
+  {
+   "text": "Als man nů vor Waltzhůt lag / vnd die Statt gar vast von denen von Bernn vnd anderen eidgno[ssen] mit schiessen vnd anderem genötiget wart / vnd si sich ouch in der Statt gar mannlichen hielten / dann ouch vil adels vnd ander erlicher lüten darinn was / Da kament die mer gen Bernn das die Behem vnd ander tütschen zů helff dem hertzogen von österich / gar gros mechtig sampnungen hetten wider die eidgno[ssen] / In meynung Waltzhůt mit gewalt zů entschütten / Also wurdent die von Bernn von stund an ze ratt / vnd schickten noch zwey tusent werlicher mannen mit einem vennli der der houptlüt waren herr Niclaus von Scharnachtal herr zů Oberhofen vnd herr Niclaus von Diespach herr zů Signow beid Rittere bis in das leger / Da bevalchen si die sachen den vordrigen houptlüten vn[d] hulfent den selben das volck gar wislich vnd mit hocher vernunft regieren / Darzů zugen ouch die von Sollotern mit ir paner / vnd einem erlichen volck ouch hin nach / des glich die von Vre vnd ander ouch mit iren panern / vnd hatten ouch als vor stat / die von Sollotern vorhin ein vennli / mit lüten dar geschickt / die lagent enent dem Rine mit einem merglichen zůsatz von denen von Bernn vnd anderen eidgnossen / Vnd bliben da bieinanderen in dem selben leger / vnd taten denen in der Statt mit schiessen vnd anderem grossen mergklichen schaden / dann vor inen nieman in die Statt über Rine komen noch si getrösten mocht / das kam inen übel / als man nachmalen wol vernam",
+   "preklad": "Když se tedy leželo před Waldshutem a město bylo Bernskými a ostatními Spříseženci střelbou i jinak velmi tísněno a ti ve městě se také drželi velmi statečně, neboť bylo uvnitř mnoho šlechty a jiných čestných lidí, přišly do Bernu zprávy, že Čechové a jiní Němci na pomoc vévodovi Rakouskému mají proti Spřísežencům velmi velká a mocná shromáždění [vojska] s úmyslem Waldshut násilím vysvobodit. Bernští se tedy ihned usnesli a poslali až do ležení ještě dva tisíce branných mužů s praporcem; jejich hejtmany byli pan Niclaus von Scharnachtal, pán na Oberhofenu, a pan Niclaus von Diespach, pán na Signau, oba rytíři. Ti pak věci svěřili dřívějším hejtmanům a pomáhali jim vést lid velmi moudře a s velkým rozumem. K tomu za nimi táhli také Solothurnští se svou korouhví a s čestným lidem, stejně tak Urijští a další, také se svými korouhvemi. A jak bylo řečeno výše, Solothurnští už předtím poslali praporec s lidmi; ti leželi na druhé straně Rýna se značnou posádkou Bernských a jiných Spříseženců. A zůstali tam pospolu v tomtéž ležení a způsobili těm ve městě střelbou i jinak velkou a značnou škodu, neboť přes ně se nikdo nemohl dostat přes Rýn do města ani mu přinést pomoc. To jim [obleženým] přišlo zle, jak se později dobře ukázalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 60,
+   "popis": "horní dvě třetiny strany – posily Spříseženstva táhnou k Waldshutu"
+  },
+  {
+   "strana": 61,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 60,
+   "text": "60 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 61,
+   "text": "X 61 (pozdější foliace, pravý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a ostatní Spříseženci poslali k Waldshutu ještě další lidi",
+ "poznamky_prekladu": [
+  "„hertzogen von österich“ = vévoda Zikmund Rakouský (Tyrolský) (mimo přepis).",
+  "Signow = Signau v Emmentalu (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

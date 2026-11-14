@@ -1,0 +1,35 @@
+{
+ "cislo": 30,
+ "nadpis": "Das etlich von Bernn von denen von Waltzhůt erstochen vnd wund wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 64,
+ "strany": [
+  64,
+  65
+ ],
+ "odstavce": [
+  {
+   "text": "Es geschach ouch / das etlich von Bernn vs dem lantgericht von Zollikofen sich in die garten vor der Statt Waltzhůt / an die Bollwerck machten vnd verslügen / vnd meinten vor den vienden sicher sin / vnd entslieffen an der warmen Sonnen / Vnd hatten ir werinen neben sich geleit / Vnd als die in der Statt innen wurden / da slichen si heimlich harus über das Bollwerck / vnd erstachen etlich also slaffen mit iren eignen werinen / vnd wundeten ein teil / die kamen darvon / Dis han ich darumb harin gezogen / das yederman in semlichen kriegs sachen vnd legern sorg haben vnd nieman sin viend versmachen noch verachten sol",
+   "preklad": "Stalo se také, že někteří Bernští ze zemského soudního okrsku (lantgericht) Zollikofen se uchýlili do zahrad před městem Waldshutem, k bolverkům, a schovali se tam a mysleli, že jsou před nepřáteli v bezpečí, a usnuli na teplém slunci. Své zbraně si položili vedle sebe. A když to ti ve městě zpozorovali, vyplížili se tajně ven přes bolverk a některé pobili ve spánku jejich vlastními zbraněmi a část zranili; ti vyvázli. To jsem sem zařadil proto, aby každý v takových válečných věcech a v leženích byl ostražitý a nikdo svým nepřítelem nepohrdal ani jej nepodceňoval."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 64,
+   "popis": "dvě třetiny strany – výpad z Waldshutu na spící Bernské u bolverku"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 65,
+   "text": "65 X (pozdější foliace, pravý horní roh); u nadpisu na okraji značka „X“ (?)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří Bernští byli Waldshutskými pobiti a zraněni",
+ "poznamky_prekladu": [
+  "Zollikofen – jeden ze čtyř bernských zemských soudů (Landgerichte) (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

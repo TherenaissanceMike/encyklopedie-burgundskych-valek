@@ -1,0 +1,46 @@
+{
+ "cislo": 6,
+ "nadpis": "Das Richessen[?] das schön dorff von den zwey hundert mannen verbrönt wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 19,
+ "strany": [
+  19,
+  20,
+  21
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man zů Basel ze tagen was Vnd dennocht der krieg mit gantz offen stůnd Da wurden die houptlüt von Bernn Vnd Sollotern mit denen von Mülhusen zů ratt / Vff dem nechsten Sonnentag darnach als si dar kumend hin vss gen Richessen[?] zů ziechen vnd da die hüten vnd vich So die österricher vorhin alwegen ingenomen hattent ze besechen / ob es nachmalen darzů wurde komen / das si dann ir ordnungen vnd anslege / ouch dester bass möchten machen / Vnd da si nit verr von dem dorf kament / da schussent si zů inen vnd wurden doch von den houptlüten gestillet vnd ward einer von Sollotern zů ross gevangen / Da schickten die houptlüt vo[n] Bernn vnd Sollotern bi zechen knechten in das dorff mit inen gütlichen zů reden den gevangnen ledig ze lassen / dann es noch kein offen krieg vnd werent ouch mit inen in einem bestande / Da trostent si einanderen zů beiden siten vnd liessen ouch daruf ir büchsen vnd armbrest vss / vnd vingen an miteinanderen ze reden In dem lüffent etlich mutwiller vss dem kilchturn vnd schussen einen von Bernn zů tode vnd wurden inen ouch übel geschossen / Da das die houptlüt von Bernn vn[d] von Sollotern vernament / da wurden der vienden ouch angendes dry erschossen vnd zugent dazemal wider heim Darnach kurtzlichen da gieng der krieg an / da zugen die knecht von Mülhusen vss vnd vingen der vienden wol by zechen mannen mit der selben eim ward der von Sollotern wider erlöst / Vnd also zugent die von Bernn vnd Sollotern am morgen wider vss gen Richessen[?] in das dorff / vnd verbranten das vnd namen was si funden vnd zugen wider heim / Vnd als si gar nache zů der Statt Mülhusen kamen da rante inen die österricher mit einem mechtigen züge nach / da wunfent[?] si sich manlich wider vmb / vnd triben si mit gewalt hinder sich / vnd wurden dennocht der vienden etlich erschossen mit den rossen / vnd kamen also mit dem roube vngeschediget wider heim / vnd teilten den fruntlich vnd gütlich miteinanderen vnd beschach inen anders nit dann wie hievor geschriben statt",
+   "preklad": "A když se v Basileji konal sněm a válka přesto ještě nebyla zcela otevřená, poradili se hejtmani z Bernu a Solothurnu s Mulhouseskými, že v nejbližší neděli po svém příchodu vytáhnou ven k Rixheimu [?] a prohlédnou tam stráže a dobytek, které tam Rakušané předtím vždy shromažďovali, aby – kdyby k tomu později došlo – mohli lépe připravit svůj šik a plány. A když přišli nedaleko vesnice, začali na ně odtamtud střílet, ale hejtmani je utišili; přitom byl zajat jeden jezdec ze Solothurnu. Tu poslali hejtmani z Bernu a Solothurnu asi deset knechtů do vesnice, aby s nimi po dobrém vyjednali propuštění zajatce, protože ještě nebyla otevřená válka a byli s nimi v příměří. Obě strany si navzájem daly záruku, nato odložili své pušky a kuše a začali spolu mluvit. Vtom několik svévolníků vyběhlo z kostelní věže a zastřelili jednoho Bernského; byli však také zle postřeleni. Když se to hejtmani z Bernu a Solothurnu dozvěděli, byli hned zastřeleni také tři nepřátelé, a tehdy táhli zase domů. Krátce nato začala válka. Tu vytáhli knechti z Mulhouse a zajali asi deset nepřátel; za jednoho z nich byl Solothurnský zase vykoupen. A tak Bernští a Solothurnští ráno znovu vytáhli k Rixheimu [?] do vesnice, vypálili ji, vzali, co našli, a táhli zase domů. A když se dostali docela blízko k městu Mulhouse, hnali se za nimi Rakušané s mocným oddílem. Tu se mužně obrátili [?], silou je zahnali zpátky a přitom bylo několik nepřátel i s koňmi zastřeleno. Tak přišli s kořistí bez úhony zase domů, rozdělili se o ni přátelsky a pokojně a nestalo se jim nic jiného, než jak je výše napsáno."
+  },
+  {
+   "text": "Vnd also kamend si darnach alle tag für die Statt geritten / vnd scharmutzten teglichs mit einanderen / Da warent aber gar endlich gesellen von Bernn vnd Sollotern / mit hantbüchsen in der Statt / von den wurdent si hinder sich getriben / vnd lüffen ouch dick harus vnder si / vnd taten inen grossen schaden / davon mengerley zů schriben were",
+   "preklad": "A tak potom každý den přijížděli [nepřátelé] před město a denně spolu sváděli šarvátky. Byli však ve městě velmi zdatní [?] druhové z Bernu a Solothurnu s ručnicemi, kteří je zaháněli zpět, často mezi ně vybíhali a působili jim velké škody, o čemž by se dalo mnoho psát."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 19,
+   "popis": "dvě třetiny strany – oddíl s korouhví zapaluje vesnici před městem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 20,
+   "text": "20 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 21,
+   "text": "21 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byla pěkná vesnice Rixheim [?] vypálena oněmi dvěma sty muži",
+ "poznamky_prekladu": [
+  "Richessen[?] – nejisté čtení jména; nejspíš Rixheim u Mulhouse (určení mimo přepis).",
+  "„wunfent[?] si sich … wider vmb“ – nejisté čtení, smysl „obrátili se“.",
+  "„gar endlich gesellen“ – endlich = rychlý, zdatný, horlivý (raná nová horní němčina)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 4
+}

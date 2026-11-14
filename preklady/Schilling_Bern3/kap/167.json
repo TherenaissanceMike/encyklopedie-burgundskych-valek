@@ -1,0 +1,41 @@
+{
+ "cislo": 167,
+ "nadpis": "Das die von Bernn noch me volckes mit einem venli zů den iren in Burgunn gar fürderlichen schickent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 349,
+ "strany": [
+  349,
+  350,
+  351
+ ],
+ "odstavce": [
+  {
+   "text": "Do man nü zů Bernn vernam / wie die iren so verr in Burgunn gezogen vnd mit den vienden so gantz vmbgeben waren / da wart man betrachten / das es gar ein klein volck wider ein semlich gros macht was / vnd man davon wol mergklichen schaden mocht haben enpfangen / vnd wurden aber von stund an us gezogen bi zwey tusent werlicher vnd wol gewapneter mannen / vnd dene[n] für einen houptman zů geben peterman von waben alt Schultheis zů Bernn / darzů schickten die von Friburg aber ein venli mit wol gerüster lüten zů inen / vnd zugen also fürderlich / in dem namen gottes us / vnd das si gen Nüwenburg kamen / da schriben die von Bernn us dem velde / das si vnd ir eidgno[ssen] vnd getrüwen frunde von Sollotern mit iren panern us Burgunn zugen / vnd am wider kere werent vnd kamen also zů samen / vnd wurden miteinandern zů ratt / das man für Granson vnd Orben ziechen / vnd da ein leger slachen wolt / dan[n] ouch die selben vnd ander Stett vnd Sloss da vmb gelegen / zů gehorten dem herren von Schatteyion[?] / der ein ratt vnd diener des hertzoge[n] von Burgunn / vnd ouch ein houptman vnd fürer des reisigen zuges in ober Burgunn was darumb man recht zů dem sinen hatt",
+   "preklad": "Když se pak v Bernu dozvěděli, jak daleko jejich lidé zatáhli do Burgundska a jak byli zcela obklopeni nepřáteli, uvážili, že je to velmi malý lid proti tak velké moci a že by tím mohli utrpět značnou škodu. Ihned tedy vypravili znovu na dva tisíce bojeschopných a dobře ozbrojených mužů a dali jim za hejtmana Petermanna von Wabern, bývalého starostu Bernu. K tomu jim Fribourgští poslali opět praporec s dobře vystrojenými lidmi. Vytáhli tedy rychle ve jménu Božím. A když přišli do Neuchâtelu, napsali Bernští z pole, že oni a jejich spříseženci a věrní přátelé ze Solothurnu táhnou se svými korouhvemi z Burgundska a jsou na zpáteční cestě. Sešli se tedy a společně se usnesli, že potáhnou ke Grandsonu a Orbe a rozbijí tam tábor, neboť tato a další okolní města a hrady patřila pánu z Châteauguyonu, který byl radou a služebníkem vévody Burgundského a také hejtmanem a velitelem jízdy v Horním Burgundsku; proto měli právo na jeho majetek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 350,
+   "popis": "velká dokončená kolorovaná miniatura – další bernský oddíl táhne do Burgundska: v pozadí hrad, jezero s loďkou, kostel a hory; praporec (venli) s bílým křížem, zástup pěšáků s dlouhými píkami a bílými kříži; jezdec s halapartnou a bílým křížem, jezdec s štítem (bernský?) na koni; vpředu kopce"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 350,
+   "text": "350 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 351,
+   "text": "351 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek); rubrika dole"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští velmi rychle poslali svým lidem do Burgundska ještě další lid s praporcem",
+ "poznamky_prekladu": [
+  "„Schatteyion[?]“ = Hugues de Châteauguyon (z rodu Chalon), pán Grandsonu a Orbe (mimo přepis; viz poznámku k přepisu).",
+  "Nüwenburg = Neuchâtel (Neuenburg)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

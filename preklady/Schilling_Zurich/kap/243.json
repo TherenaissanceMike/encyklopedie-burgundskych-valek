@@ -23,12 +23,13 @@
  ],
  "poznamky": [
   "Oprava textu: „ın“ → „in“, „:ouch“ → „ouch“, „hüusern“ → „hüsern“, „man.“ → „man“, „er.“ → „er“. Úplnost rozsahu ř. 24740–24798 ověřena.",
-  "Tobler: Bern psal Basileji, že posádka byla pro nedostatek jídla odhodlána, než by hrad opustila, sníst „mrtvého kyrysníka, kterého zabili, koně a pak jednoho ze svých druhů, jehož život byl ve velkém nebezpečí“ (Teutsch Miss. C, 692).",
+  "Tobler: Bern psal Basileji, že posádka byla pro nedostatek jídla odhodlána, než by hrad opustila, sníst „mrtvého těžkého jezdce (kürisser), kterého zabili, koně a pak jednoho ze svých druhů, jehož život byl ve velkém nebezpečí“ (Teutsch Miss. C, 692).",
   "Datum: čtvrtek před vražednou nocí = 11. 1. 1476 (Tobler). Albin von Sillinen (Silinen), luzernský hejtman; Tobler odkazuje na Geschichtsfreund XV.",
   "Varianta (pravděpodobně bernský rukopis) doplňuje: Sillinen „ein edelman“; jel do Bernu „und heim wolt“; a dále, že ho trápilo neštěstí a škoda jeho druhů, neboť byl dlouho hejtmanem a choval se tak, že ho všichni měli rádi, „a kdyby tam tehdy byl, bylo by se bez pochyby jednalo tak, že by se o tom mluvilo, a k té vraždě a zradě by snad vůbec nedošlo“. Varianta „letze“.",
   "„die letzi gelassen“ = nechal jim dar na rozloučenou (podle tabulky termínů); letzi = rozlučka, rozlučkový dar nebo hostina (význam podle Schweizerisches Idiotikon, mimo Tobler; Toblerův glosář má „letze“ jen ve významu opevnění).",
   "Varianty: „cost an essen und an trinken gnüg“; „an iren betten“; „darnach gen Iferdun“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

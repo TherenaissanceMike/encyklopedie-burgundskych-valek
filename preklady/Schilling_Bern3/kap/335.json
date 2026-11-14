@@ -1,0 +1,40 @@
+{
+ "cislo": 335,
+ "nadpis": "Das die von Straßburg / Basel vnd annder ouch mit einem erlichen roß volck zů denen von Bernn vnd andern kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 753,
+ "strany": [
+  753,
+  754
+ ],
+ "odstavce": [
+  {
+   "text": "Es kam ouch gar ein erlicher reisiger zug von beiden Bischöfen vnd Stetten Straßburg vnd Basel / darzů Graff Oßwalt von Tierstein lantvogt / innamen des hertzogen von Österrich ouch Colmar / Sletstat / vnd ander herren vnd from lüte",
+   "preklad": "Přišel také velmi čestný jízdní oddíl od obou biskupů a měst Štrasburku a Basileje, k tomu hrabě Oswald von Tierstein, zemský fojt, jménem vévody Rakouského, také Colmar, Sélestat a jiní páni a stateční lidé."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 753,
+   "popis": "příjezd jízdy Dolního spolku: zleva jezdci se samostřely a trubač pod korouhvemi (kosočtverečná s lvem, basilejská s berlou, černá se lvem), vzadu pěší s píkami a dlouhými kopími; vpravo za kopcem další jízda pod korouhvemi (štrasburská se šikmým pruhem)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 754,
+   "text": "754 X (pozdější foliace, levý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou D a výplňový tah perem"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 753,
+   "text": "Oswald von Thierstein, landfojt vévody Zikmunda Rakouského"
+  }
+ ],
+ "nadpis_preklad": "Jak Štrasburští, Basilejští a jiní také přišli s čestnou jízdou k Bernským a ostatním",
+ "poznamky_prekladu": [
+  "Oswald von Thierstein byl zemským fojtem vévody Zikmunda Rakouského v Předních zemích (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,44 @@
+{
+ "cislo": 20,
+ "nadpis": "Das viertzig man von eidgno[ssen] me dann Zweyhundert reisiger ab dem veld slůgen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 47,
+ "strany": [
+  47,
+  48
+ ],
+ "odstavce": [
+  {
+   "text": "Es wurden ouch viertzig man von etlichen orten der eidgno[ssen] geordnet / die warent merenteils von Lutzern vnd vs iren gebieten / Vnd solten etwas wines vnd Spiss wagen den eidgno[ssen] von Mülhusen harus füren vnd nach beleiten / Also vnder wegen vnd im witen velde / kament si me dann zwey hundert reisiger an / vnd vmb gaben si dermassen / dz si ir meinten gewiss sin / Aber die selben frommen lüte namen den almechtigen gott zů helf / vnd als ir frommen vordern stunden si ab zů fůss / vnd warten sich als ritterlich / das der vienden etlich edel vnd ander von inen erstochen wurden / Vnd die anderen namen ein schantlich flucht / Vnd behůben also die viertzig man das veld mit eren / das von gottes gnaden ir keinem zem leben nit beschach / dann einer von Glarus hies Heini Schuler der wart erstochen / vnd verluren ouch etwas rossen nach dem si dann zů fůs warent abgestanden / In dem zugen si wider gen Mülhusen / dann si nit wisten war ir herren vnd obern warent komen / Vnd als ir herren das vernamen / die bis gen Hesingen haruf warent gezogen / da schickten si von stund an fünftzechen hundert man gen Mülhusen die iren zů reichen / Die von Bernn waren ouch bis hinder Altkilch gezogen Vnd da si vernamen wie es den viertzig mannen ergangen was / vnd das ouch der iren noch etlich ze Mülhusen warent / da zugen si von stund an mit aller macht gen Mülhusen / vnd funden die fünftzechen hundert man von eidgno[ssen] ouch da / die selben zugen morndes wider anweg zů den iren / Vnd wurden die von Bernn vnd Sollotern ze ratt / das si Mülhusen mit etlichen Soldnern besetzen / vnd im namen gottes ouch wider heim ziechen / vnd sich vereinen wolten / wz inen vnd anderen eidgno[ssen] in disen sachen fürer ze tůnde were /",
+   "preklad": "Bylo také určeno čtyřicet mužů z některých míst (kantonů) Spříseženstva, většinou z Luzernu a z jeho území, kteří měli Spřísežencům z Mulhouse vyvézt nějaké víno a vozy s potravinami a doprovodit je. Cestou na širém poli na ně narazilo více než dvě stě jezdců a obklíčili je tak, že si mysleli, že je mají jisté. Ale ti stateční lidé vzali všemohoucího Boha na pomoc a jako jejich stateční předkové sesedli a bránili se tak udatně, že někteří z nepřátel, šlechtici i jiní, byli od nich probodnuti a ostatní se dali na hanebný útěk. A tak těch čtyřicet mužů se ctí udrželo pole, takže z Boží milosti nikdo z nich nepřišel o život kromě jednoho z Glarusu jménem Heini Schuler, který byl probodnut; ztratili také nějaké koně, protože sesedli a bojovali pěšky. Nato táhli zase k Mulhouse, protože nevěděli, kam se jejich páni a představení poděli. A když se to jejich páni, kteří táhli až nahoru k Hésingue, dozvěděli, poslali ihned patnáct set mužů do Mulhouse pro své. Bernští táhli až za Altkirch, a když se dozvěděli, jak se těm čtyřiceti mužům vedlo a že někteří z jejich lidí jsou ještě v Mulhouse, táhli ihned vší mocí k Mulhouse a našli tam také patnáct set mužů ze Spříseženců; ti nazítří táhli zase pryč ke svým. Bernští a Solothurnští se usnesli, že Mulhouse obsadí několika žoldnéři, ve jménu Božím také potáhnou domů a dohodnou se, co dále v těchto věcech mají oni a ostatní Spříseženci činit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 47,
+   "popis": "dvě třetiny strany – knechti s křížem odrážejí jízdu u vozů se sudy, padlí koně"
+  },
+  {
+   "strana": 48,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 47,
+   "text": "nadpis je vepsán uvnitř rámu obrázku"
+  },
+  {
+   "strana": 48,
+   "text": "48 X (pozdější foliace, levý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak čtyřicet mužů ze Spříseženců vyhnalo z pole více než dvě stě jezdců",
+ "poznamky_prekladu": [
+  "Hesingen = Hésingue u Basileje; Altkilch = Altkirch (určení mimo přepis).",
+  "„reisige“ = jezdci (glosář); „ritterlich“ = udatně (i o neurozených)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

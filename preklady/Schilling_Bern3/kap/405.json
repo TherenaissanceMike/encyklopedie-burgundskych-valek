@@ -1,0 +1,42 @@
+{
+ "cislo": 405,
+ "nadpis": "Hienach vindet man von krieg von Bellentz mit denen von vre vnd anndern eidgno[ssen] ergangen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 908,
+ "strany": [
+  908,
+  909
+ ],
+ "odstavce": [
+  {
+   "text": "Do man zalt von gottes geburt / Tusent vierhundert sibentzig vnd acht Jare begůp sich ein stoß zwüschen den hertzoge[n] von meyland an einem / vnd denen von vre am anndern teil / von vrsach wegen das die von vre meinten / das den iren von liffinen von den vorgenanten hertzogen von meylandt vnd den iren etwas gewalts vnd vnrecht beschech in mengen stucken / von geistlichen vnd weltlichen personen / darumb si von inen keins rechten möchte[n] bekomen / vnd manten daruf die von Bern vnd ander eidgno[ssen] inen semlich sachen helfen rechen[?] dann si das fürer nit lenger wolten liden / als dann semlich ansprachen in anndern der von Bernn bůchern witer stand",
+   "preklad": "Když se psalo od narození Božího tisíc čtyři sta sedmdesát osm let, došlo ke sporu mezi milánskými vévody na jedné straně a Urijskými na druhé straně, z toho důvodu, že Urijští měli za to, že jejich lidem z Leventiny se od výše jmenovaných milánských vévodů a jejich lidí děje v mnoha ohledech násilí a bezpráví od duchovních i světských osob, a že od nich nemohou dosáhnout žádného práva. Proto vyzvali Bernské a ostatní Spřísežence ke spojenecké pomoci, aby jim takové věci pomohli pomstít [?], neboť to už déle nechtěli snášet, jak jsou takové nároky podrobněji zapsány v jiných knihách Bernských."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 909,
+   "text": "909 X (pozdější foliace, pravý horní roh); nahoře rubrika s iniciálou D, pod ní celostránkový obraz, dole odstavec s iniciálou N"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 908,
+   "text": "Bellentz = Bellinzona; válka Uri a spříseženců s Milánem 1478 (Giornico, 28. 12. 1478)"
+  },
+  {
+   "strana": 908,
+   "text": "Liffinen = Leventina (Livinental); „rechen[?]“ nejisté (snad „rechten“)"
+  }
+ ],
+ "nadpis_preklad": "Zde následuje o válce o Bellinzonu, kterou vedli Urijští a ostatní Spříseženci",
+ "poznamky_prekladu": [
+  "Bellentz = Bellinzona; Liffinen = Leventina (Livinental), údolí poddané Uri.",
+  "„hertzogen von meyland“ – v textu množné číslo; vládl tehdy nezletilý Gian Galeazzo Sforza za poručnictví matky Bony Savojské (mimo přepis).",
+  "„rechen[?]“ – čtení nejisté (snad „rechten“ = soudit se); přeloženo „pomstít [?]“.",
+  "Válka skončila bitvou u Giornica 28. 12. 1478 (kap. 411)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

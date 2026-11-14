@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "294. Das die von Bern mit ir paner an die brug gen Gümynen zer gegenwer zugen und ir Eidgnossen do erwartetent.",
-   "preklad": "294. Jak Bernští táhli se svou korouhví k mostu u Gümmenen na obranu a tam čekali na své konfederáty."
+   "preklad": "294. Jak Bernští táhli se svou korouhví k mostu u Gümmenen do obranného postavení a tam čekali na své Spřísežence."
   },
   {
    "text": "Und also in dem namen der heiligen und hochen drivaltikeit, ouch der himelschen küngin magt Marien, ein müter aller erbermde, zugent die von Bern us mit ir paner und ganzer macht, was si dann dazemal gehaben mochtent, an ünsers herren fronlichamen abend des vorgenanten iares mit dem genanten herr Niclausen von Scharnachtal, houptman; und bleip dazemal daheimen herr Peterman von Wabren, schulthes, dann er der stat sachen müst helfen handlen und erwarten, bis die Eidgnossen und ander gewanten harzü kament, die zü unterwisen, was iederman tün und war man ziechen solt; er kam aber nachmalen ouch gen Gümynen in das velt und tet, was einem fromen riter und houptman zügehört.",
-   "preklad": "A tak ve jménu svaté a vznešené Trojice a také nebeské královny panny Marie, matky veškerého milosrdenství, vytáhli Bernští se svou korouhví a celou mocí, kolik jí tehdy mohli mít, v předvečer Božího těla téhož roku, s výše jmenovaným panem Niclausem von Scharnachtal jako hejtmanem. Pan Peterman von Wabren, starosta, tehdy zůstal doma, neboť musel pomáhat vyřizovat záležitosti města a vyčkat, až přijdou konfederáti a jiní spojenci, aby je poučil, co má každý dělat a kam se má táhnout. Později však také přišel do pole u Gümmenen a činil, co náleží statečnému rytíři a hejtmanovi."
+   "preklad": "A tak ve jménu svaté a vznešené Trojice a také nebeské královny panny Marie, matky veškerého milosrdenství, vytáhli Bernští se svou korouhví a celou mocí, kolik jí tehdy mohli mít, v předvečer Božího těla téhož roku, s výše jmenovaným panem Niclausem von Scharnachtal jako hejtmanem. Pan Peterman von Wabren, starosta, tehdy zůstal doma, neboť musel pomáhat vyřizovat záležitosti města a vyčkat, až přijdou Spříseženci a jiní spojenci, aby je poučil, co má každý dělat a kam se má táhnout. Později však také přišel do pole u Gümmenen a činil, co náleží statečnému rytíři a hejtmanovi."
   }
  ],
  "poznamky": [
@@ -20,5 +20,6 @@
   "Oprava textu: nadpis byl rozdělen zkomoleným „gen :“ a jeho konec („Gümynen zer gegenwer zugen und ir Eidgnossen do erwartetent.“) byl vlepen do textu; spojeno. Dále „sanzer“ → „ganzer“, „kaınent“ → „kament“, odstraněny zbytky „or“, „‘“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -10,11 +10,11 @@
  "odstavce": [
   {
    "text": "Wie die Eydgnossen vernamen, das der herzog von Burgün für Nüss sich gelegret hatt.",
-   "preklad": "43. Jak se konfederáti dozvěděli, že se vévoda burgundský utábořil před Neussem."
+   "preklad": "43. Jak se Spříseženci dozvěděli, že se vévoda burgundský utábořil před Neussem."
   },
   {
    "text": "Und als man diser dingen und des herzogen fürnemens teglich erwartet und aber sich, als das menglich wol weiss, ettlich treffenlich krieg und misshellung in dem bistum ze Köln zwüschent bischof Rupprecht, des pfallensgraven brüder, und der stift erhept hatten, wart den Eydgnossen kunt getan, wie das der herzog von Bürgün mit aller siner macht und gezüge uffgebrochen, zu hilf bischoffen Rupprecht hinab gen Köln gezogen were und sich darnach ettlich tagen, als er der gestifte ettlich stett und schlos am Rin ingenomen hatt, und sich für die statt Nüss gelegret. Das geschach glich darnach, als der von Hagenbach gerichtet worden was, umb die Pfinsten. Vor derselben [statt] Nüss wol vierzig wuchen lag mit grossem gewalt und übermüt und die mit stürmen und eigentlichem geschütze teglich in massen nöttigote, das im zü vil malen von den hantvesten lüten, so in Nüss lagen, der sinen vil erschlagen wurden.",
-   "preklad": "A když se na tyto věci a na vévodovy záměry denně čekalo a když, jak každý dobře ví, vznikly v kolínském biskupství velké války a rozepře mezi biskupem Ruprechtem, bratrem falckraběte, a kapitulou, dostali konfederáti zprávu, že vévoda burgundský vyrazil s celou svou mocí a vojskem, táhl dolů ke Kolínu na pomoc biskupovi Ruprechtovi a po několika dnech, když dobyl některých měst a hradů kapituly na Rýně, se utábořil před městem Neussem. To se stalo krátce poté, co byl von Hagenbach popraven, kolem Letnic. Před tímtéž městem Neuss ležel [vévoda] dobrých čtyřicet týdnů s velkou mocí a zpupností a útoky a usilovnou střelbou je denně sužoval tak, že mu stateční lidé, kteří v Neussu leželi, mnohokrát pobili mnoho jeho mužů."
+   "preklad": "A když se na tyto věci a na vévodovy záměry denně čekalo a když, jak každý dobře ví, vznikly v kolínském biskupství velké války a rozepře mezi biskupem Ruprechtem, bratrem falckraběte, a kapitulou, dostali Spříseženci zprávu, že vévoda burgundský vyrazil s celou svou mocí a výzbrojí, táhl dolů ke Kolínu na pomoc biskupovi Ruprechtovi a po několika dnech, když dobyl některých měst a hradů kapituly na Rýně, se utábořil před městem Neussem. To se stalo krátce poté, co byl von Hagenbach popraven, kolem Letnic. Před tímtéž městem Neuss ležel [vévoda] dobrých čtyřicet týdnů s velkou mocí a zpupností a útoky a usilovnou střelbou je denně sužoval tak, že mu stateční lidé, kteří v Neussu leželi, mnohokrát pobili mnoho jeho mužů."
   }
  ],
  "poznamky_editora": [],
@@ -26,5 +26,6 @@
   "Oproti Schillingovi: kapitola u Schillinga chybí (Büchi: „Fehlt Schilling“), obléhání Neussu líčí Schilling jinými slovy v kap. 117 n."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

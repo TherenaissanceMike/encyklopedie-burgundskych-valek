@@ -1,0 +1,62 @@
+{
+ "cislo": 399,
+ "nadpis": "Das die vorgenant hertzogin von Safoy mit dem namen yolanda die ein küngin von franckenrich was starp",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 902,
+ "strany": [
+  902,
+  903,
+  904
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Jare starp frow yolanda ein hertzogin von Safoy / die ein geboren küngin von franckenrich was / die selb hat lange zit das hus von Safoy nach ires herrn tod durch sich selber vnd etlich die ir fuglich warent / In semlicher maß geregiert / das dauon wenig gůts kam / dann gros krieg vnd verhergunng des gantzen landes vnd hertzogthůms von Safoy / dann si diser Burgunschen kriege ein rechte vechterin wider die von Bernn vnd ander ir eidgno[ssen] vnd verwanten gewesen / als dann das hieuor me dann ein mal angezogen vn[d] gemelt / des halb mit vil clagens gewesen ist",
+   "preklad": "Ve výše uvedeném roce zemřela paní Yolanda, vévodkyně savojská, rozená francouzská princezna. Ta po smrti svého pána dlouhou dobu sama a skrze některé, kteří jí byli po vůli, vládla savojskému domu takovým způsobem, že z toho vzešlo málo dobrého, nýbrž velká válka a zpustošení celé země a vévodství savojského. V těchto burgundských válkách totiž byla skutečnou bojovnicí proti Bernským a ostatním jejich Spřísežencům a spojencům, jak už bylo dříve nejednou zmíněno a vylíčeno, a proto se na ni mnoho naříkalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 903,
+   "popis": "komnata s trámovým stropem a nebesy nad postelí: umírající vévodkyně (s čepcem) leží na lůžku, jeptiška/žena v závoji jí vkládá do rukou svíci, kolem ženy v čepcích a muž v čapce; vpravo vpředu sedící žena v tmavém šatu s rukou na prsou; vlevo stůl s poháry, konvicemi, chleby; vpředu konvice na podnosu a mísa"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 903,
+   "text": "903 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s902), dole odstavec; iniciála I nevyvedena (jen předkreslený tah)"
+  },
+  {
+   "strana": 904,
+   "text": "904 X (pozdější foliace, levý horní roh); nahoře konec odstavce a přípisek pozdější rukou, pod tím rubrika s iniciálou D a obraz; pod obrazem prázdno (text pokračuje na s905)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 902,
+   "text": "Yolanda Savojská, sestra Ludvíka XI. („ein küngin von franckenrich“ = francouzská princezna), zemřela 29. 8. 1478"
+  },
+  {
+   "strana": 903,
+   "text": "„geboren küngin von franckenrich“ = rozená francouzská princezna (dcera Karla VII.); vládla Savojsku po smrti manžela Amadea IX. (1472)"
+  },
+  {
+   "strana": 904,
+   "text": "Yolanda „rechte vechterin“ (skutečná nepřítelkyně) Bernu; přípisek pozdější rukou (kurzíva) zmírňuje odsudek přímluvou za její duši"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 904,
+   "text": "Diewyl aber Ein Christen Mensch dem andern gůts schuldig / So welle Gott der armen vnd aller Christgleübigen Seelen gnädig vnd barmhertzig syn"
+  }
+ ],
+ "nadpis_preklad": "Jak zemřela výše jmenovaná savojská vévodkyně jménem Yolanda, která byla francouzskou princeznou",
+ "poznamky_prekladu": [
+  "„ein küngin von franckenrich“, „geboren küngin“ – doslova „francouzská královna“, tj. rozená francouzská princezna (dcera Karla VII., sestra Ludvíka XI.); přeloženo „francouzskou princeznou“ (mimo přepis).",
+  "„In dem vorgenanten Jare“ – podle kap. 398 je to rok 1477; Yolanda Savojská zemřela 29. 8. 1478 (nesoulad, mimo přepis).",
+  "„ires herrn tod“ – vévoda Amadeus IX., zemřel 1472 (mimo přepis).",
+  "„rechte vechterin“ – doslova „pravá bojovnice“, tj. zarputilá protivnice Bernu. Přípisek pozdější rukou na s. 904 odsudek zmírňuje přímluvou za její duši (viz poznámky k přepisu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

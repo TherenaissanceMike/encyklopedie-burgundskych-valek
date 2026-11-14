@@ -1,0 +1,46 @@
+{
+ "cislo": 168,
+ "nadpis": "Das die von Bernn vnd ander ir eidgno[ssen] ouch für Granson zügen vn[d] ouch das innamen vnd gewunnen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 351,
+ "strany": [
+  351,
+  352,
+  353
+ ],
+ "odstavce": [
+  {
+   "text": "Vff mitwochen nach Sant Jörgen tag des vorgenanten Jares / zugen die von Bernn / so in Burgunn gewesen vnd ouch die so nach hin gezogen waren / mit ir paner gen Granson / vnd slůgen ein leger darfür vnd zugen ouch mit inen ir getrüwen eidgno[ssen] vnd mitburger von Sollotern vnd Friburg mit iren panern vnd venlinen / vnd e man mit dem huffen vnd der macht dar kam / do luffen etlich von Bernn vor dannen / vnd wolten das Closter stürmen / vnd ablouffen dz mocht dazemal nit gesin / dann es gar starck vnd wol versechen was / vnd wurdent etliche von Bernn übel wund / zwen erschossen",
+   "preklad": "Ve středu po svatém Jiří zmíněného roku táhli Bernští, kteří byli v Burgundsku, i ti, kteří za nimi přitáhli, se svou korouhví ke Grandsonu a rozbili před ním tábor. S nimi táhli také jejich věrní spříseženci a spoluměšťané ze Solothurnu a z Fribourgu se svými korouhvemi a praporci. A dříve než tam přišel houf a hlavní moc, vyběhli někteří Bernští napřed a chtěli klášter ztéct a dobýt útokem. To tehdy nebylo možné, neboť byl velmi silný a dobře zásobený, a někteří Bernští byli těžce raněni a dva zastřeleni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 352,
+   "popis": "velká dokončená kolorovaná miniatura – Bernští táhnou ke Grandsonu: v pozadí město s mnoha věžemi u jezera (Neuchâtelské jezero) s loďkou, vysoké skalnaté hory; vlevo dva pěšáci na kopci; vpravo zástup pěšáků s dlouhými píkami, bílými kříži a bernským praporem s medvědem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 352,
+   "text": "352 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 353,
+   "text": "353 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 351,
+   "text": "„Schatteyion“ = Hugues de Châteauguyon"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a další jejich spříseženci táhli také ke Grandsonu a obsadili a dobyli ho",
+ "poznamky_prekladu": [
+  "Středa po sv. Jiří (23. 4.) = 26. 4. 1475 (juliánský kalendář).",
+  "Klášter v Grandsonu = františkánský (bosácký) klášter, viz kap. 170 „Closter zen barfüssen“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

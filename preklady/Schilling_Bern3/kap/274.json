@@ -1,0 +1,44 @@
+{
+ "cislo": 274,
+ "nadpis": "Das der vorgenant hertzog von Burgunn sin leger für Granson slůg / vnd das mit gantzem gewalt vnd macht belag",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 603,
+ "strany": [
+  603,
+  604,
+  605
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach in kurtzen tagen als der vorgenant hertzog von Burgunn / mit sinem gewalt vnd so grossen machten harüber in das land was komen / da slůg er sich angendes für die Statt vnd Sloß Granson / mit sovil lüten vnd anderes züges / das es kum gloublichen ist Es wurden ouch sovil zelten hüser vnd hütten vff geslagen vnd gemachet / das es nit anders was dann ein groß mechtig Statt / vnd was ouch das leger ze ring vmb gar wit vnd groß / vnd darinn allerley veil von koufmanschatz / Vnd andern dingen / das man erdencken möcht / dann ouch gar vil mechtiger koufluten mit im waren gezogen / vnd was vnder inen groß hochvart",
+   "preklad": "Potom za několik dní, když zmíněný vévoda Burgundský se svou silou a tak velkou mocí přitáhl sem do země, položil se ihned před město a hrad Grandson s tolika lidmi a jinou výzbrojí, že je to sotva k uvěření. Bylo také postaveno a zřízeno tolik stanů, domků a chýší, že to nebylo nic jiného než velké mocné město. Tábor byl také všude kolem velmi široký a velký a bylo v něm na prodej všechno zboží a jiné věci, jaké si lze vymyslet, neboť s ním táhlo také velmi mnoho mocných kupců; a panovala mezi nimi velká pýcha."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 604,
+   "popis": "celostránková kolorovaná kresba – obléhání Grandsonu: nahoře burgundský tábor se stany a prapory (sv. Ondřej, ondřejské kříže, erb s lvy a liliemi), útočníci s píkami a trubačem před hradbami; dole hrad a město Grandson na břehu jezera, obránci na hradbách a ve věžích, děla na lafetě střílejí; spodní třetina (jezero s loďkou) jen kresebně načrtnuta"
+  },
+  {
+   "strana": 605,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 604,
+   "text": "604 X (pozdější foliace, levý horní roh); celostránková kolorovaná kresba (spodní část nedokončená), bez textu"
+  },
+  {
+   "strana": 605,
+   "text": "605 X (pozdější foliace, pravý horní roh); text s iniciálou D psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak zmíněný vévoda Burgundský rozbil svůj tábor před Grandsonem a oblehl jej celou silou a mocí",
+ "poznamky_prekladu": [
+  "Obléhání Grandsonu začalo kolem 19. 2. 1476 (mimo přepis); burgundský tábor jako „město“ s trhem – kupci táhli s vojskem."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

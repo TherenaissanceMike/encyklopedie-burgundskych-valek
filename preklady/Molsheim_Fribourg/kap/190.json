@@ -18,8 +18,9 @@
  "poznamky_editora": [],
  "poznamky": [
   "Büchi tiskne jen nadpis a odkazuje na Schillinga C. 338; Molsheimův text v edici není. Z nadpisu odstraněna značka poznámky.",
-  "Büchi (poznámka k nadpisu, strojově v poli poznamky_editora kap. 191): fribourgský šultheis Petermann Pavillard, rytíř, Rudolf von Wippingen a praporečník Hans Techtermann vyjeli z Fribourgu svobodným houfům vstříc, aby je odradili od dalšího postupu; jeden biřic byl poslán naproti až k řece Sense. Unterwaldenští táhli přes Schwarzenburg na Fribourg, a proto zde povolali sedláky k obraně."
+  "Büchi (poznámka k nadpisu, strojově v poli poznamky_editora kap. 191): fribourgský starosta (schultheis) Petermann Pavillard, rytíř, Rudolf von Wippingen a praporečník Hans Techtermann vyjeli z Fribourgu svobodným houfům vstříc, aby je odradili od dalšího postupu; jeden biřic byl poslán naproti až k řece Sense. Unterwaldenští táhli přes Schwarzenburg na Fribourg, a proto zde povolali sedláky k obraně."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

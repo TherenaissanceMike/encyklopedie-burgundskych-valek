@@ -1,0 +1,45 @@
+{
+ "cislo": 243,
+ "nadpis": "Das die von Bernn vnd ander gen Morse zugen / vnd das ouch in namen / vnd der andern eidgnoss[en] da erwarten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 527,
+ "strany": [
+  527,
+  528
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach an der mitwochen / da man die sachen zů Orban alle usgericht hatt / da zoch man ab statt durch Laserra / die Statt / die selben armen lüte hatten sich vorhin ouch ergeben / die wile man dennocht zů Orban lag / vnd gaben an dem durch zuge yederman essen vnd trincken / vnd brant das Sloß dennocht in al macht / als es dann vorhin mit dem Swert gewunnen vnd erobert worden was / Man zoch ouch desselben tages bis gen Cussenay in die Statt / das hat sich vorhin ouch ergeben / da vand man win vnd brot nach aller notdurft",
+   "preklad": "Potom ve středu, když se v Orbe všechny věci vyřídily, se odtáhlo přes město La Sarraz. Tamější ubozí lidé se také předtím vzdali, zatímco se ještě leželo v Orbe, a při průchodu dali každému jídlo a pití. Hrad ještě stále hořel plnou silou, jak byl předtím dobyt a zmocněn mečem. Téhož dne se také táhlo až do města Cossonay, které se rovněž předtím vzdalo; tam se našlo vína a chleba podle vší potřeby."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 527,
+   "popis": "kolorovaná kresba – vojsko s korouhvemi (Bern s medvědem a další) vchází s bubeníkem do Morges: obrnění velitelé s péry na přilbách a bílými kříži, v pozadí hořící hradby a domy, vpravo nahoře další zástup pikenýrů na kopci"
+  },
+  {
+   "strana": 528,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 528,
+   "text": "528 X (pozdější foliace, levý horní roh); text s iniciálou D, pod ním šedě podložený rám pro obrázek (prázdný), v něm rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 527,
+   "text": "Morse = Morges; „vnnser lieben frowen“ – Lausanne ušetřeno pro tamní mariánský chrám"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a jiní táhli k Morges, obsadili i to a tam čekali na ostatní Spřísežence",
+ "poznamky_prekladu": [
+  "Středa po vyřízení věcí v Orbe = snad 25. října 1475 (mimo přepis; odvozeno z data v kap. 238 a 240).",
+  "„Cussenay“ = Cossonay; „Morse“ (rubrika) = Morges. Rubrika patří obsahem spíš ke kap. 245."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

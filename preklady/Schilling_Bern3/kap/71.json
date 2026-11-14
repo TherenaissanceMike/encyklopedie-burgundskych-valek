@@ -1,0 +1,36 @@
+{
+ "cislo": 71,
+ "nadpis": "Das die von Strassburg von der vorgenanten sach wegen für hochen Geroltzecke zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 153,
+ "strany": [
+  153,
+  154
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nü Schuttern Statt vnd Sloss des vorgenanten von Geroltzeck was / vnd in sinen handen stůnd / vnd er sich des von heüdorf ouch an nam / vnd im heimlichen zůschub tet / Darumb zugen die von Strassburg angendes für sin Sloss genant hochen Geroltzecke / vnd belagten das mit irem züge vnd gantzer macht / in meynung das zů erobern vnd zů iren handen zů bringen / Des vnderwant sich der pfaltzgraff von dem der von Geroltzecke belechnet was / Vnd wart die sach abgerett / vnd beid teil für den Römschen keiser betedinget / Der von Geroltzecke getorst aber darnach die von Strassburg mit fürnemen / vnd liess si gantz vnbekümbert / Er merckt wol das si die von Bernn vnd ander eidgno[ssen] nit hetten verlassē als das nit vnbillichen was",
+   "preklad": "A protože město a hrad Schuttern patřily zmíněnému [pánovi] von Geroldseck a byly v jeho rukou, a on se Heudorfa také ujímal a tajně mu pomáhal, táhli Štrasburští neprodleně před jeho hrad zvaný Hohengeroldseck a oblehli ho se svým válečným materiálem a celou mocí s úmyslem dobýt ho a dostat do svých rukou. Toho se ujal falckrabě, od něhož měl [pán] von Geroldseck léno. Věc byla urovnána a obě strany byly vyjednáváním odkázány před římského císaře. [Pán] von Geroldseck se však potom neodvážil proti Štrasburským nic podniknout a nechal je zcela v pokoji. Dobře poznal, že by je Bernští a jiní Spříseženci neopustili, jak to také nebylo bez důvodu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 153,
+   "popis": "dokončená kolorovaná miniatura – obléhání Hohengeroldsecku: hrad na skále s věžemi a bránou, vlající korouhev s hvězdami (Geroldseck?); štrasburské ležení se stany a korouhví, polní děla na kolových lafetách a bombarda pod dřevěnou střechou ostřelují hrad; pěchota s halapartnami a obrněnci útočí; v pozadí jezero/řeka s loďkou, hory a vzdálené město"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 154,
+   "text": "154 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že Štrasburští kvůli zmíněné věci táhli před Hohengeroldseck",
+ "poznamky_prekladu": [
+  "Text má „getorst aber darnach die von Strassburg mit fürnemen“; smysl vyžaduje zápor „nit“ (neodvážil se), přeloženo podle smyslu – ověřit čtení „mit/nit“ v rukopisu.",
+  "Hohengeroldseck = hrad v Ortenau nad Lahrem; falckrabě = kurfiřt Fridrich I. Falcký (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,35 @@
+{
+ "cislo": 159,
+ "nadpis": "Das etlich knecht von Bernn vnd Sollotern miteinandern in Burgunn zugen / vnd einen grossen roup vechs mit inen brachte[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 335,
+ "strany": [
+  335,
+  336
+ ],
+ "odstavce": [
+  {
+   "text": "An dem dritten tag mertzen in dem vorgenanten Jare / zugen etlich knecht von Bernn / Sollotern / vnd ander in Burgunn / der warent fünf hundert / vnd namen den weg für Basel / vnd durch das Sunckow / vnd brachten mit inen ein grossen roup vechs / me dan[n] fünftzechen hundert houpt / vnd darzů ander ding / das teilten si alles vnder einandern / vnd wart inen ein gůt büt / si erstachen ouch ob hundert mannen von vienden / vnd zugen mit gewerter hand wider us dem lande / das inen von gottes gnaden nit beschach",
+   "preklad": "Třetího dne března zmíněného roku táhli někteří knechti z Bernu, Solothurnu a odjinud do Burgundska, bylo jich pět set. Vzali cestu kolem Basileje a přes Sundgau a přivedli s sebou velkou kořist dobytka, přes patnáct set kusů, a k tomu jiné věci; to si všechno mezi sebou rozdělili a byla to pro ně dobrá kořist. Pobili také přes sto mužů z nepřátel a se zbraní v ruce zase táhli ze země, aniž se jim z Boží milosti něco stalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 335,
+   "popis": "velká dokončená kolorovaná miniatura – loupež dobytka v Burgundsku: vesnice s domy a věží, pěšáci s bílými kříži na prsou, kušemi a halapartnami; uprostřed vojáci s meči a kopími ženou velké stádo krav, ovcí a prasat; vpravo nahoře na kopci šibenice se třemi oběšenci a kolo; v popředí potok"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 336,
+   "text": "336 X (pozdější foliace, levý horní roh); nahoře text přes šedě podložený rám, pak rubrika a velká miniatura"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří knechti z Bernu a Solothurnu společně táhli do Burgundska a přivedli s sebou velkou kořist dobytka",
+ "poznamky_prekladu": [
+  "3. března 1475 (juliánský kalendář). „mit gewerter hand“ = se zbraní v ruce, bráníce se. „Sunckow“ = Sundgau."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

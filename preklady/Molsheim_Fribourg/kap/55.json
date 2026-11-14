@@ -16,7 +16,7 @@
   },
   {
    "text": "Also nach abzug der vigenden, so uss Erigurt zugen, [als ir gehört hand], wart man ze ratt gemeinlich, was man nu fürer fürnemen und (wie man) die vygent schedigen wölte. Wann es vast kalt und unstetes wetter was von schne und kelte und ungewitter, und sunderlich, das an denselben enden die pestilenz allenthalben richsnote und darzu tür was und man deheinerlei kuntschaft noch wegwiser haben möchte, das doch den Eydgnossen vorhin vil anders zu verstend und von den stetten, als obstat, zügeseit was, darzu ouch der herzog von Bürgün demnach allweg vor Nüsse lag und man sinen züg nienant wüste ze treffen; darumb brach man in dem namen gottes uff und zoch jedermann den nechsten wider heim.",
-   "preklad": "Když tedy nepřátelé z Héricourtu odtáhli [, jak jste slyšeli], radili se všichni společně, co dále podniknout a jak nepřátelům škodit. Protože však bylo velmi chladno a nestálé počasí se sněhem, mrazem a nepohodou, a zvláště protože v těch končinách všude řádil mor a k tomu byla drahota a nedaly se získat žádné zprávy ani průvodci – ačkoli konfederátům předtím města, jak stojí výše, dávala na srozuměnou a slibovala něco docela jiného –, a protože vévoda burgundský stále ještě ležel před Neussem a jeho vojsko nebylo nikde k zastižení, zvedli se ve jménu Božím a každý táhl nejkratší cestou zase domů."
+   "preklad": "Když tedy nepřátelé z Héricourtu odtáhli [, jak jste slyšeli], radili se všichni společně, co dále podniknout a jak nepřátelům škodit. Protože však bylo velmi chladno a nestálé počasí se sněhem, mrazem a nepohodou, a zvláště protože v těch končinách všude řádil mor a k tomu byla drahota a nedaly se získat žádné zprávy ani průvodci – ačkoli Spřísežencům předtím města, jak stojí výše, dávala na srozuměnou a slibovala něco docela jiného –, a protože vévoda burgundský stále ještě ležel před Neussem a jeho vojsko nebylo nikde k zastižení, zvedli se ve jménu Božím a každý táhl nejkratší cestou zase domů."
   }
  ],
  "poznamky_editora": [],
@@ -24,8 +24,9 @@
   "Oprava textu: nadpis „uff- genommen“ → „uffgenommen“, „geflirt“ → „gefürt“ (i v poli nadpis); vypuštěny značky poznámek („2 )“, „3 )“, „l“); OCR: „weite“ → „wölte“, „sehne“ → „schne“. Büchiho odkaz „(Das folgende Alinea s. Schilling C. 136.)“ z textu odstraněn: další odstavec (o upálení zajatců v Basileji, k němuž se vztahuje nadpis) Büchi netiskne a odkazuje na Schillingovu kap. 136 (18 Lombarďanů upálených v Basileji jako kacíři).",
   "Hranaté závorky [ ] převzaty z Büchiho edice; podle jeho aparátu jde o úseky, které v části rukopisů chybějí (často v D a N), u „Friburg“ často jde o fribourgské doplňky.",
   "Büchi: k nepohodě luzernská Bekanntnusbuch 66; návrat domů 23. 11. 1474 (Knebel). Fribourgská rada obdarovala pamětní mincí básníka písně o bitvě u Héricourtu, který se jí účastnil; patrně Veit Weber, jiná píseň o této bitvě není známa (Büchi, Freiburger Akten 57). (Tyto poznámky jsou v JSON omylem u kap. 56.) Rukopisy D a N dodávají, že Bernští táhli se svou korouhví do Basileje a přes Hauenstein domů.",
-  "Odkaz „Schilling C. 185, al. 2“ je patrně chyba tisku nebo OCR: obsahově odstavec odpovídá poslednímu odstavci Schillingovy kap. 134 [?]. Oproti Schillingovi: Molsheim vynechává, že konfederáti nechali další postup na rakouském panství a městech jako hlavních stranách války."
+  "Odkaz „Schilling C. 185, al. 2“ je patrně chyba tisku nebo OCR: obsahově odstavec odpovídá poslednímu odstavci Schillingovy kap. 134 [?]. Oproti Schillingovi: Molsheim vynechává, že Spříseženci nechali další postup na rakouském panství a městech jako hlavních stranách války."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

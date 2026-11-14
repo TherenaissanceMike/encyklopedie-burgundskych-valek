@@ -1,0 +1,33 @@
+{
+ "cislo": 72,
+ "nadpis": "Von herr peters von hagenbach des Burgunschen landvogts regiment / vnd wie er sich in mengen stucken hielt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 154,
+ "strany": [
+  154,
+  155
+ ],
+ "odstavce": [
+  {
+   "text": "Und als nü der vorgenant landvogt der von hagenbach / die verpfanten lande vnd herschaften / Edel vnd gemeinden in eid nam vnd beid der hertzog von Burgunn vnd er / inen das mit briefen vnd Sigeln bevestneten / Vnd gelobten si alle vnd yeglichen bi iren freiheiten / penni[?] letzen[?] vnd altem herkomen / vnbeswert bliben ze lassen vergass er des alles / Vnd von stund an vnderstůnd er etlichen Edel lüten / denen von Halwile vnd andern ir Sloss güter vnd herlicheit / mit gewaltsamer frevelkeit in ze nemen / vnd si von dem irem zů triben als er ouch mit dem Sloss Lansser[?] vnd anderm handelt / Vnd was das an dem ende der Edlen halb in einen weg wol / wann inen beschach glich als den fröschen / so den Storcken zů irem küng erwalten Wann hetten der herschaft lantvögt vnd Edlenn / iren rechten natürlichen herrenn / in verachtung nit angereitzet / damit si in gewalt der welschen kamen / vnd hetten den eidgno[ssen] gůt nachburschaft frid vnd gnad gehalten / So were inen dis nit begegnet / Aber der almechtig gotte / so alle ding berichtet[?] / wolt si durch solich bewisung ir misstat befinden / vnd dabi erschowen lassen / was selden vnd gůtes / von friden vnd güter nachburschaft kumpt / Vnd das semlich vntrüw / nid vnd hass / wurtzelen aller vntugenden sind",
+   "preklad": "A když tedy zmíněný zemský fojt Hagenbach vzal od zastavených zemí a panství, šlechty i obcí přísahu a vévoda Burgundský i on jim to stvrdili listy a pečetěmi a slíbili všem i každému zvlášť, že je ponechají bez obtěžování při jejich svobodách, penni letzen [?] a starém obyčeji, na to všechno zapomněl. A ihned se pokusil některým šlechticům, pánům von Hallwyl a jiným, násilnou svévolí vzít jejich hrady, statky a panství a vyhnat je z jejich majetku, jak také naložil s hradem Landser [?] a jinými. A co se šlechty týče, bylo to na tom místě svým způsobem dobře, neboť se jim stalo stejně jako žábám, které si zvolily čápa za svého krále. Kdyby totiž zemští fojtové a šlechta panstva svého pravého přirozeného pána nepopichovali k pohrdání, takže se dostali do moci Vlachů, a kdyby se Spříseženci zachovávali dobré sousedství, mír a milost, nebylo by je to potkalo. Ale všemohoucí Bůh, který všechny věci řídí [?], je chtěl takovým důkazem nechat poznat jejich provinění a zároveň jim ukázat, jaké štěstí a dobro pochází z míru a dobrého sousedství a že taková nevěra, závist a nenávist jsou kořeny všech neřestí."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 155,
+   "text": "155 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podkresbou"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "O vládě pana Petera von Hagenbach, burgundského zemského fojta, a jak si v mnoha věcech počínal",
+ "poznamky_prekladu": [
+  "„penni[?] letzen[?]“ – obě slova nejistá; smysl nejasný (snad „bannen“ = klatby/soudní práva a „letzen“ = zátarasy?), ponecháno v originále – ověřit v rukopisu.",
+  "„Lansser[?]“ – snad hrad Landser v Sundgau (mimo přepis).",
+  "„berichtet[?]“ – čtení nejisté; smysl „řídí, spravuje“.",
+  "Bajka o žábách, které si vyžádaly krále a dostaly čápa (Ezop), užitá na šlechtu, jež se zbavila rakouské vlády."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 4
+}

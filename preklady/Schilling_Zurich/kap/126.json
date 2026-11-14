@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "126. Der absagbrief, als gemein Eidgnossen dem herzogen von Burgunnen und sinen stathaltern und anwalten mit einandern abseiten.",
-   "preklad": "126. List s vypovězením nepřátelství, jímž všichni konfederáti společně vypověděli válku burgundskému vévodovi a jeho místodržícím a zmocněncům."
+   "preklad": "126. List s vypovězením nepřátelství, jímž všichni Spříseženci společně vypověděli válku burgundskému vévodovi a jeho místodržícím a zmocněncům."
   },
   {
    "text": "Dem durluchten, hochgebornen fürsten und herren, her Karlen, herzogen zü Burgunnen, oder sinen stathaltern und anwalten, wie die genempt oder wo si gesessen sind, enbieten wir burgermeister, schultheissen, amman, rät und gemeinden des grossen punds obrer Tütschen landen, namlichen Zürich, Bern, Lutzern, Ure, Switz, Underwalden, Zug und Glarus und darzü der beiden stetten Friburg und Soloturn, das wir uf hoch und treffenlich gebot und vermanen des allerdurchlüchtigosten, unüberwindlichosten, hochmächtigosten herren, hern Fridrichen, Römschen keisers, unsers allergnädigosten hern, dem wir als züglider des heiligen richs mit undertenikeit müssen begegnen, ouch des durchluchtigen, hochgebornen fursten und herren, hern Sigmunden, herzogen zü Oesterich und andrer fürsten, hern und stetten, zü uns mit einung gewant, an den dann unbillich gewalt und trang mit vil groben misshandeln furgenomen sind und teglich beschechen, üch und allen den üwern, wie die genampt sind, unser offen vindschaft hiemit sagen und verkünden für uns, al die unsern und die, so uns zü versprechen stand, und was sich nü furer sölich vindschaft gegen üch, den üwern zügewanten und helfern machen wirt, es si mit roub, todsläg, nam, brand, angriff und beschedgung tag oder nacht, durch uns oder unser und aller der unsern ere bewart haben, und des zü urkünd, so haben wir, als wir jetz hie zü Lutzern zü tagen versampnet sind, disen offen brief mit unser von Bern insigel besigeln geheissen, und ist ouch also besigelt, darunder wir uns al binden.",
@@ -27,5 +27,6 @@
   "Oprava textu: konec nadpisu („an-walten mit einandern abseiten“) byl přenesen z prvního odstavce zpět do nadpisu; „Eidenossen“ → „Eidgnossen“, „vom Bern“ → „von Bern“ (OCR)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

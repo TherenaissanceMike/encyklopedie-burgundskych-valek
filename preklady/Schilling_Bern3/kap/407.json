@@ -1,0 +1,46 @@
+{
+ "cislo": 407,
+ "nadpis": "Das die von zürich vnd ander orter mit iren panern vnd gantzen machte ouch zů denen von vre zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 910,
+ "strany": [
+  910,
+  911,
+  912
+ ],
+ "odstavce": [
+  {
+   "text": "Die von zürich vnd ander orter zugent ouch mit iren paneren bald hin in / vnd waren dennocht alweg daran gewesen / das man darin fruntlich teding suchen / vnd die irrungen gütlich zerlegen solt / doch beschach das von inen ouch im besten",
+   "preklad": "Curyšští a ostatní místa (kantony) také brzy táhli se svými korouhvemi dovnitř [země], ačkoli vždy usilovali o to, aby se v té věci hledalo přátelské vyjednávání a spory se urovnaly po dobrém. Přesto i to učinili v nejlepším úmyslu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 911,
+   "popis": "zástup pikenýrů a halapartníků s bílými kříži, s bubeníkem a pištcem, táhne pod korouhvemi (Curych – šikmo dělená, Lucern – dělená vodorovně, korouhev se světcem, pruhovaná) po cestě mezi kopci; vpravo opevněné město u jezera, keře, v popředí tmavé svahy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 911,
+   "text": "911 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s910), dole odstavec; iniciála D nevyvedena (jen předkreslený tah na okraji)"
+  },
+  {
+   "strana": 912,
+   "text": "912 X (pozdější foliace, levý horní roh); nahoře rubrika s iniciálou D, pod ní celostránkový obraz, dole odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 911,
+   "text": "Curych a ostatní místa vytáhla s korouhvemi; stále usilovali o smírné jednání („teding“)"
+  }
+ ],
+ "nadpis_preklad": "Jak také Curyšští a ostatní místa táhli se svými korouhvemi a celou mocí k Urijským",
+ "poznamky_prekladu": [
+  "„hin in“ – „dovnitř“, tj. přes Gotthard do Leventiny.",
+  "„teding“ = vyjednávání."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

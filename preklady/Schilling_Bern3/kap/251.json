@@ -1,0 +1,49 @@
+{
+ "cislo": 251,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] gen Rüw vnd Roymond ouch zugen / vnd das in namen vnd gewunnent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 543,
+ "strany": [
+  543,
+  544,
+  545
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zoch man gen Rüw vnd Roymond / vnd nam man das ouch in / vn[d] gap man menglichem von win / brot vnd andern dingen / des man bedorfte gnůg wie wol inen das nit am hertzen was / So müsten si es dennocht tůn",
+   "preklad": "Potom se táhlo na Rue a Romont a také ta byla obsazena. [Obyvatelé] dávali každému dost vína, chleba a jiných věcí, čeho bylo třeba; ačkoli jim to nešlo od srdce, přesto to museli udělat."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 544,
+   "popis": "kolorovaná kresba – švýcarské vojsko s korouhvemi (Uri s býčí hlavou, Bern s medvědem a další) vchází přes most do opevněného města (Romont / Rue) s mohutnými věžemi; vlevo dva vojáci u brány, v pozadí skály a jezero s loďkou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 544,
+   "text": "544 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 545,
+   "text": "545 X (pozdější foliace, pravý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 543,
+   "text": "„mort nacht“ = vražedná noc v Yverdonu (leden 1476)"
+  },
+  {
+   "strana": 544,
+   "text": "Rüw = Rue; Roymond = Romont"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a ostatní Spříseženci táhli také na Rue a Romont a dobyli je",
+ "poznamky_prekladu": [
+  "Rüw = Rue, Roymond = Romont."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,50 @@
+{
+ "cislo": 298,
+ "nadpis": "Das etlich der vienden in dem Sloß zů Granson funden vnd vmb bracht wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 656,
+ "strany": [
+  656,
+  657,
+  658
+ ],
+ "odstavce": [
+  {
+   "text": "Es waren ouch etlich herren vnd edel lüt / me dann dreissig personen / von rechter angst vnd nott wegen in das Slos Granson / an der flucht gewichen vnd gefluchen / die begerten vf gnade mit den houptlüten zů reden / Vnd nach irem verhören wurdent si gesichert / vnd vnder die eidgno[ssen] nach marzal geteilt / vnd ward vertädinget das man mit dem obresten herren darinn / vnd den iungen edlen knaben Brandolfen vom Stein / der vorhin houptman uf Granson gewesen / vnd in Burgun[n] gevangen was / ledigen vnd lösen wolt / Vnd als aber die von Bernn vnd Friburg die iren / So als mortlich vnd böslich erhenckt vnd ertrenckt warend an den bömen zů Granson / So yemerlich sachen hangen do wolten si die im Slos über ein nit schetzen noch leben lassen / vnd sunderlich ein gemein volcke / die ir frunde verloren hatten / vnd brachen vnd trungen also mit gewalt in das Sloß / vnd slůgent wol dreissig zů tode / das inen nieman möcht erweren / doch wurden dennocht der recht herr vnd etlich iung knaben bi dem leben behalten / mit denen der vom Stein als vor stat erlediget wart",
+   "preklad": "Také několik pánů a šlechticů, více než třicet osob, uteklo na útěku z pravého strachu a nouze do hradu Grandson. Ti žádali, aby mohli na milost mluvit s hejtmany. Po jejich vyslechnutí jim bylo dáno ujištění [o bezpečí] a byli rozděleni mezi Spřísežence podle počtu. Bylo také vyjednáno, že se za nejvyššího pána v hradě vyplatí a vykoupí mladý šlechtic Brandolf vom Stein, který byl předtím hejtmanem v Grandsonu a byl zajat v Burgundsku. Když však Bernští a Fribourgští uviděli své lidi, kteří byli tak vražedně a zlovolně oběšeni a utopeni, tak žalostně viset na stromech u Grandsonu, nechtěli ty v hradě vůbec ani brát do zajetí za výkupné, ani nechat naživu, a zvláště prostý lid, který přišel o své přátele. A tak mocí prorazili a vtrhli do hradu a ubili dobře třicet [z nich], aniž jim v tom kdo mohl zabránit. Přesto byl skutečný pán a několik mladíků zachováno naživu; za ty byl vom Stein, jak výše stojí, vysvobozen."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 657,
+   "popis": "kolorovaná kresba – pomsta v hradě Grandson: vlevo nahoře Švýcaři shazují burgundské obránce z hradeb a cimbuří, uprostřed brána hradu, kterou vchází zástup se švýcarskými korouhvemi (Bern s medvědem, sv. Leodegar, Uri s býčí hlavou); vpravo jezero s loďkami a hrad na skále; vpředu burgundské stany (jeden se znakem srdce probodeného meči a plameny), vojáci s péry a píkami, muž vede za ruku zajatce"
+  },
+  {
+   "strana": 658,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 657,
+   "text": "657 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou E"
+  },
+  {
+   "strana": 658,
+   "text": "658 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 656,
+   "text": "štrasburská jízda zůstala v zadním voji a do bitvy nezasáhla; Švýcaři měli jen asi 60 jezdců"
+  }
+ ],
+ "nadpis_preklad": "Jak byli někteří nepřátelé nalezeni v hradě Grandson a zabiti",
+ "poznamky_prekladu": [
+  "Brandolf vom Stein, bernský hejtman posádky v Grandsonu, po kapitulaci hradu zajat (mimo přepis); posádka byla Burgunďany oběšena a utopena.",
+  "„schetzen“ = zajmout za výkupné (brandschatzen/schatzen); přeloženo „brát do zajetí za výkupné“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

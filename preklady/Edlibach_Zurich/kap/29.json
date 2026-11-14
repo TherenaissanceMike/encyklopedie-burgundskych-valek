@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "Item hie stand aller der stet vnd slossen namen so den von den eignossen gewunnen sind jn dissem krieg byshar.",
-   "preklad": "Zde stojí jména všech měst a hradů, které konfederáti v této válce až dosud dobyli."
+   "preklad": "Zde stojí jména všech měst a hradů, které Spříseženci v této válce až dosud dobyli."
   },
   {
    "text": "Item zum ersten murtten stat vnn sloss. Sant marttis sloss. Byoly sloss. Cuderiffe stat vnn sloss. Betterlingen stat. Stäflis stat vnn sloss. Ifferdun stat vnn sloss. Dass heillig crütz sloss. Eccly stat vnn sloss. Cuse das sloss. Fontt stat vnn sloss. Lamathan sloss. Tschawan dass sloss. Lasserra stat vnn sloss. Munersy dass sloss. Cusseney dass sloss vnd stetly. Wullery das schloss. Sant barttelomeus sloss. Morge dz sloss. Musling dass sloss. Alleman dz sloss. Män dz nüw sloss. Morse stat vnn sloss. Neuss stat vnn sloss. Sant sorgen sloss. Boppet stat vnn sloss. Bayogy dz sloss. Thescherling dz slos. Bemund dz sloss. Milden stat vnn sloss. Ruw stat vnn sloss. Etwallung sloss. Bossenung dz sloss. Tischattee slos. Warruw dz sloss. Remund stat vnn sloss. Ewerde dz sloss. Bant das schloss. Wiblingen sloss. Erling dz sloss. Salipier dass sloss. Granckort dz sloss. Montuch dz sloss vnd statt. Puntterlin statt. Granse stat vnn sloss. Blamund dz sloss. Orben stat vnn sloss. Innien stat unn sloss. Elligurt stat vnn sloss. Lossen die stat. Vnd genff die stat.",
@@ -20,5 +20,6 @@
   "Seznam nemá chronologické pořadí; zahrnuje místa z let 1474–1475 (Héricourt, Pontarlier, Blamont, Grandson, Orbe) i z tažení do Vaud v říjnu 1475. Srov. Schilling kap. 208–222."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

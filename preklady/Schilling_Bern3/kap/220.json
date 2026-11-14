@@ -1,0 +1,65 @@
+{
+ "cislo": 220,
+ "nadpis": "Das die von Ober Sibental vnd ander dero von Bernn lüte gen Visis zugen vnd wolten die Lamparter straffen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 462,
+ "strany": [
+  462,
+  463,
+  464,
+  465
+ ],
+ "odstavce": [
+  {
+   "text": "[S]o nů alle manungen vnd schriben an die hertzogin von Safoi vnd die landschaft nit wolten helfen / vnd die geswornen ewigen punde in etwie mengen weg gebrochen vnd nit gehalten wurden / Do vernamen etlich der von Bernn lüte von Ober Sibental vnd ander / wie die von Visis denen von Bernn iren herrnn zů schand vnd smach etlich vnerlich wort wider si retten / vnd hetten von inen schantlich vnd vnerlich sachen lassen molen / vnd das ouch die Lamparter vnd ander an dem ennde für geschoben wurden / Vnd wart nit betracht / das si an das hus von Safoi gehorten / mit denen man gern in friden vnd rüwen were bliben / doch wisten si der hertzogin von Safoi daran zů dienen / Also zugen die von Ober Sibental vnd etlich ander ir nachburen durch sich selber gen Visis / vnd meinten die Lamparter zů straffen / vnd inen die wege zů erleiden Da das die von Bernn vernamen / vmb das si mit dem hus von Safoi nit zů kriege kement vnd die ewigen geswornen punde durch si gehalten wurden / da schickten si ir botschaft zů den iren / daran zů sinde / das man nüzemal mit denen von Visis nit fürneme / damit man mit dem Safoyschen hus zů keinen vnrüwen keme das beschach ouch dazemal / wie wol die von Visis wol hetten verdienet / das man si swarlichen hette gestraft / doch ward inen nachmalen ir rechter verdienter lon",
+   "preklad": "Když tedy všechny výzvy a listy vévodkyni Savojské a zemi nechtěly nic pomoci a přísežné věčné spolky byly mnoha způsoby porušovány a nedodržovány, doslechli se někteří bernští lidé z Horního Simmentalu a jiní, že obyvatelé Vevey pronášejí proti Bernským, jejich pánům, k hanbě a potupě nečestná slova, že o nich dali namalovat hanebné a nečestné věci a že tam byli také Lombarďané a jiní posíláni dál. A nebrali [obyvatelé Vevey] ohled na to, že patří k savojskému domu, s nímž by se rádo zůstalo v míru a klidu; věděli však, že tím slouží vévodkyni Savojské. Tak táhli lidé z Horního Simmentalu a někteří jejich sousedé na vlastní pěst k Vevey a mínili Lombarďany potrestat a zhnusit jim tu cestu. Když to Bernští uslyšeli, poslali k svým lidem poselstvo, aby se proti Vevey tentokrát nic nepodnikalo – aby se se savojským domem nedostali do války a aby jimi byly věčné přísežné spolky dodrženy, a tak aby se se savojským domem nedošlo k žádným nepokojům. To se tehdy také stalo, ačkoli si obyvatelé Vevey dobře zasloužili, aby byli těžce potrestáni; později se jim však dostalo jejich pravé zasloužené odměny."
+  },
+  {
+   "text": "[V]nd als nů die von Bernn marckten vnd sachen / das si von der hertzogin von Safoi vnd den iren So menigvaltiklichen angereitzt wurden / vnd si über ein / von irem bösen fürnemen vnd mütwillen / nit wolten stan / vnd die geswornen punde als gantz verachteten / Do wolten die von Bernn ir fürbas mit me schriben noch si manen / dann es alles nit verfieng / vnd schriben dem Graven von Greyers / der margschalck in Safoi was / als harnach statt",
+   "preklad": "A když nyní Bernští poznali a viděli, že je vévodkyně Savojská a její lidé tak mnohonásobně dráždí, že přes všechno nechtějí od svého zlého záměru a svévole upustit a že přísežnými spolky tak zcela pohrdají, nechtěli jí Bernští už dále psát ani ji vyzývat, neboť nic nepomáhalo. Napsali [proto] hraběti z Gruyère, který byl savojským maršálkem, jak následuje."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 463,
+   "popis": "dokončená kolorovaná miniatura – posel na koni s dopisem s pečetí přijíždí k zástupu pikenýrů (vlevo korouhev s bernským medvědem), v pozadí Ženevské jezero s loďkou, opevněné město (Vevey), skály a dům; v dálce jezdci"
+  },
+  {
+   "strana": 464,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 463,
+   "text": "463 X (pozdější foliace, pravý horní roh); miniatura přes většinu strany, dole text s vynechaným místem pro iniciálu S"
+  },
+  {
+   "strana": 464,
+   "text": "464 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; pod ní volné místo (rubrika nevepsána), pak text s vynechaným místem pro iniciálu V"
+  },
+  {
+   "strana": 465,
+   "text": "465 X (pozdější foliace, pravý horní roh); stránka bez obrázku; nahoře 5 řádků, uprostřed rubrika, dole dopis s vynechaným místem pro iniciálu V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 462,
+   "text": "Visis = Vevey (Vivis)"
+  },
+  {
+   "strana": 464,
+   "text": "pod miniaturou volné místo – rubrika zde nebyla vepsána; text pokračuje novým odstavcem"
+  }
+ ],
+ "nadpis_preklad": "Jak lidé z Horního Simmentalu a další bernští poddaní táhli k Vevey a chtěli potrestat Lombarďany",
+ "poznamky_prekladu": [
+  "Visis = Vevey (německy Vivis) na Ženevském jezeře.",
+  "„für geschoben“ – Lombarďané byli z Vevey „posouváni dál“, tj. propouštěni na cestu do Burgundska.",
+  "„ir rechter verdienter lon“ – narážka na pozdější vyplenění Vevey Spříseženci (mimo přepis: 1476).",
+  "2. odstavec: „mit me schriben“ čteno ve smyslu „nit me schriben“ (už nepsat). Rubrika pod miniaturou chybí (viz poznámka k přepisu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -14,7 +14,7 @@
   },
   {
    "text": "Und nach der vorgenanten slacht und niderlege zü Erikort, do bestünden dis sachen etwas zits, das kein rechter angrif noch zug beschach in Burgunnen; so waren ouch die Burgunner als zam worden, das si sich ganz still und verborgen hatten, und was ouch darzü gar hert, kalt wetter, das man mit inen nit mocht geschaffen; wiewol etwie menigmal von Bern und andern der Eidgnossen knechten versampnungen beschachen, in Burgunnen zü ziechen, so wurdent si doch dicke gewent und hinderhalten, dann ir wenig was und hatten kein ordnung und müst man entsitzen, das si schaden nemen.",
-   "preklad": "Po výše zmíněné bitvě a porážce u Héricourtu věci nějaký čas ustaly, takže do Burgundska nedošlo k žádnému pořádnému útoku ani tažení. Burgunďané byli také tak zkrocení, že se drželi úplně tiše a v úkrytu, a k tomu bylo velmi tuhé, studené počasí, takže se s nimi nedalo nic pořídit. Ačkoli se knechti z Bernu a od jiných konfederátů mnohokrát shromažďovali, aby táhli do Burgundska, byli často odvráceni a zadrženi, neboť jich bylo málo, neměli žádný řád a bylo se třeba obávat, že utrpí škodu."
+   "preklad": "Po výše zmíněné bitvě a porážce u Héricourtu věci nějaký čas ustaly, takže do Burgundska nedošlo k žádnému pořádnému útoku ani tažení. Burgunďané byli také tak zkrocení, že se drželi úplně tiše a v úkrytu, a k tomu bylo velmi tuhé, studené počasí, takže se s nimi nedalo nic pořídit. Ačkoli se knechti z Bernu a od jiných Spříseženců mnohokrát shromažďovali, aby táhli do Burgundska, byli často odvráceni a zadrženi, neboť jich bylo málo, neměli žádný řád a bylo se třeba obávat, že utrpí škodu."
   }
  ],
  "poznamky": [
@@ -25,5 +25,6 @@
   "Bernské varianty: „von Illingen“ (pán z Illens), „mit grossen costen“, „hart und kalt wetter“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

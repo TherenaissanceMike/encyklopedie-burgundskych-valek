@@ -1,0 +1,41 @@
+{
+ "cislo": 166,
+ "nadpis": "Das die Burgunner / Lamparter vnd Bickarten mit grossen machten / an die von Bernn vnd ander / in witem velde kament / vnd si nit getorsten angreiffen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 347,
+ "strany": [
+  347,
+  348,
+  349
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü die von Bernn in dem land Burgunn also vmb gezogen waren / vnd gar vil schöner dörffern verbrönt vnd gewüst hatten / da zugen nü si mit ir paner wider harumb / in meynung an dem wider ker noch me ze brönnen vnd wüsten / vnd meintent sich dann nach gelegenheit der ding wol gerochen haben / vnd schreiben ouch iren herren gen Bern das man von stund an die eidgno[ssen] / vnd ander so zů inen zugen / wenden solt / dann si ir nit bedörften / in dem hatten sich die Burgunner / Lamparter / Bickarten / vnd ander mit grossen machten versampnet / die man schatzt ob zwölf tusent gewapneter mannen / als das nachmalen von inen selber gerett wart / vnd zugen also in güter ordnunge / vf witem velde in dem huffen / vnd grossen scharen gein inen do wart von stund an von dem vorgenanten herr Niclaus von diespach dem houptman / vnd ouch herr hannsen von halwil sinem Swager in dem witen velde ein wagenburg geslagen vnd gar gůt ordnungen gemacht / vnd ruckten also in der wagenburg gein den vienden / in rechter meynung mit inen zů Striten / des si ouch von hertzen begerten / vnd wann si meinten si solten bestan / so wichent si wider hinder sich / vnd wurden inen etlich erschossen dann ouch die von Bernn ir güten büchsen by inen / vnd ouch als erlich ordnung hatten / das si damit den erlichen widerstant tatent / vnd als die viend semlichen ritterlichen widerstand vnd gůt ordnungen vnder inen sachen / vnd si ouch alwegen in der wagenburg gegen inen ruckten / vnd mit inen begerten zů striten vn[d] nit absetzen wolten / da zugen si schantlich ab vnd fluchen an ir gewarsame / do mocht man si leider zů füs nit me erylen / dann si alle zů ross warent / vnd zugen also die von Bernn desselben mals wider gen Ponterlin / vnd verbranten vnd verwüsten die Statt vnd das Sloss / vnd darzů ander schön dörfer / was si dann vnder wegen funden",
+   "preklad": "Když Bernští takto protáhli zemí Burgundskem a vypálili a zpustošili velmi mnoho pěkných vesnic, obrátili se se svou korouhví zpět s úmyslem při návratu ještě víc pálit a pustošit; mysleli, že se tak podle okolností dobře pomstili. Napsali také svým pánům do Bernu, aby ihned zastavili Spřísežence a ostatní, kteří k nim táhli, neboť je nepotřebují. Mezitím se Burgunďané, Lombarďané, Pikarďané a jiní shromáždili ve velké moci, jejíž sílu odhadovali na přes dvanáct tisíc ozbrojených mužů, jak potom vypravovali oni sami. Táhli proti nim v dobrém pořádku po širém poli v houfu a ve velkých šicích. Tu ihned zmíněný pan Niklaus von Diesbach, hejtman, a také pan Hans von Hallwyl, jeho švagr, rozbili na širém poli vozovou hradbu a udělali velmi dobrý pořádek. A tak postupovali ve vozové hradbě proti nepřátelům s opravdovým úmyslem s nimi bojovat, po čemž také ze srdce toužili. Ale kdykoli mysleli, že [nepřátelé] vydrží, ti zase ustoupili dozadu, a několik jich bylo zastřeleno, neboť Bernští měli u sebe svá dobrá děla a také tak čestný pořádek, že jim tím čestně vzdorovali. A když nepřátelé viděli takový rytířský odpor a dobrý pořádek mezi nimi a že stále postupují ve vozové hradbě proti nim, touží s nimi bojovat a nechtějí ustoupit, odtáhli hanebně a utekli do svých bezpečných míst. Pěšky je pak už bohužel nebylo možné dostihnout, neboť byli všichni na koních. A tak Bernští tehdy táhli zpět k Pontarlier, vypálili a zpustošili město i hrad a k tomu další pěkné vesnice, které cestou našli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 347,
+   "popis": "velká dokončená kolorovaná miniatura – spříseženci a Burgunďané proti sobě v poli: vlevo spříseženecký šik s lesem píků, bernský prapor s medvědem a korouhve (šachovnicová, se sekerou), hořící vesnice v pozadí; vpravo burgundská jízda s černými korouhvemi s ondřejským křížem; v popředí spříseženští dělostřelci s polními děly na kolových lafetách, truhly s koulemi a prachem, nabijákem; střelci s bílými kříži"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 348,
+   "text": "348 X (pozdější foliace, levý horní roh); text přes šedě podložený rám (místo pro obrázek)"
+  },
+  {
+   "strana": 349,
+   "text": "349 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek – patrné bílé kříže); rubrika dole"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Burgunďané, Lombarďané a Pikarďané přitáhli s velkou mocí na Bernské a další v otevřeném poli a neodvážili se je napadnout",
+ "poznamky_prekladu": [
+  "Wagenburg = vozová hradba (tábor z vozů); boj se odehrál podle dopisu v kap. 180 na svatého Jiří, tj. 23. 4. 1475 (juliánský kalendář).",
+  "Hans von Hallwyl – švagr Niklause von Diesbach; pozdější velitel předvoje u Murtenu 1476 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

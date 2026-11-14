@@ -1,0 +1,45 @@
+{
+ "cislo": 384,
+ "nadpis": "Das herr Friderich ein pfallentzgraff bi dem Rine ouch starp",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 871,
+ "strany": [
+  871,
+  872,
+  873
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Jare starp ouch herr Friderich ein pfallentzgraff bi Rine / der sich dann har etlichen ziten mit denen von Bernn vnd andern eidgno[ssen] gar fruntlichen gehalten / Vnd sich aber nachmalen wider die eidgno[ssen] gar treffenlichen gesatzt vnd vnnderstanden hatt mit dem hertzogen von Burgunn / daran zů sin der dann ir tötlicher viend was als hievor statt",
+   "preklad": "Téhož roku zemřel také pan Fridrich, falckrabě rýnský, který se po nějakou dobu choval k Bernským a jiným Spřísežencům velmi přátelsky, později se však proti Spřísežencům velmi silně postavil a pokoušel se být na straně vévody Burgundského, který byl jejich smrtelným nepřítelem, jak stojí výše."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 872,
+   "popis": "smrt falckraběte Fridricha Vítězného: v komnatě pod baldachýnem leží umírající na lůžku, mniši se modlí a čtou z knih, klečící mnich; muž v brokátovém plášti s lahvičkou (lékař s uroskopickou baňkou); u stolu s konvicemi a mísou truchlící dvořané; vpravo mladík s mečem; na stěně nahoře erb falckých Wittelsbachů s klenotem korunovaného lva (lev a modrobílé routy) a čtvrcená korouhev se lvy a routami; na zemi kropenka"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 872,
+   "text": "872 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou I"
+  },
+  {
+   "strana": 873,
+   "text": "873 X (pozdější foliace, pravý horní roh); rubrika s iniciálou H nahoře, pod ní celostránkový obraz (bez dalšího textu)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 872,
+   "text": "Fridrich I. Vítězný, falckrabě rýnský, zemřel 12. 12. 1476"
+  }
+ ],
+ "nadpis_preklad": "Jak také zemřel pan Fridrich, falckrabě rýnský",
+ "poznamky_prekladu": [
+  "Fridrich I. Vítězný, falckrabě rýnský, zemřel 12. 12. 1476; Schilling ho řadí do „zmíněného roku“ [14]77 (rok počítán od Vánoc se tu nekryje – nesoulad, mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

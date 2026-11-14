@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Hienach stand geschriben die stett und schlosser mit namen, so die fromen und vesten stett Bern, Friburg, Solotern, Lutzerren mit ettlichen Eydgnossen, so sy gewunnen hand, ritterlich mit dem schwert und mit herten stürmen.",
-   "preklad": "127. Zde jsou jménem zapsána města a hrady, které statečná a pevná města Bern, Fribourg, Solothurn a Luzern s některými konfederáty dobyla, rytířsky, mečem a tvrdými útoky."
+   "preklad": "127. Zde jsou jménem zapsána města a hrady, které statečná a pevná města Bern, Fribourg, Solothurn a Luzern s některými Spříseženci dobyla, rytířsky, mečem a tvrdými útoky."
   },
   {
    "text": "Murten, statt und schlos.",
@@ -197,7 +197,7 @@
  ],
  "poznamky": [
   "Opravy textu: odstraněny značky poznámek a čísla řádků edice („Mont, 7 ;“, „» Tschattoe“, „4 ) 10 Erling“, „Bont,°)“, „i 5 Eysey“), „iiberhoupt“ → „überhoupt“, „niiw“ → „nüw“; položky, které OCR slilo do jednoho řádku (Montrichier; Ruw a Ettaling; Ewerde; Erling; Solapirra až Eysey), rozděleny, takže každý odstavec je jedno místo. Seznam má 44 položek, stejně jako u Schillinga.",
-  "Pole poznamky_editora je posunuté: první položka patří ke konci kap. 126 (příchod do Fribourgu, pohoštění konfederátů), Büchiho poznámky ke druhé části seznamu (Attalens až Cugy, s. 114 edice) jsou uloženy v poli kap. 128.",
+  "Pole poznamky_editora je posunuté: první položka patří ke konci kap. 126 (příchod do Fribourgu, pohoštění Spříseženců), Büchiho poznámky ke druhé části seznamu (Attalens až Cugy, s. 114 edice) jsou uloženy v poli kap. 128.",
   "Büchi, určení a doklady: Remond = Belmont jižně od Yverdonu; Eysey = Cugy (u Schillinga stojí jinde); Ettaling = Attalens (i Attalens muselo zaplatit výpalné); Waramun = Vaulruz; Ewerde = Everdes (Grätlingen); Wippingen = jen Vuippens, který byl jako Everdes přičleněn k Fribourgu; Erling = nejspíš Illens; Solapirra = Surpierre, vzdal se Bernu a Fribourgu; Granckor = Grandcour, hrabě z Gruyères ho prodal Philibertovi de Compey, pánovi z Chapelle; La Motta patřila Jeanovi de Vergy; Eeus = Nyon.",
   "Büchi, výpalné (brandschatz) podle fribourgských akt: Cossonay 300 liber, Vuillerens a Morge(s) také, Vufflens 100 liber, Nyon 200 liber a navíc vypleněno za 4200 zlatých; z Nyonu byl vyhnán celník (list ženevského administrátora z 21. 12. 1475). 22. 10. 1475 přísahal Wilhelm Mayor jako fribourgský hejtman v Pontu.",
   "[?] „Eeus“: tak čte OCR i surový text; Büchi i Schilling („Neus“) míní Nyon, varianty mají Nenis, Mons, Menss. Možná chyba OCR za „Neus“, v textu ponecháno.",
@@ -207,5 +207,6 @@
   "Oproti Schillingovi: nadpis výslovně jmenuje čtyři města Bern, Fribourg, Solothurn a Luzern (Schilling jen „ve Vaudu“); u Estavayer a Les Clées Molsheim dodává „útokem“; místo Schillingova nejistého Murnersi stojí rovnou Montricher; Morge je „město a hrad“ (Schilling jen hrad) a Vuippens „město“; Cugy je až na konci seznamu. Vynechán je Schillingův závěrečný odstavec o čestné písni složené na Fribourgské (Büchi: „ohne den letzten Absatz“)."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

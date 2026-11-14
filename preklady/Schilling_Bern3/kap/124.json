@@ -1,0 +1,42 @@
+{
+ "cislo": 124,
+ "nadpis": "Das die von Cöln gar gůt houptlüte wider den hertzogen von Burgunn in die Statt Nüss schickten vnd taten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 256,
+ "strany": [
+  256,
+  257,
+  258
+ ],
+ "odstavce": [
+  {
+   "text": "Als balde die von Cölne das vernamen / da schicktent si gar treffenlich hantvest lüte gen Nüss / vnd vieng man von stund an tag vnd nacht in der Statt wercken / vnd sich gein dem hertzogen von Burgunn mannlich zů rüsten / vnd meinten im mit gottes / vnd des himelfürsten Sant Quirins hilf / der dann ir rechter patron ist / ein widerstand ze tůnde / bis si us sinem gewalt / von dem Römschen keiser / ouch andern fürsten herrenn vnd Rich Stetten möchten entschütt werden / vnd taten im grossen widerstand mit schiessen / scharmützen vnd anderm / er vieng ouch mit inen vil stürmen vnd ander sachen an / vnd als man das us gewarer kuntschaft hatt / so wurden etlich tage ob fünf hundert büchsen steinen / gros vnd klein in die Statt geschossen / Sy wartent sich ouch gar mannlich / vnd tatent dem hertzogen grossen widerstand / vnd abbruch / mit vmbbringen vnd erstechen vil lüten / als man harnach witer hören wirt",
+   "preklad": "Jakmile se to Kolínští dozvěděli, poslali do Neussu velmi vynikající, zdatné lidi. A ve městě se ihned začalo ve dne v noci pracovat [na opevnění] a mužně se chystat proti vévodovi Burgundskému. Mínili mu s pomocí Boží a nebeského knížete svatého Quirina, který je jejich pravým patronem, vzdorovat, dokud nebudou z jeho moci vysvobozeni římským císařem a také jinými knížaty, pány a říšskými městy. A kladli mu velký odpor střelbou, šarvátkami a jinak. On s nimi také začal mnoho útoků a jiných věcí. A jak se vědělo ze spolehlivých zpráv, některé dny bylo do města vystřeleno přes pět set kamenných dělových koulí, velkých i malých. Bránili se také velmi mužně a působili vévodovi velký odpor a škodu, když pobili a probodli mnoho lidí, jak se dále uslyší."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 257,
+   "popis": "velká dokončená kolorovaná miniatura – kolínská posádka vchází do Neussu: v pozadí burgundské ležení se stany a černými korouhvemi s ondřejským křížem, obléhací dřevěné ploty a dělostřelecké pavézy, na řece loďka s vojáky; zleva brána města, kterou vchází houf obrněných pěšáků s halapartnami a korouhví se třemi korunami (Kolín – tři králové); na mostě vpravo dvě měšťanky ukazují prstem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 257,
+   "text": "257 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 258,
+   "text": "258 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); dole prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Kolínští poslali do města Neussu velmi dobré hejtmany proti vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "Sv. Quirin = patron Neussu.",
+  "„ob fünf hundert büchsen steinen“ = přes pět set kamenných koulí z děl za den – počet ponechán podle textu.",
+  "„hantvest lüte“ = zdatní, statní lidé; v nadpisu „houptlüte“ = hejtmani."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

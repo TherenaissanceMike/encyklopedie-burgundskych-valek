@@ -1,0 +1,36 @@
+{
+ "cislo": 32,
+ "nadpis": "Das die von Bernn vnd ander mit ein macht vor Waltzhůt vff die fůtre zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 67,
+ "strany": [
+  67,
+  68
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach an Sant Bartholomeus tag des vorgenanten Jares / zugen die von Bernn vnd ander mit einem vennli vff die fůtre Vnd kament die von Vre vnd Vnderwalden / mit zwey hundert mannen ouch zů inen / vnd als si in das nechst dorff kament / da warent die viend darinn by zweyhunderten zů ross vnd ouch etlich zů fůs / vn[d] warent etlich knecht vmb roubens willen vor dannen gelouffen / der wart einer von Bernn wund / vnd einer gevangen / Also namen die viend angends die flucht / das man si zů fůs nit wol mocht erylen Vnd wurden dennocht der vienden etlich erstochen darzů gevangen vnd etwie menger wund / Vnd als nachmalen von den vienden offenlich geret wart So was der schreck vnd die flucht als gantz vnder si komen / hette man vorteneckt[?] vnd für gezogen / man hett die letze mit gewalt / vnd alles das si da hatten gantz gewunnen",
+   "preklad": "Potom na den svatého Bartoloměje zmíněného roku vytáhli Bernští a další s praporcem na pícování. Přišli k nim také Urijští a Unterwaldenští se dvěma sty muži. A když přišli do nejbližší vesnice, byli v ní nepřátelé, kolem dvou set jezdců a také několik pěších. Někteří knechti tam předtím odběhli kvůli loupení; z nich byl jeden Bernský zraněn a jeden zajat. Nepřátelé se pak hned dali na útěk, takže je pěší nemohli dobře dostihnout. Přesto bylo několik nepřátel pobito, k tomu zajato a nemálo jich zraněno. A jak potom nepřátelé veřejně říkali, zmocnil se jich strach a útěk tak úplně, že kdyby se bylo naléhalo [?] a táhlo dále, byl by se zátaras násilím dobyl i se vším, co tam měli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 67,
+   "popis": "dvě třetiny strany – oddíl s korouhvemi táhne pro píci, potyčka u palisády; na skále veverka (?)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 68,
+   "text": "68 X (pozdější foliace, levý horní roh); horní text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a další táhli s velkou silou od Waldshutu na pícování",
+ "poznamky_prekladu": [
+  "Den sv. Bartoloměje = 24. 8. 1468 (juliánský kalendář).",
+  "„vorteneckt[?]“ – čtení nejisté; smysl patrně „pokračovat, naléhat, využít výhody“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

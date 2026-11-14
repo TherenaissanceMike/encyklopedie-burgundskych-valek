@@ -1,0 +1,40 @@
+{
+ "cislo": 14,
+ "nadpis": "Das Zillissen das schön Sloss von denen von Bernn vnd Sollotern ingenomen / Vnd gantz verbrant vnd gewůst wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 36,
+ "strany": [
+  36,
+  37,
+  38
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als die von Bernn vnd von Sollotern mit iren verwanten / dennocht vor Brunstat im leger waren / Da lüffen etlich vnder inen gen Zillissen zů dem Sloss / vnd gewunnen das von stund an / vnd vingen alle die darinne waren / vnd brachten die den houptlüten von Bernn die liess man durch gottes willen louffen Si fundent darinne gar vil gůtes / dann es gar ein wol erbuwen schön Sloss was / Vnd ward dasselb Sloss vnd das dorff darnach angestossen vnd in grund verbrant /",
+   "preklad": "A když Bernští a Solothurnští se svými spojenci byli ještě před Brunstattem v ležení, vyběhli někteří z nich k hradu Zillisheim, ihned ho dobyli, zajali všechny, kdo v něm byli, a přivedli je k bernským hejtmanům; ty pro Boha propustili. Našli v něm velmi mnoho majetku, neboť to byl velmi dobře vystavěný pěkný hrad. Ten hrad i vesnice byly potom zapáleny a vypáleny do základů."
+  },
+  {
+   "text": "Es lüffen ouch etlich von Bernn vnd Sollotern für ein Starck Sloss genant Eschwilre[?] / vnd wolten da ouch ir heil versůchen / Da wurden angendes drey geschossen / der selben einer starp vnd müsten von dannen wichen / Da zugen die viend ouch glich darab / vnd namen was inen werden mocht / vnd verbranten das Sloss selber /",
+   "preklad": "Někteří z Bernu a Solothurnu také vyběhli před silný hrad zvaný Eschentzwiller [?] a chtěli tam také zkusit své štěstí. Tu byli hned tři postřeleni, jeden z nich zemřel, a museli odtud ustoupit. Nepřátelé pak také hned odtáhli, vzali, co mohli, a sami hrad vypálili."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 37,
+   "popis": "horní dvě třetiny strany – dobytí a vypálení hradu Zillisheim"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 38,
+   "text": "38 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští dobyli pěkný hrad Zillisheim a úplně ho vypálili a zpustošili",
+ "poznamky_prekladu": [
+  "Eschwilre[?] – nejisté čtení jména; snad Eschentzwiller jv. od Mulhouse (určení mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

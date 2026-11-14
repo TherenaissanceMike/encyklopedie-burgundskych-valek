@@ -1,0 +1,57 @@
+{
+ "cislo": 415,
+ "nadpis": "Das die von zürich mit irem venlin vnd gar vil erlicher lüten am ersten gen Bernn kament vnd zem küng von franckenrich zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 927,
+ "strany": [
+  927,
+  928,
+  929
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů dis ding von manung wegen des küngs lang zit angestanden waren / bis vmb Sant Johanns tag zů Sunngichten im lxxx Jar da zwüschen wart menig tag geleist / Vnd manten die küngklichen botten die von Bernn vnd ander eidgno[ssen] vmb sechs tusent man / darzů warent ouch vorhin von eidgno[ssen] me dann funff tusent man mit irem willen hin in gezogen / vnd schuff ouch der küng wol drisig[?] geladener mul tieren mit geld gen Bernn / die Soldner damit us zů richten / das wart merenteils gen zürich vnd lutzern gefürt / Also sagtent gemein eidgno[ssen] von Stetten vnd lenndern zů usgenomen die von Switz vnderwalden vnd Glarus / die hatten etwas fürworten von des Soldens vnd ander sach wegen / doch sagten si am letsten ouch zů / Vnd wart also angeseche[n] das sich yederman mit iren vennlinen vnd houptlüten nach eren zů rüsten / vnd an mitwochen nach Sant laurentien tag gen Bernn komen soltent als ouch beschach / vnd kament am ersten die von zürich gar mit einem erlichen volck gen Bernn",
+   "preklad": "A když tyto věci kvůli královu vyzvání dlouho odpočívaly, až do svatého Jana o slunovratu v roce [14]80, konalo se mezitím mnoho sněmů. Královští poslové vyzývali Bernské a jiné Spřísežence o šest tisíc mužů; kromě toho už předtím ze Spříseženců odtáhlo [do Francie] z vlastní vůle více než pět tisíc mužů. Král také poslal do Bernu dobrých třicet [?] mul naložených penězi, aby se jimi vyplatili žoldnéři; to bylo většinou odvezeno do Curychu a Luzernu. Tak to všichni Spříseženci z měst a zemí přislíbili, kromě Schwyzských, Unterwaldenských a Glaruských, kteří měli nějaké výhrady kvůli žoldu a jiným věcem; nakonec to však přislíbili také. A tak bylo ustanoveno, aby se každý se svými praporci a hejtmany čestně vyzbrojil a přišel ve středu po svatém Vavřinci do Bernu, jak se také stalo. Jako první přišli do Bernu Curyšští s velmi čestným lidem."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 928,
+   "popis": "město se znaky Bernu (medvěd) na věžích a bráně; z brány a přes most vycházejí ozbrojenci s píkami, jeden voják pije z láhve; po cestě do kopce táhne zástup s praporcem a korouhví (curyšský „venlin“), s palcáty a meči; vpravo stany; v pozadí skály, les a vrchy; vpředu tmavý svah"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 928,
+   "text": "928 X (pozdější foliace, levý horní roh); celostránkový obraz (k rubrice na s927), dole odstavec; iniciála V nevyvedena (jen předkreslený tah)"
+  },
+  {
+   "strana": 929,
+   "text": "929 X (pozdější foliace, pravý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, ozdobná kadela, dole rubrika s iniciálou D (k obrazu na s930)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 928,
+   "text": "do sv. Jana Křtitele (Slunovratu, 24. 6.) 1480; Ludvík XI. žádal 6000 mužů, už předtím odešlo dobrovolně přes 5000; král poslal „wol drisig[?] geladener mul tieren mit geld“ (snad 30 mul naložených penězi) – číslovka nejistá"
+  },
+  {
+   "strana": 929,
+   "text": "srocení ve středu po sv. Vavřinci (10. 8.) 1480 v Bernu; Schwyz, Unterwalden a Glarus se zdráhali kvůli žoldu"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 927,
+   "text": "vpravo dole slabé tužkové poznámky pozdější rukou (nečitelné)"
+  }
+ ],
+ "nadpis_preklad": "Jak Curyšští se svým praporcem a mnoha čestnými lidmi přišli jako první do Bernu a táhli ke králi francouzskému",
+ "poznamky_prekladu": [
+  "Sv. Jan Křtitel o slunovratu = 24. 6. 1480. Středa po sv. Vavřinci (10. 8., v roce 1480 čtvrtek) = 16. 8. 1480 (juliánský kalendář).",
+  "„wol drisig[?] geladener mul tieren mit geld“ – číslovka v rukopisu nejistá; překlad „dobrých třicet [?] mul naložených penězi“.",
+  "Tažení 1480 do služeb Ludvíka XI. proti Maxmiliánovi Habsburskému (válka o burgundské dědictví)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

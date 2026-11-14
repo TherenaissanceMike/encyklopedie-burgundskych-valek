@@ -1,0 +1,36 @@
+{
+ "cislo": 58,
+ "nadpis": "Das der vorgenant hertzog Sigmund zem küng von Franckenrich reit / vnd die eidgno[ssen] in mengen sachen gar treffenlich verclagt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 135,
+ "strany": [
+  135,
+  136
+ ],
+ "odstavce": [
+  {
+   "text": "Darzů brachten ouch si durch semlich vnwarlich verclagen zů wegen / das gros versamnungen zů Nüremberg / zů Franckfurt vnd andern enden / von den Churfürsten / ouch andern fürsten vnd herrenn / in biwesen hertzog Sigmunds Vnd villicht aller meist durch sinen willen / wider die eidgno[ssen] gehalten / vnd anslege oder eynungen vnder inen angesechen / als des die eidgno[ssen] von etlichen iren gůt gönnern tegliche gewarnet wurden Aber wie vil des was / So wolt sich ir keiner der sach wider die eidgno[ssen] solicher mass an nemen / wann das ye der genant hertzog Sigmund dis alles so hoch zů hertzen nam / vnd sich sin Räte vnd amptlüt als wit erweigen[?] vnd dar hinder bringen liess / Das er in eigner persone vnd mit im sin treffenlichen Räte zem aller cristenlichesten küng von Franckenrich reit vnd verclagt vor dem die eidgno[ssen] so hoch vnd hart das er ye meint einen widerstand an im vinden",
+   "preklad": "K tomu [jeho rádci] takovým nepravdivým obviňováním dosáhli i toho, že se v Norimberku, ve Frankfurtu a jinde konala proti Spřísežencům velká shromáždění kurfiřtů i jiných knížat a pánů za přítomnosti vévody Zikmunda, a snad nejvíce z jeho vůle, a byly mezi nimi zvažovány plány nebo spolky, jak o tom byli Spříseženci od některých svých příznivců denně varováni. Ale ať toho bylo sebevíc, nikdo z nich se té věci proti Spřísežencům takovou měrou ujmout nechtěl. Zmíněný vévoda Zikmund si to však všechno vzal tak velice k srdci a nechal se svými radními a úředníky tak daleko pohnout [?] a strhnout, že osobně a s ním jeho přední radní jel k nejkřesťanštějšímu králi francouzskému a obžaloval před ním Spřísežence tak vysoce a tvrdě, že doufal, že v něm najde oporu proti nim."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 135,
+   "popis": "dokončená kolorovaná miniatura, dvojdílná – vlevo v síni s klenbou a okny sedí francouzský král (koruna, lilie na žezle) a mluví s vévodou Zikmundem a dvořany (dlouhé špičaté boty, meč); vpravo jízda obrněnců s kopími a velkou korouhví, trubač, krajina s kopci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 136,
+   "text": "136 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (místo pro obrázek, prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že zmíněný vévoda Zikmund jel ke králi francouzskému a velmi důrazně obžaloval Spřísežence z mnoha věcí",
+ "poznamky_prekladu": [
+  "„erweigen[?]“ – čtení nejisté; smysl snad „pohnout, přimět“ (bewegen).",
+  "Cesta vévody Zikmunda Rakouského ke králi Ludvíku XI. proběhla roku 1469 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

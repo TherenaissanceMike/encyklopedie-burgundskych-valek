@@ -29,10 +29,11 @@
   "Oprava textu: OCR vynechalo celou střední část kapitoly (od „beschiessen, dann man noch bis dar…“ po „…drithalbtusent gewapneter“) a spojilo začátek se závěrem; doplněno ze surového OCR (Tobler I, 254–256). Odstraněny zbytky „FH“ a uvozovka. Text rozdělen do odstavců.",
   "Skrytá kapitola (jen v bernském rukopisu): Tobler u ř. 23 s. 255 („Semlichs wart von dem houptman…“) uvádí variantu „Titel: Das der houptman von Bern und ander im velde semlich sachen iren hern und obern heimschribent“ – bernský rukopis tu tedy začíná novou kapitolu (Jak bernský hejtman a jiní v poli psali tyto věci domů svým pánům). Text neděleno, protože JSON sleduje Toblerovo číslování.",
   "Tobler: Anton, bastard Burgundský, právě tehdy přišel s nově naverbovanými vojsky z Itálie do Besançonu.",
-  "Tobler: výtah 2500 mužů schválila rada a měšťané jednomyslně 4. 8. 1475; odchod spolu s houfy z Fribourgu a Solothurnu byl stanoven na 8. 8. Zemi a lid svěřili Bernští zbylým konfederátům.",
+  "Tobler: výtah 2500 mužů schválila rada a měšťané jednomyslně 4. 8. 1475; odchod spolu s houfy z Fribourgu a Solothurnu byl stanoven na 8. 8. Zemi a lid svěřili Bernští zbylým Spřísežencům.",
   "„unverfanglichen“ = bez účinku. „den sturm behalten“ = útok ustát, odrazit. „erschiessen“ = prospět, být k užitku (Tobler, glosář; slovní hříčka se střelbou). „kuchigelt“ = příspěvek na kuchyni, na stravu (Tobler, glosář).",
   "Bernské varianty: nadpis „und ander ir verwanten … umb noch me lüten heim schribent“; „nit me gewinnen, sunder müst man es an andern enden vorhin ouch beschiessen und bas versüchen“; „Diespach und andern bi im“; „satzt man inen das alles heim“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

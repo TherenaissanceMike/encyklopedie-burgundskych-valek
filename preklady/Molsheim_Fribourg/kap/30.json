@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Wie durch from wise lüt angetragen ward, ein vereinung ze machen und frid zwüschent dem fürsten von Oesterich und den Eydgnossen.",
-   "preklad": "30. Jak poctiví a moudří lidé navrhli uzavřít spolek a mír mezi knížetem rakouským a konfederáty."
+   "preklad": "30. Jak poctiví a moudří lidé navrhli uzavřít spolek a mír mezi knížetem rakouským a Spříseženci."
   }
  ],
  "poznamky_editora": [],
@@ -21,5 +21,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 95, odst. 1) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

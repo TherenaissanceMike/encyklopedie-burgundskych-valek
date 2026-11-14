@@ -1,0 +1,30 @@
+{
+ "cislo": 76,
+ "nadpis": "Die antwurt von dem hertzogen von Burgunn / denen von Bernn vnd Sollotern",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 160,
+ "strany": [
+  160,
+  161
+ ],
+ "odstavce": [
+  {
+   "text": "Daruf der hertzog von Burgunn den von Bernn vnd Sollotern gar ein slecht vnd hochmütig antwurt gap / Er könde anders nit wissen noch verstan / dann das der von hagenbach anders nit tete / dann das zimlich vnd billich Vnd ouch sin sunder will vnd meynung wer / vnd was er denen von Müllhusen tete / daran beschech inē recht / dann das von ir schulden wegen wer / davor könde noch wolt er nit sin / dann er von den sinen als menigvaltiklich angerüft wurde / das er inen müst gestatten / Sich gein inen vmb ir schulden wie si möchten zů behelfen / vnd er könde nit verstan dz die verstentnüss damit wurde bekrenckt[?] / mit gar vil hochvertiger worten / die er inen me dann ein mal verkünd vnd gap",
+   "preklad": "Nato dal vévoda Burgundský Bernským a Solothurnským velmi strohou a pyšnou odpověď: nemůže prý vědět ani chápat nic jiného, než že Hagenbach nedělá nic jiného než to, co je slušné a spravedlivé a co je také jeho zvláštní vůlí a míněním. A co činí Mulhouseským, děje se jim právem, neboť je to kvůli jejich dluhům. Tomu nemůže ani nechce bránit, protože ho jeho lidé tak mnohokrát žádají, že jim musí dovolit, aby se proti nim kvůli svým dluhům domáhali pomoci, jak mohou. A nemůže pochopit, že by tím byla dohoda porušena [?]. [To řekl] s mnoha dalšími pyšnými slovy, která jim oznámil a dal více než jednou."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 161,
+   "text": "161 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Odpověď vévody Burgundského Bernským a Solothurnským",
+ "poznamky_prekladu": [
+  "„bekrenckt[?]“ – čtení nejisté; smysl „porušena, poškozena“ (gekränkt)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

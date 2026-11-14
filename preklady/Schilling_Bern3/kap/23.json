@@ -1,0 +1,41 @@
+{
+ "cislo": 23,
+ "nadpis": "Das die von Bernn mit ir paner vnd einem erlichen volcke ouch gen Waltzhůt zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 52,
+ "strany": [
+  52,
+  53,
+  54
+ ],
+ "odstavce": [
+  {
+   "text": "Als balde man dis denen von Bernn verkund da kament si von stund an mit einer grossen treffenlichen macht vnd ir vff geworffenen paner vnd brachten desselben mals mit inen Zwey tusent gewapneter vnd Streitbarer mannen / Darzů zwo gros houptbüchsen boler vnd anderen zug / vnd warent ir obresten houptlüt herr Peterman von Wabren Ritter herr zů Belp vnd Caspar von Scharnachtal herr zů Brandis / Vnd was venner Peter Bomgarter von dem erberen hantwerck zen Smiden / vnd sin houptman vnd ratt Anthoni Archer von dem erberen hantwerck der pfistern / vnd bi inen ander from lüte von räten vnd burgeren mit denen si alle sachen gar wol vnd erlichen vsrichten / Es kamen ouch die fromen notvesten lüte die von Sollotern angendes mit einem erlichen volck vnd einem vennli / vnd brachten dennocht nachmaln ir Statt paner vnd noch me lüten ouch gen Waltzhůt als harnach bas gelütret statt / Darzů wart ouch den von Zürich vnd von Bernn von gemeinen eidgno[ssen] zů gesagt was si mit irem schiessen costens hetten / das man nach marzal der orten inen solichen costen wolt helfen tragen / wann dennocht die anderen ort nit vil semlicher büchsen noch gezüges hatten",
+   "preklad": "Jakmile to bylo Bernským oznámeno, přišli ihned s velkou a mocnou silou a se svou rozvinutou korouhví a přivedli tentokrát s sebou dva tisíce ozbrojených a bojeschopných mužů, k tomu dvě velká obléhací děla (bombardy), moždíře a další výzbroj. Jejich nejvyššími hejtmany byli pan Peterman von Wabren, rytíř, pán na Belpu, a Caspar von Scharnachtal, pán na Brandisu. Praporečníkem byl Peter Bomgarter z ctihodného řemesla kovářů a jeho hejtmanem a radou Anthoni Archer z ctihodného řemesla pekařů; a s nimi další poctiví lidé z radních a měšťanů, s nimiž všechny věci vyřizovali velmi dobře a čestně. Ihned přišli také stateční a udatní Solothurnští s čestným lidem a s praporcem a později přivedli k Waldshutu ještě svou městskou korouhev a další lidi, jak bude dále lépe vyloženo. Kromě toho všichni Spříseženci Curyšským a Bernským přislíbili, že jim náklady, které budou mít se svou střelbou, pomohou nést podle počtu míst, neboť ostatní místa neměla mnoho takových děl ani válečného materiálu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 53,
+   "popis": "horní dvě třetiny strany – bernské vojsko s korouhví a vozy s děly táhne k Waldshutu"
+  },
+  {
+   "strana": 54,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba s vozy)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 54,
+   "text": "54 X (pozdější foliace, levý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští se svou korouhví a s čestným lidem také táhli k Waldshutu",
+ "poznamky_prekladu": [
+  "„boler“ = moždíře podle glosáře.",
+  "„nach marzal der orten“ = podle počtu míst (kantonů), tj. rovným dílem na každé místo."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,31 @@
+{
+ "cislo": 103,
+ "nadpis": "Das die achtzig tusent guldin vmb die verpfanten landtschaften durch den hertzogen von österrich gen Basel geleit wurde",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 217,
+ "strany": [
+  217,
+  218
+ ],
+ "odstavce": [
+  {
+   "text": "Man ward ouch zů beiden siten fürer ratslagen / vnd dem nach gedencken / die wile vnd nü solich richtung zůgeseit / vnd ye der fürste von österrich des willens were / die verpfanten land vnd lüte wider zů sinen handen ze nemen / mit was glimpfes vnd fůgen das zůwegen möcht komen / das es nach eren des fürsten mit redlicher vrsach beschech / Nü was die verpfandunge vmb die achtzig tusent guldin also zůgangen / vnd hat ouch das der hertzog von Burgunn gelobt vnd verbriefet / wann der hertzog von österrich die achtzig tusent guldin / den pfandSchilling / gen Basel oder ander ende / so dann in der verbriefung bestimpt warend / zů handen des hertzogen von Burgunn leite / so er dann die nemen / vnd die selben lande dem hertzogen von österrich wider zů gehören / vnd ouch aldann die lüte / so darin gehorten / ir eiden vnd pflichten / die si dem hertzogen von Burgunn getan hatten / ledig sin soltent",
+   "preklad": "Na obou stranách se také dále radili a přemýšleli, když už bylo takové narovnání přislíbeno a kníže Rakouský byl rozhodně odhodlán vzít zastavené země a lidi zpět do svých rukou, jakým slušným a vhodným způsobem by se to dalo zařídit, aby se to stalo podle cti knížete a z řádné příčiny. Zástava za osmdesát tisíc zlatých byla totiž ujednána tak – a vévoda Burgundský to slíbil a listinně stvrdil –, že jakmile vévoda Rakouský složí těch osmdesát tisíc zlatých, zástavní sumu, v Basileji nebo na jiných místech určených v listině k rukám vévody Burgundského, má je [vévoda Burgundský] přijmout, tytéž země mají opět patřit vévodovi Rakouskému a lidé, kteří k nim patřili, mají být tehdy zproštěni svých přísah a povinností, jež složili vévodovi Burgundskému."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 218,
+   "text": "218 X (pozdější foliace, levý horní roh); na okraji drobná kresba úponku; stránka bez obrázku; mezi oddíly velké prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévoda Rakouský složil v Basileji osmdesát tisíc zlatých za zastavené krajiny",
+ "poznamky_prekladu": [
+  "Suma 80 000 zlatých ponechána podle textu. Podle literatury zněla zástava ze Saint-Omer (1469) na 50 000 zlatých, s dalšími náklady se suma zvýšila (mimo přepis, k ověření).",
+  "„pfandSchilling“ = zástavní suma."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

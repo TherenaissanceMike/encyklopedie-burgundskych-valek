@@ -1,0 +1,36 @@
+{
+ "cislo": 68,
+ "nadpis": "Das die von Strassburg von der vorgenanten sach wegen mit gantzer macht us zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 148,
+ "strany": [
+  148,
+  149
+ ],
+ "odstavce": [
+  {
+   "text": "Do vernamen die hantvesten[?] fromen lüte von Strassburg / die denen von Bernn vnd andern eidgno[ssen] vil trüwen vnd fruntschaft zů allen ziten erzöugt hand / Vnd zugen von stund an mit ir vffgeworfner paner / vnd gantzer macht darzů mit iren houptbüchsen vnd anderm gezüge für die Statt vnd Sloss Schuttern / Vnd leiten ir houptbüchsen mit ingraben vnd anderm darzů dienende darfür / in willen vnd meynung das mit dem Swert zů erobern / vnd die biderben lüte so darinne gevangen waren / zů entschütten vnd erlösen / alles von rechter trüw vnd liebe wegen / so si zů denen von Bernn vnd andern eidgno[ssen] hatten / Als bald man das zů Bernn vernam / ward man ansechen vnd betrachten / das die fromen lüte von Strassburg von der eidgno[ssen] wegen us gezogen waren / vnd ouch die gefangnen so zů Schuttern lagen / inen zů gehorten Vnd wolt man von stund an mit offner paner vnd gantzer macht zů inen gezogen sin / vnd lib vnd leben in allen trüwen zů inen gesetzt haben Vnd wart für einen obresten houptman geordnet herr Niclaus von Scharnachtal Ritter / vnd ander venner vnd Räte / man schreip ouch dis ding allen andern eidgno[ssen] / die warent ouch willig",
+   "preklad": "To se dozvěděli statní [?] a poctiví lidé ze Štrasburku, kteří Bernským a jiným Spřísežencům vždy prokazovali mnoho věrnosti a přátelství. Ihned vytáhli se vztyčenou korouhví a celou mocí, k tomu se svými velkými obléhacími děly (bombardami) a jiným válečným materiálem, před město a hrad Schuttern. Svá velká obléhací děla před něj postavili se zákopy a jinými potřebnými věcmi, s úmyslem a záměrem dobýt ho mečem a vysvobodit a osvobodit řádné lidi, kteří v něm byli zajati, a to všechno z pravé věrnosti a lásky, kterou chovali k Bernským a jiným Spřísežencům. Jakmile se to v Bernu dozvěděli, uvážili, že poctiví Štrasburští vytáhli kvůli Spřísežencům a že zajatci, kteří leželi v Schutternu, patří k nim. A chtěli ihned s otevřenou korouhví a celou mocí táhnout k nim a v plné věrnosti za ně nasadit tělo i život. Nejvyšším hejtmanem byl ustanoven pan Niklaus von Scharnachtal, rytíř, a [k němu] další praporečníci a radní. Napsali o té věci i všem ostatním Spřísežencům a ti byli rovněž ochotní."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 148,
+   "popis": "dokončená kolorovaná miniatura – štrasburské vojsko vytahuje z města (hradby s věžemi s kuželovými střechami, brána): jízdní obrněnci, pěší s kopími a halapartnami, korouhve (štrasburská s pruhem), polní děla na kolových lafetách tažená koňmi, velká hlavní bombarda na voze"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 149,
+   "text": "149 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podkresbou (obléhání – stany, voják); dole prosvítá text z rubu"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že Štrasburští kvůli zmíněné věci vytáhli s celou mocí",
+ "poznamky_prekladu": [
+  "„hantvesten[?]“ – čtení nejisté; smysl „statní, pevní“ (handfest).",
+  "Štrasburk nebyl se Spříseženci spojen (viz kap. 70); od 1474 byl členem Dolního spolku (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

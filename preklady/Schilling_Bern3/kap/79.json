@@ -1,0 +1,48 @@
+{
+ "cislo": 79,
+ "nadpis": "Das herr Friderich ein Römscher keiser mit macht in die Statt Basel kam",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 164,
+ "strany": [
+  164,
+  165,
+  166
+ ],
+ "odstavce": [
+  {
+   "text": "In disen dingen begonde sich her Fridrich ein Römscher keiser / als der lange zit da ussen in Swoben / zů Ougspurg / zů Regenspurg vnd in andern des heiligen Richs Stetten gewesen was / von Strassburg haruf gen Basel nechen / das was vmb Sant Jacobs tag als man von der geburt Cristi zalt / Tusent vier hundert Sibentzig vnd ein[?] Jar / Vnd schreib der keiser / denen von Bernn vnd andern eidgno[ssen] eins fruntlichen tages / zwüschen hertzog Sigmunden vnd den eidgno[ssen] ze Basel ze verwolgen / vnd darzů im in die eidgnosschaft geleit zů geben / als ob er gen Einsidelen wolt / Des fruntlichen tages wart verwolget / Vnd dabi in gemeiner eidgno[ssen] namen / ein treffenlich botschaft geordnet / vnserm herrenn dem keiser bis gen Basel oder Strassburg engegen zů riten vnd sin gnade zů enpfachen / vnd das geleit zů verantwurten / als ouch das beschach / Vnd wart das geleit also verantwurt / nach dem vnd er dann vnser aller gnedigester herr / vnd ein houpt des Richs wer / So gezimpt vns als glidern des heiligen Richs nit / der keiserlichen maiestat / von der doch alle weltlich gnade vnd geleit fliessen solte geleit zů geben / wann wir doch mit sinen gnaden vnd dem heiligen Riche anders nit dann gůtes wisten[?] ze tůnde haben / Darumb so möcht sin keiserlich gnade an die vnd ander ende gnediclich zů vns komen / der wir in aller vndertenikeit alle zucht vnd ere gernn tůn vnd erzöugen wolten damit wir hoften / das es sinen gnaden von vns zů gevallen wurde dienen / als ouch das von im beschach",
+   "preklad": "Mezitím se pan Fridrich, římský císař, který dlouhou dobu pobýval venku ve Švábsku, v Augsburgu, v Řezně a v jiných městech Svaté říše, začal ze Štrasburku přibližovat nahoru k Basileji. Bylo to kolem svatého Jakuba, když se psalo od narození Kristova tisíc čtyři sta sedmdesát jedna [?] let. Císař psal Bernským a jiným Spřísežencům, aby přivolili k přátelskému sněmu mezi vévodou Zikmundem a Spříseženci v Basileji a aby mu k tomu dali glejt do Spříseženstva, jako by chtěl jet do Einsiedeln. K přátelskému sněmu bylo přivoleno. Zároveň bylo jménem všech Spříseženců určeno význačné poselstvo, aby našemu pánu císaři vyjelo vstříc až do Basileje nebo do Štrasburku, přivítalo jeho milost a odpovědělo ve věci glejtu; to se také stalo. Ve věci glejtu bylo odpovězeno takto: Protože je on nás všech nejmilostivější pán a hlava Říše, nesluší se nám jako údům Svaté říše dávat glejt císařskému majestátu, z něhož by přece měla plynout veškerá světská milost i glejt; vždyť nevíme [?], že bychom s jeho milostí a se Svatou říší měli co činit jinak než v dobrém. Proto může jeho císařská milost do těchto i jiných míst k nám milostivě přijet; ve vší poddanosti mu chceme rádi prokázat všechnu úctu a čest a doufáme, že to jeho milosti od nás bude milé. Tak se to od něho také stalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 165,
+   "popis": "dokončená kolorovaná miniatura – příjezd císaře Fridricha III. do Basileje: císař s korunou a žezlem na koni pod baldachýnem neseným na tyčích, kolem pážata a jezdci, korouhev s dvouhlavým říšským orlem; v pozadí město s věžemi a branou, na bráně štít s medvědem (bernský – snad omyl malíře, nebo Basilej?); vpravo zástup s kopími"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 165,
+   "text": "165 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 166,
+   "text": "166 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 165,
+   "text": "letopočet čten „vnd ein“; historicky šlo o rok 1473 – ověřit"
+  }
+ ],
+ "nadpis_preklad": "Jak pan Fridrich, římský císař, přijel s mocí do města Basileje",
+ "poznamky_prekladu": [
+  "Sv. Jakub = 25. 7. Schilling: 1471 („Sibentzig vnd ein“, čtení nejisté [?]) = 25. 7. 1471 (čtvrtek); podle jiných pramenů přijel Fridrich III. do Basileje v září 1473 (nesoulad, mimo přepis). Viz i poznámku k přepisu na s. 165.",
+  "Vévoda Zikmund = Zikmund Rakouský (Tyrolský), pán předních rakouských zemí (mimo přepis).",
+  "Odpověď Spříseženců je diplomatický obrat: císaři jako hlavě Říše se glejt nedává, proto může přijet volně – formálně uctivé, ve skutečnosti se tím vyhnuli vystavení glejtu.",
+  "„wisten[?]“ – čtení nejisté; přeloženo „nevíme [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

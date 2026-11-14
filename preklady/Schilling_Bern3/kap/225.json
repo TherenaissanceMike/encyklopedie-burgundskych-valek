@@ -1,0 +1,50 @@
+{
+ "cislo": 225,
+ "nadpis": "Das der Graff von Roymond in eigner persone gen Bernn kam / vnd inen sin land vnd lüte / vnd anders bevalch",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 478,
+ "strany": [
+  478,
+  479
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd e nů der krieg mit dem hertzogen von Burgunn angevangen was / da kam der Graf von Roymond / mit name[n] herr Jacop von Safoy in eigner persone gen Bernn / vnd us vngetrüwem valschem hertzen als sich harnach wol erschein / erbot er sich gar mit hochem fliß vnd gůten worten / zů gantzem gevallen der Statt von Bernn / alles das ze tůnde vnd handlen / das inen lieb vnd gevellig were / Vnd gab inen zů ererkennen / er were des willens etwas uß von lannde zů riten / vnd sinen nutz vnd fromen zů schaffen / vnd wolt an kein ende / das wider die von Bernn oder ir verwanten wer / vnd ouch in keinen sachen wider si tůn / Sunder die ewige[n] geswornen punde als ein glid des huses von Safoi halten / vnd bevalch daruf denen von Bernn alles sin land vnd lüte in ir hende vn[d] gůten schirm / des si sich mit trüwen an namen / vnd sich keins argens gein im versachen dann man im ouch gar köstlich an win / fleisch vischen / haber vnd andern dingen schanckt vnd schied also von Bernn / das man sich zů im anders nit dann eren vnd gůts versach",
+   "preklad": "Ještě než začala válka s vévodou Burgundským, přišel hrabě z Romontu, jménem pan Jakub Savojský, osobně do Bernu. Z nevěrného, falešného srdce, jak se později dobře ukázalo, se s velkou horlivostí a dobrými slovy nabídl, že k plné spokojenosti města Bernu udělá a vykoná vše, co jim bude milé a vhod. Dal jim na vědomí, že má v úmyslu odjet na čas ze země a hledat svůj užitek a prospěch; nechce však jet nikam, kde by to bylo proti Bernským nebo jejich spojencům, ani v žádné věci proti nim jednat, nýbrž chce jako člen savojského domu dodržovat věčné přísežné spolky. Načež svěřil Bernským celou svou zemi a lidi do rukou a dobré ochrany. Toho se oni věrně ujali a ničeho zlého se od něho nenadáli; také ho velmi bohatě obdarovali vínem, masem, rybami, ovsem a jinými věcmi. A tak odjel z Bernu a nečekalo se od něho nic jiného než čest a dobro."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 478,
+   "popis": "kolorovaná kresba – radní síň v Bernu se dvěma bernskými znaky (medvěd) v klenbě: na lavici sedí radní, uprostřed hrabě z Romontu s listinou s pečetí, za ním jeho družina s meči; vpravo venku jezdci a pěší se savojským praporem (bílý kříž), krajina s jezerem a loďkou"
+  },
+  {
+   "strana": 479,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby, přes horní část psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 479,
+   "text": "479 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám pro obrázek (prázdný); na pravém okraji pozdější přípisek; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 478,
+   "text": "herr Jacop von Safoy = Jakub Savojský, hrabě z Romontu, pán Vaudu"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 479,
+   "text": "na pravém okraji pozdější rukou „Gast-verehrung“"
+  }
+ ],
+ "nadpis_preklad": "Jak hrabě z Romontu osobně přišel do Bernu a svěřil jim svou zemi, lidi a jiné věci",
+ "poznamky_prekladu": [
+  "Pan Jakub Savojský, hrabě z Romontu – mimo přepis: odjel poté do služeb Karla Smělého (srov. kap. 226)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

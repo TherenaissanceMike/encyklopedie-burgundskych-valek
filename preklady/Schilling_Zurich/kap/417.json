@@ -14,7 +14,7 @@
   },
   {
    "text": "Die von Bern gaben ouch von dem seckel- und der stat güt durch gottes willen daran gros merglich gelt und andern züg, desglich ander from biderb lüte ouch tatent; dann uf dieselben zite der erwirdig herr Jacob Damp, der dann in den vergangnen Romfärten, als hievor stat, geprediet hat, lessmeister was, vermant und bat ein gemeind als ernstlich, das si des an dem buw wol genussen; si möchten es anders nit haben verbracht.",
-   "preklad": "Bernští na to také dali z pokladny a městského jmění pro Boží lásku velké, značné peníze a jiný materiál, a stejně tak učinili i jiní zbožní, poctiví lidé. Neboť v té době byl lektorem ctihodný pan Jacob Damp, který kázal na minulých „římských poutích“, jak stojí výše, a napomínal a prosil obec tak vážně, že to stavbě [?] velmi prospělo; jinak by to nemohli dokončit."
+   "preklad": "Bernští na to také dali z pokladny a městského jmění pro Boží lásku velké, značné peníze a jiný materiál, a stejně tak učinili i jiní řádní, poctiví lidé. Neboť v té době byl lektorem ctihodný pan Jacob Damp, který kázal na minulých „římských poutích“, jak stojí výše, a napomínal a prosil obec tak vážně, že to stavbě [?] velmi prospělo; jinak by to nemohli dokončit."
   }
  ],
  "poznamky": [
@@ -25,5 +25,6 @@
   "Oprava OCR: „seckelund“ → „seckel- und“. „geprediet“ ponecháno."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

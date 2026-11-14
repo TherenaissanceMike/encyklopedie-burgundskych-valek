@@ -1,0 +1,45 @@
+{
+ "cislo": 194,
+ "nadpis": "Das etlich von dem Suntkow vnd Elsess vor dem Slos Blamont erstochen / vnd von den vienden vmb bracht wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 415,
+ "strany": [
+  415,
+  416
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man dennocht vor Grangis lag da luffen bi achtzig mannen vom Suntkow vnd dem Elsas miteinandern wider das Sloß Blamont / vnd hetten ein vennli by inen / vn[d] meinten den vienden einen abbruch zů tůn / Vnd als si gar nache zů dem Slos Blamont kamend da hatten sich die viend mit einem grossen huffen versampnet / vnd ab dem Slos gemacht / alles zů ross / dann es gar ein starck Sloß / vnd der vienden roupens vnd uff enthalt was / vnd hinder rante[n] die frommen lüte heimlich / vnd gewunnen inen die flucht an / vnd erstachen leider achtzechen man vnd iagten etlich in einen wiger / die ouch darinne ertruncken / Werent si mit ordnung vnd me siten[?] gezogen / vnd mannlich bestanden / So wer inen nit beschechen / Darumb sol yederman daran gedencken / vnd sich in solichen nöten / zů keiner flucht niemer mer lassen bringen / dann weren die fromen eidgno[ssen] / vnd ir loblichen vordern / In iren kriegen nit als hantveste vnd bestentlich gewesen / Si weren vor langen ziten vertriben worden / vnd zů semlichem glücke vnd eren nit komen / Der almechtig gotte welle den armen selen / die also vmb komen gnedig vnd erbarmhertzig sin / doch wart es nachmaln an denen von Blamont swarlich gerochen / als harnach statt",
+   "preklad": "A zatímco se ještě leželo před Granges, vyběhlo asi osmdesát mužů ze Sundgau a Alsaska společně proti hradu Blamont a měli s sebou praporec. Mysleli, že nepřátelům způsobí škodu. A když přišli velmi blízko k hradu Blamont, nepřátelé se shromáždili ve velkém houfu a vyjeli z hradu, všichni na koních – neboť je to velmi silný hrad a pro nepřátele útočiště k loupení a pobytu. Ty statečné lidi tajně objeli zezadu, obrátili je na útěk a probodli bohužel osmnáct mužů a některé zahnali do rybníka, kde se také utopili. Kdyby byli táhli v šiku a opatrněji [?] a statečně se postavili, nebylo by se jim nic stalo. Proto má na to každý pamatovat a v takových nesnázích se nikdy nedat přivést k útěku. Neboť kdyby stateční Spříseženci a jejich chvalní předkové nebyli ve svých válkách tak pevní a vytrvalí, byli by už dávno vyhnáni a k takovému štěstí a cti by nebyli přišli. Všemohoucí Bůh buď milostiv a milosrden ubohým duším, které tak zahynuly. Později to však bylo na Blamontských těžce pomstěno, jak dále stojí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 415,
+   "popis": "dokončená kolorovaná miniatura – přepadení u Blamontu: vlevo hrad s palisádou na skále, vpravo burgundští jezdci s kopími útočí na pěší, padlí na zemi, někteří utíkají a topí se v rybníce (z vody trčí hlavy); nahoře vpravo oddíl s praporem na kopci"
+  },
+  {
+   "strana": 416,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (bojující postavy), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 416,
+   "text": "416 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (bojující postavy); dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 415,
+   "text": "Blamont (Franche-Comté, u Montbéliardu); Suntkow = Sundgau"
+  }
+ ],
+ "nadpis_preklad": "Jak někteří ze Sundgau a Alsaska byli před hradem Blamont probodeni a nepřáteli pobiti",
+ "poznamky_prekladu": [
+  "Blamont (Franche-Comté, u Montbéliardu); Suntkow = Sundgau.",
+  "„me siten[?]“ – nejisté čtení, přeloženo „opatrněji“ (snad ‚s více ohledy, s krytými boky‘)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

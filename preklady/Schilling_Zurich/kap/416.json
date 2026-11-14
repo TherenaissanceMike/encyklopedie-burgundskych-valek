@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "416. Das der von Bern und ander Eidgnossen knechte, so lange zit in Frankenrich gewesen, wider harus komen sind.",
-   "preklad": "416. Jak se knechti Bernských a jiných konfederátů, kteří byli tak dlouho ve Francii, vrátili zase domů."
+   "preklad": "416. Jak se knechti Bernských a jiných Spříseženců, kteří byli tak dlouho ve Francii, vrátili zase domů."
   },
   {
    "text": "Und als dann hievor in diser cronick zem teil ouch gemelt wirt, wie dann der von Bern und ander Eidgnossen und Tütschen knechte langezit in Frankenrich gelegen, der bi fünf- oder sechstusent gewesen sind und man ieglichen allen monat fünfthalben Rünschen güldin ze sold geben hat und ouch gar mengem under inen, die dann houptlüt oder weibel waren oder ander empter hatten, zwivalten sold und den roslüten ouch, das gar ein merglich gros unsaglich gelt hat bracht an sovil lüten, dann si mer dann vier iar aneinandern bi dem küng und in sinen stetten und slossen mit ir herren und obern willen sind gelegen und im sin küngrich haben helfen beschirmen, — derselben obrister houptman gewesen ist herr Hans von Halwil, ritter, der nam nachmalen zü im herr Hans Arnolt Segesser, ouch ein ritter, die beid der von Bern burger und hindersessen sind.",
-   "preklad": "Jak už je zčásti uvedeno výše v této kronice, leželi knechti Bernských, jiných konfederátů a Němců dlouho ve Francii; bylo jich asi pět nebo šest tisíc a každému se dávalo měsíčně čtyři a půl rýnského zlatého žoldu. Velmi mnohým z nich, kteří byli hejtmany nebo šikovateli (weibel) nebo měli jiné úřady, se dával dvojnásobný žold, a jezdcům také. To na tolik lidí dělalo nesmírně velké, nevýslovné peníze, neboť leželi víc než čtyři roky v kuse u krále a v jeho městech a hradech s vůlí svých pánů a vrchností a pomáhali mu chránit jeho království. Jejich nejvyšším hejtmanem byl pan Hans von Halwil, rytíř, který k sobě později přibral pana Hanse Arnolta Segessera, také rytíře; oba jsou měšťany a obyvateli (hindersessen) Bernu."
+   "preklad": "Jak už je zčásti uvedeno výše v této kronice, leželi knechti Bernských, jiných Spříseženců a Němců dlouho ve Francii; bylo jich asi pět nebo šest tisíc a každému se dávalo měsíčně čtyři a půl rýnského zlatého žoldu. Velmi mnohým z nich, kteří byli hejtmany nebo šikovateli (weibel) nebo měli jiné úřady, se dával dvojnásobný žold, a jezdcům také. To na tolik lidí dělalo nesmírně velké, nevýslovné peníze, neboť leželi víc než čtyři roky v kuse u krále a v jeho městech a hradech s vůlí svých pánů a vrchností a pomáhali mu chránit jeho království. Jejich nejvyšším hejtmanem byl pan Hans von Halwil, rytíř, který k sobě později přibral pana Hanse Arnolta Segessera, také rytíře; oba jsou měšťany a obyvateli (hindersessen) Bernu."
   },
   {
    "text": "Die haben semlich lüte mit grosser vernunft regiert und in güter ordnung und meisterschaft gehalten und ouch gemein gericht gefürt einem als dem andern und nieman nit geschenkt noch varen lassen und ouch alle böse sachen harticlichen gestraft, als inen dann das von denen von Bern und andern bevolhen und ouch ein gros notdurft under solichen iungen mütwilligen lüten gewesen ist. Und nach abgang des genanten küng Ludwigs von Frankenrich hat der nüw küng Karolus durch sin fürsten und räte von der crone semlichen knechten allen früntlichen lassen danken und inen gütlich urlop und darzü ieglichem durch den bank hinweg zu ros und füs an iren costen und zerung ze stür zwivalten sold in einem monat geben, ouch durch alles sin küngrich und Burgunn in friden beleiten lassen und si inmassen von im gericht, das si daran alle ein güt benügen und iren hern und obern zü hochem rüm anbracht haben in semlicher mass, das si al gern wider dar werent, und man hat inen ouch in keiner andern meinung urlop geben, dann allein von des wegen, die lantschaft und armen lüte in Frankenrich des grossen costen und der beswerden, die si nit me mochten erliden und inen ouch ganz unmüglich was, ze vertragen.",
@@ -18,7 +18,7 @@
   },
   {
    "text": "Darzü ward ouch durch den küng denen von Bern und andern Eidgnossen mit schriften und ouch darnach durch die künglichen botten von der knechten wegen vast gedanket und vil eren und güts von inen gerümpt und gesagt.",
-   "preklad": "K tomu král Bernským a ostatním konfederátům písemně a potom i skrze královské posly za knechty velmi děkoval a vychvaloval a vypravoval o nich mnoho cti a dobrého."
+   "preklad": "K tomu král Bernským a ostatním Spřísežencům písemně a potom i skrze královské posly za knechty velmi děkoval a vychvaloval a vypravoval o nich mnoho cti a dobrého."
   }
  ],
  "poznamky": [
@@ -30,5 +30,6 @@
   "Oprava OCR: „fünfoder“ → „fünf- oder“, „lüute“ → „lüte“, doplněna tečka před „Und nach abgang“, „\"sedanket“ → „gedanket“."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

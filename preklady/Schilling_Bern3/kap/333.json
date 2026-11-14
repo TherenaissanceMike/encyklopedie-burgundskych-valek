@@ -1,0 +1,33 @@
+{
+ "cislo": 333,
+ "nadpis": "Das die eidgno[ssen] vnd annder verwanten mit gantzen machten vnd iren panern ouch gar trostlichen harnach kament a",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 751,
+ "strany": [
+  751,
+  752
+ ],
+ "odstavce": [
+  {
+   "text": "Also kamen annder eidgno[ssen] von Lutzern Vre / Switz / Zug vnd Glarus / des glich Basel Friburg / Sollottern / Biel / vnd ander alle mit iren panern vnd gantzen machten harnach / vn[d] erbutten sich gein denen von Bernn gar hertzlich vnd in brüderlichen trüwen",
+   "preklad": "Tak přitáhli i další Spříseženci z Luzernu, Uri, Schwyzu, Zugu a Glarusu, stejně tak Basilej, Fribourg, Solothurn, Biel a všichni ostatní se svými korouhvemi a celou mocí a nabízeli se Bernským velmi srdečně a v bratrské věrnosti."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 751,
+   "popis": "příchod spojenců: zleva táhne zástup s bílými kříži, s bubeníkem, pištcem a trubačem s rohem (uherský roh / Uristier?); korouhve – se sekerami, se svatým (sv. Leodegar? Luzern), pruhovaná, kostkovaná; v pozadí opevněná města u jezera s loďkou, skály; vpravo na kopci další oddíl s bílými kříži pod korouhví"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 752,
+   "text": "752 X (pozdější foliace, levý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou D"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Spříseženci a jiní spojenci s celou mocí a se svými korouhvemi také velmi povzbudivě přitáhli",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

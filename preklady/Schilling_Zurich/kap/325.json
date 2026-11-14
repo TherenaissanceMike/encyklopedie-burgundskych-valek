@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "325. Das der herzog mit den Eidgnossen gen sant Niclaus-Port kam und ir an demselben ende vil erslagen wurden.",
-   "preklad": "325. Jak vévoda s konfederáty přišel k Saint-Nicolas-de-Port a jak tam bylo mnoho nepřátel pobito."
+   "preklad": "325. Jak vévoda se Spříseženci přišel k Saint-Nicolas-de-Port a jak tam bylo mnoho nepřátel pobito."
   },
   {
    "text": "Und also zugent si gen sant Niclaus-Port, das der herzog von Burgunnen inhat und nament das angendes ritterlichen in und erstachen der vienden ob hundert mannen zü ros und füs und vingen do den ersten strit an und meinten, der herzog solte an demselben ende die sinen haben entschüt; er torst aber nit komen.",
@@ -19,5 +19,6 @@
   "OCR opraveno v nadpisu: „NieclausPort“ → „Niclaus-Port“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

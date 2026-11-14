@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "103. Das der küng denen von Bern und andern Eidgnossen treffenlich warnung tet.",
-   "preklad": "103. Jak král dal Bernským a ostatním konfederátům vážné varování."
+   "preklad": "103. Jak král dal Bernským a ostatním Spřísežencům vážné varování."
   },
   {
    "text": "Darnach kam aber ein künglicher bot von Frankenrich mit einer credenz vom küng und enbot der kung den Eidgnossen, wie das im treffenlich warnungen komen, das der herzog von Burgunnen mit aller siner macht und gezüge von buchsen und anderm ganz zügerust und des willens were, sich harus in das Sunkow für Mulhusen zü legern; darumb, wer es der Eidgnossen gevallen, so hette sich der kung zü widerstand dem Burgunschen herzogen mit einer grossen macht zügerüst und zü trost und eren den Eidgnossen wolt er lib und güt zü inen setzen und si nit verlassen.",
-   "preklad": "Potom přišel opět královský posel z Francie s pověřovacím listem od krále a král konfederátům vzkázal, že k němu došla vážná varování: burgundský vévoda je prý se vší svou mocí, s děly a jinou výzbrojí zcela připraven a má v úmyslu vytáhnout sem do Sundgau a položit se ležením před Mulhouse. Bude-li se to tedy konfederátům líbit, připravil se král s velkou mocí k odporu proti burgundskému vévodovi a konfederátům k útěše a ke cti chtěl za ně nasadit život i statky a neopustit je."
+   "preklad": "Potom přišel opět královský posel z Francie s pověřovacím listem od krále a král Spřísežencům vzkázal, že k němu došla vážná varování: burgundský vévoda je prý se vší svou mocí, s děly a jinou výzbrojí zcela připraven a má v úmyslu vytáhnout sem do Sundgau a položit se ležením před Mulhouse. Bude-li se to tedy Spřísežencům líbit, připravil se král s velkou mocí k odporu proti burgundskému vévodovi a Spřísežencům k útěše a ke cti chtěl za ně nasadit život i statky a neopustit je."
   },
   {
    "text": "Des danket man dem kung gnediclichen; der herzog von Burgunnen kam ouch nit harus, und nam darnach sinen weg das land hinab, als harnach etwas bas erlütert wirt.",
@@ -23,5 +23,6 @@
   "„das land hinab“ = dolů po Rýně; zřejmě míněno tažení k Neussu."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

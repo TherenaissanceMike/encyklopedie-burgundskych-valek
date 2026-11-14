@@ -1,0 +1,43 @@
+{
+ "cislo": 111,
+ "nadpis": "Das der vorgenant herr peter von hagenbach in der Statt Brisach gevangen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 227,
+ "strany": [
+  227,
+  228,
+  229
+ ],
+ "odstavce": [
+  {
+   "text": "In dem als es got von himel fügen vnd die armen lüte vor semlicher verraterie beschirmen wolt / warent etlich gůt gesellen / die ouch gern bi dem iren bliben vnd des wütrichs gewalts gernn ab komen weren / die giengen in iren harnesch in der Statt am platz vor hagenbachs herberg / Do stůnd der von hagenbach / vnd mit schantlichen bösen worten vnd swüren / wolt er die selben gesellen zwingen iren harnesch ab ze ziechen / vnd sich hinus in graben rüsten / oder aber er wolt inen darumb ir ougen us stechen / Nü was den selben etwas fürkomen / das si vnd ander beduncht / die sachen wolten nit recht zů gan / vnd mit mannlichen worten retten si dar wider vnd giengen damit von im / dann er inen vnd andern iren Sold ouch vor hielt / vnd besamelten das ir angendes der burgern vnd tütsche[n] kament ob zwey hundert gewapnet ze samen vnd glich von stund an vngewarnet vielent si im für sin herberg / vnd viengen in / Die walchen die by im vnd in der Statt warent die fluchen alle von im / yeglicher in sin herberg vnd was da ienthalben gantz kein widerstand das kam inen allen wol / wann sust so werent si alle erstochen / vnd inen ir rechter lon worden da aber si sich nit zů wer stalten / vnd ouch vmb eren willen / liessen die von Brisach die selben walchen mit ir habe abziechen / vnd behielten den von hagenbach gevangen / Zwar die snöden walchen hatten den tod wol verschuldet / dann si des wütrichs vnd verräters anslege wol wiste vnd das gros mort selber wolten haben volbracht / darumb mich ir hinkomen hertzlich[?] rüwet / ob das wider den almechtigen got nit gerett sie",
+   "preklad": "Když to tak Bůh z nebe chtěl řídit a ochránit chudé lidi před takovou zradou, byli tu někteří dobří druhové, kteří by také rádi zůstali při svém a rádi se zbavili moci toho ukrutníka. Ti chodili ve své zbroji ve městě po náměstí před Hagenbachovým příbytkem. Tu stál ten z Hagenbachu a hanebnými zlými slovy a kletbami chtěl ty druhy donutit, aby svlékli zbroj a přichystali se ven do příkopu, jinak že jim za to vypíchne oči. Těm se však něco doneslo, takže se jim i jiným zdálo, že ty věci nejdou správně; mužnými slovy mu odporovali a tím od něho odešli, neboť jim i jiným také zadržoval žold. Ihned shromáždili své [lidi], takže se z měšťanů a Němců sešlo přes dvě stě ozbrojených, a hned nato mu bez varování vpadli před jeho příbytek a zajali ho. Vlaši, kteří byli při něm a ve městě, od něho všichni utekli, každý do svého příbytku, a nikde vůbec nekladli odpor. To jim všem přišlo vhod, neboť jinak by byli všichni pobiti a dostalo by se jim jejich pravé odplaty. Protože se však nepostavili na odpor, a také kvůli cti, nechali Breisašští ty Vlachy odtáhnout s jejich majetkem a Hagenbacha si ponechali zajatého. Věru, ti mrzcí Vlaši si smrt dobře zasloužili, neboť dobře znali úklady toho ukrutníka a zrádce a sami tu velkou vraždu chtěli vykonat. Proto mě jejich odchod srdečně [?] mrzí, není-li to řečeno proti všemohoucímu Bohu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 227,
+   "popis": "dokončená kolorovaná miniatura – zajetí Hagenbacha v Breisachu: ulice pod hradbou s věží; vlevo Vlaši (burgundští žoldnéři) s kopími a jeden s iniciálami „R R“ a ondřejským křížem na kabátci couvá se zdviženýma rukama; uprostřed měšťan bije mečem muže s obrovským chocholem (Hagenbach?), vpravo dva mladí šlechtici s péry a muž v okně; na zemi pohozená kopí a pochvy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 228,
+   "text": "228 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu)"
+  },
+  {
+   "strana": 229,
+   "text": "229 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl zmíněný pan Peter von Hagenbach v městě Breisachu zajat",
+ "poznamky_prekladu": [
+  "Schilling klade zatčení do souvislosti s velikonoční nedělí (kap. 110); podle jiných pramenů byl Hagenbach zajat 11. 4. 1474, ve velikonoční pondělí (mimo přepis, nesoulad jen možný – text přímé datum neuvádí).",
+  "„gesellen“ = druhové; podle textu šlo o lidi, jimž Hagenbach zadržoval žold (zřejmě němečtí žoldnéři posádky).",
+  "„herberg“ = příbytek, ubytování.",
+  "„hertzlich[?]“ – nejisté čtení; přeloženo „srdečně [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

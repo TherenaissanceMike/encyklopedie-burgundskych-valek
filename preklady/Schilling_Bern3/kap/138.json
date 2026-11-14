@@ -1,0 +1,36 @@
+{
+ "cislo": 138,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] gar verdrossen wurden / vnd lieber sturmen dann als schantlich erfrieren wolte[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 280,
+ "strany": [
+  280,
+  281,
+  282
+ ],
+ "odstavce": [
+  {
+   "text": "Das volck so vom fürsten / von eidgno[ssen] Stetten vnd andern enden vor Ericurt was / wart überslagen für achtzechen tusent strittbarer mannen / darunder der eidgno[ssen] bi acht tusent mannen warent / vnd als man nü bi viertzechen tagen darvor gelag / da wurden die von Bernn vnd ander eidgno[ssen] gar verdrossen / vnd meinten si wolten gar vil lieber stürmen / dann also erfrieren / dann es was gar usser massen kalt / vnd lagent die von Bernn Lutzern vnd etlich ander in witem velde / vnd sturben ouch etlich / es kamen ouch etlich der von Bernn lüte von Vnderlappen vnd ander me dann ein mal zů den houptlüten vnd vennern vnd batent die durch gottes willen / das man inen erloubt zů stürmen / si wolten gern die ersten sin / vnd lieber vnd williclicher an den sturm gan dann also iemerlich erfrieren vnd sterben / das wolt man inen nit vertragen / vnd meint man der krieg wer der herschaft / der willen vnd gevallen wolt man ouch darinne erwarten / da zwüschen kamen ouch gar gros treffenlich warnungen von der Burgunnern wegen / die dann mit grossen machten byeinandern warent / vnd meinten die eidgno[ssen] vnd ander im leger an ze griffen / vnd die iren zů entschütten / des man sich ouch wol versach nach den menigvaltigen kuntschaften / der ein über die andern kam / so wisset man ouch wol / das der zug byeinandern versampnet in Burgunn vnd den selben arten was",
+   "preklad": "Lid, který byl před Héricourtem od knížete, od Spříseženců, měst a odjinud, byl odhadnut na osmnáct tisíc bojeschopných mužů, z toho Spříseženců asi osm tisíc mužů. A když se tam leželo asi čtrnáct dní, Bernské a ostatní Spřísežence to velmi omrzelo a mínili, že by mnohem raději útočili, než takto zmrzli, neboť bylo nesmírně chladno. Bernští, Luzernští a někteří jiní leželi v širém poli a někteří také zemřeli. Také někteří z lidí Bernských z Interlakenu a jiní přišli víc než jednou k hejtmanům a praporečníkům a prosili je pro Boha, aby jim dovolili útok; chtěli rádi být první a raději a ochotněji jít do útoku, než tak bídně zmrznout a zemřít. To jim nechtěli dovolit a mínili, že válka je věcí [rakouského] panství a že se v ní má vyčkat jeho vůle a libosti. Mezitím přicházela také velmi důrazná varování ohledně Burgunďanů, kteří byli shromážděni ve velké síle a zamýšleli napadnout Spřísežence a ostatní v ležení a své lidi vysvobodit. To se také dobře očekávalo podle mnohých zpráv, jež přicházely jedna za druhou. Také se dobře vědělo, že vojsko je shromážděno v Burgundsku a v těch krajích."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 281,
+   "text": "281 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám (prosvítá z rubu); dole velká kadela"
+  },
+  {
+   "strana": 282,
+   "text": "282 X (pozdější foliace, levý horní roh); celostránková miniatura"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernské a ostatní Spřísežence [čekání] velmi omrzelo a chtěli raději zaútočit, než tak hanebně zmrznout",
+ "poznamky_prekladu": [
+  "„Vnderlappen“ = Interlaken (bernské panství bývalého kláštera Interlaken) (mimo přepis).",
+  "Počty podle Schillinga: celkem 18 000 mužů, z toho asi 8 000 Spříseženců."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

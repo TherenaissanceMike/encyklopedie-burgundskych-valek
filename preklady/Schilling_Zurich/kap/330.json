@@ -10,7 +10,7 @@
   },
   {
    "text": "Aber die fromen lüte, so in Nanse gewesen sind, habent sich darinne gar ritterlich und erlichen gehalten und grossen presten und mangel gehebt und sunderlich an fleisch, dann si gar vil rossen, hunde, katzen und müse haben müssen essen von grosser hungersnot wegen. Es sind ouch darinne etlich hungers gestorben und sunders vil iunger kinden den mütern an iren prüsten, das doch ein gros iamer und not gewesen ist. Und als man den strit und die slacht mit dem herzogen von Burgunnen anfing, do lüffen derselben fromen lüten etlich us Nanse in des herzogen von Burgunnen leger und wagenburg und wolten ouch mit den Eidgnossen ir bestes tün und hatten kein crütz an sich gemacht und konden ouch kein tütsch und wurden leider von den Eidgnossen und dem andern volke unerkant erstochen und unschuldiclich umbbracht, das doch ein hert iemerlich sach was, das die sich so wol und manlich gehalten und gelitten hatten, als ermelich müsten umbkomen.",
-   "preklad": "Ale ti stateční lidé, kteří byli v Nancy, se tam drželi velmi rytířsky a čestně a trpěli velkou nouzí a nedostatkem, zvláště masa, takže museli z velkého hladu jíst velmi mnoho koní, psů, koček a myší. Někteří tam také zemřeli hladem, a zvláště mnoho malých dětí matkám u prsou, což byl věru velký žal a bída. A když se začal boj a bitva s vévodou burgundským, vyběhli někteří z těch statečných lidí z Nancy do tábora a vozové hradby vévody burgundského a chtěli také s konfederáty udělat, co mohli. Neměli však na sobě udělaný žádný kříž a neuměli ani německy, a tak je bohužel konfederáti a ostatní lid nepoznali, pobodali je a nevinně zabili. To byla věru tvrdá a žalostná věc, že ti, kteří se tak dobře a mužně drželi a tolik vytrpěli, museli tak bídně zahynout."
+   "preklad": "Ale ti stateční lidé, kteří byli v Nancy, se tam drželi velmi rytířsky a čestně a trpěli velkou nouzí a nedostatkem, zvláště masa, takže museli z velkého hladu jíst velmi mnoho koní, psů, koček a myší. Někteří tam také zemřeli hladem, a zvláště mnoho malých dětí matkám u prsou, což byl věru velký žal a bída. A když se začal boj a bitva s vévodou burgundským, vyběhli někteří z těch statečných lidí z Nancy do tábora a vozové hradby vévody burgundského a chtěli také se Spříseženci udělat, co mohli. Neměli však na sobě udělaný žádný kříž a neuměli ani německy, a tak je bohužel Spříseženci a ostatní lid nepoznali, pobodali je a nevinně zabili. To byla věru tvrdá a žalostná věc, že ti, kteří se tak dobře a mužně drželi a tolik vytrpěli, museli tak bídně zahynout."
   },
   {
    "text": "Der almechtig got welle inen die en verlichen!",
@@ -24,5 +24,6 @@
   "OCR opraveno: nadpis „erslsgen“ → „erslagen“, „luüten“ → „lüten“, „gotte“ → „got“, odstraněny zbloudilé tečky."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

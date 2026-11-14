@@ -1,0 +1,44 @@
+{
+ "cislo": 276,
+ "nadpis": "Das Granson zem andern mal gar hertenclich gestürmt wartt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 607,
+ "strany": [
+  607,
+  608
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach an der nechsten mitwochen des vorgenanten Jares / stürmenten aber die viend an die Statt Granson so mit grossem gewalt vnd machten das si an einer siten neben darin kamen vnd die Statt gewunnen / Vnd wart die angst vnd not als groß / das die fromen lüte von Bernn vnd von Friburg in dem barfüssen closter der Statt warent / vnd nit wisten das die Statt gewunnen was / Vnd als si die viend so mechticlichen vnd mit als grossen scharen in der Statt gesachen / vnd der innen wurden / da gingen si us dem closter / vnd trungen mit gewerter hand durch alle viend / vnd kamen in das Sloß vnd enpfiengen leider etwas schaden / doch kamen der vienden an dem selben Sturm ouch vil vmb vnd enthielten sich da in dem Sloß / bis si darnach leider schantlich verraten / vnd vmb bracht wurden / als das harnach bas gelütert wirt",
+   "preklad": "Potom příští středu zmíněného roku útočili nepřátelé znovu na město Grandson s tak velkou silou a mocí, že na jedné straně pronikli dovnitř a město dobyli. Strach a nouze byly tak veliké, že stateční lidé z Bernu a Fribourgu byli v bosáckém klášteře ve městě a nevěděli, že město je dobyto. Když uviděli nepřátele ve městě v takové moci a tak velkých houfech a zpozorovali je, vyšli z kláštera, prorazili se zbraní v ruce skrz všechny nepřátele a dostali se do hradu, bohužel s jistými ztrátami. Avšak i nepřátel při tomto útoku zahynulo mnoho. [Obránci] se pak drželi v hradu, dokud nebyli později bohužel hanebně zrazeni a zahubeni, jak se dále lépe vyloží."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 607,
+   "popis": "kolorovaná kresba – druhý útok na Grandson: vlevo obránci s bílými kříži na hradbách bodají píkami a halapartnami, uprostřed útočník leze po žebříku na věž, vpravo burgundští pikenýři a střelci s ručnicemi pod prapory (koruna s ondřejským křížem, erb s lvy a liliemi); vpředu padlí v plátové zbroji, zraněný se šípem, převrácené pavézy a žebříky; v pozadí hrad Grandson se třemi věžemi"
+  },
+  {
+   "strana": 608,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 608,
+   "text": "608 X (pozdější foliace, levý horní roh); POZOR: na e-codices je tato strana ve snímku 606 (snímky 606 a 608 jsou zaměněny); text psán přes šedě podložený rám pro obrázek; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 607,
+   "text": "druhý útok a dobytí města: středa 21. února 1476; text pokračuje na s. 608 („closter der Statt warent“)"
+  }
+ ],
+ "nadpis_preklad": "Jak byl Grandson podruhé velmi tvrdě útočen",
+ "poznamky_prekladu": [
+  "Druhý útok a dobytí města: středa 21. února 1476 (jul.)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

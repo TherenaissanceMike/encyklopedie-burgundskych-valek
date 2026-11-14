@@ -1,0 +1,60 @@
+{
+ "cislo": 410,
+ "nadpis": "Das gar vil redlicher gesellen an dem Gotthart in dem Schnew gar iemerlich verdurben vnd vmb kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 916,
+ "strany": [
+  916,
+  917,
+  918
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man an den Gotthart kam / da warent etlich mutwillig lüte vor dannen gezogen / die machten ein geschrey / vnd wolten nieman volgen wie vast man inen das verbot / Also kam ein gros vngestüme Schnew lowinen / oben von dem berge harin / darunder leider vil gůter gesellen kamen / die wurden vermuckt[?] / etlich kament von gottes gnaden wider harus / die dennocht über nacht darinne gelegen warent vnd bi dem leben bliben / Zwar dz must von sundern gnaden vnd erbermden des almechtigen gottes beschechen dann si on zwivel grossen smertzen hatten erliten Etlich kament ouch harus lebendig / vnd sturbent darnach angendes / der merteil bleip aber leider darinn tot / dann ir darnach vil funden wurdent Vnd clagt nachmaln yederman die sinen die er verloren hatt / der barmhertzig gott welle inen die ewig rüw verlichen",
+   "preklad": "A když se přišlo na Gotthard, odtáhli někteří svévolní lidé napřed, dělali křik a nechtěli nikoho poslouchat, jakkoli jim to bylo přísně zakazováno. Tu sjela shora z hory veliká prudká sněhová lavina a pod ni se bohužel dostalo mnoho dobrých druhů, kteří byli zasypáni [?]. Někteří se z Boží milosti zase dostali ven, ačkoli přes noc leželi pod sněhem, a zůstali naživu. To se jistě muselo stát ze zvláštní milosti a milosrdenství všemohoucího Boha, neboť bezpochyby vytrpěli velkou bolest. Někteří se také dostali ven živí a hned nato zemřeli. Většina však bohužel zůstala uvnitř mrtvá, neboť jich potom bylo mnoho nalezeno. A potom každý naříkal nad svými, které ztratil. Milosrdný Bůh jim dej věčný pokoj."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 917,
+   "popis": "lavina na Gotthardu: vlevo vysoké zasněžené hory, z nichž se valí sníh; vojáci s bílými kříži zasypaní sněhem – z bílých hromad trčí hlavy, nohy, boty a klobouky, jiní s rozpřaženýma rukama prchají; vpravo za kopcem zástup pod bernskou korouhví s medvědem; v pozadí město u jezera s čluny a vzdálené hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 917,
+   "text": "917 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s916), dole odstavec; iniciála V nevyvedena (jen předkreslený tah); vpravo dole drobná poznámka perem (zkouška pera?)"
+  },
+  {
+   "strana": 918,
+   "text": "918 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, ozdobná kadela, dole rubrika s iniciálou V (k obrazu na s919)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 916,
+   "text": "zahynutí vojáků ve sněhu na Gotthardu při zpáteční cestě (prosinec 1478)"
+  },
+  {
+   "strana": 917,
+   "text": "lavina („Schnew lowinen“) na Gotthardu (prosinec 1478); „vermuckt[?]“ = udušeni/zasypáni, čtení nejisté"
+  },
+  {
+   "strana": 918,
+   "text": "někteří přežili noc pod sněhem; většina zahynula"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 917,
+   "text": "vpravo dole drobný záznam perem (nečitelný, snad zkouška pera)"
+  }
+ ],
+ "nadpis_preklad": "Jak velmi mnoho řádných druhů na Gotthardu ve sněhu velmi žalostně zahynulo a přišlo o život",
+ "poznamky_prekladu": [
+  "„Schnew lowinen“ = sněhová lavina; neštěstí při zpáteční cestě přes Gotthard (prosinec 1478, mimo přepis).",
+  "„vermuckt[?]“ – čtení nejisté (snad udušeni/zasypáni); přeloženo „zasypáni [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

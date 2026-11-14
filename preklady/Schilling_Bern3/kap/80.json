@@ -1,0 +1,33 @@
+{
+ "cislo": 80,
+ "nadpis": "Das der vorgenant vnser herr der keiser angendes wider den Rin ab für",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 166,
+ "strany": [
+  166,
+  167
+ ],
+ "odstavce": [
+  {
+   "text": "[D]is beschach alles / vnd wart doch zů Basel nit entlichs gehandlet / Der keiser kam ouch nit witer haruf in die eidgno[ssen] / vnd für wider nid sich gen Trier / dahin dann ouch der hertzog von Burgunn mit grosser macht vn[d] hochvart kam / vnd nit anders wiste / dann das er von dem keiser zů einem küng solt gekrönt werden / vnd Burgunn ein küngrich solt worden sin das aber nit beschach / wann do der hertzog sich mit siner Crone / dem zepterun[?] / dem gestüle / vnd andern wirden gantz zů gerüst / vnd darumb dem keiser gros gůt verheissen hat / da rust[?] sich der keiser heimlichen zů / vnd für die Musel ab / vnd wart der hertzog von Burgunn glich dem küng von dem man in dem bůch Esopo liset / da der Ingramatieus[?] sinen gesellen mit sinem gespöste[?] zů einem küng machte / Dis was dennocht an den keiser zů loben / wie lieb im gůt ist / So wolte er dennocht an dem ende des heiligen Richs ere vnd wirde nit vmb gůt verkouffen / Es was aber dem hertzogen von Burgunn ein mercklich smach die im an allen zwivel zů grossem missvallen kam",
+   "preklad": "To všechno se stalo, a přesto se v Basileji nic konečného nevyjednalo. Císař také nepřijel dál nahoru do Spříseženstva a odjel zase dolů do Trevíru. Tam přijel také vévoda Burgundský s velkou mocí a pýchou a nemyslel nic jiného, než že ho císař korunuje na krále a z Burgundska se stane království; to se však nestalo. Když se totiž vévoda se svou korunou, žezlem [?], trůnem a jinými odznaky důstojnosti zcela připravil a slíbil za to císaři velké peníze, tu se císař tajně připravil [?] a odjel dolů po Mosele. A s vévodou Burgundským to dopadlo stejně jako s králem, o němž se čte v Ezopově knize, kde Ingramatieus [?] svým posměchem [?] udělal ze svého druha krále. Na císaři se přesto musí pochválit toto: jakkoli má rád peníze, nechtěl v tomto případě prodat čest a důstojnost Svaté říše za peníze. Pro vévodu Burgundského to však byla citelná potupa, která mu bezpochyby byla velmi nemilá."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 167,
+   "text": "167 X (pozdější foliace, pravý horní roh); stránka bez obrázku; iniciála D na začátku chybí (místo vynecháno, prvních 3 řádky odsazeny)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak výše jmenovaný náš pán císař hned nato odjel zase dolů po Rýnu",
+ "poznamky_prekladu": [
+  "Trevírské jednání Fridricha III. s Karlem Smělým: podzim 1473; císař v noci z 24. na 25. 11. 1473 náhle odplul po Mosele (mimo přepis).",
+  "„zepterun[?]“ = žezlo; „gestüle“ = trůn (stolce); „rust[?]“ = rüstete, připravil se (nejisté čtení).",
+  "„Ingramatieus[?]“ a „gespöste[?]“ – nejasné; snad zkomolené jméno postavy z bajek (Isengrim?) a „gespött“ = posměch. Bajku se nepodařilo určit.",
+  "Narážka na proslulou šetrnost Fridricha III. („wie lieb im gůt ist“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 4
+}

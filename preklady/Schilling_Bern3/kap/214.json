@@ -1,0 +1,36 @@
+{
+ "cislo": 214,
+ "nadpis": "Wie sich die von Straßburg mit denen von Bern von deß Küchigelts wegen hieltendt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 450,
+ "strany": [
+  450,
+  451
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die von Straßburg vier hundert man von Bernn vmb Sold hatten begert / der selb Sold von inen gar fruntlich für anderthalben monat us gericht / vnd bezalt wart / das man von inen ein gůt benügen hatt / Darzů schanckten die von Straßburg den von Bernn zů dem Solde / an iren costen zů stür als man mit der paner hin nach gezogen was für ein kuchi gelt acht hundert guldin / das hat man dennocht von inen zů danck / wie wol der selb zug die von Bernn me dann acht tusent guldin costet",
+   "preklad": "Štrasburští tedy žádali od Bernu čtyři sta mužů za žold. Ten žold od nich byl velmi přátelsky na měsíc a půl vyplacen a zaplacen, takže s nimi byli plně spokojeni. K tomu Štrasburští darovali Bernským k žoldu jako příspěvek na jejich náklady, když se za ostatními táhlo s korouhví, osm set zlatých jako peníze na kuchyni. Za to se jim přesto vzdávají díky, ačkoli to tažení stálo Bernské přes osm tisíc zlatých."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 451,
+   "text": "451 X (pozdější foliace, pravý horní roh); stránka bez obrázku; nahoře kadela a rubrika, pak dopis Štrasburku s iniciálou D; na pravém okraji pozdější přípisek"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 450,
+   "text": "rubrika „Wie sich die von Straßburg …“ je psána pozdější rukou (kurzíva)"
+  }
+ ],
+ "nadpis_preklad": "Jak se Štrasburští zachovali k Bernským ohledně peněz na kuchyni",
+ "poznamky_prekladu": [
+  "Rubrika kapitoly je psána pozdější rukou (kurzíva).",
+  "„kuchi gelt“ = kuchyňské peníze, tj. příspěvek na stravování vojska (srov. kap. 199)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

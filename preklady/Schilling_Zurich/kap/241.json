@@ -10,7 +10,7 @@
   },
   {
    "text": "Als si nü in das slos warent komen, do was ganz nit darinne, weder essen noch trinken, clein noch gros; si erfragten ouch einandern, do hat nieman weder spis noch trank, geschos noch büchsenklöse bi inen, das inen gar swer anlag, als nit unbillich was, und liessent die valbruck wider nider mit güter gewarsami einer hüt und lüffent harus in die nechsten hüser und nament win, brot und ander ding und mit sunderheit zinnengeschirr von kannen und blatten, was si des ertragen und mit inen bringen mochten, aller vienden halb, und gussent von stund an büchsenklös und rustent sich gar manlichen zü.",
-   "preklad": "Když tedy přišli do hradu, nebylo v něm vůbec nic, ani jídlo, ani pití, malé ani velké. Vyptávali se jeden druhého, ale nikdo u sebe neměl ani pokrm, ani nápoj, ani střelivo, ani koule do pušek, což je velmi tížilo, a ne bez důvodu. Spustili proto opět padací most, s dobrým zajištěním stráží, vyběhli ven do nejbližších domů a vzali víno, chléb a jiné věci, a zvláště cínové nádobí, konvice a talíře, kolik toho mohli unést a přinést s sebou, navzdory všem nepřátelům. Hned z toho odlévali koule do pušek a velmi mužně se připravovali."
+   "preklad": "Když tedy přišli do hradu, nebylo v něm vůbec nic, ani jídlo, ani pití, malé ani velké. Vyptávali se jeden druhého, ale nikdo u sebe neměl ani pokrm, ani nápoj, ani střelivo, ani kule do ručnic, což je velmi tížilo, a ne bez důvodu. Spustili proto opět padací most, s dobrým zajištěním stráží, vyběhli ven do nejbližších domů a vzali víno, chléb a jiné věci, a zvláště cínové nádobí, konvice a talíře, kolik toho mohli unést a přinést s sebou, navzdory všem nepřátelům. Hned z toho odlévali kule do ručnic a velmi mužně se připravovali."
   },
   {
    "text": "Si nament ouch allernechst bi der kilchen ein güt slangenbüchsen und trügent die mit gewalt ouch in das slos, wie wol die viend al bi einandern in der kilchen warent und ein ganz gemeinde und rat hatten; do half inen dennoch der barmherzig gotte, das si das alles mit inen in das slos brachtent, das ouch inen gar wol kam, dann si darab manlich wurdent.",
@@ -23,5 +23,6 @@
   "slangenbüchse = serpentina, lehké dělo s dlouhou hlavní. Odlévání koulí z cínových konvic a talířů: srov. Toblerovu poznámku ke kap. 240 (výpad pro potraviny z nejbližších domů)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

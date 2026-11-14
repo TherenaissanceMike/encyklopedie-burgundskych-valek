@@ -1,0 +1,43 @@
+{
+ "cislo": 51,
+ "nadpis": "Das die vorgenanten herrenn alle mit iren gemacheln vnd töchtern / vnd ouch etlichem irem anhang von der Statt swůrent[?]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 104,
+ "strany": [
+  104,
+  105,
+  106
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also nach den vorgerürten vrteilen allen da swůren die vorgenanten herrenn / vnd die Edlenn mit iren gemacheln / vnd etlichem irem anhang / von der Statt von Bernn einen monad nach Innhalt der Satzung / vsgenomen hartman vom Stein vnd Türing[?] von Ringgeltingen / die warent dazemal nit anheimsch / Darnach als bald die kamen da wolten si sich von iren frunden nit sundern / vnd trügen ouch Spitz / darumb wurdent si als die anderen mit recht ouch gevertiget",
+   "preklad": "A tak podle všech výše uvedených rozsudků zmínění páni a šlechtici se svými manželkami a s některými svými přívrženci odpřisáhli město Bern na jeden měsíc, podle znění ustanovení. Výjimkou byli Hartmann vom Stein a Türing [?] von Ringgeltingen, kteří tehdy nebyli doma. Jakmile se potom vrátili, nechtěli se od svých přátel oddělovat a také nosili [boty se] špičkami. Proto byli i oni jako ostatní právem vypovězeni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 105,
+   "popis": "kolorovaná kresba (perokresba s lehkým lavírováním) – síň s dlaždicovou podlahou a trámovým stropem: vlevo dva muži (jeden v dlouhém plášti), vpravo skupina šlechticů a dam ve vlečných šatech se zdviženými prsty k přísaze, dáma s růžencem, muž ve špičatých botách"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 105,
+   "text": "105 X (pozdější foliace, pravý horní roh, vybledlé)"
+  },
+  {
+   "strana": 106,
+   "text": "106 X (pozdější foliace, levý horní roh, vybledlé); stránka bez obrázku; text psán do šedě podloženého rámu"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak všichni zmínění páni se svými manželkami a dcerami a také s některými svými přívrženci odpřisáhli město [?]",
+ "poznamky_prekladu": [
+  "„swůrent[?]“ v nadpisu – nejisté čtení; smysl „von der Statt schwören“ = odpřisáhnout město, tj. přísahou se zavázat k odchodu z města na stanovenou dobu (jít do vyhnanství, leisten).",
+  "„Türing[?]“ – nejisté čtení jména; jde nejspíš o Thüringa von Ringoltingen, bývalého bernského starostu (mimo přepis).",
+  "„trügen ouch Spitz“ = nosili špičaté boty (zobákovité střevíce); spor se šlechtou (Twingherrenstreit, 1469–1471) se vedl mj. o městský oděvní řád, který zakazoval vlečky a špičaté boty (mimo přepis).",
+  "„gemacheln“ = manželky (gemahel)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

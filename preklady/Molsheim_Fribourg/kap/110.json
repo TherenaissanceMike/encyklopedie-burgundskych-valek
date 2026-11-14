@@ -26,9 +26,10 @@
  "poznamky_editora": [],
  "poznamky": [
   "Opravy OCR: llit → lüt, fiirt → fürt, flirten → fürten, gfit → güt, lierzog → herzog, körnen → komen, weit → welt, Hessen → liessen; odstraněna čísla řádků a odkazy na poznámky.",
-  "Büchi: „[zwen burger und ander von Friburg]“ je v rukopise A přípisek na okraji. Koncem září 1475 se hrabě odebral do Morges. K zajetí vozků a škodám srov. stížnosti Bernských a list Fribourgu z 13. 10.; provokace však podle Büchiho nechyběly ani ze strany konfederátů (listy Fribourgu Bernu z 18. 9. a 2. 10. a odpověď Fribourgu Norimberku z 22. 11. 1475).",
+  "Büchi: „[zwen burger und ander von Friburg]“ je v rukopise A přípisek na okraji. Koncem září 1475 se hrabě odebral do Morges. K zajetí vozků a škodám srov. stížnosti Bernských a list Fribourgu z 13. 10.; provokace však podle Büchiho nechyběly ani ze strany Spříseženců (listy Fribourgu Bernu z 18. 9. a 2. 10. a odpověď Fribourgu Norimberku z 22. 11. 1475).",
   "Oproti Schillingovi (kap. 205): Molsheim přidává mezi zajaté fribourgské měšťany a závěrečnou větu, že naděje na burgundskou pomoc mnohé stála život; nemá Schillingův dovětek, že hrabě obsadil hrady cizím i domácím lidem a že pak podnikali mnohé proti Bernským a Fribourgským."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

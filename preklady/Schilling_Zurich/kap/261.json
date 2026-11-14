@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "261. Das gemein Eidgnossen mit iren panern und ganzer macht ouch harnach kament.",
-   "preklad": "261. Že konfederáti se svými korouhvemi a celou mocí také přitáhli za nimi."
+   "preklad": "261. Že Spříseženci se svými korouhvemi a celou mocí také přitáhli za nimi."
   },
   {
    "text": "Do nun leider dis mortlichen sachen ergangen und beschechen warent, da kament gemein Eidgnossen mit iren panern und ganzer macht ouch harnach und erbuttent sich gegen denen von Bern gar trostlich und früntlich, die iren zü Granson helfen in allen trüwen zü entschütten.",
-   "preklad": "Když se tyto vražedné věci bohužel udály a staly, přitáhli za nimi i ostatní konfederáti se svými korouhvemi a celou mocí a velmi útěšně a přátelsky se Bernským nabídli, že jim v plné věrnosti pomohou vysvobodit jejich lidi v Grandsonu."
+   "preklad": "Když se tyto vražedné věci bohužel udály a staly, přitáhli za nimi i ostatní Spříseženci se svými korouhvemi a celou mocí a velmi útěšně a přátelsky se Bernským nabídli, že jim v plné věrnosti pomohou vysvobodit jejich lidi v Grandsonu."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "Varianta bernského rukopisu: přišli „s celými mocmi, k tomu i jiní spojenci“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

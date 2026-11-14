@@ -1,0 +1,50 @@
+{
+ "cislo": 393,
+ "nadpis": "Das gar vil treffenlicher herren vnd botten von Straßburg Basel vnd anndern enden von semlicher sach wegen gen Bern kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 890,
+ "strany": [
+  890,
+  891,
+  892
+ ],
+ "odstavce": [
+  {
+   "text": "Es kamen ouch dazemal gen Bernn vil herren vn[d] botten von Straßburg Basel Colmar Sletstatt vnd ander der vereynung / denen semlich sachen vnd fürnemen gar leid was / dann si wol erkanten ob das mit vernunft nit vnder komen wurde / dz es dann ein anfang möchte sin einer zerstörunge der eidgnosschaft vnd gemeiner tütscher nation / vn[d] erbutten sich gar ernstlich mit irem lib vnd gůt dich[?] in disen dingen zů arbeiten / damit es zů gütem keme / dann es gar wit vnd verr / In allen lannden was us komen vnd erschollen / das man rett die eidgno[ssen] werent vneins worden / vnd wolten wider einandern kriegen / Da si aber vernamen das es aller erberkeit in eidgno[ssen] leid vnd widrig was / vnd sunderlich das die von Bernn mit iren eidgno[ssen] vnd mitburgern Solottern / friburg vnd Biell sich so erberlich mit vernunft gehalten vnd ein semlichen widerstand getan hatten / das gefiel inen gar wol / vnd schieden damit wider heim",
+   "preklad": "Tehdy přišlo do Bernu také mnoho pánů a poslů ze Štrasburku, Basileje, Colmaru, Sélestatu a jiných z Dolního spolku, jimž byla ta věc a ten záměr velmi líté, neboť dobře poznali, že kdyby se tomu rozumně nepředešlo, mohl by to být začátek zkázy Spříseženstva i celého německého národa. A velmi vážně se nabízeli, že se svým tělem i majetkem budou v těch věcech usilovně [?] pracovat, aby to dopadlo dobře. Neboť se široko daleko ve všech zemích rozneslo a rozhlásilo, že se říká, že se Spříseženci rozešli ve zlém a chtějí spolu válčit. Když však uslyšeli, že to bylo všem počestným lidem mezi Spříseženci líté a proti mysli, a zvláště že se Bernští se svými spříseženci a spoluměšťany ze Solothurnu, Fribourgu a Bielu chovali tak počestně a rozumně a postavili se tomu na odpor, velmi se jim to líbilo, a s tím se vrátili domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 891,
+   "popis": "skupina jezdců v dlouhých pláštích a kloboucích (poselstvo, vpředu vousatý muž) přijíždí k bráně města se znakem Bernu (medvěd); vlevo skály a pěší s píkami, vpravo stromy a krajina"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 891,
+   "text": "891 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s890), dole odstavec s iniciálou E"
+  },
+  {
+   "strana": 892,
+   "text": "892 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček, prosvítá obraz); konec odstavce, dole rubrika s iniciálou D (k obrazu na s893)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 891,
+   "text": "poselstva Dolního spolku („vereynung“) – Štrasburk, Basilej, Colmar, Sélestat"
+  },
+  {
+   "strana": 892,
+   "text": "„dich[?]“ nejisté (snad „vlissig“ zkráceně / „dick“ = často)"
+  }
+ ],
+ "nadpis_preklad": "Jak velmi mnoho význačných pánů a poslů ze Štrasburku, Basileje a jiných míst přišlo kvůli té věci do Bernu",
+ "poznamky_prekladu": [
+  "„vereynung“ = Dolní spolek (Štrasburk, Basilej, Colmar, Sélestat aj.).",
+  "„dich[?]“ – čtení nejisté (snad „dick“ = často, nebo zkrácené „flissig“ = usilovně); přeloženo „usilovně [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

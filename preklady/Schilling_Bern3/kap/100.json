@@ -1,0 +1,37 @@
+{
+ "cislo": 100,
+ "nadpis": "Das hertzog Sigmunden dis sachen ouch wurden ernstlichen zů hertzen gan",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 211,
+ "strany": [
+  211,
+  212
+ ],
+ "odstavce": [
+  {
+   "text": "Und als nü der genant fürst von österrich dis alles gericht erschowen / vnd innen werden / das alles so im der hertzog von Burgunn zůgeseit vnd verschriben hatt vnwarhaft was / vnd das ouch er die armen lüt als hertiklichen beswert / vnd alles sin gemüt vnd fürnemen wider die ere tütscher landen diente vnd sunderlich das die eidgno[ssen] vmb ir beider tröw[e][?] nit vil gabent / wann das si sich alle tage zůgegen wer als mannlich vnd trostlich rüsten / vnd er besorgte / wo im das spil mit dem hertzogen von Burgunn vellen / das dann sin armen lüte vnd lande nacher das bad allein usstragen wurden Do wart er als ein frommer fürst zů milkeit bewegt / vnd geriet im solich übergebung vnd sin armen lüte gerüwen / vnd ward da erst bedencken / was gemeinen tütschen landen / die doch an der kür des heiligen Riches vnd andern wirde das huss österrich vnd sin fürsten yewelten vor andern geeret hatten / schadens vnd nidertrucks an disem übergeben vnd fürnemen gelegen sin / vnd das er dis on rucken vnd hilf der eidgnosschaft ye nit wider bringen möcht / vnd bekunde da betrachten nit nützers noch bessers sin / dann das er mit den eidgno[ssen] vnd si mit im / in friden vnd richtung kemend / So was ouch dis den eidgnossen wol zů willen / die wile si doch in allen vergangnen kriegen vnd sachen nie anders dann fridens / eren vnd rechts begerten",
+   "preklad": "A když nyní zmíněný kníže Rakouský toto všechno spatřil a poznal, že všechno, co mu vévoda Burgundský slíbil a písemně zavázal, bylo nepravdivé, a také že [vévoda] jeho chudé lidi tak tvrdě utiskuje a celá jeho mysl a záměr směřují proti cti německých zemí, a zvláště že Spříseženci o výhrůžky [?] obou mnoho nedbali, nýbrž se každý den tak mužně a s důvěrou chystali k obraně, obával se, že kdyby mu hra s vévodou Burgundským padla, jeho chudí lidé a země by nakonec tu lázeň odnesli sami. Tu byl jako řádný kníže pohnut k mírnosti a litoval toho postoupení i svých chudých lidí. A teprve tehdy začal uvažovat, jakou škodu a ponížení by tímto postoupením a počínáním utrpěly všechny německé země, které přece dům Rakouský a jeho knížata vždy ctily před jinými volbou ve Svaté říši a jinými hodnostmi, a že by to bez opory a pomoci Spříseženstva nikdy nemohl získat zpět. Po uvážení shledal, že nic není užitečnějšího ani lepšího, než aby on se Spříseženci a oni s ním došli míru a narovnání. To bylo také Spřísežencům velmi vhod, neboť ve všech minulých válkách a věcech nikdy nežádali nic jiného než mír, čest a právo."
+  },
+  {
+   "text": "Dis was ein ordenlich mittel on allen zwivel des heiligen geistes / dann wo dis streng vnd vngerecht fürnemen des hertzogen von Burgunn vnd sins lantvogts / zwüschen disen beiden partheien / die doch bi zwey hundert Jare[n] alwegen in töttlichen kriegen miteinandern gewese[n] warent / vnd darumb dann zů beiden siten so menig můter kind ertött worden was / nit in gevallen / so wer wol müglich gewesen / das semlich ewig richtung niemer mer beschechen wer",
+   "preklad": "To byl řádný prostředek, bez vší pochyby od Ducha svatého. Neboť kdyby toto tvrdé a nespravedlivé počínání vévody Burgundského a jeho zemského fojta nevstoupilo mezi tyto dvě strany, které spolu přece bezmála dvě stě let vždy vedly smrtelné války, v nichž bylo na obou stranách zabito tolik matčiných dětí, bylo by dobře možné, že by takové Věčné narovnání nikdy nebylo uzavřeno."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 212,
+   "text": "212 X (pozdější foliace, levý horní roh); stránka bez obrázku; odstavce s kadelami, mezi nimi prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak i vévodovi Zikmundovi začaly tyto věci vážně jít k srdci",
+ "poznamky_prekladu": [
+  "„tröw[e][?]“ – nejisté čtení; přeloženo „výhrůžky [?]“.",
+  "„gericht erschowen“ – snad „přímo, zřetelně spatřil“; přeloženo „spatřil“.",
+  "„an der kür des heiligen Riches“ – narážka na volbu Habsburků římskými králi a císaři (Fridrich III.).",
+  "„bi zwey hundert Jaren“ – Schilling počítá od válek Habsburků s Lesními místy (Morgarten 1315) a počet ponechán podle textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

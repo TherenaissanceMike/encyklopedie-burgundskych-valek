@@ -1,0 +1,66 @@
+{
+ "cislo": 155,
+ "nadpis": "Die zale der fürsten vnd herrenn / so vor der Statt Nüss gelegen / vnd byeinandern gewesen sind",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 329,
+ "strany": [
+  329,
+  330
+ ],
+ "odstavce": [
+  {
+   "text": "Item am ersten der vorgenant Römsch keiser mit sinem gantzen gewalt vnd macht",
+   "preklad": "Dále: nejprve zmíněný římský císař s celou svou mocí a silou."
+  },
+  {
+   "text": "Denne zechen rechter Bischofen / kurfürsten vn[d] ander mit allem irem volcke",
+   "preklad": "Pak deset pravých biskupů, kurfiřtů a jiných se vším svým lidem."
+  },
+  {
+   "text": "Denne fünftzechen hertzogen vnd Marggrafen ouch mit allem irem volcke",
+   "preklad": "Pak patnáct vévodů a markrabat, také se vším svým lidem."
+  },
+  {
+   "text": "Denne xxx Graven mit irem volck",
+   "preklad": "Pak 30 hrabat se svým lidem."
+  },
+  {
+   "text": "Denne drithalb hundert fry herren",
+   "preklad": "Pak dvě stě padesát svobodných pánů."
+  },
+  {
+   "text": "Denne Sechs hundert vnd xxx Ritter",
+   "preklad": "Pak šest set třicet rytířů."
+  },
+  {
+   "text": "Denne me dann vier tusent Edelmann",
+   "preklad": "Pak přes čtyři tisíce šlechticů."
+  },
+  {
+   "text": "Denne lxviij Rich Stette mit irem volck",
+   "preklad": "Pak 68 říšských měst se svým lidem."
+  },
+  {
+   "text": "Item der keiser hatt in ein Summ erlicher vnd güter lüten / als obstat / by im gehebt / me dan[n] lxxx^m manne",
+   "preklad": "Dále: císař měl u sebe celkem, jak výše stojí, přes 80 000 počestných a dobrých mužů."
+  },
+  {
+   "text": "Item er hat ouch me dann drithalb tusent zelten gehebt / vnd darzů andern zug von büchsen vnd suss / davon vil zů schriben wer",
+   "preklad": "Dále: měl také přes dva a půl tisíce stanů a k tomu jinou výzbroj, děla i jiné, o čemž by se dalo mnoho psát."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 330,
+   "text": "330 X (pozdější foliace, levý horní roh); nahoře položka Item, pak rubrika a celostránková miniatura"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Počet knížat a pánů, kteří leželi a byli pospolu před městem Neussem",
+ "poznamky_prekladu": [
+  "„drithalb hundert“ = 250, „drithalb tusent“ = 2500; „lxxx^m“ = 80 000."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

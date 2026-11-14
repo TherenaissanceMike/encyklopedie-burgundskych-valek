@@ -1,0 +1,41 @@
+{
+ "cislo": 18,
+ "nadpis": "Das Hertzstein das starck Sloss / von denen von Bernn vnd Sollotern / gewunnen Vnd ouch gantz verbrant wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 43,
+ "strany": [
+  43,
+  44,
+  45
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd dannen zoch / da wart einer von Hertzstein gevangen der was gen Tann heimlich gangen die gelegenheit zů erkunnen vmb das si sich darnach ouch konden halten / Mit dem selben gevangnen Schickten die von Bernn vnd Sollotern zweyhundert man das si dz Slos ouch solten in nemen / das ouch beschach vnd gap inen semlich vnderwisung / das es bald gewunnen vnd verbrönt wart / Es was gar ein werlich Sloss vnd hoch gelegen / vnd hette man von dem gevangnen nit vnderwisung vnd kuntschaft gehebt / So hett man es nit wol möge[n] gewynnen / Man gewann ouch daruff des abts von Mürbach paner / die was wiss vnd darin ein Swartzer wind / die schanckt man denen von Friburg von sunder lieb wegen die fůrtents ouch mit inen heim",
+   "preklad": "A když se odtamtud táhlo, byl zajat jeden muž z Herzensteinu [?], který tajně šel do Thannu vyzvědět situaci, aby se podle toho mohli zařídit. S tím zajatcem poslali Bernští a Solothurnští dvě stě mužů, aby hrad také dobyli, což se také stalo; [zajatec] jim dal takové poučení, že byl brzy dobyt a vypálen. Byl to velmi obranyschopný hrad a vysoko položený, a kdyby se nebylo od zajatce mělo poučení a zprávy, nebylo by ho snadno možno dobýt. Dobyli tam také korouhev opata z Murbachu; byla bílá a v ní černý chrt. Tu darovali Fribourgským ze zvláštní lásky a ti ji také odnesli s sebou domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 44,
+   "popis": "horní dvě třetiny strany – dobytí a vypálení hradu Hertenstein"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 44,
+   "text": "44 (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 45,
+   "text": "45 (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a Solothurnští dobyli silný hrad Herzenstein [?] a také ho úplně vypálili",
+ "poznamky_prekladu": [
+  "Hertzstein – hrad, nejspíš Herzenstein (Hirtzenstein) u Wattwilleru, majetek opatství Murbach (určení mimo přepis, [?]).",
+  "Murbašský erb: černý chrt (wind = Windhund) na stříbrném (bílém) poli."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

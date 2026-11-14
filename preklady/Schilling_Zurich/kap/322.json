@@ -10,7 +10,7 @@
   },
   {
    "text": "Und also schickt man von stund an ein erlich und manlich volk mit einem venlin hinweg; denen wurden für houptlüt geben und zügeordnet Brandolf vom Stein und Gilian von Rümlingen. Und zugen also mit einem venli von Bern us uf dornstag vor dem heiligen winacht tage des vorgenanten iares, und versampnetent sich in der stat Basel, dahin ouch ander Eidgnossen kament, und bliben also daselbs, bis ir von Bern und andern Eidgnossen bi achttusent mannen wurdent; do gap man ieglichem uf sinen sold zwen güldin.",
-   "preklad": "A tak hned vypravili čestný a mužný lid s praporcem; za hejtmany jim byli dáni a přiděleni Brandolf vom Stein a Gilian von Rümlingen. Vytáhli tedy s praporcem z Bernu ve čtvrtek před svatým dnem Božího narození téhož roku a shromáždili se ve městě Basileji, kam přišli i jiní konfederáti, a zůstali tam, dokud jich z Bernu a od jiných konfederátů nebylo na osm tisíc mužů; tu dali každému na jeho žold dva zlaté."
+   "preklad": "A tak hned vypravili čestný a mužný lid s praporcem; za hejtmany jim byli dáni a přiděleni Brandolf vom Stein a Gilian von Rümlingen. Vytáhli tedy s praporcem z Bernu ve čtvrtek před svatým dnem Božího narození téhož roku a shromáždili se ve městě Basileji, kam přišli i jiní Spříseženci, a zůstali tam, dokud jich z Bernu a od jiných Spříseženců nebylo na osm tisíc mužů; tu dali každému na jeho žold dva zlaté."
   },
   {
    "text": "Es wart ouch ein fromer man von Bern, namlich Urban von Mülron zü inen gen Basel geschickt, etwas mit den fromen lüten, die hinweg zugent, zü reden, und inen ir sachen helfen ordnen ; derselb von Mülron zoch mit inen von Basel bis in Lothringen an den strit sins eignen willens, und wolt sich überein von inen nit scheiden und bewert sich do als ein fromer Berner, als dann sin vordern vor langen iaren in der stat nöten an dem strit zü Loupen und andern enden ouch getan hand, das man in den alten cronicken wol vindet.",
@@ -21,9 +21,10 @@
   "Text proti surovému rozsahu (ř. 7635–7697) zkontrolován, nic nechybí; opraveno jen luten → lüten, houptlut → houptlüt. Řádky 7635–7643 rozsahu patří ještě na konec kap. 321.",
   "Čtvrtek před Vánocemi = 19. 12. 1476 (Tobler).",
   "Gilgian von Rümlingen se r. 1483 stal členem cechu Distelzwang (Tobler). Urban von Muleren byl rovněž členem Distelzwangu, zemřel 1498; podle Justingera byl Rudolf von Müleren r. 1339 jako praporečník (venner) poslán s Johannesem von Bubenberg do Laupenu (Tobler) – to jsou ti „předkové u Laupenu“.",
-  "Síla kontingentů (Tobler podle Hochmutha aj.): Curych 2346 mužů (vytáhl 21. 12.), Luzern 1200 (jinde přes 1400), Schwyz 800, Zug 200, Unterwalden 300, Glarus 246; bernský seznam mužstva uvádí 1087 pěších knechtů a 50 jezdců. Konfederátů v Basileji bylo celkem 8400; Reimchronik s 16 000 přehání. Údaj Reimchroniky, že žold byl vyplacen až po dvou měsících služby, je nesprávný.",
+  "Síla kontingentů (Tobler podle Hochmutha aj.): Curych 2346 mužů (vytáhl 21. 12.), Luzern 1200 (jinde přes 1400), Schwyz 800, Zug 200, Unterwalden 300, Glarus 246; bernský seznam mužstva uvádí 1087 pěších knechtů a 50 jezdců. Spříseženců v Basileji bylo celkem 8400; Reimchronik s 16 000 přehání. Údaj Reimchroniky, že žold byl vyplacen až po dvou měsících služby, je nesprávný.",
   "Varianty: „erlich stritbar volk“ (čestný bojeschopný lid); u odchodu z Bernu „mit einem venli“ chybí; „me dann achttusent“ (víc než 8000); Mülron je ve variantě v kap. 323 uveden jako „der dazemal ein venner was“ (tehdejší praporečník) a chybí tam, že s nimi táhl z Basileje a nechtěl se oddělit."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

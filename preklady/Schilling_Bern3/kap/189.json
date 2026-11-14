@@ -1,0 +1,45 @@
+{
+ "cislo": 189,
+ "nadpis": "Das die Statt vnd Slos Grangis von denen von Bernn vnd andern ouch ingenomen vnd gewunnen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 408,
+ "strany": [
+  408,
+  409
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zugent die von Bernn vnd ander gegen einer Statt vnd Slos genant Grangis In willen vnd meynung das mit dem Sturm vnd dem Swert ouch zů erobern / Vnd als man das berant vnd ordnungen gemacht hatt vnd dennocht die von Bernn vnd das ander volck miteinandern da hinden in einem wald warent vnd da an dem schatten růwten / Da kamen die armen lüte inen engegen / vnd begerten barmhertzikeit vnd gnaden / das man inen ouch mitteilt / In semlicher meynunge / das die armen lüte bi iren hüsern vnd dem iren bliben / vnd solt man aber das Slos am ersten sleipfen vnd brönnen Vnd alle türne vnd muren der Statt nider werfe[n] vnd us der Statt ein dorf machen / das aber nit beschach / dann nieman gernn wercken noch sich damit bekümbern wolt / doch ward den armen lüten des iren vil genomen / vnd ward gantz darman[?] da gemacht",
+   "preklad": "Potom táhli Bernští a jiní k městu a hradu jménem Granges s úmyslem a záměrem dobýt je také útokem a mečem. A když se k němu přitáhlo a udělaly se šiky, a Bernští i ostatní lid byli ještě spolu vzadu v lese a odpočívali tam ve stínu, přišli jim vstříc chudí lidé a prosili o milosrdenství a milost. Ta jim byla také poskytnuta s tím, že chudí lidé zůstanou u svých domů a svého majetku, ale hrad se má nejdřív strhnout a vypálit a všechny věže a hradby města zbořit a z města udělat vesnici. To se však nestalo, neboť nikdo nechtěl rád pracovat ani se tím obtěžovat. Chudým lidem však bylo vzato mnoho jejich majetku a byli tam zcela zbídačeni [?]."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 408,
+   "popis": "dokončená kolorovaná miniatura – kapitulace Granges: vlevo hrad s branou, z něj vycházejí měšťané a předávají klíče; uprostřed pod stromy dva obrnění velitelé s bílými kříži (jeden pije z láhve), vpravo vojsko s píkami a praporem s bílým křížem"
+  },
+  {
+   "strana": 409,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 409,
+   "text": "409 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám pro obrázek (prázdný); dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 408,
+   "text": "Grangis = Granges (Granges-le-Bourg, Franche-Comté)"
+  }
+ ],
+ "nadpis_preklad": "Jak město a hrad Granges byly od Bernských a jiných také obsazeny a dobyty",
+ "poznamky_prekladu": [
+  "Grangis = Granges (Granges-le-Bourg, Franche-Comté).",
+  "„vnd ward gantz darman[?] da gemacht“ – nejisté čtení (snad „gantz arm“), přeloženo „byli zcela zbídačeni“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

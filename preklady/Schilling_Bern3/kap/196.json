@@ -1,0 +1,56 @@
+{
+ "cislo": 196,
+ "nadpis": "Das des hertzogen von Österrich lantvogt / vnd ander mit im in Lothringen zugen[?]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 417,
+ "strany": [
+  417,
+  418,
+  419,
+  420
+ ],
+ "odstavce": [
+  {
+   "text": "In dem da kamend gros warnungen vnd gewiß mere / das der hertzog von Burgunn mit grossem gewalt vnd macht vnderstůnd durch Lothringen zů brechen / nach dem er dann dz vorhin verwüst hatt / vnd in Burgunn zů ziechen Vnd wurden also von dem hertzogen von Lothringe[n] alle herren vnd Stette der nüwen vereynung gemant / zů inen zů ziechen / vnd helfen ein widerstat tůn / Do wart man betrachten / solt der vorbenent hertzog also gewalticlich durch Lothringen brechen vnd mit einem semlichen grossen zuge in Burgunn komen / das man dann davon merglichen schaden möcht enpfachen / Darzů meint der von Tierstein des hertzogen lantvogt / man solt mit im in Lothringen ziechen / das wer sin wille vnd meynung / Vnd also vmb eren willen / da ward man zů ratt / der der genant von Tierstein mit sinem volck / der gar ein mechtig zal was / In Lothringen ziechen / vnd die von Straßburg mit denen von Bernn vnd andern die by inen waren / ein leger für die Stat vnd Sloß Blomont slachen / vnd das vnderstan solten dann ouch der Bischof vnd die Statt von Basel gar vast daran waren / vnd ouch manten / vnd semlichs baten / das man nit also dannen zug / bis das Blomont vorhin erobert vnd gestraft wurde dann es ein semlich starck Slos vnd roupnus[?] were das yederman davon merglichen schaden enpfing Vnd wurden ouch gar vil fromer lüten dar gefüert / vnd in gevangnüß geleit / vnd wider got vnd alle billicheit geschetzt / vnd gar vil vom leben zem tode bracht / vnd hungers verderbt / Es wurden ouch von inen priester vnd frowen gevangen vnd geschetzt / vnd darinne nieman geschonet / Vnd sunderlich des Bischofs lüte von Basel / der land vnd lüte daran stiessen / vnd aber das on hilf nit mocht verkomen",
+   "preklad": "Mezitím přišla velká varování a jisté zprávy, že vévoda Burgundský se chystá s velkou silou a mocí prorazit přes Lotrinsko, které předtím zpustošil, a vtáhnout do Burgundska. A tak vévoda Lotrinský napomenul všechny pány a města Dolního spolku, aby k nim táhli a pomohli mu postavit se na odpor. Tu se začalo uvažovat: kdyby zmíněný vévoda takto násilně prorazil přes Lotrinsko a s tak velkým vojskem přišel do Burgundska, mohla by z toho vzejít značná škoda. K tomu mínil von Tierstein, vévodův zemský fojt, že by se mělo táhnout s ním do Lotrinska, to byla jeho vůle a úmysl. A tak se pro čest usneslo, že zmíněný von Tierstein se svým lidem, který byl velmi početný, potáhne do Lotrinska, a Štrasburští s Bernskými a jinými, kteří byli s nimi, rozbijí tábor před městem a hradem Blamont a pokusí se ho dobýt. Neboť i biskup a město Basilej na tom velmi trvali, napomínali a prosili, aby se odtud neodtáhlo, dokud nebude Blamont dobyt a potrestán. Byl to totiž tak silný hrad a loupežnické hnízdo [?], že z něj každý utrpěl značnou škodu. Bylo tam také odvlečeno velmi mnoho poctivých lidí, uvrženo do vězení a proti Bohu a vší slušnosti vydíráno o výkupné, a velmi mnoho jich bylo připraveno o život a umořeno hladem. Zajímali také kněze a ženy a vydírali je o peníze a nikoho přitom nešetřili. A zvláště lidi basilejského biskupa, jehož země a lidé s tím sousedili a kteří tomu bez pomoci nemohli předejít."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 418,
+   "popis": "dokončená kolorovaná miniatura – vojsko táhne přes dřevěný most: vlevo jezdci a pikenýři s prapory, vpravo pěší s bílými kříži přecházejí most; v pozadí hrad, město, jezero s lodí a hory"
+  },
+  {
+   "strana": 419,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 418,
+   "text": "418 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou I"
+  },
+  {
+   "strana": 419,
+   "text": "419 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (město, válečník); dole kadela"
+  },
+  {
+   "strana": 420,
+   "text": "420 X (pozdější foliace, levý horní roh); nahoře rubrika, miniatura, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 417,
+   "text": "„Clerua“ – snad Clerval (Doubs); konec rubriky na okraji uříznut („inge…“), doplněno podle smyslu"
+  }
+ ],
+ "nadpis_preklad": "Jak zemský fojt vévody Rakouského a jiní s ním táhli [?] do Lotrinska",
+ "poznamky_prekladu": [
+  "„zugen[?]“ v rubrice – konec rubriky na okraji uříznut, doplněno podle smyslu (viz poznámka k přepisu).",
+  "„roupnus[?]“ – nejisté čtení, přeloženo „loupežnické hnízdo“.",
+  "„geschetzt“ = zdaněni výkupným (schätzen = vydírat zajatce o peníze)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

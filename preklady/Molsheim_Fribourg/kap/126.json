@@ -12,11 +12,11 @@
  "odstavce": [
   {
    "text": "Wie die von Bern und ander Eygnossen von Ruw gen Friburg kamen und do früntlich enpfangen wurden und noch vil bas gehalten und gelassen.",
-   "preklad": "126. Jak Bernští a jiní konfederáti přišli z Rue do Fribourgu, byli tam přátelsky přijati a ještě mnohem lépe pohoštěni a propuštěni."
+   "preklad": "126. Jak Bernští a jiní Spříseženci přišli z Rue do Fribourgu, byli tam přátelsky přijati a ještě mnohem lépe pohoštěni a propuštěni."
   },
   {
    "text": "Darnach zoch man gen Rüw. Dieselbe statt und schlos sich ouch vorhin ergeben hat. Und gaben jederman win und brott und anders, des man notdürftig was, genüg; wiewol es inen nit am herzen was, so müstent sy es doch tun; und da dannan den nechsten gan Friburg. Da wurden die von Bern und ander Eydgnossen so gar früntlich enpfangen, wol und schön erbotten und noch vil bas gelassen, denn sy schankten jederman insunders win und anders und hatten gar grossen costen, das menklich in meren und gelichen sachen umb sy verdienen und niemerme vergessen sol.",
-   "preklad": "Potom se táhlo do Rue; to město i hrad se rovněž již předtím vzdaly. Dávali každému dost vína, chleba a jiných věcí, kterých bylo třeba; ačkoli jim to nebylo po chuti, museli to přesto udělat. A odtamtud se táhlo nejkratší cestou do Fribourgu. Tam byli Bernští a jiní konfederáti přijati velmi přátelsky, dobře a krásně uvítáni a ještě mnohem lépe propuštěni, neboť [Fribourgští] každého zvlášť obdarovali vínem a jiným a měli s tím velmi veliké náklady; to jim má každý ve větších i podobných věcech oplatit a nikdy nezapomenout."
+   "preklad": "Potom se táhlo do Rue; to město i hrad se rovněž již předtím vzdaly. Dávali každému dost vína, chleba a jiných věcí, kterých bylo třeba; ačkoli jim to nebylo po chuti, museli to přesto udělat. A odtamtud se táhlo nejkratší cestou do Fribourgu. Tam byli Bernští a jiní Spříseženci přijati velmi přátelsky, dobře a krásně uvítáni a ještě mnohem lépe propuštěni, neboť [Fribourgští] každého zvlášť obdarovali vínem a jiným a měli s tím velmi veliké náklady; to jim má každý ve větších i podobných věcech oplatit a nikdy nezapomenout."
   },
   {
    "text": "Und als man nu uff Samstag vor Sant Gallentag mit den paneren zü Bern und zu Friburg usgezogen was in dem vorgenanten 75. jar, do kam man uff Allerselentag mit grossen eren wider heimen. Und was man nit me denn dryg wuchen usgesin. Und hatt man in demselben kurzen zitt mit hilf des almechtigen gottes vil stetten und schlosser mit ritterlicher hand und mit dem schwert, mit stürmen und mit grosser arbeit gewunnen und erobret, als denn derselben schlosser und stette namen hienach von wort zu wort eigentlich geschriben statt.",
@@ -33,5 +33,6 @@
   "Oproti Schillingovi: Molsheim táhne z Morges/Lausanne jen přes Rue (Schilling: Rue a Romont; rukopis C má „Rüw und Remondt“) a vytahuje se „s korouhvemi z Bernu a z Fribourgu“ (Schilling jen s bernskou korouhví). Fribourgská pohostinnost je u něj výslovně povinností, kterou má každý Fribourgským oplatit."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

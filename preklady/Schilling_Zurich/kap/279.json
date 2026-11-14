@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "279. Das die Eidgnossen tusent gewapneter mannen gen Friburg schicktent.",
-   "preklad": "279. Jak konfederáti poslali do Fribourgu tisíc ozbrojených mužů."
+   "preklad": "279. Jak Spříseženci poslali do Fribourgu tisíc ozbrojených mužů."
   },
   {
    "text": "Do nü der Burgunsch herzog also vor Losann lag und die Eidgnossen von Granson alle wider heim gezogen warent und aber die gemein rede was, er wolt sin leger fur Friburg slachen und das am ersten zwingen und under sich bringen, do schicktent gemein Eidgnossen von stetten und lendern tusent gewapneter mannen gen Friburg, si und ir stat in allen trüwen helfen beschirmen und behüten, das ouch von inen nach allen eren beschach. Und lagent do etwas zites und hieltent sich mit iederman gar früntlich und tatent nieman kein unzücht, weder frowen noch mannen, und bezalten ouch gütlich, was si verzarten.",
-   "preklad": "Když tedy burgundský vévoda takto ležel u Lausanne a konfederáti se od Grandsonu všichni vrátili domů, a přitom se obecně říkalo, že chce rozbít tábor před Fribourgem a ten nejprve zdolat a podrobit, poslali společní konfederáti z měst i venkovských kantonů do Fribourgu tisíc ozbrojených mužů, aby Fribourgským a jejich městu ve vší věrnosti pomohli je chránit a střežit; to také se vší ctí učinili. Leželi tam nějaký čas, ke každému se chovali velmi přátelsky, nikomu – ani ženám, ani mužům – nečinili žádné nepřístojnosti a poctivě zaplatili, co utratili."
+   "preklad": "Když tedy burgundský vévoda takto ležel u Lausanne a Spříseženci se od Grandsonu všichni vrátili domů, a přitom se obecně říkalo, že chce rozbít tábor před Fribourgem a ten nejprve zdolat a podrobit, poslali společní Spříseženci z měst i zemí do Fribourgu tisíc ozbrojených mužů, aby Fribourgským a jejich městu ve vší věrnosti pomohli je chránit a střežit; to také se vší ctí učinili. Leželi tam nějaký čas, ke každému se chovali velmi přátelsky, nikomu – ani ženám, ani mužům – nečinili žádné nepřístojnosti a poctivě zaplatili, co utratili."
   }
  ],
  "poznamky": [
@@ -19,5 +19,6 @@
   "Bernský rukopis (varianty): „tusent gewapneter mannen mit iren venlinen“ (s jejich praporci); „verhüten. Die lagen ouch da…“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

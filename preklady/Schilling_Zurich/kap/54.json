@@ -6,18 +6,19 @@
  "odstavce": [
   {
    "text": "54. Das sich der küng des wider die Eidgnossen nit annemen wolt.",
-   "preklad": "54. Jak se toho král proti konfederátům nechtěl ujmout."
+   "preklad": "54. Jak se toho král proti Spřísežencům nechtěl ujmout."
   },
   {
    "text": "Do nun der küng dis werbung und clage des vorgenanten fürsten horte und er durch etlich personen, der Eidgnossen güt gönner, die dann an dem künglichen hofe warent, der Eidgnossen glimpfes und der rechten warheit underricht wart und dabi betrachtet, das er vorhin mit gemeinen Eidgnossen in einer ewigen und verschribner verstentnis ouch was, im siner eren und der Eidgnossen halb, wo die wider in sin solten, an der sachen gelegen was, wolt er sich des fürsten von Oesterich wider die Eidgnossen nit annemen, dann das er es alles den Eidgnossen kund tet und dem fürsten genziclichen abslüg; und wart dennocht als vil durch sin künglich gnade etlicher nachfolgender ursach halb angenomen und der fürst im dienstlichen verpflicht, das der küng im diewile er lebte für ein ierliche pension zechentusent franken verschreip, als man das hienach bas hören wirt.",
-   "preklad": "Když nyní král vyslechl poselství a stížnost výše jmenovaného knížete a když ho několik osob, dobrých příznivců konfederátů, které byly na královském dvoře, zpravilo o tom, že je právo na straně konfederátů, a o pravé pravdě, uvážil přitom, že je se všemi konfederáty už dříve ve věčném a listinou stvrzeném porozumění a že mu na té věci záleží kvůli jeho cti i kvůli konfederátům, kdyby se obrátili proti němu. Proto se rakouského knížete proti konfederátům ujmout nechtěl, ale všechno to konfederátům oznámil a knížeti to zcela odmítl. Přesto byl kníže jeho královskou milostí z několika příčin, o nichž bude řeč, přijat a zavázán mu ke službě do té míry, že mu král, dokud bude živ, upsal roční penzi deset tisíc franků, jak se dále lépe uslyší."
+   "preklad": "Když nyní král vyslechl poselství a stížnost výše jmenovaného knížete a když ho několik osob, dobrých příznivců Spříseženců, které byly na královském dvoře, zpravilo o tom, že je právo na straně Spříseženců, a o pravé pravdě, uvážil přitom, že je se všemi Spříseženci už dříve ve věčném a listinou stvrzeném porozumění a že mu na té věci záleží kvůli jeho cti i kvůli Spřísežencům, kdyby se obrátili proti němu. Proto se rakouského knížete proti Spřísežencům ujmout nechtěl, ale všechno to Spřísežencům oznámil a knížeti to zcela odmítl. Přesto byl kníže jeho královskou milostí z několika příčin, o nichž bude řeč, přijat a zavázán mu ke službě do té míry, že mu král, dokud bude živ, upsal roční penzi deset tisíc franků, jak se dále lépe uslyší."
   }
  ],
  "poznamky": [
   "Oprava textu: „kung“ → „küng“, „bı“ → „bi“, „an.der“ → „an der“.",
   "Varianty jiného rukopisu: „mit den Eidg. [in einer … verstentnis]“, „es inen kund tet“, „ganz [abslüg]“, „sin maiestat“ místo „sin künglich gnade“, „harnach“.",
-  "„glimpf“ = oprávněnost, slušnost jednání; „verstentnis“ = dohoda, smlouva (zde spolek krále Ludvíka XI. s konfederáty; mimo Tobler)."
+  "„glimpf“ = oprávněnost, slušnost jednání; „verstentnis“ = dohoda, smlouva (zde spolek krále Ludvíka XI. se Spříseženci; mimo Tobler)."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

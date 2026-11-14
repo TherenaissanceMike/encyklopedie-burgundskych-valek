@@ -14,7 +14,7 @@
   },
   {
    "text": "Durch dieselben wart gar schantlich und übel geregiert, alles zü schaden und abbruch des vorgenanten herzogthüms, das des gar menigvalticlichen durch ir untrüw und verreterie willen engolten hat, als man harnach vindet; dann si zü allen ziten mit iren ungetrüwen bösen räten daruf stünd und ging, wie si die von Bern und ander Eidgnossen hette mögen in des wütrichs und blütvergiessers, des Burgunners, gewalt bringen, das ir von gots gnaden nit geriet.",
-   "preklad": "Ti vládli velmi hanebně a zle, vše ke škodě a újmě řečeného vévodství, které to pro její nevěru a zradu mnohonásobně odpykalo, jak se dočteš dále. Neboť ona se svými nevěrnými a zlými rádci po všechny časy usilovala o to, jak by mohla Bernské a ostatní konfederáty dostat do moci toho ukrutníka a krveprolévače, Burgunďana, což se jí z boží milosti nepodařilo."
+   "preklad": "Ti vládli velmi hanebně a zle, vše ke škodě a újmě řečeného vévodství, které to pro její nevěru a zradu mnohonásobně odpykalo, jak se dočteš dále. Neboť ona se svými nevěrnými a zlými rádci po všechny časy usilovala o to, jak by mohla Bernské a ostatní Spřísežence dostat do moci toho ukrutníka a krveprolévače, Burgunďana, což se jí z boží milosti nepodařilo."
   }
  ],
  "poznamky": [
@@ -25,5 +25,6 @@
   "Bernský rukopis podle variant: „fürsten und kinde“, „daruf studiert, wie…“ (přemýšlela, jak…)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

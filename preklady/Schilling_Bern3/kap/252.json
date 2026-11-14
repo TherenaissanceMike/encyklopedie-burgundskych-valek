@@ -1,0 +1,43 @@
+{
+ "cislo": 252,
+ "nadpis": "Das die von Bernn vnd ander eidgno[ssen] miteinandern gen Friburg zugen / vnd gar fruntlich von inen enpfangen wurde[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 545,
+ "strany": [
+  545,
+  546
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zugen die von Bernn vnd ander eidgno[ssen] miteinandern gen Friburg / Da wurden si gar fruntlich vnd in brüderlichen trüwen enpfangen / vnd noch bas gelasse[n] dann si schanckten yederman in sunderheit win vnd anders / vnd hatten des mergklichen costen des man ouch nit vergessen sol",
+   "preklad": "Potom táhli Bernští a ostatní Spříseženci společně do Fribourgu. Tam byli přijati velmi přátelsky a v bratrské věrnosti a ještě lépe pohoštěni, neboť [Fribourgští] každému zvlášť darovali víno a jiné a měli s tím značné náklady, na což se nemá zapomínat."
+  },
+  {
+   "text": "Vnd als man am Samstag vor Sant Gallen tag des vorgenanten Jares mit der paner von Bernn us gezogen was da kam man mit grossen eren an aller selen tag wider heim / vnd was man us gewesen dryg wuchen vnd nit me / Vnd hat in dem kurtzen zite mit fliß vnd von gnaden des almechtigen gottes gar vil Stetten vnd Slossen gewunnen vnd erobert / mit dem Sturm / mit dem Swert vn[d] anders / als harnach statt",
+   "preklad": "S bernskou korouhví se vytáhlo v sobotu před svatým Havlem zmíněného roku a domů se vrátilo s velkou ctí na Dušičky; venku se bylo tři týdny a ne víc. A v tak krátké době se s pílí a z milosti všemohoucího Boha dobylo a podmanilo velmi mnoho měst a hradů – útokem, mečem i jinak –, jak následuje dále."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 545,
+   "popis": "kolorovaná kresba – švýcarské vojsko s korouhvemi (Uri s býčí hlavou, Bern s medvědem, další), bubeníkem a trubačem přichází k branám Fribourgu; pikenýři s bílými kříži, velitelé s péry; vpředu keře a louka"
+  },
+  {
+   "strana": 546,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 546,
+   "text": "546 X (pozdější foliace, levý horní roh); text s iniciálou V přes šedě podložený rám pro obrázek, v něm rubrika; dole seznam míst s kadelami"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a ostatní Spříseženci táhli společně do Fribourgu a byli od nich velmi přátelsky přijati",
+ "poznamky_prekladu": [
+  "Sobota před sv. Havlem (sv. Havel 16. 10., v r. 1475 pondělí) = 14. října 1475; Dušičky = 2. listopadu 1475 (juliánský kalendář)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

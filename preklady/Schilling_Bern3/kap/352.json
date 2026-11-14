@@ -1,0 +1,45 @@
+{
+ "cislo": 352,
+ "nadpis": "(v banderole v obraze) Das gar vil herren geistlich vnd weltlich gen Losann kament / vnd gein den von Bern vnd anndern einer richtung begertent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 787,
+ "strany": [
+  787,
+  788
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd do man dennocht zů Losann lag / vnd man vermeint fürer gen Genff vnd an ander ende zů ziechen / vnd die nach irem verdienen witer zů schedigen / da kament gar vil landsherren geistlich vnd weltlich / von dem huß Saffoy[en] des glich von Genff ouch / vnd begerten einer teding vnd fridens / Vnd wart so vil darin geret / das man von der Saffoiern vnd von Genff wegen gegen denen von Bernn vnd anndern eidgno[ssen] vnd verwanten einen bestant macht / vnd wart ein tag gen Friburg durch begern des küngs von Franckenrich / dem es ouch zů eren vnd willen beschach angesatzt / vff Sant Jacobs tag darnach in dem vorgenanten Jar / dahin ouch die von Bernn / darzů annder eidgno[ssen] vnd verwanten von fürsten herren vnd Stetten mit iren treffenlichen botschaften kament / da solten dann die von Bernn vnd annder eidgno[ssen] ir ansprachen / beswerungen vnd anligenden sachen / So si wider Saffoy vnd die von Genff hetten / geoffenbaret kün werden / als ouch darnach durch die von Bernn in ir aller name[n] beschach / vnd man darnach eigentlich vindet",
+   "preklad": "A když se ještě leželo v Lausanne a mělo se za to, že se potáhne dále do Ženevy a jinam a že se jim podle jejich zásluh dále uškodí, přišlo velmi mnoho zemských pánů, duchovních i světských, ze savojského rodu a stejně tak i z Ženevy, a žádali o vyjednávání a mír. Jednalo se o tom tolik, že bylo uzavřeno příměří mezi Savojskými a Ženevou na jedné a Bernskými a ostatními Spříseženci a spojenci na druhé straně. A na přání francouzského krále, k jehož poctě a vůli se to také stalo, byl svolán sněm do Fribourgu na den sv. Jakuba potom v řečeném roce. Tam přišli také Bernští a k tomu ostatní Spříseženci a spojenci z řad knížat, pánů a měst se svými význačnými poselstvy. Tam měli Bernští a ostatní Spříseženci přednést své nároky, stížnosti a záležitosti, jež měli proti Savojsku a Ženevským. To se také potom stalo skrze Bernské jménem všech, jak se dále přesně nalézá."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 787,
+   "popis": "Lausanne s katedrálou (věže s kopulemi) a hradbami, nad městem vlají konfederační korouhve (Uri, Bern, Luzern, Unterwalden aj.); na jezeře loď s plachtou a loďka; vpravo dole přijíždí na koních skupina pánů – duchovní v širokém klobouku a světští páni – žádat o smír"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 788,
+   "text": "788 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavec s nevyplněnou iniciálou V, dole rubrika s iniciálou W (k obrazu na s789)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 787,
+   "text": "autor se omlouvá za vyloupení lausannských kostelů „snöden büben“ a prosí Pannu Marii, aby za to nepykali nevinní"
+  },
+  {
+   "strana": 788,
+   "text": "příměří se Savojskem a Ženevou; sněm ve Fribourgu na přání francouzského krále na sv. Jakuba (25. července 1476)"
+  }
+ ],
+ "nadpis_preklad": "(v banderole v obraze) Jak do Lausanne přišlo velmi mnoho pánů duchovních i světských a žádali po Bernských a ostatních narovnání",
+ "poznamky_prekladu": [
+  "Sv. Jakub = 25. 7. 1476 (řečený rok = 1476).",
+  "Mírový sněm ve Fribourgu trval od konce července do srpna 1476 (mimo přepis); viz kap. 358–359."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

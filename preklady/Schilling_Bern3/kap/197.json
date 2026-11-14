@@ -1,0 +1,41 @@
+{
+ "cislo": 197,
+ "nadpis": "Das von denen von Bernn vnd andern iren gewanten / ein leger für Blomont gewalticlichen geslagen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 420,
+ "strany": [
+  420,
+  421
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen gottes / da slůg man ein gewaltig leger für die starck Statt vnd Sloß Blomont / vnd leit man angendz daran dryg gros houptbüchsen / namlich ein von Straßburg / vnd ein von Basel / So hat ouch der lantvogt das Ketterli von Ensisheim darzů einen houptman vnd etwas volckes ouch da gelassen vnd vieng man an schiessen in die Statt / darumb si nit vil gabent / dann es warent vil gůter büchsen meister darzů edel vnd ander von Burgunnern / Lamparteren vnd suss darinn / vnd hatte[n] vil gůter büchsen vnd anderm züg bi inen / darus si grossen schaden taten mit schiessen / dann si an allen orten gar vast harus schussen / vnd wurde[n] vil lüten gewunt vnd geletzt / Da zwüschen rüstent sich die von Straßburg zů mit bolwercken hert körben / leitern vnd andern dingen / das zů einem Sturm gehort / vnd wart ouch von einem Sturm gerett / damit man den dingen end gebe",
+   "preklad": "A tak ve jménu Božím rozbili mocný tábor před silným městem a hradem Blamont a hned k němu postavili tři velká obléhací děla (bombardy), totiž jedno ze Štrasburku a jedno z Basileje; a zemský fojt tam také nechal „Kateřinku“ z Ensisheimu a k ní hejtmana a nějaký lid. A začalo se střílet do města. Z toho si však [obránci] mnoho nedělali, neboť v něm bylo mnoho dobrých puškařů (mistrů dělostřelby), k tomu šlechtici a jiní z Burgunďanů, Lombarďanů a dalších, a měli u sebe mnoho dobrých děl a jiného válečného materiálu. Z nich působili střelbou velkou škodu, neboť ze všech stran velmi silně stříleli ven, a mnoho lidí bylo raněno a zraněno. Mezitím se Štrasburští připravovali s přenosnými kryty, gabiony, žebříky a jinými věcmi, které patří k útoku, a mluvilo se také o útoku, aby se věci učinil konec."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 420,
+   "popis": "dokončená kolorovaná miniatura – obléhání Blamontu: vlevo opevněné město s hradem, do hradeb bijí dělové koule, vpředu velká děla (houfnice) s hromadou koulí a puškař, střelci s ručnicemi; vpravo stany tábora se znaky, ženy (markytánky) podávají jídlo a džbán, pikenýři s prapory"
+  },
+  {
+   "strana": 421,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (tábor se stany a znakem), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 421,
+   "text": "421 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (tábor, stany, znak); uprostřed rubrika, zbytek strany jen podmalba"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští a jejich další spojenci mocně rozbili tábor před Blamontem",
+ "poznamky_prekladu": [
+  "„dryg gros houptbüchsen“ – jmenována jsou jen dvě (Štrasburk, Basilej); třetím je patrně „Ketterli“ (Kateřinka) z Ensisheimu, jmenované dělo, které tu nechal zemský fojt.",
+  "Puškař (büchsenmeister) = mistr dělostřelby, odborník na obsluhu a lití děl.",
+  "„bolwerck“ zde u útočníků = přenosné kryty; „hert körben“ = gabiony (košové náspy)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

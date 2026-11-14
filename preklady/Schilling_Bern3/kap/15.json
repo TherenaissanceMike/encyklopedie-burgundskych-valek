@@ -1,0 +1,40 @@
+{
+ "cislo": 15,
+ "nadpis": "Das etlich von Zürich vnd Switz vor einem Sloss genant Sweighusen grossen schaden enpfingen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 38,
+ "strany": [
+  38,
+  39
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die von Zürich vnd ander eidgno[ssen] ouch vmb zugen / vnd wůsten vnd branten was si funden / Da lüffen etlich von inen vngeordnete[r] sach an ein Sloss genant Sweighusen / vnd wolten das mit einem Sturm vnderstanden han abze louffen / vnd hatten aber kein büchsen noch anderen zug / damit si sich kunden oder mochten behelfen / Vnd als si zů dem Sloss kamen / da wurden ir leider / viertzechen erschossen vnd vmb bracht / vnd etlich ir dienen[?] ouch / vnd gar vil wund vnd übel gewůst / Dann si hatten heis wasser darinne zů gerüst das schutten si harus / damit si gar übel verbrönt wurden / Vnd als die von Bernn semlich sachen vernament / da warent si daran / dz man von stund an das Sloss verhůten solt / das nieman darin noch darus möcht komen / vnd ordneten angendes Tusent gewapneter mannen zů denen von Zürich vnd Switz In meynunge das Sloss mit gewalt zů erobern / vnd den mergklichen schaden ze rechen / Da was der herre mit wib vnd kinden / vnd sinem gesinde heimlich dannen gezogen vnd hatt ouch den vassen mit dem win / die boden vs gestossen / vnd vil Swinen in dem Sloss ertött / Das man alles nachmaln vand vnd sach",
+   "preklad": "A když nyní Curyšští a jiní Spříseženci také táhli krajem a pustošili a pálili, co našli, vyběhli někteří z nich neuspořádaně k hradu zvanému Schweighouse a chtěli se pokusit dobýt ho útokem, ale neměli žádná děla ani jinou výzbroj, která by jim mohla pomoci. A když přišli k hradu, bylo jich bohužel čtrnáct zastřeleno a zabito, také někteří jejich čeledíni [?], a velmi mnoho jich bylo raněno a zle zřízeno, neboť [obránci] měli uvnitř připravenou vařící vodu a tu na ně lili, takže byli velmi zle popáleni. A když se Bernští o takových věcech dozvěděli, trvali na tom, aby se hrad ihned obklíčil, aby nikdo nemohl dovnitř ani ven, a hned přidělili Curyšským a Schwyzským tisíc ozbrojených mužů v úmyslu dobýt hrad násilím a pomstít tu citelnou škodu. Tu pán se ženou a dětmi a svou čeledí tajně odtáhl, sudům s vínem vyrazil dna a na hradě pobil mnoho prasat, což se všechno potom našlo a vidělo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 38,
+   "popis": "většina strany – útok knechtů s křížem na hrad Schweighausen; obránci lijí vodu, padlí a ranění, dvě ženy na zemi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 38,
+   "text": "nadpis je vepsán uvnitř rámu obrázku; nad ním drobná poznámka „C. 14“ (?)"
+  },
+  {
+   "strana": 39,
+   "text": "39 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří z Curychu a Schwyzu utrpěli velkou škodu před hradem zvaným Schweighouse",
+ "poznamky_prekladu": [
+  "Sweighusen = Schweighouse (Schweighausen) u Thannu (určení mimo přepis, [?]).",
+  "„etlich ir dienen[?]“ – nejisté čtení; snad „diener“ (služebníci, čeleď)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -1,0 +1,41 @@
+{
+ "cislo": 143,
+ "nadpis": "Das achtzechen Lamparter so vor Ericurt gevangen gen Basel gefürt vnd daselbs mit vrteil vnd recht verbrönt / vnd nach irem verdienen gericht wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 294,
+ "strany": [
+  294,
+  295,
+  296
+ ],
+ "odstavce": [
+  {
+   "text": "Nü waren vnder denen so an dem Strit zů Ericurt gevangen wurden / als man dann hievor gehört hatt / etlich Lamparter die wurden vergichtig der bösen vnmenschlichen ketzerie / das si daran / vnd ouch an andern grössern übeltaten schuld hatten / namlich mit swechunge der heiligen wirdigen Sacramenten / vnd andern kilchen gůt / si hatten ouch entert vnd gelestert / priester Jungfrowen / frowen / kindbetterin vnd ander me vngeneclich vngehört übel volbracht / darumb so wurden der selben achtzechen darnach ze Basel mit vrteil vnd recht als ketzer all in einem füre verbrant / das doch nit allein got dem almechtigem vnd vnserm cristenlichen glouben loblich / sunder ouch aller tütschen ere was / vnd ein urkünde das si semlicher ketzerie viend sind",
+   "preklad": "Mezi těmi, kdo byli zajati v boji u Héricourtu, jak se slyšelo výše, byli někteří Lombarďané. Ti se přiznali ke zlému, nelidskému kacířství, že se ho dopustili a také jiných větších zločinů, totiž znesvěcení svatých, důstojných svátostí a jiného církevního majetku. Také zneuctili a zprznili kněze, panny, ženy, šestinedělky a spáchali ještě jiné nemilosrdné, neslýchané zlo. Proto bylo osmnáct z nich potom v Basileji rozsudkem a právem jako kacíři upáleno, všichni v jednom ohni. To bylo chvályhodné nejen před všemohoucím Bohem a naší křesťanskou vírou, ale bylo to i ke cti všech Němců a na svědectví, že jsou nepřáteli takového kacířství."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 295,
+   "popis": "dokončená kolorovaná miniatura – upálení Lombarďanů v Basileji: uprostřed hořící hranice s několika muži uvnitř plamenů; kolem zástup přihlížejících měšťanů v čepicích a pláštích, žena se sepjatýma rukama; vpravo kat v pruhovaném oděvu s pérem na čapce přikládá pochodní, vpředu malý oheň a hromady polen a otýpek slámy; v pozadí kostel s věží"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 295,
+   "text": "295 X (pozdější foliace, pravý horní roh)"
+  },
+  {
+   "strana": 296,
+   "text": "296 X (pozdější foliace, levý horní roh); text přes šedě podložený rám (prosvítá miniatura z rubu); dole velká kadela"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak osmnáct Lombarďanů, zajatých před Héricourtem, bylo odvezeno do Basileje, tam rozsudkem a právem upáleno a podle svých zásluh popraveno",
+ "poznamky_prekladu": [
+  "„ketzerie“ v pozdně středověké němčině často označuje sodomii, nikoli jen bludařství (mimo přepis).",
+  "„vergichtig“ = přiznali se (patrně při útrpném výslechu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

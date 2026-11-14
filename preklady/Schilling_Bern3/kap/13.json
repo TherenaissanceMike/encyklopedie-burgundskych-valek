@@ -1,0 +1,44 @@
+{
+ "cislo": 13,
+ "nadpis": "Das die anderen eidgno[ssen] ouch miteinandern {vom} zugen / vnd was si an kamen alles verbrante[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 35,
+ "strany": [
+  35,
+  36
+ ],
+ "odstavce": [
+  {
+   "text": "Die anderen vnd übrigen eidgno[ssen] alle / zugen in zwein hüffen / vnd namen den streich Rins halben für Otmersheim nider / vnd durch die Herd über das Ochsenveld / Vnd was da zwüschen was von Slossen vnd Stetten / vnd dörfern / das ward merenteils alles von den selben eidgno[ssen] erobret / verbrant vnd gewůst / Vnd zugen also vmb über dz Ochsenveld / vnd anderswo mit gewalt vnd macht das inen von vienden gantz kein widerstand beschach / wie vast si vorhin alwegen getröwt / vnd die eidgno[ssen] zů inen an die mitte gewünschet hatten / Sy waren aber inen nach minem bedunken zů frü komen / Vnd beschach von gottes gnaden nieman der iren kein leid",
+   "preklad": "Všichni ostatní a zbývající Spříseženci táhli ve dvou houfech, vzali svou cestu podél Rýna dolů kolem Ottmarsheimu a lesem Hardt přes Ochsenfeld. A co bylo mezi tím hradů, měst a vesnic, to bylo většinou všechno těmi Spříseženci dobyto, vypáleno a zpustošeno. A tak táhli přes Ochsenfeld a jinde se silou a mocí, takže jim nepřátelé nekladli vůbec žádný odpor, jakkoli předtím stále vyhrožovali a přáli si mít Spřísežence uprostřed mezi sebou. Podle mého zdání však k nim přišli příliš brzy. A z Boží milosti se nikomu z nich nestalo nic zlého."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 35,
+   "popis": "dolní dvě třetiny strany – konfederační vojsko s korouhvemi táhne krajinou, hořící vesnice"
+  },
+  {
+   "strana": 36,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 35,
+   "text": "nad slovem „miteinandern“ nadepsáno „vom“ (vložka, snad jiná ruka)"
+  },
+  {
+   "strana": 36,
+   "text": "36 X (pozdější foliace, levý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak ostatní Spříseženci také společně táhli a všechno, na co narazili, vypálili",
+ "poznamky_prekladu": [
+  "V nadpisu je nad slovem „miteinandern“ nadepsáno „vom“ (vložka, snad jiná ruka); smysl nadpisu se tím nemění.",
+  "„die Herd“ = les Hardt mezi Mulhouse a Rýnem; Ochsenfeld = planina mezi Thannem a Cernay."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,49 @@
+{
+ "cislo": 305,
+ "nadpis": "Das der hertzog von Burgunn mit gantzer macht gen Losann zoch / vnd da ein wagenburg mit grosser hochvart slůg",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 688,
+ "strany": [
+  688,
+  689,
+  690
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zoch der hertzog von Burgunn wider harus in Safoy bis gen Losann / daselbs er ein groß mechtig leger vnd wagenburg vor der Statt slůg / vnd was als vol lüten in Stetten vnd dörfern / vnd zoch im groß volck zů / Die hertzogin von Safoy was ouch mit aller macht by im vnd hatten gar vil hantwercks lüten bi inen / vnd sunderlich Sniider[?] die tag vnd nacht anders nit tatent dann einstrichen[?] wercken / Siden vnd ander cleider vnd scharemen[?] / darzů nüw zelt vnd anders wes man bedorfft / Vnd ging gar mengerley red dar zwüschen / das man nit eigentlich möcht verstan / war er sich keren oder was er tůn wolt / dann das alweg die gemein rede was / er wolt für Bernn oder Friburg / darzů sich ouch die beiden Stett vast rüsten / einen mannlichen widerstand ze tůnde / Man vernam ouch eigentlichen / das der hertzog von Burgunn dem Graven von Roymond zů gesagt vnd verheissen hat er wolt im herr zů Bernn machen / vnd über alles ir lande vnd gebiett miteinandern / Vnd aber der hertzogin von Safoy Friburg mit aller zůgehörunge ouch ingeben vnd vndertenig machen / Also das yeman in den beiden Stetten / menglich wurde ertöt vnd vmb bracht / Darzů hatt ouch er sinen Soldnern vnd dienern / der besten hüser vnd güter / In beiden Stetten für iren Sold geben / vnd si damit belechnet / vnd inen ouch darumb brief vnd Sigel geben Vnd hatten ouch die selben heimlich hüser vnd gůt vnder sich geteilt / vnd das loß darumb geworffen / Es ging aber von gottes gnaden nit nach irem anslage",
+   "preklad": "A tak táhl vévoda Burgundský opět ven do Savojska až k Lausanne, kde rozbil před městem velké mocné ležení a vozovou hradbu. Ve městech i vesnicích bylo plno lidí a přitahovalo k němu mnoho lidu. Také vévodkyně Savojská byla se vší mocí u něho a měli u sebe velmi mnoho řemeslníků, zvláště krejčích [?], kteří dnem i nocí nedělali nic jiného, než že spěšně [?] pracovali na hedvábných a jiných šatech a „scharemen“ [?], k tomu na nových stanech a dalším, čeho bylo potřeba. Mezitím se vedly všelijaké řeči, takže se nedalo přesně zjistit, kam se obrátí nebo co chce udělat; jen obecná řeč vždy byla, že chce na Bern nebo Fribourg. Proto se také obě města usilovně chystala k mužnému odporu. Také se s jistotou zjistilo, že vévoda Burgundský slíbil a přislíbil hraběti z Romontu, že ho udělá pánem Bernu a všech jeho zemí a panství dohromady, a vévodkyni Savojské že vydá a podrobí Fribourg se vším příslušenstvím, a to tak, že v obou městech budou všichni bez rozdílu zabiti a zahubeni. Kromě toho dal svým žoldnéřům a služebníkům za žold nejlepší domy a statky v obou městech, udělil jim je v léno a vydal jim o tom listy a pečeti. A titíž si domy a statky tajně rozdělili mezi sebe a losovali o ně. Z Boží milosti to však nedopadlo podle jejich plánu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 689,
+   "popis": "kolorovaná kresba – Karel Smělý s vojskem u Lausanne: vlevo burgundské prapory s ondřejskými kříži (jeden s korunou a srdcem, jeden s ocílkami), zástup obrněných pikenýrů, uprostřed vévoda s chocholem na koni s čabrakou, kolem rytíři, trubači a prapor se sv. Ondřejem; vpravo savojský prapor s bílým křížem; v pozadí město Lausanne s katedrálou a hradbami, stany tábora a vozová hradba s děly"
+  },
+  {
+   "strana": 690,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 689,
+   "text": "689 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 690,
+   "text": "690 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika s velkou kadelou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 689,
+   "text": "Romont znovu dobývá Vaud se Savojci; „Sniider“ = krejčí"
+  }
+ ],
+ "nadpis_preklad": "Že vévoda Burgundský táhl s celou mocí k Lausanne a tam s velkou pýchou rozbil vozovou hradbu",
+ "poznamky_prekladu": [
+  "„Sniider[?]“ = krejčí; „einstrichen[?]“ přeloženo „spěšně“ podle poznámky k přepisu (snad „ein strichen“); „scharemen[?]“ nejasné (snad „scharpen“ = šerpy?), ponecháno v originále."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

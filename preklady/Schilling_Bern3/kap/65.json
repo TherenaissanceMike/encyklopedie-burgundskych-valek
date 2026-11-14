@@ -1,0 +1,26 @@
+{
+ "cislo": 65,
+ "nadpis": "Das gemein eidgno[ssen] dem fürsten von österrich von disen dingen treffenlich schribe[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 144,
+ "strany": [
+  144
+ ],
+ "odstavce": [
+  {
+   "text": "Man schreib ouch von stund an hertzog Sigmunden von österrich / die wile er nü in des hertzogen von Burgunn schirm were Vnd der von heüdorff den eidgno[ssen] die iren nider geworfen / inen das ir genomen / vnd ein teil schantlich ertöt hett / das er dann den eidgno[ssen] semlichen frevel ab leite / vnd darzů denen von Schafhusen nach lut der richtung vor waltzhůt troffen angendes gnůg tet Vnd ob er das tůn wolt oder nit / angendes darumb den eidgno[ssen] sin lütere antwurt gebe / Dem nach hatten ouch die von Bernn vnd ander eidgno[ssen] iren vorchof[?] die Stett am Rine / vnd ander passen vnd ortslos[?] besetzet / Vnd allen iren verwanten / von Rotwil / Sant gallen / Schafhusen / Appentzel vnd andern die alle willig warent / treffenlich geschriben / yederman gerüst zů sinde / als lüte die ye meinten / solichem der fürsten gewalt zů rettung des iren / manlichen widerstand ze tůnde / vnd sich erzöugen / als ir fromen vordern ouch dick getan hatten",
+   "preklad": "Ihned také napsali vévodovi Zikmundovi Rakouskému: protože je nyní v ochraně vévody Burgundského a Heudorf přepadl lidi Spříseženců, vzal jim jejich majetek a část hanebně zabil, ať takové násilí Spřísežencům napraví a k tomu Schaffhauským podle znění narovnání uzavřeného ve Waldshutu neprodleně učiní zadost. A ať už to udělat chce, nebo ne, ať jim o tom neprodleně dá jasnou odpověď. Poté Bernští a jiní Spříseženci obsadili své předpolí [?], města na Rýně, a další průsmyky a pohraniční pevnosti [?]. A všem svým spojencům z Rottweilu, St. Gallenu, Schaffhausenu, Appenzellu a jiným, kteří byli všichni ochotní, důrazně napsali, aby byl každý připraven, jako lidé, kteří byli odhodláni takovému násilí knížat mužně odporovat na záchranu svého a ukázat se, jak to často činili i jejich stateční předkové."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [],
+ "poznamky": [],
+ "nadpis_preklad": "Že všichni Spříseženci o těchto věcech důrazně napsali knížeti Rakouskému",
+ "poznamky_prekladu": [
+  "„vorchof[?]“ – čtení nejisté; přeloženo „předpolí [?]“ (snad „Vorhof“, předsunuté území).",
+  "„ortslos[?]“ – čtení nejisté; podle glosáře „pohraniční pevnost“.",
+  "Města na Rýně = lesní města Rheinfelden, Säckingen, Laufenburg a Waldshut (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

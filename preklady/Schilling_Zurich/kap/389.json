@@ -10,7 +10,7 @@
   },
   {
    "text": "Den fromen, fürsichtigen, wisen schultheissen und rat zü Bern, ünsern sundern brüderlichen güten fründen und getrüwen lieben puntgnossen empieten wir, Hans von Kagneck, ritter, der meister und der rat zu Strasburg ünser früntlich willig dienste. Sunder brüderlichen, güt fründe und getrüwen, liebe puntgnossen. Üwer brüderlichen liebe sagen wir flissigen dank üwers früntlichen getrüwen schribens üns getan der grossen wasserflüt handlungen halb, wie sich die kurzlich bi üch durch überflüssig regen, uftün der brunnen und entsluss der wasseradern begeben haben.",
-   "preklad": "Zbožným, prozíravým a moudrým starostovi a radě v Bernu, našim zvláštním bratrským dobrým přátelům a věrným milým spojencům, vzkazujeme my, Hans von Kageneck, rytíř, mistr, a rada ve Štrasburku své přátelské ochotné služby. Zvláštní bratrští dobří přátelé a věrní milí spojenci! Vaší bratrské lásce pilně děkujeme za vaše přátelské a věrné psaní, které jste nám poslali o událostech velké povodně, jak se u vás nedávno přihodily nadměrnými dešti, otevřením pramenů a protržením vodních žil."
+   "preklad": "Statečným, prozíravým a moudrým starostovi a radě v Bernu, našim zvláštním bratrským dobrým přátelům a věrným milým spojencům, vzkazujeme my, Hans von Kageneck, rytíř, mistr, a rada ve Štrasburku své přátelské ochotné služby. Zvláštní bratrští dobří přátelé a věrní milí spojenci! Vaší bratrské lásce pilně děkujeme za vaše přátelské a věrné psaní, které jste nám poslali o událostech velké povodně, jak se u vás nedávno přihodily nadměrnými dešti, otevřením pramenů a protržením vodních žil."
   },
   {
    "text": "Solichs bedunkt üns ein merklich wunder, derglich wir nie me gehört hand. Und als üwer schrift wiset, das ir in züflücht zü götlichen gnaden mit allem heiltüm zü den wassern in üwer stat getretten sind und mit aller andacht got berüffet, üch vor komber ze verwaren, das ouch also beschechen und vor üwern ougen das grim wüten der wassern zü abgang komen sie, des sind wir mit üch dem almechtigen gotte gros lob und dank sagen. Und als ir melden doch ergangen mit üwer und der üwern hocher beschedigunge, die ist uns fürwar in brüderlichen herztruwen getrüwlich leid, als ünser selbs schade.",
@@ -39,5 +39,6 @@
   "Opravy OCR: z textu odstraněna vlepená Toblerova poznámka („Dieser Brief — im bernischen Archive nicht mehr vorhanden — … zum Ritter geschlagen worden.“) a zbytky „vr ei“; věta „gegen ünser stat gewant“ znovu spojena. Dále „füursichtigen“ → „fürsichtigen“, „ÜUwer“ → „Üwer“, „tiwer“ → „üwer“, „srim“ → „grim“, „luüte“ → „lüte“, vypuštěna dvojtečka za „danken wir“ a značka poznámky v nadpisu. Odstavce rozděleny podle smyslu. Text je úplný."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

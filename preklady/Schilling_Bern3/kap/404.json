@@ -1,0 +1,41 @@
+{
+ "cislo": 404,
+ "nadpis": "Das die nüw mure vnnden an dem kilchoff aber angevangen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 907,
+ "strany": [
+  907,
+  908
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Sumer vnd darnach / wart die nüw mure angevangen ze machen / vnnden an dem kilchof / vnd můsten alle geselschaften dara[n] werken in irem costen / als das von räten vnd burgerm angesechen wart / vnd was yederman gehorsam / doch costet es die Statt ein mergklich gůt an gelt win vnd anndern dingen",
+   "preklad": "Ve výše uvedeném létě a potom se začala stavět nová zeď dole u hřbitova a všechny cechy na ní musely pracovat na vlastní náklad, jak to ustanovily rady a měšťané. A každý poslechl. Přesto to město stálo značný majetek na penězích, víně a jiných věcech."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 908,
+   "text": "908 X (pozdější foliace, levý horní roh); stránka bez obrázku; odstavec s iniciálou I, rubrika s iniciálou H, odstavec s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 907,
+   "text": "nová zeď pod hřbitovem u bernského Münsteru (Münsterplattform)"
+  },
+  {
+   "strana": 908,
+   "text": "na stavbě zdi u Münsterplattform musely pracovat všechny cechy („geselschaften“) na vlastní náklad"
+  }
+ ],
+ "nadpis_preklad": "Jak byla znovu započata nová zeď dole u hřbitova",
+ "poznamky_prekladu": [
+  "Jde o opěrnou zeď hřbitova u bernského Münsteru, dnešní Münsterplattform (mimo přepis).",
+  "„geselschaften“ – bernské cechovní společnosti (Zünfte); „aber angevangen“ = znovu započata.",
+  "„burgerm“ – zkrácený zápis, rozuměj „burgern“ (měšťanům, tj. Velké radě)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 186,
+ "nadpis": "Das der vorgenante herr Niclaus von Diesbach mit den tusent mannen vnd einem vennlin gar erlich hinweg zoch",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 401,
+ "strany": [
+  401,
+  402
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen der heiligen drivaltikeit zugent die von Bernn us / vff mentag vor Sant Margarethen tag In dem vorgenanten Jare / mit dem selben herr[n] Niclause[n] von Diesbach irem houptman vnd tusent wol gewapneter mannen / Es kamen ouch zů inen ir getrüwen frunde vnd mitburger von Friburg mit einem vennli vnd hundert erlicher manne[n] / vnd zugen also den nechsten weg gen Basel / Die von Sollotern fügtent sich ouch zů inen mit einer Sum lüten als vor statt / vnd kamen also miteinandern gen Basel / do wurden si gar wol enpfangen / vnd ward man ir vast fro / Dann es solt[?] nieman anders gedencken / hetten die in der nüwen vereynunge den rucken an denen von Bernn vnd andern eidgno[ssen] nit gehebt noch gewist / Si hetten den selben herzug allein nit vnderstanden / wie wol es von gottes gnaden all[e]sant vest vnd mannlich lüte sind / So was inen dennocht die macht des Burgunschen hertzogen zů gros",
+   "preklad": "A tak ve jménu Nejsvětější Trojice vytáhli Bernští v pondělí před svátkem svaté Markéty zmíněného roku se svým hejtmanem panem Niklausem von Diesbach a tisícem dobře ozbrojených mužů. Přišli k nim také jejich věrní přátelé a spoluměšťané z Fribourgu s praporcem a stem čestných mužů, a táhli tak nejkratší cestou k Basileji. Solothurnští se k nim také připojili s počtem lidí, jak je výše řečeno, a přišli tak spolu do Basileje. Tam byli velmi dobře přijati a byli tam velmi rádi. Neboť nikdo nemá [?] myslet jinak: kdyby ti z Dolního spolku neměli a nevěděli za zády Bernské a ostatní Spřísežence, sami by se do toho tažení nepustili. Ačkoli jsou z Boží milosti všichni pevní a stateční lidé, byla pro ně přesto moc burgundského vévody příliš velká."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 401,
+   "popis": "dokončená kolorovaná miniatura – odchod bernského oddílu: vlevo jezdec (Mikuláš z Diesbachu) s bílým křížem na hrudi zdraví, za ním praporečníci (korouhev se sluncem), vpravo zástup pikenýrů s bílými kříži a praporem s křížem a pruhy, ženy se loučí; v pozadí město s kostelem, jezero s loďkami, hory a hrad na skále"
+  },
+  {
+   "strana": 402,
+   "popis": "místo pro obrázek s rozpracovanou šedou podmalbou (pochodující vojsko s praporci a kříži), přes které je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 402,
+   "text": "402 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou (nedokončenou) miniaturu – pochodující vojsko s praporci; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 401,
+   "text": "„mentag vor Sant Margarethen tag“ 1475 = 10. července 1475"
+  }
+ ],
+ "nadpis_preklad": "Jak zmíněný pan Niklaus von Diesbach s tisícem mužů a praporcem velmi čestně vytáhl",
+ "poznamky_prekladu": [
+  "Pondělí před sv. Markétou (13. 7.) 1475 = 10. července 1475.",
+  "„solt[?]“ – nejisté čtení."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

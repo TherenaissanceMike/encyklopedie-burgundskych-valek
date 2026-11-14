@@ -1,0 +1,47 @@
+{
+ "cislo": 242,
+ "nadpis": "Das sich die von Losann vnd ander Stett vnd Sloß ouch ergaben die wile man zů Orban lag / vnd sich brantschatzten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 525,
+ "strany": [
+  525,
+  526,
+  527
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd die wile man zů Orban lag / da ergaben sich gar vil Stetten vnd Sloß an die von Bernn vnd die andern ir gewanten / dann yederman im lande erschrocken vnd darzů komen / das kein widerstand me was Es kamen ouch vil lands herrnn vnd ander / die sich brantschatzten / vnd ouch huldeten vnd swůren zů handen der dryer Stetten / Darzů kamend ouch die von Losann mit iren treffenlichen botte[n] von geistlichen vnd weltlichen gen Orban / vnd brantschatzten sich vmb zwey tusent rinsch guldin die ouch nachmalen bezalt vnd usgericht wurde[n] dann si inen us der massen sere vorchten / nach dem dann ir nachburen vast zů inen gefröict[?] hatten / da genussent si dennocht vnnser lieben frowen / als wol billichen was / das inen dazemal nit beschach",
+   "preklad": "A zatímco se leželo v Orbe, vzdalo se Bernským a jejich ostatním spojencům velmi mnoho měst a hradů, neboť každý v zemi byl vyděšen a došlo to tak daleko, že už nebyl žádný odpor. Přišlo také mnoho zemských pánů a jiných, kteří se vykoupili výpalným, holdovali a přísahali do rukou tří měst. K tomu přišli do Orbe i Lausannští se svými vznešenými posly z duchovních i světských a vykoupili se výpalným za dva tisíce rýnských zlatých, které také později zaplatili a vyrovnali. Báli se jich totiž nadmíru, protože jejich sousedé se k nim velmi těšili [?]. Přesto jim to bylo ku prospěchu kvůli naší milé Paní, jak bylo také spravedlivé, takže se jim tehdy nic nestalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 526,
+   "popis": "kolorovaná kresba – poselstvo z Lausanne: jezdci (duchovní a měšťané) přijíždějí z lesa k Orbe, vpravo skupina mužů s koňmi je přijímá; v pozadí opevněné město s korouhvemi (Bern s medvědem), v bráně stráže, jezero s lodí a hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 526,
+   "text": "526 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 527,
+   "text": "527 X (pozdější foliace, pravý horní roh); nahoře 5 řádků, pak rubrika a kolorovaná kresba přes zbytek strany"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 525,
+   "text": "Losann = Lausanne"
+  }
+ ],
+ "nadpis_preklad": "Jak se Lausannští a jiná města a hrady také vzdali, zatímco se leželo v Orbe, a vykoupili se výpalným",
+ "poznamky_prekladu": [
+  "„Losann“ = Lausanne.",
+  "„gefröict[?]“ – nejisté čtení; smysl snad: sousedé (z Vaudu) se těšili na plenění Lausanne, nebo naopak k ní utíkali (srov. „geflöchet“?). Přeloženo doslova, k ověření.",
+  "„da genussent si dennocht vnnser lieben frowen“ – Lausanne bylo ušetřeno kvůli svému katedrálnímu mariánskému chrámu (poutní místo Panny Marie)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

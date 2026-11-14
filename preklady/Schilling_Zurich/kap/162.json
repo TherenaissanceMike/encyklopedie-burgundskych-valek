@@ -22,7 +22,7 @@
   },
   {
    "text": "Und also wart das slos mit grosser not und manlicher arbeit von gottes gnaden gewunnen und darinne ob hundert und zwenzig mannen erstochen und umbbracht und die andern also lebendig über die turn und muren harus geworfen, und blibent leider von Bern und andern Eidgnossen bi zwölf mannen tot und wurden me dann vierzig am sturm wund. Der almechtig, barmherzig got gebe inen allen die ewig rüw ! Der sturm wert me dann vier stund an einandern. Item es wart ouch in dem slos erslagen der herr von Tschettewilla, houptman, und darzü 24 edelman, denen wart allen ir rechter sold; dann hettent si sich ergeben, als die in der stat tatent, so het man si gern ufgenomen und wer inen ganz nit beschechen.",
-   "preklad": "A tak byl hrad s velkou nouzí a mužnou prací z Boží milosti dobyt a bylo na něm probodáno a zabito přes sto dvacet mužů a ostatní byli živí vyhozeni přes věže a zdi ven. Z Bernských a jiných konfederátů zůstalo bohužel asi dvanáct mužů mrtvých a víc než čtyřicet jich bylo při útoku zraněno. Všemohoucí, milosrdný Bůh dej jim všem věčný pokoj! Útok trval víc než čtyři hodiny v kuse. Na hradě byl také zabit pán z Château-Vilain, hejtman, a k tomu 24 šlechticů; ti všichni dostali svůj pravý žold. Kdyby se byli vzdali jako ti ve městě, byli by je rádi přijali na milost a nic by se jim nestalo."
+   "preklad": "A tak byl hrad s velkou nouzí a mužnou prací z Boží milosti dobyt a bylo na něm probodáno a zabito přes sto dvacet mužů a ostatní byli živí vyhozeni přes věže a zdi ven. Z Bernských a jiných Spříseženců zůstalo bohužel asi dvanáct mužů mrtvých a víc než čtyřicet jich bylo při útoku zraněno. Všemohoucí, milosrdný Bůh dej jim všem věčný pokoj! Útok trval víc než čtyři hodiny v kuse. Na hradě byl také zabit pán z Château-Vilain, hejtman, a k tomu 24 šlechticů; ti všichni dostali svůj pravý žold. Kdyby se byli vzdali jako ti ve městě, byli by je rádi přijali na milost a nic by se jim nestalo."
   }
  ],
  "poznamky": [
@@ -34,5 +34,6 @@
   "Bernské varianty: „zü stürmen ganz ungerüst was und wenig [zügs]“ (k útoku zcela nepřipraveni), „in die türn von rechter not wegen wichen“, „darin me dann ein stunde“ (déle než hodinu), „herweren“ (ubránit se). Na konci „wund, der me dann vier stund an einandern wert“, „got verlich“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

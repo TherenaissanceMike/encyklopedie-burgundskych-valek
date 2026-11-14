@@ -1,0 +1,49 @@
+{
+ "cislo": 241,
+ "nadpis": "Das Laserra das Sloß mit dem Swert ouch gantz gewunnen vnd verbrant ward",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 523,
+ "strany": [
+  523,
+  524,
+  525
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man dann vorhin Stefis vnd ander Stett vnd Sloß ingenomen vnd gewunnen hat / da machten sich etlich von Bernn vnd den andern Stetten zů samen / vnd kamend gen Laserra zů dem Sloß / vnd gewunne[n] das / vnd erslůgent darinne me dann zwentzig manne / edel vnd ander / vnd funden vil gůts das namen si / vnd fůrten es alles mit inen von dannen / als man zů Orban wol sach / da si das verkouften / vnd miteinandern teiltent darunder was ein als grosser hafen / dz man eins mals einen gantzen ochsen darinne hett mögen kochen vnd sieden / vnd stiessen dz Sloß mit füre an / das was menglichem lieb / dann die herrnn von Laserra sich mit den knechten vnd Soldnern / die zů Jungis vnd in den andern Slossen lagen / gar vnfruntlich hielten / als dan[n] das zů mengen malen gen Bernn vnd in die andern Stette geschriben wart / vnd ouch die warheit was",
+   "preklad": "A když se předtím obsadilo a dobylo Estavayer a jiná města a hrady, spojili se někteří z Bernu a z ostatních měst a přišli k hradu La Sarraz. Dobyli ho a pobili v něm přes dvacet mužů, urozených i jiných. Našli mnoho jmění, vzali je a všechno s sebou odvezli, jak se dobře vidělo v Orbe, kde je prodali a rozdělili mezi sebe. Mezi tím byl hrnec tak veliký, že by se v něm najednou dal uvařit a povařit celý vůl. A hrad zapálili, což bylo každému milé, neboť páni z La Sarraz se k [našim] knechtům a žoldnéřům, kteří leželi v Jougne a v jiných hradech, chovali velmi nepřátelsky, jak se o tom mnohokrát psalo do Bernu a do ostatních měst; a byla to také pravda."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 524,
+   "popis": "kolorovaná kresba – hořící hrad La Sarraz, z brány odcházejí pikenýři s bílými kříži; vpředu vojáci nesou na tyčích kořist (balíky, hrnec, konvici, meč), jeden se sklání ke kořisti na zemi; vpravo jezero s loďkami, kostel, stádo, hory"
+  },
+  {
+   "strana": 525,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 524,
+   "text": "524 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 525,
+   "text": "525 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 523,
+   "text": "dobytí Les Clées: pondělí před sv. Šimonem a Judou 1475 = 23. října 1475; ukořistěný prapor s bílým křížem zavěšen v bernském münsteru; Laserra = La Sarraz"
+  }
+ ],
+ "nadpis_preklad": "Jak byl také hrad La Sarraz zcela dobyt mečem a spálen",
+ "poznamky_prekladu": [
+  "„Laserra“ = La Sarraz."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

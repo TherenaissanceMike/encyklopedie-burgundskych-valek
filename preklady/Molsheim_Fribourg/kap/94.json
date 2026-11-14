@@ -20,7 +20,7 @@
   },
   {
    "text": "Es wart ouch in demselben schlos gar vil gutes funden. Das wart och jedermann erloupt; was einer mit im mocht dannan bringen, das liess man im. Und also wurden die zwei schlos mit manlicher hand gewunnen und öch mit arbeit necher denn in fünf stunden. Und wart der Unsren nieman umbbracht, denn ettlich gesellen wurden wund an dem sturm; die genasen aber. Und wurden dieselben slos verbrönt in den grund.",
-   "preklad": "I v tom hradu se našlo velmi mnoho statků. To bylo také každému dovoleno: co kdo dokázal odnést, to mu nechali. A tak byly ty dva hrady dobyty statečnou rukou a s námahou za necelých pět hodin. Z našich nebyl nikdo zabit, jen několik tovaryšů bylo při útoku zraněno; ti se však uzdravili. A ty hrady byly vypáleny do základů."
+   "preklad": "I v tom hradu se našlo velmi mnoho statků. To bylo také každému dovoleno: co kdo dokázal odnést, to mu nechali. A tak byly ty dva hrady dobyty statečnou rukou a s námahou za necelých pět hodin. Z našich nebyl nikdo zabit, jen několik druhů bylo při útoku zraněno; ti se však uzdravili. A ty hrady byly vypáleny do základů."
   }
  ],
  "poznamky_editora": [
@@ -36,5 +36,6 @@
   "Pasáže v hranatých závorkách jsou zřejmě Büchiho označení Molsheimových přídavků oproti Schillingovi."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

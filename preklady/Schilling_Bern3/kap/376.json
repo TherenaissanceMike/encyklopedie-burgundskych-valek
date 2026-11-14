@@ -1,0 +1,55 @@
+{
+ "cislo": 376,
+ "nadpis": "Das der Graff von Campabass der ein Lamparter was / von sinem herren von Burgunne abtrünnig vnd meyneidig wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 854,
+ "strany": [
+  854,
+  855,
+  856
+ ],
+ "odstavce": [
+  {
+   "text": "Der hertzog von Burgunn hatt ouch lang zit den Grafen von Campabasen / der alwegen ein regierer vnd houptman des Lamperschen heres gewesen ist / bi im gehebt / der was ouch in dem leger vor Nanse / Vnd da er die zůkunft dero von Bernn vnd ander eidgno[ssen] verstůnd / do zoch er mit zwein sinen sünen vnd wol mit zwey hundert pferden heimlich von sinem herren vor dem Streit vnd der slacht vnd kam zem hertzogen von Lotthringen / vnd begeret mit im zů ziechen wider sinen herren den hertzogen von Burgunn / Des wolt sich der hertzog von Lotthringen on der eidgno[ssen] ratt nit annder winden / Also rieten si im er were in allen zügen vnd Streiten / vor Granson / Murten vnd andern enden wider si gesin / So wer ouch er mit schanden vnd vorchten von sinem rechten herren gezogen / vnd meyneid worden / Vnd werend die eidgno[ssen] als erlich vnd loblich harkomen / das si kein meyneiden man nie hetten wellen vnnder inen liden / dann ouch si durch inn möchten verratten werden / Vnd slügents gantz ab / des volget inen der hertzog von Lotthringen / vnd wolt inn darüber nit annemen oder wider die eidgno[ssen] tůn",
+   "preklad": "Vévoda Burgundský měl také dlouhou dobu u sebe hraběte z Campobasso, který byl vždy velitelem a hejtmanem lombardského vojska. Ten byl také v ležení před Nancy. Když se dozvěděl o příchodu Bernských a ostatních Spříseženců, odtáhl se dvěma svými syny a asi se dvěma sty koní tajně od svého pána před bitvou a bojem, přišel k vévodovi Lotrinskému a žádal, aby s ním mohl táhnout proti svému pánu, vévodovi Burgundskému. Toho se vévoda Lotrinský nechtěl ujmout bez rady Spříseženců. Ti mu tedy poradili: hrabě byl ve všech taženích a bitvách u Grandsonu, Murtenu i na jiných místech proti nim; také odtáhl s hanbou a ze strachu od svého pravého pána a stal se křivopřísežníkem. A Spříseženci jsou tak čestného a chvalného původu, že nikdy nechtěli mezi sebou trpět žádného křivopřísežníka, neboť by jím mohli být také zrazeni. A zcela to odmítli. V tom je vévoda Lotrinský poslechl a nechtěl ho přes to přijmout ani jednat proti Spřísežencům."
+  },
+  {
+   "text": "Vnd also reit der selb Graff mit den sinen von dannen / vnd mit im etlich Frantzosen die dann ouch da warent / vnd machten sich uff die strassen da si wol wisten wo der hertzog von Burgunn vnd die sinen wurden die flucht nemen / Vnd als es nachmalen am Streit bald zer flucht kam da wurden von dem selben Grafen etlich herren vnd diener des hertzogen von Burgunn gevangen vnd hinweg gefürt / das was ein Lampersch tuck",
+   "preklad": "A tak odjel ten hrabě se svými odtud a s ním několik Francouzů, kteří tam také byli, a postavili se na silnice, o nichž dobře věděli, kudy se vévoda Burgundský a jeho lidé dají na útěk. A když pak v bitvě brzy došlo k útěku, byli tím hrabětem někteří páni a služebníci vévody Burgundského zajati a odvedeni. To byl lombardský kousek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 854,
+   "popis": "přeběhnutí Campobassa: vlevo zástup pikenýrů s lotrinskými dvojitými kříži pod korouhvemi (Uri s volskou hlavou, se svatým, s křížem, pruhované); v pozadí jezero s loďkou a skála; vpravo hrabě Campobasso na koni s pérem, v bílé zbroji, s jezdci se sekerami, jedná s lotrinskými/švýcarskými veliteli, kteří ho odmítají (ruce zdvižené); na kopci vpravo další jízda"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 855,
+   "text": "855 X (pozdější foliace, pravý horní roh); stránka bez obrázku; konec odstavce, odstavec s iniciálou V"
+  },
+  {
+   "strana": 856,
+   "text": "856 X (pozdější foliace, levý horní roh); stránka bez obrázku; rubrika s iniciálou D nahoře, pod ní odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 854,
+   "text": "Campabass = Cola de Monforte, hrabě z Campobasso"
+  },
+  {
+   "strana": 855,
+   "text": "Campobasso přeběhl s ~200 jezdci; Konfederace ho odmítla jako křivopřísežníka; zajímal prchající Burgundy – „ein Lampersch tuck“ (lombardská lest)"
+  }
+ ],
+ "nadpis_preklad": "Jak se hrabě z Campobasso, který byl Lombarďan, od svého pána Burgundského odtrhl a stal se křivopřísežníkem",
+ "poznamky_prekladu": [
+  "Hrabě z Campobasso = Cola (Nicola) di Monforte, condottiere (mimo přepis).",
+  "„wol mit zwey hundert pferden“ = asi se dvěma sty koní (jezdců).",
+  "„ein Lampersch tuck“ = lombardský úskok, záludnost – Lombarďané měli u Švýcarů pověst lstivých a nevěrných."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

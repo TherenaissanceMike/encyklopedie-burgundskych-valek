@@ -1,0 +1,40 @@
+{
+ "cislo": 175,
+ "nadpis": "Das sich die von Jönge[?] Statt vnd Sloss ouch an die von Bernn ergabent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 366,
+ "strany": [
+  366,
+  367
+ ],
+ "odstavce": [
+  {
+   "text": "Do man nü Orben also gewunnen vnd das besatzt hatt / da wurdent die von Bernn vnd ander zů ratt / dz man ouch gen Tönge[?] ziechen vnd das erobern wolt vnd schickt man ouch etlich knechte dar / durch des besten vnd minsten kosten willen / vnd wart der von wabern mit tusent mannen vo[n] Bernn dar geordnet / also begerten si ouch gnaden vnd barmhertzikeit / vnd ergabent sich an die von Bernn / das man si bi dem leben vnd ouch dem iren bliben liess / das tett man / vnd wart Statt vnd Sloss nach aller notdurft ouch besatzt / vnd was ouch als man von dem wider teil warlichen vernam / ein semlicher schrecken in das land komen / das man Burgunn wol gewunnen / vnd vil nutzes vnd fromen geschaffet hette / dann das man mit Spis vnd andern dingen nit versechen was / also wurdent die gewunnenen Stett vnd Sloss nach aller notdurft besatzt / vnd zoch man wider heim",
+   "preklad": "Když tedy Bernští takto dobyli Orbe a osadili je posádkou, usnesli se Bernští a ostatní, že potáhnou také k Jougne [?] a dobudou je. Poslali tam kvůli nejlepšímu výsledku a nejmenším nákladům jen několik knechtů; z Bernu tam byl určen [Petermann] von Wabern s tisíci muži. Tu [obyvatelé] také prosili o milost a milosrdenství a vzdali se Bernským, aby je nechali při životě a jejich majetku. To se učinilo a město i hrad byly také osazeny posádkou se vším potřebným. A jak se potom spolehlivě dozvěděli od protistrany, do země přišel takový strach, že by se bylo Burgundsko dobře dobylo a mnoho užitku a prospěchu získalo, kdyby nebyli bez zásob potravin a jiných věcí. Dobytá města a hrady tedy byly osazeny posádkami se vším potřebným a táhlo se zase domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 366,
+   "popis": "velká dokončená kolorovaná miniatura – Jougne se vzdává: vlevo nahoře hrad s věžemi, město s kostelem u jezera s loďkou a hory; měšťané předávají svazek klíčů dvěma jezdcům s bílými kříži (jeden se štítem s ondřejským křížem a hvězdami); vpravo spříseženští pěšáci s píkami a bílými kříži, korouhev s bílým křížem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 367,
+   "text": "367 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek); rubrika dole"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 366,
+   "text": "„Jönge / Tönge“ = Jougne (průsmyk na cestě do Burgundska)"
+  }
+ ],
+ "nadpis_preklad": "Jak se také Jougne [?], město i hrad, vzdalo Bernským",
+ "poznamky_prekladu": [
+  "„Jönge / Tönge[?]“ = Jougne (viz poznámku k přepisu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

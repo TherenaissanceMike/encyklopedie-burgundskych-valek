@@ -1,0 +1,63 @@
+{
+ "cislo": 323,
+ "nadpis": "Das der hertzog von Burgunn die Statt Murten mit gantzer macht belag",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 728,
+ "strany": [
+  728,
+  729,
+  730,
+  731
+ ],
+ "odstavce": [
+  {
+   "text": "[V]nd also morndes am Sonnentag der heilige[n] drivaltikeit des vorgenanten Jares / wart Murten die Statt von dem vorgenanten hertzogen von Burgunn berant vnd belegert / mit grossem gewalt vnd macht / da lies der houptman angendes aber bi zwey hundert werlicher mannen harus louffen die scharmutzten mit inen / vnd erstachen vnd wundeten der vienden me dann fünftzig manne / Vnd beschach inen von gottes gnaden kein leid / Vnd morndes am mentag ward Murten die Statt gantz vmb leit / mit so gantzer macht / das nieman zů noch von inen möcht komen / dann allein den Sew hatten die von Murten inn / das ouch denen von Bern vnd inen gar wol kam",
+   "preklad": "A tak nazítří, v neděli svaté Trojice výše uvedeného roku, bylo město Murten vévodou Burgundským napadeno a obleženo s velkou silou a mocí. Tu dal hejtman neprodleně opět vyběhnout asi dvě stě branných mužů. Ti se s nimi potýkali v šarvátce a probodli a zranili víc než padesát nepřátel, a z Boží milosti se jim nic zlého nestalo. Nazítří, v pondělí, bylo město Murten zcela obklíčeno tak úplnou mocí, že se k nim nikdo nemohl dostat ani od nich odejít; jen jezero měli Murtenští v držení, což Bernským i jim velmi přišlo vhod."
+  },
+  {
+   "text": "Das alles schriben vnd enbutten der houptman vnd ander Räte so in Murten waren / von stund an iren herrnn vnd obern gen Bernn vnd gaben inen allen handel zů erkennen / Vnd was alzit ir ratt vnd meynung / das man in semlichen dingen fürsichtig sin / vnd der eidgno[ssen] vnd ander gewanten erwarten / So wolten si sich mit hilf des almechtigen gottes / an den si sich gantz ergeben hetten ouch wol vnd mannlich halten / bis man si erlichen möcht entschütten / vnd der lest eidgnoß vnd frund ouch harzů keme / Also wurden von stund an Rätt vnd zweyhundert versampnet / vnd wart von denen angesechen / das man fürderlichen botten In alle ir Stette / lennder / herschaften vnd gebiet mit briefen us schicken / vnd man allenthalben stürmen solt damit menglich tag vnd nacht gen Bernn keme vnd die fromen lüte in Murten hülfen entschütten",
+   "preklad": "To vše hejtman a jiní radní, kteří byli v Murtenu, ihned napsali a vzkázali svým pánům a představeným do Bernu a dali jim na vědomí celou věc. Vždy radili a mínili, aby se v takových věcech postupovalo opatrně a počkalo se na Spřísežence a jiné spojence; sami se chtějí s pomocí všemohoucího Boha, jemuž se zcela odevzdali, také dobře a mužně držet, dokud je nebude možné čestně vysvobodit a dokud nepřijde i poslední Spříseženec a přítel. Ihned byla tedy svolána Malá rada a Rada dvou set a ta usnesla, aby se neprodleně vyslali poslové s listy do všech jejich měst, zemí, panství a území a všude se zvonilo na poplach, aby každý dnem i nocí přišel do Bernu a pomohl vysvobodit statečné lidi v Murtenu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 729,
+   "popis": "celostránková kolorovaná kresba – Karel Smělý obléhá Morat: nahoře burgundský tábor se stany a prapory (sv. Ondřej, ondřejské kříže, ocílky, monogram „KC“), pikenýři a trubači; uprostřed burgundská jízda a pěchota s množstvím praporů (sv. Ondřej, korunované štíty, savojský kříž) obkličuje město; vlevo Morat s věžemi, na hradbách bernský a fribourgský prapor, obránci s dělem vyvalují sudy na hradby za palisádu, vpravo pod hradbami jezdci; spodní část (jezero) jen kresebně"
+  },
+  {
+   "strana": 730,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 729,
+   "text": "729 XX (pozdější foliace, pravý horní roh); celostránková kolorovaná kresba (dolní část nedokončená), bez textu"
+  },
+  {
+   "strana": 730,
+   "text": "730 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dva odstavce (iniciála V nevyplněna, D)"
+  },
+  {
+   "strana": 731,
+   "text": "731 X (pozdější foliace, pravý horní roh); nahoře 3 řádky textu, rubrika, pod ní velká kolorovaná kresba"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 728,
+   "text": "Bubenberg vyráží se 600 muži proti předvoji, zajímá šlechtice a pacholka"
+  },
+  {
+   "strana": 730,
+   "text": "obklíčení Moratu: neděle sv. Trojice 9. června 1476, úplné obklíčení v pondělí 10. června; jezero zůstalo volné"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda Burgundský oblehl město Murten celou mocí",
+ "poznamky_prekladu": [
+  "Neděle sv. Trojice 1476 = 9. 6. 1476; úplné obklíčení v pondělí 10. 6. 1476.",
+  "„stürmen“ zde = zvonit na poplach (sturm läuten), nikoli útočit."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

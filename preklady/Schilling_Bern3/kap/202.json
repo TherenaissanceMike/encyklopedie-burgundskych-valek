@@ -1,0 +1,40 @@
+{
+ "cislo": 202,
+ "nadpis": "Das man den vorgenanten herr Niclaus von Diesbach den houptman gen Porrentrut fürt / vnd an dem ende starp",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 429,
+ "strany": [
+  429,
+  430
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man nů hievor gehört hat / wie herr Niclaus von Diesbach der türe Ritter als ein houptman mit den tusent gewapneter mannen us gezogen was / So wart er des ersten tages / als man gen Lila kam / von einem ros an einem bein gar übel gewüst / vnd zoch aber nit destminder mit dem volcke gen Blomont / vnd vnderwist das in allen sachen gar mit gůten trüwen vnd erlicher ordnunge Vnd wie kranck er was / da sůchten dennocht all houptlüt von Straßburg vnd andern enden ratt zů im / vnd wart im ouch in allen sinen räten vnd ansleg vast gevolget / dann er gar ein türe vnd vernünftiger man zů kriegen / vnd was ouch sin kranckheit yederman leit / Vnd als man dann im lande allenthalben von der pestilentz wegen vast starp / vnd ein grosser sterbot was do slůg leider vngevelle darzů / das in der selb gebrest ouch anstiess / Do er das befant / da liess er sich zů dem Bischof von Basel gen Porrentrut füren / vnd starp da am dritten tag / der almechtig gotte welle sich über die sele erbarmen / Davon erschrack yederman im leger / vnd sunderlich der von Bernn lüte / vnd schriben das ouch angendes gen Bernn / da was es ouch yederman leit / vnd als man sin begrebde am morgen beging / da zoch man angendes nach der begrebde uß",
+   "preklad": "Jak se už dříve slyšelo, vytáhl pan Niklaus von Diesbach, ten vzácný rytíř, jako hejtman s tisícem ozbrojených mužů. Prvního dne, kdy se přišlo k L'Isle, mu kůň ošklivě poranil nohu. Přesto však táhl s lidem k Blamontu a vedl jej ve všech věcech s velkou věrností a v čestném pořádku. A ač byl nemocen, přece se k němu chodili radit všichni hejtmani ze Štrasburku i odjinud a ve všech jeho radách a záměrech se ho velmi poslouchali, neboť to byl ve válce velmi vzácný a rozumný muž. Jeho nemoc také všechny trápila. A protože se tehdy po celé zemi kvůli moru hodně umíralo a byl to velký mor, přidalo se k tomu bohužel neštěstí, že ho tatáž nemoc také zachvátila. Když to poznal, dal se odvézt k basilejskému biskupovi do Porrentruy a třetího dne tam zemřel; všemohoucí Bůh se chtěj slitovat nad jeho duší. Toho se v táboře každý zhrozil, a zvláště lidé bernští, a ihned to napsali také do Bernu. I tam to bylo všem líto. A když se ráno konal jeho pohřeb, ihned po pohřbu se vytáhlo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 429,
+   "popis": "dokončená kolorovaná miniatura – nemocný Mikuláš z Diesbachu je vezen na koňských nosítkách z městské brány přes dřevěný most, provázejí ho jezdci a pěší s bílými kříži; v pozadí město s kostelem, řeka s loďkou, hrad na kopci"
+  },
+  {
+   "strana": 430,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 430,
+   "text": "430 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl jmenovaný hejtman pan Niklaus von Diesbach odvezen do Porrentruy a tam zemřel",
+ "poznamky_prekladu": [
+  "Porrentrut = Porrentruy, sídlo basilejského biskupa. Niklaus von Diesbach zemřel na mor 7. 8. 1475 (mimo přepis, uvedeno v poznámce k přepisu).",
+  "Poslední věta se vztahuje k Bernu: po pohřbu vytáhla z města korouhev pod Scharnachtalem (srov. kap. 200)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

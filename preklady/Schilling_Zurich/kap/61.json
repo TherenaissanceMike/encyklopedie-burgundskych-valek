@@ -10,20 +10,21 @@
   },
   {
    "text": "Wie erber und zimlich nü solich antwurt, die man den Burgunschen räten gab was, hat sich über das alles, so vorstat, der herzog von Burgunnen nit destminder des regiments derselben und ander verpfanten landen in hocher verachtung aller Eidgnossen und gemeiner Tütscher nacion angenomen und damit, als er wonde, im selber einen starken ingang ze machen, dadurch er Tütsche land und die Eidgnossen dester bas bezwingen möchte, so hat er über dieselben verpfanten lande und stette in sinem namen ein lantvogt gemacht, genant herr Peter von Hagenbach, der dann davor in vergangnen iaren umb merklich bosheiten, verreterie und misdaten us Tutschen landen flüchtig worden und lange zit des herzogen von Burgunnen diener und in allen undeten im vast glich gewesen was.",
-   "preklad": "Jakkoli čestná a slušná byla ta odpověď, kterou dali burgundským radům, ujal se burgundský vévoda přesto, nad to vše, co stojí výše, vlády nad těmi i jinými zastavenými zeměmi, k velkému pohrdání všemi konfederáty i celým německým národem. A aby si tím, jak se domníval, otevřel silný vstup, jímž by tím snáze zdolal německé země i konfederáty, ustanovil nad těmi zastavenými zeměmi a městy svým jménem zemského fojta, jménem pan Peter von Hagenbach. Ten v minulých letech pro velké zlotřilosti, zrady a zločiny uprchl z německých zemí, byl dlouhou dobu ve službách burgundského vévody a ve všech zlých skutcích se mu velmi podobal."
+   "preklad": "Jakkoli čestná a slušná byla ta odpověď, kterou dali burgundským radům, ujal se burgundský vévoda přesto, nad to vše, co stojí výše, vlády nad těmi i jinými zastavenými zeměmi, k velkému pohrdání všemi Spříseženci i celým německým národem. A aby si tím, jak se domníval, otevřel silný vstup, jímž by tím snáze zdolal německé země i Spřísežence, ustanovil nad těmi zastavenými zeměmi a městy svým jménem zemského fojta, jménem pan Peter von Hagenbach. Ten v minulých letech pro velké zlotřilosti, zrady a zločiny uprchl z německých zemí, byl dlouhou dobu ve službách burgundského vévody a ve všech zlých skutcích se mu velmi podobal."
   },
   {
    "text": "Der nü in anfang sins regimentes als ein gar grimmer durechter, so den willen sins herren us vil geschichten wol erkant, sich desselben amptes stolzmüticlichen annam, und einswegs sich den Eidgnossen zü widerwertigen, mit nüwen ungehorten zöllen und schatzungen, so er anders dann von altem harkomen was, wider die fünfzechenierigen und ouch ander friden und richtungen vor Walzhüt und an andern enden troffen, daselbs zü Walzhüt und ouch anderswo uf dem Rine über die Eidgnossen und die iren ufgeleit und erdacht hat, des doch die Eidgnossen im deheines weges gesitzen, noch das vertragen woltent.",
-   "preklad": "Hned na počátku své vlády se jako krutý úhlavní nepřítel, který vůli svého pána z mnoha událostí dobře znal, zpupně ujal toho úřadu a zároveň se postavil konfederátům na odpor. Proti patnáctiletému míru i proti jiným mírům a smírům uzavřeným u Waldshutu a jinde vymyslel a uvalil na konfederáty a jejich lidi nová, neslýchaná cla a dávky, jiné, než bylo odedávna zvykem, přímo ve Waldshutu i jinde na Rýně. To mu však konfederáti nijak nechtěli připustit ani snést."
+   "preklad": "Hned na počátku své vlády se jako krutý úhlavní nepřítel, který vůli svého pána z mnoha událostí dobře znal, zpupně ujal toho úřadu a zároveň se postavil Spřísežencům na odpor. Proti patnáctiletému míru i proti jiným mírům a smírům uzavřeným u Waldshutu a jinde vymyslel a uvalil na Spřísežence a jejich lidi nová, neslýchaná cla a dávky, jiné, než bylo odedávna zvykem, přímo ve Waldshutu i jinde na Rýně. To mu však Spříseženci nijak nechtěli připustit ani snést."
   }
  ],
  "poznamky": [
   "Tobler: Hagenbach byl jmenován zemským fojtem 20. 9. 1469 a přísahu složil 27. 9. 1469. Tobler uvádí literaturu o Hagenbachovi (Schreiber 1840, Kirk, Faber, Witte, Nerlinger, Bernoulli, Dierauer).",
   "„in allen undeten im vast glich“ = ve všech zlých skutcích se mu (vévodovi) velmi podobal; bernská varianta „untaten“. „durechter“ = úhlavní nepřítel (glosář: Erzfeind), „einswegs“ = zároveň, hned, „gesitzen“ = připustit (glosář).",
-  "„die fünfzechenierigen friden“ = patrně patnáctiletý mír Zikmunda Rakouského s konfederáty z r. 1461 (určení mimo Tobler).",
+  "„die fünfzechenierigen friden“ = patrně patnáctiletý mír Zikmunda Rakouského se Spříseženci z r. 1461 (určení mimo Tobler).",
   "Bernské varianty: „nützit destminder“, „verachtunge gemeiner E. und Tütschen nacion“, „zwingen“, „Tütschland“, na konci „deheins wegs vertragen noch liden wolten“.",
   "Oprava textu: „zü einen: lantvogt“ → „zü einem lantvogt“, „Tuütscher“ → „Tütscher“, odstraněny zbloudilé znaky (’ . :)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,41 @@
+{
+ "cislo": 31,
+ "nadpis": "Das etlich von Bernn vnd anderen eidgno[ssen] enent dem Rine nachts überfallen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 65,
+ "strany": [
+  65,
+  66,
+  67
+ ],
+ "odstavce": [
+  {
+   "text": "Do man nů also vor der Statt lag / vnd e man das leger enent dem Rine geslagen hatt / da was von Bernn vnd anderen ein hůt dar geordnet / das si die selben nacht wachen solten namlich zweyhundert man / Also in der selben nacht hatten die viend einen anslag getan / vnd vermeinten Waltzhůt zů spisen mit mel / büchsen / bulver vnd anderen dingen / vnd ouch me lüten darein ze tůn / als ouch beschach / Vnd griffen also vngewarneter dingen die selben zweyhundert man an / wol mit tusent mannen zů fůs / vnd zweyhunderten zů ross / Vnd vermeinten damit über Rine in die Statt ze komen / Da des die zweyhundert man innen wurden / Da rüften si einanderen an / vnd stalten sich zů mannlicher were / Si rüften ouch die von Bernn hie disent halb dem Rine vnd ander ir herren vnd obern an / Als bald man das hort / vnd ouch die trumeter / die enenthalb warent bliesen / da kam man inen snellenclichen in Schiffen zů hilff / wie wol es dennocht nacht vnd gantz vinster was / das nieman den anderen gesechen mocht / In dem hatten die viend die flucht genomen / vnd wart inen als not zů fliechen / das si iren harnesch von inen hůwent / vnd gar vil werinen hind[er] inen liessen / von hantbüchsen / armbresten / Swin spiessen vnd anderen dingen / das alles am morgen funden vnd geteilt ward / Man vand ouch der vienden vff dem velde vier tott ligen / vnd wart einer gevangen harüber bracht / der sagt das es des Bischofs volck were / als ouch die warheit was / Es wurden ouch der vienden me dann Sechtzig wund gen Basel an die artzat gefůrt / der sturben etwie menger / Es was ouch der selben nacht vast vinster / Vnd als die viend die flucht so vnerlich namen / vnd iren harnesch selber absnitten vnd werinen hinder inen liessen / da meint man si hetten einanderen selber erstochen vnd verwunt / dann sich die selben zweyhundert man von Bernn / vnd anderen eidgno[ssen] vast zů samen hielten vnd in ir[er] ordnung bliben / daran si gar wol taten / Doch kamen der selben nacht in die Statt / me dann zweyhundert werlicher mannen / darzů gar vil bulvers mel / vnd anders / das man nachmalen wol vnd eigentlichen vernam",
+   "preklad": "Když se tedy leželo před městem a ještě než bylo ležení na druhé straně Rýna postaveno, byla tam z Bernských a jiných určena stráž, která měla té noci bdít, totiž dvě stě mužů. Té noci nepřátelé chystali úklad a hodlali Waldshut zásobit moukou, děly, prachem a jinými věcmi a dostat do něj také další lidi, jak se i stalo. Napadli tedy nečekaně těch dvě stě mužů s dobrým tisícem pěších a dvěma sty jezdci a hodlali se tím dostat přes Rýn do města. Když to těch dvě stě mužů zpozorovalo, volali na sebe navzájem a postavili se statečně k obraně. Volali také na Bernské na této straně Rýna a na jiné své pány a představené. Jakmile to bylo slyšet a když také zatroubili trubači, kteří byli na druhé straně, přišlo se jim rychle na lodích na pomoc, ačkoli byla noc a úplná tma, takže nikdo neviděl druhého. Mezitím se nepřátelé dali na útěk a museli prchat tak spěšně, že ze sebe sekali zbroj a nechali za sebou velmi mnoho zbraní: ručnice, kuše, kančí oštěpy a jiné věci; to vše bylo ráno nalezeno a rozděleno. Na poli se také našli čtyři mrtví nepřátelé a jeden zajatý byl přiveden na tuto stranu; ten řekl, že to byl lid biskupa [basilejského], jak to byla i pravda. Také přes šedesát raněných nepřátel bylo odvezeno do Basileje k ranhojičům, z nichž jich nemálo zemřelo. Té noci byla také velká tma. A protože nepřátelé utekli tak nečestně, sami si odřezávali zbroj a nechávali za sebou zbraně, mělo se za to, že se navzájem sami pobili a poranili, neboť těch dvě stě mužů z Bernu a jiných Spříseženců drželo pevně pohromadě a zůstalo ve svém šiku, čímž učinili velmi dobře. Přesto se té noci dostalo do města přes dvě stě branných mužů, k tomu velmi mnoho prachu, mouky a jiného, jak se později dobře a přesně zjistilo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 65,
+   "popis": "dvě třetiny strany – noční přepadení tábora za Rýnem, korouhve, padlí"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 66,
+   "text": "66 X (pozdější foliace, levý horní roh); text psán přes slabý rámeček podkresby"
+  },
+  {
+   "strana": 67,
+   "text": "X 67 (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak někteří Bernští a ostatní Spříseženci na druhé straně Rýna byli v noci přepadeni",
+ "poznamky_prekladu": [
+  "„des Bischofs volck“ – v textu bez určení; podle souvislosti (raněni odvezeni do Basileje) patrně basilejský biskup Johann von Venningen (mimo přepis).",
+  "„artzat“ = lékaři, ranhojiči."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

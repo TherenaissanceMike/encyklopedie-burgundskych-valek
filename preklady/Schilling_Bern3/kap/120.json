@@ -1,0 +1,37 @@
+{
+ "cislo": 120,
+ "nadpis": "Das der hertzog von Burgunn da er des hagenbachs tod vernam gantz entsetzt wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 245,
+ "strany": [
+  245,
+  246
+ ],
+ "odstavce": [
+  {
+   "text": "Nü kum ich wider an die rechte materie do nach diser geschicht des hagenbachs der hertzog von Burgunn vernam wie es ergangen / das was im gar zů grossem missvallen / vnd als er selber rett / die hertest nuss die er ye gebeiss / do kamen daruf gros warnungen / das sich der selb hertzog von Burgunn tegklichs / vff die eidgno[ssen] vnd tütsch land innmassen harus ruste / vnd alle sin Stett vnd Sloss also besatzt / damit man sich gentzlichen versach er wolt den krieg zů handen nemen / vnd man zer gegen wer allenthalben vnder der herschaft / den eidgno[ssen] / vnd ouch den fürsten vnd Stetten trostlich gerüst / vnd man sin tegklich erwarten was wurden dis ding von denen von Bernn vnd andern eidgno[ssen] gar ernstlichen betrachtet / vnd darumb vil tagen zů Lutzern vnd an andern enden geleist / vnd alwegen geratslaget / wie man solichem fürnemen es wer mit einem herzug oder andern sachen begegnet vnd mannlichen widerstand tete / dann der hertzog von Burgunn / als man offenlich rett / vnd man ouch harnach warlichen befant / gar hoch gelobt vnd ouch gesworen / des hagenbachs tod zů rechen / oder darumb zů sterben / als ouch beschach",
+   "preklad": "Nyní se vracím k vlastní látce. Když se po této události s Hagenbachem vévoda Burgundský dozvěděl, jak to dopadlo, byl s tím velmi nespokojen, a jak sám řekl, byl to nejtvrdší oříšek, jaký kdy rozkousl. Nato přišla velká varování, že se týž vévoda Burgundský denně vyzbrojuje proti Spřísežencům a německé zemi, aby sem vytáhl, a že všechna svá města a hrady obsadil tak, že se mělo za jisté, že chce válku vzít do svých rukou. A když se všude v rakouském panství, u Spříseženců i u knížat a měst povzbudivě chystali k obraně a denně ho očekávali, Bernští a ostatní Spříseženci to velmi vážně uvážili. Proto se konalo mnoho sněmů v Luzernu a na jiných místech a vždy se radilo, jak by se takovému záměru čelilo, ať už tažením, nebo jinými věcmi, a jak by se mu mužně vzdorovalo. Neboť vévoda Burgundský, jak se veřejně říkalo a jak se potom také skutečně ukázalo, velmi slavně slíbil a také přísahal, že Hagenbachovu smrt pomstí, nebo kvůli tomu zemře, což se také stalo."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 246,
+   "text": "246 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám; mezi oddíly prázdné místo s kadelou; dole prázdno"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 245,
+   "text": "podpis autora písně v poslední sloce nejistý („hat vit weber gedicht“ – snad Veit Weber, známý autor písní z burgundských válek)"
+  }
+ ],
+ "nadpis_preklad": "Jak se vévoda Burgundský, když se dozvěděl o Hagenbachově smrti, velice zhrozil",
+ "poznamky_prekladu": [
+  "„die hertest nuss die er ye gebeiss“ = nejtvrdší oříšek, jaký kdy rozkousl (Karlův výrok).",
+  "„zer gegen wer“ = k obraně (srov. glosář „gegenwere“ = obranné postavení).",
+  "„oder darumb zů sterben / als ouch beschach“ – narážka na Karlovu smrt u Nancy 5. 1. 1477."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -10,7 +10,7 @@
   },
   {
    "text": "Und als nü uf semlich schriben die vorgenanten botten von Bern und ander in gemeiner Eidgnossen namen zem herzogen von Burgunnen kament, und meintent einen gnedigen gütigen herren zü vinden, da fundent si me hochvart dann demütikeit, und müstent gar lange bi einer halben stunde vor im knüwen, dann der von Hagenbach im alzit necher dann ander in oren lag und in nutz güts underwist. Also hattent die botten in einer versigelten instruction, was si mit dem herzogen reden und an in bringen soltent, als dann dieselb instruction harnach von wort zü wort stat, dabi man wol mag verstan, das die von Bern und ander Eidgnossen gern bi friden weren bliben, und an inen nit erwant.",
-   "preklad": "Když tedy na takový dopis přišli řečení vyslanci z Bernu a další jménem všech konfederátů k burgundskému vévodovi a mysleli, že naleznou milostivého a dobrotivého pána, našli u něho víc pýchy než pokory a museli před ním velmi dlouho, asi půl hodiny, klečet. Pan von Hagenbach mu totiž vždy ležel v uších blíž než ostatní a neradil mu nic dobrého. Vyslanci měli v zapečetěné instrukci, co mají s vévodou projednat a co mu přednést; tato instrukce následuje níže slovo od slova a lze z ní dobře poznat, že Bernští a ostatní konfederáti by byli rádi zůstali v míru a že to neztroskotalo na nich."
+   "preklad": "Když tedy na takový dopis přišli řečení vyslanci z Bernu a další jménem všech Spříseženců k burgundskému vévodovi a mysleli, že naleznou milostivého a dobrotivého pána, našli u něho víc pýchy než pokory a museli před ním velmi dlouho, asi půl hodiny, klečet. Pan von Hagenbach mu totiž vždy ležel v uších blíž než ostatní a neradil mu nic dobrého. Vyslanci měli v zapečetěné instrukci, co mají s vévodou projednat a co mu přednést; tato instrukce následuje níže slovo od slova a lze z ní dobře poznat, že Bernští a ostatní Spříseženci by byli rádi zůstali v míru a že to neztroskotalo na nich."
   }
  ],
  "poznamky": [
@@ -19,12 +19,13 @@
   "Text instrukce tiskne Tobler podle bernské Teutsch Missiven C, 175–181; datováno „vigilia circumcisionis 1474“ = 31. 12. 1473. Znění kroniky (varianty Z, B; B je patrně bernský rukopis) má zkrácené a zjednodušené znění: např. místo „durchlüchtost fürst“ prostě „herzog“, místo „lantvogt“ „lantvogt (von) Hagenbach“; vynechávají závěrečné požehnání „mit hilf gots … behalt“.",
   "„vorchtsamoster herr“ = doslova „nejobávanější pán“, odpovídá francouzskému dvornímu titulu „très redouté seigneur“; „geberer“ = otec (Tobler), tj. Filip Dobrý.",
   "Mülhusen = Mulhouse; „richtung vor Walzhüt“ = smír u Waldshutu (1468); „lantvogt der grafschaft Pfiert“ = Peter von Hagenbach, zemský fojt v hrabství Pfirt (Ferrette); „Bilgri von Höwdorf“ = Bilgeri von Heudorf.",
-  "„letster tag zü Basel vor der keiserlichen maiestat“ = pobyt císaře v Basileji v září 1473, kde se Hagenbach vůči konfederátům choval vyzývavě a urážlivě (Tobler podle Knebela).",
+  "„letster tag zü Basel vor der keiserlichen maiestat“ = pobyt císaře v Basileji v září 1473, kde se Hagenbach vůči Spřísežencům choval vyzývavě a urážlivě (Tobler podle Knebela).",
   "[?] „krieg [entstan?]den“: OCR „Krieg ee den“, doplněno podle smyslu. „die [vorberürten?] vereinungen“: OCR „die Re vereinungen“. „Höuwdorf [etlich?] kouflüt“: OCR „ch kouflüt“.",
   "[?] „ietweders teils zweier“ = snad „po dvou lodích od každé strany“; smysl nejistý.",
   "[?] „zü frävelichen abbruch“ = asi „k potlačení svévole“; tvar je nejasný.",
   "[?] „die wir vorbenempt sölten haben“ = „které jsme měli jmenovat napřed“ (asi omluva za pořadí podle hodnosti); Z, B tuto vsuvku nemají."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

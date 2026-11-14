@@ -1,0 +1,45 @@
+{
+ "cislo": 232,
+ "nadpis": "Das Montenach / Cudriffin vnd ander Slos von denen von Bernn vnd Friburg ouch ingenomen vnd erobert wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 494,
+ "strany": [
+  494,
+  495,
+  496
+ ],
+ "odstavce": [
+  {
+   "text": "[D]o nů die von Bernn vnd Friburg byeinandern zů Betteringen lagent da gewunnen die iren da zwüschen etlich Stett vnd Sloß / namlich Montenach Cudriffin vnd ander / ein teil mit dem Swert die andern ergaben sich / vnd swůren ouch den beiden Stetten / vnd wart ouch da zwüschen etwie menger der vienden erstochen",
+   "preklad": "Zatímco Bernští a Fribourští leželi spolu v Payerne, jejich lidé mezitím dobyli několik měst a hradů, totiž Montagny, Cudrefin a jiné, jedny mečem, druhé se vzdaly a také přísahaly oběma městům. Mezitím bylo také zabito dost mnoho nepřátel."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 495,
+   "popis": "kolorovaná kresba – dobývání Montagny/Cudrefinu: vojáci s bílými kříži sekerami a halapartnami prorážejí bránu u padacího mostu přes příkop s palisádou, z okna vyhlíží obránce; vpravo bubeník, pištci a zástup s bernskou korouhví (medvěd); v pozadí město s kostelem, na kopcích oddíly s prapory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 495,
+   "text": "495 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text (místo pro iniciálu D nevyplněno)"
+  },
+  {
+   "strana": 496,
+   "text": "496 X (pozdější foliace, levý horní roh); nahoře rubrika, kolorovaná kresba, dole text (místo pro iniciálu D nevyplněno)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 494,
+   "text": "Montenach = Montagny; Cudriffin = Cudrefin"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a Fribourští obsadili a dobyli také Montagny, Cudrefin a jiné hrady",
+ "poznamky_prekladu": [
+  "„Montenach“ = Montagny, „Cudriffin“ = Cudrefin."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

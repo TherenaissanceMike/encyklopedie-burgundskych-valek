@@ -13,11 +13,11 @@
  "odstavce": [
   {
    "text": "Wie der herzog von Luttringen mit den Eidgnossen gan Nansse zoch.",
-   "preklad": "182. Jak vévoda lotrinský táhl s konfederáty k Nancy."
+   "preklad": "182. Jak vévoda lotrinský táhl se Spříseženci k Nancy."
   },
   {
    "text": "Item in dem 77. jar uf sant Steffans tag, des helgen ersten marters, zog der herzog von Luttringen persönlich mit der Eydgnossen gesellen, so sich ze Basel gesampnot hatten, den nechsten gan Nanssen zü in sin vatterland, das ze erretten und die sinen, so mit grosser vygentlicher macht belegen waren, in Nansse ze entschütten. Denne die sinen, so in Nansse belegen warend, grossen gebresten und mangel hattend an essen, trinken und an andren dingen, darumb jederman dester williger und an verziechen mit grossem ernste zog.",
-   "preklad": "Item, v [14]77. roce na den svatého Štěpána, svatého prvomučedníka, táhl vévoda lotrinský osobně s druhy konfederátů, kteří se shromáždili v Basileji, nejkratší cestou k Nancy do své otčiny, aby ji zachránil a vysvobodil své lidi, obležené v Nancy velkou nepřátelskou mocí. Jeho lidé obležení v Nancy totiž trpěli velkou nouzí a nedostatkem jídla, pití i jiných věcí, a proto každý táhl tím ochotněji, bez otálení a s velkou vážností."
+   "preklad": "Item, v [14]77. roce na den svatého Štěpána, svatého prvomučedníka, táhl vévoda lotrinský osobně s druhy Spříseženců, kteří se shromáždili v Basileji, nejkratší cestou k Nancy do své otčiny, aby ji zachránil a vysvobodil své lidi, obležené v Nancy velkou nepřátelskou mocí. Jeho lidé obležení v Nancy totiž trpěli velkou nouzí a nedostatkem jídla, pití i jiných věcí, a proto každý táhl tím ochotněji, bez otálení a s velkou vážností."
   },
   {
    "text": "Es kam ouch zü im des fürsten von Oesterichs volk, darzü die erbren stett Strasburg, Basel, Colmar, Schlettstatt mit einem merklichen züschub. Und fürt man inen spis gnüg nach umb bescheiden gelt. Si hatten ouch underwegen güt herbrig und wurden, wo sy hinkamen, wol enpfangen und gelassen. Und do sy zü Sant Niclausporten kamen, das der herzog von Bürgün besetzt hatt mit den sinen, die überfielent sy und gewunnen die statt schnell und angendes. Und erstachen der vigenden ob hundert zü ross und zü füs. Und fiengent an in der meinung, das sy meinten, der herzog von Bürgün wurde komen und die sinen entschütten, das aber nit beschach; und liess die sinen also erstechen und umbbringen.",
@@ -35,5 +35,6 @@
   "Oproti Schillingovi (C. 324–325): Molsheim vynechává zmínku o Novém spolku; místo Schillingova „on se však neodvážil přijít“ píše, že burgundský vévoda své lidi v Saint-Nicolas-de-Port nechal pobít."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

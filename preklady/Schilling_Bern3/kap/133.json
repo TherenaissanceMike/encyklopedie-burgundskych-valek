@@ -1,0 +1,40 @@
+{
+ "cislo": 133,
+ "nadpis": "Das die von Bernn den vorgerürten absag brief mit irem eigenen ritenden botten des hertzogen anwalten in Burgun[n] santen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 272,
+ "strany": [
+  272,
+  273,
+  274
+ ],
+ "odstavce": [
+  {
+   "text": "Diser absag brief ward von einem ritenden botten von Bernn innamen gemeiner eidgnossen gen Blomont gefürt / vnd den Statthaltern vnd houptlüten über antwurt / die namend im den ab / vnd schickten den angendz dem hertzogen von Burgunn gen Nüss in das leger / da er dann lag / der ward darab gantz übel content vnd entsetzt / vnd als gantz entrüst / das er von rechtem zorn in einer langen güten wile nit reden wolte vnd als er anfing reden / do sprach er in grossem hitzigem zorn vnd gantz wütende / o Berna / Berna / vnd trowt denen in sunderheit / als dann das nachmaln von den sinen offenlichen gerett wart",
+   "preklad": "Toto vypovězení nepřátelství odvezl jízdní posel z Bernu jménem všech Spříseženců do Blamontu a předal je místodržícím a hejtmanům. Ti je od něho přijali a ihned je poslali vévodovi Burgundskému do ležení u Neussu, kde tehdy ležel. Ten z toho byl velmi nespokojen a zděšen a tak rozhořčen, že z pravého hněvu dlouhou chvíli nechtěl mluvit. A když začal mluvit, řekl ve velkém, prudkém hněvu a zcela zuřivě: „Ó Berne, Berne!“ a vyhrožoval zvláště jim, jak to pak jeho lidé veřejně vyprávěli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 273,
+   "popis": "velká dokončená kolorovaná miniatura – bernský posel s vypovězením: jezdec v pruhované čapce s pérem a plášti s křížkem na prsou jede na bílém koni s třapci a dlouhou ostruhou, v ruce drží tyč s praporkem (pečeť/list); v pozadí mohutný hrad s věžemi a branou s padací mříží (Blâmont), jezero s loďkou, kopce s kostelem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 273,
+   "text": "273 X (pozdější foliace, pravý horní roh); dole prázdno"
+  },
+  {
+   "strana": 274,
+   "text": "274 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští poslali zmíněné vypovězení nepřátelství po svém vlastním jízdním poslovi vévodovým zmocněncům do Burgundska",
+ "poznamky_prekladu": [
+  "„content“ – francouzské slovo v německém textu (spokojený); „o Berna, Berna“ – vévodova slova uvedena v románské podobě jména."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

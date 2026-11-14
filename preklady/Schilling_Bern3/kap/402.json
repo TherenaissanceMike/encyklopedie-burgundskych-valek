@@ -1,0 +1,37 @@
+{
+ "cislo": 402,
+ "nadpis": "Von einem grossen sterbot der ze Bernn was",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 906,
+ "strany": [
+  906,
+  907
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Jare vmb Sant Jacobs tag hůp man an sterben der pestelentz vnd wart gar ein grosser sterbot vnder alten vnd iungen vnd sturben vil treffenlicher lüten von geistlichen vnd weltlichen / edeln vnd anndern mannen vnd frowen / vnd sunderlich von kinden / Vnd wert der sterbot bi zwein Jaren an einandern / vn[d] man starp an anndern ennden ouch / vnd wz ein gemeiner sterbot / Es wurden ouch in dem selben sterbot vnd darvor nach den kriegen merenteils alle ding türe / von dem meisten bis an das mynst vnd die von Bernn tatent vil Crütz gengen vnd ander gůteten / es wolt aber nit hellfen vnd rett man / der almechtig gott wer ermanet / von mengerley sünden vnd vnfůr wegen / So man in kriegen vnd anderes wider in begangen het / vnd leider noch tete",
+   "preklad": "Ve výše uvedeném roce kolem svátku sv. Jakuba se začalo umírat na mor a nastal velmi velký mor mezi starými i mladými. Zemřelo mnoho významných lidí z duchovních i světských, šlechticů i jiných mužů a žen, a zvláště dětí. Ten mor trval asi dva roky za sebou a umíralo se i na jiných místech, byl to všeobecný mor. Během toho moru a už předtím, po válkách, se také zdražila většina všech věcí, od největší po nejmenší. Bernští konali mnoho prosebných procesí a jiných dobrých skutků, ale nechtělo to pomoci. A říkalo se, že všemohoucí Bůh byl popuzen pro rozličné hříchy a nepravosti, kterých se proti němu ve válkách i jinak dopouštělo a bohužel ještě dopouští."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 907,
+   "text": "907 X (pozdější foliace, pravý horní roh); stránka bez obrázku; konec odstavce, rubrika s iniciálou V, odstavec s iniciálou D, dole rubrika s iniciálou D (k s908)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 906,
+   "text": "mor v Bernu od sv. Jakuba (25. července) 1477, trval dva roky; drahota po válkách; prosebná procesí („Crütz gengen“)"
+  }
+ ],
+ "nadpis_preklad": "O velkém moru, který byl v Bernu",
+ "poznamky_prekladu": [
+  "Svátek sv. Jakuba = 25. 7.; „vorgenanten Jare“ je podle kap. 398 rok 1477, tedy 25. 7. 1477.",
+  "„Crütz gengen“ – prosebná procesí s křížem.",
+  "„der almechtig gott wer ermanet“ – doslova „Bůh byl upomínán/vyzýván“; přeloženo podle smyslu „popuzen“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,60 @@
+{
+ "cislo": 341,
+ "nadpis": "Das etlich Soldner von Murten uß der Statt in das Lampersch here liffen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 764,
+ "strany": [
+  764,
+  765,
+  766
+ ],
+ "odstavce": [
+  {
+   "text": "So nü der houptman in Murten des inne wart / vnd er gericht mercken / das die von Bernn vnd ander im veld waren / vnd an den hertzogen zugen / da lies er etlich endlich knechte in das Lampersch here harus louffen / die brachtent si am ersten zer flucht / das si also in den Sew iouchent",
+   "preklad": "Když to tedy hejtman v Murtenu zjistil a jasně poznal, že Bernští a ostatní jsou v poli a táhnou na vévodu, nechal několik zdatných knechtů vyběhnout ven do lombardského vojska. Ti je nejprve obrátili na útěk, takže je hnali do jezera."
+  },
+  {
+   "text": "Es ritten ouch vil grosser herren vnd ander mechtig lüte / der namen ich nit weis mit iren guldinen Scharnien[?] verdackten rossen vnd anndern kostlichen dingen / von harnesch / cleideren vnd anndrem in den Sew / vn[d] vnnderstůnden über ze swymmen / Sy zarten ouch iren harnesch / cleider vnd anndrers / was si dann konden oder möchten von inen / zů uffenthalt vnd lengerung ir lebens / Vnd wann si lang gezabelten vnd nit erschossen noch erslagen wurde[n] So giengent si von rechter angst vnd not mit den rossen gantz vnnder / das doch ein gros not vnd iemerlich ding was / Si hattens aber vmb den almechtigen gotte mit ir hochuart wol verdienet daran all fromen Berner vnd biderben lüte gedencken / sich vor vnnützer hochuart hüten / vnd in gottes gebotte vnd gehorsamkeit bliben sůllent So mag inen niemer mer mißlingen",
+   "preklad": "Také mnoho velkých pánů a jiných mocných lidí, jejichž jména neznám, vjelo do jezera na koních v bardách se zlatými livrejemi [?] a s jinými drahocennými věcmi, zbrojí, šaty a jiným, a pokoušeli se přeplavat. Strhávali ze sebe zbroj, šaty a jiné, co jen mohli, aby se udrželi a prodloužili si život. A když se dlouho zmítali a nebyli zastřeleni ani ubiti, šli z pravého strachu a nouze i s koňmi docela ke dnu; to byla opravdu velká nouze a žalostná věc. Zasloužili si to však u všemohoucího Boha svou pýchou. Na to mají všichni stateční Bernští a řádní lidé pamatovat, chránit se zbytečné pýchy a zůstávat v Božích přikázáních a poslušnosti; pak se jim nikdy nemůže nedařit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 765,
+   "popis": "výpad posádky z Moratu: vlevo hradby a brána města, u brány za sudy a hranicí fošen vojáci s bílými kříži vyrážejí s píkami; vpravo prchající a padající Burgundové v ležení se stany a korouhvemi (ondřejský kříž); dole jezero s topícími se jezdci a koňmi (hlavy nad vodou); v pozadí na kopcích konfederační zástupy s korouhvemi a domek"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 765,
+   "text": "765 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou S (nevyplněnou) a přípisek pozdější rukou"
+  },
+  {
+   "strana": 766,
+   "text": "766 X (pozdější foliace, levý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavec s nevyplněnou iniciálou E, dole rubrika s iniciálou D (doplněk pozdější rukou)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 765,
+   "text": "přípisek pozdější rukou: o penězích, které měli Lombarďané u sebe a které skončily v jezeře, „aby nikomu neprospěly“; čtení částečně nejisté"
+  },
+  {
+   "strana": 766,
+   "text": "„Scharnien“ – nejisté čtení (čabraky / pokrývky koní ze zlaté látky)"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 765,
+   "text": "(pozdější ruka, hned za textem) Was gelts sy ouch by Inen hattan / dz hatten sy alles vff Jeren Sacklen[?] vnd dazů[?] in ?[?] Jn den See / damit es niemandt zu Nutz keme"
+  }
+ ],
+ "nadpis_preklad": "Jak někteří žoldnéři z Murtenu vyběhli z města do lombardského vojska",
+ "poznamky_prekladu": [
+  "„guldinen Scharnien[?] verdackten rossen“ – „Scharnien“ nejisté čtení; přeloženo podle glosáře (scharnie = livrej, verdackte ross = koně v bardách).",
+  "Přípisek pozdější rukou na s. 765 (o penězích Lombarďanů v jezeře) není součástí textu, nepřekládán."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -12,7 +12,7 @@
  "odstavce": [
   {
    "text": "Wie der fürst von Oesterich und vil ander fürsten und herren by den Eydgnossen ze Costenz waren und die vereinung beschlossen wart, do kamen mere, wie Hagenbach gefangen were.",
-   "preklad": "35. Jak byl kníže rakouský a mnoho jiných knížat a pánů u konfederátů v Kostnici, a když byl spolek uzavřen, přišla zpráva, že Hagenbach byl zajat."
+   "preklad": "35. Jak byl kníže rakouský a mnoho jiných knížat a pánů u Spříseženců v Kostnici, a když byl spolek uzavřen, přišla zpráva, že Hagenbach byl zajat."
   }
  ],
  "poznamky_editora": [],
@@ -21,5 +21,6 @@
   "Büchi otiskl jen nadpis; text kapitoly odpovídá Schillingovi (Schilling, kap. 107, zkráceně) a edice ho neotiskuje."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

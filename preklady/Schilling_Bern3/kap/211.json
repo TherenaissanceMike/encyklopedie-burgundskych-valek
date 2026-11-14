@@ -1,0 +1,35 @@
+{
+ "cislo": 211,
+ "nadpis": "Von was vrsachen wegen si das Slos Gramont nit wolten vf geben",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 446,
+ "strany": [
+  446,
+  447
+ ],
+ "odstavce": [
+  {
+   "text": "Warumb si aber das Sloß nit uf gabent noch uf geben wolten / das was ein vrsach das der Bastart von Burgunn des andern tages davor inen enbotten hatt / si solten sich mannlich halten / So wolt er si entschütten / vn[d] nit verlassen / dann er wol achtzechen tusent man zů ros vnd fůs byeinandern hatt / als man das durch den Bastart von Gramont vernam / Er hatt ouch etlich Lamparter darin geleit / denen ir verschter[?] lon wart / doch warent der selben etlich dannen geritten / vnd wurden leider nit funden Also wart es inen zů spat / vnd wurden von nieman entschüt / Man hat sich ouch nach den grossen warnungen gerüst / vnd was yederman begirlich vnd bereit des Bastartz zů erwarten vnd mit im mannlich zů Streiten / es kam aber nieman",
+   "preklad": "Proč však hrad nevydali ani vydat nechtěli, mělo tuto příčinu: Bastard Burgundský jim den předtím vzkázal, aby se drželi mužně, že je vysvobodí a neopustí, neboť má pohromadě dobrých osmnáct tisíc mužů na koni i pěšky. To se dozvěděli od levobočka z Grammontu. Bastard tam také umístil několik Lombarďanů, jimž byl dán jejich zasloužený [?] žold; několik z nich však odtamtud odjelo a bohužel nebyli nalezeni. Tak bylo pro ně pozdě a nikdo je nevysvobodil. Vojsko se také po těch velkých varováních připravilo a každý byl dychtivý a připraven Bastarda očekávat a mužně s ním bojovat, nikdo však nepřišel."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 447,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 447,
+   "text": "447 X (pozdější foliace, pravý horní roh); text s velkou iniciálou W psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Z jakých příčin nechtěli hrad Grammont vydat",
+ "poznamky_prekladu": [
+  "„verschter[?] lon“ – čtení nejisté, snad „verdienter lon“ (zasloužený žold)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

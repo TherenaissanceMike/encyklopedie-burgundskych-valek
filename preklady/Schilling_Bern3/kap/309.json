@@ -1,0 +1,43 @@
+{
+ "cislo": 309,
+ "nadpis": "Das die von Straßburg ir büchsen meister / darzů ir büchsen vnd andern züg / irs eignen willens ouch gen Murten schickten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 695,
+ "strany": [
+  695,
+  696,
+  697
+ ],
+ "odstavce": [
+  {
+   "text": "Die frommen hantvesten lüte die von Straßburg die denen von Bernn vnd andern eidgno[ssen] zů allen ziten gar getrüwen bistand haben erzöugt / schickten ouch ir eignen büchsen meister mit namen vier erlich manne / darzů ir büchsen vnd andern züg ouch gen Murten / die ouch mit denen von Bernn vnd andern grossen fliß vnd ernst hatten / wie si alle sachen nach dem besten möchten versechen / als ouch durch si völliclichen beschach / vnd ouch gemeinen eidgno[ssen] wol kam",
+   "preklad": "Statečný a pevný lid, Štrasburští, kteří Bernským a ostatním Spřísežencům vždy prokazovali velmi věrnou pomoc, poslali do Murtenu také své vlastní puškaře (mistry dělostřelby), jmenovitě čtyři čestné muže, k tomu svá děla a další výzbroj. Ti spolu s Bernskými a ostatními s velkou pílí a vážností pečovali o to, jak by vše co nejlépe zajistili, což se jejich zásluhou také plně stalo a obecným Spřísežencům to přišlo vhod."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 696,
+   "popis": "kolorovaná kresba – štrasburští puškaři vezou děla k Moratu: vpředu dvě děla na kolových lafetách tažená koňmi, jezdci s bílými kříži; vlevo nahoře vojáci nesou pavézy; vpravo město Morat s branou, věžemi a erbem (štít se šikmým pruhem – Štrasburk?) na věži; vlevo jezero s loďkou, stromy a kopce"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 696,
+   "text": "696 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou D"
+  },
+  {
+   "strana": 697,
+   "text": "697 X (pozdější foliace, pravý horní roh); stránka bez obrázku; rubrika s velkou kadelou W, dopis s velkou iniciálou S"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 695,
+   "text": "Morat patřil napůl Bernu a napůl Fribourgu"
+  }
+ ],
+ "nadpis_preklad": "Že Štrasburští ze své vlastní vůle poslali do Murtenu také své puškaře, k tomu svá děla a další výzbroj",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

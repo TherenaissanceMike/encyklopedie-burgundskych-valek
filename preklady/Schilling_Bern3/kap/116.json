@@ -1,0 +1,41 @@
+{
+ "cislo": 116,
+ "nadpis": "Das der von hagenbach gar mengerley erdacht / damit er im gern geholfen het",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 234,
+ "strany": [
+  234,
+  235,
+  236
+ ],
+ "odstavce": [
+  {
+   "text": "Der vorgenant von hagenbach hette im ouch selber / als nit vnbillich was / gern von dannen geholfen / dann er wol marckt / damit verkündet sin / das er ein harten stand tůn müst / vnd im sin herr von Burgund nit möcht helfen / vnd rette mit denen von Brisach me dann einest / das si im us der gevangnüss hulfen / so wolt er inen gros gůt gebe[n] vnd si aller ir eiden vnd pflichten / damit si sinem herrenn von Burgunn vnd im verbunden were[n] ledig sagen / vnd ir brief darumb wider zů iren handen antwurten / vnd ob ouch er yema[n]d vnder inen nüt des sinen wider recht oder suss abgenomen hett / das wolt er inen alles widerkere[n] nach irem willen vnd gevallen / vnd darzů in die Statt Brisach sweren / vnd niemer mer darus keme[n] Sunder alles sin gůt zů inen ziechen / vnd lieb vnd leid mit inen han bis an sinen tot / Das wolten die von Brisach nit tůn / vnd marckten sin berengenheit / si verstůnden ouch wol / wer er also von dannen komen / das noch vil vnrüwen durch in volbracht were worden",
+   "preklad": "Zmíněný Hagenbach by si byl také sám, jak to nebylo nespravedlivé, rád odtamtud pomohl, neboť dobře poznal, že bude mít těžké postavení a že mu jeho pán Burgundský nebude moci pomoci. Mluvil s Breisašskými víc než jednou, aby mu pomohli ze zajetí; pak by jim chtěl dát velký majetek a zprostit je všech jejich přísah a povinností, jimiž byli zavázáni jeho pánu Burgundskému a jemu, a vrátit jim za to jejich listiny do rukou. A pokud by někomu z nich vzal něco z jeho majetku proti právu nebo jinak, všechno by jim chtěl vrátit podle jejich vůle a přání. A k tomu by přísahal [věrnost] městu Breisachu, už nikdy z něho neodešel, ale všechen svůj majetek k nim přestěhoval a s nimi sdílel dobré i zlé až do své smrti. To Breisašští nechtěli udělat a poznali jeho úskočnost [?]. Dobře také chápali, že kdyby se tak odtamtud dostal, způsobil by ještě mnoho nepokojů."
+  },
+  {
+   "text": "Dis mocht im alles nit helfen / dann dz nach bevelch des fürsten / wart der von hagenbach durch die Rete zů worten gehalten / vnd als man in fürer gichtigen am fragen lies / wart er bekantlich sovil schantlicher vnd vneerlicher[?] sachen / über alles das man vor hin von im wiste / vnd am tag lag / es wer verreterie mort oder anders / so er vor langen Jaren hatt volbracht / das man das alles zů smach vn[d] schande der menscheit / nit getorst eroffnen / dann sovil vnd on das am tag lag / das leider dennocht sovil was / das er nach recht gar eins lasterlichen todes wol wirdig gewesen wer / was dz nit ein gros übel vnd verreterie / des er bekantlich wz das alle sin anslege daruf hatten gedient / nit allein die eidgnosschaft / Sunder ouch gemein tütsch land / wo er das hette vermögen / iung vnd alts verderplichen zů verratten / vnd der welschen zungen vndertenig zů machen / Zů dem das er in mengen sachen eid vnd ere übersechen hat / als er des alles bekantlich / vnd ouch kuntlich was / vnd man noch wol in siner vergicht zů Brisach vinden mag / Nein zwar nit wirdig was er den namen eins tütschen ze haben / Sunder vast zitig von denen zů sundern",
+   "preklad": "To všechno mu nemohlo pomoci, neboť na rozkaz knížete byl Hagenbach radními vyslýchán. A když ho dali dále na mučidlech vyslýchat, přiznal se k tolika hanebným a nečestným [?] věcem, nad všechno, co se o něm předtím vědělo a bylo zjevné, ať to byla zrada, vražda nebo jiné, které spáchal již před dlouhými lety, že se to všechno k potupě a hanbě lidstva neodvážili zveřejnit. Leč i bez toho bylo zjevné, že toho bohužel bylo tolik, že by podle práva byl docela hoden hanebné smrti. Což nebylo velké zlo a zrada, k níž se přiznal, že všechny jeho úklady směřovaly k tomu, aby nejen Spříseženstvo, ale i celou německou zemi, kdyby to dokázal, mladé i staré zhoubně zradil a učinil poddanými vlašského jazyka? Kromě toho v mnoha věcech nedbal přísahy a cti, k čemuž se ke všemu přiznal a bylo to také známé, a ještě to lze najít v jeho výpovědi v Breisachu. Ne, věru nebyl hoden nést jméno Němce, ale bylo už velmi načase ho od nich oddělit."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 235,
+   "text": "235 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo (bez rubriky)"
+  },
+  {
+   "strana": 236,
+   "text": "236 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám; dole kadela"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak si Hagenbach vymýšlel všelijaké věci, jimiž by si byl rád pomohl",
+ "poznamky_prekladu": [
+  "„berengenheit“ – nejasné slovo (snad „Ränke“ = úskoky?); přeloženo „úskočnost [?]“; ověřit.",
+  "„vneerlicher[?]“ = nečestných; [?] z přepisu.",
+  "„gichtigen am fragen“ = útrpné právo, výslech na mučidlech; „vergicht“ = výpověď, přiznání (protokol v Breisachu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

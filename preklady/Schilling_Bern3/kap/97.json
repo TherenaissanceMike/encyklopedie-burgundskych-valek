@@ -1,0 +1,32 @@
+{
+ "cislo": 97,
+ "nadpis": "Das denen von Nüremberg vnd andern Stetten in Swoben vnd am Bodense dis sachen gar wenig zů hertzen giengent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 207,
+ "strany": [
+  207,
+  208
+ ],
+ "odstavce": [
+  {
+   "text": "Wie vil vnd grosses nü tütschen landen dem heiligen Riche vnd den eidgno[ssen] an disen sweren sachen gelegen was / So warend doch des heiligen Richs Stett am Bodense darzů die von Nüremberg / vnd etlich ander in Swoben land / wenig in gedenck / was trüwen vnd gůtes inen die eidgno[ssen] in iren vergangnen kriegen vnd sachen yewelten getan / vnd lib vnd gůt zů inen gesatzt hatten / wann si darzů gar stille swigen vnd sich weder mit hilf noch ratt gegen den eidgnossen gantz nit erbutten / wie wol si allen handel wisten / vnd die von Bernn vnd ander eidgnossen inen das me dann ein mal geschriben hatten / vnd was doch der erberkeit wol zů bedencken / wo es den eidgno[ssen] missratten / das dan[n] der koppel am ersten über die selben Stette / vnd ander des heiligen Richs zůgewanten gangen vnd tütscher nation ein herter slag worden were wie wol dis zů widerstand wenig lüten dan[n] allein der fromen eidgnosschaft zů hertzen gieng on allen wincke[l][?] als vast vnd mer von des heiligen Richs als ir selbs wegen / wann ob ioch die sach vff das hertest geratten sin solt / So hand von gottes gnaden die von Bernn vnd ander eidgno[ssen] noch solich land vnd lüte / mit semlichen Slossen / Stetten vnd wasseren vmbgeben / mit iren gebirgen / das si sich villicht als bald / als ander lüte / mit der hilf gottes erwert hetten als das ir frommen vordern / in andern grossen Stritten vnd kriegen ouch getan / vnd mit mannlichen eren an si bracht haben",
+   "preklad": "Ač tedy na těchto těžkých věcech tolik a tak velmi záleželo německým zemím, Svaté říši i Spřísežencům, přece města Svaté říše u Bodamského jezera, k tomu Norimberští a některá jiná ve Švábsku pramálo pamatovala, kolik věrnosti a dobra jim Spříseženci kdy ve svých minulých válkách a věcech prokázali a jak pro ně nasadili život i statky. K tomu totiž docela mlčeli a nenabídli Spřísežencům vůbec ani pomoc, ani radu, ačkoli celou věc znali a Bernští i jiní Spříseženci jim o tom psali víc než jednou. A přece měli ctihodní [erberkeit] dobře uvážit, že kdyby se to Spřísežencům nezdařilo, šel by ten obojek nejprve přes tato města a jiné spojence Svaté říše a pro německý národ by to byla tvrdá rána. K odporu proti tomu to však málokomu šlo k srdci kromě statečného Spříseženstva, bez jakýchkoli vytáček [?], a to stejně tak a ještě více kvůli Svaté říši než kvůli sobě samým. Neboť i kdyby věc dopadla co nejhůř, mají z Boží milosti Bernští a jiní Spříseženci ještě takovou zemi a lid, obklopené takovými hrady, městy a vodami a svými horami, že by se snad s Boží pomocí byli ubránili stejně dobře jako jiní lidé, jak to také učinili jejich stateční předkové v jiných velkých bojích a válkách a jak to s mužnou ctí odkázali jim."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 208,
+   "text": "208 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá text z rubu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Norimberským a jiným městům ve Švábsku a u Bodamského jezera šly tyto věci velmi málo k srdci",
+ "poznamky_prekladu": [
+  "„on allen wincke[l][?]“ – čtení nejisté; snad „bez vytáček, bez postranních úmyslů“; přeloženo „bez jakýchkoli vytáček [?]“.",
+  "„erberkeit“ = ctihodní (městská vrchnost, ctihodní lidé); přeloženo „ctihodní“.",
+  "„koppel“ = obojek, viz kap. 96."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -1,0 +1,65 @@
+{
+ "cislo": 372,
+ "nadpis": "Von dem Strit vor Nanse darinn der hertzog von Burgunn vnd ander mit im wurden erslagen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 845,
+ "strany": [
+  845,
+  846,
+  847,
+  848
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also morndes am Sonnentag vor der heiligen dryer küngen tag / zoch der vorgenant hertzog von Lotthringen / vn[d] mit im die von Bernn vnd ander eidgno[ssen] vnd verwanten / In dem namen der hochen heiligen drivaltikeit / vmb die achtende stund vor mittag von Sant Niclaus port gegen dem hertzogen von Burgunn vnd gen Nanse zů / vnd was yederman frölich vnd gantz vnerschrocken / dann si alle von hertzen begerten die fromen lüte in Nanse ze entschütten / oder alle darumb zů sterben",
+   "preklad": "A tak nazítří, v neděli před svátkem svatých Tří králů, táhl zmíněný vévoda Lotrinský a s ním Bernští a ostatní Spříseženci a spojenci ve jménu vznešené svaté Trojice kolem osmé hodiny dopoledne od Saint-Nicolas-de-Port proti vévodovi Burgundskému a k Nancy. Každý byl radostný a zcela neohrožený, neboť si všichni ze srdce přáli statečné lidi v Nancy vysvobodit, nebo kvůli tomu všichni zemřít."
+  },
+  {
+   "text": "So das der hertzog von Burgunn vernam / do zoch er mit allem sinem volck vnd züge us sinem leger vnd ruckt inen engegen uff ein halbe mile / bis an einen starcken graben vnd dicken hag / da hatt er in einem engen wege sin geschütz / me dann dryssig slanngen büchsen hin gericht / Vnd nach dem dann die von Bernn vnd ander eidgno[ssen] des vor Streites begert vnd darumb gebetten hatten do zugen si angendes an den hertzogen von Burgunn / vnd trungen durch den selben dicken hag als mercklich / vnd ye einer dem andern nach dann ouch der hag als dick was / das si mit grossen arbeiten dar durch kament / vnd müsten etlich ir langen Spies vnd ander werinen in dem selben hage lassen ligen / vnd kament also aneinandern",
+   "preklad": "Když se to dozvěděl vévoda Burgundský, vytáhl se vším svým lidem a dělostřelectvem ze svého ležení a postoupil jim vstříc na půl míle až k silnému příkopu a husté ohradě. Tam měl na úzké cestě namířené své dělostřelectvo, přes třicet serpentin. A protože Bernští a ostatní Spříseženci žádali o předvoj a o to prosili, táhli ihned na vévodu Burgundského a prodírali se tou hustou ohradou velmi usilovně, jeden za druhým, neboť ohrada byla tak hustá, že se jí dostali jen s velkou námahou. Někteří museli své dlouhé píky a jiné zbraně v té ohradě nechat ležet. A tak se střetli."
+  },
+  {
+   "text": "Der hertzog von Burgunn vnd die sinen staltent sich am ersten gein inen gar mannlichen zů weri Vnd was der angriff gar usser massen hart mit schiessen vnd andern dingen / Aber die von Bernn vnd ander eidgno[ssen] mit inen trungen als mannlich vnd mechticlich durch si / das si doch am letsten die flucht namen / vnd gewunnen inen bald das starck leger vnd wagenburg an / das der hertzog so vestenclichen gemacht hatt / vnd was darinn was Vnd iagten inen nach den gantzen tag bis in die nacht me dann vier milen / da zwüschen wurden gar vil lüten erslagen ze roß vnd füs / Vnd ertrunken ouch vil in den wassern von grosser angst vnd not wegen",
+   "preklad": "Vévoda Burgundský a jeho lidé se jim zprvu velmi statečně postavili na odpor a útok byl nesmírně tvrdý střelbou i jinými věcmi. Ale Bernští a s nimi ostatní Spříseženci se jimi prodrali tak statečně a mocně, že se nakonec dali na útěk. Brzy jim dobyli silné ležení a vozovou hradbu, kterou si vévoda tak pevně zřídil, i všechno, co v ní bylo. Hnali je celý den až do noci přes čtyři míle; přitom bylo pobito velmi mnoho lidí na koni i pěších a mnoho jich také utonulo ve vodách z velké úzkosti a nouze."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 846,
+   "popis": "bitva u Nancy: nahoře les korouhví obou stran (burgundské s ondřejským křížem a křesadly, čtvrcená burgundská vévodská korouhev, lotrinské, švýcarské s křížem), zástupy pikenýrů a halapartníků; vlevo hustý les/houští, z něhož vyrážejí konfederační oddíly; uprostřed řada dělových vozů s hlavněmi (burgundská vozová hradba s děly); jezdec s burgundskou korouhví a trubači; vlevo dole muž s halapartnou a postava s dýkou nad padlým, přes něhož se sápe černý pes/medvěd; vpravo dole lotrinští pěší s dvojitými kříži bodají píkami do burgundských obrněných jezdců na koních s čabraky, padlí na zemi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 846,
+   "text": "846 X (pozdější foliace, levý horní roh); celostránkový obraz bitvy u Nancy bez textu"
+  },
+  {
+   "strana": 847,
+   "text": "847 (pozdější foliace, pravý horní roh); stránka bez obrázku (prosvítá obraz z rubu); odstavce s iniciálami V a S, výplňový tah perem"
+  },
+  {
+   "strana": 848,
+   "text": "848 (pozdější foliace, levý horní roh); stránka bez obrázku; odstavec s iniciálou D, výplňový tah perem, dole rubrika s iniciálou D (k obrazu na s849)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 847,
+   "text": "„Sonnentag vor der heiligen dryer küngen tag“ 1477 = neděle 5. ledna 1477, den bitvy u Nancy; vyrazili kolem 8. hodiny ranní"
+  },
+  {
+   "strana": 847,
+   "text": "přes 30 hadovek (slanngen büchsen) na úzké cestě; Bernští si vyžádali předvoj"
+  }
+ ],
+ "nadpis_preklad": "O bitvě u Nancy, v níž byl zabit vévoda Burgundský a jiní s ním",
+ "poznamky_prekladu": [
+  "Neděle před Třemi králi 1477 = 5. 1. 1477, den bitvy u Nancy.",
+  "„hag“ = ohrada, živý plot (trnitý porost); „slanngen büchsen“ = serpentiny (glosář).",
+  "„des vor Streites begert“ = žádali o předvoj (čelo útoku).",
+  "Pro reenactory: knechti nechávali dlouhé píky uvíznuté v husté ohradě – praktický limit pikového šiku v členitém terénu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

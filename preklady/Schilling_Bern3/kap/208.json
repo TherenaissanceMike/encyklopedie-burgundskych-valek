@@ -1,0 +1,45 @@
+{
+ "cislo": 208,
+ "nadpis": "Das Blomont Statt vnd Sloß von den von Bernn vnd andern gantz zerrissen / zerbrochen vnd ouch verbrönt warent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 439,
+ "strany": [
+  439,
+  440,
+  441
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die vorgenanten von Bernn vnd Sollotern / vnd ouch ander zůgewanten mit iren panern / vnd als grossen machten gen Blomont zů den iren komen waren / da wurden si von stund an zů ratt das man die Statt vnd Slos gantz brechen / zerrissen vnd brönnen solt / des glich schriben ouch die von Bernn vnd Sollotern den iren / das man davo[n] nit solt scheiden / es wer dann vorhin gantz zerbrochen vnd gewüst / dann yederman mercklicher kumber vnd schaden darus beschechen was / dz man es gernn tett / Vnd also vieng man an türn vnd muren brechen vnd vndergraben / vnd sunderlich vndergrůb man die grossen starcken türn / vnd macht gros füre darunder das die nider vielent / Man vieng ouch an die hüser brechen vnd brönnen / vnd sunders das Sloß das gar us der massen starck vnd köstlich erbuwen was / darus waren ouch Sechtzechen köstlicher vergülter knöpfen / die wurden denen von Straßburg vnd fůrten ouch die mit inen heim / So wurden wart ouch das gros gůt / das man zů Blomont gewunnen hatt / ouch verkouft vnd gebüt / Vnd also wart die gůt Statt vnd Sloß Blomont gantz in grund zerrissen / zerbrochen vnd verbrönt / vnd als gantz gewüst / das es kumberlichen wider gebuwen oder gemacht mag werden",
+   "preklad": "Když tedy jmenovaní Bernští a Solothurnští a také další spojenci se svými korouhvemi a s tak velkou mocí přišli ke svým lidem k Blamontu, usnesli se ihned, že se má město i hrad úplně zbořit, rozbořit a vypálit. Stejně tak i Bernští a Solothurnští napsali svým lidem, aby odtamtud neodcházeli, dokud nebude předtím úplně rozbořen a zpustošen. Protože z něho každému vzešlo velké trápení a škoda, dělalo se to rádo. A tak se začalo bořit a podkopávat věže a hradby. Zvláště se podkopávaly velké silné věže a pod nimi se dělaly velké ohně, takže padaly. Začalo se také bořit a pálit domy, a zvláště hrad, který byl nesmírně pevně a nákladně vystavěn. Z něho bylo také šestnáct drahocenných zlacených makovic; ty dostali Štrasburští a odvezli si je s sebou domů. Také velký majetek, který se v Blamontu získal, byl prodán a rozdělen jako kořist. A tak bylo dobré město a hrad Blamont úplně do základů rozbořeno, rozbito a vypáleno a tak zcela zpustošeno, že jen stěží může být znovu vystavěno nebo zřízeno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 440,
+   "popis": "dokončená kolorovaná miniatura – bourání Blamontu: vojáci s bílými kříži bourají hradby krumpáči, z budov šlehají plameny, vpravo stany se znaky (Bern s medvědem, Basilej, Solothurn), v jednom stanu dvojice; v pozadí jezero s loďkou, hory, vpravo nahoře prapory a odcházející vojáci"
+  },
+  {
+   "strana": 441,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 440,
+   "text": "440 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 441,
+   "text": "441 X (pozdější foliace, pravý horní roh); text psán přes šedě podloženou nedokončenou miniaturu; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byly město a hrad Blamont Bernskými a dalšími úplně rozbořeny, rozbity a také vypáleny",
+ "poznamky_prekladu": [
+  "„So wurden wart ouch das gros gůt“ – písař zřejmě přepsal; čteno „So wart ouch“.",
+  "„knöpfen“ = makovice (zlacené koule) na věžích; šestnáct jich odvezli Štrasburští (srov. 7. sloku písně v kap. 216)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,38 @@
+{
+ "cislo": 112,
+ "nadpis": "Das man dis sachen vnd gevangnüss des hagenbachs dem fürsten von österrich verkünd",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 229,
+ "strany": [
+  229,
+  230,
+  231
+ ],
+ "odstavce": [
+  {
+   "text": "Von stund an / als das die obern Stett am Rine vnd ander vernamen / verkünten si das dem fürsten von österrich der dann dazemal bi gemeiner eidgno[ssen] / vnd ander fürsten herrenn vnd Stetten botten zů Costentz was / sich harinne des fürsten willen ze erkennen / vnd als si vernamen / das die richtung beslossen / vnd ouch der pfand Schilling die achtzig tusent guldin gen Basel geleit was vnd si damit der Burgunschen pflichten vnd eiden ledig warent / vnd verstůnden das inen die eidgno[ssen] in diser sach rucken halten wolten / Da gewunnen erst die von Brisach vnd ander Stette / vnd gemeinden / Edel vnd vnedel ein hertz zůr sach vnd angendes leitent si den hagenbach in einen turn / vnd bekanten damit hertzog Sigmunden mit eiden vnd anderm / für iren rechten herren / vnd kam damit land vnd lüte us gewalt der walchen wider zů des fürsten handen / des sich on allen zwivel der fürst nit vnderstande[n] wo er nit wol gewist hette / das semlichs der eidgnossen gevallen gewesen were / vnd si im ouch darzů hetten geholfen / das si ouch trostlich tatent Was ouch die armen verpfanten lüte / Edel vnd ander von diser erlösunge / vnd das si durch hilf der eidgno[ssen] us der welschen gewalt wider zů irem natürlichen herrenn komen waren / grosser fröuden vnd trostes enpfiengen / davon were vngezwivelt vil zů schriben / dann man von des ewigen friden / vnd sunderlich von hagenbachs gefangnüss wegen / in allen anstossenden landen vnd ouch allenthalben in eidgno[ssen] fröud lüt / vnd on allen zwivel das kind in můter libe sich fröut vnd ward ouch der almechtig gotte von yederma[n] darumb als wol billichen was / geeret mit andern loblichen dingen / das ich alles bliben lass wann das yederman dem almechtigen gott von hertzen dancken vnd im darumb loben sol / der ouch dis durch sin götlich gnade gefügt / vnd zů trost vnd selden dem heiligen rich vnd gemeiner tütschen nation disen heilsamen knopf geflochten hatt / der sich ob got wil niemer mer von einandern tůt",
+   "preklad": "Jakmile se to horní města na Rýně a jiní dozvěděli, oznámili to knížeti Rakouskému, který tehdy byl v Kostnici u poslů všech Spříseženců a jiných knížat, pánů a měst, aby se v té věci dozvěděli knížecí vůli. A když se dozvěděli, že narovnání bylo uzavřeno a že také zástavní suma, osmdesát tisíc zlatých, byla složena v Basileji, a tím byli zproštěni burgundských povinností a přísah, a pochopili, že jim Spříseženci v této věci chtějí krýt záda, teprve tehdy dodali ti z Breisachu a jiná města a obce, urození i neurození, té věci srdce. Ihned dali Hagenbacha do věže a uznali tím vévodu Zikmunda přísahami i jinak za svého pravého pána. Tak se země a lid dostaly z moci Vlachů zpět do knížecích rukou. Do toho by se kníže bez vší pochyby nepustil, kdyby dobře nevěděl, že je to Spřísežencům po vůli a že mu k tomu také pomohli, což také povzbudivě učinili. Jakou velkou radost a útěchu přijali také ubozí zastavení lidé, urození i jiní, z tohoto vykoupení a z toho, že se s pomocí Spříseženců dostali z vlašské moci zpět ke svému přirozenému pánu, o tom by se nepochybně dalo mnoho psát. Neboť kvůli věčnému míru a zvláště kvůli Hagenbachovu zajetí se ve všech sousedních zemích i všude u Spříseženců zvonilo na radost a bez vší pochyby se radovalo i dítě v životě matčině. A všemohoucí Bůh byl za to od každého, jak se slušelo, uctěn i jinými chvályhodnými věcmi. To vše nechávám být, neboť každý má všemohoucímu Bohu ze srdce děkovat a chválit ho za to, že to svou božskou milostí takto zařídil a k útěše a blahu Svaté říše a celého německého národa spletl tento spásný uzel, který se, dá-li Bůh, už nikdy nerozváže."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 230,
+   "text": "230 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám; dole volné místo"
+  },
+  {
+   "strana": 231,
+   "text": "231 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo, dole kadela"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byly tyto věci a Hagenbachovo zajetí oznámeny knížeti Rakouskému",
+ "poznamky_prekladu": [
+  "„der fürst von österrich“ = vévoda Zikmund Tyrolský (Habsburský); v Kostnici se jednalo o Věčné narovnání a Dolní spolek, jaro 1474 (mimo přepis).",
+  "„richtung“ = narovnání (Věčné narovnání mezi Rakouskem a Spříseženci). „der pfand Schilling“ = zástavní suma za Horní Alsasko a Breisgau zastavené Karlu Smělému r. 1469; částka 80 000 zlatých ponechána podle textu.",
+  "„obern Stett am Rine“ = horní (hornorýnská) města, tj. spojenci Dolního spolku (Basilej, Štrasburk, Colmar, Sélestat) (mimo přepis).",
+  "Petr von Hagenbach, burgundský zemský fojt, byl zatčen v Breisachu o Velikonocích 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

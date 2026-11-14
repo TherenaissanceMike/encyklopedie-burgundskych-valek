@@ -1,0 +1,35 @@
+{
+ "cislo": 43,
+ "nadpis": "Das die Edlenn zů Bernn von mannen vnd frowen an disen dingen / dem vorteil / kein benügen haben / vnd das nit halten wolten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 81,
+ "strany": [
+  81,
+  82
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů semlicher vorteil am Cantzel gelesen / vnd den Edlenn frowen vorbehalten wart in worten als ob statt / da hatten der adel von mannen vnd frowen kein benügen an / vnd meinten si weren dabi vnd mitt nit gewesen / vnd hetten ouch das nit gelobt noch gesworen / vnd satzten sich etwas darwider / Vnd meinten nit / das man inen semlichs verbieten / noch kein Satzung noch ordnung über si machen möcht / Sunder solt man inen vor anderen einen vorteil lassen / Als dann das in aller welt recht / vnd ouch dem adel / zů geeignet were / Vnd meinten ir wiber vnd töchtern konden sich mit keinen anderen dingen vs zeichen / noch bekantlich machen / dann mit den langen Swentzen an iren kleidern / Den anderen vorteil mit Gold vnd anderen dingen / den man inen hette geben / der wurde von gemeinen frowen ouch gebrucht / Vnd wart gar grosser mergklicher vnwille von inen gesechen / So verr das ein gemein geschrey allenthalben in eidgno[ssen] vnd an anderen enden gebrucht / vnd offenlichen gerett wart / Es weren vneinikeiten vnd gros parthien / zwüschen dem adel vnd der gemeinde von Bernn / Das von gottes genaden nit was / vnd wurden vil wunderlicher vnd seltzner worten gebrucht von einem vnd dem anderen / die ich vmb der kürtze vnd sunderlich vmb fridens vnd rüwen willen vnder wegen lass",
+   "preklad": "Když pak bylo takové zvýhodnění přečteno z kazatelny a urozeným paním vyhrazeno slovy, jak stojí výše, nebyla s tím šlechta, muži i ženy, spokojena. Tvrdili, že při tom nebyli a nepodíleli se na tom, že to také neslíbili ani nepřísahali, a poněkud se tomu vzpírali. Nemínili, že by jim někdo mohl něco takového zakazovat nebo nad nimi činit nějaké nařízení či řád; spíše jim prý mělo být ponecháno zvýhodnění před ostatními, jak to po celém světě náleží právem a jak to šlechtě přísluší. Tvrdili také, že jejich manželky a dcery se nemohou ničím jiným vyznačit a dát se poznat než dlouhými vlečkami na svých šatech; druhé zvýhodnění se zlatem a jinými věcmi, které jim bylo dáno, prý užívají i obyčejné ženy. A byla u nich vidět velmi veliká a zjevná nevole, takže se všude mezi Spříseženci i jinde rozšířila obecná pověst a veřejně se říkalo, že mezi šlechtou a obcí v Bernu jsou nesváry a velké strany. Tak tomu z Boží milosti nebylo. Jeden i druhý užívali mnoho podivných a neobvyklých slov, která pro stručnost a zvláště pro mír a klid vynechávám."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 82,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 82,
+   "text": "82 X (pozdější foliace, levý horní roh); stránka bez obrázku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak urození v Bernu, muži i ženy, nebyli s těmito věcmi, totiž se zvýhodněním, spokojeni a nechtěli je dodržovat",
+ "poznamky_prekladu": [
+  "„gemeinde“ = obec (měšťané a prostý lid) na rozdíl od šlechty."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

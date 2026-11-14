@@ -1,0 +1,41 @@
+{
+ "cislo": 39,
+ "nadpis": "Wann das heilig Sacrament leider vs dem münster zů Bernn verstolen vnd dieplichen genomen wart",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 77,
+ "strany": [
+  77,
+  78
+ ],
+ "odstavce": [
+  {
+   "text": "Do man zalt von der geburt vnnsers herrenn Tusent vierhundert / Sechtzig vnd fünff Jare / wart leider das heilig wirdig Sacrament mit einer kostlichen silberin monstrantzen vs dem münster verstolen vnd hinweg getragen / vnd beschach das in einer nacht Vnd da man morndes in die kilchen kam / vnd den mergklichen verlust sach / da erschrack menglich von gantzem hertze[n] als nit vnbillich was / Vnd wurden etlich personen geistlich vnd weltlich darumb gevangen / vnd in mengen weg ersůcht / vnd mocht man doch vff keinen rechten grund komen / Die von Bernn schriben ouch in tütsch vnd welsche lande / vnd schickten mengen botten vs / des si gar grossen costen hatten / vnd konde man das mindert erfaren / bis lang darnach vernam man / das es durch einen priester der dann gestorben verstolen was / der selb hatt das an dem tott bette verieechen[?] / Das wart den räten von Bernn in geheimd durch etlich from priester geseit / Vnd beschach das darumb das ander from lüte / die man damit verlümdet vnd in argwon hatt / zů friden kemen / dz gar wol getan / vnd gein got dem almechtigen nit sünde was",
+   "preklad": "Když se psalo od narození našeho Pána tisíc čtyři sta šedesát pět let, byla bohužel svatá a důstojná svátost spolu s drahocennou stříbrnou monstrancí z minsteru ukradena a odnesena; a stalo se to v noci. A když se nazítří přišlo do kostela a byla vidět ta velká ztráta, zděsil se každý z celého srdce, jak nebylo nic nepatřičného. A bylo kvůli tomu zatčeno několik osob duchovních i světských a vyšetřováno mnoha způsoby, a přece se nemohlo přijít na pravou příčinu. Bernští také psali do německých i vlašských zemí a vyslali mnoho poslů, s čímž měli velké náklady, a nedalo se zjistit ani to nejmenší, až se dlouho potom zvědělo, že ji ukradl jeden kněz, který mezitím zemřel; ten se z toho vyznal na smrtelné posteli. To bylo bernským radním tajně sděleno několika poctivými kněžími. A stalo se to proto, aby jiní poctiví lidé, kteří tím byli pomlouváni a byli v podezření, došli pokoje; což bylo velmi dobře učiněno a před všemohoucím Bohem to nebyl hřích."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 78,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 77,
+   "text": "1465 (pozdější ruka, pravý okraj)"
+  },
+  {
+   "strana": 78,
+   "text": "78 X (pozdější foliace, levý horní roh); text psán přes slabé rámečky podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Kdy byla bohužel z bernského minsteru ukradena a zlodějsky odnesena svatá svátost",
+ "poznamky_prekladu": [
+  "Münster = bernský minster (farní kostel sv. Vincence) (mimo přepis).",
+  "„verieechen[?]“ – čtení nejisté; smysl „vyznal se“ (verjehen).",
+  "Na okraji pozdější rukou letopočet 1465."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

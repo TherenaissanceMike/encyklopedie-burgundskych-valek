@@ -1,0 +1,35 @@
+{
+ "cislo": 137,
+ "nadpis": "Das die andern herrenn vnd Stett / darzů ouch die andern eidgno[ssen] von Stetten vnd lendern ouch für die Statt Ericurt kamen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 279,
+ "strany": [
+  279,
+  280
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also morndes kament die andern herren vnd Stette mit irem grossen züge / vnd brachten mit inen die andern eidgno[ssen] von Stetten vnd lendern / die gar ein mechtig volck hatte[n] usgenomen die von Vnderwalden kamend nit dar als davor stat / so waren ouch die herschaft lüt vnd die andern Stette ouch mit einem grossen volck dar komen / vnd slügent die selben alle ein leger ze samen vff der andern siten / vnd alle büchsen gros vnd klein wurden balde für die Statt geleit / vnd daruss gar mergklich gewerket / das doch wenig verfing / dann die muren am Sloss us der massen starck waren / vn[d] wurden ouch die büchsen meister gantz vnwillig das nachmalen vil biderben lüten bedunken / das die büchsen nit me verfencklichen wercken wolten",
+   "preklad": "A tak nazítří přišli ostatní páni a města se svým velkým trénem a přivedli s sebou ostatní Spřísežence z měst a zemí, kteří měli velmi mocný lid; jen Unterwaldenští tam nepřišli, jak stojí výše. Také lidé [rakouského] panství a ostatní města tam přišli s velkým lidem a všichni rozbili společné ležení na druhé straně. Všechna děla, velká i malá, byla brzy postavena před město a velmi se z nich pracovalo, což však málo pomáhalo, neboť zdi hradu byly nesmírně silné. Také puškaři (mistři dělostřelby) byli velmi nevolní, takže se pak mnoha poctivým lidem zdálo, že děla nechtěla pracovat účinněji."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 279,
+   "popis": "celostránková dokončená kolorovaná miniatura – příchod dalších spojenců k Héricourtu: vpravo nahoře opevněné město Héricourt s branou a ohradou s pavézami/dřevěnými štíty, za ní ležení se stany a korouhvemi (bernský medvěd, pruhované, šachovnicové, černá); vlevo dlouhý zástup pěšáků s píkami, halapartnami a bílými kříži na prsou, trubač, vozová hradba s koňmi a korouhev s volskou hlavou s kruhem v nose (Uri); basilejská berla na štítu vozu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 280,
+   "text": "280 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám s nedokončenou podkresbou (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak ostatní páni a města a k tomu i ostatní Spříseženci z měst a zemí také přišli před město Héricourt",
+ "poznamky_prekladu": [
+  "Schilling naznačuje, že puškaři (najatí dělostřelci spojenců) nestříleli s plným nasazením; „vnwillig“ = nevolní, nespokojení."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

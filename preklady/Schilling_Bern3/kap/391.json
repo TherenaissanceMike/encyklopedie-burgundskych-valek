@@ -1,0 +1,61 @@
+{
+ "cislo": 391,
+ "nadpis": "Das die von Bernn tusent gewapnet manne us schicktent die von Nuwenburg vnd Erlach vor dem torechtigen leben zů beschirmen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 886,
+ "strany": [
+  886,
+  887,
+  888,
+  889
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als dennocht die selben lüte zů friburg warent / da wurden gar vil seltzner wort von inen gebrucht / Si wolten über der von Bernn lüte / vnd sunders über den Marggrafen von Rötteln dero von Bernn burger ziechen / vnd den win am Sew vs trincken / Semlich vnuernunftige[?] wort / dero von Bernn botten die zů friburg warent wol hatten vernomen / vnd retten mit inen / Sy hetten verstanden das si etwas tröw worten bruchten wider etlich der von Bernn burger oder verwanten dienende / vnd das si darum bescheidenlich teten vnd über nieman zugen / dann ob dz darüber von inen beschech / So möcht man doch eren halb nit absin man mûst vnd mûst darzů tůn / vnd brachten semlichs gen Bernn",
+   "preklad": "A když ti lidé byli ještě ve Fribourgu, padalo od nich velmi mnoho podivných slov: Chtějí prý táhnout na lidi Bernských, a zvláště na markraběte z Rötteln, bernského měšťana, a vypít víno u jezera. Taková nerozumná [?] slova dobře uslyšeli bernští poslové, kteří byli ve Fribourgu, a promluvili s nimi: Doslechli se prý, že užívají nějakých výhrůžek proti některým bernským měšťanům nebo spojencům a služebníkům; ať se tedy chovají rozumně a na nikoho netáhnou. Neboť kdyby se to od nich přesto stalo, nemohlo by se to kvůli cti nechat být, a muselo by se proti tomu zakročit. A to [poslové] donesli do Bernu."
+  },
+  {
+   "text": "Darzů kam ouch der Marggraf in eigner persone gen Bernn / dem ouch warnung komen was / wie man in überfallen wolt / Vnd bat vnd mant die vo[n] Bernn / das man inn mit semlichem fürnemen nach inhalt des ewigen geswornen burgrechten schirmen vnd hanthaben wolt / das ouch beschach / Vnd wurden von stund an von räten vnd burgern tusent gewapneter mannen mit einem houptman us gezogen / vnd gen Nuwenburg vnd Erlach geordnet / ob yemant dero von Bernn burger oder gewanten vnd sinen[?] wolt schaden ze tůn / das si dann semlichs werkomen vnd mit der hand darzů tůn soltent",
+   "preklad": "K tomu přišel do Bernu také markrabě osobně, k němuž také došlo varování, že ho chtějí přepadnout. A prosil a vyzýval Bernské, aby ho proti takovému záměru podle znění věčného přísežného měšťanského práva (burgrecht) chránili a zastali, což se také stalo. A rada a měšťané ihned vypravili tisíc ozbrojených mužů s hejtmanem a určili je do Neuchâtelu a Erlachu, aby, kdyby někdo chtěl škodit bernským měšťanům nebo spojencům a jeho [?] lidem, tomu zabránili a zakročili proti tomu rukou."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 887,
+   "popis": "z bran města se znakem Bernu (medvěd) vychází po dřevěném mostě přes řeku zástup ozbrojenců s píkami, bubeníkem a pištcem pod korouhví s křížem (bernská válečná korouhev se svatým křížem a nápisem na pruhu); vpravo skalnatý svah, vpředu voda"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 887,
+   "text": "887 X (pozdější foliace, pravý horní roh); celostránkový obraz (k rubrice na s886), dole odstavec s iniciálou V"
+  },
+  {
+   "strana": 888,
+   "text": "888 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, odstavec s iniciálou D, pod ním ozdobná výplňová čára"
+  },
+  {
+   "strana": 889,
+   "text": "889 X (pozdější foliace, pravý horní roh); nahoře rubrika s iniciálou D, pod ní celostránkový obraz, dole odstavec s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 887,
+   "text": "markrabě z Rötteln (Filip Hachberský), pán Neuchâtelu a bernský měšťan; „den win am Sew vs trincken“ = vypít víno u (Neuchâtelského/Bielského) jezera; konec řádku „vnuernunftige“ nejistý"
+  },
+  {
+   "strana": 888,
+   "text": "„man mûst vnd mûst“ – zdvojení snad písařská chyba; „sinen[?]“ nejisté (snad „stum[?]“); „werkomen“ = vorkommen, zabránit"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští vyslali tisíc ozbrojených mužů, aby chránili Neuchâtel a Erlach před Bláznivým životem",
+ "poznamky_prekladu": [
+  "Markrabě z Rötteln = Filip Hachberský (Philipp von Hochberg), pán Neuchâtelu, bernský měšťan (mimo přepis).",
+  "„den win am Sew vs trincken“ – vypít víno u (Neuchâtelského / Bielského) jezera, tj. vyplenit vinařské oblasti.",
+  "„vnuernunftige[?]“ a „sinen[?]“ – čtení nejistá; „man mûst vnd mûst“ – zdvojení, snad písařská chyba (přeloženo jednou).",
+  "„räten vnd burgern“ = bernská Malá a Velká rada."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 261,
+ "nadpis": "Das der eidgno[ssen] knecht gar menig mal in Burgunn zugen vnd inen gar merglichen schaden vnd abbruch tatent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 570,
+ "strany": [
+  570,
+  571,
+  572
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also wider zů komen / vff den rechten grund der vorgenanten kriegen / mit dem hertzogen von Burgunn / ouch den von Bernn / iren eidgno[ssen] vnd verwanten der selbe krieg nützit destminder offen stůnd / Vnd schedigten beid teile einandern wo si möchtent vnd sunderlich der eidgno[ssen] knechte / die gar dick in Burgunn zugen / vnd si an irem libe vnd gůt angriffen / vnd grossen abbruch vnd schaden taten an irem vechte[?] vnd andern dingen / dann der hertzog von Burgunn dennocht mit allem sinem züge vnd gantzer macht in Lothringen vor der Statt Nansse lag / die er darnach ouch balde gewann / Darumbe gar vil fromer lüten von Rittern vnd knechten / vnd ouch ander ware[n] vom Suntkow / Brißgow vnd ouch andern enden har / denen man gern geholfen / vnd wie man vermögen erlöset hette / vnd ward darum[b] von denen von Bernn vnd andern eidgnossen vnd verwanten mengerley betrachtet / vnd tag geleistet zů Basel / Lutzern vnd andern enden wie man die ding fürnemen vnd handlen wolt",
+   "preklad": "A abychom se vrátili k pravému základu zmíněných válek s vévodou Burgundským: i mezi ním a Bernskými, jejich Spříseženci a spojenci zůstávala tatáž válka nicméně otevřená. Obě strany si škodily, kde mohly, a zvláště knechti Spříseženců, kteří velmi často táhli do Burgundska, napadali [nepřátele] na životě i statku a způsobovali velkou újmu a škodu na jejich dobytku [?] a jiných věcech. Vévoda Burgundský totiž tehdy ležel se vší svou výzbrojí a celou mocí v Lotrinsku před městem Nancy, kterého pak také brzy dobyl. Proto [tam] bylo velmi mnoho statečných lidí, rytířů i panošů, a také jiní ze Sundgau, Breisgau a odjinud, kterým by se rádo pomohlo a podle možností je vysvobodilo. Bernští, ostatní Spříseženci a spojenci o tom proto všelijak uvažovali a konaly se sněmy v Basileji, Luzernu a jinde o tom, jak se ty věci mají podniknout a řešit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 571,
+   "popis": "kolorovaná kresba – švýcarští žoldnéři s bílými kříži zapalují pochodněmi domy a kostel v burgundské vsi, vpředu boj s místními (muž s mečem, zabitý muž s vousem leží na zemi, další zápasí s píkami); vpravo pikenýři za keři, v pozadí kopce s hradem a jezero s lodí"
+  },
+  {
+   "strana": 572,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 571,
+   "text": "571 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 572,
+   "text": "572 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu, v ní rubrika; dole text s iniciálou I"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak knechti Spříseženců velmi mnohokrát táhli do Burgundska a způsobili tam velmi značnou škodu a újmu",
+ "poznamky_prekladu": [
+  "„vechte[?]“ – snad „vech, vihe“ = dobytek; nejisté čtení.",
+  "Karel Smělý dobyl Nancy 30. listopadu 1475 (mimo přepis). Věta o lidech ze Sundgau a Breisgau je v rukopisu eliptická – zřejmě jde o posádku obleženého Nancy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

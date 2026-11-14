@@ -14,7 +14,7 @@
  "odstavce": [
   {
    "text": "Wie der küng von Frankrich herzog Sygmund nit hilflich sin wolt wider die Eydgnossen und wie er zum herzogen von Bürgün reit und dem sin land versatzte.",
-   "preklad": "14. Jak král francouzský nechtěl vévodovi Zikmundovi pomoci proti konfederátům a jak [Zikmund] jel k vévodovi burgundskému a zastavil mu svou zemi."
+   "preklad": "14. Jak král francouzský nechtěl vévodovi Zikmundovi pomoci proti Spřísežencům a jak [Zikmund] jel k vévodovi burgundskému a zastavil mu svou zemi."
   }
  ],
  "poznamky_editora": [],
@@ -24,5 +24,6 @@
   "Zástava Předních zemí Karlu Smělému: smlouva ze Saint-Omer, 1469 (mimo Büchi)."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Büchiho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

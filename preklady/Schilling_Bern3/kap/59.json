@@ -1,0 +1,31 @@
+{
+ "cislo": 59,
+ "nadpis": "Das sich der küng des wider die eidgnossen nit an nemen wolt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 136,
+ "strany": [
+  136,
+  137
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü der küng dis werbung vnd clage des vorgenanten fürsten horte / vnd er durch etlich personen der eidgno[ssen] gůt gönner / die dann an dem küngklichen hofe warent / der eidgnossen glimpfes vnd der rechten warheit vnderricht ward Vnd dabi betrachtet / das er vorhin mit den eidgno[ssen] in einer ewigen vnd verschribner verstentnüss ouch was / im sin[er] eren vnd der eidgno[ssen] halb / wo die wider inn sin solten / an den dingen gelegen / was wolt er sich des fürsten von österrich wider die eidgnossen nit an nemen / dann das er es inen kundtet / vnd dem fürsten gantz abslůg / Vnd ward dennocht als vil durch sin maiestat / etlicher nachvolgender sach halb angenomen / vnd der fürst im dienstlichen verpflicht / das der küng die wile er lebt / für ein Jerlich pension / im zechen tusent Francken verschreip / als man das harnach bas hören wirt",
+   "preklad": "Když tedy král vyslechl toto poselství a stížnost zmíněného knížete a byl některými osobami, příznivci Spříseženců, kteří byli tehdy na královském dvoře, poučen o oprávněnosti Spříseženců a o pravé pravdě, a zároveň uvážil, že je již předtím se Spříseženci ve věčné a písemně stvrzené dohodě a že na těch věcech závisí jeho čest i čest Spříseženců, kdyby měli být proti němu, nechtěl se ujmout knížete Rakouského proti Spřísežencům. Naopak jim to oznámil a knížeti to zcela odmítl. Přesto bylo jeho Veličenstvem kvůli některým věcem, o nichž se bude mluvit dále, přijato toto: kníže se mu zavázal ke službě a král mu zapsal, dokud bude živ, roční penzi deset tisíc franků, jak se o tom dále lépe uslyší."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 137,
+   "text": "137 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že se král nechtěl ujmout té věci proti Spřísežencům",
+ "poznamky_prekladu": [
+  "Věčná dohoda (ewige verstentnüss) Ludvíka XI. se Spříseženci – smlouva z Abbeville 1463 / Saint-Maurice 1470 (mimo přepis).",
+  "Penze 10 000 franků ročně – Schilling; číslo ponecháno podle textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

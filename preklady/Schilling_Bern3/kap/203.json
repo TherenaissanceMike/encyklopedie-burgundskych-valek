@@ -1,0 +1,50 @@
+{
+ "cislo": 203,
+ "nadpis": "Das man mit den grossen büchsen an der Statt vnd Sloß Blomont aber anfing vast arbeiten vnd wercken",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 430,
+ "strany": [
+  430,
+  431,
+  432
+ ],
+ "odstavce": [
+  {
+   "text": "Als nů die von Straßburg ir gros büchsen den Steus[?] wider geleit hatten hinden zů an die Statt Blomont / Da vingen si an wercken / vnd müsten gar wit von einem holtz harab über einen witen graben in die Stat schiesse[n] das gar wol half / vnd denen in der Statt grossen schrecken bracht / dann in kurtzen tagen darnach da begerten etlich us der Statt Blomont mit den houptlüten von Bernn vnd andern zů reden des wart man fro / vnd wurden lüte darzů geordnet zů hören / was man an si bringen oder sůchen wolt / Also rettent si / ir herr von Blomont der by inen in der Statt gewesen / der were von dem presten der pestelentzen gestorben / des glichen ander ouch / vnd legent noch gar vil lüten des selben prestens / davon si erschrocken vnd vnwillig worden weren / vnd sunderlich die Lamparter die darinne waren / vnd semlichen presten gar übel vorchten / Vnd wie wol si ein gůt Statt vnd Slos hetten / vnd das noch langezit getrüwten vor yederman zů behalten / wolt man si dann mit ir habe dannen lassen ziechen / vnd ouch die lüte in der Statt bi dem iren bliben lassen / So wolten si inen die Statt vnd Slos über geben / Dann si doch wol marckten / das si von iren herren vnd obern verlassen weren / vnd kein entschüttung hette[n]",
+   "preklad": "Když tedy Štrasburští znovu postavili své velké dělo Strauss [?] na zadní stranu města Blamontu, začali pracovat. Museli střílet velmi zdaleka, z jednoho lesa dolů přes široký příkop do města. To velmi pomohlo a těm ve městě to přineslo velký strach. Neboť za několik málo dní nato žádali někteří z města Blamontu o rozhovor s hejtmany z Bernu a dalšími. To lidi potěšilo a byli určeni lidé, kteří měli vyslechnout, s čím za nimi chtějí přijít nebo co chtějí žádat. Řekli tedy, že jejich pán z Blamontu, který byl s nimi ve městě, zemřel na mor, a stejně tak jiní, a velmi mnoho lidí na tutéž nemoc ještě leží. Proto se zalekli a ztratili chuť, a zvláště Lombarďané, kteří tam byli a té nemoci se velmi báli. A ačkoli mají dobré město i hrad a věří, že by je proti komukoli ještě dlouho udrželi, kdyby je nechali odtáhnout s jejich majetkem a lidem ve městě nechali, co jim patří, chtějí jim město a hrad vydat. Neboť dobře poznali, že je jejich páni a představení opustili a nemají žádné vysvobození."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 431,
+   "popis": "dokončená kolorovaná miniatura – ostřelování Blamontu: velké dělo na kolové lafetě střílí na hradby města, vlevo stany se znaky (Štrasburk, Basilej), pikenýři s bílými kříži a prapor s křížem; vpravo dole sedící zraněný; v pozadí město s kostelem, hory a prapory"
+  },
+  {
+   "strana": 432,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (dělo na lafetě, prapor, stany se znakem), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 431,
+   "text": "431 X (pozdější foliace, pravý horní roh, zakryto rámem); miniatura přes většinu strany, dole text s iniciálou A"
+  },
+  {
+   "strana": 432,
+   "text": "432 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (dělo, prapor, stany se znakem); dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 430,
+   "text": "Porrentrut = Porrentruy (sídlo basilejského biskupa); Mikuláš z Diesbachu zemřel na mor 7. 8. 1475"
+  }
+ ],
+ "nadpis_preklad": "Jak se velkými děly začalo znovu usilovně pracovat proti městu a hradu Blamontu",
+ "poznamky_prekladu": [
+  "„den Steus[?]“ – patrně jméno děla „Strauss“ (srov. v písni kap. 216 „der Streuß tet mengen schalle“); čtení nejisté.",
+  "„ir herr von Blomont“ – pán Blamontu (jméno v textu neuvedeno)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

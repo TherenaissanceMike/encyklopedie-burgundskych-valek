@@ -1,0 +1,36 @@
+{
+ "cislo": 161,
+ "nadpis": "Das aber etlich knecht von Bernn vn[d] Sollotern einen grossen roup namen / vnd darzů etlich Bickarten erstachen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 337,
+ "strany": [
+  337,
+  338
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach in der palm wuchen des vorgenanten Jares / machten sich etlich knecht von Bernn vnd von Sollotern / der nit vil was / zů samen / vnd zugen für Nüwenburg hin in / vnd mit namen bis für den Turn[?] / den si ouch in namen / vnd mit gewalt innhatten vnd namend da ouch ein grossen roup ob Siben hundert houpten gehürnts vechs / darzů vil Schaff vnd anders / vnd kamen etlich Burgunner vnd Bickarten an si / Scharmützten miteinandern vnd wolten inen den roup wider nemen / also gewunnen si inen die flucht an / vnd erstachen nün pickarten / vnd brachten den roup mit inen us dem lande / vnd beschach inen von gottes gnaden nit",
+   "preklad": "Potom v Květném týdnu zmíněného roku se sešli někteří knechti z Bernu a ze Solothurnu, jichž nebylo mnoho, a táhli kolem Neuchâtelu dovnitř [země], a to až k Turn [?], který také obsadili a mocí drželi. A vzali tam také velkou kořist, přes sedm set kusů rohatého dobytka, k tomu mnoho ovcí a jiné. Tu na ně přišli někteří Burgunďané a Pikarďané, svedli spolu šarvátku a chtěli jim kořist zase vzít. [Knechti] je však zahnali na útěk, pobili devět Pikarďanů a přivedli kořist s sebou ze země, a z Boží milosti se jim nic nestalo."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 337,
+   "popis": "velká dokončená kolorovaná miniatura – srážka s pikardskými jezdci: v pozadí hrad a skály; spříseženští pěšáci s halapartnami a bílými kříži ženou stádo krav; v popředí boj – pikardští jezdci s ondřejskými kříži (X) jsou sráženi z koní, pěšák probodává ležícího obrněnce píkou, padlí na zemi, rozbitá pavéza a meče"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 338,
+   "text": "338 X (pozdější foliace, levý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek); rubrika dole psána přes podkresbu"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak znovu někteří knechti z Bernu a Solothurnu vzali velkou kořist a k tomu pobili několik Pikarďanů",
+ "poznamky_prekladu": [
+  "Květný týden 1475 = 19.–25. března 1475 (juliánský kalendář).",
+  "„Nüwenburg“ = Neuenburg/Neuchâtel (určení mimo přepis). „den Turn[?]“ – nejisté čtení i určení (věž, tvrz?); ponecháno [?], ověřit v rukopisu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

@@ -1,0 +1,35 @@
+{
+ "cislo": 195,
+ "nadpis": "Das man fürer in Burgunn wolt ziechen / als man harnach vindet",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 416,
+ "strany": [
+  416,
+  417
+ ],
+ "odstavce": [
+  {
+   "text": "Als man nů Grangis vnd ander Stett vnd Sloß gewunnen vnd erobert hat / da warend die von Straßburg vnd ander eynungs herren vnd Stette / des willens vnd der meynunge / fürer in Burgunn zů ziechen / vnd sunders für ein Statt vnd Slos genant Clerua[?] / vnd da dannen von einem an das ander / damit si iren sachen vnd dem kriege ein erlich ende geben Darzů gaben die von Bernn vnd ander ir mitgewanten iren gůten willen / vnd retten / si werend denen von Straßburg iren aller liebsten frunden vn[d] getrüwen puntgno[ssen] zů sundern eren vnd liebe usgezogen / vnd wolten ouch bi inen bliben / vnd mit inen sterben vnd genesen / des inen von den houptlüten von Straßburg / herrn Petern Schotten vnd andern gar hertzlichen gedancket wart",
+   "preklad": "Když tedy byly Granges a jiná města a hrady dobyty a vybojovány, měli Štrasburští a jiní páni a města spolku vůli a úmysl táhnout dál do Burgundska, a zvláště před město a hrad jménem Clerval [?], a odtud od jednoho k druhému, aby svým věcem a válce dali čestný konec. K tomu dali Bernští a ostatní jejich spojenci svůj dobrý souhlas a řekli, že vytáhli zvláště ke cti a z lásky ke Štrasburským, svým nejmilejším přátelům a věrným spojencům, a že chtějí u nich zůstat a s nimi zemřít i přežít. Za to jim štrasburští hejtmani, pan Peter Schott a jiní, velmi srdečně poděkovali."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 417,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (město, prapor), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 417,
+   "text": "417 X (pozdější foliace, pravý horní roh); text s ozdobnou iniciálou A psán přes šedě podloženou nedokončenou miniaturu (město, prapor); dole rubrika (nedokončená, konec slova uříznut)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se chtělo táhnout dál do Burgundska, jak se dále najde",
+ "poznamky_prekladu": [
+  "„Clerua[?]“ – snad Clerval (Doubs), čtení nejisté."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

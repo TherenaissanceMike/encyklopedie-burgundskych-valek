@@ -30,7 +30,7 @@
   }
  ],
  "poznamky": [
-  "Tobler: 6. 4. 1483 Bern žádal lausannského biskupa, aby kvůli umírání nesvolával kněze na synodu; 5. 9. 1483 se obávali, že konfederáti kvůli umírání nepřijedou na sněm do Bernu. Ještě o Velikonocích 1484 vládla „malatzy“ a Bern prosil hraběte Eberharda Württemberského o lékaře Thomase Russe kvůli nemoci některých radních, zvláště Thüringa Frickera.",
+  "Tobler: 6. 4. 1483 Bern žádal lausannského biskupa, aby kvůli umírání nesvolával kněze na synodu; 5. 9. 1483 se obávali, že Spříseženci kvůli umírání nepřijedou na sněm do Bernu. Ještě o Velikonocích 1484 vládla „malatzy“ a Bern prosil hraběte Eberharda Württemberského o lékaře Thomase Russe kvůli nemoci některých radních, zvláště Thüringa Frickera.",
   "Drahá léta po smrti Karla Smělého (1477): viz kap. 400 (Tobler).",
   "Svatý Michal = 29. 9. Tobler: 1 libra = 20 šilinků, 1 šilink = 12 feniků; fenik odhaduje na něco přes 8 rappů, šilink asi na 1 frank, libru na 20 franků (stav kolem 1900).",
   "Som = sumek, nákladová míra vína (náklad soumara); mass = míra (žejdlík). Fünfer = mince za 5 feniků; plaphart (Plappart) = drobná stříbrná mince (určení mincí mimo Tobler).",
@@ -41,5 +41,6 @@
   "Oprava OCR: „vieroder“ → „vier- oder“, „srundlosen“ → „grundlosen“, odstraněna mezera před středníkem."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

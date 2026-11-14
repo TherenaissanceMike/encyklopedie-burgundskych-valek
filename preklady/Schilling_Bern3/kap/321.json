@@ -1,0 +1,50 @@
+{
+ "cislo": 321,
+ "nadpis": "Das der hertzog von Burgunn von sinem leger zů Losann schied / vnd mit allem sinem züge vnd gantzen machten gegen Murten zoch",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 725,
+ "strany": [
+  725,
+  726,
+  727
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also an einem Samstag vor der heiligen drivaltikeit des vorgenanten Jares / Schied der hertzog von Burgunn mit vnsaglicher grosser macht vnd allem sinem züge / von büchsen bulver vnd andern dingen us sinem leger vnd wagenburg zů Losann / gegen der Statt Murten zů / vnd ruckt sin vorhůt ein teil bis gen Wiblisperg vnd in die selben gegne ze ring vmb / vnd triben grosse[n] mütwillen vnd hochvart / vnd meinten es solt alles nach irem willen gan / der hertzog bleip aber personlich zů Betterlingen",
+   "preklad": "A tak v sobotu před svatou Trojicí výše uvedeného roku vytáhl vévoda Burgundský s nevýslovně velkou mocí a vší svou výzbrojí, děly, prachem a jinými věcmi ze svého ležení a vozové hradby u Lausanne k městu Murten. Část jeho předvoje postoupila až k Avenches a do tamější krajiny kolem dokola. Prováděli velkou svévoli a pýchu a mysleli si, že všechno půjde podle jejich vůle. Vévoda sám však zůstal v Payerne."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 726,
+   "popis": "kolorovaná kresba – Karel Smělý táhne z Lausanne k Moratu: vlevo burgundská pěchota pod prapory (sv. Ondřej, ondřejské kříže, ocílky), uprostřed skála a keře, vpravo zástup obrněných jezdců s péry na přilbách, kůň s čabrakou se lví hlavou (vévoda), prapory s ondřejskými kříži, s ocílkami a monogramem; vpravo nahoře město s věžemi a štítem s křížem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 726,
+   "text": "726 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 727,
+   "text": "727 X (pozdější foliace, pravý horní roh); nahoře 5 řádků textu, rubrika, pod ní kolorovaná kresba přes zbytek strany"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 725,
+   "text": "Karel o Grandsonu: „von bösen buren vnd armen betlern vertriben“"
+  },
+  {
+   "strana": 726,
+   "text": "„Samstag vor der heiligen drivaltikeit“ 1476 = 8. června 1476"
+  }
+ ],
+ "nadpis_preklad": "Jak vévoda Burgundský opustil své ležení u Lausanne a se vší svou výzbrojí a celou mocí táhl k Murtenu",
+ "poznamky_prekladu": [
+  "„Samstag vor der heiligen drivaltikeit“ 1476 = 8. 6. 1476 (neděle sv. Trojice 9. 6.). Podle jiných pramenů opustil Karel tábor u Lausanne už koncem května 1476 (kolem 27. 5.) a postupoval přes Payerne; Schilling zde zřejmě spojuje odchod z Lausanne s příchodem předvoje k Murtenu (mimo přepis, k ověření).",
+  "Wiblisperg = Avenches (Wiflisburg); Betterlingen = Payerne."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

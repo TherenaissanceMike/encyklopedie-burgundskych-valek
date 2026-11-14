@@ -1,0 +1,215 @@
+{
+ "cislo": 253,
+ "nadpis": "Die namen der Stetten vnd Slossen so man in der Watt gewunnen hat",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 546,
+ "strany": [
+  546,
+  547,
+  548,
+  549
+ ],
+ "odstavce": [
+  {
+   "text": "Item am ersten Murten Statt vnd Sloß Denne Cudriffin Statt vnd Sloß Denne Betterlingen Statt Denne Stefis Statt vnd Sloß Denne Iferdun Statt vnd Sloß",
+   "preklad": "Nejprve město a hrad Murten. Dále město a hrad Cudrefin. Dále město Payerne. Dále město a hrad Estavayer. Dále město a hrad Yverdon."
+  },
+  {
+   "text": "Denne Sant Martin dz Sloß",
+   "preklad": "Dále hrad Sant Martin [?]."
+  },
+  {
+   "text": "Denne Vyole das Sloß",
+   "preklad": "Dále hrad Vyole [?]."
+  },
+  {
+   "text": "Denne Cusi das Sloß",
+   "preklad": "Dále hrad Cusi [?]."
+  },
+  {
+   "text": "Denne Font Statt vnd Sloß",
+   "preklad": "Dále město a hrad Font."
+  },
+  {
+   "text": "Denne zem heiligen Crütz dz Sloß",
+   "preklad": "Dále hrad Sainte-Croix [zem heiligen Crütz]."
+  },
+  {
+   "text": "Denne Clee Statt vnd Sloß",
+   "preklad": "Dále město a hrad Les Clées."
+  },
+  {
+   "text": "Denne Lamatzan das Sloß",
+   "preklad": "Dále hrad Lamatzan [?]."
+  },
+  {
+   "text": "Denne Tschäwan das Sloß",
+   "preklad": "Dále hrad Tschäwan [?]."
+  },
+  {
+   "text": "Denne Laserra Statt vnd Sloß",
+   "preklad": "Dále město a hrad La Sarraz."
+  },
+  {
+   "text": "Denne Mynenesi Statt vnd Sloß",
+   "preklad": "Dále město a hrad Mynenesi [?]."
+  },
+  {
+   "text": "Denne Cussency Statt vnd Sloß",
+   "preklad": "Dále město a hrad Cossonay."
+  },
+  {
+   "text": "Denne Mulleri das Sloß",
+   "preklad": "Dále hrad Mulleri [?]."
+  },
+  {
+   "text": "Denne Sant Bartholome das Sloß",
+   "preklad": "Dále hrad Saint-Barthélemy."
+  },
+  {
+   "text": "Denne Morge das Sloß",
+   "preklad": "Dále hrad Morge [?]."
+  },
+  {
+   "text": "Denne Mufenig das Sloß",
+   "preklad": "Dále hrad Mufenig [?]."
+  },
+  {
+   "text": "Denne Aleman das Sloß",
+   "preklad": "Dále hrad Allaman."
+  },
+  {
+   "text": "Denne Mön das nüw Sloß",
+   "preklad": "Dále nový hrad Mön [?]."
+  },
+  {
+   "text": "Denne Mön das alt Sloß",
+   "preklad": "Dále starý hrad Mön [?]."
+  },
+  {
+   "text": "Denne Morse Statt vnd Sloß",
+   "preklad": "Dále město a hrad Morges."
+  },
+  {
+   "text": "Denne Neus Statt vnd Sloß",
+   "preklad": "Dále město a hrad Nyon."
+  },
+  {
+   "text": "Denne Sant Sorgen dz Sloß",
+   "preklad": "Dále hrad Sant Sorgen [?]."
+  },
+  {
+   "text": "Denne Coppet Statt vnd Sloß",
+   "preklad": "Dále město a hrad Coppet."
+  },
+  {
+   "text": "Denne Bayorge das Sloß",
+   "preklad": "Dále hrad Bayorge [?]."
+  },
+  {
+   "text": "Denne Estzerling das Sloß",
+   "preklad": "Dále hrad Estzerling [?]."
+  },
+  {
+   "text": "Denne Bemont das Sloß",
+   "preklad": "Dále hrad Belmont."
+  },
+  {
+   "text": "Denne Mieden Statt vnd Sloß",
+   "preklad": "Dále město a hrad Moudon."
+  },
+  {
+   "text": "Denne Rüw Statt vnd Sloß",
+   "preklad": "Dále město a hrad Rue."
+  },
+  {
+   "text": "Denne Ettalling das Sloß",
+   "preklad": "Dále hrad Ettalling [?]."
+  },
+  {
+   "text": "Denne Bossemung das Sloß",
+   "preklad": "Dále hrad Bossonnens."
+  },
+  {
+   "text": "Denne Tschauer das Sloß",
+   "preklad": "Dále hrad Tschauer [?]."
+  },
+  {
+   "text": "Denne Warrens das Sloß",
+   "preklad": "Dále hrad Warrens [?]."
+  },
+  {
+   "text": "Denne Roymond Statt vnd Sloß",
+   "preklad": "Dále město a hrad Romont."
+  },
+  {
+   "text": "Denne Ewerde das Sloß",
+   "preklad": "Dále hrad Everdes."
+  },
+  {
+   "text": "Denne Wypingen das Sloß",
+   "preklad": "Dále hrad Vuippens."
+  },
+  {
+   "text": "Denne Ercling das Sloß",
+   "preklad": "Dále hrad Ercling [?]."
+  },
+  {
+   "text": "Denne Bont das Sloß",
+   "preklad": "Dále hrad Pont."
+  },
+  {
+   "text": "Denne Solapier das Sloß",
+   "preklad": "Dále hrad Solapier [?]."
+  },
+  {
+   "text": "Denne Montenach Statt vnd Sloß",
+   "preklad": "Dále město a hrad Montagny."
+  },
+  {
+   "text": "Denne Granckort das Sloß",
+   "preklad": "Dále hrad Grandcour."
+  },
+  {
+   "text": "Vnd nach dem sich dann die von Friburg in disem zuge mit denen von Bern vnd andern eidgno[ssen] gar erlich vnd fruntlich hatten betragen / Dermassen dz inen am ersten von Burgunnern vnd Safoyern me dann andern getröwt wart / es wurde ein leger für ir Statt geslagen / vnd der hertzog von Burgunn wolt an inen anfachen / Da wart des halb von inen gar ein erlich lied gemacht als harnach statt",
+   "preklad": "A protože se Fribourgští na tomto tažení s Bernskými a ostatními Spříseženci chovali velmi čestně a přátelsky – natolik, že jim Burgunďané a Savojští hrozili víc než jiným, že před jejich městem bude rozbit tábor a vévoda Burgundský že chce začít u nich –, byla o nich proto složena velmi čestná píseň, jak následuje dále."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 547,
+   "text": "547 X (pozdější foliace, pravý horní roh); stránka bez obrázku; pokračování seznamu dobytých míst ve Vaudu, každý řádek s kadelou D"
+  },
+  {
+   "strana": 548,
+   "text": "548 X (pozdější foliace, levý horní roh); stránka bez obrázku; konec seznamu, dole ozdobný tah"
+  },
+  {
+   "strana": 549,
+   "text": "549 X (pozdější foliace, pravý horní roh); stránka bez obrázku; text s iniciálou V, rubrika s velkou kadelou H, první sloka písně s iniciálou M"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 546,
+   "text": "návrat korouhve na Dušičky (2. 11. 1475) po třech týdnech tažení (od 14. 10.); seznam pokračuje na s. 547"
+  },
+  {
+   "strana": 547,
+   "text": "identifikace (nejisté): Vyole = Vuillerens?, Cusi = Cugy?, Font = Font, Lamatzan = La Mothe?, Tschäwan = Chavornay?, Mynenesi = ?, Cussency = Cossonay, Mulleri = ?, Morge = Morges?, Mufenig = Mont-le-Vieux?, Aleman = Allaman, Mön = Mont (nový a starý hrad), Neus = Nyon, Sant Sorgen = Saint-Sorlin?, Coppet = Coppet"
+  },
+  {
+   "strana": 548,
+   "text": "identifikace (nejisté): Bayorge = ?, Estzerling = Échallens?, Bemont = Belmont, Mieden = Moudon, Rüw = Rue, Bossemung = Bossonnens, Tschauer = ?, Warrens = Oron?, Roymond = Romont, Ewerde = Everdes, Wypingen = Vuippens, Ercling = ?, Bont = Pont, Solapier = Surpierre?, Montenach = Montagny, Granckort = Grandcour; čtení jmen v seznamu je celkově nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jména měst a hradů, které byly dobyty ve Vaudu",
+ "poznamky_prekladu": [
+  "Jména ponechána v rukopisné podobě tam, kde je určení nejisté (označeno [?]). Moderní podoby u jistých: Cudriffin = Cudrefin, Betterlingen = Payerne, Stefis = Estavayer, Iferdun = Yverdon, Clee = Les Clées, Laserra = La Sarraz, Cussency = Cossonay, Aleman = Allaman, Morse = Morges, Neus = Nyon, Bemont = Belmont, Mieden = Moudon, Bossemung = Bossonnens, Ewerde = Everdes, Wypingen = Vuippens, Bont = Pont, Montenach = Montagny, Granckort = Grandcour.",
+  "Možná určení (mimo přepis, k ověření): Vyole = Vuillerens?, Cusi = Cugy?, Tschäwan = Chavornay nebo Champvent?, Mön = Mont (nový a starý hrad)?, Sant Sorgen = Saint-Saphorin?, Estzerling = Échallens (něm. Tscherlitz)?, Warrens = Oron?, Solapier = Surpierre?; Morge (samostatně vedle Morse) neurčeno.",
+  "„Font“ ponecháno – obec Font u Estavayer."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

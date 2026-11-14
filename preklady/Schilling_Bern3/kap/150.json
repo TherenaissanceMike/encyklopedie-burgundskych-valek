@@ -1,0 +1,32 @@
+{
+ "cislo": 150,
+ "nadpis": "Von einem zedel / was in der obgenanten missiue verslossen / der wiset als das von wort ze wort harnach stat",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 315,
+ "strany": [
+  315,
+  316
+ ],
+ "odstavce": [
+  {
+   "text": "Getrüwen lieben frunde / wir verkünden üch ouch hiemit / das der hertzog von Burgunn diser tagen einen siner diener zů der Statt Nüss porten geschickt / der hat begert im hin in zů lassen / das im werden möcht des heiligen Sant Kirins wasser / ouch begert er etwas mit inen zů reden / von bevelhens wegen sins herr[en] vnd also tett man im der Statt porten vff / vnd wurden im angendes vor der Statt sin ougen verbunden / vnd also blind vff das richt hus in der Statt gefürt / da begert er man wolt im die ougen entbinden / vnd im nit me dann vier oder fünf der gewaltigesten in der Statt besechen / vnd mit inen reden lassen / das beschach / da vieng er an / vnd rett die meynung / so im der hertzog bevolchen hatt das was also / das si die Statt Nüss im übergeben so wolt er si gar gnediclich enpfachen / si bi iren alten freiheiten vnd güten gewonheiten lassen bliben vnd si fürer gar hoch vnd mer fryen / mit gar vil güter worten / daruf gaben si im ze antwurt / si möchten als balde iren rat byeinandern nit haben / er möcht aber wider hinus keren zů sinem herren / vnd im also sagen / wolt er ein antwurt haben vff sin anmütung / so möcht er den selben tag als er den botten in die Statt geschickt hette anzeichen / so wolten si sich bedencken / vnd im von dannenthin über ein tage ein antwurt geben / vnd schickten im also mit verbundnen ougen wider von inen / mit Sant Kirins wasser vnd keiner andern antwurt / dis han ich harin gezogen / darumb das alle fromen Berner vnd hantvesten lüte sich in semlichen sachen vnd vffsetzen ouch dester bas wissen zů halten / vnd zů regieren / dann man mit vernunft vnd bescheidenheit in semlichen kriegen gar vil erobern / das man süss nit zů wegen bringen mag",
+   "preklad": "Věrní milí přátelé, oznamujeme vám také tímto, že vévoda Burgundský v těchto dnech poslal k bráně města Neussu jednoho ze svých služebníků. Ten žádal, aby ho pustili dovnitř, aby mohl dostat vodu svatého Quirina; také žádal, že s nimi chce z rozkazu svého pána něco promluvit. Otevřeli mu tedy městskou bránu, hned před městem mu zavázali oči a tak naslepo ho dovedli na radnici ve městě. Tam žádal, aby mu oči rozvázali a dovolili mu vidět jen čtyři nebo pět nejmocnějších ve městě a s nimi mluvit. To se stalo. Tu začal a přednesl, co mu vévoda uložil: aby mu město Neuss vydali, a on je přijme velmi milostivě, ponechá je při jejich starých svobodách a dobrých zvyklostech a ještě je velmi a více obdaří svobodami – a to s mnoha pěknými slovy. Na to mu dali odpověď, že tak rychle nemohou svolat svou radu; ať se ale vrátí ven ke svému pánovi a řekne mu toto: chce-li mít odpověď na svou žádost, ať určí tentýž den, kdy toho posla poslal do města, a oni si to rozmyslí a odtud za den mu dají odpověď. A tak ho poslali se zavázanýma očima zase od sebe, s vodou svatého Quirina a bez jiné odpovědi. To jsem sem pojal proto, aby všichni stateční Bernští a zdatní lidé věděli tím lépe, jak se v takových věcech a úkladech chovat a jak si vést; neboť rozumem a rozvahou se v takových válkách dá velmi mnoho vydobýt, čeho by se jinak dosáhnout nedalo."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 316,
+   "text": "316 X (pozdější foliace, levý horní roh); stránka bez obrázku; prosvítá z rubu; velká iniciála W"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "O cedulce, která byla vložena do zmíněného listu; zní, jak dále slovo od slova stojí",
+ "poznamky_prekladu": [
+  "„Sant Kirins wasser“ – voda svatého Quirina, patrona Neussu; jeho ostatky se uctívaly v neusském kostele a voda z Quirinovy studánky platila za léčivou (mimo přepis).",
+  "Poslední věta („dis han ich harin gezogen…“) je vlastní poznámka Schillinga, ne součást kolínské cedulky.",
+  "„vffsetzen“ = úklady, léčky."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

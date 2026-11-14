@@ -1,0 +1,91 @@
+{
+ "cislo": 380,
+ "nadpis": "Die namen der gevangnen stand ouch zem teil harnach geschriben",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 860,
+ "strany": [
+  860,
+  861,
+  862
+ ],
+ "odstavce": [
+  {
+   "text": "Item herr Anthonig vnd herr Badein beid Bastart von Burgunn",
+   "preklad": "Předně pan Anthonig a pan Badein, oba bastardi Burgundští."
+  },
+  {
+   "text": "Denne der rich Graff von Nassow / des Marggrafen von nidern Baden tochterman / des recht houptman kam gen Bernn",
+   "preklad": "Dále bohatý hrabě z Nassau, zeť markraběte Dolního Bádenska, jehož vlastní hejtman přišel do Bernu."
+  },
+  {
+   "text": "Denne der herr von Samaris[?]",
+   "preklad": "Dále pán ze Samaris[?]."
+  },
+  {
+   "text": "Denne der herr von Blamont",
+   "preklad": "Dále pán z Blâmontu."
+  },
+  {
+   "text": "Denne der herr von Croij",
+   "preklad": "Dále pán z Croÿ."
+  },
+  {
+   "text": "Denne herr Iop[?] von Alabin houptman von Napels",
+   "preklad": "Dále pan Iop[?] von Alabin, hejtman z Neapole."
+  },
+  {
+   "text": "Denne der herr von Thasana[?]",
+   "preklad": "Dále pán z Thasana[?]."
+  },
+  {
+   "text": "Denne der herr von Fonteine",
+   "preklad": "Dále pán z Fontaine."
+  },
+  {
+   "text": "Denne ein mechtiger herr us Picardie",
+   "preklad": "Dále mocný pán z Pikardie."
+  },
+  {
+   "text": "Denne der herr von Montensi[?]",
+   "preklad": "Dále pán z Montensi[?]."
+  },
+  {
+   "text": "Denne des Hagenbachs tochterman",
+   "preklad": "Dále Hagenbachův zeť."
+  },
+  {
+   "text": "Darzů ouch vil ander herren / Grafen / fryen ritter vnd knechten der namen ich nit weis",
+   "preklad": "K tomu také mnoho jiných pánů, hrabat, svobodných pánů, rytířů a panošů, jejichž jména neznám."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 861,
+   "text": "861 X (pozdější foliace, pravý horní roh); seznam zajatců pokračuje, položky s iniciálami D, na konci výplňový tah perem"
+  },
+  {
+   "strana": 862,
+   "text": "862 X (pozdější foliace, levý horní roh); rubrika s iniciálou H nahoře; píseň o Nancy, sloky s iniciálami W, H, H"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 860,
+   "text": "Antonín Velký bastard a Balduin, bastardi burgundští, zajati"
+  },
+  {
+   "strana": 861,
+   "text": "Engelbert z Nassau (zeť bádenského markraběte); Croij = Croÿ; „Iop von Alabin“, „Samaris“, „Thasana“, „Montensi“ nejistá čtení; zeť Petera von Hagenbach"
+  }
+ ],
+ "nadpis_preklad": "Jména zajatců jsou zde rovněž zčásti zapsána",
+ "poznamky_prekladu": [
+  "Anthonig = Antonín, Velký bastard Burgundský; Badein = Balduin, rovněž levoboček Filipa Dobrého (mimo přepis).",
+  "Hrabě z Nassau = Engelbert II. Nasavský (mimo přepis). „des recht houptman kam gen Bernn“ – smysl nejistý: snad jeho skutečný zajatec (ten, komu příslušelo výkupné) přišel do Bernu; přeloženo doslova.",
+  "„Samaris[?]“, „Iop[?] von Alabin“, „Thasana[?]“, „Montensi[?]“ – nejistá čtení, ponechána.",
+  "Hagenbach = patrně Peter von Hagenbach, burgundský zemský fojt popravený 1474 v Breisachu (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 4
+}

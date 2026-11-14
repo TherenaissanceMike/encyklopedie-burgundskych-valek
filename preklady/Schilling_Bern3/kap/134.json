@@ -1,0 +1,31 @@
+{
+ "cislo": 134,
+ "nadpis": "Das die von Bernn die von Friburg manten mit inen gen Ericurt[?] zů ziechen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 274,
+ "strany": [
+  274,
+  275
+ ],
+ "odstavce": [
+  {
+   "text": "Den fürsichtigen fromen wisen Schultheissen Räten vnd gemeinen burgern zů Friburg / vnnsern besundern lieben brüderlichen frunden vnd getrüwen mitburgern / enbieten wir Schultheis Räte vnd burger ze Bernn / vnnser fruntlich gůtwillig dienst / vnd was wir eren vermügen zůvoran bereit als wir dann von manung wegen der keiserlichen maiestat zů widerstand dem hertzogen von Burgunn hoch vnd tieff ermant sind / vnd wir vnns der vnd ander mergklicher sachen halb darin stecken sollen vnd müssen / darumb so manen wir üwer brüderlich liebe / in kraft dis offen briefs / so hoch vnd tieff wir können oder mögen / innhalt üwers vnd vnnsers gesworenen burgrechten / das ir vns üwer treffenliche hilf vnd bistand tůnd / vnd an fritag zů nacht bi vnns vnd den vnnsern / zů Nidow oder Biel sin wellend / vnd üch daran deheins wegs nit sumen / als wir vnns zů üwer liebe in kraft üwers vnd vnnsers gesworenen burgrechten versechen vnd ir vnns schuldig vnd pflichtig sind / dz wellen wir zů der billicheit vmb üwer brüderlich liebe verdienen / Datum vnder vnnserm Insigel / an mentag nach der xj^m meyden tag / anno lxxiiij^o",
+   "preklad": "Prozíravým, statečným, moudrým starostovi, radním a celé obci měšťanů ve Fribourgu, našim zvláště milým bratrským přátelům a věrným spoluměšťanům, my, starosta, radní a měšťané v Bernu, vzkazujeme napřed svou přátelskou, ochotnou službu a cokoli čestného zmůžeme. Jelikož jsme kvůli výzvě císařského majestátu vysoce a naléhavě vyzváni k odporu proti vévodovi Burgundskému a máme a musíme se do toho kvůli tomu i jiným závažným věcem pustit, vyzýváme proto vaši bratrskou lásku mocí tohoto otevřeného listu, tak vysoce a naléhavě, jak jen můžeme a dokážeme, podle znění vašeho a našeho přísežného měšťanského práva (burgrecht), abyste nám poskytli svou vydatnou pomoc a podporu a byli v pátek v noci u nás a našich v Nidau nebo v Bielu a nijak se v tom neopozdili, jak se na vaši lásku mocí vašeho a našeho přísežného měšťanského práva spoléháme a jak jste nám to dlužni a povinni. To chceme vaší bratrské lásce podle slušnosti oplatit. Dáno pod naší pečetí v pondělí po dni jedenácti tisíc panen léta [14]74."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 275,
+   "text": "275 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podkresbou; za datem pozdější rukou „1474“; dole prázdno"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští vyzvali Fribourgské, aby s nimi táhli k Héricourtu [?]",
+ "poznamky_prekladu": [
+  "„Ericurt[?]“ v nadpisu – nejisté čtení; Ericurt = Héricourt (Franche-Comté).",
+  "Schilling: pondělí po dni 11 000 panen (21. 10.; v roce 1474 pátek) = 24. 10. 1474 (juliánský kalendář); „pátek v noci“ by pak byl 28. 10. 1474, den odchodu Bernských (kap. 135). List je datován o den dříve než vypovězení nepřátelství (kap. 132) – ponecháno, jak stojí v textu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

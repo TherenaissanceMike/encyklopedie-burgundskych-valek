@@ -1,0 +1,61 @@
+{
+ "cislo": 379,
+ "nadpis": "Der herren namen zem teil So am Streit ze Nanse erslagen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 859,
+ "strany": [
+  859,
+  860
+ ],
+ "odstavce": [
+  {
+   "text": "Item am ersten der grosmechtig fürst herre Karolus hertzog zů Burgunn",
+   "preklad": "Předně velmocný kníže pan Karel, vévoda Burgundský."
+  },
+  {
+   "text": "Denne ein grosser landsherr genant der von Mienery[?]",
+   "preklad": "Dále velký zemský pán zvaný pán z Mienery[?]."
+  },
+  {
+   "text": "Denne herr Jacop Galiet ein herre vnd Graff von Arragossen",
+   "preklad": "Dále pan Jacop Galiet, pán a hrabě z Arragossen."
+  },
+  {
+   "text": "Denne herr Jacop Galmeit Graff vnd Capitan von Engelant",
+   "preklad": "Dále pan Jacop Galmeit, hrabě a kapitán z Anglie."
+  },
+  {
+   "text": "Denne herr Fridrich von Fleck[?] des pfallentzgrafen Capitan",
+   "preklad": "Dále pan Fridrich von Fleck[?], kapitán falckraběte."
+  },
+  {
+   "text": "Darzů vil ander mechtiger herren / ritter vnd knechten / der namen ich nit weis / dann sin rechter adel merenteils aller by im erslagen wart",
+   "preklad": "K tomu mnoho jiných mocných pánů, rytířů a panošů, jejichž jména neznám, neboť jeho pravá šlechta byla z větší části všechna u něho zabita."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 860,
+   "text": "860 X (pozdější foliace, levý horní roh); seznam padlých pokračuje, položky s iniciálami D; rubrika s iniciálou D, položka s iniciálou I"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 859,
+   "text": "„von Mienery“ – nejisté čtení (snad pán z Miolans? / Mingoval?)"
+  },
+  {
+   "strana": 860,
+   "text": "„Jacop Galiet … von Arragossen“ = Jacopo Galeotto; „Jacop Galmeit … von Engelant“ = nejisté (anglický kapitán, snad John Middleton?); „Fridrich von Fleck“ nejisté (Friedrich von Flersheim?)"
+  }
+ ],
+ "nadpis_preklad": "Jména některých pánů, kteří byli v bitvě u Nancy zabiti",
+ "poznamky_prekladu": [
+  "„von Mienery[?]“ – nejisté čtení (snad Miolans / Mingoval?), ponecháno.",
+  "„Jacop Galiet … von Arragossen“ = snad condottiere Jacopo Galeota (mimo přepis); podle jiných pramenů Galeotto bitvu přežil – jen domněnka, nesoulad neověřen. „Arragossen“ ponecháno.",
+  "„Jacop Galmeit … von Engelant“ – určení nejisté (anglický kapitán); „Fridrich von Fleck[?]“ nejisté čtení. Proč falckraběcí kapitán padl na burgundské straně, z textu nevyplývá."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

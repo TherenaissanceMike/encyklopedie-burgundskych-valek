@@ -22,7 +22,7 @@
   },
   {
    "text": "Und nachdem sich dann die von Friburg in disem zuge mit denen von Bern und andern Eidnossen gar erlich und früntlich hatten betragen inmassen, das inen am ersten von Burgunnern und Saföyern me dann andern getröwt wart, es wurde ein leger für ir stat geslagen und der herzog von Burgunnen wolt an inen anfachen, do wart deshalb von inen gar ein erlich lied gemacht, als harnach von wort ze wort geschriben stat.",
-   "preklad": "A protože se Fribourgští na tomto tažení k Bernským a jiným konfederátům zachovali velmi čestně a přátelsky, a to tím víc, že jim Burgunďané a Savojští hrozili nejdřív a víc než jiným, že se před jejich městem rozbije ležení a že burgundský vévoda chce začít u nich, byla o nich proto složena velmi čestná píseň, jak stojí dále slovo od slova."
+   "preklad": "A protože se Fribourgští na tomto tažení k Bernským a jiným Spřísežencům zachovali velmi čestně a přátelsky, a to tím víc, že jim Burgunďané a Savojští hrozili nejdřív a víc než jiným, že se před jejich městem rozbije ležení a že burgundský vévoda chce začít u nich, byla o nich proto složena velmi čestná píseň, jak stojí dále slovo od slova."
   }
  ],
  "poznamky": [
@@ -33,5 +33,6 @@
   "Seznam čítá 44 položek. Hrozba obléháním Fribourgu: srov. 7. sloku následující písně (Tobler)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

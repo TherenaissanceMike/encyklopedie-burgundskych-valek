@@ -14,7 +14,7 @@
   },
   {
    "text": "Der von Gerolzecke getorst aber darnach die von Strasburg nit fürnemen und lies si ganz unverkumbert ; er smecket wol, das si die von Bern und ander Eidgnossen nit hetten verlassen, als billichen was.",
-   "preklad": "Pán z Geroldsecku se však potom neodvážil Štrasburské napadnout a nechal je zcela na pokoji; dobře poznal, že by je Bernští a jiní konfederáti neopustili, jak bylo správné."
+   "preklad": "Pán z Geroldsecku se však potom neodvážil Štrasburské napadnout a nechal je zcela na pokoji; dobře poznal, že by je Bernští a jiní Spříseženci neopustili, jak bylo správné."
   }
  ],
  "poznamky": [
@@ -26,5 +26,6 @@
   "Oprava textu: „züschüp_ tet“ → „züschüptet“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

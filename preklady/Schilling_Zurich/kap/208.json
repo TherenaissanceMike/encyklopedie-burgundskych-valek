@@ -10,7 +10,7 @@
   },
   {
    "text": "Als nü die von Bern dem grafen von Röymont abgesagt und sich zü den dingen gerüst, ouch ir Eidgnossen gemant hatten, do kament alweg gar heis hart mere von den houptlüten von Jungij eins über das ander gen Bern, das man in disen dingen erenhalb nit me beiten noch sich sumen mochte. Nachdem man dann die absagung getan und ouch ander gewanten gemant hat, und also in dem namen gottes und siner lieben müter magt Marien der himelküngin, zugent die von Bern us mit ir ufgeworfner paner und ganzer macht uf samstag vor sant Gallen tag des vorgenanten 75. iares, der houptman was Peterman von Wabren, altschulthes zü Bern, und fürt aber die paner Gilian Achshalm, ein venner von dem erbern hantwerk der smiden, dem was zügeordnet für einen houptman und rat geben Anthoni Archer, ouch ein venner von dem erbern hantwerk der pfistern.",
-   "preklad": "Když nyní Bernští hraběti z Romontu vypověděli válku, na věc se přichystali a vyzvali i své konfederáty, přicházely od hejtmanů z Jougne do Bernu jedna za druhou stále velmi naléhavé a tvrdé zprávy, že se v těchto věcech už kvůli cti nesmí déle čekat ani otálet. Když se tedy vypovězení učinilo a byli vyzváni i ostatní spojenci, vytáhli Bernští ve jménu Božím a jeho milé matky, panny Marie, královny nebeské, s rozvinutou korouhví a celou mocí v sobotu před svatým Havlem téhož [14]75. roku. Hejtmanem byl Peterman von Wabern, bývalý starosta Bernu, a korouhev nesl opět Gilian Achshalm, praporečník z ctihodného řemesla kovářů; tomu byl jako hejtman a rádce přidělen Anthoni Archer, rovněž praporečník, z ctihodného řemesla pekařů."
+   "preklad": "Když nyní Bernští hraběti z Romontu vypověděli válku, na věc se přichystali a vyzvali i své Spřísežence, přicházely od hejtmanů z Jougne do Bernu jedna za druhou stále velmi naléhavé a tvrdé zprávy, že se v těchto věcech už kvůli cti nesmí déle čekat ani otálet. Když se tedy vypovězení učinilo a byli vyzváni i ostatní spojenci, vytáhli Bernští ve jménu Božím a jeho milé matky, panny Marie, královny nebeské, s rozvinutou korouhví a celou mocí v sobotu před svatým Havlem téhož [14]75. roku. Hejtmanem byl Peterman von Wabern, bývalý starosta Bernu, a korouhev nesl opět Gilian Achshalm, praporečník z ctihodného řemesla kovářů; tomu byl jako hejtman a rádce přidělen Anthoni Archer, rovněž praporečník, z ctihodného řemesla pekařů."
   },
   {
    "text": "Und kament also desselben tages an der nacht gen Murten; do fundent si ir getrüwen mitburger und herzfründe die von Friburg ouch mit ir statpaner und ganzer macht. Die beiden stette einandern gar wol und fruntlichen enpfingen, als si dann gein einandern alweg getan haben und ob got wil zü ewigen ziten tün werden. Und also ving man an mit denen von Murten zü reden und gab man inen zü erkennen, warumbe und in welcher meinung man dar komen were und wie man dem grafen von Röymont durch das übel, so er an inen und den iren begangen, abgesagt und willen hette, in an landen und lüten als verr man möchte, schedigen, und das si sich balde ergebent, oder aber si müstent darumb liden, das inen an lib und güt übel keme.",
@@ -26,12 +26,13 @@
   }
  ],
  "poznamky": [
-  "Datum: sobota před sv. Havlem = 14. 10. 1475. Tobler: tah byl nejdříve stanoven na 17., pak na 20. 10., ale ve shodě se Schillingem byl proveden 14. 10.; 13. 10. vyzval Bern sionského biskupa, aby byl připraven, a 15. 10. znovu žádal konfederáty o pomoc.",
+  "Datum: sobota před sv. Havlem = 14. 10. 1475. Tobler: tah byl nejdříve stanoven na 17., pak na 20. 10., ale ve shodě se Schillingem byl proveden 14. 10.; 13. 10. vyzval Bern sionského biskupa, aby byl připraven, a 15. 10. znovu žádal Spřísežence o pomoc.",
   "Bernský rukopis podle variant: nadpis „Das die von Bern und von Friburg mit iren panern und ganzer macht gen Murten zugen und das innamen“; „der obrester houptman was herr Peterman von Wabren, ritter“ (nejvyšší hejtman, rytíř); o obyvatelích Murtenu „die nit gern Berner wurden“ (kteří se neradi stávali Bernskými) a chybí „und weren lieber bi den Walchen bliben“.",
   "„Walchen“ = Vlaši (Vlachové), tj. románsky (francouzsky) mluvící, zde Savojští.",
   "Tobler: věčný spolek Murtenu s Bernem pochází ze 7. 1. 1335, poslední obnova měšťanského práva 13. 6. 1473. Svobody města byly potvrzeny listinou z 1. 11. 1475, 15. 11. k ní vydáno vysvětlení. O náladě v Murtenu při příchodu Bernských podrobně Entreprises p. 239–242.",
   "Oprava textu: „|“ na konci nadpisu (i v poli „nadpis“), „hatten)“ → „hatten“, „luüten“ → „lüten“ (OCR)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

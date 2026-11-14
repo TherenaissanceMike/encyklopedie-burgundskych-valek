@@ -1,0 +1,47 @@
+{
+ "cislo": 229,
+ "nadpis": "Das die von Bernn den marggrafen von Rötteln iren burger manten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 488,
+ "strany": [
+  488,
+  489
+ ],
+ "odstavce": [
+  {
+   "text": "Dem hochgebornen herren / herrnn Růdolfen marggraven von Hochperg Graven zů Nüwenburg / herren zů Röteln vnd Susenburg / vnnserm sundern gnedigen herren vnd getrüwen mitburger / Enbieten wir der Schultheis / Rätt vnd burgere der Statt Bernn / vnnser willig dienst / Vnd tůnd üwern gnaden zů wissen / das der Graf von Roymond mit gewalt vnd vnervolget aller rechten / vnnser burger / vachen / mürden vnd in gevangnüß werfen lassen hat / vnd suß vil ander mütwil vnd vnbillicheit mit überziechen der vnnsern vnderstanden / Also das wir getrungen werden / vnns gegen im in gegenwer zů setzen / vnd die vnnsern ouch vnser lande vnd lüte zů retten / Darumb vnd die wile solichs zů beschirmung vnnser landen vn[d] lüten / on alles mittel dient / So manen wir üwer hochgeborne gnad / mit gar ernstlichem fliß / So hoch wir mögen / das ir die üwern zer lanndern[?] vnd an andern enden / wo die wonende sind / zů ros vnd fůs zů rüsten / mit vnnser paner zů ziechen / vnnser ere / land / lüt vnd gůt helfen befryen / vnd die frömden völker die vnns allen zů verderben In solichen landen sind / ab triben / Dann wir ouch dem Graven von Roymond vnnser vientschaft vnd gegenwer / darzů wir mit sinem hochmůt getrunge[n] werden / verkündt haben / Datum vnder vnserm ingetruckten insigel / an Samstag vor Galli Anno lxxvto",
+   "preklad": "Vysoce urozenému pánu, panu Rudolfovi, markraběti z Hochbergu, hraběti z Neuchâtelu, pánu z Röttelnu a Sausenbergu, našemu zvláštnímu milostivému pánu a věrnému spoluměšťanovi, vzkazujeme my, starosta, rada a měšťané města Bernu, své ochotné služby. Dáváme vaší milosti na vědomí, že hrabě z Romontu násilím a bez jakéhokoli práva dal naše měšťany chytat, vraždit a vrhat do vězení a pokusil se i o mnohou jinou svévoli a bezpráví přepadáním našich lidí. Proto jsme nuceni postavit se mu na odpor a zachránit své lidi, i své země a lid. A protože to bezprostředně slouží k ochraně našich zemí a lidí, vyzýváme vaši vysoce urozenou milost s nejvážnější horlivostí, jak nejvýše můžeme, abyste své lidi v Landeronu [?] a na jiných místech, kde bydlí, vyzbrojil na koni i pěšky, aby táhli s naší korouhví, pomohli osvobodit naši čest, zemi, lidi a statek a vyhnali cizí lid, který je v těch zemích k záhubě nás všech. Neboť jsme také hraběti z Romontu oznámili své nepřátelství a odpor, k němuž nás donutila jeho pýcha. Dáno pod naší vtištěnou pečetí v sobotu před svatým Havlem roku [14]75."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 489,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (postavy), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 489,
+   "text": "489 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 488,
+   "text": "Rudolf von Hochberg, markrabě, hrabě Neuchâtelu (Nüwenburg), pán Röttelnu a Sausenbergu (Susenburg), bernský spoluměšťan"
+  },
+  {
+   "strana": 489,
+   "text": "„zer lanndern“ – čtení nejisté; datum „Samstag vor Galli Anno lxxvto“ = 14. října 1475"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští vyzvali markraběte z Röttelnu, svého měšťana",
+ "poznamky_prekladu": [
+  "Rudolf von Hochberg, markrabě, hrabě Neuchâtelu (Nüwenburg), pán Röttelnu a Sausenbergu (Susenburg), bernský spoluměšťan (burgrecht).",
+  "„zer lanndern[?]“ – čtení nejisté; navrhuji výklad „ze Landeron“ = Le Landeron, městečko v hrabství Neuchâtel (mimo přepis) – ověřit v rukopisu.",
+  "„gegenwer“ přeloženo „odpor“.",
+  "Sobota před sv. Havlem (16. 10.) 1475 = 14. října 1475 (juliánsky; 16. 10. 1475 připadl na pondělí)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

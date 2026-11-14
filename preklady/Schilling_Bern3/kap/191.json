@@ -1,0 +1,45 @@
+{
+ "cislo": 191,
+ "nadpis": "Das die zwey starcken Sloß Nanlarotscha[?] vnd ouch Nan[?] von denen von Bern[n] vn[d] andern ingenomen vnd gewunnen wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 411,
+ "strany": [
+  411,
+  412
+ ],
+ "odstavce": [
+  {
+   "text": "Es wurden ouch die wile man dennocht vor Grangis lag / vnd man in disen dingen rattslaget was man fürer handlen vnd tůn wolt / von dero von Bernn / Vnd andern der eidgno[ssen] lüten / mit hilf dero von Straßburg / die alwegen in trüwen bi inen waren vngeordneter dingen zwey starck Slos mit dem Sturm gewunnen vnd ingenomen / das ein genant Naularotscha[?] / vnd das ander Nan[?] / die lagent by einandern / vnd ward darinn ein merglich gůt gewunnen / vnd wurden gantz geplündert / vnd in füre geleit / vnd ward inen ouch ein gůt büt",
+   "preklad": "Zatímco se ještě leželo před Granges a radilo se v těchto věcech, co se má dál podniknout a udělat, dobyli a obsadili lidé Bernských a ostatních Spříseženců s pomocí Štrasburských, kteří při nich vždy věrně stáli, bez rozkazu útokem dva silné hrady, jeden jménem Naularotscha [?] a druhý Nan [?]. Ležely vedle sebe a bylo v nich ukořistěno značné jmění. Byly zcela vypleněny a zapáleny, a připadla jim také dobrá kořist."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 411,
+   "popis": "dokončená kolorovaná miniatura s rubrikou na banderole nahoře – dva hořící hrady, vpravo z brány vycházejí vojáci s bílými kříži a píkami, vpředu žoldnéři nesou na tyčích svázanou kořist (balíky), vlevo pikenýři u lesa; v pozadí řeka s loďkou a hory"
+  },
+  {
+   "strana": 412,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou (hrad s věží, prázdná banderola, bojující postavy s kříži), přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 412,
+   "text": "412 X (pozdější foliace, levý horní roh); text psán přes šedě podloženou nedokončenou miniaturu (hrad, prázdná banderola, postavy); uprostřed rubrika, zbytek strany jen podmalba"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 411,
+   "text": "jména obou hradů nejistá: „Nanlarotscha“ / „Naularotscha“ a „Nan“ (na s. 412 „Naularotscha … vnd das ander Nan“); identifikace otevřená"
+  }
+ ],
+ "nadpis_preklad": "Jak dva silné hrady Nanlarotscha [?] a také Nan [?] byly od Bernských a jiných obsazeny a dobyty",
+ "poznamky_prekladu": [
+  "Jména obou hradů nejistá: „Nanlarotscha“ (rubrika) / „Naularotscha“ (text) a „Nan“; identifikace otevřená.",
+  "„vngeordneter dingen“ = bez nařízení, z vlastní iniciativy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 4
+}

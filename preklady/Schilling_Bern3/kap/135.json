@@ -1,0 +1,41 @@
+{
+ "cislo": 135,
+ "nadpis": "Das die von Bernn mit ir Statt paner vnd einem erlichen volck gen Ericurt zugen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 275,
+ "strany": [
+  275,
+  276,
+  277
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen gottes / vnd der himel küngin magt Marien / zugent die von Bernn us mit vffgeworfner paner vnd mit drü tusent gewapneter vnd strittbarer mannen / vnd hatten bi inen von Rittern / vnd andern Edlenn / us der Statt / ouch us dem Ergow vnd andern den iren / einen erlichen adel / vff Sant Simon vnd Judas tag in dem vorgenanten Jare / vnd warent houptlüt herr Niclaus von Scharnachtal vnd herr peterman von wabern Ritter beid alt Schultheissen zů Bernn / die paner fůrt aber Anthoni Archer ein venner von dem erbern hantwerck der pfistern / des houptman was Gilian Achshalm ouch ein venner von den Smiden / Es zugen ouch mit inen die von Sollotern vnd Friburg mit iren venlinen vnd vil erlicher lüten",
+   "preklad": "A tak ve jménu Božím a nebeské královny, Panny Marie, vytáhli Bernští s rozvinutou korouhví a se třemi tisíci ozbrojenými a bojeschopnými muži a měli u sebe z rytířů a jiných šlechticů z města, také z Aargau a od jiných svých [lidí] čestnou šlechtu. Stalo se to na den svatých Šimona a Judy zmíněného roku. Hejtmany byli pan Niclaus von Scharnachtal a pan Peterman von Wabern, rytíři, oba bývalí starostové bernští. Korouhev nesl Anthoni Archer, praporečník z ctihodného řemesla pekařů; jeho hejtmanem byl Gilian Achshalm, rovněž praporečník, od kovářů. Táhli s nimi také Solothurnští a Fribourgští se svými praporci a mnoha čestnými lidmi."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 276,
+   "popis": "velká dokončená kolorovaná miniatura – bernské vojsko vytahuje: v pozadí město s věžemi u jezera s lodí (Bern/Biel?), hory; vojsko pochoduje s bernským praporem s medvědem a dalšími korouhvemi (pruhované, šachovnicové, s kuší – korouhev střelců); obrnění pěšáci s halapartnami a dlouhými meči, kušníci, bubeník; mnozí mají na prsou bílý kříž (spříseženecké znamení)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 276,
+   "text": "276 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 277,
+   "text": "277 X (pozdější foliace, pravý horní roh); rubrika další kapitoly je vepsána do malované pásky (banderoly) v horní části miniatury; text pod miniaturou pokračuje na s. 278"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští se svou městskou korouhví a čestným lidem táhli k Héricourtu",
+ "poznamky_prekladu": [
+  "Sv. Šimon a Juda = 28. 10. 1474 (pátek, juliánský kalendář).",
+  "„des houptman“ – hejtman (rádce) praporečníka, jako u tažení 1468 (kap. 11)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

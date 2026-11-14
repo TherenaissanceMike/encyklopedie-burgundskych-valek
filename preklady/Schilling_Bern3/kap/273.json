@@ -1,0 +1,51 @@
+{
+ "cislo": 273,
+ "nadpis": "Das der vorgenant hertzog von Burgunn mit allem sinem züge / vnd ouch gantzen machten für Jungis harin zoch",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 601,
+ "strany": [
+  601,
+  602,
+  603
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zoch der hertzog von Burgunn mit vnsaglicher grosser macht / vnd allem sinem züge von büchsen vnd andern dinge[n] vs Burgunn für Jungis harin / allenthalben in die Stett vnd dörffer / vnd sunderlich gen Orban gen Bömen[?] / zů dem heiligen Crütz / vnd in die selben orten / als er dann allen sinen zug vor dannen gerucht hatt / Als bald man dz zů Bernn vernam / da schickt man von stund an me lüten mit einem houptman gen Granson / darzů züg vnd anders / damit es nach notdurft wurde versechen / Darzů schreib man ouch dem houptman vnd knechten die zů Iferdun waren / das si sich angendes darnach richten / vnd den nechsten gen Granson zugen oder har heim / vnd si ouch mit inen nemen all büchsen / bulver vnd ander wermen was si dann mit inen hinweg bringen möchten vnd dann die Statt vnd Sloß in grund gantz verbranten / vnd was darinn wer / damit die viend sich dester minder möchten enthalten / noch ir wonung haben / als ouch beschach / das den fromen lüten leider übel kam / als harnach gelütert wirt",
+   "preklad": "A tak vévoda Burgundský s nevýslovně velikou mocí a se vší svou výzbrojí z děl a jiných věcí přitáhl z Burgundska přes Jougne sem, všude do měst a vesnic, zvláště do Orbe, do Bömen [?], ke Svatému Kříži a do těch míst, kam předtím poslal napřed celý svůj sbor. Jakmile se to v Bernu dozvěděli, poslali hned další lidi s hejtmanem do Grandsonu, k tomu výzbroj a jiné, aby bylo podle potřeby zaopatřeno. Také napsali hejtmanovi a knechtům, kteří byli v Yverdonu, aby se podle toho ihned zařídili a táhli nejkratší cestou do Grandsonu nebo domů; aby s sebou vzali všechna děla, prach a jiné zbraně, kolik jich mohli odnést, a pak město i hrad do základů úplně vypálili i se vším, co v nich bylo, aby se tam nepřátelé tím méně mohli udržet nebo mít své sídlo. Tak se také stalo, což statečným lidem bohužel zle prospělo, jak se dále vyloží."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 602,
+   "popis": "kolorovaná kresba – burgundské vojsko táhne přes Jougne: v pozadí hradby a skály, vlevo savojský prapor s bílým křížem a zástup pikenýrů, uprostřed a vpravo množství burgundských praporů (ondřejské kříže, pruhy, erby) a jezdci s trubačem; vpředu koňské povozy s děly na lafetách a vozy, vlevo dole dva vojáci sedí a odpočívají"
+  },
+  {
+   "strana": 603,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 602,
+   "text": "602 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 603,
+   "text": "603 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; uprostřed rubrika, dole prázdný rám"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 602,
+   "text": "„Bömen“ – nejisté (snad Baulmes)"
+  }
+ ],
+ "nadpis_preklad": "Jak zmíněný vévoda Burgundský se vším svým vojskem a celou mocí přitáhl sem přes Jougne",
+ "poznamky_prekladu": [
+  "„für Jungis harin“ = přes Jougne sem (průsmyk v Juře).",
+  "„Bömen[?]“ – nejisté, snad Baulmes; „zů dem heiligen Crütz“ = Sainte-Croix (mimo přepis).",
+  "„zug“ zde dvakrát: „allem sinem züge von büchsen“ = výzbroj; „allen sinen zug vor dannen gerucht“ = sbor (gerucht = gerückt, poslal napřed – čtení i smysl nejisté)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

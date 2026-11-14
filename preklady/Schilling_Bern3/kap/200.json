@@ -1,0 +1,36 @@
+{
+ "cislo": 200,
+ "nadpis": "Das der houptman von Bernn vnd ander im velde semlich sachen iren herrenn vnd obern heim schribent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 425,
+ "strany": [
+  425,
+  426
+ ],
+ "odstavce": [
+  {
+   "text": "Semlichs ward von dem houptman von Bernn herrenn Niclausen von Diesbach vn[d] andern bi im verwilliget / wie wol der houptman meint / es wer nit not / dann ein semlich trostlich volck vor Blomont wer / das si ir vienden mit gottes hilf wol einen widerstand tůn wolten Doch vmb dero von Straßburg willen / darumb ouch die von Bernn us gezogen waren / Schreip man die ding alle / wie es am Sturm ergangen was / vnd ouch die warnungen / die teglich kamen gen Bernn / vnd satzt man inen das alles heim Also wurden von stund an zů Bernn us gezogen drithalb tusent gewapneter mannen / mit der Statt paner / vnd wart inen zů einem houptman zůgeben vnd geordnet / herr Niclaus von Scharnachtal Ritter / vnd für einen venner Ludwig Brügler von dem erbern hantwerck der gerwern / Dem wart ouch für einen houptman vnd ratt geben / Hanns Kutler von den erbern meistern zen metzgern / Man hat ouch zů Bernn vernomen / das die iren vor Blomont nit alle einhell warent / vnd ein teil gern wider heim weren gewesen / vnd schriben darumb e die paner dar kam inen einen brief / als harnach statt",
+   "preklad": "S tím souhlasil bernský hejtman pan Niklaus von Diesbach a další u něho, ačkoli hejtman mínil, že toho není potřeba, neboť před Blamontem je tak odhodlaný lid, že se svým nepřátelům s Boží pomocí dobře postaví. Přesto kvůli Štrasburským, kvůli nimž Bernští také vytáhli, se do Bernu napsalo všechno, jak to při útoku dopadlo, i o varováních, která denně přicházela, a všechno se jim [doma] dalo k uvážení. Nato z Bernu ihned vytáhlo dva a půl tisíce ozbrojených mužů s městskou korouhví. Za hejtmana jim byl dán a určen pan Niklaus von Scharnachtal, rytíř, a za praporečníka Ludwig Brügler z ctihodného cechu jirchářů. Tomu byl také dán za hejtmana a radu Hans Kutler z ctihodných mistrů řeznických. V Bernu se také doslechli, že jejich lidé před Blamontem nejsou všichni jednomyslní a část by se ráda vrátila domů. Proto jim ještě dříve, než tam korouhev dorazila, napsali list, jak je dále psáno."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 426,
+   "text": "426 X (pozdější foliace, levý horní roh); stránka bez obrázku; text s iniciálou S, dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 425,
+   "text": "„Bastart von Burgunn“ = Antoine, velký bastard Burgundský; „ein kuch gelt“ – snad „ein kůch gelt“ (příspěvek na kuchyni), čtení nejisté"
+  }
+ ],
+ "nadpis_preklad": "Jak bernský hejtman a další v poli psali o těchto věcech domů svým pánům a představeným",
+ "poznamky_prekladu": [
+  "„Bastart von Burgunn“ (kap. 199) = Antoine, velký bastard Burgundský (mimo přepis).",
+  "Praporečník Ludwig Brügler (cech jirchářů, „gerwer“), Hans Kutler (cech řezníků)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,45 @@
+{
+ "cislo": 327,
+ "nadpis": "Das die von Bernn mit ir paner vnd gantzen machten an die brucken gen Gümynen zer gegenwer zugen / vnd ir eidgno[ssen] vnd verwanten da erwartent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 737,
+ "strany": [
+  737,
+  738,
+  739
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen der heiligen vnd hochen drivaltikeit ouch der himelschen küngin magt Marien ein můter aller erbermde / zugent die von Bernn uß mit ir paner vnd gantzer macht / was si dann dazemal gehaben mochtent / an vnnsers herren fronlichamen abend des vorgenanten Jares / mit dem genanten herrn Niclausen von Scharnachtal houptman / Vnd bleip dazemal da heimen herr Peterman von Wabern Schultheis / dann er der Statt sachen müst helfen handlen vnd erwarten / bis die eidgno[ssen] ouch ander gewanten harzů kament / die zů vnnderwisen / was yederman tůn / vnd war man ziechen solt / Er kam aber nachmaln ouch gen Gümynen in das veld / vnd tett was einem fromen Ritter vnd houptman zů gehort",
+   "preklad": "A tak ve jménu svaté a nejvyšší Trojice a také nebeské královny, Panny Marie, matky všeho milosrdenství, vytáhli Bernští se svou korouhví a celou mocí, kterou tehdy mohli mít, v předvečer Těla Páně výše uvedeného roku, se zmíněným panem Niclausem von Scharnachtal jako hejtmanem. Pan Peterman von Wabern, starosta, tehdy zůstal doma, neboť musel pomáhat vyřizovat záležitosti města a čekat, až přijdou Spříseženci a jiní spojenci, aby je poučil, co má kdo dělat a kam se má táhnout. Později však také přišel do pole do Gümmenen a činil, co náleží statečnému rytíři a hejtmanovi."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 738,
+   "popis": "krytý dřevěný most přes řeku (Gümmenen) s lidmi v okénkách; vpředu jezdec v plné zbroji s péry (hejtman Scharnachtal), za ním jezdec se štítem s věží; vpravo bernská korouhev s medvědem a zástup pěších s bílými kříži a dlouhými píkami; v pozadí hrad/kostel na kopci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 738,
+   "text": "738 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V, výplňový tah perem"
+  },
+  {
+   "strana": 739,
+   "text": "739 X (pozdější foliace, pravý horní roh); nahoře konec odstavce; rubrika s iniciálou D a pod ní celostránkový obraz"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 738,
+   "text": "„fronlichamen abend“ 1476 = předvečer Božího těla, 12. června 1476 (Boží tělo 13. 6.)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští se svou korouhví a celou mocí táhli k mostu v Gümmenen do obranného postavení a tam očekávali své Spřísežence a spřízněnce",
+ "poznamky_prekladu": [
+  "„vnnsers herren fronlichamen abend“ 1476 = předvečer Božího těla, 12. 6. 1476 (Boží tělo 13. 6. 1476)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

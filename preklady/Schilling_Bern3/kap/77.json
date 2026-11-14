@@ -1,0 +1,33 @@
+{
+ "cislo": 77,
+ "nadpis": "Die antwurt von dem von hagenbach denen von Bernn vnd Sollotern",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 161,
+ "strany": [
+  161,
+  162
+ ],
+ "odstavce": [
+  {
+   "text": "Des glich antwurt der von hagenbach inen ouch / vnd meint er tete anders nit dan[n] das zimlich / vnd sins herrenn von Burgunn willen vnd gevallen were / vnd könd noch wolt über ein[?] nit darvor sin / dann die von Müllhusen müsten ir schulden bezalen / Vnd er wolt gern daran sin vnd helfen / das si von sinen vndertanen ouch bezalt wurden / im was aber des nit ernst / dann er darinne gar gemach tet / doch wurden ir schulden von den vorgenanten fromen herrenn vnd Stetten bezalt / als hievor statt / Der von hagenbach rett ouch zů mengen malen / die von Bernn vnd ander ir fromen eidgno[ssen] weren büben Vnd müsten der tagen einest[?] innen werden / wer sin herr von Burgunn wer / Vnd er wolt ouch noch herr zů Lentzburg / Burgdorf / Nidow / Tann[?] vnd andern enden werden / Semlich vnlidige wort vnd sachen vertrügen die von Bernn vnd ander eidgno[ssen] / vmb rüwen vnd des besten willen vnd versachen sich wol / das in die harr nit vil gůtes möcht darus erwachsen",
+   "preklad": "Stejně tak jim odpověděl i Hagenbach a mínil, že nedělá nic jiného, než co je slušné a co je vůlí a libostí jeho pána Burgundského. A nemůže ani nechce tomu [über ein?] bránit, neboť Mulhouseští musí zaplatit své dluhy. Rád se prý přičiní a pomůže, aby i jim zaplatili jeho poddaní. Nemyslel to však vážně, neboť v tom postupoval velmi zvolna. Jejich dluhy však zaplatili zmínění poctiví páni a města, jak stojí výše. Hagenbach také mnohokrát řekl, že Bernští a jiní jejich stateční spříseženci jsou darebáci a že jednoho [?] dne poznají, kdo je jeho pán Burgundský. A chtěl se ještě stát pánem v Lenzburgu, Burgdorfu, Nidau, Thannu [?] a jinde. Taková nesnesitelná slova a věci snášeli Bernští a jiní Spříseženci pro pokoj a v nejlepším úmyslu, ačkoli dobře očekávali, že z toho na delší dobu nemůže vzejít mnoho dobrého."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 162,
+   "text": "162 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Odpověď Hagenbacha Bernským a Solothurnským",
+ "poznamky_prekladu": [
+  "„über ein[?]“ – čtení nejisté, smysl nejasný (snad „vůbec“); ponecháno v originále.",
+  "„einest[?]“ – čtení nejisté; smysl „jednou, jednoho dne“.",
+  "„Tann[?]“ – čtení nejisté; Thann v Sundgau by ale patřil k zastaveným zemím, zatímco Lenzburg, Burgdorf a Nidau jsou bernská území – ověřit v rukopisu.",
+  "„büben“ = darebáci, lotři – urážka, kterou Spříseženci Hagenbachovi neodpustili (mimo přepis: popraven 1474)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

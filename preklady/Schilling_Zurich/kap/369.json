@@ -16,8 +16,9 @@
  "poznamky": [
   "Oprava textu: „‘Örter“ → „Örter“, „.alwegen .“ → „alwegen“, „Sütlich“ → „gütlich“.",
   "Varianty: nadpis „mit iren panern und ganzen machten ouch zü denen von Ure zugent“; chybí „nach der manung“; „dennocht alweg“.",
-  "Tobler: curyšský odpovědní list je z 19. 11. 1478; odpovědní listy Unterwaldenu, Zugu a Solothurnu z 29. a 30. 11. a 6. 12. „Örter“ = místa, tj. členové konfederace (kantony)."
+  "Tobler: curyšský odpovědní list je z 19. 11. 1478; odpovědní listy Unterwaldenu, Zugu a Solothurnu z 29. a 30. 11. a 6. 12. „Örter“ = místa, tj. členové Spříseženstva (kantony)."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,35 @@
+{
+ "cislo": 286,
+ "nadpis": "Das gemein eidgno[ssen] mit iren panern vnd gantzen machten ouch harnach koment",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 635,
+ "strany": [
+  635,
+  636
+ ],
+ "odstavce": [
+  {
+   "text": "So nů leider dis mortlichen sachen ergangen vnd beschechen warent / da kamen gemein eidgno[ssen] mit iren panern vnd gantzen machten darzů ander verwanten ouch harnach / vnd erbutten sich gein denen von Bernn vnd andern gar tröstlich vnd fruntlich / die iren in trüwen helfen entschütten",
+   "preklad": "Když se nyní bohužel tyto vražedné věci udály, přitáhli obecní Spříseženci se svými korouhvemi a celou mocí a k tomu i jiní spojenci a velmi útěšně a přátelsky se nabídli Bernským a ostatním, že jim věrně pomohou jejich lidi vysvobodit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 635,
+   "popis": "kolorovaná kresba – příchod spojenců: zástup švýcarských pikenýrů s bílými kříži, bubeníci, pištci a trubači s korouhvemi (Uri s býčí hlavou, korouhev s Ukřižovaným – Schwyz, Lucern, korouhev se sv. Fridolínem – Glarus, Basilej s berlou), v pozadí hrad a město, jezdci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 636,
+   "text": "636 X (pozdější foliace, levý horní roh); nahoře rubrika, kolorovaná kresba, dole text s iniciálou V"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak obecní Spříseženci se svými korouhvemi a celou mocí také přitáhli",
+ "poznamky_prekladu": [
+  "Pořadí kapitol 286–287 nesleduje přesně chronologii: podle kap. 287 Bernští vytáhli z Murtenu ještě před zprávou o popravě."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

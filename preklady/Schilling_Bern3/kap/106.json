@@ -1,0 +1,31 @@
+{
+ "cislo": 106,
+ "nadpis": "Das der genant hertzog von österrich mit den vorgenanten herren vnd Stetten ouch ein vereynunge macht",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 220,
+ "strany": [
+  220,
+  221
+ ],
+ "odstavce": [
+  {
+   "text": "Der fürst von österrich hertzog Sigmund hatt ouch von stund an zů merung diser dingen / mit den vorgenanten fürsten vnd Stetten / vnd si mit im / ein sunderbar vereynunge gemacht / vnd nachmalen den hertzogen von Lothringen herrenn Reinharten / des lande vnd hertzogtům Lothringen / vnd das westerrich gar wol harus zem Elsess vnd tütschen landen dienen / mit gunst der eidgno[ssen] in die selbe vereynunge ouch genomen",
+   "preklad": "Kníže Rakouský vévoda Zikmund také ihned k rozmnožení těchto věcí uzavřel se zmíněnými knížaty a městy, a oni s ním, zvláštní spolek. Později do téhož spolku se svolením Spříseženců přijal i vévodu Lotrinského pana Reinharta, jehož země a vévodství Lotrinsko i Westrich velmi dobře slouží sem k Alsasku a německým zemím."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 221,
+   "text": "221 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly velká prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak zmíněný vévoda Rakouský uzavřel také spolek se zmíněnými pány a městy",
+ "poznamky_prekladu": [
+  "„Reinhart“ = René II., vévoda lotrinský (mimo přepis); jméno ponecháno podle pramene.",
+  "Westrich = kraj mezi Lotrinskem, Saarou a Falcí (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

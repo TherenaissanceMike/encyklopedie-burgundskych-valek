@@ -1,0 +1,38 @@
+{
+ "cislo": 115,
+ "nadpis": "Das der fürst von österrich harus in das land kam / vnd das man den hagenbach nach sinem verwilligen an wing richten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 233,
+ "strany": [
+  233,
+  234
+ ],
+ "odstavce": [
+  {
+   "text": "Der fürst von österrich / als bald der sin gevangnüss vnd dis geschrey vernam / Sumpt sich nit lang / vnd nach ratt vnd gevallen der eidgnossen botten / on die er in dem vnd andern über al nit handlen wolt / reit er angends von Costentz in das vorgemelt Brissgow / vnd Suntgow / mit vierhundert der eidgno[ssen] knechten die im uff sinen Sold zů geben / vnd in etlich sin Stett vnd Slos geleit wurden / vnd eins weges ordnet er sinen Marggschalck vnd Räte zů dem von hagenbach / im zů verhören vnd fürer vmb sin übeltat zů richten vnd rechtvertigen / vnd reit damit der fürst gen Friburg in das Brissgow / vnd etlich der eidgno[ssen] botten mit im / vnd beschach das darumb / wann man besorgte / wo der fürste in eigner persone gen Brisach komen / das dann er als milt vnd barmhertzig gewesen / damit der von hagenbach im ab erbetten worden were",
+   "preklad": "Jakmile se kníže Rakouský dozvěděl o jeho zajetí a o tomto volání, dlouho neotálel. Podle rady a vůle poslů Spříseženců, bez nichž v tom ani v ničem jiném vůbec nechtěl jednat, vyjel ihned z Kostnice do zmíněného Breisgau a Sundgau se čtyřmi sty knechty Spříseženců, kteří mu byli dáni na jeho žold a rozmístěni do některých jeho měst a hradů. Zároveň vyslal svého maršálka a radní k tomu Hagenbachovi, aby ho vyslechli a dále ho za jeho zločiny soudili a ztrestali. A tak kníže odjel do Freiburgu v Breisgau a s ním někteří poslové Spříseženců. Stalo se to proto, že se obávali, že kdyby kníže přišel do Breisachu osobně, byl by tak mírný a milosrdný, že by si to Hagenbach u něho vyprosil."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 233,
+   "popis": "dokončená kolorovaná miniatura – příjezd vévody Zikmunda: v čele mladý vévoda s rakouským kloboukem s péry na koni v čabrace, za ním jezdci a korouhev s rakouským pruhem (červená–bílá–červená); vpravo vítající zástup pěších s kopími a dlouhými píkami, muž snímá klobouk; v pozadí město s věžemi na kopci (Breisach?)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 234,
+   "text": "234 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám (prosvítá miniatura z rubu); na levém okraji kresba úponku"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak kníže Rakouský přišel sem do země a jak se Hagenbachovi se svolením [knížete] mělo soudit",
+ "poznamky_prekladu": [
+  "„Friburg in das Brissgow“ = Freiburg im Breisgau, nikoli Fribourg ve Švýcarsku.",
+  "„Marggschalck“ = maršálek (knížecí dvorský úředník); jméno v textu neuvedeno.",
+  "Počet 400 knechtů ponechán podle textu.",
+  "„an wing“ v nadpisu – čtení nejasné (snad „an im“?); přeloženo podle smyslu „Hagenbachovi … soudit“; ověřit v rukopisu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

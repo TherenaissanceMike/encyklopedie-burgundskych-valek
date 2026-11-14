@@ -1,0 +1,32 @@
+{
+ "cislo": 62,
+ "nadpis": "Das der hertzog von Burgunn etlich der eidgno[ssen] offen viend in sinen schirm nam",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 140,
+ "strany": [
+  140,
+  141
+ ],
+ "odstavce": [
+  {
+   "text": "Von stund an nam er ouch herr Bernharte von Eptingen der eidgno[ssen] offen viend / vnd darzů ander ir widerwertigen / vnd sunderlich den von heüdorf / von dem dann dise krieg vnd irrungen aller meist komen waren / in sinen schirm / als er das ouch den eidgno[ssen] hochmüticlich schreip / vnd gestattet ouch das der selb von heüdorf über den friden zů waltzhůt troffen / vnd wider all billicheit darnach balde / als etlich der von Bernn koufelüt[?] vnd ander der eidgno[ssen] von Stetten vnd lendern / in der vast messen den Rine hinab gen Franckfurt varen wolten / mit hilf sins landvogts / vnd des von Geroltzegk / vff des heiligen Richs strasen die selben koufelüt nider warf / inen ir barschaft vnd hab nam / ouch etlich mortlich vom leben zem tode bracht / vnd si gevangen gen Schuttern / in des von Geroltzegk Statt fürt / als man das harnach witer hören wirt",
+   "preklad": "Ihned vzal do své ochrany i pana Bernharda von Eptingen, otevřeného nepřítele Spříseženců, a k tomu i jiné jejich protivníky, a zvláště [Bilgeriho] von Heudorf, od něhož tyto války a rozepře nejvíce pocházely, jak to Spřísežencům také pyšně napsal. A dovolil, aby týž Heudorf přes mír uzavřený ve Waldshutu a proti vší slušnosti brzy nato, když někteří bernští kupci [?] a jiní [kupci] Spříseženců z měst a zemí chtěli o postním veletrhu plout po Rýně dolů do Frankfurtu, s pomocí jeho zemského fojta a [pána] von Geroldseck na silnicích Svaté říše tyto kupce přepadl, vzal jim jejich hotovost a jmění, některé vražedně připravil o život a zajaté odvedl do Schutternu, města [pána] von Geroldseck, jak se o tom dále uslyší."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 141,
+   "text": "141 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že vévoda Burgundský vzal do své ochrany některé otevřené nepřátele Spříseženců",
+ "poznamky_prekladu": [
+  "„koufelüt[?]“ – čtení nejisté, smysl jistý (kupci).",
+  "„vast messen“ = postní veletrh (Fastenmesse) ve Frankfurtu nad Mohanem.",
+  "Zemským fojtem je míněn Peter von Hagenbach (viz kap. 66–67); Geroldseck = páni z Hohengeroldsecku, Schuttern v Ortenau (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

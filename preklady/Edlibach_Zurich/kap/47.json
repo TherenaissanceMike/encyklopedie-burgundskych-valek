@@ -24,5 +24,6 @@
   "Opravy OCR: sant' → sant, ‘die → die, vflgenomen → vffgenomen, granff → graff, junen → jnen, ju nanse → jn nanse."
  ],
  "prelozil": "Claude (AI), 2026-11-13, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

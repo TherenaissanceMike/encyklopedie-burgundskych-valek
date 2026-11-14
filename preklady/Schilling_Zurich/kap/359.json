@@ -10,7 +10,7 @@
   },
   {
    "text": "In dem vorgenanten iare starp frow Yolant, ein herzogin von Saföy, die ein geborne küngin von Frankenrich was. Dieselb hat lange zit das hus von Saföy nach irs herren tot durch sich selber und etlich, die ir füglichen warent, in semlicher mass geregiert, das davon nit vil gütes kam, dann gros krieg und verhergung des ganzen landes und herzogthüms von Saföy; dann si der vorgenanten kriegen von Burgunnen ein rechte ursecherin wider die von Bern und ander ir Eidgnossen und zügewanten gewesen, als dann das hievor me dann in einem stück angezogen und gemelt, deshalb nit vil clag umb si gesin und ouch wol ze verkiesen ist.",
-   "preklad": "Ve zmíněném roce zemřela paní Jolanda, vévodkyně savojská, rozená francouzská královská dcera. Ta po smrti svého pána dlouhou dobu sama a skrze některé, kdo jí byli po vůli, vládla savojskému domu takovým způsobem, že z toho nevzešlo mnoho dobrého, nýbrž veliká válka a zpustošení celé savojské země a vévodství. Byla totiž pravou původkyní zmíněných burgundských válek proti Bernským a jejich ostatním konfederátům a spojencům, jak to bylo výše nejednou uvedeno a zmíněno; proto se nad ní mnoho nenaříkalo a dá se to také dobře oželet."
+   "preklad": "Ve zmíněném roce zemřela paní Jolanda, vévodkyně savojská, rozená francouzská královská dcera. Ta po smrti svého pána dlouhou dobu sama a skrze některé, kdo jí byli po vůli, vládla savojskému domu takovým způsobem, že z toho nevzešlo mnoho dobrého, nýbrž veliká válka a zpustošení celé savojské země a vévodství. Byla totiž pravou původkyní zmíněných burgundských válek proti Bernským a jejich ostatním Spřísežencům a spojencům, jak to bylo výše nejednou uvedeno a zmíněno; proto se nad ní mnoho nenaříkalo a dá se to také dobře oželet."
   }
  ],
  "poznamky": [
@@ -21,5 +21,6 @@
   "Oprava textu: odstraněny zbloudilé interpunkce (Saföy., landes:, füglichen\"warent), vıl → vil, verhergrung → verhergung (OCR)."
  ],
  "prelozil": "Claude (AI), 12. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

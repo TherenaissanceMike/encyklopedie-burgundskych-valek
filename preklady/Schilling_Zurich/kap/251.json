@@ -16,9 +16,10 @@
  "poznamky": [
   "Oprava textu: v nadpisu odstraněny svislice „|“ a OCR „sestürmt“ → „gestürmt“. Edice: s. 355 (OCR záhlaví „359“). Text je úplný.",
   "Datum: příští středa = 21. 2. 1476 (Tobler).",
-  "Tobler: o druhém útoku z 21. 2. Bernští druhý den psali konfederátům, že vévoda městečko dobyl, ale s velkou ztrátou, neboť příkop i město leží plné mrtvých; z vlastních lidí někteří zahynuli. Je velmi důležité udržet hrad, protože ovládá Neuchâtelské jezero a odtud by mohl nepřítel táhnout na Neuchâtel, Erlach, Biel a Nidau.",
+  "Tobler: o druhém útoku z 21. 2. Bernští druhý den psali Spřísežencům, že vévoda městečko dobyl, ale s velkou ztrátou, neboť příkop i město leží plné mrtvých; z vlastních lidí někteří zahynuli. Je velmi důležité udržet hrad, protože ovládá Neuchâtelské jezero a odtud by mohl nepřítel táhnout na Neuchâtel, Erlach, Biel a Nidau.",
   "Bernské varianty: „an einer siten … neben darin“, „ouch vil“, závěr „als das harnach bas gelütert wirt“. „mit gewerter hand“ = se zbraní v ruce."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,44 @@
+{
+ "cislo": 266,
+ "nadpis": "Wie sich die vorgenanten knechte in dem Sloß hielten vnd was si darumme anfingen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 582,
+ "strany": [
+  582,
+  583,
+  584
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als si nů in das Sloß warent komen da was gantz nit darinne weder essen noch trincken / klein noch groß / Si erfragten ouch einandern / da hatten si all nit weder Spis noch tranck / geschoß noch büchsen klöse bi inen / dz inen gar swer anlag / als nit vnbillichen was / Vnd liessen die vallbrucken wider nider mit gůter gewarsami einer hůt / vnd luffen harus in die nechsten hüser / vnd namen win / brot / vnd ander ding / vnd mit sunderheit zynnen geschirre von kannen vnd von platten / was si des ertragen vn[d] mit inen bringen mochten / aller vienden halben vnd gussen von stund an büchsen klöse / vnd rüste[n] sich gar mannlichen zů / Si namen ouch aller nechst bi der kirchen ein gůt Slangen büchsen vnd trůgen ouch die mit gewalt in das Sloß wie wol die viend alle byeinandern in der kirchen warend / vnd ein gantz gemeinde vnd ratt hatten da half inen dennocht der barmhertzig got / dz si das alles mit inen in das Sloß brachten / das ouch inen gar wol kam / dann si darab mannlich vnd gantz erfröwt wurden",
+   "preklad": "Když se dostali do hradu, nebylo tam vůbec nic k jídlu ani k pití, ani málo, ani mnoho. Vyptávali se také jeden druhého a zjistili, že nikdo z nich nemá u sebe jídlo ani pití, střelivo ani kule do ručnic, což je velmi tížilo, a ne bezdůvodně. Spustili tedy padací most znovu dolů, s dobrým zajištěním stráží, vyběhli ven do nejbližších domů a brali víno, chléb a jiné věci, zvláště cínové nádobí, konvice a mísy, kolik toho uměli unést a přinést s sebou, navzdory všem nepřátelům. Hned z toho slévali kule do ručnic a velmi mužně se chystali [k obraně]. Vzali také hned u kostela dobrou serpentinu a i tu násilím odnesli do hradu, ačkoli nepřátelé byli všichni pohromadě v kostele a měli tam celou obecní schůzi a radu. Milosrdný Bůh jim přesto pomohl, že to všechno donesli s sebou do hradu. To jim velmi přišlo vhod, neboť z toho nabyli mužnosti a velmi se zaradovali."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 583,
+   "popis": "kolorovaná kresba – posádka v hradě Yverdon: vlevo vojáci s bílým křížem nesou do hradní brány sudy, koše a pytle s jídlem; uprostřed obránci na hradbách odrážejí píkami a halapartnami savojské útočníky pod praporem s bílým křížem; vpravo věž a brána s palisádou, dole vodní příkop"
+  },
+  {
+   "strana": 584,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 583,
+   "text": "583 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 584,
+   "text": "584 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika s velkou kadelou"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se zmínění knechti v hradu zachovali a co přitom podnikli",
+ "poznamky_prekladu": [
+  "Z cínových konvic a mís slévali obránci kule – pěkný doklad improvizace střeliva (pro reenactory)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

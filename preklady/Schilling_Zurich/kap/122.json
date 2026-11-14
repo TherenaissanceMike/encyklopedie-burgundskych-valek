@@ -6,24 +6,25 @@
  "odstavce": [
   {
    "text": "122. Das die stat Mümpelgarten von denen von Bern und von Solotern in namen gemeiner Eidgnossen in die einung genomen wart.",
-   "preklad": "122. Jak bylo město Montbéliard přijato Bernské a Solothurnskými jménem obecných konfederátů do spolku."
+   "preklad": "122. Jak bylo město Montbéliard přijato Bernskými a Solothurnskými jménem obecných Spříseženců do spolku."
   },
   {
    "text": "Uf demselben tage zü Lutzern brachten ouch die von Bern und von Solotern an gemein Eidgnossen, wie das die stat Mümpelgart, so dann graf Heinrichen von Wirtenberg, den der herzog von Burgunnen gevangen hette, zügehorte, ouch begert in die einung zü komen und mit den Tütschen zü leben, dann si vil und mengerlei anfechtung hetten von Burgunnern, das si sich denselben underwerfen soltent. Und nachdem man dann uf demselben tage wart betrachten, das Mumpelgart den Eidgnossen und allem Tütschem lande als wol gelegen und ein rechter slüssel des landes were, do wart denen von Bern und von Solotern bevolhen und gewalt geben, das si dieselbe stat in namen gemeiner Eidgnossen in die nuwe vereinung nemen und das mit briefen und siglen bevestnen solten, und ob das zü schulden keme, soldner darin legen; wann es dann not tete, so woltent si dieselben mit lib und mit güte helfen entschütten und niemermer verlassen.",
-   "preklad": "Na tomtéž sněmu v Luzernu předložili Bernští a Solothurnští obecným konfederátům, že město Montbéliard, které náleželo hraběti Heinrichovi von Wirtenberg, jehož vévoda burgundský držel v zajetí, si také přeje vstoupit do spolku a žít s Němci, neboť mají od Burgunďanů mnoho a všelijakých nátlaků, aby se jim podrobili. A když se na témž sněmu uvážilo, že Montbéliard leží pro konfederáty i pro všechny německé země tak dobře a je pravým klíčem země, tu bylo Bernským a Solothurnským uloženo a dána moc, aby to město jménem obecných konfederátů přijali do nového spolku, stvrdili to listinami a pečetěmi a v případě potřeby tam umístili žoldnéře. A kdyby to bylo nutné, chtěli je životem i statkem pomoci vysvobodit a nikdy je neopustit."
+   "preklad": "Na tomtéž sněmu v Luzernu předložili Bernští a Solothurnští obecným Spřísežencům, že město Montbéliard, které náleželo hraběti Heinrichovi von Wirtenberg, jehož vévoda burgundský držel v zajetí, si také přeje vstoupit do spolku a žít s Němci, neboť mají od Burgunďanů mnoho a všelijakých nátlaků, aby se jim podrobili. A když se na témž sněmu uvážilo, že Montbéliard leží pro Spřísežence i pro všechny německé země tak dobře a je pravým klíčem země, tu bylo Bernským a Solothurnským uloženo a dána moc, aby to město jménem obecných Spříseženců přijali do Dolního spolku, stvrdili to listinami a pečetěmi a v případě potřeby tam umístili žoldnéře. A kdyby to bylo nutné, chtěli je životem i statkem pomoci vysvobodit a nikdy je neopustit."
   },
   {
    "text": "Also kament die von Mümpelgart ouch in die vereinung, das denen von Bern und gemeinen Eidgnossen zü meren malen wol erschossen hat, als harnach stat.",
-   "preklad": "Tak se i Montbéliardští dostali do spolku, což Bernským i obecným konfederátům mnohokrát dobře posloužilo, jak stojí dále."
+   "preklad": "Tak se i Montbéliardští dostali do spolku, což Bernským i obecným Spřísežencům mnohokrát dobře posloužilo, jak stojí dále."
   }
  ],
  "poznamky": [
   "Text: „Muümpelgart“ → „Mümpelgart“, „und’ mit“ → „und mit“. V nadpisu v kapitoly.json je zbloudilá závorka („wart.)“, zbytek odkazu na poznámku).",
-  "Tobler: Schillingova zpráva je nepřesná. O přijetí Montbéliardu se jednalo 10. 8., 6. a 17. 9. 1474 bez usnesení. Protože Bern nezískal všechny konfederáty, zkoušel to s Curychem; když to padlo, vzniklo 24. 10. 1474 desetileté spojenectví mezi Bernem, Solothurnem a Montbéliardem. O nějakém „pověření“ od konfederátů není nic známo.",
+  "Tobler: Schillingova zpráva je nepřesná. O přijetí Montbéliardu se jednalo 10. 8., 6. a 17. 9. 1474 bez usnesení. Protože Bern nezískal všechny Spřísežence, zkoušel to s Curychem; když to padlo, vzniklo 24. 10. 1474 desetileté spojenectví mezi Bernem, Solothurnem a Montbéliardem. O nějakém „pověření“ od Spříseženců není nic známo.",
   "Hrabě Heinrich von Wirtenberg = Jindřich Württemberský, pán Montbéliardu; Karel Smělý ho dal zajmout v roce 1474.",
   "„in die nuwe vereinung“ = do nového (Dolního) spolku proti Burgundsku.",
   "Varianta (pravděpodobně bernský rukopis): „in namen gemeiner Eidgnossen ouch in die einung“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

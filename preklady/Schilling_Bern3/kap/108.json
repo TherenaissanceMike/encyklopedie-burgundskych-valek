@@ -1,0 +1,31 @@
+{
+ "cislo": 108,
+ "nadpis": "Das der küng denen von Bernn vnd andern eidgno[ssen] treffenlich warnung tett",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 221,
+ "strany": [
+  221,
+  222
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach kam aber ein küngklicher bot von Franckenrich mit einer Credentz vom küng / vnd enbot der küng den eidgno[ssen] wie das im treffenlich warnungen komen / das der hertzog von Burgunn mit aller siner macht vnd gezüge von büchsen vnd anderm gantz zůgerüst / vnd des willens were / sich harus in das Suntgöw für Müllhusen zů legern / Darumb wer es der eidgno[ssen] gevallen / so hette sich der küng zů widerstand dem Burgunschen hertzogen mit einer grossen macht zůgerüst / vnd zů trost vnd eren den eidgno[ssen] wolt er libe vnd gůt zů inen setzen / vnd si nit verlassen / des dancket man dem küng demüticlichen / Der hertzog von Burgunn kam ouch nit harus / vnd nam darnach sinen weg das land ab / als harnach etwas bas wirt erlütert",
+   "preklad": "Potom přišel opět královský posel z Francie s pověřovacím listem od krále a král vzkázal Spřísežencům, že mu přišla důrazná varování, že vévoda Burgundský je se vší svou mocí a výzbrojí, s děly i jiným, zcela připraven a má v úmyslu táhnout sem do Sundgau a položit se ležením před Mulhouse. Proto, bude-li to Spřísežencům libo, připravil se král s velkou mocí k odporu proti burgundskému vévodovi a k útěše a cti Spříseženců chce za ně nasadit život i statky a neopustit je. Za to se králi pokorně poděkovalo. Vévoda Burgundský však sem nepřišel a vydal se potom dolů po zemi, jak bude dále poněkud lépe vyloženo."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 222,
+   "text": "222 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly velká prázdná místa"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak král dal Bernským a jiným Spřísežencům důrazné varování",
+ "poznamky_prekladu": [
+  "„das land ab“ = dolů po zemi (po Rýně), tj. k obléhání Neussu 1474 (mimo přepis).",
+  "„gezüge von büchsen“ = výzbroj, děla."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

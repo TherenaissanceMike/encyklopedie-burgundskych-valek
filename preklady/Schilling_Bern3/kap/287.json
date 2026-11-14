@@ -1,0 +1,45 @@
+{
+ "cislo": 287,
+ "nadpis": "Das die von Bernn / Friburg vnd Sollottern von Murten gen Nüwenburg zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 636,
+ "strany": [
+  636,
+  637
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also in dem namen gottes brachen die von Bernn / Friburg vnd Sollottern vff an der iungen vaßnacht / vnd wisten dennocht von disen dingen gantz nit / das es den iren leider als übel ergangen was / vnd zoch yederman den nechste[n] wider Nüwenburg zů / In willen vnd meynunge die fromen lüte ritterlich zů entschütten / Vnd als man sich zů Nüwenburg vnd darumb hatte versampnet / da kamend die mere / wie sich die fromen lüte in Granson vff geben hetten / vnd alle erhencket vnd ertrenckt weren / vnd durch den mörder von Rünschan verkouft vnd verratten / darab als nit vnbillich was menglich erschrack / vnd ein mitliden hatt / Vnd wart man dennocht der eren vnd mannheit nach gedencken / wie man sich mit hilf des almechtigen gottes möcht gerechen / vnd mit gůter ordnung an den blůt vergiesser ziechen / des yederma[n] geneigt vnd gantz willig was",
+   "preklad": "Ve jménu Božím tedy vytáhli Bernští, Fribourgští a Solothurnští o mladém masopustu a o těch věcech ještě vůbec nic nevěděli, že se jejich lidem tak zle vedlo. Každý táhl nejkratší cestou k Neuchâtelu v úmyslu statečné lidi rytířsky vysvobodit. A když se v Neuchâtelu a okolí shromáždili, přišla zpráva, že se stateční lidé v Grandsonu vzdali, byli všichni oběšeni a utopeni a vrahem von Rünschan prodáni a zrazeni. Nad tím se každý, a to ne neprávem, zděsil a měl soucit. Přesto se pomýšlelo, jak čest a mužnost velí, jak by se s pomocí všemohoucího Boha bylo možné pomstít a s dobrým pořádkem vytáhnout proti tomu prolévači krve; k tomu byl každý nakloněn a zcela ochoten."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 636,
+   "popis": "kolorovaná kresba – Bernští, Fribourgští a Solothurnští pochodují k Neuchâtelu: vlevo korouhve (Biel se sekerami, Bern s medvědem, Fribourg, Solothurn), bubeník, pikenýři s bílými kříži; vpravo opevněné město s hradem a kostelem (Neuchâtel), dole jezero"
+  },
+  {
+   "strana": 637,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 637,
+   "text": "637 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; uprostřed rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 636,
+   "text": "„an der iungen vaßnacht“ (masopustní neděle) 1476 = 25. února 1476; o popravě posádky ještě nevěděli"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští, Fribourgští a Solothurnští táhli z Murtenu do Neuchâtelu",
+ "poznamky_prekladu": [
+  "„an der iungen vaßnacht“ 1476 – mladý (panský) masopust: neděle Estomihi 25. 2., případně masopustní úterý 27. 2. 1476 (juliánský kalendář; Velikonoce 14. 4. 1476).",
+  "Grandson kapituloval 28. 2. 1476, poprava 29. 2.–1. 3. (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

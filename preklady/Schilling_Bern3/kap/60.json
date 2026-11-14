@@ -1,0 +1,42 @@
+{
+ "cislo": 60,
+ "nadpis": "Das der hertzog von österrich dem hertzogen von Burgunn das land versatzt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 137,
+ "strany": [
+  137,
+  138,
+  139
+ ],
+ "odstavce": [
+  {
+   "text": "Do nü des fürsten werbung an dem ende nit einen fürgang haben mocht / vnd sich der küng des wider die eidgno[ssen] nit annemen wolt / des man billich der cristenlichen Crone von Franckenrich zů gůtem niemer vergisset / nach dem dann der koppel[?] ze ring vmb / über die eidgno[ssen] erdacht was / Ist aber dem nach der genante fürst von österrich mit sinen Räten vnd anreitzern zem hertzogen von Burgunn genant karolus geritten als zů dem der sich dann dazemal etlich Jar vnd me nit allein durch die vorcht siner macht / Sunder durch sin vnmenschlich grymikeit / die er dann zů dynant / zů luttich / vnd an vil andern herrenn Stetten vnd gemeinden / cristener lüten / priestern wiben vnd kinden mit gewaltigen vnrechten sachen vnd ellenden töden / als das menglichem wissen ist volbracht / vorchtsam gemacht hat / Vnd darzů sich zů etlichen tütschen fürsten / dem pfaltzgrafen des Riches / vnd anderen in vereynung getan Vnd hat sich dem selben hertzogen von Burgunn so wit verpflicht vnd vnder geben / das er inn sin land vnd lüte in sinem schirm nam / vnd zů sinem hoff gesinde / das doch dem durchlüchtigen löblichen huss österrich sich des zů vnder geben ein klein ere was",
+   "preklad": "Když tedy knížecí poselství nemohlo na tom místě uspět a král se nechtěl ujmout té věci proti Spřísežencům – na což by se ke cti křesťanské koruny francouzské nemělo nikdy zapomenout –, poté co byla ta síť [?] kolem dokola proti Spřísežencům vymyšlena, jel zmíněný kníže Rakouský se svými radními a štváči k vévodovi Burgundskému jménem Karel. Ten se tehdy už několik let a déle stal obávaným nejen strachem z jeho moci, ale i svou nelidskou ukrutností, kterou provedl v Dinantu, v Lutychu a na mnoha jiných pánech, městech a obcích, na křesťanském lidu, kněžích, ženách a dětech násilnými nespravedlivými činy a bídnými smrtmi, jak je každému známo. A k tomu se spolčil s některými německými knížaty, s falckrabětem Říše a s jinými. A [kníže Rakouský] se témuž vévodovi Burgundskému tak dalece zavázal a podřídil, že ho vzal se zemí a lidmi do své ochrany a mezi své dvořany. To však pro jasný a chvalný rod Rakouský byla malá čest, takto se podřídit."
+  },
+  {
+   "text": "Der selb hertzog von Burgunn hatt ouch dem fürsten von österrich dazemal sovil hilf vnd bistands wider die eidgno[ssen] zůgesagt / Das er im die Grafschaft pfirt / vnd darzů all ander sin lande vnd lüte im Suntgow / Elsass / vnd Brisgow mit sampt den Stetten Rinfelden / Seckingen / louffenberg vnd waltzhůt / mit dem Swartzwald / vmb Achtzig tusent guldin versatzt / als einen pfand Schilling Vnd damit das er die eidgno[ssen] dester bas bekriegen vnd vmb bringen möcht / über gab er also dem hertzogen von Burgunn / als einem hasser des heiligen Richs vnd durechter[?] der tütschen / an dem ende einen mergklichen ingang vnd Slüssel tütscher nation / über das doch das löblich huss österrich gewelten von altem har / mit der Chur / des heiligen Riches / vnd andern den höchsten wirden / von den tütschen vor andern angesechen worden was /",
+   "preklad": "Tentýž vévoda Burgundský tehdy knížeti Rakouskému přislíbil tolik pomoci a podpory proti Spřísežencům, že mu [kníže] zastavil hrabství Pfirt a k tomu všechny své ostatní země a lidi v Sundgau, Alsasku a Breisgau spolu s městy Rheinfelden, Säckingen, Laufenburg a Waldshut i se Schwarzwaldem za osmdesát tisíc zlatých jako zástavní sumu. A aby mohl Spřísežence tím lépe válčit a zahubit, předal tak vévodovi Burgundskému, nepříteli Svaté říše a pronásledovateli [?] Němců, na tom místě významný vstup a klíč k německému národu. A to přesto, že chvalný rod Rakouský byl odedávna Němci před jinými vyvolen a ctěn volbou ke Svaté říši a jinými nejvyššími hodnostmi."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 138,
+   "text": "138 X (pozdější foliace, levý horní roh); stránka bez obrázku; mezi oddíly prázdné místo"
+  },
+  {
+   "strana": 139,
+   "text": "139 X (pozdější foliace, pravý horní roh); stránka bez obrázku; mezi oddíly prázdné místo (pro obrázek?)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Že vévoda Rakouský zastavil zemi vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "„koppel[?]“ – čtení nejisté; přeloženo podle smyslu „síť [?]“ (spiknutí, obklíčení).",
+  "„durechter[?]“ – čtení nejisté; smysl „pronásledovatel“ (Durächter).",
+  "Zástava se uskutečnila smlouvou ze Saint-Omer 9. 5. 1469 (mimo přepis). Schilling: 80 000 zlatých; podle jiných pramenů činila zástavní suma 50 000 zlatých (nesoulad, mimo přepis).",
+  "Pfirt = hrabství Ferrette v Sundgau. Dinant (1466) a Lutych (1468) dal Karel Smělý krutě potrestat (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

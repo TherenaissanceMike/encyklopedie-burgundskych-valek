@@ -18,7 +18,7 @@
   },
   {
    "text": "Und als ein gemeind dis gros arbeit lange zit getriben und ouch die stat und ander from lüte insunders des grossen und merglichen costen gehept hatten und ouch leider etlich arm from lüte, frowen und man an demselben werk umb ir leben kamen und arm bettrisen wurden, do wart am letsten nit darus und man mocht daran kein bestentlichen grund noch pfulment finden, und was aller cost, müg und arbeit ganz verloren und kam der meister ouch hinweg. Wie wol er gern getan het und gros arbeit daran leit und an im nit erwant, so mocht es doch nit sin, dann derselb meister, ouch ander werk an dem zitglockenturn zu Bern mit ufrichten des knopfes, der stangen und des gerüstes so künstenrich und meisterlich volbracht, das almenglich ein gros verwundern daran gehebt hat und in der stat von Bern desglich nie mer gesechen worden ist.",
-   "preklad": "A když obec tuto velkou práci dlouhý čas konala a město i jiní zbožní lidé zvlášť měli velké a značné náklady a bohužel někteří chudí zbožní lidé, ženy i muži, při tom díle přišli o život nebo zůstali ubozí upoutaní na lůžko, nakonec z toho nic nebylo. Nedalo se tam najít žádné pevné dno ani základ a všechny náklady, námaha a práce byly zcela ztraceny; i mistr odešel. Ačkoli by to byl rád udělal, vložil do toho velkou práci a na něm to nezáleželo, nemohlo to být. Vždyť týž mistr provedl i jiné dílo na věži Zytglogge v Bernu, když vztyčil makovici, žerď a lešení, tak umně a mistrovsky, že se tomu všichni velmi divili a nic podobného nebylo ve městě Bernu nikdy víc spatřeno."
+   "preklad": "A když obec tuto velkou práci dlouhý čas konala a město i jiní poctiví lidé zvlášť měli velké a značné náklady a bohužel někteří chudí poctiví lidé, ženy i muži, při tom díle přišli o život nebo zůstali ubozí upoutaní na lůžko, nakonec z toho nic nebylo. Nedalo se tam najít žádné pevné dno ani základ a všechny náklady, námaha a práce byly zcela ztraceny; i mistr odešel. Ačkoli by to byl rád udělal, vložil do toho velkou práci a na něm to nezáleželo, nemohlo to být. Vždyť týž mistr provedl i jiné dílo na věži Zytglogge v Bernu, když vztyčil makovici, žerď a lešení, tak umně a mistrovsky, že se tomu všichni velmi divili a nic podobného nebylo ve městě Bernu nikdy víc spatřeno."
   },
   {
    "text": "Dis han ich von des brunnen wegen harin gezogen zü einer ewigen gedechtnüss, das man sich zükünftigen ziten davor hüten und sich des niemer mer annemen, noch darnach gedenken sol, dann es alles verloren und daruf nit ze buwen ist und vor langen ziten, als man sagt, ouch ein mal verworfen. So hat ouch dasselb wasser ietzmalen ein stat von Bern und ir inwoner me costet, dann wer es güter rifwin gewesen.",
@@ -35,5 +35,6 @@
   "Oprava OCR: odstraněny zbloudilé znaky „>“ a značky poznámek („’)“ v nadpisu, „”)“), „gedechtnüuss“ → „gedechtnüss“."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

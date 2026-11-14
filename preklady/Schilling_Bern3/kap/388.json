@@ -1,0 +1,44 @@
+{
+ "cislo": 388,
+ "nadpis": "Das die von Bernn dru tusent werlicher mannen In ir Statt besamlotent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 879,
+ "strany": [
+  879,
+  880
+ ],
+ "odstavce": [
+  {
+   "text": "In disen dingen wurden die von Bern betrachten vnd zů hertzen nemen die vnfruntlichen tröwwort So dann von den selben knechten gerett vnd gebrucht wurden / In einem vnd dem andern / Vnd beschriben daruf der iren von Stetten vnd lenndern zů inen in ir Statt / me dann dru tusent werlicher mannen / vmb das si vor inen sicher weren / vnd ouch ir herren vnd meister möchten bliben / vnd sin So zwüschen warent si von Burgdorf ouch harzů gezogen / vnd lagent lang vor der Statt / dz man si darin nit wolt lassen / vnd beschach das darumb das man entsas vnd in vorchten wz / solt man si ingelassen vnd keinerley vnfruntlicher worten oder wercken von inen gehört haben / das man zů noch vnd merer vnrüwen wer komen / Dann es dem gemeinen man zů Bernn gar vnledig wz / dz man inen also trowen vnd semlich vnuernunft bruchen solt / So was ouch die Statt vol fromer lüten / die das ouch nit hetten mögen erliden / von semlicher sach wegen wolt man si am ersten in die Statt nit lassen / das si gar übel verdros / vnd meinten wolt man inen die Statt also vor besliessen / so woltent si durch die aren watten / damit si von der kelte kement",
+   "preklad": "Při tom všem začali Bernští uvažovat a brát si k srdci nepřátelské výhrůžky, jichž ti knechti užívali tu i onde. A proto povolali ze svých měst a krajin do svého města přes tři tisíce ozbrojených mužů, aby byli před nimi v bezpečí a mohli zůstat svými pány a mistry. Mezitím oni také přitáhli od Burgdorfu a dlouho leželi před městem, protože je nechtěli pustit dovnitř. Stalo se to proto, že se obávali a měli strach, že kdyby je pustili dovnitř a uslyšeli od nich nějaká nepřátelská slova nebo činy, došlo by k ještě většímu neklidu. Neboť prostý lid v Bernu velmi nelibě nesl, že by jim měli takto vyhrožovat a počínat si tak nerozumně. A město bylo také plné statečných lidí, kteří by to také nemohli snést. Kvůli tomu je zprvu nechtěli do města pustit, což je velmi rozzlobilo, a říkali, že když jim chtějí město takto zavírat, přebrodí se přes Aaru, aby se zbavili zimy."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 879,
+   "popis": "dvě vojska se setkávají mezi kopci: vlevo zástup pikenýrů s halapartnami a dudákem/bubeníkem pod korouhvemi (dělená černo-bílá, pruhovaná se hvězdou, se světcem); vpravo zástup s bubeníkem pod korouhvemi (Bern s medvědem, korouhev s orlicí, korouhev s kozorožcem); v pozadí město s věžemi a hradbami, hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 880,
+   "text": "880 X (pozdější foliace, levý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, dole rubrika s iniciálou D (k obrazu na s881)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 879,
+   "text": "Bern povolal přes 3000 ozbrojených mužů do města"
+  },
+  {
+   "strana": 880,
+   "text": "„durch die aren watten“ = brodit se přes Aaru, aby se zahřáli (výhrůžka)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští shromáždili ve svém městě tři tisíce ozbrojených mužů",
+ "poznamky_prekladu": [
+  "„durch die aren watten, damit si von der kelte kement“ – posměšná výhrůžka: raději se přebrodí ledovou Aarou, aby se „zahřáli“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

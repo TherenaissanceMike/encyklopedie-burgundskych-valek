@@ -14,7 +14,7 @@
   },
   {
    "text": "Vff den helgen wiennacht abint ouch an sant steffens vnd sant johansstag zugend die optgemelten eignossen von bassel vnd als die eignossen durch dz suncköw jn luttringen zugend schatztend sy die juden im suncköw vnd nament jnnen wz jn eben vnd gefellig wz cet.",
-   "preklad": "Na svatý Štědrý večer a také na svatého Štěpána a svatého Jana vytáhli řečení konfederáti z Basileje. A když táhli přes Sundgau do Lotrinska, uložili Židům v Sundgau výpalné a vzali jim, co se jim hodilo a líbilo."
+   "preklad": "Na svatý Štědrý večer a také na svatého Štěpána a svatého Jana vytáhli řečení Spříseženci z Basileje. A když táhli přes Sundgau do Lotrinska, uložili Židům v Sundgau výkupné a vzali jim, co se jim hodilo a líbilo."
   }
  ],
  "poznamky": [
@@ -25,8 +25,9 @@
   "„büchssen“ je zde nejspíš ruční palná zbraň (puška); proč se střílelo, text neříká.",
   "„farend dirnnen“ = potulné ženy, ženštiny z trénu (srov. Schilling kap. 323 „ženštin“).",
   "Srov. Schilling kap. 323: tam se loď rozlomí pod návalem rozjařených knechtů a utonulých je „přes sto“ (podle Toblera nadsazeno, basilejské zprávy uvádějí 30 a 50). Edlibach jako příčinu uvádí výstřel, pád muže do vody a nával na záď, kde knechti prošlápli dno.",
-  "„schatztend sy die juden“ = vybírali od Židů výpalné (brandschatzen), tj. vydírali je."
+  "„schatztend sy die juden“ = vybírali od Židů výkupné (beschatzen, ne brantschatz = výpalné), tj. vydírali je."
  ],
  "prelozil": "Claude (AI), 13. 11. 2026, z Usteriho edice; neověřeno proti rukopisu",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

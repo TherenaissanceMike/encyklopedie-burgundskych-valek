@@ -1,0 +1,53 @@
+{
+ "cislo": 290,
+ "nadpis": "Das die von Switz vor dannen zugent / vnd ouch die von Thün mit iren panern einen verren weg von eidgno[ssen] / vnd vor den vienden in ordnung hieltent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 641,
+ "strany": [
+  641,
+  642,
+  643
+ ],
+ "odstavce": [
+  {
+   "text": "In dem zugen die fromen eidgno[ssen] von Switz vnd mit inen die von Thün / die dero von Bernn sind / mit iren panern ob Famerki hin / in einen verren weg von allem volck / vnd hielten da vff einer höhe / dz man meint es weren viend / Ie stund kamend die viend gegen inen / vnd erzöugten sich gar mechticlich damit ein geschrey für Famerki kam / die von Switz vn[d] von Thün weren von den vienden hertiklich angriffen vnd litten not",
+   "preklad": "Mezitím táhli stateční Spříseženci ze Schwyzu a s nimi Thunští, kteří patří Bernským, se svými korouhvemi nad Vaumarcus, daleko ode všeho lidu, a zastavili se tam na jednom návrší, takže se mělo za to, že jsou to nepřátelé. Vzápětí proti nim přicházeli nepřátelé a ukazovali se ve velké síle. Proto se k Vaumarcus doneslo volání, že Schwyzští a Thunští jsou nepřáteli tvrdě napadeni a jsou v nouzi."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 642,
+   "popis": "kolorovaná kresba – předvoj u Vaumarcus (bitva u Grandsonu, 2. 3. 1476): vlevo nahoře Schwyzští a Thunští s korouhvemi (Schwyz s křížem, Thun s hvězdou) na kopci odrážejí píkami burgundské jezdce, vpravo nahoře burgundské prapory (ondřejský kříž, ocílky, orel) u tábora; vlevo dole korouhve (Uri s býčí hlavou, světec, Ukřižovaný) a zástup pikenýrů, bubeník a trubač; uprostřed velitel ukazuje na nepřítele; vpravo dole kopec"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 642,
+   "text": "642 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou I; na levém okraji drobná kresba oběšence"
+  },
+  {
+   "strana": 643,
+   "text": "643 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany s rubrikou vepsanou do banderoly, dole text s iniciálou A"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 642,
+   "text": "první srážka bitvy u Grandsonu: předvoj Schwyzu a Thunu nad Vaumarcus"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 642,
+   "text": "na levém okraji drobná pozdější kresba oběšence"
+  }
+ ],
+ "nadpis_preklad": "Jak Schwyzští odtáhli napřed a také Thunští se svými korouhvemi stáli v šiku daleko od Spříseženců a před nepřáteli",
+ "poznamky_prekladu": [
+  "Famerki = Vaumarcus (hrad nad Neuchâtelským jezerem, obsazený Burgunďany).",
+  "Thun patřil pod bernskou vládu („die dero von Bernn sind“).",
+  "Začátek bitvy u Grandsonu, 2. 3. 1476 (datum viz kap. 296)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -6,11 +6,11 @@
  "odstavce": [
   {
    "text": "25. Das etlich von Eidgnossen an den Swarzwald zugen und inen grossen schaden tatent.",
-   "preklad": "25. Jak někteří konfederáti táhli ke Schwarzwaldu a způsobili nepřátelům velkou škodu."
+   "preklad": "25. Jak někteří Spříseženci táhli ke Schwarzwaldu a způsobili nepřátelům velkou škodu."
   },
   {
    "text": "Es zugen ouch etlich der Eidgnossen knechte an den Swarzwald und gewunnen da ein stark letze, die si den Eidgnossen zü gegenwere gemacht hatten, und erstachen ob achzig mannen und namen inen ein grossen roup veches; den brachten si mit inen gen Schafhusen. Si brantschatzten ouch den abt von sant Bläsin umb drütusent güldin; daran wurden von im bezalt fünfzechenhundert güldin und das übrige ward von Eidgnossen ganz abgetedinget.",
-   "preklad": "Někteří knechti konfederátů také táhli ke Schwarzwaldu a dobyli tam silný zátaras, který nepřátelé postavili na obranu proti konfederátům. Pobili přes osmdesát mužů a vzali jim velkou kořist dobytka; tu přivedli s sebou do Schaffhausenu. Na opatovi od svatého Blažeje (St. Blasien) také vymohli výpalné tři tisíce zlatých; z toho od něj bylo zaplaceno patnáct set zlatých a zbytek mu konfederáti po vyjednávání zcela odpustili."
+   "preklad": "Někteří knechti Spříseženců také táhli ke Schwarzwaldu a dobyli tam silný zátaras, který nepřátelé postavili na obranu proti Spřísežencům. Pobili přes osmdesát mužů a vzali jim velkou kořist dobytka; tu přivedli s sebou do Schaffhausenu. Na opatovi od svatého Blažeje (St. Blasien) také vymohli výpalné tři tisíce zlatých; z toho od něj bylo zaplaceno patnáct set zlatých a zbytek mu Spříseženci po vyjednávání zcela odpustili."
   }
  ],
  "poznamky": [
@@ -20,5 +20,6 @@
   "Opravy OCR: „den na Eidgnossen“ → „den Eidgnossen“, „Bläsın“ → „Bläsin“, „wurden.“ → „wurden“."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

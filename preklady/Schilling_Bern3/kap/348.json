@@ -1,0 +1,47 @@
+{
+ "cislo": 348,
+ "nadpis": "Das die von Bernn vnd annder mit inen mit iren panern gen Milden zugen / vnd nam yederman was im werden mocht",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 781,
+ "strany": [
+  781,
+  782,
+  783
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zugent die von Bernn mit ir paner den nechsten gen Milden / die selben all was dann von priestern mannen vnd frowen was / giengen inen engegen mit allem heiltům / vnd begerten gnaden / die man inen ouch tet / dann man si alle bi leben lies bliben / wie wol si einer harten straff nach irem verdienen wirdig werent gewesen doch wart dennocht in der gantzen Statt sackman gemacht / vnd wart gros gůt darin erobert vnd gewunnen",
+   "preklad": "A tak táhli Bernští se svou korouhví nejkratší cestou do Moudonu. Všichni, kdo tam byli, kněží, muži i ženy, jim vyšli vstříc se všemi svatými ostatky a prosili o milost. Ta se jim také dostala, neboť je všechny nechali naživu, ačkoli by si podle svých zásluh byli zasloužili tvrdý trest. Přesto bylo celé město vypleněno a byl v něm dobyt a získán velký majetek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 782,
+   "popis": "příchod Bernských k Moudonu (Milden): vlevo zástup s bílými kříži, píkami a korouhvemi (bernský medvěd aj.), bubeník/pištec; vpravo před branou města s kostelem vychází procesí kněží a měšťanů s relikviáři, korouhvemi a monstrancemi vstříc vojsku; vzadu jezero s loďkou, skály s hradem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 782,
+   "text": "782 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V"
+  },
+  {
+   "strana": 783,
+   "text": "783 X (pozdější foliace, pravý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz, dole odstavec s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 782,
+   "text": "Milden = Moudon; „sackman gemacht“ = město vyplundrováno"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a jiní s nimi táhli se svými korouhvemi do Moudonu a každý bral, co mohl dostat",
+ "poznamky_prekladu": [
+  "Milden = Moudon (Vaud).",
+  "„mit allem heiltům“ = se všemi relikviemi, tj. v kajícím procesí se svatými ostatky.",
+  "„sackman gemacht“ = město vydáno k plenění; děj následuje po bitvě u Murtenu 22. 6. 1476 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

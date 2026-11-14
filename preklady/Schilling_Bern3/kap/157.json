@@ -1,0 +1,44 @@
+{
+ "cislo": 157,
+ "nadpis": "Das der hertzog von Lothringen zů dem küng von Franckenrich in eigner persone reit / vnd im sin anligen clagt",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 331,
+ "strany": [
+  331,
+  332,
+  333
+ ],
+ "odstavce": [
+  {
+   "text": "Also reit der hertzog von Lothringen mit etlichen sinen dienern zem küng von Franckenrich / vnd was da lang zit by im / vnd wart den küng als vil ermanen vnd im mit semlicher grosser bit ankeren / dz es im dennocht als dem aller cristenlichesten küng zů hertzen gieng / das er mit sinem volck dem hertzogen von Burgunn ein widerstand vn[d] gegenwer tet / des glichen die fürsten herren vn[d] stette der nüwen vereynung ouch taten / vnd liess sich der küng des nit beturen / dann das er dem hertzogen von Lothringen gar vil geltes gab vnd fürsatzt / vnd wart damit das hertzogtům von Lothringen gar vast gewüst / vnd nacher me dann ein mal gewunnen vnd verloren / als harnach statt",
+   "preklad": "Vévoda Lotrinský tedy jel s několika svými služebníky ke králi francouzskému a byl u něho dlouhý čas. Krále tolik napomínal a s takovou velkou prosbou na něj naléhal, že mu to přece jen jako nejkřesťanštějšímu králi šlo k srdci, aby se se svým lidem postavil vévodovi Burgundskému na odpor, jak to činila i knížata, páni a města Dolního spolku. Král však nechtěl obětovat víc, než že vévodovi Lotrinskému dal a zapůjčil velmi mnoho peněz. A tím bylo vévodství Lotrinské velmi zpustošeno a potom víc než jednou dobyto a ztraceno, jak dále stojí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 331,
+   "popis": "místo vynechané pro obrázek (prázdný rám)"
+  },
+  {
+   "strana": 332,
+   "popis": "velká dokončená kolorovaná miniatura, dvojdílná – vlevo v síni s trámovým stropem sedí na trůnu pod baldachýnem vousatý francouzský král s korunou v černém plášti, za ním dvořané s péry; před ním klečí René Lotrinský v černém s mečem a prosí rozpaženýma rukama, za ním jeho družiníci s lotrinským dvojitým křížem na prsou; páže s holí; schodiště z dlaždicové podlahy; vpravo krajina se skalami a lotrinská jízda s dvojitými kříži a pruhovanou korouhví"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 332,
+   "text": "332 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 333,
+   "text": "333 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak vévoda Lotrinský osobně jel ke králi francouzskému a stěžoval si mu na svou tíseň",
+ "poznamky_prekladu": [
+  "„liess sich der küng des nit beturen, dann…“ = král to nechtěl nechat přijít dráž než… (beturen = zdát se příliš drahé); francouzský král = Ludvík XI. (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

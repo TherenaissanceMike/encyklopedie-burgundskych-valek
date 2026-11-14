@@ -1,0 +1,51 @@
+{
+ "cislo": 162,
+ "nadpis": "Hienach statt geschriben die sach von Ponterlin / vnd wie am ersten etlich knecht dahin luffen / vnd Statt vnd Sloss mit dem Sturm gewunnen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 338,
+ "strany": [
+  338,
+  339,
+  340,
+  341
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zů usgendem mertzen / in dem vorgenanten Jare / machtent sich aber hantvest lüte vnd gůt gesellen zů samen / von Bernn / Lutzern / Sollotern vnd ander das ir bi drützechen hundert wurden vnd zugen aber in Burgunn bis gen Ponterlin / vnd sturmten von stund an die selben Statt / vnd gewunnen die mit dem Swert vnd gewalt / da luffen die Burgunner in das Slos / das in der Statt gelegen / vnd gar starck was / vnd vermeinten sich darinne ze weren / also griffent si ouch gar balde das Sloss an / mit ritterlicher manheit / vnd wart die not vnd angst als gros / das si das Sloss mit dem Sturm vnd grossen arbeiten gewunnen vnd wurden in der Statt vnd dem Slos vmbbracht vnd erstochen / me dann drithalb hundert man / es wart ouch darinne / gar gros mercklich gůt an barem gelt / Silber geschirr vnd anderm erobert vnd gewunnen / vnd aber gar vnglich geteilt / als man das nachmaln von mengem biderman hort clagen / vnd die wile man das Sloss sturmpt / da ritten die Burgunner vnd ander mit grossen huffen vor der Statt / vnd erzöugten sich in meynung / das si das Slos behalten vn[d] nit übergeben solten / so wurdent si von inen entschüttet / das si ouch gernn hetten getan / es mocht si aber nit helfen / vnd wart also ritterlichen gewunnen",
+   "preklad": "Potom koncem března zmíněného roku se znovu sešli zdatní lidé a dobří druhové z Bernu, Luzernu, Solothurnu a odjinud, takže jich bylo asi třináct set, a táhli znovu do Burgundska až k Pontarlieru. Ihned to město útočili a dobyli je mečem a mocí. Tu utekli Burgunďané do hradu, který ležel ve městě a byl velmi silný, a mínili se v něm bránit. Oni však velmi rychle zaútočili i na hrad s rytířskou statečností a tíseň a úzkost byla tak veliká, že hrad útokem a s velkou námahou dobyli. Ve městě a na hradě bylo zabito a probodnuto přes dvě stě padesát mužů. Bylo tam také ukořistěno a dobyto velmi mnoho značného majetku na hotových penězích, stříbrném nádobí a jiném, avšak rozděleno velmi nestejně, jak bylo potom slyšet stěžovat si mnohého poctivého muže. A zatímco se hrad útočil, jezdili Burgunďané a jiní ve velkých houfech před městem a ukazovali se v tom úmyslu, aby [obránci] hrad drželi a nevzdávali, že je pak vysvobodí; to by byli také rádi udělali, nemohlo jim to však pomoci. A tak byl [hrad] rytířsky dobyt."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 339,
+   "popis": "celostránková dokončená kolorovaná miniatura – útok na Pontarlier: vlevo nahoře burgundská jízda s korouhvemi (červená s bílým ondřejským křížem, černá); vpravo město s věžemi, obránce shazuje z hradby kámen, spříseženci s bílými kříži šplhají přes hradbu a útočí sekerami na bránu, padlý obrněnec na hradbě; vpředu žena s kabelkou a čepcem gestikuluje, pěšáci s píkami a obrněnec s péry, uvnitř žebřík"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 339,
+   "text": "339 X (pozdější foliace, pravý horní roh); celostránková miniatura; na pravém okraji pozdější tužkou „in ..ta..“[?]"
+  },
+  {
+   "strana": 340,
+   "text": "340 X (pozdější foliace, levý horní roh); text přes šedě podložený rám (místo pro obrázek)"
+  },
+  {
+   "strana": 341,
+   "text": "341 X (pozdější foliace, pravý horní roh); text přes šedě podložený rám s podkresbou (místo pro obrázek)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 338,
+   "text": "„Ponterlin“ = Pontarlier"
+  }
+ ],
+ "nadpis_preklad": "Zde je dále popsána věc s Pontarlierem a jak tam nejprve vytáhli někteří knechti a útokem dobyli město i hrad",
+ "poznamky_prekladu": [
+  "„zů usgendem mertzen“ 1475 = koncem března 1475 (juliánský kalendář).",
+  "„drithalb hundert“ = 250. „gůt gesellen“ = dobří druhové (glosář). Nestejné dělení kořisti – Schilling výslovně zaznamenává stížnosti."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

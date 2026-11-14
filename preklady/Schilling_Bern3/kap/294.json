@@ -1,0 +1,42 @@
+{
+ "cislo": 294,
+ "nadpis": "Das die andern eidgno[ssen] gemeinlich mit iren panern vnd gantzen machten ouch gar snellenclichen harnach kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 648,
+ "strany": [
+  648,
+  649
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd in dem kamen die fromen eidgno[ssen] vnd zů gewanten mit allen iren panern vnd gantzen machten / durch den berg vnd den engen weg gar tröstlich vnd mannlich ziechen / als getrüw brüder vnd frunde / die einandern in keinen nöten nie verlassen haben / vnd ob got wil niemer mer tůn werden / Da die selben gesachen das groß mechtig volcke vor inen in so grossen scharen hielten vnd ouch das die von Bernn vnd ander da fornan in semlichen engsten vnd nöten stůnden / da waren si gar begirlich zů inen zů keren / vnd wolt yeglicher der vorderst sin / als dann die fromen eidgno[ssen] semlichs alwegen mit mannlicheit harbracht / vnd sich von einandern nie gescheiden hand",
+   "preklad": "A mezitím přitáhli stateční Spříseženci a spojenci se všemi svými korouhvemi a celou mocí přes horu a úzkou cestou, velmi povzbudivě a statečně, jako věrní bratři a přátelé, kteří se navzájem v žádné nouzi nikdy neopustili a, dá-li Bůh, nikdy neopustí. Když spatřili, že veliký mocný lid stojí před nimi v tak velkých houfech a že Bernští a ostatní tam vpředu jsou v takové tísni a nouzi, velmi dychtili obrátit se k nim a každý chtěl být první, jak to stateční Spříseženci vždy s udatností zachovávali a nikdy se od sebe neoddělili."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 648,
+   "popis": "kolorovaná kresba s rubrikou v banderole – hlavní část bitvy u Grandsonu: vlevo nahoře přicházejí další švýcarské korouhve (sv. Leodegar – Lucern, Uri s býčí hlavou, orel), uprostřed na kopci hromady opuštěných burgundských kopí, vpravo burgundské prapory (ondřejské kříže, ocílky, sv. Ondřej se štítem s liliemi) a jízda; vpředu boj pikenýrů, střelci, padlí a ranění se šípy v těle, švýcarský voják zvedá kopí nad ležícím"
+  },
+  {
+   "strana": 649,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 649,
+   "text": "649 X (pozdější foliace, pravý horní roh); text s iniciálou V psán přes šedě podloženou nedokončenou miniaturu; uprostřed rubrika, zbytek strany jen podmalba"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 648,
+   "text": "Hans von der Grub, bernský měšťan, zabil Huga z Chalon, pána z Châteauguyonu"
+  }
+ ],
+ "nadpis_preklad": "Jak ostatní Spříseženci společně se svými korouhvemi a celou mocí také velmi rychle přitáhli za nimi",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

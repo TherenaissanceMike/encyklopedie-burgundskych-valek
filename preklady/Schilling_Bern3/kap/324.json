@@ -1,0 +1,39 @@
+{
+ "cislo": 324,
+ "nadpis": "Das die von Bernn von irem grossen ratt / den man nempt die zweyhundert / botten zů gemeinen eidgno[ssen] santent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 731,
+ "strany": [
+  731,
+  732
+ ],
+ "odstavce": [
+  {
+   "text": "Man schickt ouch von stund an zwen erber man von den zweyhunderten / dem grossen ratt von Bernn zů gemeinen eidgnossen von Stetten vnd lenndern / Si fruntlich zů bitten vnd ze manen mit iren gantzen machten fürderlichen gen Bernn zů ziechen / nach irem vordrigen zůsagen / vnd inen zů erkennen geben was den fromen lüten in Murten / vnd gemeiner tütschen nation an disen dingen were gelegen / Vnd man schreib ouch den eidgno[ssen] bi den selben zwein botten den handel / Vnd als man zwen von dem grossen ratt vnd nit von dem kleinen ratt hatt usgesant / das beschach darumb / das der Schultheis / venner vnd Rete tag vnd nacht byeinandern sin / vnd betrachten vnd raten müsten / was in disen dingen für ze nemen were / vnd konden noch möchten nieman anders von inen gevertigen / doch wurden dise ding von den zwein botten des grossen rattes ouch wol geschaffet / dann si von allen eidgno[ssen] gůt antwurt bracht[en] damit si fürderlich vnd von stund an mit iren panern vnd gantzer macht gen Bernn kament / vnd ir lib vnd gůt in gantzen trüwen zů inen satztent",
+   "preklad": "Ihned byli také vysláni dva ctihodní muži z Rady dvou set, Velké rady Bernu, k obecným Spřísežencům z měst i zemí, aby je přátelsky prosili a vyzvali, aby podle svého dřívějšího slibu se vší svou mocí neprodleně táhli do Bernu, a aby jim dali na vědomí, co na těchto věcech záleží statečným lidem v Murtenu i celému německému národu. Po týchž dvou poslech byla také Spřísežencům věc popsána listem. Že byli vysláni dva z Velké rady a ne z Malé rady, stalo se proto, že starosta, praporečníci a radní museli být dnem i nocí pohromadě, uvažovat a radit, co je v těchto věcech třeba podniknout, a nemohli od sebe vypravit nikoho jiného. Přesto dva poslové Velké rady tyto věci také dobře vyřídili, neboť přinesli od všech Spříseženců dobrou odpověď, takže ti neprodleně a ihned přišli se svými korouhvemi a celou mocí do Bernu a ve vší věrnosti při nich nasadili život i statek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 731,
+   "popis": "kolorovaná kresba – bernská radní síň s trámovým stropem a dlážděnou podlahou s květovým vzorem: vpravo na lavicích sedí radní, uprostřed starosta v dlouhém rouchu podává list poslům; vlevo skupina poslů v kloboucích s péry; v pozadí zástup radních a mužů s péry, jeden s holí ukazuje"
+  },
+  {
+   "strana": 732,
+   "popis": "místo pro obrázek – šedě podložený rám s nevýraznou podkresbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 732,
+   "text": "732 X (pozdější foliace, levý horní roh); text s iniciálou M, část psána přes šedě podložený rám; dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Bernští ze své Velké rady, které se říká Dvě stě, vyslali posly k obecným Spřísežencům",
+ "poznamky_prekladu": [
+  "„grosser ratt … die zweyhundert“ = Velká rada (Rada dvou set); „kleiner ratt“ = Malá rada; „schultheis“ = starosta; „venner“ = praporečník."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

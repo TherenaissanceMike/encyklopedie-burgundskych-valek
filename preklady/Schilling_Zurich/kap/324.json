@@ -6,25 +6,26 @@
  "odstavce": [
   {
    "text": "324. Das der herzog von Lothringen mit den Eidgnossen von Basel gen Nanse zoch.",
-   "preklad": "324. Jak vévoda lotrinský táhl s konfederáty z Basileje k Nancy."
+   "preklad": "324. Jak vévoda lotrinský táhl se Spříseženci z Basileje k Nancy."
   },
   {
    "text": "Uf sant Steffans tag zü winechten des heiligen martrers und zwölfbotten, als man von der gebürt ünsers lieben herren Jhesu Cristi zalt tusent vierhundert sibenzig und siben iar, zoch der herzog von Lothringen in eigner persone mit den Eidgnossen von Basel den nechsten weg gen Nanse, sin herzogthüm und vatterland zü retten und die fromen lüte, so er in Nanse ligen hat, ze entschütten, dann si grossen mangel und presten an essen, trinken und allen andern dingen hatten, und zoch iederman gar mit gütem herzen.",
-   "preklad": "Na den svatého Štěpána o Vánocích, svatého mučedníka a posla Božího, když se od narození našeho milého Pána Ježíše Krista psalo tisíc čtyři sta sedmdesát sedm let, táhl vévoda lotrinský osobně s konfederáty z Basileje nejkratší cestou k Nancy, aby zachránil své vévodství a otčinu a vysvobodil ty statečné lidi, které měl v Nancy, neboť trpěli velkým nedostatkem a nouzí o jídlo, pití i o všechny ostatní věci. A každý táhl s velmi dobrou vůlí."
+   "preklad": "Na den svatého Štěpána o Vánocích, svatého mučedníka a posla Božího, když se od narození našeho milého Pána Ježíše Krista psalo tisíc čtyři sta sedmdesát sedm let, táhl vévoda lotrinský osobně se Spříseženci z Basileje nejkratší cestou k Nancy, aby zachránil své vévodství a otčinu a vysvobodil ty statečné lidi, které měl v Nancy, neboť trpěli velkým nedostatkem a nouzí o jídlo, pití i o všechny ostatní věci. A každý táhl s velmi dobrou vůlí."
   },
   {
    "text": "Es zugen und kamen ouch zü im der herschaft von Oesterich volk, darzü die erbern stett Strasburg, Basel, Colmar, Sletstat und ander der nüwen vereinung, und fürt man inen spis gnüg zü umb ein bescheiden gelt; si hatten ouch underwegen güt herberg und wurden von menglichem wol enpfangen und gelassen.",
-   "preklad": "Táhl a přišel k němu také lid panství rakouského [= rakouského vévody], k tomu ctihodná města Štrasburk, Basilej, Colmar, Sélestat a další z Nového spolku; a přiváželo se jim dost potravin za přiměřenou cenu. Měli také cestou dobré noclehy a všichni je dobře přijímali i propouštěli."
+   "preklad": "Táhl a přišel k němu také lid panství rakouského [= rakouského vévody], k tomu ctihodná města Štrasburk, Basilej, Colmar, Sélestat a další z Dolního spolku; a přiváželo se jim dost potravin za přiměřenou cenu. Měli také cestou dobré noclehy a všichni je dobře přijímali i propouštěli."
   }
  ],
  "poznamky": [
   "Datum: sv. Štěpán = 26. 12. 1476. Schilling píše „1477“, protože počítá nový rok od Vánoc (vánoční styl).",
   "„zwölfbotten“ = doslova „apoštol“; sv. Štěpán byl jáhen a prvomučedník, přeloženo volněji „posel Boží“.",
   "Tobler: není zcela přesné – vévoda René (Reinhard) opustil Basilej už dřív a ke Švýcarům se připojil až u Saint-Dié. Cesta: Colmar – Kaysersberg – Saint-Dié – Baccarat – Lunéville – Saint-Nicolas-de-Port. Kdo velel Švýcarům, není jisté (podle Edlibacha Hans Waldmann).",
-  "Tobler: oddíly Nového (Dolního) spolku, asi 9000 mužů, se spojily se Švýcary v Baccaratu. Tvrzení o dostatku potravin je podle Toblera nepravdivé – vojsko trpělo nouzí a dopouštělo se výtržností (Etterlin, luzernský Diebold Schilling, který byl při tom).",
+  "Tobler: oddíly Dolního spolku, asi 9000 mužů, se spojily se Švýcary v Baccaratu. Tvrzení o dostatku potravin je podle Toblera nepravdivé – vojsko trpělo nouzí a dopouštělo se výtržností (Etterlin, luzernský Diebold Schilling, který byl při tom).",
   "Varianta (pravděpodobně bernský rukopis): u druhého odstavce stojí samostatný nadpis „Das der herschaft von Oesterich volk, darzü Strasburg, Basel und ander mit den iren ouch trostlich harnach kament“ (Jak lid rakouského panství, k tomu Štrasburk, Basilej a další se svými také statečně táhli za nimi).",
   "OCR opraveno: „mangel . und“ → „mangel und“, „hat ten“ → „hatten“, „ıar“ → „iar“."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

@@ -1,0 +1,47 @@
+{
+ "cislo": 353,
+ "nadpis": "Wie vil lüten vor Murten vmb kament / vnd zem teil geschätzt vnd vergraben wurde[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 788,
+ "strany": [
+  788,
+  789,
+  790
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also zugent die von Bernn vnd yederman mit iren panern wider heim / vnd was inen in allen dingen von gottes gnade[n] gar wol vnd glücklichen ergangen / dem man ouch die ere geben / vnd sich des nieman über heben sol Also wurden die von Bernn von stund an ze ratt das man die toten libe / so dennocht in dem velde vnd in dem Sewe vnuergraben warent / als vil man dero vinden möcht / süchen vnd vergraben / vnd wurden lüte darzů geordnet die das tůn soltent Also wurden der toten lüten funden vnd ze samen getragen uß dem wasser vnd uff dem velde / die dann vergraben wurden / die man schatzt vnd überslůg ob Sechs vnd zwentzig tusent mannen / die wurden alle in zwo grüben geleit / darunder an allen zwivel vil grosser landsherren / von Burgunnern Saffoiern / Lamparten vnd anderen landen / darzů ander herren / Grauen / fryen / ritter vnd knecht gewesen sind / als man nachmalen wol vernomen hatt wie wol ir namen harinne nit verschriben stand / So ist doch kuntlich vnd am tage / das allein uß der Graffschaft von Burgunn me dann funfzechen hundert alles Grauen / fryen / ritter vnd knecht vmb komen sind / als die iren selber clagt hand / der almechtig gott well inen allen die ewig růw verlichen",
+   "preklad": "A tak táhli Bernští i všichni ostatní se svými korouhvemi zase domů. Všechno se jim z Boží milosti ve všech věcech velmi dobře a šťastně podařilo, za což se má také vzdát čest [Bohu] a nikdo se tím nemá vynášet. Bernští se pak hned usnesli, že se mají vyhledat a pohřbít mrtvá těla, která ještě ležela nepohřbená na poli a v jezeře, kolik se jich jen dalo najít; a byli k tomu určeni lidé, kteří to měli udělat. Tak byli mrtví nalezeni a sneseni dohromady z vody i z pole a potom pohřbeni. Odhadovalo a propočítávalo se jich přes šestadvacet tisíc mužů; ti všichni byli uloženi do dvou jam. Mezi nimi bylo bezpochyby mnoho velkých zemských pánů z Burgunďanů, Savojských, Lombarďanů a jiných zemí, k tomu jiní páni, hrabata, svobodní páni, rytíři a panoši, jak se později dobře vyzvědělo, ačkoli jejich jména zde nejsou zapsána. Je však známo a zjevné, že jen z hrabství Burgundského zahynulo více než patnáct set hrabat, svobodných pánů, rytířů a panošů, jak sami jejich lidé naříkali. Všemohoucí Bůh jim všem dej věčný odpočinek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 789,
+   "popis": "pohřbívání padlých u Moratu: vlevo městská brána se štítem (kříž) a kostel, na kopci odtahuje vojsko s korouhvemi (Uri aj.); vpravo muži kopají motykami a rýči hromadné hroby plné hlav mrtvých; muži vlečou nahé mrtvoly, jiní je nakládají na vůz tažený koněm; v popředí useknutá hlava"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 789,
+   "text": "789 X (pozdější foliace, pravý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou V"
+  },
+  {
+   "strana": 790,
+   "text": "790 X (pozdější foliace, levý horní roh); stránka bez obrázku; konec odstavce, dole rubrika s iniciálou H (začátek písně o Moratu)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 790,
+   "text": "přes 26 000 mrtvých pohřbeno ve dvou hrobech; jen z Franche-Comté přes 1500 hrabat, svobodných pánů, rytířů a pacholků"
+  }
+ ],
+ "nadpis_preklad": "Kolik lidí zahynulo před Murtenem a jak byli zčásti odhadnuti a pohřbeni",
+ "poznamky_prekladu": [
+  "Graffschaft von Burgunn = hrabství Burgundské (Franche-Comté), na rozdíl od vévodství.",
+  "Schilling: přes 26 000 mrtvých ve dvou hrobech; moderní odhady burgundských ztrát jsou výrazně nižší (zhruba 8 000–12 000, mimo přepis) – nesoulad, číslo ponecháno.",
+  "Z kostí padlých byla později u Murtenu postavena kostnice (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

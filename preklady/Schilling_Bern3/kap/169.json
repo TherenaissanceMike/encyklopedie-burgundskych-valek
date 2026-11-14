@@ -1,0 +1,33 @@
+{
+ "cislo": 169,
+ "nadpis": "Das die von Basel mit einer grossen büchsen / vnd einem erlichen volcke ouch harnach gen Granson kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 353,
+ "strany": [
+  353,
+  354
+ ],
+ "odstavce": [
+  {
+   "text": "Es kamend ouch eigens willens vnd vngemant die fromen hantvesten lüte / die von Basel / zů denen von Bernn / von sunder trüw vnd liebe wegen so si zů inen hand / mit vier hundert wol gewapneter mannen zů ross vnd füs / vnd einem venli / darzů mit einer grossen büchsen vnd leiten sich ouch zů denen von Bern für Granson / vnd hielten sich mit inen gar fruntlich vnd erlich / vnd wolten ouch in liebe vnd leid mit inen sterben vnd genesen / das ein gros trüw vnd fruntschaft was / vnd man gein inen ouch nit vergessen sol",
+   "preklad": "Z vlastní vůle a nevyzváni přišli také stateční a udatní lidé Basilejští k Bernským ze zvláštní věrnosti a lásky, kterou k nim chovají, se čtyřmi sty dobře ozbrojenými muži na koních i pěšky a s praporcem, k tomu s velkým dělem. Utábořili se s Bernskými před Grandsonem a chovali se k nim velmi přátelsky a čestně a chtěli s nimi v dobrém i zlém zemřít i přežít. To byla velká věrnost a přátelství, na které se jim také nemá zapomenout."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 353,
+   "popis": "velká dokončená kolorovaná miniatura – Basilejští přivážejí velkou bombardu ke Grandsonu: v pozadí město s věžemi a hory, ležení s korouhvemi (bernský medvěd, se sekerou); vlevo basilejská korouhev s berlou a pěšáci s bílými kříži; jezdec s bílým křížem vede koně, kteří táhnou dělo na kolové lafetě; vpředu jezero s kachnami a letícími ptáky"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 354,
+   "text": "354 X (pozdější foliace, levý horní roh); text přes šedě podložený rám (místo pro obrázek); pod rubrikou prázdné místo pro obrázek"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak Basilejští s velkým dělem a čestným lidem také přitáhli za nimi ke Grandsonu",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

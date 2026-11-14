@@ -1,0 +1,36 @@
+{
+ "cislo": 401,
+ "nadpis": "Das die beiden Stett Bernn vnd friburg ein nüwen pund mit dem huse von Safoy fürgenomen vnd gemacht hand",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 905,
+ "strany": [
+  905,
+  906
+ ],
+ "odstavce": [
+  {
+   "text": "In dem vorgenanten Jar vnd in dem zit / als die von friburg wider an das rich komen sind / haben die beiden Stett Bernn vnd friburg ein nüwen pund mitteinandern mit dem hus Safoy gemacht vnd den alten pund erlütert / dann der selbe gar irrig was / vnd sind in dem selben nüwen punde alle sachen von einem an das annder gar wol declariert / als dann das die selben punde gar luter dar gebent",
+   "preklad": "Ve výše uvedeném roce a v době, kdy se Fribourgští vrátili k Říši, uzavřela obě města Bern a Fribourg spolu se savojským domem novou spolkovou smlouvu a starý spolek vyjasnila, neboť byl velmi nejasný. V téže nové smlouvě jsou všechny věci jedna po druhé velmi dobře vyloženy, jak to tytéž spolkové listiny zcela jasně ukazují."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 906,
+   "text": "906 X (pozdější foliace, levý horní roh); stránka bez obrázku (místo pro obraz k rubrice ze s905 vynecháno); odstavec s iniciálou I, uprostřed rubrika s iniciálou V, odstavec s iniciálou I"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 906,
+   "text": "nový spolek Bernu a Fribourgu se Savojskem (1477), vysvětlující („erlütert“) starý nejasný spolek"
+  }
+ ],
+ "nadpis_preklad": "Jak obě města Bern a Fribourg navrhla a uzavřela se savojským domem novou spolkovou smlouvu",
+ "poznamky_prekladu": [
+  "„nüwen pund“ – nová spolková smlouva Bernu a Fribourgu se Savojskem (1477); nezaměňovat s „nüwe vereinung“ = Dolní spolek.",
+  "Rok: podle kap. 398 jde o rok 1477."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

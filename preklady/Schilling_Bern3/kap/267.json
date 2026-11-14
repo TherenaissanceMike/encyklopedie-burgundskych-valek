@@ -1,0 +1,73 @@
+{
+ "cislo": 267,
+ "nadpis": "Von einer mannlichen sach die einer von Lutzern zů Iferdun tet",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 584,
+ "strany": [
+  584,
+  585,
+  586,
+  587
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als si in dem Sloß waren / vnd sich anders nit dann sterbens oder genesens verwegen hatten / da gesachen si us dem Sloß ir gesellen Sechs gegen inen komen / die sich in der Statt gesumpt / vnd mit den vienden gar ritterlich gevochten hatten / das wart si gar übel erbarme[n] das si vmb ir gesellen vnd brüder also komen solten / vnd wie vil der vienden wüschen inen was / da namen si aber den barmhertzigen gotte zů hilf / vnd liessen die fallbrucken nider / vnd luffen als ritterlich durch die viend / das si die selben Sechs knechte mit gewerter hand in dz Slos brachten / Vnder den selben Sechs knechten / was gar ein mannlicher man von Lutzern / der hat kein ander werj dann ein armbrest / vnd nit me dann ein pfil / dann er die andern vorhin verschossen / vnd hat ein gerad Swert vmb sich gurtet / vnd e er in das Sloß kam / da schos er mit dem selben pfile einen in sin stirnen / vnd half[?] im damit ze tod / den selben pfil zoch er wider us dem toten / vnd schoß den einem andern in sinen rucken / den ertot er ouch / vnd nam den pfil zem andern mal wider vnd bracht den mit im in das Sloß / vnd schoß den darnach wider harus vnder die viend als dann semlichs von sinen gesellen offenlichen gerett ward / vnd ouch die warheit ist",
+   "preklad": "Když byli v hradu a nečekali nic jiného než smrt, nebo záchranu, uviděli z hradu, jak k nim přichází šest jejich druhů, kteří se ve městě zdrželi a velmi rytířsky bojovali s nepřáteli. Velmi je dojalo, že by měli takto přijít o své druhy a bratry. A ač bylo mezi nimi a těmi šesti mnoho nepřátel, vzali si znovu milosrdného Boha na pomoc, spustili padací most a probíjeli se tak rytířsky nepřáteli, že těch šest knechtů se zbraní v ruce přivedli do hradu. Mezi těmi šesti knechty byl velmi mužný muž z Luzernu. Neměl jinou zbraň než kuši a jen jediný šíp, neboť ostatní předtím vystřílel, a kolem pasu měl připásaný meč. Než se dostal do hradu, střelil tím šípem jednoho do čela a zabil ho [?]. Ten šíp vytáhl z mrtvého zpět a vystřelil ho dalšímu do zad; i toho zabil. Vzal šíp podruhé zpět, přinesl ho s sebou do hradu a potom jím znovu vystřelil ven mezi nepřátele. Tak o tom veřejně vyprávěli jeho druhové, a je to pravda."
+  },
+  {
+   "text": "Vnd als si in das Sloß zů samen kament da waren inen an dem selben scharmütze zwen ir gesellen zů tode geslagen / die brachten si ouch mit inen in das Sloß / vnd rüstent sich tröstlich gegen den vienden zů / Sy brachen den kachofen im Sloß ab / vnd namen die vnd ander stein / vnd trůgen die uf die muren / vnd meinten sich mit dem vnd anderm der walchen mit gottes hilf zů erweren / vnd hatten sich ouch der gentzlichen verwegen / Vnd als die viend semlichen grossen widerstand von so wenig lüten ersachen / vnd das inen weder stürmen noch ander ir fürnemen als wenig zů schaffen gab / da getorsten si sich fürer nit me an si wogen / Vnd kamen an si mit tröw worten / das si inen das Sloß balde über geben / oder si müsten al darum[b] sterben vnd erhenckt werden / das woltent die fromen lüte nit tůn / vnd gaben inen kurtz antwurt / Si wolten recht uff die barmhertzikeit gottes ir stürmen vnd anders erwarten / Vnd lieber ritterlich sterben dann von inen als schantlich gezwungen werden",
+   "preklad": "Když se v hradu shromáždili, ukázalo se, že v té šarvátce byli zabiti dva jejich druhové; ty také přinesli s sebou do hradu. Odvážně se chystali proti nepřátelům: rozebrali v hradu kachlová kamna, vzali kachle a jiné kameny a nosili je na hradby. Mínili se tím a jinými prostředky s Boží pomocí ubránit Vlachům a byli úplně odhodláni [na život i na smrt]. Když nepřátelé viděli tak velký odpor od tak malého počtu lidí a že jim ani útoky, ani jiné jejich podniky nic nepomáhají, neodvážili se na ně už dál dorážet. Přišli k nim s výhrůžkami, ať jim hrad hned vydají, nebo že za to musí všichni zemřít a být oběšeni. To stateční muži nechtěli udělat a dali jim krátkou odpověď: chtějí v důvěře v Boží milosrdenství očekávat jejich útoky i cokoli jiného a raději rytířsky zemřít, než se dát od nich tak hanebně přinutit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 585,
+   "popis": "kolorovaná kresba – výpad z hradu v Yverdonu: z hradní brány přes most vybíhají švýcarští vojáci s bílými kříži, halapartnami a kušemi, dole vpředu savojští vojáci (jeden střelen šípem do čela), vpravo střelci s ručnicemi pod savojským praporem s bílým křížem; na kapli štít s nápisem; dole hradní příkop"
+  },
+  {
+   "strana": 586,
+   "popis": "místo pro obrázek – šedě podložený rám bez kresby"
+  },
+  {
+   "strana": 587,
+   "popis": "místo pro obrázek s nedokončenou šedou podmalbou, přes kterou je psán text"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 585,
+   "text": "585 X (pozdější foliace, pravý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 586,
+   "text": "586 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám pro obrázek; pod ním text s iniciálou V"
+  },
+  {
+   "strana": 587,
+   "text": "587 X (pozdější foliace, pravý horní roh); text psán přes šedě podložený rám s nedokončenou podmalbou; dole rubrika"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 584,
+   "text": "posádka slévá z cínového nádobí koule do pušek a přenese hadovku od kostela do hradu"
+  },
+  {
+   "strana": 585,
+   "text": "„wüschen inen“ = zwischen inen"
+  },
+  {
+   "strana": 586,
+   "text": "Lucernský kušiník zabil jediným šípem dva nepřátele a šíp si odnesl do hradu"
+  }
+ ],
+ "nadpis_preklad": "O mužném činu, který vykonal jeden Lucernský v Yverdonu",
+ "poznamky_prekladu": [
+  "„wüschen inen“ = zwischen inen (mezi nimi).",
+  "„half[?] im damit ze tod“ – nejisté čtení (snad „half“ = pomohl ke smrti); přeloženo „zabil ho [?]“.",
+  "„der walchen“ = Vlachů (románsky mluvících nepřátel), podle glosáře Vlaši/Vlachové.",
+  "Lucernský kušiník zabil jediným šípem dva nepřátele, šíp vždy vytáhl a odnesl do hradu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

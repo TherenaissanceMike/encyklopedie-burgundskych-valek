@@ -1,0 +1,45 @@
+{
+ "cislo": 392,
+ "nadpis": "Das die vorgenanten knechte von dem torechten mit ir kolben paner den nechsten weg durch Bernn wider heim zugent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 889,
+ "strany": [
+  889,
+  890
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als die selben lüte das zů friburg vernamen / da zugen si den nechsten wider heim vnd da si gen Bernn kamen / da füren si durch / vnd wolten weder essen noch trincken / des erloubten die von Bernn den iren ouch wider heim zů ziechen / Vnd zergieng damit dz torecht leben der almechtig gott welle vnns alle fürbas dauor behüten / dann von semlichem mutwilligen gewalt anders nit komen noch erwachsen mag / dann swer straffen vnd plagen von dem barmhertzigen ewigen gott / dann alle fromen lüte vnd biderben berner gedencken vnd das vnder komen sullent / als ouch die von Bernn harinn ouch getan / vnd das mit grosser vernunft verkomen hand / das man in andern iren bůchern luter vindet",
+   "preklad": "A když to ti lidé ve Fribourgu uslyšeli, táhli nejkratší cestou zpět domů. A když přišli do Bernu, prošli skrz a nechtěli jíst ani pít. Tu dovolili Bernští i svým lidem vrátit se domů. A tím se Bláznivý život rozpadl. Všemohoucí Bůh nás všechny před ním nadále chraň, neboť z takového svévolného násilí nemůže přijít ani vzejít nic jiného než těžké tresty a rány od milosrdného věčného Boha. Proto by na to měli všichni stateční lidé a poctiví Bernští pamatovat a tomu předcházet, jak to Bernští také v této věci učinili a s velkým rozumem tomu zabránili, jak se jasně najde v jiných jejich knihách."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 889,
+   "popis": "zástup vojáků s píkami vchází do brány města se znakem Bernu (medvěd); vpravo nahoře na cestě u skály další muži a jezdec pod korouhví s bílým kancem; uprostřed hradby a věže, vpředu tmavý svah"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 890,
+   "text": "890 X (pozdější foliace, levý horní roh); stránka bez obrázku (prázdný rámeček); konec odstavce, ozdobná výplňová čára, dole rubrika s iniciálou D (k obrazu na s891)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 889,
+   "text": "„den iren ouch wider heim“ = Bern propustil domů i svých tisíc mužů vyslaných do Neuchâtelu a Erlachu"
+  },
+  {
+   "strana": 890,
+   "text": "konec „torechten lebens“ (Saubannerzug, únor–březen 1477); odkaz na jiné bernské knihy („in andern iren bůchern“)"
+  }
+ ],
+ "nadpis_preklad": "Jak výše zmínění knechti z Bláznivého [života] táhli se svou korouhví s palcátem nejkratší cestou přes Bern zpět domů",
+ "poznamky_prekladu": [
+  "„den iren ouch wider heim“ – Bern propustil domů i svých tisíc mužů z Neuchâtelu a Erlachu (kap. 391) a patrně i tři tisíce povolaných do města (kap. 388).",
+  "Konec Bláznivého života, začátek března 1477 (mimo přepis); odkaz „in andern iren bůchern“ míří na jiné bernské úřední knihy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

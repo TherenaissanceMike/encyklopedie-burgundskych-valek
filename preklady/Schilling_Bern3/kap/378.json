@@ -1,0 +1,49 @@
+{
+ "cislo": 378,
+ "nadpis": "Das etlich us der Statt von Nanse an dem Streit vnerkant ouch erslagen vnd iemerlich vmb bracht wurden",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 857,
+ "strany": [
+  857,
+  858,
+  859
+ ],
+ "odstavce": [
+  {
+   "text": "Aber die fromen lüte So in Nanse gewesen sind / haben sich darinne gar ritterlich vnd erlich gehalten / vnd grossen presten vnd mangel gehebt / vnd sunderlich an fleisch / dann si gar vil rossen / hunde / katzen vnd müse haben müssen essen / von rechter not des hungers / Es sind ouch darinne etlich hungers gestorben / vnd sunders vil iunger kinden den müterm an iren brüsten / das doch ein gros not vnd iamer gewesen ist / Vnd als man den Streit mit dem hertzogen von Burgunn anfing do luffen der selben fromen lüten etlich us Nanse in des hertzogen von Burgunn leger vnd wagenburg / vnd wolten ouch mit den eidgno[ssen] ir bestes tůn / vnd hatten kein zeichen an sich gemacht vnd konden ouch kein tütsch / Vnd wurden leider von den eidgno[ssen] vnd dem andern volck vnerkant erstochen vnd unschuldiclich vmbbracht / das doch ein hart iemerlich sach was / das die sich so wol vnd mannlich gehalten vnd gelitten hatten / als ellenclich müsten sterben / Der almechtig gotte welle inen die ewig rüw verlichen vnd mitteilen",
+   "preklad": "Ale statečný lid, který byl v Nancy, se v něm choval velmi rytířsky a čestně a měl velkou nouzi a nedostatek, zvláště o maso, takže z pravé nouze hladu museli jíst velmi mnoho koní, psů, koček a myší. Někteří tam také zemřeli hladem, zvláště mnoho malých dětí matkám u prsou, což byla veliká nouze a bída. A když se začala bitva s vévodou Burgundským, vyběhli někteří z těch statečných lidí z Nancy do ležení a vozové hradby vévody Burgundského a chtěli také se Spříseženci udělat to nejlepší. Neměli na sobě žádné znamení a neuměli ani německy, a tak byli bohužel Spříseženci a ostatním lidem nepoznáni probodeni a nevinně zahubeni. To byla velmi tvrdá a žalostná věc, že ti, kteří se tak dobře a statečně drželi a tolik vytrpěli, museli tak bídně zemřít. Všemohoucí Bůh jim dej a uděl věčný odpočinek."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 858,
+   "popis": "omylem zabití Nancyjští: vlevo brána Nancy s měšťany, kteří gestikulují; muži v bílých kabátcích bez znamení jsou ubíjeni a padají; zprava přichází oddíl s lotrinskými dvojitými kříži, s halapartnou a pérem, pod korouhvemi (Uri s volskou hlavou, s křížem, pruhované); v pozadí věže města, hory a hrad"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 858,
+   "text": "858 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou A"
+  },
+  {
+   "strana": 859,
+   "text": "859 X (pozdější foliace, pravý horní roh); stránka bez obrázku; konec odstavce, rubrika s iniciálou D, seznam padlých s iniciálami I a D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 858,
+   "text": "hlad v Nancy: jedli koně, psy, kočky a myši; děti umíraly u prsou matek"
+  },
+  {
+   "strana": 859,
+   "text": "obránci Nancy bez znamení, neznalí němčiny, omylem pobiti"
+  }
+ ],
+ "nadpis_preklad": "Jak někteří z města Nancy byli v bitvě nepoznáni také pobiti a žalostně zahubeni",
+ "poznamky_prekladu": [
+  "Pro reenactory: význam polního znamení (zeichen) – obránci Nancy bez znamení a bez znalosti němčiny byli pobiti vlastními spojenci."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

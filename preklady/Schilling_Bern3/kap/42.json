@@ -1,0 +1,32 @@
+{
+ "cislo": 42,
+ "nadpis": "Das man semlich ordnungen vnd Satzungen offenlich an dem Cantzel in dem Münster vor einem gemeinen volcke lesen lies / Vnd man den Edlenn frowen einen vorteil erbott",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 81,
+ "strany": [
+  81
+ ],
+ "odstavce": [
+  {
+   "text": "Do nů dis ordnungen vnd Satzungen wider ernüwert vnd gesworen wurden / da hat man lüte darzů geordnet / die daruff lůgen solten / vnd sunderlich der Gericht schriber / Gross weibel / Vnd die anderen gemeinen weibel / alle die semlichs an die heilige[n] swůren / vnd das ouch rechtvertigen[?] müsten / Doch wart den Edlenn frowen darinne ein billicheit / vnd vorteil vorbehalten / das si sich mit Berlin[?] Siden edlem gestein Gold rich / vnd anderem nach irem gevalle[n] vs zieren / vnd aber bi dem mess der Spitzen / vnd Swentzen / namlichen die Swentz ein gemünde vff dem herde / vnd die Spitz an den Schůchen eins vordern gleichs lang an den vingern / vnd nit lenger nach innhalt der Satzunge / vnd als ander bliben / Vnd tragen solten / Vnd wart ouch semlichs an offnem Cantzel vor aller menglichem gelesen / Vnd anderen gemeinen frowen / Solcher vorteil / als davor gesündert ist / verbotten",
+   "preklad": "Když pak byly tyto řády a nařízení znovu obnoveny a odpřisáhnuty, byli k tomu ustanoveni lidé, kteří na ně měli dohlížet, a zvláště soudní písař, velký biřic a ostatní obyčejní biřici. Ti všichni to přísahali na svaté a museli to také soudně stíhat [?]. Urozeným paním však v tom byla vyhrazena jistá slušnost a zvýhodnění: že se smějí podle své libosti zdobit perlami [?], hedvábím, drahými kameny, bohatě zlatem a jinými věcmi. Při míře špiček a vleček však měly zůstat jako ostatní a tak je nosit, totiž vlečku na píď po zemi a špičku na botách na délku předního článku prstu a ne delší, podle obsahu nařízení. A to bylo také přečteno z veřejné kazatelny přede všemi a ostatním obyčejným ženám bylo takové zvýhodnění, jak je výše odlišeno, zakázáno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 81,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se tyto řády a nařízení dávaly veřejně číst z kazatelny v Minsteru před obecným lidem a jak bylo urozeným paním nabídnuto zvýhodnění",
+ "poznamky_prekladu": [
+  "„rechtvertigen[?]“ – nejisté čtení; smysl „soudně stíhat, pohnat k soudu“ (rechtfertigen).",
+  "„Berlin[?]“ = perly (Perlen); v kap. 48–50 se stejné slovo čte bez [?].",
+  "„gemünde“ = píď (glosář), „glich“ = článek prstu. Vlečka smí po zemi přesahovat o píď, špička boty (zobák, tzv. poulaine) jen o délku předního článku prstu.",
+  "Kapitola patří k tzv. sporu o šaty a k počátkům sporu o soudní pravomoc (Twingherrenstreit) v Bernu 1470–1471 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

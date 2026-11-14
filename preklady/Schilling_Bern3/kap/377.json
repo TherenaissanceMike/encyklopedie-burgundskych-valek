@@ -1,0 +1,36 @@
+{
+ "cislo": 377,
+ "nadpis": "Das nach des hertzogen von Burgunn tot offenlichen in tütschen vnd welschen lande geredt wart er wer noch in leben",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 856,
+ "strany": [
+  856,
+  857
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd wie wol nü der hertzog von Burgunn vor Nanse erslagen / vnd durch den hertzogen von Lotthringen bestattet was / vnd ouch gar mercklich wortzeichen sins todes angendes nach dem Streit geben vnd gerett wurden / Vnd sunderlich von einem / den hat der hertzog von Lotthringen am Streit gevangen / der was des hertzogen von Burgunn snider gesin / vnd hatt im am morgen desselben tages da der Streit beschach selber angeleit der wart zů dem toten hertzogen gefürt / vnd bekant in angendes das ers gewesen was / bi allen wortzeichen die er an im wiste / Des glich annder herren / ritter vnd knecht von gevangnen vnd andern / die dann iren wandel bi im hatten gehebt / ouch erkanten / Dennocht was lange zit in tütschen vnd welschen landen ein gemein rede / er wer noch nit tot / dann etlich meinten er het sich lanngest der swartzen kunst genant nigramancia angenomen / vnd durch die selbe hinweg komen Etlich meinten ouch er were heimlich vnd vnerkant entrunnen / vnd lege in verborgnem stein / In klostern oder der glich heimlichen wonungen / bis er hören vnd vernemen was man von im reden / dann wurde er sich wider harfür machen als man dann in den alten Croniken vnd historie[n] von etlichen fürsten die dann ouch also vmbkomen sind vnd vertriben wurden wol funden hat das sich die selben in heimlichen vnerkanten wonungen lange zit enthalten / Vnd sich dann nachmalen mit Streiten vnd kriegs übungen wider erzöugt haben / do man ouch meint die selben werend vmbkomen / Vnd anders wurden gar mengerley worten gerett / Doch wisset man am ersten vnd vernam ouch von tag ze tage / das man wol glouben vnd nit zwiveln mocht / dann das er an dem vorgenanten Streit vmbkomen vnd ouch tott bliben was",
+   "preklad": "A ačkoli byl nyní vévoda Burgundský u Nancy zabit a vévodou Lotrinským pohřben a ihned po bitvě byla podána a vyslovena velmi zřetelná znamení jeho smrti – a zvláště od jednoho, kterého vévoda Lotrinský zajal v bitvě; ten byl krejčím vévody Burgundského a ráno toho dne, kdy se bitva odehrála, ho sám oblékal; byl přiveden k mrtvému vévodovi a ihned ho poznal, že je to on, podle všech znamení, která na něm znal; stejně ho poznali i jiní páni, rytíři a panoši ze zajatců a jiní, kteří s ním měli styk – přesto se dlouhý čas v německých i vlašských zemích obecně říkalo, že ještě není mrtev. Někteří totiž mínili, že se už dávno oddal černému umění zvanému nigromancie a jeho pomocí se dostal pryč. Jiní také mínili, že tajně a nepoznán utekl a leží ve skrytém stein[?], v klášterech nebo podobných tajných příbytcích, dokud neuslyší a nezví, co se o něm mluví; pak se zase ukáže. Ve starých kronikách a historiích se totiž o některých knížatech, kteří také takto zahynuli a byli vyhnáni, dobře nalezlo, že se dlouhý čas zdržovali v tajných, neznámých příbytcích a potom se zase ukázali v bitvách a válečných podnicích, když se mělo za to, že zahynuli. A mluvilo se i mnoha jinými slovy. Přesto se hned zprvu vědělo a den ode dne se zvídalo, že se dalo dobře věřit a nepochybovat, že v zmíněné bitvě zahynul a zůstal mrtev."
+  }
+ ],
+ "obrazky": [],
+ "okraje": [
+  {
+   "strana": 857,
+   "text": "857 X (pozdější foliace, pravý horní roh); stránka bez obrázku (text uvnitř prázdného rámečku, prosvítá obraz); konec odstavce, výplňový tah perem, dole rubrika s iniciálou D (k obrazu na s858)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 856,
+   "text": "Karlův krejčí poznal mrtvého podle znamení; pověsti, že Karel žije – „swartzen kunst genant nigramancia“"
+  }
+ ],
+ "nadpis_preklad": "Jak se po smrti vévody Burgundského veřejně v německých i vlašských zemích říkalo, že je ještě naživu",
+ "poznamky_prekladu": [
+  "„in verborgnem stein[?]“ – smysl nejasný (snad skrytý kamenný úkryt, hrad?); slovo ponecháno v originále.",
+  "„nigramancia“ = nigromancie (černá magie); pověsti o přežití Karla Smělého se šířily ještě roky (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

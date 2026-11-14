@@ -1,0 +1,50 @@
+{
+ "cislo": 158,
+ "nadpis": "Das die von Bernn vnd Friburg dz Slos Illingen innamen[?] vn[d] gewunne[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 333,
+ "strany": [
+  333,
+  334,
+  335
+ ],
+ "odstavce": [
+  {
+   "text": "Vff mitwochen nach der heiligen dryger küngen tag / do man von der geburt Cristi zalt / Tusent vierhundert Sibentzig vnd fünf Jare / ward das gůt starck Slos Illengen[?] gewunnen vnd ingenomen / von denen von Bernn vnd Friburg / von wenig lüten / die darzů geordnet wurden / das selb Slos was des herren von Illingen[?] / der was des hertzogen von Burgunn ratt vnd diener / vnd gar ein listiger man / darumb man im entsitzen müst / also besatzten es beid Stette mit grossem kosten / darnach ward es gantz zerbrochen / vnd nach der vorgenanten slacht vnd nider lege zů Erikort / da bestünden dis sachen etwas zits / das kein rechter angrif noch zug beschach in Burgunn so waren ouch die Burgunner als zam worden das si sich gantz stille vnd verborgen hatten / vnd was ouch darzů gar hart vnd kalt wetter / das man mit inen nit mocht geschaffen / wie wol etwie menig mal von Bernn vnd andern von iren knechten / versampnungen beschachen in Burgunn zů ziechen / so wurdent si doch dick gewendet vnd hinder halten / dann ir wenig wz vnd hatten kein ordnung / vnd müst man entsitzen das si schaden nemen",
+   "preklad": "Ve středu po svátku svatých Tří králů, kdy se od narození Krista psalo tisíc čtyři sta sedmdesát pět let, byl dobrý silný hrad Illens [?] dobyt a obsazen Bernskými a Fribourgskými, a to malým počtem lidí, kteří k tomu byli určeni. Ten hrad patřil pánu z Illens [?], který byl radou a služebníkem vévody Burgundského a velmi lstivým mužem, proto se ho bylo třeba obávat. Obě města ho tedy s velkými náklady osadila posádkou; potom byl úplně rozbořen. Po zmíněné bitvě a porážce u Héricourtu tyto věci nějaký čas stály, takže se v Burgundsku nekonal žádný pořádný útok ani tažení. Burgunďané totiž také zkrotli natolik, že se drželi docela tiše a skrytě, a bylo k tomu velmi tvrdé a studené počasí, takže se s nimi nedalo nic pořídit. Ačkoli se mnohokrát Bernští a jiní ze svých knechtů shromažďovali, aby táhli do Burgundska, byli často odvráceni a zadrženi, protože jich bylo málo a neměli žádný pořádek, a bylo se třeba obávat, že utrpí škodu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 333,
+   "popis": "velká dokončená kolorovaná miniatura – dobytí hradu Illens (Illingen): vlevo hrad s věžemi na skále, ke kterému šplhají a útočí pěšáci s dlouhými píkami a halapartnami, s křížky na prsou, obránce na hradbě; vpravo hory, jezero s loďkou a jezdci v brnění s kopími a praporci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 334,
+   "text": "334 X (pozdější foliace, levý horní roh); nahoře pozdější rukou „1475“; text přes šedě podložený rám (místo pro obrázek)"
+  },
+  {
+   "strana": 334,
+   "text": "nahoře pozdější rukou „1475“"
+  },
+  {
+   "strana": 335,
+   "text": "335 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 333,
+   "text": "rubrika – „Illingen“ = Illens (Illingen) u Fribourgu, dobyt Bernem a Fribourgem 1475"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští a Fribourgští obsadili [?] a dobyli hrad Illens",
+ "poznamky_prekladu": [
+  "„Vff mitwochen nach der heiligen dryger küngen tag“ 1475 = 11. ledna 1475 (juliánský kalendář).",
+  "„Illingen/Illengen[?]“ = Illens (Illingen) u Fribourgu, viz poznámku k přepisu; čtení jména i slova „innamen[?]“ v rubrice nejisté. Pán z Illens = Hugo von Chalon-Château-Guyon [?] (mimo přepis, ověřit)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 3
+}

@@ -6,7 +6,7 @@
  "odstavce": [
   {
    "text": "29. Das etlich der Eidgnossen knechte von den vienden erstochen wurden.",
-   "preklad": "29. Jak byli někteří knechti konfederátů pobiti nepřáteli."
+   "preklad": "29. Jak byli někteří knechti Spříseženců pobiti nepřáteli."
   },
   {
    "text": "Es lüffen ouch us dem leger etlich ungehorsam knecht on ordnung, die warent von Bern, Ure und Underwalden, hinus gegen der letze, da die viend warent, in das korn und woltent das abmeigen und damit fütern und stünden also in iren wamslen und hembden und ein teil ganz abgezogen; da kament die viend mit ganzer macht von der letze harus gerant unwissender dingen und erstachen einlif; der warent sechs von Underwalden. Desglich wurdent der rittern ouch etlich von inen erstochen und umbbracht.",
@@ -14,16 +14,17 @@
   },
   {
    "text": "Desglich geschach ouch an einem andern tag, das etlich knecht von Bern und sunderlich us dem lantgericht von Zollikofen, die warent ab dem Frenisperg, sich in die garten vor der stat Walzhüt zü rür an die bolwerk machten und verslügen und meinten nit, das inen die viend ützit tün soltent und entsliefen also an der warmen sonnen und hatten ir werinen neben sich geleit. Als nü des die in der stat innen wurdent, da slichent si heimlich harus über die bolwerk und fundent die güten gesellen slaffen und erstachen ir etlich mit iren eignen werinen; etlich wurden ouch gar übel wund, die davon kament. Dis han ich darumb harin gezogen, das iederman in semlichen kriegssachen und legern güt sorg haben und niemant sin viend versmachen noch verachten sol.",
-   "preklad": "Podobně se také stalo jiného dne, že někteří knechti z Bernu, a zvláště ze zemského soudu Zollikofen, z oblasti Frienisbergu, se v zahradách před městem Waldshut dostali až těsně k bolverkům (předsunutým baštám) a rozptýlili se; nemysleli, že by jim nepřátelé něco udělali, a tak usnuli na teplém slunci a zbraně měli položené vedle sebe. Když se to ti ve městě dozvěděli, vyplížili se tajně ven přes bolverky, našli ty dobré tovaryše spát a několik z nich probodli jejich vlastními zbraněmi; ti, kteří vyvázli, byli také velmi zle zraněni. To jsem sem zapsal proto, aby každý v takových válečných věcech a táborech měl dobrý pozor a nikdo svým nepřítelem nepohrdal ani ho nepodceňoval."
+   "preklad": "Podobně se také stalo jiného dne, že někteří knechti z Bernu, a zvláště ze zemského soudu Zollikofen, z oblasti Frienisbergu, se v zahradách před městem Waldshut dostali až těsně k bolverkům (předsunutým baštám) a rozptýlili se; nemysleli, že by jim nepřátelé něco udělali, a tak usnuli na teplém slunci a zbraně měli položené vedle sebe. Když se to ti ve městě dozvěděli, vyplížili se tajně ven přes bolverky, našli ty dobré druhy spát a několik z nich probodli jejich vlastními zbraněmi; ti, kteří vyvázli, byli také velmi zle zraněni. To jsem sem zapsal proto, aby každý v takových válečných věcech a táborech měl dobrý pozor a nikdo svým nepřítelem nepohrdal ani ho nepodceňoval."
   }
  ],
  "poznamky": [
   "Tobler: jména padlých Unterwaldenských uvádí Tschudi II, 692.",
-  "[?] „Desglich wurdent der rittern ouch etlich von inen erstochen“: nejasné, zda konfederáti pobili několik nepřátelských jezdců, nebo nepřátelé několik jezdců (rytířů) z tábora; „von inen“ může znamenat obojí. Bernská varianta vynechává „und umbbracht“.",
+  "[?] „Desglich wurdent der rittern ouch etlich von inen erstochen“: nejasné, zda Spříseženci pobili několik nepřátelských jezdců, nebo nepřátelé několik jezdců (rytířů) z tábora; „von inen“ může znamenat obojí. Bernská varianta vynechává „und umbbracht“.",
   "Bernské varianty: nadpis „Das etlich von Bern von denen von Walzhüt erstochen und wund wurden“; druhý odstavec kratší („Es geschah ouch, das etlich von Bern us dem lantgericht von Zollikofen … meinten vor den vienden sicher sin“), „über das bolwerk“.",
   "„abmeigen“ = posekat, „wamsle“ = kabátce (vamsy), „zü rür“ = těsně u, „verslügen“ = rozptýlili se, „versmachen“ = pohrdat (glosář). „fütern“ chápu jako krmení koní (mimo Tobler).",
   "Opravy OCR: „sechs.“ → „sechs“. Odstavec rozdělen před „Desglich geschach“ podle edice."
  ],
  "prelozil": "Claude (AI), 2026-11-12, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }

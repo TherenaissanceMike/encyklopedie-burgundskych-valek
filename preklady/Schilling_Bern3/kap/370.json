@@ -1,0 +1,35 @@
+{
+ "cislo": 370,
+ "nadpis": "Das der herrschaft von Österich volck / darzů Straßburg / Basel vnd ander mit den iren ouch trostlich harnach kament",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 843,
+ "strany": [
+  843,
+  844
+ ],
+ "odstavce": [
+  {
+   "text": "Es zugen vnd kamen ouch harnach der herschaft von Österich volck / darzů die erbern Stette Straßburg / Basel / Colmar / Sletstatt vnd ander der nüwen vereynung / vnd fürt man inen Spis gnüg zů vmb ein bescheiden gelt / Sy hatten ouch vnnderwegen güt herberg / Vnd wurden von menglichem wol empfangen vnd gelassen",
+   "preklad": "Za nimi táhl a přišel také lid panstva rakouského, k tomu počestná města Štrasburk, Basilej, Colmar, Sélestat a jiná [města] Dolního spolku. Dováželi jim dost potravy za mírnou cenu. Měli také po cestě dobré ubytování a byli ode všech dobře přijímáni a propouštěni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 843,
+   "popis": "pochod mezi skalami a kopci: vlevo pěší s dvojitými kříži na kabátcích, s píkami a bubnem pod korouhvemi (pruhovaná, s orlicí?); v pozadí hrad; vpravo na kopci jízda s kříži na zádech a korouhví"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 844,
+   "text": "844 X (pozdější foliace, levý horní roh); rubrika s iniciálou D nahoře, pod ní celostránkový obraz (bez dalšího textu)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak lid panstva rakouského, k tomu Štrasburk, Basilej a jiní se svými lidmi také útěšně přitáhli za nimi",
+ "poznamky_prekladu": [
+  "„nüwe vereynung“ = Dolní spolek (glosář)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

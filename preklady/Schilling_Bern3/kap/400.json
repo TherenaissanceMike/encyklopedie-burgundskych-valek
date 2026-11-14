@@ -1,0 +1,47 @@
+{
+ "cislo": 400,
+ "nadpis": "Das die von friburg wider an das rich kament / vnd an ir porten das heilig römisch riche machen hiessen",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 904,
+ "strany": [
+  904,
+  905
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als dann die von Bernn mit den Safoyern ein luter richtung vnderstanden hatten ze machen vnd ouch die Safoyer mit mergklichem grossem costen lang zit ze Bernn waren gelegen vnd über ein nit dannen wolten / bis si mit inen versůnt vnd gericht wurden / des wolten sich die von Bern gantz nit an nemen noch vnderwinden / die von friburg wurden dann am ersten fry vnd ledig gelassen aller der pflichten / damit si einem hus von Safoy verbunden waren / als dann uff dem grossen tage zů friburg dauon ouch gerett wart / Vnd wie vngern si das tatent / nach dem es inen nit wol kam / So wurden si von der hertzogin von Safoy die dazemal ein regiererin vnd dennocht in leben was / des glich von den drin Steten vnd gantzer landschaft / aller ir glüpden vnd pflichten gantz ledig gelassen / vnd inen ir brief hinus geben / nach lut einer versigelten bekantnis vnd ledig sagung / die man dann mit allen anndern vmbstenden in der Statt von Bernn bůchern witer vindet / vnd wurden daruf wider ein fry rich Statt / Vnd liessen das römisch rich an alle ir Statt porten machen",
+   "preklad": "A když se Bernští se Savojskými pokusili uzavřít jasné narovnání a Savojští s velkými a znatelnými náklady dlouho leželi v Bernu a nechtěli za žádnou cenu odejít, dokud s nimi nebudou usmířeni a narovnáni, Bernští se toho vůbec nechtěli ujmout ani se o to pokusit, dokud nebudou Fribourgští nejprve propuštěni na svobodu ze všech povinností, jimiž byli zavázáni savojskému domu, jak se o tom také jednalo na velkém sněmu ve Fribourgu. A jakkoli to [Savojští] činili neradi, protože se jim to nehodilo, byli [Fribourgští] vévodkyní savojskou, která tehdy vládla a ještě žila, a stejně tak třemi městy a celou zemí zcela propuštěni ze všech svých slibů a povinností a byly jim vydány jejich listiny, podle zpečetěného vyznání a propouštěcí listiny, které se se všemi dalšími okolnostmi najdou podrobněji v knihách města Bernu. A tak se znovu stali svobodným říšským městem a dali na všechny brány svého města namalovat [znak] Římské říše."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 904,
+   "popis": "město Fribourg s věžemi a branami, na nich štíty s černou dvouhlavou říšskou orlicí pod korunou; vpravo dřevěný most přes řeku Sanu s člunem, muž s píkou na mostě, muži táhnoucí lano na břehu; vpředu skupina měšťanů v rozhovoru u skály, jeden ukazuje na znak; v pozadí hory"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 905,
+   "text": "905 X (pozdější foliace, pravý horní roh); stránka bez obrázku; odstavec s iniciálou V, dole rubrika s iniciálou D (k obrazu na s906), pod ní drobná značka"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 904,
+   "text": "Fribourg se po zbavení savojské svrchovanosti (1477) stal říšským městem a dal na brány malovat říšský znak"
+  },
+  {
+   "strana": 905,
+   "text": "Bern odmítl smír se Savojskem, dokud nebude Fribourg zbaven savojských závazků; vévodkyně Yolanda, „drei Städte“ a země Savojska Fribourg propustily (1477); Fribourg se stal svobodným říšským městem"
+  }
+ ],
+ "nadpis_preklad": "Jak se Fribourgští vrátili k Říši a dali na své brány namalovat Svatou říši římskou",
+ "poznamky_prekladu": [
+  "„uff dem grossen tage zů friburg“ – velký mírový sněm (kongres) ve Fribourgu v červenci–srpnu 1476 (mimo přepis).",
+  "„den drin Steten“ – „tři města“ savojské strany; která to jsou, text neuvádí (snad zástupci savojských stavů, mimo přepis).",
+  "Fribourg byl savojské svrchovanosti zbaven roku 1477 a stal se svobodným říšským městem (mimo přepis).",
+  "„das römisch rich machen hiessen“ – rozuměj říšského orla (znak Říše) na branách (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

@@ -1,0 +1,43 @@
+{
+ "cislo": 190,
+ "nadpis": "Das die armen lüt von Lila frowen vnd man wider in die Statt zů dem iren kamen / vnd das füre erlaschte[n]",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 409,
+ "strany": [
+  409,
+  410,
+  411
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man von Lila zoch / da wurden von Bernn vnd andern gewanten etlich bütmeister vnd ander bi inen da gelasse[n] das si das erobert gůt gen Basel vertigen / vnd ouch dem korn brot bachen / vnd dem volck nach schicken solten / dann man an Spis mangel hatt So was es ouch allenthalben in der vienden land das man nit wol mocht darzů komen / In dem da kamen gar vil frowen vnd kinde wider gen Lila / vnd ritten ouch der vienden vil vmb die Statt / do zugen die selben ouch darus / Vnd stiessen die Statt mit füre an / vnd kament mit gewerter hand von allen vienden von dannen da erlaschen die frowen das füre wider / Vnd fundent dennocht den merteil gůtes darinn",
+   "preklad": "A když se odtáhlo od L'Isle, byli tam od Bernských a jiných spojenců ponecháni někteří správci kořisti a jiní s nimi, aby ukořistěné jmění dopravili do Basileje a z obilí napekli chléb a poslali ho za vojskem, neboť byl nedostatek potravin; a také proto, že všude v nepřátelské zemi se k nim nedalo dobře dostat. Mezitím se do L'Isle vrátilo velmi mnoho žen a dětí a kolem města také jezdilo mnoho nepřátel. Tu ti [ponechaní] také odtáhli, zapálili město a se zbraní v ruce se ode všech nepřátel probili pryč. Ženy pak oheň zase uhasily a našly v něm ještě většinu jmění."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 410,
+   "popis": "dokončená kolorovaná miniatura – návrat obyvatel do L'Isle: vlevo jezdci a pěší s píkami a praporem s křížem odjíždějí, vpravo ženy nesou na hlavách nádoby s vodou k hašení a muž nese tyč, v pozadí město s kostelem, hradem a řeka s loďkami"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 410,
+   "text": "410 X (pozdější foliace, levý horní roh); miniatura přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 411,
+   "text": "411 X (pozdější foliace, pravý horní roh); nahoře konec textu, pod ním miniatura s rubrikou vepsanou do banderoly"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 409,
+   "text": "„gantz darman da gemacht“ – nejisté čtení (snad „gantz dar[us] man“ / „gantz arm“)"
+  }
+ ],
+ "nadpis_preklad": "Jak se chudí lidé z L'Isle, ženy i muži, vrátili do města ke svému majetku a uhasili oheň",
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

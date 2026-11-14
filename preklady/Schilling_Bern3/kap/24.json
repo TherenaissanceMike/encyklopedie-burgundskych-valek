@@ -1,0 +1,42 @@
+{
+ "cislo": 24,
+ "nadpis": "Das gemein eidgno[ssen] bi einanderen mit allen iren panern / vor Waltzhůt warent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 54,
+ "strany": [
+  54,
+  55,
+  56
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd da also alle ort der eidgnosschaft Darzů die von Sollotern / Friburg vnd Biell vor Waltzhůt zů samen kamen / da wart die Statt mit geleger vnd büchsen zů beiden orten des Rines zů ring vmb geben / Vnd wurden die fromen lüte von Sollotern enend dem Rine zů bliben geordnet mit etlichem zůsatz der inen geben wart / In der vorgenanten Statt Waltzhůt warent gar gůt lüte / von Grauen / Fryen Rittern vnd knechten / der bi acht hunderten was / vnd zů irem houptman hatten herrenn Wernheren von Schinen Rittern / Die hatten ouch die Statt mit Bollwercken mit büchsen / vnd ander notdurftiger were / besorget / als lüte die sich ye vermeinten mit macht zů weren / vnd die Statt zů behalten / Vnd als die von Lutzern vnd ander eidgno[ssen] am ersten für Waltzhůt kament / hett man da angendes die ding mit einem zůlouf oder Sturm fürgenomen / vnd nit als langen ratt gehebt / e das die viend sich zů were vnd anderen dingen zů vast zů gerusten / So hette man dennocht desselben abends inen ir bollwercke / vnd alle wernnen ab gelouffen vnd were die Statt / an allen zwivel dazemal erobert worden / Darumb man dis in künftigem bedencken sol / vnd ob es zů schulden keme / das man fürer für Stett oder Sloss als snell vnd vngewarnet viel / Sol man aldann die ding angendes trostlichen zů handen nemen / die wile die viend vngewarnet vnd in schrecken sind / vnd denen nit zů lang frist lasse[n] Wann doch alwegen / als der gewaltig Hanibal sprach da er die sinen vor Rom anreitzte / das gewonlich / der vorteil / des ist / der sich zůr sach gerüst / vnd die ze tůnde můt hatt / Vnd das ouch von langem vffenthalten vil gesprochen ist / die viend in masse da durch gesterckt worden sin / das man am letsten mit schaden vngeschaffet abziechen můst / oder aber des grösseren kumber liden /",
+   "preklad": "A když se tak všechna místa (kantony) Spříseženstva a k tomu Solothurnští, Fribourgští a Bielští sešli před Waldshutem, bylo město ležením a děly na obou stranách Rýna obklíčeno dokola. Stateční lidé ze Solothurnu byli určeni, aby zůstali na druhé straně Rýna, s jistou posádkou, která jim byla dána. Ve zmíněném městě Waldshutu byli velmi dobří lidé, hrabata, svobodní páni, rytíři a panoši, kterých bylo kolem osmi set, a za hejtmana měli pana Wernhera von Schinen, rytíře. Ti také město zajistili bolverky (předsunutými baštami), děly a dalšími potřebnými obrannými zařízeními, jako lidé, kteří se rozhodně hodlali mocně bránit a město udržet. Kdyby se byli, když Luzernští a ostatní Spříseženci přišli k Waldshutu jako první, ihned pustili do věci útokem nebo šturmem, a nedrželi tak dlouhou poradu, dříve než se nepřátelé příliš připravili k obraně a k jiným věcem, byli by jim ještě téhož večera oběhli bolverky a všechna obranná zařízení a město by bylo bez vší pochyby tehdy dobyto. Proto na to má být v budoucnu pamatováno: kdyby se stalo, že by se zase tak rychle a bez varování vtrhlo před města nebo hrady, má se věc ihned směle vzít do rukou, dokud jsou nepřátelé nevarovaní a ve strachu, a nedávat jim příliš dlouhou lhůtu. Neboť vždy platí, jak řekl mocný Hannibal, když povzbuzoval své před Římem, že výhodu má obvykle ten, kdo je na věc připraven a má odvahu ji vykonat. A také o dlouhém otálení bylo mnoho řečeno, že jím nepřátelé bývají natolik posíleni, že se nakonec musí se škodou a nepořízenou odtáhnout, anebo snášet ještě větší strádání."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 55,
+   "popis": "horní dvě třetiny strany – tábor Spříseženstva před Waldshutem; vpravo dole žena s raněným (?)"
+  },
+  {
+   "strana": 56,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 56,
+   "text": "56 X (pozdější foliace, levý horní roh); text psán přes slabý rámeček podkresby"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak všichni Spříseženci byli společně se všemi svými korouhvemi před Waldshutem",
+ "poznamky_prekladu": [
+  "Wernher von Schinen (Schienen) – velitel waldshutské posádky.",
+  "„alle wernnen“ = všechna obranná zařízení (Wehren).",
+  "Odkaz na Hannibala je Schillingova moralizující vsuvka; zdroj citátu neuveden."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

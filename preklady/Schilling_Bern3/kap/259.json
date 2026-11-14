@@ -1,0 +1,45 @@
+{
+ "cislo": 259,
+ "nadpis": "Das der vorgenant krieg zwüschen den beiden parthien wider anfing / vnd einandern an lib vnd an gůt schedigtent",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 565,
+ "strany": [
+  565,
+  566,
+  567
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als nů die von Bernn vermeinten die Safoyer solten semlichen abredunge[n] nach gangen sin / vnd den bestand gehalten haben / dann si gantz willig vnd geneigt waren / fruntlich oder rechtlich tag an ze setzen vnd sich in trüwen zů arbeiten / damit die sachen hetten mögen zů gůtem ende komen / vnd schriben darumb der hertzogin vnd Safoyern / das wolt alles nit helfen / vnd vermeinten ye mit den Wallissern kriegen / vnd sunderlich denen von Bernn tůn vnd zů fügen / das inen leme vnd leid were / als si ouch in mengen weg tatent dann si die Lamparter vnd ander viend mit grossen scharen stetes liessen durch ziechen / vnd suß mengerley zů schup vnd bistand dem hertzogen von Burgunn erzöugten / das denen von Bernn vnd andern eidgno[ssen] gar vnlidig vnd widrig was / darumb us den fruntlichen tagen noch dem gemachten bestand nit wart / vnd griffen aber einandern zů beiden siten an / damit bliben ouch den Wallissern die vorgenanten Stett vnd Sloß vnd wolten ouch die nachmalen niemer mer wider geben",
+   "preklad": "Bernští se domnívali, že Savojští budou tyto dohody dodržovat a zachovají příměří, neboť sami byli zcela ochotni a nakloněni stanovit smírčí nebo soudní jednání a věrně se přičinit, aby věci mohly dojít k dobrému konci, a psali o tom vévodkyni a Savojským. Nic to však nepomohlo. Savojští chtěli za každou cenu válčit s Valaišskými a zvláště Bernským činit a působit to, co by jim bylo k úrazu a žalu, jak to také mnoha způsoby dělali. Neboť stále nechávali táhnout [svou zemí] Lombarďany a jiné nepřátele ve velkých zástupech a jinak projevovali vévodovi Burgundskému všelijakou podporu a pomoc, což bylo Bernským a ostatním Spřísežencům velmi nesnesitelné a protivné. Proto ze smírčích jednání ani z uzavřeného příměří nic nebylo a obě strany na sebe znovu útočily. Tím zůstala Valaišským zmíněná města a hrady a později je už nikdy nechtěli vrátit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 566,
+   "popis": "kolorovaná kresba – obnovená válka: vlevo Valaišané pod praporem s korunou a hvězdami (biskup Sionu) s píkami, uprostřed jezdci s trubačem pod savojským praporem s bílým křížem, vpravo vojáci s bílými kříži zapalují pochodněmi domy, jeden nese na zádech truhlu, druhý kotlík; hořící budovy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 566,
+   "text": "566 X (pozdější foliace, levý horní roh); kolorovaná kresba přes většinu strany, dole text s iniciálou V"
+  },
+  {
+   "strana": 567,
+   "text": "567 X (pozdější foliace, pravý horní roh); stránka bez obrázku (prosvítá text z rubu); nahoře 13 řádků, uprostřed rubrika, dole dopis s iniciálou V"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 565,
+   "text": "Sant Mauritzen = Saint-Maurice; Gundis = Conthey; Martenach = Martigny"
+  }
+ ],
+ "nadpis_preklad": "Jak jmenovaná válka mezi oběma stranami znovu začala a škodily si navzájem na životě i statku",
+ "poznamky_prekladu": [
+  "Jde o Saint-Maurice, Conthey a Martigny z předchozí kapitoly; Dolní Valais zůstal Valaišským natrvalo (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

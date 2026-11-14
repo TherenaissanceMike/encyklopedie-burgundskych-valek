@@ -1,0 +1,40 @@
+{
+ "cislo": 176,
+ "nadpis": "Das die Statt von Strassburg / vnd des hertzogen von österrich lantvogt / ouch von der sach wegen usgezogen waren",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 367,
+ "strany": [
+  367,
+  368,
+  369
+ ],
+ "odstavce": [
+  {
+   "text": "Es zugen ouch die von Strassburg / vnd des hertzogen von österrich landvogt gar mit einem erlichen reisigen zuge / gegen denen von Bernn / vnd warend gar vast tag vnd nacht geritten / das si zů inen kemend / vnd wurdent doch am wider kere von denen von Bernn zů Nüwenburg gewendet / das inen gar leid was / das si nit bi zit warend komen / das man ouch vmb si billichen verdienen vnd des nit vergessen sol / dann si ouch das irs eignen willens vnd vngemant tatent",
+   "preklad": "Táhli také Štrasburští a zemský fojt vévody Rakouského s velmi čestným jízdním oddílem k Bernským a jeli velmi usilovně dnem i nocí, aby k nim přišli. Při návratu je však Bernští v Neuchâtelu zastavili, což jim bylo velmi líto, že nepřišli včas. Toho se jim má také právem oplácet a nemá se na to zapomenout, neboť i oni to učinili z vlastní vůle a nevyzváni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 368,
+   "popis": "velká dokončená kolorovaná miniatura – štrasburská a rakouská jízda přijíždí k Bernským: v pozadí zřícenina hradu na kopci, jezero s loďkou, hory; vpravo bernský prapor s medvědem a spříseženští pěšáci s píkami; vlevo jezdci s pruhovanými a černo-bílými korouhvemi, trubači s polnicemi, jezdec s kuší"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 368,
+   "text": "368 X (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 369,
+   "text": "369 X (pozdější foliace, pravý horní roh); rubrika vepsána do malované pásky (svitku) v horní části miniatury"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak také město Štrasburk a zemský fojt vévody Rakouského kvůli té věci vytáhli",
+ "poznamky_prekladu": [
+  "Zemský fojt vévody Zikmunda Rakouského v Alsasku (viz kap. 179 „lantvogt im Elses“) – tehdy Hermann von Eptingen (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

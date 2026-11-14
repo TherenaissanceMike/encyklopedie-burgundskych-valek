@@ -1,0 +1,39 @@
+{
+ "cislo": 235,
+ "nadpis": "Das man das schön Sloß Stefis verbrant / vnd die armen lüt die sich verborgen hatten vnd noch in leben waren / den von Bernn vnd Friburg swůren",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 505,
+ "strany": [
+  505,
+  506
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als man nů von der Statt ziechen vnd scheiden wolt / da liessen die von Bernn vnd Friburg etlich der iren da hinden / das si das Sloß anstossen vnd verbrennen solt / das ouch beschach / Man hatt ouch geratten vnd beslossen / das man alle türn vnd muren der Statt ab brechen / vnd us der schönen Statt ein dorf machen / darzů solt man ouch alle die manne die noch in leben weren / in eid nemen / Vnd da yederman hinweg kam vnd man alle die So noch in leben / si waren verborgen oder nit / ir lebens gantz sicher seit vnd trost / da vant man in aller Statt / nit über zwentzig man mit den priestern / die da beiden Stetten swůren / das was ein zeichen / das ir gar vil erslagen vnd vmb komen waren / damit bliben ouch die türn vnd muren der Statt gantz",
+   "preklad": "Když se nyní mělo od města odtáhnout a odejít, nechali tam Bernští a Fribourští několik svých lidí, aby hrad zapálili a spálili, což se také stalo. Uvážilo se také a usneslo, že se všechny věže a hradby města zbourají a z krásného města se udělá ves; k tomu se měli všichni muži, kteří byli ještě naživu, vzít do přísahy. A když všichni odešli a všem, kdo byli ještě naživu, ať byli skrytí nebo ne, se slíbila úplná bezpečnost jejich životů a ujištění, nenašlo se v celém městě i s kněžími víc než dvacet mužů, kteří přísahali oběma městům. To bylo znamením, že jich velmi mnoho bylo pobito a zahynulo. Tím také věže a hradby města zůstaly celé."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 505,
+   "popis": "kolorovaná kresba – odchod od Estavayeru: vlevo zástup pikenýrů s bílými kříži pod korouhvemi (Bern s medvědem, Fribourg), uprostřed jezdecký velitel s péry na klobouku, vpravo vojáci s meči a píkami odcházejí k městu za stromy; v pozadí město s mnoha věžemi a kostelem"
+  },
+  {
+   "strana": 506,
+   "popis": "místo pro obrázek – šedě podložený rám se slabou podkresbou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 506,
+   "text": "506 X (pozdější foliace, levý horní roh); text psán přes šedě podložený rám pro obrázek (prázdný, slabá podkresba); v něm dole rubrika"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak byl spálen krásný hrad Estavayer a jak ubozí lidé, kteří se skryli a byli ještě naživu, přísahali Bernským a Fribourským",
+ "poznamky_prekladu": [
+  "Poslední věta: protože zbylo tak málo obyvatel, od zbourání hradeb se zřejmě upustilo (výklad smyslu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

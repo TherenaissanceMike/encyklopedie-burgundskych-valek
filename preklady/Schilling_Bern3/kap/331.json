@@ -1,0 +1,45 @@
+{
+ "cislo": 331,
+ "nadpis": "Das die von Vnderwalden mit ir paner vnd gantzer macht gen Bernn kament / vnd die von Entlibůch ouch mit ir paner",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 747,
+ "strany": [
+  747,
+  748,
+  749
+ ],
+ "odstavce": [
+  {
+   "text": "In dem kamen die von Vnderwalden vnd Entlibůch mit iren panern gen Bernn / die schickt man von stund an gen Gümynen / dz si ouch williclich tatent / Vnd also zoch man mit den selben von Gümynen bis gen Vlmitz / da leit man sich daselbs in höltzer vnd dörffer / vnd schreib man angendes denen von Friburg das si ouch fürderlich kement mit dem züsatz der tusent mannen so von eidgno[ssen] bi inen waren Des glich denen von Solottern vnd von Bieln die mit iren panern zů Arberg lagent / vnd darzů allen anndern eidgno[ssen] vnd verwanten / sich ernstlichen harzů ze fürdern / dann die ding kein beit me haben möchten / von der fromen lüten wegen in Murten / die tag vnd nacht on vnnderlaß wurden genötet / als man ouch am letsten an irem schreiben vnd botschaften wol verstůnd / das si hilf vnd entschüttung gantz notdürftig warent / vnd ouch des begerten",
+   "preklad": "Mezitím přišli Unterwaldenští a Entlebuchští se svými korouhvemi do Bernu. Ty ihned poslali do Gümmenen, což také ochotně učinili. A tak se s nimi táhlo z Gümmenen až do Ulmiz, a tam se rozložili v lesích a vesnicích. A ihned se psalo Fribourgským, aby také rychle přišli s posádkou tisíce mužů od Spříseženců, kteří byli u nich; stejně tak Solothurnským a Bielským, kteří leželi se svými korouhvemi v Aarbergu, a k tomu všem ostatním Spřísežencům a spojencům, aby se sem usilovně pospíšili, neboť ta věc už nesnesla žádný odklad kvůli statečným lidem v Murtenu, kteří byli dnem i nocí bez přestání tísněni; jak se nakonec dobře poznalo i z jejich listů a poselství, že pomoc a vysvobození naléhavě potřebují a že o ně také žádají."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 748,
+   "popis": "vojsko táhne k městu s bernským štítem nad branou (Bern); vlevo korouhve: zelená/tmavá s lípou[?] (Entlebuch) a dělená korouhev (Unterwalden); vojáci s bílými kříži na prsou, píky a halapartny, bubeník a pištec v čele; v popředí řeka s kachnami"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 748,
+   "text": "748 X (pozdější foliace, levý horní roh); nahoře celostránkový obraz, pod ním odstavec s iniciálou I"
+  },
+  {
+   "strana": 749,
+   "text": "749 X (pozdější foliace, pravý horní roh); stránka bez obrázku; rubrika s iniciálou V, odstavec s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 748,
+   "text": "Vlmitz = Ulmiz (u Gümmenen)"
+  }
+ ],
+ "nadpis_preklad": "Jak Unterwaldenští přišli se svou korouhví a celou mocí do Bernu a Entlebuchští také se svou korouhví",
+ "poznamky_prekladu": [
+  "Vlmitz = Ulmiz u Gümmenen; Arberg = Aarberg (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 0
+}

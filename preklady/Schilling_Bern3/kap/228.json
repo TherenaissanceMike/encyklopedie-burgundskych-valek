@@ -1,0 +1,56 @@
+{
+ "cislo": 228,
+ "nadpis": "Das die von Bernn dem Grafen von Roymond mit irem botten absseiten",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 486,
+ "strany": [
+  486,
+  487,
+  488
+ ],
+ "odstavce": [
+  {
+   "text": "Dem durchlüchtigen hochgebornen fürsten vnd herrnn / herrnn Jacoben von Safoy Graven zů Roymond / oder sinen Stathaltern vnd amptlüten / Verkünden wir Schultheis / Rätt vnd die gemeinde der Statt Bernn Vnns noch vnvergessen / mit was fliß / neigung vnd ernst / wir zů nutz vnd gemach üwer herschaften vnd lannden günstig sind gewesen / also das wir der selben schaden nit anders dann den vnnsern alweg abgewert haben / Solicher vnnser milt ist aber wenig danckberkeit begegnet / das sich so verr gemacht hatt / das in den gegnen üwer lannden die vnnsern / vnd der fürsichtigen vnnser aller liebsten frunden vnd bünden Schultheissen Räten vnd gemeinden zů Friburg botschaften / durch die üwern ermürt vnd gevange[n] sind / Darnach so ist dis ergernüß in solich heß vnd vnrüwe geflossen / das vnnsern gewapneten In dem vermelten üwerm lande / durch üwer amptlüte vnd eigen völcker todsleg vnd schad / an libe vnd an gůt zů gefügt sind / Vnd das die selbe grymikeit vnufhörlich geschechen werde / So hatt si inen vnuerdient / noch zů verschulden gantz nit geneigt / all menschlich narunge vnd köuf abgeworfen / inen vnd zům voran vns zů gantzer smach / Darumb die wile natürlichs rechten ist / frevel ab zů weren / vnd gewalt mit gewalt zů vertriben / So werden wir gezwungen / wie wol vnnser gemüt nie anders begerten / vnnserm lannde zů beschirmung vnd gegenwer vnns uf zů richten / vnd solichen gewalt ab zů triben / vnd vnns aller vnd yeglicher Stürm[?] vnd anders zů gebruchen / damit die gereitzten von vnns vnd andern vnnsern gewanten vnnder ze trucken vnderstanden werde Vnd das üwer herschaft solichs lüter wiß / So verkünden wir ir das durch disen gegenwürtigen vnnsern offen brief / für sich vnd alle ir anhenger wider vnns / vnd wir wellen ouch für vnns / alle die vnnsern vnd verwanten vnnser ere hiemit völliclich verwart vnd gnůg abgeseit haben / Geben vnder vnnserm Sigel xiiij[?]a octobris Anno lxxvto",
+   "preklad": "Jasnému, vysoce urozenému knížeti a pánu, panu Jakubovi Savojskému, hraběti z Romontu, nebo jeho místodržícím a úředníkům, oznamujeme my, starosta, rada a obec města Bernu: Ještě nezapomínáme, s jakou horlivostí, náklonností a vážností jsme byli nakloněni užitku a pohodlí vašich panství a zemí, takže jsme od nich škodu vždy odvraceli nejinak než od svých vlastních. Této naší laskavosti se však dostalo jen málo vděčnosti, a došlo to tak daleko, že v krajích vašich zemí byli vašimi lidmi zavražděni a zajati naši lidé a poselstva prozíravých, našich nejmilejších přátel a spojenců, starosty, rad a obce Fribourgu. Potom toto pohoršení přerostlo v takovou nenávist a nepokoj, že našim ozbrojencům ve zmíněné vaší zemi byla vašimi úředníky a vlastním lidem způsobena zabití a škody na těle i statku. A aby taková zuřivost pokračovala bez ustání, bylo jim, ač si to nijak nezasloužili a ničím se neprovinili, odepřeno všechno lidské živobytí a trh, jim, a především nám, k úplné potupě. Protože tedy je přirozeným právem čelit svévoli a násilí vyhánět násilím, jsme nuceni – ačkoli naše mysl nikdy nežádala nic jiného [než mír] – povstat k ochraně a odporu své země, takové násilí odrazit a užít všech a jakýchkoli útoků [?] i jiného, aby ti, kdo nás a naše další spojence dráždí, byli potlačeni. A aby to vaše panství jasně vědělo, oznamujeme mu to tímto naším přítomným otevřeným listem, jemu i všem jeho přívržencům proti nám, a chceme tímto za sebe, všechny své lidi i spojence plně uchovat svou čest a dostatečně vypovědět nepřátelství. Dáno pod naší pečetí 14. [?] října roku [14]75."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 486,
+   "popis": "kolorovaná kresba – bernský posel na koni s holí a bernským odznakem (medvěd) na hrudi jede od hradu (Romont?) s branou a věžemi; vpravo skála a stromy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 487,
+   "text": "487 X (pozdější foliace, pravý horní roh); stránka bez obrázku; pokračování absagbriefu"
+  },
+  {
+   "strana": 488,
+   "text": "488 X (pozdější foliace, levý horní roh); stránka bez obrázku; konec absagbriefu, pak rubrika a dopis markraběti z Hochbergu s iniciálou D"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 486,
+   "text": "absagbrief (vypovězení nepřátelství) Bernu hraběti z Romontu, říjen 1475"
+  },
+  {
+   "strana": 487,
+   "text": "„aller vnd yeglicher Stürm“ – čtení nejisté (snad „Sitten“ / „Stücken“)"
+  },
+  {
+   "strana": 488,
+   "text": "datum absagbriefu „xiiij octobris Anno lxxvto“ = 14. října 1475 (číslice nejistá)"
+  }
+ ],
+ "nadpis_preklad": "Jak Bernští po svém poslu vypověděli nepřátelství hraběti z Romontu",
+ "poznamky_prekladu": [
+  "Absagbrief (list s vypovězením nepřátelství) Bernu hraběti z Romontu; formální vypovězení „hiemit … ere verwart vnd gnůg abgeseit“ chránilo čest odesílatele – útok bez něj byl nečestný (srov. kap. 226).",
+  "„gegenwer“ přeloženo „odpor“.",
+  "„aller vnd yeglicher Stürm[?]“ – čtení nejisté (snad „Stücken“ = prostředků); přeloženo „útoků [?]“.",
+  "Datum „xiiij[?]a octobris Anno lxxvto“ = 14. října 1475 (číslice nejistá); souhlasí s datem listu v kap. 229 a s datem výtahu Bernských v kap. 230."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 2
+}

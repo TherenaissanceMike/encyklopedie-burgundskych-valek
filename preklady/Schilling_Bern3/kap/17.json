@@ -1,0 +1,46 @@
+{
+ "cislo": 17,
+ "nadpis": "Das man denen von Tann ir starcken hüten die vorhin nie me gewunnen waren / vnd ouch ir vor Statt / mit gewalt an gewann / vnd darinn mergklichen schaden tett / vnd gantz verbrant /",
+ "rukopis": "Bern, Burgerbibliothek, Mss.h.h.I.3",
+ "rukopis_strana": 41,
+ "strany": [
+  41,
+  42,
+  43
+ ],
+ "odstavce": [
+  {
+   "text": "Darnach zugen die von Bernn vnd Sollotern mit iren verwanten für die Statt Tann / die hatten ir hüten vff einem berge genant der Stouffen gar mit mutwilligen lüten besatzt / die schruwen harab vnd retten gar schantlich vncristenlich wort davon man nit schriben sol / Das verdros die von Bernn vnd ander vnd lüffen von stund an mit zorn vff den berg / vnd gewunnen den mit gewalt / der vorhin nie mocht gewunnen werden / vnd veriagten die snöden büben des vncristenlichen geschreyes mit schantlicher flucht in die Statt / darin si kum entrunnen / vnd lüffen inen nach vnd gewunnen die vor Statt mit gewalt / Vnd were etlichen ze rouben nit als not gesin / vnd etlichen die ouch dem veche nach lüffen So hette man inen die recht Statt ouch an gewunnen / Vnd bliben also in der vor Statt vnd schussen ze samen das etlich erschossen vnd wund wurden / Man vand ouch in der selben Statt gar gůten starcken iungen win / In des von Knachts[?] hus vnd an anderen enden / Vnd lagent merenteils alle in dem closter zen barfůssen / Vnd wurden von dem gůten win gar wol gemůt / als nit vnbillich was / Man hett ouch die Statt gernn gesturempt vnd mit gewalt erobert / da man dar kam da hat man kein büchsen noch anderen zug darzů dienende / Vnd můst man ir menigvaltig geschütz entsitzen / So was ouch die Statt mit anderen weren gar starck zů gerüst das es vnder wegen bleip / da zoch man dannen / vnd ward die vor Statt / gantz verbrant vnd gewůst",
+   "preklad": "Potom Bernští a Solothurnští se svými spojenci táhli před město Thann. Ti měli svou stráž na hoře zvané Staufen obsazenou velmi svévolnými lidmi, kteří křičeli dolů a mluvili velmi hanebná a nekřesťanská slova, o nichž se nemá psát. To Bernské a jiné rozzlobilo, ihned se v hněvu rozběhli na horu a dobyli ji násilím, ačkoli předtím nikdy nemohla být dobyta, a ty mrzké pacholky s nekřesťanským křikem zahnali hanebným útěkem do města, kam stěží unikli. Běželi za nimi a násilím dobyli předměstí. A kdyby se některým nebylo tolik chtělo loupit a jiní nebyli běželi za dobytkem, byli by jim dobyli i vlastní město. Zůstali tedy v předměstí a navzájem spolu stříleli, takže někteří byli zastřeleni a raněni. V tom městě se také našlo velmi dobré silné mladé víno v domě pana von Knachts [?] a na jiných místech. Většinou všichni leželi v klášteře u bosáků a z dobrého vína byli velmi dobře naladěni, jak to nebylo nic divného. Rádi by byli město také ztekli a násilím dobyli; když tam však přišli, neměli žádná děla ani jinou výzbroj, která by k tomu sloužila, a museli se obávat jejich četného dělostřelectva. Také bylo město jinými obrannými prostředky velmi silně vybaveno, takže to zůstalo neuskutečněno. Tu se odtud táhlo a předměstí bylo úplně vypáleno a zpustošeno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 42,
+   "popis": "horní dvě třetiny strany – útok na vrch Stouffen u Thannu a na předměstí"
+  },
+  {
+   "strana": 43,
+   "popis": "místo vynechané pro obrázek (rámeček, jen podkresba)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 42,
+   "text": "42 (pozdější foliace, levý horní roh)"
+  },
+  {
+   "strana": 43,
+   "text": "43 X (pozdější foliace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [],
+ "nadpis_preklad": "Jak se Thannským násilím dobyla jejich silná stráž, která předtím nikdy nebyla dobyta, i jejich předměstí, jak se tam způsobila citelná škoda a všechno se vypálilo",
+ "poznamky_prekladu": [
+  "„hüte“ = strážní stanoviště; Staufen = kopec nad Thannem (Staufenberg), určení mimo přepis.",
+  "„des von Knachts[?] hus“ – nejisté čtení jména.",
+  "„zen barfůssen“ = u bosáků, tj. ve františkánském klášteře v Thannu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z vlastního přepisu rukopisu (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "nejista_mista": 1
+}

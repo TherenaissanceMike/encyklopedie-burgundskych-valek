@@ -10,7 +10,7 @@
   },
   {
    "text": "Und also zoch der herzog von Burgunnen wider harus in Saföy bis gen Losann, doselbs er ein gros mechtig leger und stark wagenburg vor der stat slüg, und was als vol luten in stetten und dörfern und zoch im gros welt zü. Die herzogin von Saföy was ouch mit aller ir macht bi im, und hatten gar vil hantwerkslüten bi inen und sunders snider, die tag und nacht anders nit tatent dann werken, siden- und ander cleider und scharinen, darzü nüw zelt und anders, wes man dann bedorfte. Und ging gar mengerlei red darzwüschen, das man nit eigentlich mochte verstan, war er sich keren oder was er tün wolt, dann das alweg die gemein red was, er wolt für Bern oder Friburg ziechen, daruf sich ouch die beiden stette vast rusten und meinten, im mit gottes hilf manlichen zu widerstan.",
-   "preklad": "A tak táhl vévoda burgundský zase ven do Savojska až k Lausanne. Tam si před městem zřídil velký, mocný tábor a silnou vozovou hradbu. Města i vesnice byly plné lidí a přitahovalo k němu velké množství lidu. Byla u něho i vévodkyně savojská s celou svou mocí. Měli u sebe velmi mnoho řemeslníků, zvláště krejčích, kteří ve dne v noci nedělali nic jiného, než že šili hedvábné i jiné šaty a válečné pláště (scharinen), k tomu nové stany a cokoli dalšího bylo třeba. Mezitím se vedly všelijaké řeči, takže nebylo možné spolehlivě poznat, kam se obrátí nebo co chce udělat. Stále se však obecně říkalo, že chce táhnout na Bern nebo na Fribourg. Obě města proto usilovně zbrojila a hodlala se mu s Boží pomocí mužně postavit."
+   "preklad": "A tak táhl vévoda burgundský zase ven do Savojska až k Lausanne. Tam si před městem zřídil velký, mocný tábor a silnou vozovou hradbu. Města i vesnice byly plné lidí a přitahovalo k němu velké množství lidu. Byla u něho i vévodkyně savojská s celou svou mocí. Měli u sebe velmi mnoho řemeslníků, zvláště krejčích, kteří ve dne v noci nedělali nic jiného, než že šili hedvábné i jiné šaty a livreje (scharinen), k tomu nové stany a cokoli dalšího bylo třeba. Mezitím se vedly všelijaké řeči, takže nebylo možné spolehlivě poznat, kam se obrátí nebo co chce udělat. Stále se však obecně říkalo, že chce táhnout na Bern nebo na Fribourg. Obě města proto usilovně zbrojila a hodlala se mu s Boží pomocí mužně postavit."
   },
   {
    "text": "Man vernam ouch eigentlichen, das der herzog von Burgunnen dem grafen von Röymond zügesagt und verheissen hat, er wolt in herr zü Bern machen und über alles ir land und gebiet mit einandern, und aber der herzogin von Saföy Friburg mit siner zügehörunge ouch ingeben und undertenig machen, also das vorhin in den beiden stetten menglich wurd ertöt und umbbracht. Darzü hat ouch er sinen edlen und dienern der besten hüser- und güt in beiden stetten für iren sold geben und si damit belechnet und inen ouch darumb brief und sigel geben, und hatten ouch dieselben semlich hüser und güt under sich geteilt, und das los darumb geworfen; es ging aber von gots gnaden nit nach sinem anslag und willen.",
@@ -20,11 +20,12 @@
  "poznamky": [
   "Oprava textu: „sidenund“ → „siden- und“, „hüserund“ → „hüser- und“ (rozdělení slova na konci řádku). Úplnost proti surovému rozsahu v pořádku.",
   "Tobler: Karel opustil původní plán táhnout ke Ženevě, 9. 3. 1476 měl přehlídku vojska v Nozeroy, 10. 3. byl v Jougne, 11. 3. v Orbe a 14. 3. v Lausanne (podle zápisu fribourgského radního manuálu už 12. 3.). Tábor stál nad městem, asi půl míle od Lausanne, na místě „Grata paleiz“ (Ochsenbein).",
-  "Tobler: „scharinen“ (scharnie) = válečný plášť; k šití srv. zápis bernského radního manuálu z 28. 3. Bern a Fribourg začaly zbrojit už 10. 3. 1476.",
+  "Tobler: „scharinen“ (scharnie) vykládá jako Kriegsmantel; podle glosáře projektu překládáno „livrej“; k šití srv. zápis bernského radního manuálu z 28. 3. Bern a Fribourg začaly zbrojit už 10. 3. 1476.",
   "Tobler: podobně o rozdělování kořisti předem vypráví Etterlin (Karel prý chtěl dobyté statky dát svým lidem a udělat je pány).",
   "Bernský rukopis (varianty): „wagenburg mit grosser hochvart slüg“ (s velkou pýchou); krejčí „emsiclichen werken“ (pilně pracovali); místo „meinten, im… zu widerstan“ má „einen manlichen widerstant ze tünde“.",
   "Hrabě z Romontu = Jakub Savojský, hrabě z Romontu (mimo Tobler)."
  ],
  "prelozil": "Claude (AI), 11. 11. 2026, z Toblerova textu; neověřeno proti rukopisu; korektura Claude (AI) 2026-11-12",
- "overeno_rukopis": false
+ "overeno_rukopis": false,
+ "revize": "Claude (AI), 2026-11-14, podle glosáře (GLOSAR.md); neprošlo lidskou korekturou"
 }
