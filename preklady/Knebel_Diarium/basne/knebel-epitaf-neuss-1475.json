@@ -1,0 +1,27 @@
+{
+  "nazev_original": "Epithaphium Ursi Angwillarii capitanei Lombardorum; De Karolo duce versus optativi",
+  "uvod": {
+    "text": "Hic dum se intrepidum ostenderet Nussiensibus, ictu bombardi cecidit mortuus et ibidem extra Nussiam in monasterio fuit sepultus, et ejus sepulcro epithaphium inscriptum.",
+    "preklad": "Když se tento [hrabě] nebojácně ukazoval Neusským, padl mrtev ranou z bombardy a byl tamtéž před Neussem pohřben v klášteře a na jeho hrob byl napsán náhrobní nápis."
+  },
+  "odstavce": [
+    {
+      "text": "Epithaphium Ursi Angwillarii capitanei Lombardorum. Ne busti locus sit cassa memoria leti, / Aspice, qui transis, tristia fata viri. / Conditur at Reni comes Angwillarius Ursus / Exanimis ripa, dum fuit ille ducis / Magni commilito Karoli, dum Nussia castris / Cingitur et turres quassa lapis dirimit. / Ictu bombardi simili cadit illius ergo, / Dum se custodem concitat intrepidum.",
+      "preklad": "Náhrobní nápis Orsa z Anguillary, hejtmana Lombarďanů: Aby místo hrobu nebylo marnou připomínkou smrti, / pohleď, kdo jdeš kolem, na smutný osud muže. / Na břehu Rýna je pochován [?] hrabě Orso z Anguillary, / mrtev; byl totiž / spolubojovníkem velikého vévody Karla, když byl Neuss táborem / obklíčen a kámen tříštil rozbité věže. / Padá tedy ranou z bombardy, podobnou té [?], / když se jako neohrožený strážce vrhá kupředu."
+    },
+    {
+      "text": "De Karolo duce versus optativi. Sit tibi, crudelis Karole, victoria nulla, / Nobilis ut sexus servetur judicis aula.",
+      "preklad": "Verše přání o vévodovi Karlovi: Ať nemáš, krutý Karle, žádné vítězství, / aby byl urozený rod [?] zachován v síni soudce [?]."
+    }
+  ],
+  "poznamky": [
+    "Autor neznámý; Knebel uvádí, že nápis byl napsán na hrob padlého v klášteře před Neussem. Edice: Basler Chroniken II (1880), ed. W. Vischer, s. 159 (Knebelův rukopis s. [179]). Knebel oba texty opsal ještě jednou na s. 382 svého rukopisu; varianty tohoto druhého opisu: nadpis „comitis Ursi de Angwillariis“, „turris“ místo „turres“, nadpis druhé básně „optativum contra Karolum“ a pod verši poznámka „Nussia anno lxxv“.",
+    "Datace: obléhání Neussu Karlem Smělým trvalo od července 1474 do června 1475; Knebel zprávu zapsal mezi události počátku roku 1475, druhý opis je datován „1475“. Hrabě tedy padl během obléhání, nejpozději na počátku roku 1475; nápis vznikl krátce poté.",
+    "Kontext podle Knebela: hrabě Orso (Ursus) z Anguillary, dříve pán Ronciglione v Papežském státě, kterého Knebel prý viděl při cestě do Říma; pro přepadání poutníků ho papež Pius II. vyhnal. Pak se stal hejtmanem vévody ferrarského, který ho poslal s jízdou i pěchotou na pomoc Karlovi před Neuss. Knebel ho na okraji nazývá „comte de Versz“. Editor upozorňuje, že pán Ronciglione, kterého Knebel viděl, byl spíše Everso z Anguillary († 1464, rod Orsini), a „Versz“ považuje za zkomolení jména „conte Everso“; Knebelovo ztotožnění padlého je tedy nejisté.",
+    "Forma: náhrobní nápis tvoří 4 elegická disticha (8 veršů). „Versus optativi“ jsou dva hexametry s leoninským rýmem (nulla – aula).",
+    "Nejistá místa: ve v. 3 „Conditur at Reni…“ je „at“ (však) smyslově neobratné; snad je zkažené z „hac“ („Conditur hac Reni … ripa“ = na tomto břehu Rýna je pochován). Jde o můj návrh, ne o editorův, proto [?]. Ve v. 6 se „quassa“ gramaticky neshoduje s „turres“ (druhý opis: „turris“). Ve v. 7 je „simili … illius“ nejasné; nejspíš „ranou podobnou té“, kterou kámen tříštil věže, proto [?]. „Bombardi“ je mužský tvar místo obvyklého „bombarde“ (stejně v Knebelově próze).",
+    "Ve „versus optativi“ je druhý verš nejasný: „nobilis sexus“ (urozený rod/pohlaví) a „judicis aula“ (síň soudce) nelze s jistotou vyložit; snad jde o zachování urozeného rodu a řádného soudu či vlády proti Karlovu násilí. Proto [?].",
+    "Termíny: capitaneus = hejtman (podle glosáře), Lombardi = Lombarďané (Knebel tak obecně nazývá Italy v Karlových službách), dux = vévoda, Nussia = Neuss. Dopis Kolínských, který v deníku následuje, sem nepatří a je vynechán."
+  ],
+  "prelozil": "Claude (AI), 2026-11-14, z OCR edice Basler Chroniken II/III; neprošlo lidskou korekturou"
+}

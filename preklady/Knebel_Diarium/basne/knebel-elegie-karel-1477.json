@@ -1,0 +1,55 @@
+{
+  "nazev_original": "Decidit exanimis, voluit qui sydera celi (De occubitu Karoli ducis Burgundie)",
+  "uvod": {
+    "text": "De occubitu Karoli ducis Burgundie quidam bonus pater misit michi carmen pro pastillis in carnisprivio, in hunc qui sequitur modum.",
+    "preklad": "O skonu Karla, vévody burgundského, mi jeden dobrý otec poslal o masopustu za koblížky báseň, která zní takto:"
+  },
+  "odstavce": [
+    {
+      "text": "Decidit exanimis, voluit qui sydera celi / Quatuor et terre climata supprimere. / Mentem, Burgunde, tibi que vesania cepit? / Quem crucias diro, te tumulat populus.",
+      "preklad": "Padl bez duše ten, kdo chtěl hvězdy nebeské / i čtyři pásma země si podrobit. / Jaké šílenství se, Burgunďane, zmocnilo tvé mysli? / Lid, který kruté trýzníš, teď tebe pohřbívá."
+    },
+    {
+      "text": "Victu’ esne ille stupor mundi, quem cuncta timebant? / Ecce suppinus jaces fossus ab armigero. / Compares o tantam quam nisus carpere partem / Orbis, non clausus diceris esse loco.",
+      "preklad": "Což jsi poražen, ty úžase světa, jehož se všechno bálo? / Hle, ležíš naznak, proboden panošem. / Srovnej, ó, jak velký díl / světa ses snažil uchvátit – a prý tě žádné místo neuzavře [?]."
+    },
+    {
+      "text": "Auderem fari: te straverat ulcio diva, / Es hominum fusor sangwinis innumeri. / Forte diu virga, tandem percussus ab illa, / Digna dei fueras, premia suscipies.",
+      "preklad": "Odvážil bych se říci: srazila tě božská pomsta, / neboť jsi prolil krev nesčetných lidí. / Snad jsi dlouho byl metlou, nakonec jí sám zasažen; / byl jsi metlou Boží – přijmeš zaslouženou odplatu."
+    },
+    {
+      "text": "Te miserum! primo nosces, que facta sequantur, / Que tua, sic disces, insipiencia sit. / O furiosa petens dominandi humana libido, / Fine malo semper ultima desieras.",
+      "preklad": "Ubohý ty! Teprve teď poznáš, co po činech přichází, / a tak se naučíš, jaká byla tvá pošetilost. / Ó zuřivá lidská touho, jež bažíš po vládě, / vždy jsi své poslední dny zakončila zlým koncem."
+    },
+    {
+      "text": "Que te produxit, cinerem Nansaia servat / Tellus, nil refert una beata domus. / Poscimus ergo: deus, animam pietate superna / Siste tui famuli celibus in domibus!",
+      "preklad": "Ta, jež tě zrodila … tvůj popel však střeží nancyská / půda; na tom nesejde, záleží jen na jediném blaženém domově [?]. / Prosíme tedy: Bože, ve své nebeské dobrotě / uveď duši svého služebníka do nebeských příbytků!"
+    },
+    {
+      "text": "Me forte protestor mestum de morte ducis, sed / Gaudeo materia gladiandi more scolaris, / Cuique fides non sit, finalia carmina nudant, / In quibus oro deum, dignetur ei misereri.",
+      "preklad": "Snad se prohlašuji za truchlícího nad smrtí vévody, ale / raduji se z látky k šermování slovem, jak to dělají žáci; / kdo by mi nevěřil, tomu to odhalí závěrečné verše, / v nichž prosím Boha, aby se ráčil nad ním smilovat."
+    },
+    {
+      "text": "Quem non perturbat, dic queso, principis umbra, / Nostro qui luxit sidus canens orizonte? / Non orisons longam medio gramatice credas.",
+      "preklad": "Koho by – řekni, prosím – neznepokojil stín knížete, / jenž zazářil jako bělavá hvězda na našem obzoru? / Nevěř, že „orizon“ má podle gramatiky prostřední slabiku dlouhou [?]."
+    }
+  ],
+  "poznamky": [
+    "Autor: anonymní „bonus pater“; podle obšírnější uvozovací poznámky v Knebelově opisu v Urstisiově Codex diplomaticus Brucknerianus (edice, s. 381) šlo o venkovského kněze („a quodam rurali presbitero“), který báseň poslal o masopustu místo/za masopustní koblížky, protože věděl, že Knebel nemůže přijít („sciebat enim, me non posse venire“). Editor z označení „bonus pater“ usuzuje na staršího pána, k němuž Knebel o masopustu chodíval na návštěvu na Fastnachtsküchlein.",
+    "„pro pastillis“: doslova „za koláčky / pro koláčky“ – buď místo obvyklého pohoštění, nebo jako protidar; český překlad „za masopustní koblížky“ ponechává obojí výklad otevřený.",
+    "Datace: báseň došla Knebelovi o masopustu (carnisprivium) 1477, tj. kolem poloviny února 1477 (Popeleční středa připadla 19. 2. 1477); složena tedy mezi bitvou u Nancy (5. 1. 1477) a masopustem.",
+    "Pramen: Basler Chroniken III, Knebelův deník, s. 120, ř. 19–21 (uvozovací věta) a s. 120, ř. 22 – s. 121, ř. 15 (báseň); značka rukopisné strany [90] vypuštěna.",
+    "Forma: v. 1–20 elegické distichy (hexametr + pentametr), v. 21–27 doslov v hexametrech, v němž se autor ohrazuje (je snad smuten ze smrti vévody, ale těší ho látka k veršovému cvičení) a v posledním verši obhajuje prozodii slova „orizonte“.",
+    "V. 6: nad slovem „armigero“ je v rukopise připsáno „vel agricola, ut fertur“ – „nebo sedlákem, jak se říká“ (aparát, s. 120, ř. 27). Armiger přeložen dle glosáře jako panoš.",
+    "V. 7–8 „Compares … non clausus diceris esse loco“: smysl nejistý. Patrně kontrast: ten, kdo se snažil uchvátit tak velký díl světa a o němž se říkalo, že ho žádné místo nepojme, nyní leží v zemi (srov. v. 17–18). Jiný možný výklad: „nyní se o tobě říká, že nejsi ani pohřben“ (Karlovo tělo bylo nalezeno až dva dny po bitvě) [?]. V češtině bylo nutno slovo „světa“ přesunout do 8. verše.",
+    "V. 11–12: „virga“ – Karel jako metla Boží (srov. Iz 10,5), která byla nakonec sama zasažena; „Digna dei … premia“ lze chápat i jako „odměnu hodnou Boha (od Boha)“.",
+    "V. 14: OCR „insiprencia“ opraveno na insipiencia.",
+    "V. 17–18 „Que te produxit, cinerem Nansaia servat / Tellus, nil refert una beata domus“: syntax nejasná, věta je patrně neúplná (chybí řídící výraz k „Que te produxit“, snad „země, jež tě zrodila“, tj. Burgundsko). Výklad „nezáleží na tom (kde leží tělo), důležitý je jen jediný blažený domov (nebe)“ navazuje na prosbu ve v. 19–20 [?].",
+    "V. 20 „celibus“ = caelestibus / caelicis, „nebeským“ (středověká forma, metricky ce-li-bus).",
+    "V. 22 „materia gladiandi more scolaris“: „gladiari“ = šermovat; míněno literární cvičení, slovní šerm, jak jej pěstovali žáci ve škole.",
+    "V. 26 „sidus canens“: bělavá, šedavě zářící hvězda (snad narážka na kometu) – Karel jako hvězda, jež zazářila na obzoru.",
+    "V. 27: text OCR „orisons“ ponechán [?]; míněno nejspíš slovo orizon (horizon) z předchozího verše, v němž je prostřední slabika („ri“) metricky krátká, ač je řecky dlouhá – autor se omlouvá či obhajuje: „nevěř, že ‚orizon‘ má v prostředku dlouhou slabiku“. „gramatice“ lze chápat jako příslovce (podle gramatiky) nebo jako vokativ „gramatiku!“ (oslovení učeného čtenáře).",
+    "Středověký pravopis ponechán (sydera, quatuor, suppinus, sangwinis, ulcio, michi)."
+  ],
+  "prelozil": "Claude (AI), 2026-11-14, z OCR edice Basler Chroniken III; neprošlo lidskou korekturou"
+}

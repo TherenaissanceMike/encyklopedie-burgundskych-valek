@@ -1,0 +1,81 @@
+{
+  "nazev_original": "Quidam alius versificator sive carminator de Petro Hagenbach quondam balivo Karoli ducis Burgundie et Jacobo nuncio sub dyalogo fecit carmen.",
+  "uvod": {
+    "text": "Quidam alius versificator sive carminator de Petro Hagenbach quondam balivo Karoli ducis Burgundie et Jacobo nuncio sub dyalogo fecit carmen.",
+    "preklad": "Jiný jakýsi veršovec čili básník složil báseň ve formě dialogu o Petru Hagenbachovi, někdejším zemském fojtovi Karla, vévody burgundského, a o Jakubovi a poslovi."
+  },
+  "odstavce": [
+    {
+      "text": "Petrus Hagenbach. Postquam non parum Karoli sum nactus amore / Principis, humanum quem timet usque genus, / Nemo michi par est, omnes michi cedere restat, / Nec quisquam temptet dampna reddidisse michi. / Agricolas, proceres mea jussa capescere cogam / Et faciam promptos ad mea vota viros. / Vox mea mandabit, vox mea prohibebit omnes, / Sermo meus semper ensis acutus erit. / Pluribus in rebus mores delebo vetustos / Et nova vivendi forma videbor ego.",
+      "preklad": "Petr Hagenbach: Když jsem si nemálo získal přízeň Karla, / knížete, jehož se bojí veškeré lidské pokolení, / nikdo mi není roven, všem nezbývá než mi ustoupit, / a ať se nikdo neodváží mi škody oplácet. / Sedláky i velmože donutím plnit mé rozkazy / a muže učiním povolnými k mým přáním. / Můj hlas bude všem přikazovat, můj hlas jim bude zakazovat, / má řeč bude vždy ostrým mečem. / V mnoha věcech vymýtím staré obyčeje / a sám se ukážu jako nový řád života."
+    },
+    {
+      "text": "Jacobus ad Hagenbach. Ramne, quid insanis, cur tu, gelidissime serpens / Petre, neronisas, scorpio, pestis atrox? / An speras, onager, totum capescere mundum? / An cunctis ducibus clarior esse cupis? / Crede michi, tandem per devia lubrica ibis, / Dum flens ultores experiere deos. / Discucias propriam, crudelis bestia, sortem, / Qualis es attendas, quid cupis esse capis. / Es miles, fateor, non rex, non dux neque Cesar, / Te tamen hos omnes transuperare putas.",
+      "preklad": "Jakub Hagenbachovi: Hlohu, proč běsníš, proč ty, nejstudenější hade, / Petře, řádíš jako Nero, štíre, krutý more? / Doufáš snad, divoký osle, že se zmocníš celého světa? / Toužíš snad být slavnější než všechna knížata? / Věř mi [?], nakonec půjdeš po kluzkých bezcestích, / až s pláčem poznáš bohy mstitele. / Prozkoumej svůj vlastní úděl, ukrutná bestie, / hleď, jaký jsi – a ty se chápeš toho, čím být toužíš [?]. / Jsi rytíř, uznávám, ne král, ne vévoda ani císař, / a přece si myslíš, že je všechny převyšuješ."
+    },
+    {
+      "text": "Jacobus ad Karolum novissimum ducem Burgundie. Dux invicte, potens dux Karole, juste vir, audi, / Dux, quem turba crucis tercie pene timet. / Anne tibi desunt generosa stirpe creati / Sollertesque viri, qui pia jura colunt, / Qui rexisse tuas juste possint regiones / Et populo sancta pace prodesse tuo? / Est tibi dilecta ex tota gente satelles, / Qui non est dignus nomen habere viri. / Ille parit lites, latrocinia, sediciones, / Predas atque mali sustinet omne genus. / Hic caput, hic Cesar, deus hic summus Appollo / In desolata sat modo plebe fuit, / Plorabitque diu magno gens perdita dampno, / Et mirum, cur hoc sustinuisse potes.",
+      "preklad": "Jakub Karlovi, poslednímu vévodovi burgundskému: Nepřemožený vévodo, mocný vévodo Karle, spravedlivý muži, slyš, / vévodo, jehož se zástup kříže [?] bezmála bojí [tercie ?]. / Což ti chybějí muži zrození z urozeného rodu / a zdatní, kteří ctí zbožné právo, / kteří by mohli spravedlivě spravovat tvé země / a prospívat tvému lidu svatým mírem? / Ze všeho lidu je ti milý jeden přisluhovač, / který není hoden nést jméno muže. / On plodí spory, loupeže, vzpoury, / živí plenění a všechen druh zla. / Ten byl hlavou, ten císařem, ten nejvyšším bohem Apollónem / v lidu, nyní už dost zpustošeném, / a zubožený lid bude dlouho oplakávat velkou škodu – / a je s podivem, proč jsi to mohl snášet."
+    },
+    {
+      "text": "Nuncius ad Jacobum. Jacobe, quid meres? dulcissima nuncia porto. / Affero non parvas, Jacobe, delicias.",
+      "preklad": "Posel Jakubovi: Jakube, proč truchlíš? Nesu nejsladší zprávy. / Přináším, Jakube, nemalé potěšení."
+    },
+    {
+      "text": "Jacobus ad nuncium. Advena, quid narras? dic, deprecor, advena, nobis, / Effice nos hylares nunc novitate tua.",
+      "preklad": "Jakub poslovi: Cizinče, co vypravuješ? Pověz nám, prosím, cizinče, / rozvesel nás nyní svou novinou."
+    },
+    {
+      "text": "Nuncius ad Jacobum. Vippera letifera pungens quoque spina resecta est, / Disperiit prorsus fons et origo mali.",
+      "preklad": "Posel Jakubovi: Smrtonosná zmije i bodavý trn jsou odťaty, / do kořene zhynul pramen a počátek zla."
+    },
+    {
+      "text": "Jacobus ad nuncium. Advena, mira refers. quenam est hec dira caribdis? / Quidve hoc est monstri, quod cecidisse refers?",
+      "preklad": "Jakub poslovi: Cizinče, divy vyprávíš. Kdo je ta hrozná Charybda? / A co je to za netvora, o němž pravíš, že padl?"
+    },
+    {
+      "text": "Nuncius ad Jacobum. Hagenbach Petrus insignis latro cruentus / Vinclis et cippo prebuit ecce manus.",
+      "preklad": "Posel Jakubovi: Petr Hagenbach, proslulý krvavý lupič – / hle, podal ruce poutům a kládě."
+    },
+    {
+      "text": "Jacobus ad nuncium. Quid? mulcesne meas verbis tam dulcibus aures? / Numquid me blanda fallere voce cupis?",
+      "preklad": "Jakub poslovi: Cože? Lahodíš mým uším tak sladkými slovy? / Chceš mě snad lichotivým hlasem oklamat?"
+    },
+    {
+      "text": "Nuncius ad Jacobum. Absit ut incertus fluat ex me, Jacobe, rumor, / Nam res est verbis consona, crede, meis.",
+      "preklad": "Posel Jakubovi: Chraň bůh, Jakube, aby ze mne vycházela nejistá pověst, / neboť skutečnost, věř mi, odpovídá mým slovům."
+    },
+    {
+      "text": "Jacobus ad nuncium. An nunc Nero jacet obscuro carcere vinctus, / Qui se sperabat transsuperare deos? / Ha! quo pestis atrox, quo pessima belua venit? / Advena, dic, quonam venit amara lues?",
+      "preklad": "Jakub poslovi: Což nyní ten Nero leží spoutaný v temném žaláři, / on, který doufal, že převýší bohy? / Ha! kam se dostal ten krutý mor, kam ta nejhorší šelma? / Pověz, cizinče, kam se dostala ta hořká nákaza?"
+    },
+    {
+      "text": "Nuncius ad Jacobum. In Brisach opido gens perdita, squalida, tristis / In cassis lapsum, dy voluere, tenet. / Sedicio facta est, servarunt federa cives, / Infelix nullam bestia sensit opem.",
+      "preklad": "Posel Jakubovi: Ve městě Breisachu ho lid zbědovaný, zubožený a smutný / drží padlého do osidel – tak chtěli bohové. / Došlo ke vzpouře, měšťané dostáli svým úmluvám [?], / a nešťastná bestie nenalezla žádnou pomoc."
+    },
+    {
+      "text": "Jacobus ad Petrum Hagenbach. Qui fueras summus in summi principis aula, / Vertice de summo siccine, Petre, cadis? / O fortuna fremens, cur tam male cuncta gubernas? / Opprimis insontes, tollis ad astra malos! / Imperium, pompa, majestas, gloria, vires, / Dic quo venerunt, laus, honor atque decus? / Strennue nunc miles, merito tibi, Petre, dolendum est, / Et tibi compacior me miseretque tui.",
+      "preklad": "Jakub Petru Hagenbachovi: Ty, jenž jsi byl nejvyšší na dvoře nejvyššího knížete, / takto, Petře, padáš z nejvyššího vrcholu? / Ó běsnící Štěstěno, proč tak špatně vše řídíš? / Nevinné utlačuješ, zlé povznášíš ke hvězdám! / Moc, nádhera, velebnost, sláva, síla, / pověz, kam se poděly, i chvála, čest a důstojnost? / Statečný rytíři, nyní máš, Petře, právem proč truchlit, / a já s tebou soucítím a je mi tě líto."
+    },
+    {
+      "text": "Jacobus ad Brisaccenses. O Brisaccenses, o plebs de morte redempta, / Fortunata, meas accipe, queso, preces. / Parce pio generi, parcas, rogo, nobilitati, / Leniter ingenium respice, queso, viri. / Magnificis gestis o vos ignoscite, cives, / Vos, precor, efficiant ardua facta pios. / Hunc odisse virum si decreveritis omnes, / At phas virtutes est meminisse suas. / Insonti laqueos dissolvite, nonne timetis / Ultores justi sangwinis esse deos?",
+      "preklad": "Jakub Breisašským: Ó Breisašští, ó lide vykoupený ze smrti, / šťastný, přijmi, prosím, mé prosby. / Ušetři zbožný rod, ušetři, žádám, urozenost, / shovívavě, prosím, pohleď na povahu toho muže. / Pro jeho skvělé činy, ó měšťané, odpusťte, / ať vás, prosím, jeho vznešené skutky učiní milosrdnými. / I kdybyste se všichni rozhodli tohoto muže nenávidět, / přece je správné vzpomenout jeho ctností. / Rozvažte nevinnému oprátky! Což se nebojíte, / že bohové jsou mstiteli spravedlivé krve?"
+    }
+  ],
+  "poznamky": [
+    "Autor neznámý; Knebel ho uvádí jen jako „jiného veršovce čili básníka“ (quidam alius versificator sive carminator) a báseň opsal do svého deníku. Edice: Basler Chroniken III (1887), ed. W. Vischer, s. 121–124 (záhlaví stran rok 1477; v Knebelově rukopise s. [91]–[92]).",
+    "Datace: obsah ukazuje na dobu mezi zatčením Petra Hagenbacha při vzpouře v Breisachu (10.–11. dubna 1474) a jeho popravou v Breisachu 9. 5. 1474: posel hlásí, že Hagenbach leží v poutech v žaláři, a Jakub prosí Breisašské, aby ho propustili. Knebel báseň zapsal až v části deníku z roku 1477; nadpis „ad Karolum novissimum ducem“ (posledního vévodu) předpokládá Karlovu smrt (5. 1. 1477), takže nadpisy oddílů zřejmě pocházejí až z doby opisu.",
+    "Forma: elegická disticha, 74 veršů (37 distich) ve 14 promluvových oddílech. Mluví Petr Hagenbach, Jakub (Jacobus, totožnost neznámá, snad typová postava) a posel (Nuncius). V uvozovací větě stojí „Jacobo nuncio“ bez spojky; podle nadpisů oddílů jde o dvě různé postavy (Jakub a posel), proto překlad „o Jakubovi a poslovi“.",
+    "Textová tradice (podle edice): Knebel opisoval podle editora „dosti bezmyšlenkovitě“ a nejspíš už ze špatné předlohy. Pro poslední dvě třetiny (dialog posla a Jakuba a Jakubovy promluvy k Hagenbachovi a k Breisašským) existují další svědci: A = Basilej, Universitätsbibliothek, rkp. A N II 12 (s dalšími latinskými básněmi o Hagenbachovi), R = tisk J. A. Riegger, Amoenitates literariae Friburgenses III (Ulm 1775–1776), s. 548 n.; K = Knebel. V A i R jsou verše dialogu zvláštně přeházeny (každá postava mluví vždy jen jeden verš). Pro první třetinu (Hagenbach, Jakub Hagenbachovi, Jakub Karlovi) jiný svědek není a editor se opírá jen o konjektury; jisté zapsal do textu, ostatní do poznámek. Tento přepis přejímá text edice a v místech, kde Knebelův text kazí smysl, i editorovy konjektury (viz další poznámky).",
+    "Úvodní promluva Hagenbacha: v. 6 „promptos“ je oprava editora, K má „promotos“. Editor navrhuje (nepřijato do textu) v. 4 „reddere dampna michi“ místo metricky vadného „dampna reddidisse michi“ a v. 7 „mea vox omnes prohibebit“ místo „vox mea prohibebit omnes“; smysl je v obou případech stejný. V v. 1 edice tiskne „amore“ (gramaticky by se čekalo „amorem“).",
+    "Jakub Hagenbachovi: „Ramne“ je oprava editora za Knebelovo „Romna“; Ramnus (rhamnus, hloh, něm. Hagedorn) je latinizace jména Hagenbach (už F. J. Mone), proto překlad „Hlohu“. Na stejnou slovní hříčku naráží i „spina“ (trn) v promluvě posla. Knebel tu píše „eurtu“ jako jedno slovo místo „cur tu“. V v. 5 má K nesmyslné „Crede inmitandum“; v textu je editorova konjektura „Crede michi, tandem“ (editor ji sám uvádí s otazníkem), proto „Věř mi [?]“. V v. 6 je „experiere“ oprava za Knebelovo „experire“. V v. 8 je „quid cupis esse capis“ nejasné (snad zkažené), přeloženo „a ty se chápeš toho, čím být toužíš [?]“. „Neronisas“ = počínáš si jako Nero.",
+    "Jakub Karlovi: v. 2 „turba crucis“ podle editora míní svatoondřejský kříž, burgundské polní znamení (tedy burgundské vojsko); slovo „tercie“ je nesrozumitelné a zřejmě zkažené (snad za „terre“ nebo „certe“?), v překladu vynecháno a označeno [tercie ?]. Ve v. 7 stojí „dilecta“ u maskulina „satelles“ (čekalo by se „dilectus“); na okraji K je k tomuto verši glosa „id est Hagenbach“. V v. 10 je „sustinet“ text edice, K má „sustentat“. Editor ve v. 11 navrhuje „hic quoque summus“.",
+    "Dialog posla a Jakuba: v. „quenam est hec dira caribdis“ podle A a R (K: „que nõ dira caribdis“, tj. snad „que non“; A „quenam hec est“, R „quaenam est hec“); „Quidve hoc est monstri“ (K „quidve hoc est monstrum“, R „quodve est hoc monstri“). „Vinclis“ je metrická oprava, K i A mají „vinculis“. A i R mají místo „cruentus“ sloveso „cruentat“, čímž verš dostává samostatný smysl („Petr Hagenbach, proslulý lupič, krví potřísňuje [?]“). R čte „te precor“ místo „deprecor“, „pugnax“ místo „pungens“ a „quid mulces surdas tam verbis dulcibus aures“.",
+    "Jakub poslovi (An nunc Nero…): „transsuperare“ podle A, K má „superare“, R „transproperare“. Posel o Breisachu: „In cassis“ (do osidel, sítí) podle A, K má „incasse“, R „te cassis“; „dy“ = di (bohové). „Servarunt federa cives“ (měšťané dodrželi úmluvy) je nejasné: snad o dohodě breisašských měšťanů mezi sebou nebo o jejich závazcích vůči rakouskému pánu a protiburgundskému Dolnímu spolku; proto [?].",
+    "Jakub Petru Hagenbachovi: R čte „summus fueras“, „cum tam“ a „sic quo“; „Petre“ ve v. 7 podle R, K má „pene“, A „Petrum“. Poslední verš oddílu („Et tibi compacior…“) v A chybí, R má místo něj „ultima dum restant fata ferenda tibi“ (dokud tě čeká poslední osud, který musíš snést). Oslovení „Strennue … miles“ přeloženo podle glosáře „statečný rytíři“.",
+    "Jakub Breisašským: A i R píší „Brisacenses“. „Fortunata“ a „accipe“ podle A/R, K má „Fortuna“ a „arripe“; „viri“ editorova oprava (K „virum“, A slovo vynechává, R „meum“); „o vos“ a „odisse“ jsou opravy Knebelových chyb „oves“ a „adisse“. Mezi verši „Hunc odisse virum…“ a „At phas virtutes…“ má A na okraji glosu „yronia“ (ironie): prosba za Hagenbachovu milost a výzva připomínat si jeho ctnosti je tedy míněna ironicky. Zde v A báseň končí („Deo gracias“). „Phas“ = fas.",
+    "Termíny: balivus = zemský fojt (Hagenbach byl zemským fojtem Karla Smělého v zástavních hornorýnských zemích); miles = rytíř; Brisaccenses = Breisašští; dux Burgundie = vévoda burgundský. Hagenbach byl popraven v Breisachu 9. 5. 1474.",
+    "Nejistá místa označená [?]: „Crede michi“ (konjektura), „quid cupis esse capis“, „turba crucis tercie“, „servarunt federa cives“."
+  ],
+  "prelozil": "Claude (AI), 2026-11-14, z OCR edice Basler Chroniken II/III; neprošlo lidskou korekturou"
+}

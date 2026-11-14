@@ -1,0 +1,49 @@
+{
+  "nazev_original": "Summo deo laus a cunctis referatur in evum (Aliud carmen de ducis Karoli succubitu)",
+  "uvod": {
+    "text": "Aliud carmen de ducis Karoli succubitu.",
+    "preklad": "Jiná báseň o pádu vévody Karla."
+  },
+  "odstavce": [
+    {
+      "text": "Summo deo laus a cunctis referatur in evum, / Nobis compaciens qui sic subvenit ab arce, / Clamantum precibus aures tribuendo benignas, / Tam durum … pius ut prosterneret hostem / Humani generis et Theuthonici, quoque Galli, / Nos libertati reddens, et federa pacis / Decrevit stabilire magis firmamine, namque",
+      "preklad": "Nejvyššímu Bohu ať všichni vzdávají chválu navěky, / jenž se nad námi slitoval a tak nám z výšin přispěl, / když k prosbám volajících naklonil laskavý sluch, / aby, dobrotivý, srazil tak tvrdého … nepřítele / lidského pokolení, Němce i Francouze, / a vrátil nám svobodu; a mírové smlouvy / se rozhodl upevnit ještě pevněji; neboť"
+    },
+    {
+      "text": "Occidit in bello hasta perfossus in armis / Dux Karolus Burgundus, eum sua turma secuta est / Victa, subacta, fugax, dispersa vaga per urbes. / En jacet hic victus, qui est cunctos vincere nixus, / Et sua vis cassa. jam terra Lothringia gaude, / Namque tuus redimens te dux virtute subegit, / Quem tenuit hostem, urbs tenet et tua, Nanse, sepultum.",
+      "preklad": "ve válce padl, kopím proboden ve zbroji, / vévoda Karel Burgundský; jeho houf ho následoval, / přemožený, podrobený, na útěku, rozprášený, bloudící po městech. / Hle, zde leží poražen ten, kdo se snažil všechny přemoci, / a jeho moc je marná. Nyní se raduj, lotrinská země, / neboť tvůj vévoda tě vykoupil a statečností přemohl / toho, koho jsi měla za nepřítele [?]; pohřbeného ho teď drží i tvé město Nancy."
+    },
+    {
+      "text": "O dux invicte, dux bellice, dux generose / Lothringie, quanta pociaris laude triumphi, / Quis valet effari? nam, qui perterruit ense / Reges atque duces, illum victor superasti.",
+      "preklad": "Ó vévodo nepřemožený, vévodo bojovný, vévodo urozený / lotrinský, jak velké chvály za triumf ti náleží, / kdo to dokáže vyslovit? Neboť toho, kdo mečem děsil / krále i vévody, jsi jako vítěz přemohl."
+    },
+    {
+      "text": "Argentinus ovet, grex Swicia, plebs Basilea, / Confederata falanx, exulta, nacta triumphum. / Nam qui vos ad bella vocans superare paravit, / Vos sibi victores perpessus victus abivit. / Nussia, nunc letare, tuum fore vectum inimicum. / Francia, jocundare, simul Germania tota.",
+      "preklad": "Ať jásá Štrasburk, švýcarský houf i basilejský lid; / šiku Spříseženců, plesej, dobyl jsi triumfu. / Neboť ten, kdo vás vyzýval k válkám a chystal se vás přemoci, / musel snést, že jste nad ním zvítězili, a odešel poražen. / Neusse, raduj se nyní, že tvůj nepřítel je odklizen [?]. / Francie, vesel se, a s ní celé Německo."
+    },
+    {
+      "text": "Te piguit pacis teduitque quietis. in urna, / Emule jam Karole seve, sepulte jace! / Ethera si pateant tibi sive megera jehenne, / Solicitus nec eras, me neque cura premat!",
+      "preklad": "Mír tě mrzel a klid ti byl protivný. V urně / nyní, krutý soupeři Karle, pohřbený odpočívej! / Ať se ti otevře nebe, či Megaira pekelná, / ty ses o to nestaral – ani mne ať ta starost netíží!"
+    },
+    {
+      "text": "Ut maneat firma pax, tres pie poscite magi, / Profesto quorum nobis hec parta reluxit, / Cum foret M, C quater, X septem, septimus annus. / Compositum carmen est mensis jani duodena. / Vivat felix primus editor Johannes Gesseler laurea meritus.",
+      "preklad": "Aby mír zůstal pevný, zbožně se přimlouvejte, Tři králové, / v jejichž předvečer nám zazářil tento vydobytý mír, / když byl rok M, čtyřikrát C, sedmkrát X a sedm. / Báseň byla složena dvanáctého dne měsíce ledna. / Ať šťastně žije první skladatel Johannes Gesseler, hodný vavřínu."
+    }
+  ],
+  "poznamky": [
+    "Autor: Johannes Gesseler, jak uvádí závěrečný verš „Vivat felix primus editor Johannes Gesseler laurea meritus“ (editor = skladatel, původce). V Knebelově opisu v Urstisiově Codex diplomaticus Brucknerianus nese báseň nadpis „aliud de eodem“ a údaj o autorovi tam chybí (edice, s. 381). Edice k jménu připojuje poznámku pod čarou, která v dodaném OCR není.",
+    "Datace: podle textu složeno 12. ledna 1477 („Compositum carmen est mensis jani duodena“), tedy týden po bitvě u Nancy; letopočet také veršem „Cum foret M, C quater, X septem, septimus annus“ = 1000 + 400 + 70 + 7 = 1477.",
+    "Pramen: Basler Chroniken III, Knebelův deník, s. 132, ř. 16 (nadpis) – s. 133, ř. 14 (rozsah dle edice s. 381: báseň 132,17–133,13, údaj o autorovi 133,14); značka rukopisné strany na s. 133 a odkazy na poznámky vypuštěny. Prozaický text o Unterwaldenských, který následuje, k básni nepatří.",
+    "Forma: hexametry (v. 1–24 a 29–33; poslední verš s podpisem je prozaický, metricky nepravidelný), mezi něž jsou vloženy dva elegické distichy oslovující Karla (v. 25–28: „Te piguit … me neque cura premat“).",
+    "V. 4: verš je neúplný. Podle aparátu (s. 132, ř. 20) Knebel nejprve napsal „Tam durum ut prosterneret hostem“, poslední tři slova škrtl a napsal „prosterneret pio“, pak „pio“ škrtl, nahradil je slovem „hostem“ a za „durum“ vložil „pius ut“. Editor soudí, že už Knebelova předloha verš úplný neměla; mezeru značí „…“ (chybí asi jedno slovo), přeloženo stejně.",
+    "V. 5: „hostis humani generis“ – ustálené označení ďábla, zde přeneseno na Karla; Theuthonicus = Němec, Gallus = Francouz.",
+    "V. 13–14 „Namque tuus redimens te dux virtute subegit, / Quem tenuit hostem“: vztah „quem tenuit hostem“ je nejasný – snad „toho, koho (země) měla za nepřítele“ (Karel Lotrinsko 1475–1476 okupoval), možná i „nepřítele, jenž tě držel“ (volná středověká syntax). Smysl slovní hříčky: koho Lotrinsko „drželo“ za nepřítele, toho teď Nancy „drží“ pohřbeného [?]. Dux = René II. Lotrinský.",
+    "V. 19–20: grex Swicia = švýcarský houf (Švýcaři); confederata falanx = šik Spříseženců (glosář: ne „konfederace“).",
+    "V. 23 „tuum fore vectum inimicum“: „vectum“ (odvezen, odklizen) je možná chyba za „victum“ (poražen), což by se lépe hodilo do souvislosti; ponecháno dle edice [?]. Neuss Karel neúspěšně obléhal v letech 1474–1475.",
+    "V. 27: Megaera (Megaira) – jedna z Fúrií; „jehenna“ = gehenna, peklo.",
+    "V. 28: odkazový znak na poznámku editora („premat!)“) v OCR vypuštěn; obsah poznámky není k dispozici.",
+    "V. 29–30: Tři králové (tres magi) – bitva se odehrála v předvečer jejich svátku, 5. 1. 1477; „hec parta“ chápáno jako „tento vydobytý (mír)“.",
+    "Opravy OCR: Karolı succeubitu → Karoli succubitu, hie → hic, Theuthoniei → Theuthonici; pravopis (Theuthonici, falanx, jocundare, pociaris, solicitus) ponechán."
+  ],
+  "prelozil": "Claude (AI), 2026-11-14, z OCR edice Basler Chroniken III; neprošlo lidskou korekturou"
+}
