@@ -1,0 +1,57 @@
+{
+ "cislo": 3,
+ "nadpis": "Tobler 1917, s. 14",
+ "nadpis_preklad": "Mučení, soud a poprava Hagenbacha (1474)",
+ "strana_edice": 14,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Sü leiten in gefangen snell / Vnd machtent in do kallen , / Man zoch in vff, er schrey so hell, / Sin stymm die hort man schallen.",
+   "preklad": "Rychle ho odvedli jako zajatce / a donutili ho tam mluvit; / vytáhli ho (na provaze), křičel tak pronikavě, / jeho hlas bylo slyšet, jak se rozléhá.",
+   "vers_od": 63
+  },
+  {
+   "text": "Er do ver Jach der boßheit vil, / Die er vor hat Jm willen; / Gott sy gelobt, jm brast der wil, / Er mocht sie nicht Erfüllen.",
+   "preklad": "Tu se přiznal k mnoha zlovolnostem, / které předtím zamýšlel; / Bůh budiž pochválen, jeho vůle se nezdařila, / nemohl je uskutečnit.",
+   "vers_od": 67
+  },
+  {
+   "text": "Von siner boßheit ist nicht not / / Wan Er ist dot / / Daz ich do von icht melde. / Man sluog jm ab sin houbt so trod, / Im schach genod / Zuo brisach In dem felde.",
+   "preklad": "O jeho zlovolnosti není třeba / – neboť je mrtev – / abych něco vyprávěl. / Usekli mu hlavu tak rychle, / dostalo se mu milosti, / u Breisachu na poli.",
+   "vers_od": 71
+  },
+  {
+   "text": "Man zalte .XIIII. c. jor, / Jo daz ist wor / / Do ab jm ward gerichtet, / Ouch .lxx. vier gar offembor / / Vil welt kam dar / / Er hat ouch vor gebychtet.",
+   "preklad": "Psal se rok čtrnáct set / – ano, je to pravda –, / když na něm vykonali rozsudek, / a k tomu sedmdesát čtyři, zcela zjevně; / sešlo se tam mnoho lidí; / předtím se také vyzpovídal.",
+   "vers_od": 77
+  },
+  {
+   "text": "Gott der tüg im genoden schin / / Ist er in pin / / An siner armen selen. / Er muost on zwyfel müssig sin / / By guotem win / / Solt er es als erczelen.",
+   "preklad": "Bůh mu prokaž svou milost, / je-li v mukách / na své ubohé duši. / Bez pochyby by musel mít mnoho volného času / u dobrého vína, / kdo by to měl všechno vyprávět.",
+   "vers_od": 83
+  },
+  {
+   "text": "In diser geschicht ward manig man / / Ist nicht daron / / Gar billich ser herfrowet / / Also kam hagenbach dar von / Im vard  der lon / / Dem kalb ist ouch gestrowet.",
+   "preklad": "Z této události se mnohý muž / – a není divu [?] – / zcela právem velmi zaradoval. / Tak skončil Hagenbach, / dostal svou odměnu: / i tomu teleti už je podestláno.",
+   "vers_od": 89
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "= rufen, sprechen.",
+  "= schnell.",
+  "Druckfehler für: ward."
+ ],
+ "poznamky_prekladu": [
+  "v. 64 „kallen“ = volat, mluvit (pozn. editora); v. 65 „Man zoch in vff“ = mučení vytahováním na provaze (strappado), mimo text.",
+  "Hagenbacha soudil v Breisachu zvláštní soud složený ze zástupců měst a Rakouska a 9. května 1474 byl sťat (mimo text).",
+  "v. 74 „trod“ = rychle (pozn. editora). v. 75 „Im schach genod“ – snad, že byl popraven mečem jako šlechtic místo potupnějšího trestu [?].",
+  "v. 77: „.XIIII. c. jor“ = 1400, s v. 80 dohromady rok 1474.",
+  "v. 86–88: smysl nejistý [?]; zřejmě básník říká, že všechny Hagenbachovy činy by se nedaly vyprávět ani za dlouhého sezení u vína.",
+  "v. 90 „Ist nicht daron“: nejisté [?], překládáno „a není divu“.",
+  "v. 93: tisková chyba „vard“ místo „ward“ (poznámka editora).",
+  "v. 94 „Dem kalb ist ouch gestrowet“: přísloví, doslova „i teleti je podestláno“ – dostal, co si zasloužil."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,64 @@
+{
+ "cislo": 15,
+ "nadpis": "Tobler 1917, s. 26",
+ "nadpis_preklad": "Ústup od Pont-à-Mousson a René žádá Švýcary o pomoc (1476)",
+ "strana_edice": 26,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Der hertzog von lotringen zoch / Mit sinen frummen lüten / In pontemunß fürbaß / dar noch / Do ward man im bedüten,",
+   "preklad": "Vévoda lotrinský táhl / se svými řádnými lidmi / dále do Pont-à-Mousson; / tu mu bylo oznámeno,",
+   "vers_od": 371
+  },
+  {
+   "text": "Man sahe die fynd nohe an eim reyn / In grossem vorteyl halten. / Hertzog reihart  der sprach do / «Neyn, / Jetz went wir gott lon walten.»",
+   "preklad": "že nepřátelé byli spatřeni na jednom svahu, / jak stojí ve velké výhodě. / Vévoda René tu řekl: „Ne, / teď necháme vládnout Boha.“",
+   "vers_od": 375
+  },
+  {
+   "text": "Sü koment heim gar fürderlich. / Kein stryt was do hergangen, / Es was ser guot, beduncket mich . / Die fynd do wordent prangen,",
+   "preklad": "Vrátili se velmi rychle domů, / k žádné bitvě tam nedošlo; / bylo to velmi dobře, myslím. / Nepřátelé se začali vypínat,",
+   "vers_od": 379
+  },
+  {
+   "text": "Do sie beducht wie man vercziehe; / Sie frowten sich von hertzen. / In rechtem Ernst ich daz veriehe. / Noch fröuden kam in smertzen.",
+   "preklad": "když se jim zdálo, že se otálí; / radovali se ze srdce. / Opravdu to vyznávám: / po radosti jim přišla bolest.",
+   "vers_od": 383
+  },
+  {
+   "text": "Der hertzog von lotringen reyt / In swytz  mit sinen personen. / Ein grosse hilff man im zuo seyt, / Des muost er wol belonen.",
+   "preklad": "Vévoda lotrinský jel / do Švýcar se svými lidmi. / Přislíbili mu velkou pomoc, / to musel dobře zaplatit.",
+   "vers_od": 387
+  },
+  {
+   "text": "Man seit im zuo vmb einen solt / Vnd diente im ouch gerne. / Die swytzer worend im ser holt, / In ward ein guote Erne.",
+   "preklad": "Přislíbili mu (lidi) za žold / a také mu rádi sloužili. / Švýcaři mu byli velmi nakloněni, / byla to pro ně dobrá žeň.",
+   "vers_od": 391
+  },
+  {
+   "text": "Den swytzern vnd dem gantzen bund / Ward bald dar noch gesthriben, / Sie soltent kummen do zuo stund / Vnd ouch nicht lang uß bliben.",
+   "preklad": "Švýcarům a celému Spolku / bylo brzy nato napsáno, / aby hned přišli / a také dlouho nemeškali.",
+   "vers_od": 395
+  },
+  {
+   "text": "Mit grosser macht zoch man gar fest / Als in das lant lotringen. / Do fand man in vil frömder gest, / Die nansse woltent zwyngen.",
+   "preklad": "S velkou mocí se táhlo velmi rázně / do lotrinské země. / Tam v ní našli mnoho cizích hostů, / kteří chtěli Nancy přinutit (ke vzdání).",
+   "vers_od": 399
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Druckfehler für: Reinhart.",
+  "Ueber diesen plötzlichen Abzug der lothringischen Truppen von Pont-à-Mousson im Oktober 1476 vgl. E. von Rodt, Die Kriege Karls des Kühnen II, 349 ff.",
+  "Schilling II, 110. Ueber das Fehlen des Artikels vgl. W. Oechsli im Jahrbuch für Schweiz. Geschichte 42 (1917), 208."
+ ],
+ "poznamky_prekladu": [
+  "v. 375 „reyn“ = svah, mez. v. 377: tisková chyba „reihart“ místo „Reinhart“ (pozn. editora).",
+  "v. 371–382: náhlý ústup lotrinského vojska od Pont-à-Mousson v říjnu 1476 (pozn. editora; E. von Rodt, Die Kriege Karls des Kühnen II, 349 n.).",
+  "v. 388 „In swytz“: do Švýcar, nebo do (kantonu) Schwyz [?]; editor odkazuje na Schillinga II, 110 a na Oechsliho k chybějícímu členu. René jednal se Spříseženci v listopadu–prosinci 1476 a najal švýcarské žoldnéře (mimo text).",
+  "v. 394 „Erne“ = žeň, ironicky o žoldu a kořisti; stejný obraz v. 405 a 418.",
+  "v. 401 „frömde gest“ = cizí hosté, tj. Karlovo obléhací vojsko před Nancy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

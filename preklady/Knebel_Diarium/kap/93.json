@@ -1,0 +1,123 @@
+{
+ "cislo": 93,
+ "nadpis": "Basler Chroniken II, s. 299–301",
+ "nadpis_preklad": "Basilejské vraždy, výprava na pomoc Nancy, Šimon Tridentský, Remiremont (říjen 1475)",
+ "svazek": "II",
+ "strany_edice": [
+  299,
+  301
+ ],
+ "rok": 1475,
+ "rukopis_strana": 276,
+ "odstavce": [
+  {
+   "text": "adeo odivit, ut eam acriter, licet puerum adhuc non quatuor annorum, pedibus conculcaret, unde sepius a servis suis fuit increpatus, cur ita in eam parvulam seviret, et ille respondit »numquam mea«, et in tantam furiam exarsit, ut eam clam occideret et involveret panniculis, circumligens fasciis, et ad cimiterium sancti Petri portaret sepeliendam. ubi cum illi sepultores mortuorum hominum venissent et vidissent jugulatam, nolebant ita sepelire, quousque videretur a judicibus. qua visa sepelierunt et accersito a famulis civitatis incarceratus est in turri Asinorum.",
+   "preklad": "tak nenáviděl, že ji, ačkoli to bylo dítě ještě ne čtyřleté, krutě pošlapával nohama. Jeho čeledíni mu to často vyčítali, proč tak zuří proti tomu maličkému, a on odpověděl: „Nikdy není moje.“ A vzplanul takovou zuřivostí, že ji potajmu zabil, zabalil do hadříků, ovinul povijany a donesl na hřbitov u sv. Petra k pohřbení. Když tam přišli hrobníci a viděli, že má podřezané hrdlo, nechtěli ji tak pohřbít, dokud ji neprohlédnou soudci. Když byla prohlédnuta, pohřbili ji, a on byl předvolán městskými biřici a uvězněn v Oslí věži."
+  },
+  {
+   "text": "[Oct. 4] Eodem tempore et in die sancti Frantzisci vir quidam juvenis in nocte jugulatus in platea mortuus est inventus, videlicet in carreria, qua itur de hospitali Basilensi versus fontem domus Eptingen, prope curiam Monachorum, et nesciebatur quis fecisset. sic infra tres septimanas 8 homines in civitate Basiliensi jugulati sunt.",
+   "preklad": "[Oct. 4] V téže době, na den sv. Františka, byl na ulici nalezen mrtvý jeden mladý muž, kterému v noci podřezali hrdlo, totiž v uličce, kudy se jde od basilejského špitálu ke kašně u domu Eptingenů, blízko Mnišského dvora (Münchhof), a nevědělo se, kdo to udělal. Tak bylo během tří týdnů ve městě Basileji zavražděno podřezáním hrdla 8 lidí."
+  },
+  {
+   "text": "Superius scripsi de quodam nequam curvis pedibus, qui captus fuit propter latrocinium commissum in Basilea in domo ad Stellam Nigram. idem nequam per multos tractus et suspensiones in equuleum et probaciones, quas fecerat, ejusdem latrocinii fuit repertus innocens, et quis fecerit usque in hodiernum nescitur. nichilominus tamen, quia ille nequam procator et copulator magnus atque leccator erat, fuit perpetuo a civitate Basiliensi proscriptus, et fiebat magna inquisicio de premisso latrocinio. aliqui oppinabantur, quod certi nequam sub forma studencium fecissent, aliqui quod forte aliqui civium fecissent, quia deperditi fuerunt nongenti floreni.",
+   "preklad": "Výše jsem psal o jednom ničemovi s křivýma nohama, který byl zajat pro loupežnou vraždu spáchanou v Basileji v domě U Černé hvězdy. Ten ničema byl po mnoha natahováních a zavěšeních na skřipec a po důkazech, které podal, shledán té loupežné vraždy nevinným, a kdo ji spáchal, se neví až do dnešního dne. Přesto však, protože ten ničema byl kuplíř, velký dohazovač a příživník, byl z města Basileje navždy vypovězen. O řečené loupežné vraždě se vedlo velké vyšetřování. Někteří se domnívali, že to udělali nějací ničemové v podobě studentů, jiní, že to snad udělali někteří z měšťanů, protože zmizelo devět set zlatých."
+  },
+  {
+   "text": "[Oct. 6] [276] Die veneris sexta mensis octobris Basilienses miserunt sexcentos viros pedites et quinquaginta equestres ad Lothoringiam, quia tunc dux Burgundie obsedit civitatem Nansiensem, in qua fuerunt multi nobiles illius patrie pro defensione ipsius civitatis, nec poterat aliquis exire vel intrare, quia circumquaque hostibus vallata fuit. pedestres iverunt navigio usque ad Brisacum, equestres vero per terram et volebant ire per clausuram Montis Regalis versus Sanctum Deodatum.",
+   "preklad": "[Oct. 6] [276] V pátek šestého října poslali Basilejští šest set pěších a padesát jezdců do Lotrinska, protože tehdy vévoda Burgundský obléhal město Nancy, v němž bylo k jeho obraně mnoho šlechticů té země; nikdo nemohl ven ani dovnitř, protože bylo kolem dokola sevřeno nepřáteli. Pěší jeli lodí až do Breisachu, jezdci po zemi, a chtěli jít přes průsmyk Mons Regalis (Col du Bonhomme) směrem na Saint-Dié."
+  },
+  {
+   "text": "Dominus dux Sigismundus misit ducentos equites et mille pedites, civitas Argentinensis eciam multos, episcopus Argentinensis eciam misit pedites et equestres; sic et alie civitates Nigre Silve et Alsacie faciebant.",
+   "preklad": "Pan vévoda Zikmund poslal dvě stě jezdců a tisíc pěších, město Štrasburk také mnoho, i štrasburský biskup poslal pěší a jezdce; a tak činila i ostatní města Schwarzwaldu a Alsaska."
+  },
+  {
+   "text": "Eodem tempore dux Burgundie egrotabat valde et expectabatur ejus mors.",
+   "preklad": "V téže době byl vévoda Burgundský těžce nemocen a očekávala se jeho smrt."
+  },
+  {
+   "text": "Dominus rex Francie et rex Anglie fecerunt treugas pacis inter se ad septem annos proxime sequentes, et in illa treuga dominus noster serenissimus dux Sigismundus dux Austrie et omnes sui confederati sunt comprehensi.",
+   "preklad": "Pan král francouzský a král anglický uzavřeli mezi sebou mírové příměří na nejbližších sedm let a do toho příměří jsou zahrnuti náš nejjasnější pan vévoda Zikmund, vévoda Rakouský, a všichni jeho spojenci."
+  },
+  {
+   "text": "Item scripsit quidam bonus amicus, qui est in curia regis Francie, quod ipse rex Francie treugas fecerit cum duce Burgundie, sed quantum temporis nesciret, cum adhuc res ageretur oculte.",
+   "preklad": "Také napsal jeden dobrý přítel, který je u dvora krále francouzského, že král francouzský uzavřel příměří s vévodou Burgundským; na jak dlouho, však neví, protože se ta věc dosud vyjednává potajmu."
+  },
+  {
+   "text": "Eodem tempore dominus rex Francie occupaverat Hannoniam, que patria est valde fertilis et fecunda et populosa hominibus.",
+   "preklad": "V téže době obsadil pan král francouzský Henegavsko, které je zemí velmi úrodnou, plodnou a lidnatou."
+  },
+  {
+   "text": "Eodem tempore Sabaudienses fecerunt panerium, in quo pingebant leonem vorantem capram, et Theuthunicos nominabant capras. quod experientes Bernenses, qui in finibus illis erant, intraverunt terram domini comitis Novicastri, quod tunc marchionis Rudolfi de Hochburg et comitis Novicastri erat, et ibidem valde magnum spolium receperunt.",
+   "preklad": "V téže době si Savojští udělali korouhev, na níž namalovali lva požírajícího kozu, a Němcům říkali kozy. Když se to dozvěděli Bernští, kteří byli v těch končinách, vtrhli do země pana hraběte z Neuchâtelu, která tehdy patřila markraběti Rudolfovi z Hochbergu a hraběti z Neuchâtelu, a vzali tam velmi velkou kořist."
+  },
+  {
+   "text": "[277] Eodem tempore in Tridento Attasis Judei quendam juvenem Christianum clam occiderunt rapientes ejus sangwinem. quo comperto multi Judeorum capti et confitentes delictum igne cremati sunt, et cepit puer ille virtutibus clarescere, et apud ejus tumulum multa signa fieri, adeo quod clamor venit contra Judeos et querebantur alii extranei eciam ad comburendum. quo facto Judei accesserunt papam et obtinuerunt apud eum inhibicionem contra Tridentinos, ne dicerent de hoc facto. ad quod ipsi dixerunt: »si nos taceremus, lapides clamarent«, quia undiquaque Christiani confluxerunt. et dominus Sixtus papa quartus misit legatum ad Tridentinos ad deducendum defuncti pueri corpus, cui cives Tridentini obtemperare noluerunt, quia voluerunt apud se illius martiris corpus habere. episcopus autem et clerus volebant optemperare mandatis apostolicis, et facta est magna discensio inter clerum et populum. quid fiat nescitur. papa et totus clerus secuntur maledicta munera, plus amant peccuniam Judeorum quam veram dei justiciam; confundantur et pereant, quia siciunt peccuniam et abnegant justiciam.",
+   "preklad": "[277] V téže době v Tridentu na Adiži [?] Židé potajmu zabili jednoho křesťanského chlapce a vzali jeho krev. Když se to zjistilo, bylo mnoho Židů zajato, a když se k zločinu přiznali, byli upáleni. Ten chlapec se začal proslavovat zázraky a u jeho hrobu se dělo mnoho znamení, takže se zvedl křik proti Židům a byli hledáni i jiní, cizí [Židé], aby byli také upáleni. Nato Židé šli k papeži a dosáhli u něho zákazu proti Tridentským, aby o té věci nemluvili. K tomu oni řekli: „Kdybychom mlčeli, kamení by volalo,“ neboť ze všech stran se sbíhali křesťané. A pan papež Sixtus IV. poslal k Tridentským legáta, aby odvezl tělo zemřelého chlapce, ale tridentští měšťané ho nechtěli poslechnout, protože chtěli mít tělo toho mučedníka u sebe. Biskup a duchovenstvo však chtěli apoštolské příkazy poslechnout, a tak vznikl velký rozkol mezi duchovenstvem a lidem. Co se stane, se neví. Papež a všechen klérus se ženou za prokletými dary, víc milují peníze Židů než pravou Boží spravedlnost; ať jsou zahanbeni a zahynou, protože žízní po penězích a zapírají spravedlnost."
+  },
+  {
+   "text": "Eodem tempore Fridericus imperator recessit a Colonia, dimittens post se lites inter electum de Hassia et Robertum de Heidelberga, et nichil pacificavit, et sunt posteriora peyora prioribus. abinde transtulit se ad Wisbaden prope Magunciam et attemptat facere concordiam inter electos Maguntinenses, videlicet quendam de Nassaw et alium de Hennenberg. tercius qui est de Ysenburg, qui eciam habuit voces, renunciavit et vult manere in sua commenda quietus. imperator querit peccuniam et non pacem, simulavit sese velle interponere pro pace ecclesie Maguntinensis in finem ut posset se absolvere a Coloniensibus.",
+   "preklad": "V téže době odjel císař Fridrich z Kolína a zanechal za sebou spory mezi zvoleným [arcibiskupem] z Hesenska a Ruprechtem z Heidelbergu; nic neusmířil a poslední věci jsou horší než první. Odtud se přesunul do Wiesbadenu u Mohuče a pokouší se o smír mezi zvolenými mohučskými [arcibiskupy], totiž jedním z Nasavska a druhým z Hennebergu. Třetí, který je z Isenburgu a měl také hlasy, se vzdal a chce zůstat v klidu ve své komendě. Císař hledá peníze, a ne mír; předstíral, že se chce přimluvit za mír mohučské církve, jen aby se mohl vyvázat z [závazků vůči] Kolínským."
+  },
+  {
+   "text": "Eodem tempore dux Burgundie obsedit Nanse in Lothoringia, in qua erant nobiles illius patrie cum 20 milibus armatorum.",
+   "preklad": "V téže době oblehl vévoda Burgundský Nancy v Lotrinsku, v němž byli šlechtici té země s 20 tisíci ozbrojenců."
+  },
+  {
+   "text": "[Oct. 14] [278] Sabbato ante festum sancti Galli dux Burgundie obtinuit opidolum Rümelsperg, et venerunt nuncii ad Basileam, qui dicerent, quod ipse vellet obsidere Montispolgardum et deinde Basileam, et fuimus hic in angustia positi.",
+   "preklad": "[Oct. 14] [278] V sobotu před svátkem sv. Havla dobyl vévoda Burgundský městečko Remiremont, a do Basileje přišli poslové, kteří říkali, že chce oblehnout Montbéliard a potom Basilej; a byli jsme tu v úzkých."
+  },
+  {
+   "text": "Bernenses extunc cum superioribus confederatis et Walesienses cum sua potencia direxerunt castra sua contra dominum comitem de Ramont, qui extunc cum Lombardis et Sabaudiensibus obsedit duo castra, videlicet Junge et Orbin, et",
+   "preklad": "Bernští s horními Spříseženci a Valaišští se svou mocí pak obrátili svá vojska proti panu hraběti z Romontu, který tehdy s Lombarďany a Savojskými obléhal dva hrady, totiž Jougne a Orbe, a"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 18. Hs. Basileam. 21. latrocinium.",
+  "1) Ueber das Eselthürli zwischen dem heutigen Barfüsserplatz und der",
+  "Steinenvorstadt s. Fechter 99.",
+  "2) Der Spital stand auf dem Areal der heutigen Kaufhausgasse und der",
+  "sie umgebenden Häuser, mit der Vorderseite gegen die »Schwellen«, den",
+  "Theil der jetzigen Freienstrasse, der zwischen der Streitgasse und dem Bäum-",
+  "lein liegt. Fechter 28.",
+  "3) S. oben 8.298 A.1. 4) S. oben 8.298 A.2. 5) Oben 8.287, 13ff.",
+  "6) Leccator, Lecker, Schmarotzer, Possenreisser, Spitzbube. 8. Du-",
+  "cange, Diefenbach, auch Lexer unter dem Worte lecker.",
+  "7) Vgl. oben 8. 287, 9. 297, 30.",
+  "Aparát: 24. Es lässt sich nicht mit völliger Sicherheit erkennen, ob marchionis Rudolfi de H. et",
+  "comitis N. aus marchio Rudolfus de H. et comes N. corrigiert ist oder umgekehrt.",
+  "1) Ueber Kaisersberg (vgl. oben 8. 297, 32) und den Col du Bonhomme.",
+  "2) St. Die (deutsch St. Diedel).",
+  "3) Sigmund und seine Verbündeten waren nicht genannt, sie konnten",
+  "höchstens als Verbündete der Berner im Frieden eingeschlossen erscheinen.",
+  "4) Hennegau.",
+  "5) S. den ausführlichen Bericht über die Vernehmung und die Geständ-",
+  "nisse der Juden, der in die Speierische Chronik eingefügt ist, bei Mone II,",
+  "öl4ff., sowie das Lied des Matheus Künig bei Liliencron II, 13fl.",
+  "1) Vgl. oben S. 282 A. A.",
+  "2) Remiremont.",
+  "3) Am 14. legte sich Karl, der von Norden herangezogen kam (und",
+  "demnach , wenn die Einnahme von Remiremont am 14. erfolgt ist, nicht per-",
+  "sönlich zugegen war), vor Epinal, das sich am 19. übergab. Notizen der",
+  "Haushofmeister bei Comines-Lenglet II, 218.",
+  "4) Dies war nicht der Fall, dagegen hatten die Besatzungen von Grand-",
+  "son, Orbe und Jougne Angst, es möchte geschehen. Schilling 222. Chroni-",
+  "ques des chanoines de Neuchätel im Geschichtforscher VIII, 235. Besonders",
+  "die auf Jougne, »die schrieben (nach Schilling 223) zu mengenmalen gar heis",
+  "mere gen Bern, das sy gantz umbgeben weren, und möcht inen kein spis me",
+  "zukommen, dann der graff von Reymond und der herr von Tschettegion (von",
+  "Oct. 14"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Pokračování příběhu nožíře Rösszlina z kap. 92. „Turris Asinorum“ = Oslí věž (Eselthürli) mezi dnešním Barfüsserplatz a Steinenvorstadt (Vischer). Oprava OCR „incarceraiotus“ → incarceratus.",
+  "[Oct. 4] Sv. František = středa 4. 10. 1475. Špitál stál na místě dnešní Kaufhausgasse (Vischer); kašna u domu Eptingenů viz pozn. ke kap. 92 (horní část dnešní Bäumleingasse). Opravy OCR: „nescieisbatur“ → nesciebatur, „latrociniz“ → latrocinii; aparát: v rukopisu „in Basileam“.",
+  "Odst. 3 opravuje zprávu z kap. 89: Pfaff Rosszschwanz byl přes doznání na mučení shledán nevinným. „Leccator“ = příživník, šašek, darebák (Vischer podle Du Cange a Diefenbacha); „procator“ chápáno jako kuplíř.",
+  "[Oct. 6] Pátek 6. 10. 1475. „Clausura Montis Regalis“ = průsmyk přes Kaysersberg a Col du Bonhomme, „Sanctus Deodatus“ = Saint-Dié (Vischer).",
+  "Vischer: Zikmund a jeho spojenci v míru z Picquigny jmenováni nebyli, nanejvýš mohli být zahrnuti jako spojenci Bernských (srov. kap. 90). Aparát: není jisté, zda je „marchionis Rudolfi de H. et comitis N.“ opraveno z „marchio Rudolfus … et comes“, nebo naopak. Rudolf z Hochbergu byl markrabě a hrabě z Neuchâtelu (mimo přepis).",
+  "Tridentské „Attasis“ chápáno jako Athesis (Adiže), ponecháno s [?]. Jde o případ Šimona Tridentského (březen 1475): obvinění Židů z rituální vraždy bylo křivé, doznání byla vynucena mučením (mimo přepis). Knebelův text je dokladem dobové antijudaistické pověry a jeho výpad proti papeži a kléru je ponechán. Vischer odkazuje na zprávu ve Špýrské kronice (Mone II) a na píseň Mathea Küniga (Liliencron II).",
+  "Kolín: spor mezi Heřmanem Hesenským a arcibiskupem Ruprechtem Falckým (mimo přepis). Mohuč: zvěst o vzdání se Isenburga se nepotvrdila, arcibiskupem byl v listopadu 1475 znovu zvolen Diether z Isenburgu (mimo přepis; srov. pozdější opravu v rukopisu, kap. 89).",
+  "[Oct. 14] Sobota před sv. Havlem (16. 10.). „Rümelsperg“ = Remiremont (Vischer). Vischer: Karel přitáhl 14. 10. před Épinal, které se vzdalo 19. 10. Obléhání Jougne a Orbe Vischer popírá: posádky Grandsonu, Orbe a Jougne se ho jen obávaly a psaly do Bernu, že jsou obklíčeny (Schilling). Odstavec 13: „cum 20 milibus“ – číslo je ve zdrojovém OCR, při čištění se ztratilo, vráceno. Úsek končí uprostřed věty, pokračuje kap. 94."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

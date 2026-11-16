@@ -1,0 +1,64 @@
+{
+ "cislo": 8,
+ "nadpis": "Tobler 1917, s. 19",
+ "nadpis_preklad": "Popravené posádky Grandsonu a nástup k bitvě (1476)",
+ "strana_edice": 19,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Er zoch für granso offembor , / Man ward im wider streben, / Irs lebens er sy tröstet vor , / Sü soltens im vff gebenn.",
+   "preklad": "Táhl zcela zjevně před Grandson; / kladli mu odpor; / napřed jim zaručil život, / pokud mu to (město) vydají.",
+   "vers_od": 219
+  },
+  {
+   "text": "Fierhundert swytzer  gingen haruß / Frölich vff das gedinge , / Er sahe sy an. glich als ein struß / Vnd schuoff, das man sy hinge.",
+   "preklad": "Čtyři sta Švýcarů vyšlo ven / radostně, na tu úmluvu; / on na ně hleděl jako pštros / a nařídil, aby je pověsili.",
+   "vers_od": 223
+  },
+  {
+   "text": "Syt daz er semlich schand beging / Beschein im nie kein glücke. / Als er die frummen lütt erhing / Sin vnglück ward gar dicke.",
+   "preklad": "Od té doby, co spáchal takovou hanebnost, / už mu nikdy nezasvitlo štěstí. / Když ty statečné lidi pověsil, / neštěstí ho stíhalo velmi často.",
+   "vers_od": 227
+  },
+  {
+   "text": "Do sumte man sich nicht zuo lang, / Das selb was ouch das beste; / Es kam dar zuo, im geschach getrang, / Man sucht in in dem neste.",
+   "preklad": "Tu se dlouho neotálelo, / a to bylo také nejlepší; / došlo k tomu, že se ocitl v tísni: / hledali ho v jeho hnízdě.",
+   "vers_od": 231
+  },
+  {
+   "text": "Er sluog vmb sich ein wagenburg, / Mit mancherley geschütze; / Dar in do lag er als ein türck, / Man ging doran mit witze.",
+   "preklad": "Obehnal se vozovou hradbou / s rozličnými děly; / v ní ležel jako Turek; / šlo se na to s rozvahou.",
+   "vers_od": 235
+  },
+  {
+   "text": "Vff einen samstag  fügt es sich, / Man wolts nicht mer vercziehen, / Man czoch zuo im gar ritterlich. / Er sprach, man solt nicht fliehen.",
+   "preklad": "V sobotu se to stalo, / už to nechtěli odkládat, / táhli proti němu velmi rytířsky. / Řekl, že se nemá utíkat.",
+   "vers_od": 239
+  },
+  {
+   "text": "Die swytzer knüwten vff ir knu, / Sie bettent do von hertzen, / Dar noch schrey man:  «do hy! do hy!» / Fürbasser was kein schertzenn.",
+   "preklad": "Švýcaři poklekli na kolena / a modlili se tam ze srdce, / potom se křičelo: „Do hy! Do hy!“ / Dál už nebylo žádné žertování.",
+   "vers_od": 243
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Januar und Februar 1476 (Schilling I, 353).",
+  "Schilling I, 368, Anm. 2.",
+  "Der Dichter verwendet den Namen «Schweizer» arglos, ohne eine Ahnung davon zu haben, wie verpönt er bei den Eidgenossen dazumal war. Der «Strassburgische Meistergesang», von dem W. Oechsli im Jahrbuch für Schweiz. Geschichte 42 (1917), S. 196 spricht, ist das vorliegende Gedicht des Conradus Pfettisheim. Vergl. oben S. 6, Anmerkung 14.",
+  "= Versprechen, Uebereinkunft.",
+  " 2. März 1476 (Schilling II, 375 ff.)."
+ ],
+ "poznamky_prekladu": [
+  "v. 219: Karel oblehl Grandson v lednu a únoru 1476 (pozn. editora; Schilling I, 353); posádka se vzdala 28. února 1476 (mimo text).",
+  "v. 221 „Irs lebens er sy tröstet vor“: srov. Schilling I, 368, pozn. 2 (pozn. editora); v. 224 „gedinge“ = slib, úmluva (pozn. editora).",
+  "v. 223: posádka Grandsonu (kolem 412 mužů) byla oběšena nebo utopena v jezeře (mimo text).",
+  "„Švýcaři“ = „swytzer“; básník podle editora užívá toto jméno bez vědomí, jak bylo Spřísežencům tehdy nemilé.",
+  "v. 235 „wagenburg“ = vozová hradba (opevněný vozový tábor).",
+  "v. 239: sobota 2. března 1476 – bitva u Grandsonu (pozn. editora; Schilling II, 375 n.).",
+  "v. 242 „Er sprach, man solt nicht fliehen“: nejasné, kdo mluví [?] – snad Karel ke svým, nebo velitel Spříseženců.",
+  "v. 245 „do hy! do hy!“ – bojový pokřik, snad „hie, hie!“ (sem, sem!) [?]."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

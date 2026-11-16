@@ -1,0 +1,87 @@
+{
+ "cislo": 180,
+ "nadpis": "Basler Chroniken III, s. 119–120",
+ "nadpis_preklad": "Smír o žold 14000 zl., vzpoury v Geldern a Lutychu, nové sněmy; elegie na Karla (únor 1477)",
+ "svazek": "III",
+ "strany_edice": [
+  119,
+  120
+ ],
+ "rok": 1477,
+ "rukopis_strana": 89,
+ "odstavce": [
+  {
+   "text": "asticam facerent eis tam per sanctissimos dominos Romane sedis episcopos quam divos Romanorum reges et imperatores datam et approbatam. petiverunt insuper magnam rem a civitate Basiliensi, quam ad presens subticeo, donec plenius informer.",
+   "preklad": "…[církevní svobodě], kterou jim udělili a potvrdili jak nejsvětější páni biskupové římského stolce, tak božští římští králové a císařové. Mimo to žádali od města Basileje velkou věc, o které zatím mlčím, dokud se lépe neinformuji."
+  },
+  {
+   "text": "Basilienses habito consilio post prandium per ipsorum prothonotarium in presencia prefatorum nunciorum responderunt [89b] super 13 articulis eis objectis, et cum Basiliensibus stabant dominus Rudolfus margrafius Rotelensis, Bernenses, Soldorenses, Thuricenses, Switzeri et Lutzernenses, cum episcopo vero et cum dominis de capitulo Baszliensi stabant Oswaldus comes de Tierstein, Hermannus de Eptingen miles et communitates superiorum confederatorum, et post responsionem Basiliensium confederati superiores omnes se intromiserunt de pace tractanda inter ipsos dominos episcopum et capitulum ex una et cives Basilienses ex alia.",
+   "preklad": "Basilejští se po obědě poradili a ústy svého protonotáře [městského písaře] v přítomnosti řečených poslů odpověděli [89b] na 13 článků, které jim byly vytýkány. Na straně Basilejských stáli pan Rudolf, markrabě z Röttelnu, Bernští, Solothurnští, Curyšští, Švýcové [ze Schwyzu] a Luzernští; na straně biskupa a pánů z basilejské kapituly stáli hrabě Oswald z Thiersteinu, rytíř Heřman z Eptingenu a obce horních Spříseženců. Po odpovědi Basilejských se všichni horní Spříseženci ujali jednání o mír mezi pány biskupem a kapitulou na jedné a basilejskými měšťany na druhé straně."
+  },
+  {
+   "text": "Ex parte autem superiorum confederatorum stipendiatorum ex una et dominum ducem Lothoringie ex alia fuit concordatum ita, ut eis traderetur stipendium 14000 florenorum, et domini episcopus et civitas Argentinensis, Sletzstatensis, Columbariensis et Basiliensis mutuarent peccuniam. dominus Oswaldus comes de Tierstein cavit pro peccunia et inpignoravit Pfeffingen et Tierstein et suos, soluturum usque ad festum pasce proxime futurum [Apr. 6].",
+   "preklad": "Mezi žoldnéři z horních Spříseženců na jedné a panem vévodou Lotrinským na druhé straně bylo dohodnuto, že se jim vydá žold 14000 zlatých a že peníze půjčí páni biskup a město štrasburské, schlettstadtské, colmarské a basilejské. Pan Oswald, hrabě z Thiersteinu, se za peníze zaručil a zastavil Pfeffingen, Thierstein a své [lidi]; zaplatit má do nejbližšího svátku Velikonoc [Apr. 6]."
+  },
+  {
+   "text": "Gelrenses ceperunt capitaneum et regentem inferiorem Burgundiam comminantes ei mortem, nisi eis faciat restitui dominum suum ducem Gelrensem, quem ille dux Burgundie captivaverat.",
+   "preklad": "Geldernští zajali hejtmana a správce Dolního Burgundska a hrozili mu smrtí, jestliže jim nezařídí, aby jim byl vrácen jejich pán, vévoda Geldernský, kterého onen vévoda Burgundský držel v zajetí."
+  },
+  {
+   "text": "Leodienses se averterunt ab obediencia Burgundorum et quotquot reperiunt Burgundos interficiunt et incipiunt emendare muros, menias et turres civitatis, quos ipse Burgundus destruxit et evertit.",
+   "preklad": "Lutyšští se vymanili z poslušnosti Burgunďanů, zabíjejí všechny Burgunďany, které najdou, a začínají opravovat zdi, hradby a věže města, které ten Burgunďan rozbořil a vyvrátil."
+  },
+  {
+   "text": "Dominus Basiliensis coram nunciis illius lige produxit certa privilegia imperialia et post magnam querelam, quam fecerat contra cives Basilienses, tetigit unum punctum de juramento, dicens: »si servatis juramentum, quod prestitistis ecclesie et capitulo Basiliensi, postea videbitis.« quod ipsi [90] ingrate susceperunt, requirentes eum, ut revocet. hoc omnino volunt ab eo habere. hanc disceptacionem audientes confederati interposuerunt se pro mediatoribus et indixerunt eis dietam ad [Merz 23] dominicam judica proximam.",
+   "preklad": "Pan [biskup] basilejský předložil před posly toho spolku jistá císařská privilegia, a když vznesl velkou stížnost proti basilejským měšťanům, dotkl se jednoho bodu o přísaze a řekl: „Jestli dodržujete přísahu, kterou jste složili kostelu a basilejské kapitule, uvidíte potom.“ To oni [90] přijali nelibě a žádali ho, aby to odvolal; to od něho rozhodně chtějí mít. Když Spříseženci slyšeli tento spor, vložili se do něj jako prostředníci a vypsali jim sněm na nejbližší neděli Judica [Merz 23]."
+  },
+  {
+   "text": "In facto autem Burgundorum debet observari dieta in [Merz 2] dominica reminiscere proxime futura in Basilea, et extunc deliberabunt, si vellint unam generalem expedicionem ad Burgundiam aut non. et in eadem dieta dux Lothoringie debet demonstrare, quid de captivis habuerit, et racionem facere de bombardis acquisitis in Nanseio a Burgundo, ut ad communem divisionem veniat eorum, qui ibi fuerunt.",
+   "preklad": "Ve věci Burgunďanů se má konat sněm v Basileji v nejbližší neděli Reminiscere [Merz 2] a tehdy se poradí, zda chtějí podniknout jedno společné tažení do Burgundska, nebo ne. Na témž sněmu má vévoda Lotrinský ukázat, co dostal za zajatce, a složit účty z děl, která byla u Nancy ukořistěna na Burgunďanovi, aby se dostala ke společnému rozdělení mezi ty, kdo tam byli."
+  },
+  {
+   "text": "De occubitu Karoli ducis Burgundie quidam bonus pater misit michi carmen pro pastillis in carnisprivio, in hunc qui sequitur modum.",
+   "preklad": "O skonu Karla, vévody Burgundského, mi jeden dobrý otec poslal o masopustu za koblížky báseň, která zní takto:"
+  },
+  {
+   "text": "Decidit exanimis, voluit qui sydera celi / Quatuor et terre climata supprimere. / Mentem, Burgunde, tibi que vesania cepit? / Quem crucias diro, te tumulat populus. / Victu’ esne ille stupor mundi, quem cuncta timebant? / Ecce suppinus jaces fossus ab armigero. / Compares o tantam quam nisus carpere partem / Orbis, non clausus diceris esse loco. / Auderem fari: te straverat ulcio diva, / Es hominum fusor sangwinis innumeri. / Forte diu virga, tandem percussus ab illa, / Digna dei fueras, premia suscipies.",
+   "preklad": "[Následuje latinská elegie na smrt Karla Smělého („Decidit exanimis, voluit qui sydera celi…“), v. 1–12; pokračuje v kap. 181. Překlad viz Písně a básně.]"
+  }
+ ],
+ "poznamky_editora": [
+  "1) Vgl. unten 8. 120, 3ff. und 141, 6ff. Wir haben diesen ganzen Streit",
+  "des Bischofs mit der Stadt in einer besondern Beilage behandelt.",
+  "2) Im Abschied (s. 8. 117 A. 3) heisst es, (der Herzog und mit ihm Graf",
+  "Oswald hätten dringend einen unverzinslichen Vorschuss von 14,000 Gulden",
+  "mit bestimmten Rückzahlungsfristen und gegen gehörige Versicherung be-",
+  "gehrt. »Was davon sinen gnaden zü eren, ouch der sach zu güt verfolget und",
+  "abgeredt, ouch daneben durch gemeiner Eidtgenossen botten zugesagt ist,",
+  "weis ein yeder bott mitsampt der versorgknüsse daruber begriffen anzebrin-",
+  "gen.« Am 22 Merz wurde auf ein Geleitbegehren, das Oswald an den Rath",
+  "zu Basel stellte (vgl. oben 116, 33) beschlossen, ihm auf 14 Tage Geleit zu ge-",
+  "ben, »doch der verschribung von unnsers hern von Lothringen wegen gemein",
+  "vereynung berürend in allweg unabbruchlich und on schaden.« Öffnungsbuch",
+  "V, i81b, |",
+  "Aparát: 27. Über armigero steht: vel agricola, ut fertur.",
+  "1) S. die Beilage über den Streit des Bischofs Johannes von TER",
+  "“mit der Stadt Basel 1476—1477.",
+  "2) Der Abschied enthält nichts von einem Tag, der am 2. Merz in Basel",
+  "soll abgehalten werden; die Burgunder hatten um Verlängerung des ihnen",
+  "bis 2. Merz gewährten Waffenstillstandes nachgesucht!, die Boten erklärten,",
+  "hiezu keine Vollmacht zu besitzen, sie wollten es aber gütlich anbringen.",
+  "Eidg. Absch. I, S. 6481.",
+  "3) Ebenda 8. 647 a (vgl. 8. 644 Nr. 867). Die Antwort soll auf nächsten",
+  "Tag (s. die vorhergehende Anmerkung) erfolgen. Vgl. S. 144 A, 2."
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Data: [Apr. 6] Velikonoce 1477 = 6. 4.; [Merz 2] neděle Reminiscere = 2. 3.; [Merz 23] neděle Judica = 23. 3. 1477 (okraj OCR „Merz 3“, číslice 2 vypadla, doplněno podle neděle). Masopust (carnisprivium) 1477 vrcholil 18. 2., Popeleční středa byla 19. 2.",
+  "Vischer: podle výnosu sněmu žádali vévoda a s ním hrabě Oswald naléhavě o bezúročnou zálohu 14000 zlatých s pevnými lhůtami splátek a řádným zajištěním. 22. 3. povolila basilejská rada Oswaldovi glejt na 14 dní.",
+  "Vischer: výnos neuvádí žádný sněm, který by se měl konat 2. 3. v Basileji. Burgunďané žádali o prodloužení příměří, platného do 2. 3., a poslové prohlásili, že k tomu nemají plnou moc. Odpověď o zajatcích a dělech měla padnout na příštím sněmu. Spor biskupa s městem zpracoval Vischer ve zvláštní příloze.",
+  "„Switzeri“ stojí v odst. 2 ve výčtu míst (Bern, Solothurn, Curych, Švýcové, Luzern), jde tedy o Schwyz. „Communitates superiorum confederatorum“ jsou nejspíš venkovská místa (Uri, Unterwalden, Zug, Glarus), ověřit. Markrabě Rudolf z Röttelnu je Rudolf z Hachbergu, pán Röttelnu a hrabě z Neuchâtelu (mimo přepis).",
+  "Vévoda Geldernský = Adolf z Egmondu, kterého Karel věznil od r. 1471; Lutych dal Karel r. 1468 rozbořit (mimo přepis). „Dolní Burgundsko“ = Nizozemí.",
+  "Báseň (odst. 9) je přeložena zvlášť v oddíle Písně a básně (knebel-elegie-karel-1477), proto ji tu znovu nepřekládám. Verše, které OCR dělilo do osmi odstavců, jsou sloučeny do jednoho a převzaty v opraveném znění odtud. Aparát: nad „armigero“ stojí v rukopisu „vel agricola, ut fertur“.",
+  "Opravy: Rotellens’s → Rotelensis, omnesse → omnes se, tracistanda → tractanda, jramento → juramento, „[9o]“ → [90], „[ss?]“ čteno [89'] (ověřit); odstraněna čísla řádků („x“, „io“, „is“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

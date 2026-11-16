@@ -1,0 +1,116 @@
+{
+ "cislo": 34,
+ "nadpis": "Basler Chroniken II, s. 119–121",
+ "nadpis_preklad": "Vypovězení nepřátelství Karlovi, smrt Knebelovy matky, legenda z ležení u Neussu (listopad 1474)",
+ "svazek": "II",
+ "strany_edice": [
+  119,
+  121
+ ],
+ "rok": 1474,
+ "rukopis_strana": 123,
+ "odstavce": [
+  {
+   "text": "[Nov. 2] Eodem die venerunt Appenzellenses navigio, qui [Nov. 3] postera die eciam exiverunt.",
+   "preklad": "[Nov. 2] Téhož dne připluli lodí Appenzellští, kteří [Nov. 3] nazítří také vytáhli."
+  },
+  {
+   "text": "Basilienses tamen ministraverunt pixides, pulveres et omnia armamenta et mirabilia machinamenta.",
+   "preklad": "Basilejští však obstarali děla, prach a všechnu zbroj i podivuhodné [válečné] stroje."
+  },
+  {
+   "text": "[123] [Nov. 3] Feria quinta post omnium sanctorum gentes domini abbatis de Sancto Gallo et Appencellenses hodie recesserunt cum civibus de Rotwil, et insuper civitates imperiales Swevie eciam venient.",
+   "preklad": "[123] [Nov. 3] Ve čtvrtek po Všech svatých dnes odtáhli lidé pana opata od sv. Havla a Appenzellští s měšťany z Rottweilu; a kromě toho přijdou také říšská města Švábska."
+  },
+  {
+   "text": "Illo tempore tota Germania commota est propter illum maledictum Burgundum, qui totum orbem propter suam ambicionem commovet, que ex omni parte confluit ad ejus expedicionem, quia ipse solus cum Venetis impediunt transitum contra Thurcos, et Thurcus frequenter suas insidias et machinamenta, spolia, incendia et multa mala infert Christianis, ipseque facit quominus nec papa, neque rex Francie, neque Hyspanie, Castelle et Legionis neque rex Anglie neque Scotorum aut Hybernie, neque Germanie possint se parare ad exterminium Thurci. hoc totum ipse impedit nequissimus.",
+   "preklad": "V té době se celé Německo pohnulo kvůli tomu prokletému Burgunďanovi, který pro svou ctižádost uvádí do pohybu celý svět; [Německo] se odevšad sbíhá k výpravě proti němu, protože jen on spolu s Benátčany brání tažení proti Turkům, zatímco Turek často strojí křesťanům úklady a lsti, loupí, pálí a působí jim mnoho zla. On sám způsobuje, že ani papež, ani král Francie, ani [král] Hispánie, Kastilie a Leónu, ani král Anglie, Skotů či Irska, ani Německa se nemohou připravit k vyhlazení Turka. Tomu všemu brání on, ten největší ničema."
+  },
+  {
+   "text": "Audiens autem ipse nequam tyrannus omnem Almaniam contra eum movisse castra, fugit a Nussena cum magna confusione.",
+   "preklad": "Když pak ten ničemný tyran uslyšel, že celé Německo proti němu vytáhlo do pole, utekl od Neussu s velkou hanbou."
+  },
+  {
+   "text": "[Oct. 29] Anno etc. 74 sabbato post Symonis et Jude apostolorum presentata fuit domino comiti in Blomont infrascripta diffidacionis littera per nuncios in infrascripta littera nominatorum, cujus tenor sequitur et est talis.",
+   "preklad": "[Oct. 29] Léta [Páně 14]74 v sobotu po [svátku] apoštolů Šimona a Judy byl panu hraběti v Blâmontu doručen níže psaný list s vypovězením nepřátelství, a to posly těch, kdo jsou v něm jmenováni. Jeho znění následuje a je toto:"
+  },
+  {
+   "text": "Illustrissimo principi et domino, domino Karolo duci Burgundie, vel ejusdem vicariis et officialibus, quibuscumque nominibus nuncupentur, ubicumque resederint, insinuamus nos burgimagistri, sculteti, amanni, consules et communitates magne lige Alamanie superioris, videlicet Zurich, Bern, Lutzern, Ure, Switz, Underwalden, Zug et Glaris et opidi Solodrensis, hoc tempore in opido Lutzernensi congregati, quod nos ad grandes et acerrimas exhortaciones et requisiciones invictissimi, serenissimi et inclitissimi domini, domini Friderici Romanorum imperatoris, herois nostri graciosissimi, cui tamquam [124] sacri imperii membra non injuria obedienter paremus, illustrissimique principis et domini, domini Sigismundi Austrie ducis aliorumque principum, dominorum et communitatum nobis unione adjunctorum, quibus per vestrates multiplices injurie, violencie et oppressiones attroci cum furia illate sunt et cottidie inferuntur, illustri dominacioni vestre omnibusque et singulis eidem subditis et annexis quorumcumque nominum nostras publicas diffidaciones dicimus et denunciamus pro nobis omnibusque et singulis nostratibus et eis, qui nobis defensionis forma adstringuntur. et quidquid exnunc in antea harum diffidacionum occasione erga dominacionem vestram, vestrates, vobis adjunctos et adjutores emerserit, sive rapinas, homicidia, incendia, depredaciones, invasiones aliorumque generum afflicciones contingat, die vel nocte per nos vel nobis in hac parte adjunctos, volumus vigore presencium nostros omniumque nobis colligatorum favenciumque in hac parte honores salvos tutosque. quorum omnium in efficaciam has litteras nostras fecimus sigillo urbis Bernensis publice muniri, datas [Oct. 25] die martis ante festum Symonis et Jude apostolorum anno domini etc. 74.",
+   "preklad": "Nejjasnějšímu knížeti a pánu, panu Karlovi, vévodovi Burgundskému, nebo jeho místodržícím a úředníkům, ať se nazývají jakýmkoli jménem a ať sídlí kdekoli, oznamujeme my, purkmistři, starostové, úředníci (amanni), radní a obce velkého spolku Horního Německa, totiž Curych, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug a Glarus a město Solothurn, toho času shromáždění ve městě Luzernu:\nNa velká a naléhavá napomínání a žádosti nepřemožitelného, nejjasnějšího a nejslavnějšího pána, pana Fridricha, římského císaře, našeho nejmilostivějšího hrdiny, jehož jako [124] údy Svaté říše ne bez práva poslušně posloucháme, a nejjasnějšího knížete a pána, pana Zikmunda, vévody Rakouského, a jiných knížat, pánů a obcí s námi ve spolku spojených, jimž vašimi lidmi bylo a denně je s krutou zuřivostí působeno mnoho křivd, násilí a útisku, vypovídáme a ohlašujeme vaší urozené Milosti a všem i každému z vašich poddaných a přívrženců, jakéhokoli jména, své veřejné nepřátelství za sebe, za všechny i každého z našich lidí a za ty, kdo jsou k nám vázáni povinností ochrany.\nA cokoli od této chvíle z příčiny tohoto vypovězení nepřátelství vůči vaší Milosti, vašim lidem, vašim přívržencům a pomocníkům vzejde, ať se přihodí loupeže, zabíjení, žhářství, plenění, přepady nebo jiná soužení, ve dne či v noci, skrze nás nebo skrze ty, kdo se k nám v té věci připojili, chceme mocí tohoto listu, aby naše čest a čest všech našich spojenců a příznivců v této věci zůstala zachována a neporušena. Na potvrzení toho všeho jsme dali tento náš list veřejně opatřit pečetí města Bernu. Dán [Oct. 25] v úterý před svátkem apoštolů Šimona a Judy léta Páně [14]74."
+  },
+  {
+   "text": "[Oct. 29] Hec littera presentata fuit domino de Blamont in castro suo Blomont sabbato post Symonis et Jude, ubi nuncius fuit bene susceptus, melius tractatus et cum honore remissus. Littera satis est incuria, tamen notabilis in sensu. videat Burgundus quid faciat.",
+   "preklad": "[Oct. 29] Tento list byl doručen pánu z Blâmontu na jeho hradě Blâmontu v sobotu po [svátku] Šimona a Judy; posel tam byl dobře přijat, ještě lépe pohoštěn a se ctí propuštěn. List je dosti nedbale sepsán, smyslem je však pozoruhodný. Ať si Burgunďan rozmyslí, co udělá."
+  },
+  {
+   "text": "[125] Mors matris mee Elsine Kneblin. [Nov. 4] Anno domini 1474 die veneris quarta novembris Elizabeth mater mea pia carnis soluta ergastulo animam utinam meritis plenam felicibus bonis reddidit inhesuram perhennibus. hora meridiei transivit.",
+   "preklad": "[125] Smrt mé matky Elsine Kneblin. [Nov. 4] Léta Páně 1474 v pátek 4. listopadu má zbožná matka Alžběta, zproštěna žaláře těla, odevzdala duši – kéž plnou zásluh –, aby navěky přebývala v blažených a věčných dobrech. Zesnula v poledne."
+  },
+  {
+   "text": "[Nov. 4] Eadem die nobiles im Hegow, Monfort, Werdenberg, Hewen, Clingenberg, Bodmen et alii nobiles Basileam exiverunt in auxilium aliorum.",
+   "preklad": "[Nov. 4] Téhož dne vytáhli z Basileje na pomoc ostatním šlechtici z Hegau: Montfort, Werdenberg, Hewen, Klingenberg, Bodman a jiní šlechtici."
+  },
+  {
+   "text": "[Nov. 4] Et eadem die venerunt Basileam civitates imperiales, videlicet Ravenspurgenses et alie confines civitates.",
+   "preklad": "[Nov. 4] A téhož dne přišla do Basileje říšská města, totiž Ravensburští a jiná sousední města."
+  },
+  {
+   "text": "Eodem tempore convenerunt undique simul turbe et convenerunt in unum, ut simul castra ponerent et vallarent Ellekort.",
+   "preklad": "V téže době se odevšad sešly zástupy a spojily se v jedno, aby se společně položily táborem a obehnaly Héricourt valem."
+  },
+  {
+   "text": "Illo tempore lantgravius de Hassia, qui in Nüssia erat, [Oct. 28] circa festum sanctorum Symonis et Jude, accepta secum societate militum et civium ejusdem civitatis, exivit in castra ducis Burgundie et accensis canopeis et tugurgiis in duobus locis fecit magnum dampnum et interfecerunt multos ex castris ipsius ducis et manu forti reintravit. medio tempore venerunt Colonienses et secum tulerunt escas et alia necessaria victus et belli, eciam multos ex castris Burgundi interfecerunt. eo tempore unus militum, qui graviter vulneratus fuerat, in nocte vigilans in castris vidit quendam virum in aureis armis extento brachio, manu gladium tenens supra muros civitatis contra Burgundos. qui cum dies factus fuisset, accessit ducem narrans que vidisset, exhortans eum, ut castra moveret de ipsa civitate, quia videret bene, quod res sua non prosperaret, sed continue peyoraret. dux sibi respondit: »nonne eciam vidisti me adversus eum stantem in proximo?« sic derisorie ayebat. fuit eciam alius miles de Anglia, qui avisamentum hujusmodi et responsionem audiens [126] dixit »illustrissime princeps! nonne videtis: quidquid agimus, totum perdimus! timeo quod aliquo dierum omnes simul et vos et nos pereamus; numquid auditis et attenditis novitates, que nobis cottidie scribuntur!« et dux ille ferocissimus furia invectus extrahens dagam suam eum statim perforavit et interfecit.",
+   "preklad": "V té době lankrabě hesenský, který byl v Neussu, [Oct. 28] kolem svátku sv. Šimona a Judy vzal s sebou družinu rytířů a měšťanů téhož města, vyrazil do tábora vévody Burgundského, zapálil na dvou místech stany a chýše, způsobil velkou škodu – pobili mnoho [lidí] z vévodova tábora – a silou zbraní se vrátil [do města]. Mezitím přišli Kolínští, přivezli s sebou potraviny a jiné potřeby k živobytí i k boji a také pobili mnoho [lidí] z Burgunďanova tábora.\nV té době jeden z rytířů, který byl těžce raněn, bděl v noci v táboře a uviděl nad hradbami města jakéhosi muže ve zlaté zbroji, s napřaženou paží, jak drží v ruce meč proti Burgunďanům. Když nastal den, šel k vévodovi, vyprávěl mu, co viděl, a nabádal ho, aby od toho města odtáhl, neboť dobře vidí, že jeho věc se nedaří, nýbrž se stále zhoršuje. Vévoda mu odpověděl: „A neviděls také mě, jak stojím hned naproti němu?“ Tak se posměšně vyjádřil. Byl tam také jiný rytíř z Anglie, který slyšel tu radu i odpověď [126] a řekl: „Nejjasnější kníže! Což nevidíte, že cokoli děláme, všechno ztrácíme? Bojím se, že jednoho dne všichni spolu zahyneme, vy i my. Což neslyšíte a nevšímáte si zpráv, které nám denně píší?“ A ten nejzuřivější vévoda, popadnut zuřivostí, vytasil dýku a hned ho probodl a zabil."
+  },
+  {
+   "text": "Eo tempore quidam de Geroltzeck diffidavit Argentinenses, cum essent in expedicione contra dominum de Blomont, et hoc practicavit Fridericus comes palatinus Reni, qui et Argentinensibus scripsit, ut sibi debeant rescindere et satisfacere de dampnis et injuriis sibi illatis in opido Schuttern, dum anno preterito ipsi invasissent dominos de Geroltzeck et castrametassent illinc. et idem de Geroltzeck subordinavit sex nequam,",
+   "preklad": "V té době jakýsi [pán] z Geroldsecku vypověděl nepřátelství Štrasburským, když byli na výpravě proti pánu z Blâmontu. A to nastrojil Fridrich, falckrabě rýnský, který také Štrasburským napsal, že mu mají [škody] nahradit (rescindere [?]) a dát zadostiučinění za škody a křivdy, které mu způsobili ve městě Schutternu, když loňského roku napadli pány z Geroldsecku a odtamtud se položili táborem [proti nim]. A týž [pán] z Geroldsecku podstrčil šest ničemů, […]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 15. facit zweimal. 23. domino..... Blamont ist am Rande beigefügt ohne Verweisung",
+  "auf eine bestimmte Stelle des Textes. 27. Hs. eis, Eidg. Absch. ejusdem. 28. in-",
+  "sinuamus hat auch das Berner Missivenbuch, nicht intimamus, wie Eidg. Absch. ge-",
+  "druckt ist. 32. nos fehlt in der Hs. und ist aus dem B. Missivenbuch ergänzt.",
+  "1) Im Gegentheil waren gerade in dieser Zeit die Neusser trotz ihrer hel-",
+  "denmüthigen Haltung und einzelnen glücklichen Kämpfen. durch das Zögern",
+  "des Kaisers in gröster Noth.",
+  "2) Dieser Absagebrief ist aus dem Berner Lateinischen Missivenbuch A",
+  "in den Eidg. Absch. II, 515 abgedruckt. In deutscher Fassung gibt ihn .",
+  "nach dem Deutschen Missivenbuch C v. Rodt I, 272 und weniger correct",
+  "Schilling 135. _",
+  "3) In der deutschen Fassung »und darzü der beiden stetten Friburg",
+  "und Soloturn«.",
+  "Aparát: 2. Statt inclitissimi hat die Hs. noch einmal invictissimi. 2. Das zweite domini ist",
+  "aus dem B. Miss. ergänzt. 8. Hs. illata. 9. illustri steht auch im B. Miss., nicht",
+  "illustrissime, wie Eidg. Absch. gedruckt ist. 11. Die Hs. hat nur nunciamus, das",
+  "denunciamus des B. Miss. ist wohl das richtigere. 14. quidquid — diffidacionum",
+  "fehlt in der Hs. 14. erga steht in der Hs. zweimal. 15. emerserit ist nach dem B.",
+  "Miss. für emerserint, was unsre Hs. giebt, emendiert. 17. Hs. noctu, B. Miss. nocte.",
+  "Aparát: 19. salvos fehlt in der Hs. 21. Hs. datum, B. Miss. datas. 28. Das gesperrt Ge-",
+  "druckte steht als Ueberschrift.",
+  "1) Die Basler hatten schon am 22. April 1474 ihre Absage an Karl er-",
+  "gehn lassen. Missivenbuch XIII, 296.",
+  "Aparát: 4. Zwischen in unum und ut simul steht folgender durchgestrichener Satz : ut se divi-",
+  "derent in tres partes, Bernenses obsiderent Blomont, Basilienses cum suis obsiderent",
+  "Ellenkort et Argentinenses cum suis obsiderent opidum Sancti Ypoliti.",
+  "1) Von einer derartigen Waffenthat in dieser Zeit weiss Wierstraat nichts",
+  "zu berichten.",
+  "2) Am 7. Apr. 1473 überfielen Diebold von Geroldseck und Bilgeri von",
+  "Heudorf Kaufleute aus der Fidgenossenschaft auf dem Rheine und brachten",
+  "die Gefangenen sammt der Beute nach Schuttern. Die Strassburger eroberten",
+  "und zerstörten hierauf Stadt und Schloss Schuttern und belagerten Hohen-"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Data: [Nov. 2] středa (téhož dne jako odchod Luzernských, kap. 33); [Nov. 3] čtvrtek po Všech svatých; [Oct. 29] sobota po sv. Šimonu a Judovi (28. 10.); [Oct. 25] úterý před sv. Šimonem a Judou; [Nov. 4] pátek; [Oct. 28] sv. Šimon a Juda. Samostatné odstavce s okrajovými daty „[Nov. 2]“ a „[Nov. 3]“ zrušeny a data umístěna k odpovídajícím zápisům; chybné „[Nov. 3]“ před listem nahrazeno okrajovým „Oct. 29“.",
+  "Vischer: Neusští byli právě v této době přes hrdinný odpor a dílčí úspěchy kvůli císařovu otálení v největší nouzi; zpráva, že Karel od Neussu utekl, je nepravdivá (obléhání trvalo do června 1475).",
+  "Vischer: latinský list s vypovězením nepřátelství je i v bernské latinské knize listů (Eidg. Absch. II, 515), německou verzi podávají v. Rodt a Schilling; německé znění jmenuje navíc „obě města Fribourg a Solothurn“. Aparát: několik slov doplnil Vischer z bernské knihy listů (nos, druhé domini, quidquid – diffidacionum, salvos); rukopis má místo inclitissimi znovu invictissimi a místo denunciamus jen nunciamus. Basilejští vypověděli Karlovi nepřátelství už 22. 4. 1474. „amanni“ = úředníci (Ammänner) podle glosáře, „magna liga Alamanie superioris“ = velký spolek Horního Německa, tj. Spříseženstvo.",
+  "Čísla stran rukopisu: OCR „[121]“ uvnitř listu a „[135]“ u zápisu o smrti matky opraveny podle řady [123]–[126] na [124] a [125] (OCR omyl, ověřit). „Elslekort“ opraveno na Ellekort (vlepené číslo řádku).",
+  "Smrt Knebelovy matky Alžběty (Elsine Kneblin) 4. 11. 1474, nadpis je v rukopisu jako záhlaví. Aparát: mezi „in unum“ a „ut simul“ stojí škrtnutá věta: „aby se rozdělili na tři části: Bernští aby obléhali Blâmont, Basilejští se svými Héricourt a Štrasburští se svými městečko Saint-Hippolyte“ – původní plán tažení.",
+  "Vischer: o výpadu lankraběte Heřmana Hesenského kolem 28. 10. nic neví Wierstraat. Vidění muže ve zlaté zbroji nad hradbami je zjevně legenda (snad sv. Quirin, patron Neussu – mimo přepis). „dagam“ = dýka.",
+  "Vischer k Geroldsecku: 7. 4. 1473 přepadli Diebold z Geroldsecku a Bilgeri z Heudorfu na Rýně kupce ze Spříseženstva a odvezli zajatce s kořistí do Schutternu; Štrasburští pak Schuttern dobyli a zničili a oblehli Hohengeroldseck. Díky falckraběti, lennímu pánu Dieboldovu, došlo ke smíru. „rescindere“ je nejasné, ponecháno s [?]. Úsek končí uprostřed věty, pokračuje kap. 35."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

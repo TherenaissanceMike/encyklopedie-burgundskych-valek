@@ -1,0 +1,98 @@
+{
+ "cislo": 33,
+ "nadpis": "Basler Chroniken II, s. 117–118",
+ "nadpis_preklad": "Spříseženci v Basileji, vypovězení nepřátelství, Bern obsazuje Rötteln, odchod vojsk (říjen–listopad 1474)",
+ "svazek": "II",
+ "strany_edice": [
+  117,
+  118
+ ],
+ "rok": 1474,
+ "rukopis_strana": 121,
+ "odstavce": [
+  {
+   "text": "et manebant in Hesingen, Blotzen et aliis vicinis villis, quorum eciam erant mille viri. Basilienses autem cum Confederatis manebant in Basilea cum jocunditate, signiti albis crucibus, et habuerunt maximas expensas, fueruntque locati per singulas domus tocius civitatis.",
+   "preklad": "[…] a zůstávali v Hésingue (Hesingen), Blotzheimu a jiných okolních vsích; i těch bylo tisíc mužů. Basilejští pak se Spříseženci pobývali v Basileji v radosti, označeni bílými kříži, a měli převeliké výlohy; [Spříseženci] byli ubytováni po všech domech celého města."
+  },
+  {
+   "text": "Eo tunc fuit copia vini, ita ut plaustrum vini novi emeretur pro 3 libris denariorum Basiliensium.",
+   "preklad": "Tehdy byl dostatek vína, takže fůra (plaustrum) nového vína se kupovala za 3 libry basilejských feniků."
+  },
+  {
+   "text": "Interim domini episcopi Argentinensis et Basiliensis et cives Argentinenses cum Bernensibus expediverunt comitem de Warenbona usque ad feces et se converterunt contra comitem de Blamont et cremaverunt omnes villas in illis finibus prope Blamont et Ellencort.",
+   "preklad": "Mezitím páni biskupové štrasburský a basilejský a štrasburští měšťané s Bernskými vyřídili hraběte z Varembonu (Warenbona) až do dna, obrátili se proti hraběti z Blâmontu a vypálili všechny vsi v těch končinách u Blâmontu a Héricourtu."
+  },
+  {
+   "text": "[Oct. 19] Die mercurii 19. mensis octobris omnes lige illius comites diffidarunt dominum ducem Burgundie et pariter miserunt suos nuncios ad Blomont, ubi eciam ipsum comitem invenerunt. qui ipsos omnes eciam pariter suscepit et in quandam aulam introduxit et ibi parata mensa ipsos lautissime tractavit et inter prandendum fistulas et buccinas clangere fecit et extunc statim ordinavit nuncium mittendum ad ducem Burgundie, qui hujusmodi litteras diffidatorias presentaret.",
+   "preklad": "[Oct. 19] Ve středu 19. října všichni společníci (comites) onoho spolku vypověděli panu vévodovi Burgundskému nepřátelství a zároveň poslali své posly do Blâmontu, kde zastihli i samého hraběte. Ten je všechny také přijal, uvedl je do jakési síně, dal tam prostřít stůl a pohostil je co nejskvěleji; při jídle dal hrát na píšťaly a troubit na trouby a hned nato zařídil vyslání posla k vévodovi Burgundskému, který by mu ten list s vypovězením nepřátelství doručil."
+  },
+  {
+   "text": "[121] [Oct. 31] Sabbato jam dicto, videlicet ultima mensis octobris, domini de consulatu Coloniensi scripserunt dominis de consulatu Basiliensi, quomodo illustris dominus Hermannus lantgravius Hassie, qui in Nussia est cum suis militibus et burgensibus ibidem fidelibus, [Oct. 15] die 15. mensis octobris attendens quod dux ille multas machinaciones, fortalicia et maneries faceret subterraneas, clam cum duobus milibus exierunt et multa fortalicia, fossas et maneries hujusmodi destruxissent et ultra mille viros Burgundorum interfecissent et manu forti et defensa iterum ad propria rediissent cum gaudio, ipsique intellexissent, quod dominus dux Burgundie adventum domini nostri Friderici imperatoris expectare formidaret, propterea festinaret, si quo modo ante adventum imperatoris illam civitatem habere posset. rogarunt preterea cives Basilienses, ut eis nunciare vellent, quomodo fuisset recessum in Veltkilch cum dominis Sigismundo et lige illius magne consortibus. ubi extunc statim navigio fuerunt missi nunci, qui omnia, que hic viderant et audierant atque que in Veltkilch conclusa erant, nunciarent.",
+   "preklad": "[121] [Oct. 31] V řečenou sobotu, totiž posledního října, psali páni z kolínské rady pánům z basilejské rady, jak urozený pan Heřman, lankrabě hesenský, který je v Neussu se svými rytíři a s tamními věrnými měšťany, [Oct. 15] 15. října zpozoroval, že ten vévoda dělá mnoho podzemních zařízení, opevnění a štol (maneries); tajně vyrazili se dvěma tisíci [muži], zničili mnoho takových opevnění, příkopů a štol, pobili přes tisíc Burgunďanů a silou zbraní a v obraně se zase s radostí vrátili domů. A že zvěděli, že se pan vévoda Burgundský bojí vyčkat příchodu našeho pána, císaře Fridricha, a proto spěchá, aby se nějak zmocnil toho města ještě před císařovým příchodem. Kromě toho prosili basilejské měšťany, aby jim oznámili, jak se rozešel [sněm] ve Feldkirchu s panem Zikmundem a se společníky onoho velkého spolku. Hned nato tam byli lodí vysláni poslové, aby oznámili vše, co zde viděli a slyšeli a co bylo ve Feldkirchu usneseno."
+  },
+  {
+   "text": "Hodie eciam mane per reverendum patrem dominum Nicolaum Tripolitanum cantata fuit in ecclesia Basiliensi pro salute vivorum et fuit populus benedictus.",
+   "preklad": "Dnes ráno také byla ctihodným otcem panem Mikulášem, [biskupem] tripolským, zpívána v basilejském kostele [mše] za spásu živých a lid byl požehnán."
+  },
+  {
+   "text": "[Nov. 1] Die martis fuit festum omnium sanctorum. remanserunt in Basilea ultra decem milia virorum deputati in expedicionem hujusmodi facti contra Burgundum, propter festum.",
+   "preklad": "[Nov. 1] V úterý byl svátek Všech svatých. Kvůli svátku zůstalo v Basileji přes deset tisíc mužů určených k této výpravě proti Burgunďanovi."
+  },
+  {
+   "text": "[122] Et quia dominus Rudolfus margrafius de Rötellen noluit eciam se parare in expedicionem, Bernenses eum ceperunt et fecerunt eum jurare in certum hospicium Bernense, miserunt suos nuncios ad Rötellen, Susenburg et Badenwilr et posuerunt suos capitaneos ibidem et sua arma [Oct. 29] die sabbati predicta. ecce quam mirabilis mutacio dextre excelsi. ex qua re Thuricenses indignati sunt contra Bernenses, quia illi putabant se optinere eadem castra et dominium, quia Wilhelmus pater ipsius Rudolfi margravii tempore gwerrarum dominorum ducum Austrie et Switzerorum multam peccuniam remanserat eis obligatus.",
+   "preklad": "[122] A protože pan Rudolf, markrabě z Röttelnu, se také nechtěl chystat na výpravu, Bernští ho zajali a přiměli ho přísahat, že zůstane v jistém bernském hostinci. Poslali své posly do Röttelnu, Sausenburgu a Badenweileru a dosadili tam [Oct. 29] v řečenou sobotu své hejtmany a své znaky. Hle, jak podivuhodná je změna pravice Nejvyššího! Proto se Curyšští rozhněvali na Bernské, neboť se domnívali, že ty hrady a panství dostanou oni, protože jim Vilém, otec téhož markraběte Rudolfa, za válek pánů vévodů Rakouských se Švýcary zůstal dlužen mnoho peněz."
+  },
+  {
+   "text": "[Nov. 1] Eadem die, videlicet omnium sanctorum, exierunt post prandium Basileam Switz, Underwalden, Glaris, Thuricenses cum suis in multo numero.",
+   "preklad": "[Nov. 1] Téhož dne, totiž na Všechny svaté, vytáhli po obědě z Basileje Schwyzští, Unterwaldenští, Glarusští a Curyšští se svými lidmi ve velkém počtu."
+  },
+  {
+   "text": "Et eodem tempore venerunt gentes abbatis sancti Galli eciam in copioso numero.",
+   "preklad": "A v téže době přišli také lidé opata od sv. Havla (St. Gallen) v hojném počtu."
+  },
+  {
+   "text": "[Nov. 2] Feria quarta depost proxima Basilienses cum suis exiverunt cum tribus milibus, et fuit capitaneus dominus Johannes de Berenfels strennuus miles in armis et vexillifer Jacobus de Sennheym civis Basiliensis.",
+   "preklad": "[Nov. 2] Ve středu hned nato vytáhli Basilejští se svými lidmi, se třemi tisíci [mužů]; hejtmanem byl pan Jan z Berenfelsu, statečný rytíř ve zbrani, a praporečníkem Jakub ze Sennheimu, basilejský měšťan."
+  },
+  {
+   "text": "[Nov. 2] Eodem die post prandium Lutzernenses exiverunt cum suis, videlicet quadringentis viris bene armatis.",
+   "preklad": "[Nov. 2] Téhož dne po obědě vytáhli Luzernští se svými lidmi, totiž se čtyřmi sty dobře ozbrojenými muži."
+  }
+ ],
+ "poznamky_editora": [
+  "1) Häsingen und Blotzheim sind sundgauische Dörfer nordwestlich von",
+  "Basel.",
+  "2) Von einer solchen Waffenthat gegen den Herrn v. Varembon (s. oben",
+  "S. 105, 31), welche der Belagerung von H£ricourt vorangegangen wäre, weiss",
+  "kein anderer Bericht etwas.",
+  "3) Der Absagebrief der Eidgenossen, datiert 25. Oct., wurde am 29. in Bla-",
+  "mont übergeben. Siehe 8. 119, 22ff. 4) Der 31. October war ein Montag.",
+  "5) Vgl. über diesen Ausfall Wierstraat 8.30 und die Koelhoffische Chro-",
+  "nik CCOXXIIL (Chroniken d. d. St. XIV, 835), die aber beide den 14. Oct.",
+  "als Tag desselben angeben.",
+  "Aparát: 1. Hs. Vltklich. 4. Vltkilch. 8. et steht zweimal. 20. Die Lesung gwerrarum",
+  "ist ziemlich sicher, obgleich der letzte Theil des Wortes verwischt ist.",
+  "1) Markgraf Rudolf IV von Hochberg, Graf von Neuenburg am See,",
+  "Herr zu Röteln, Sausenburg und Badenweiler.",
+  "2) Diese Besitzergreifung nahmen die Berner wesentlich im Interesse",
+  "des als Graf von Neuenburg mit ihnen verburgrechteten Markgrafen vor,",
+  "der durch seine Beziehungen zu Burgund genöthigt ward, eine neutrale",
+  "Stellung einzunehmen, und von den Verbündeten mit Misstrauen angesehn",
+  "wurde.",
+  "3) Nach dem äbtischen Mannschaftsrodel waren es 203 Mann St. Gallens-",
+  "Antheil an den Burgunderkriegen (hsgeg. vom historischen Verein in $t.",
+  "Gallen. St. Gallen 1876. S. 20). 4) Vgl. Ochs IV, 274,"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Úsek navazuje na kap. 32 uprostřed věty o oddílech z rakouských zemí. Vischer: Häsingen (Hésingue) a Blotzheim jsou sundgauské vsi severozápadně od Basileje. Fůra (plaustrum) = vozová míra na víno, bez přepočtu.",
+  "Vischer: o takovém úspěchu proti pánu z Varembonu před obléháním Héricourtu nic nevědí jiné prameny. „expediverunt … usque ad feces“ (doslova „až ke kalům“) přeloženo „vyřídili až do dna“, tj. důkladně. Jméno opraveno z OCR „Waiwrenbona“ (vlepené číslo řádku) na Warenbona.",
+  "Vischer: list Spříseženců s vypovězením nepřátelství je datován 25. 10. a byl doručen v Blâmontu 29. 10. (viz kap. 34), Knebelova středa 19. 10. tedy nesedí. „comites“ (společníci, nikoli hrabata) ponecháno, jak stojí; stálo by za ověření v rukopisu.",
+  "Data: [Oct. 31] Knebel píše „v sobotu“, 31. 10. 1474 však bylo pondělí (Vischer). [Oct. 15] výpad z Neussu; Vischer: Wierstraat a Koelhoffova kronika ho kladou na 14. 10. [Nov. 1] Všech svatých, úterý; [Nov. 2] středa; [Oct. 29] okrajové „0ct.%9“ = sobota 29. 10. „maneries“ nejasné (snad podkopy či štoly), přeloženo „štoly“ s originálem. Aparát: rukopis má „Vltklich/Vltkilch“ = Feldkirch.",
+  "Mikuláš „Tripolitanus“ je titulární biskup tripolský, patrně světicí biskup basilejský (mimo přepis, neověřeno). Slovo „[mše]“ doplněno podle smyslu.",
+  "Vischer: markrabě Rudolf IV. z Hochbergu, hrabě neuchâtelský, pán Röttelnu, Sausenburgu a Badenweileru, byl s Bernem spojen měšťanským právem (burgrecht); Bernští obsadili jeho panství hlavně v jeho vlastním zájmu, protože kvůli svým vazbám na Burgundsko musel zůstat neutrální a spojenci mu nedůvěřovali. „jurare in certum hospicium“ = přísaha, že zůstane v určeném hostinci (jakési čestné zajetí). „mutacio dextre excelsi“ = Ž 77(76),11. Aparát: čtení „gwerrarum“ je dosti jisté, konec slova je setřený.",
+  "Vischer: podle soupisu mužstva opata svatohavelského šlo o 203 muže. Úsek končí odchodem Luzernských, pokračuje kap. 34."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

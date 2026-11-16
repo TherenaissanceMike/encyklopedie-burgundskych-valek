@@ -1,0 +1,66 @@
+{
+ "cislo": 23,
+ "nadpis": "Basler Chroniken II, s. 87–88",
+ "nadpis_preklad": "Proces s Hagenbachem v Breisachu: obhajoba, replika a svědci o mučení (květen 1474)",
+ "svazek": "II",
+ "strany_edice": [
+  87,
+  88
+ ],
+ "rok": 1474,
+ "rukopis_strana": 1,
+ "odstavce": [
+  {
+   "text": "mulieres maritatas, virgines, eciam moniales vi oppressisset et contra ipsarum voluntatem, et similia non solum ibi, verum eciam in multis aliis opidis et villis fecisset contra deum, justiciam et omnem honestatem. propterea peciit eum tamquam malefactorem, homicidam, perjurum, stupratorem declarari et per sentenciam diffinitivam eum in corpore et vita puniri.",
+   "preklad": "…[že] vdané ženy, panny, ba i jeptišky násilím a proti jejich vůli znásilnil a že podobné věci páchal nejen tam, ale i v mnoha jiných městech a vsích, proti Bohu, spravedlnosti a vší počestnosti. Proto žádal, aby byl prohlášen za zločince, vraha, křivopřísežníka a násilníka a aby byl konečným rozsudkem potrestán na hrdle a životě."
+  },
+  {
+   "text": "Exadverso vero Johannes Yrmi civis Basiliensis prolocutor domini Petri de Hagenbach peciit sibi aliquos de judicio dari ad consilium suum, ut eis mediantibus melius respondere posset querelis premissis. sicque per interlocutoriam obtinuit duos de judicio, et duos de consilio, unum de Sletzstat et alium de Columbaria, et habito cum eis consilio, intravit judicium et respondit ad singulos seorsum articulos. [1] ad primum: quod in Tannis quatuor decapitari fecisset, quia tales rebelles sibi fuissent, hoc domino nostro imperatori Friderico et suo domino duci dixisset, qui ambo eum jussissent eos corripere, et sic nil aliud fecisset nisi quantum ab eisdem dominis habuisset in mandatis. [2] ad secundum respondit: verum esse, quod ita jurasset et litteras tradidisset, sed cum dominus dux Burgundie Brisacum intrasset, de novo eidem juramentum obediencie prestitissent, et per hoc juramentum suum expirasset, neque ante idem tempus eis tallias aut exacciones imposuisset, ac per hoc perjurium non incurrisset, et quidquid postea fecisset, hoc a domino duce in mandatis habuisset. [3] ad tercium vero, quod Gallos superinduxisset, similiter hoc fecisset de mandato domini sui. [4] quod autem cum pluribus mulieribus concubuisset et virginibus, respondit, quod forte plures ibidem in circulo starent, qui similia fecissent et tamen per hoc non punirentur in corpore et vita. nichilominus eis suam peccuniam tradidisset et ipsis consencientibus et permittentibus. petivit propterea se ab instancia judicii absolvi.",
+   "preklad": "Naproti tomu Johannes Yrmi, basilejský měšťan, fürsprech (řečník, zastánce před soudem) pana Petra z Hagenbachu, žádal, aby mu bylo dáno několik [členů] soudu za rádce, aby s jejich pomocí mohl lépe odpovědět na uvedené žaloby. Mezitímním výrokem tak dosáhl, že dostal dva ze soudu a dva z rady, jednoho ze Schlettstadtu a druhého z Colmaru. Když se s nimi poradil, vstoupil před soud a odpověděl na každý článek zvlášť.\n[1] K prvnímu: že dal v Thannu stít čtyři [muže], protože se mu tak vzpírali; to že oznámil panu našemu císaři Fridrichovi i svému pánu vévodovi, kteří mu oba nařídili, aby je potrestal, a tak neudělal nic jiného, než co měl od týchž pánů nařízeno.\n[2] Na druhý odpověděl: je pravda, že tak přísahal a vydal listy, ale když pan vévoda Burgundský vjel do Breisachu, složili [měšťané] jemu znovu přísahu poslušnosti, a tím jeho [Hagenbachova] přísaha pozbyla platnosti. Před tou dobou jim žádné daně ani dávky neuložil, a tak se křivé přísahy nedopustil; a cokoli udělal potom, to měl nařízeno od pana vévody.\n[3] K třetímu, že přivedl Francouze (Gallos): i to prý udělal na rozkaz svého pána.\n[4] Pokud jde o to, že spal s mnoha ženami a pannami, odpověděl, že tu snad v kruhu stojí mnozí, kteří dělali totéž, a přesto za to nejsou trestáni na hrdle a životě. Navíc jim dal své peníze a [dělo se to] s jejich souhlasem a svolením. Proto žádal, aby byl soudní žaloby zproštěn."
+  },
+  {
+   "text": "Quo facto cum Heinricus Ysenlin prolocutor domini Hermanni balivi super predictis responsionibus cum suis habuisset consilium et reversus fuit ad judicium, dixit se non esse habilem ad replicandum et hoc per juramentum prestitum dixit. extunc sibi fuit remissa potestas proloquendi et datus fuit sibi . . marescalcus domini ducis Sigismundi, qui accepta a judice licencia pro domino Hermanno loquebatur, replicando repetivit singulos articulos, allegans leges, comptum sermonem fecit, quod ipse attentis suis forefactis, que adeo essent publica, notoria atque manifesta, [90] quod non opus esset ea probare. eciam ipse prius ea confessus fuisset et plura alia nefandissima fecisset, que eciam jam non opus esset enarrare. quod si eciam diffiteretur, se et partem suam ad probandum admitti ad statim petivit.",
+   "preklad": "Když se pak Heinricus Ysenlin, fürsprech pana Hermanna, zemského fojta, o těchto odpovědích poradil se svými a vrátil se před soud, prohlásil, že není schopen repliky, a řekl to pod přísahou, kterou složil. Tehdy mu bylo prominuto řečnické zmocnění a byl mu dán [za náhradu] . . ., maršálek pana vévody Zikmunda. Ten se svolením soudce mluvil za pana Hermanna: v replice zopakoval jednotlivé články, dovolával se zákonů a pronesl uhlazenou řeč, [v níž dovozoval], že vzhledem k jeho [Hagenbachovým] proviněním, která jsou tak veřejná, všeobecně známá a zjevná, [90] není třeba je dokazovat. Ostatně je on sám dříve doznal a spáchal ještě mnoho jiných nejohavnějších věcí, které teď už ani není třeba vypočítávat. A kdyby je i popíral, žádal, aby on i jeho strana byli ihned připuštěni k důkazu."
+  },
+  {
+   "text": "Quo facto Johannes Yrmi duplicando nomine quo supra dixit non velle credere, et si dixisset aliquid in tortura, compulsus dixisset et non libere vel sponte, sed coacte.",
+   "preklad": "Nato Johannes Yrmi v duplice jménem výše uvedeného řekl, že tomu nechce věřit; a jestliže něco řekl na mučení, řekl to z donucení, ne svobodně ani dobrovolně, nýbrž přinucen."
+  },
+  {
+   "text": "Viceversa vero dominus marescalcus triplicavit, quod sponte, libere, sine tortura talia et multa nephanda per eum facta confessus fuisset, ad quod probandum se ad statim obtinuit admitti. quo facto vocati fuerunt, qui mox apparentes et admissi ut et tamquam testes jurati recepti palam coram toto populo et judicio astantes dixerunt: verum esse, quod cum ipsi et alii ad hoc deputati et ipse dominus Petrus ductus fuisset de cavea, qua detinebatur, ad turrim, ubi nocentes torquentur, ad confitendum sua delicta et interrogatus fuisset, quid sibi de multis ei propositis et inter ceteros predictis articulis propositis constaret et quare fecisset, cum jam ad interrogacionem simplicem dicere nollet, tractus ad cordam ligatis a tergo manibus et in pedibus compedibus appositis de singulis maleficiis et factis interrogaretur, dixit: »dimittatis me et dicam quid fecerim«. qui submissus et manibus resolutis confessus fuit predictos et alios multos articulos, quos Michahel scriba patrie conscripsisset, prout in certis quaternis coram positis continebatur. sicque alii sex numero concorditer dixerunt, ut sic eo dimisso et a vinculis absoluto sponte confessus fuisset. quibus auditis dominus marscalcus prosequebatur causam et quid juxta dicta et attestata atque per eum confessata ulterius justum foret, dominos judices interrogari presidentem fecit.",
+   "preklad": "Naopak pan maršálek v triplice [prohlásil], že takové a mnohé ohavné věci, jež spáchal, doznal dobrovolně, svobodně a bez mučení, a hned dosáhl, že byl k důkazu toho připuštěn. Nato byli předvoláni [svědci]. Ti se hned dostavili, byli připuštěni a přijati jako přísežní svědci, a stojíce veřejně před vším lidem a soudem, řekli: Je pravda, že když byl pan Petr za přítomnosti jich a jiných k tomu určených odveden z klece, v níž byl držen, do věže, kde se mučí provinilci, aby doznal své zločiny, a byl tázán, co ví o mnoha [bodech], jež mu byly předloženy, mimo jiné o řečených článcích, a proč to udělal, a když na prostý dotaz už nechtěl mluvit, byl vytažen na provaz s rukama svázanýma za zády a s okovy na nohou a tázán na jednotlivé zločiny a činy; tu řekl: „Spusťte mě a povím, co jsem udělal.“ Byl spuštěn, ruce mu byly rozvázány, a doznal řečené i mnohé jiné články, jež sepsal zemský písař Michael, jak stálo v jistých sešitech, které byly předloženy. A tak se jich šest shodně vypovědělo, že takto, spuštěn a zbaven pout, doznal dobrovolně. Když to bylo vyslechnuto, pan maršálek pokračoval v žalobě a dal předsedajícímu [soudci] otázat se pánů soudců, co by dále bylo spravedlivé podle výpovědí, svědectví a toho, co on sám doznal."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 11. Die Worte „et duos de consilio — Columbaria“ stehn am Rande mit Verweisung",
+  "auf die betreffende Stelle im Texte. 32. Im Texte steht: quo facto a [nun folgt eine",
+  "Lücke] marscalcus domini ducis Sigismundi accepta u.s.w. Nach facto ist ein Zeichen",
+  "angebracht, das auf die am untern Rande angebrachten Worte „cum H. Ysenlin... et",
+  "datus fuit sibi a marescalcus domini Sigismundi“ verweist. Nach dem oben im Texte",
+  "stehenden Sigismundi ist dann ein qui eingefügt. Das a vor marescalcus in dem Satze",
+  "unten am Rande ist ohne Zweifel aus Versehn dem oben im Texte stehenden nachge-",
+  "schrieben, und dieses ist wohl der Anfang einer nicht vollendeten Präpositionalcon-",
+  "struction. Wir glauben den Text im Sinne Knebels richtig herzustellen, indem wir vor",
+  "marescalcus die die Stelle des Namens vertretenden zwei Punkte setzen.",
+  "1) Die Reimchronik lässt jedem Vortrage des Vertheidigers eine längere",
+  "Besprechung Hagenbachs mit demselben und den vom Gericht ihm beigegebe-",
+  "nen Rathgeben vorausgehn.",
+  "Aparát: 24. Nach delicta ein ausgestrichenes et ligatus fuisset.",
+  "1) Die Reimchronik nennt ihn 8. 376 Vers 32 »herr Raspen«. Vgl. oben",
+  "8.86 A.1. Ueber die Person des Hildebrand Rasp s. die Anmerkung Mones",
+  "zu dem betreffenden Verse und die dort angeführten Belegstellen.",
+  "2) S. oben 8. 83, 32 ff."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Úsek pokračuje v popisu procesu s Petrem z Hagenbachem v Breisachu. Proces se konal 9. 5. 1474 (Knebel v kap. 25: „recte illa die… nona die mensis maji“). Odst. 1 dokončuje žalobní body, které začínají v předchozím úseku.",
+  "Hermann, zemský fojt = Hermann z Eptingenu, rakouský zemský fojt, jehož jménem se vedla žaloba (tak v kap. 24). Prolocutor překládán jako fürsprech podle glosáře.",
+  "Aparát: slova „et duos de consilio — Columbaria“ připsal Knebel na okraj s odkazem do textu. Celý začátek odst. 3 (od „cum Heinricus Ysenlin“ po „datus fuit sibi“) je v rukopisu dopsán na dolním okraji. Na místě jména maršálka Knebel nechal mezeru, Vischer ji označil dvěma tečkami. Vischer: Rýmovaná kronika ho jmenuje „herr Raspen“, tj. Hildebrand Rasp.",
+  "Aparát (odst. 5): za „delicta“ Knebel škrtl „et ligatus fuisset“. Michael, zemský písař (scriba patrie) – bez bližšího určení.",
+  "Vischer: Rýmovaná kronika uvádí před každým vystoupením obhájce delší poradu s Hagenbachem a s rádci, které mu dal soud.",
+  "Oprava OCR: odstraněna čísla řádků a znaky („dux %» Burgundie“, „toto % populo“, „ar-% ticulis“), „judieium“ → judicium, „liceneia“ → licencia, „feeit“ → fecit, „cofessus“ → confessus, „sieque“ → sicque, „marscaleus“ → marscalcus, nadbytečná tečka v „habuisset . consilium“.",
+  "Mučení „na provaz“ (tractus ad cordam): vytažení na laně za ruce svázané za zády, se závažím (okovy) na nohou. Pro reenactory: Hagenbach byl držen v „kleci“ (cavea)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

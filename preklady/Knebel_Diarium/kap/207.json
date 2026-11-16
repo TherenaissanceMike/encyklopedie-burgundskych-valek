@@ -1,0 +1,122 @@
+{
+ "cislo": 207,
+ "nadpis": "Basler Chroniken III, s. 207–209",
+ "nadpis_preklad": "Smír s Meyerem, šibenice u Waldenburgu, rozkol Luzernu s venkovem, Uri proti Milánu (1478)",
+ "svazek": "III",
+ "strany_edice": [
+  207,
+  209
+ ],
+ "rok": 1478,
+ "rukopis_strana": 153,
+ "odstavce": [
+  {
+   "text": "rursus scribentes Basiliensibus, ut civibus suis bona confiscata ac ipsorum uxores et filios restituerent et eos sine omni dampno abire permitterent. qui quidem Basilienses eisdem confederatis rescripserunt et responderunt atque dictos Johannem et Nicolaum ut et tamquam suos cives requisierunt, ut redirent et alia facerent, prout in epistolis alterutrum missis, quorum tenor inferius est insertus, plenius continetur.",
+   "preklad": "[…] zase psali Basilejským, aby jejich měšťanům vrátili zabavený majetek i jejich ženy a děti a nechali je odejít bez jakékoli škody. Basilejští pak těm Spřísežencům odepsali a odpověděli a řečeného Jana a Mikuláše jako své měšťany vyzvali, aby se vrátili a učinili další [povinnosti], jak je plněji obsaženo v listech, které si navzájem poslali a jejichž znění je vloženo níže."
+  },
+  {
+   "text": "[153b] ([Mai 14] 1479. Anno etc. feria sexta post cantate Nicolaus Meyger, de quo supra fit mencio, fuit cum Basiliensibus concordatus et tradidit pro emenda centum septuaginta florenos. sed Johannes Grünenzwig adhuc non fuit concordatus.)",
+   "preklad": "[153b] ([Mai 14] 1479. Léta atd. v pátek po neděli Cantate se Mikuláš Meyger, o němž je řeč výše, smířil s Basilejskými a dal jako pokutu sto sedmdesát zlatých. Jan Grünenzwig však dosud smířen nebyl.)"
+  },
+  {
+   "text": "[157] Eodem tempore Solodrenses absciderunt Basiliensibus prope Waldenburg patibulum, unde magna dissensio facta est inter eos.",
+   "preklad": "[157] V téže době Solothurnští porazili Basilejským šibenici u Waldenburgu, z čehož mezi nimi vznikl velký svár."
+  },
+  {
+   "text": "Eodem tempore Lutzernenses ceperunt amannum in Entilibüch et torserunt eum, qui, ut asseritur, dixit, quod communitates voluissent intrasse Lutzernam et eos spoliasse atque opidum concremasse. quod tamen communitates extraopidane constanter negarunt et inhibuerunt Lutzernensibus, ne amplius ipsum ammannum torquerent, sed liberum abire facerent. et quia ipsi Lutzernenses antiquiorem confederacionem fecissent cum communitatibus, quam cum Bernensibus, Solodrensibus, Friburgensibus et Thuricensibus, requisierunt eos, ut relicta posteriore confederacione illam retinerent. quod Lutzernenses facere nolebant, neque alii opidani, Bernenses et alii, facere eciam volebant, sed eos defendere contra communitates disponebant, et sic magna differencia est inter opidanos et montanas communitates. quod si divisionem capient, cessabit eorum uncio sicut Romanorum, qui dum inter se fuissent unanimes, toto orbi dominabantur et inter se divisi subacti sunt imperio.",
+   "preklad": "V téže době Luzernští zajali úředníka (amman) v Entlebuchu a mučili ho. Ten prý řekl, že obce [venkovská místa] chtěly vtrhnout do Luzernu, oloupit je a město vypálit. To však obce mimo města vytrvale popíraly a zakázaly Luzernským toho úředníka dál mučit; ať ho propustí na svobodu. A protože Luzernští uzavřeli s obcemi starší spolek než s Bernskými, Solothurnskými, Fribourgskými a Curyšskými, žádaly je [obce], aby opustili pozdější spolek a drželi se onoho [staršího]. To Luzernští učinit nechtěli a nechtěla to učinit ani ostatní města, Bernští a jiní; chystali se naopak je [Luzernské] hájit proti obcím. A tak je velký rozpor mezi městy a horskými obcemi. Jestliže se rozdělí, skončí jejich pomazání (uncio) jako u Římanů, kteří, dokud byli mezi sebou svorní, vládli celému světu, a když se mezi sebou rozdělili, byli podrobeni [cizí] vládě."
+  },
+  {
+   "text": "Veneti disponunt de confederatis superioribus quotquot possunt soldatos et offerunt magna soldata, et hec est racio, quia ab una parte habent contra se papam et regem Aragonum, ab alia vero Thurcum, et sic undique angustantur.",
+   "preklad": "Benátčané najímají z horních Spříseženců žoldnéřů, kolik mohou, a nabízejí velký žold. Důvod je ten, že na jedné straně mají proti sobě papeže a krále aragonského, na druhé Turka, a tak jsou ze všech stran tísněni."
+  },
+  {
+   "text": "De Uri habuerunt diu differenciam cum duce Mediolani et exnunc diffidaverunt ducem. quibus et addixerunt confederati superiores, tamen Bernenses se pro medio pacis interponunt. rex autem Francie tenet partem ducis Mediolani. quid fiet nescitur.",
+   "preklad": "Urijští měli dlouho spor s vévodou milánským a nyní vévodovi vypověděli nepřátelství. Přidali se k nim i horní Spříseženci, Bernští se však vkládají jako prostředníci míru. Král francouzský pak drží se stranou vévody milánského. Co se stane, se neví."
+  },
+  {
+   "text": "Vacante ecclesia Spirensi electus fuit quidam nobilis de Helmstat. quidam autem dictus Heseler novus factus cardinalis ad instanciam serenissimi domini Friderici imperatoris, habens reservacionem a domino nostro papa, ejusdem vigore se in episcopatu ingessit. quem dominus Maximilianus dux Burgundie manutenere nititur. sicque res ipsa confunditur. imperator vult tenere compactata principum Almanie facta per concilium Basiliense, Maximilianus vero nititur destruere, qui filius est imperatoris. et sic fiet confusum chaos.",
+   "preklad": "Když byl špýrský kostel uprázdněn, byl zvolen jakýsi šlechtic z Helmstattu. Jakýsi Heseler, nově jmenovaný kardinál na žádost nejjasnějšího pana císaře Fridricha, však měl od našeho pána papeže výhradu (reservacio) a jejím mocí se vetřel do biskupství. Toho se snaží podporovat pan Maxmilián, vévoda Burgundský. A tak se ta věc mate. Císař chce zachovávat kompaktáta německých knížat uzavřená prostřednictvím basilejského koncilu, Maxmilián, který je synem císaře, se je však snaží zničit. A tak vznikne zmatený chaos."
+  },
+  {
+   "text": "[157b] Rex Francie revocavit omnes beneficiatos in regno, ubicumque sint, sive in curia pape vel alibi, et monuit eos ad residendum in suis beneficiis sub pena privacionis et scripsit pape, ut audio, ut ad hoc intendit, ut fiat reformacio in capite et in membris juxta decreta concilii Basiliensis, et quod concilium celebretur in Lugduno. papa vero predicta nolens",
+   "preklad": "[157b] Král francouzský povolal zpět všechny obročníky ve svém království, ať jsou kdekoli, u papežské kurie nebo jinde, a vyzval je, aby pod trestem ztráty [obroku] sídlili na svých obročích. A napsal papeži, jak slyším, že usiluje o to, aby se podle dekretů basilejského koncilu uskutečnila reforma v hlavě i v údech a aby se koncil konal v Lyonu. Papež však, nechtěje to […]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 8. Pag. 153b—156b sind frei gelassen, um die Z. 6f. erwähnten Briefe einzutragen. Spä-",
+  "ter hat K. auf 153b den Absatz Anno... concordatus eingetragen. Die von uns an die",
+  "Spitze dieses Absatzes gestellte Jahrzahl 1479 hat er mit anderer Tinte über denselben",
+  "geschrieben.",
+  "an, wie aus dem Öffnungsbuch, dem Missivenbuch und seiner Vereinbarung",
+  "mit dem Rathe (unten A. 2) hervorgeht.",
+  "1) Zum Eintragen dieser Briefe hat Knebel die folgenden sieben Seiten",
+  "freigelassen. Oben auf pag. 153b hat er dann später die Notiz über die Aus-",
+  "söhnung des Claus Meyer eingetragen.",
+  "2) »Donnstag vor ... vocem jocunditatis, waz der 13. tag des monatz",
+  "meyen« 1479 wurde durch Vermittlung Caspars, des Erwählten und Bestätig-",
+  "ten zu Basel, Meyer mit dem Rathe ausgesöhnt unter der Bedingung, dass er",
+  "demselben auf Pfingsten 100 und auf Kreuzeserhöhung (Sept. 14) weitere 75",
+  "rheinische Gulden entrichten, dass er ferner bis Johannistag (Juni 24) das",
+  "Burgrecht zu Solothurn wieder aufsagen und von da an der Stadt Basel die",
+  "schuldige Bürgerpflicht wieder leisten solle. »Dagegen sollen und wollen die",
+  "von Basel den genanten Claus Meyern innsetzen und ungeirrt wider zu dem",
+  "sinem kommen und gütlich volgen lassen.< Pergamenturk. mit dem anhan-",
+  "senden Siegel Bischof Caspars im Staatsarch. Basel, Lade C I, CC.",
+  "3) Die Aussöhnung mit ihm erfolgte erst auf St. Hilarius Tag (Jan. 13)",
+  "1481 durch gütlichen Entscheid des Wilhelm von Rappoltstein: das gegen",
+  "Hans Grünenzweig ergangene Urtheil soll aufgehoben sein, der Rath soll ihm",
+  "»sinen husrat, brief und annders, wes sy in entwert handt und des siner hus-",
+  "frowen und sinem tochterman, nochdem und das zu der stat Basel hannden",
+  "kommen, nit wider worden ist, gütlich geben und wider volgen lossen und",
+  "ime für sinen schaden, so ime dann an dem husrat beschehen ist, geben und",
+  "usrichten fünftzigk Rinescher gulden.< Wenn er mit seiner Habe von Basel",
+  "auswandern will, so soll man ihn ohne Beschwerde von Steuern, Nachsteuern,",
+  "Zöllen u. a. ledig fahren lassen. Pergamenturk. mit anhangendem Siegel des",
+  "Wilh. von Rappoltstein im Staatsarch. Basel, Lade CI, BB. — Über den Aus-",
+  "gang des Streites mit dem Orden s. das in den Beilagen Mitgetheilte.",
+  "4) Nach einem Schreiben, das der Rath zu Basel am 19. Oct. an die ein-",
+  "zelnen Orte der Eidgenossenschaft erliess, war in der baslerischen Herrschaft",
+  "Waldenburg ein Übelthäter ergriffen und zum Tode verurtheilt worden. »Dar-",
+  "(Eidg. Absch. III, 1, S. 241), allein ob derselbe wirklich abgehalten worden,",
+  "und was weiter erfolgt ist, wissen wir nicht. Aus einem Briefwechsel, der in",
+  "Folge eines neuen Falls im August 1479 zwischen Basel und Solothurn statt-",
+  "fand (Missivenb. 281. 283), ist zu entnehmen, dass die Streitigkeiten sich um",
+  "die Ausübung der hohen Gerichtsbarkeit im Dorfe Langenbruck bewegten.",
+  "Vgl. auch Bruckner, Merkwürdigkeiten der Landschaft Basel XIII, 1478 f.",
+  "1) Vgl. unten pag. 182. Über die Gefangennahme, das Verhör und die",
+  "Hinrichtung des Peter Amstalden aus Escholzmatt im Entlibuch und die An-",
+  "schläge der Obwaldner s. Diebold Schillings des Lucerners Schweizer-Chronik",
+  "Aparát: 8. Mediolani aus Mediolano verbessert.",
+  "(Lucern 1862), 97 ff. Segesser, zur Gesch. des Stanserverkommnisses, kleine",
+  "Schriften II, 37 ff., über die Einwendungen der Länder gegen das Burgrecht",
+  "ebenda 25 ff.",
+  "1) Der Ausdruck »cessabit unetio« findet sich auch auf einer Inschrift am",
+  "Basler Münster. S. Beiträge zur Geschichte des Basler Münsters hsgeg. vom",
+  "Basler Münsterbauverein. II (Zur Baugeschichte der Facade. Von E. La",
+  "Roche, Basel 1882), S. 23ff. Auf einem Spruchbande unter einem am Helme",
+  "des St. Georgsthurms angebrachten Kopfe, den La Roche für das Bildniss",
+  "des Werkmeisters Böferlin hält, der um 1426 den Thurm vollendete, stehn",
+  "die Worte: cum venerit sanctus sanetorum, cessabit uncio nostra. Eine Erklä-",
+  "rung derselben auf Grund von Daniel 9, 24 »et ungatur sanetus sanetorum«",
+  "giebt La Roche 8. 28 ff.",
+  "2) 8. Segesser a. a. O. 48ff. Unten 8. 215, 6#.",
+  "3) Vgl. oben 8. 201, 16ff. 202, 26 ff.",
+  "4) 8. oben 8. 177, 10ft.",
+  "5) Vol. 8. 202, 28H. 211, 25f. 215, If.",
+  "Basler Chroniken. III. 14"
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Úsek začíná uprostřed věty z kap. 206. Píšící („qui“) jsou zřejmě Curych a Luzern, kde se Eberler a Meyer stali měšťany, a s nimi Spříseženci. Vischer (aparát): Knebel nechal s. 153b–156b volné pro opis vzájemných listů, ty však nikdy nedopsal. Na horní okraj s. 153b později připsal poznámku o Meyerově smíru a jinou inkoustem nad ni rok 1479.",
+  "[Mai 14] Neděle Cantate 1479 = 9. 5., pátek po ní = 14. 5. 1479 (okrajové datum v OCR zkomolené „119,“, doplněno podle textu). Vischer: podle pergamenové listiny byl Meyer smířen s radou prostřednictvím zvoleného biskupa Kašpara už ve čtvrtek 13. 5. 1479. Měl zaplatit 100 zlatých o letnicích a dalších 75 o Povýšení sv. Kříže (14. 9.), tedy 175, ne 170 jako u Knebela, a do sv. Jana (24. 6.) vypovědět měšťanské právo v Solothurnu. Grünenzwig byl smířen až 13. 1. 1481 rozhodnutím Viléma z Rappoltsteinu: rozsudek byl zrušen a dostal 50 rýnských zlatých náhrady za poškozený domácí majetek.",
+  "Vischer k šibenici u Waldenburgu: podle listu basilejské rady Spřísežencům z 19. 10. 1478 dali Basilejští v panství Waldenburg pověsit odsouzeného zločince na nově postavené šibenici, za přítomnosti Solothurnských. Ti ji pak bez vyzvání porazili a dali basilejskému fojtovi ve Waldenburgu vzkázat po svém běžci „pod svou puškou“, ať přijde, chce-li s tím něco dělat. Šlo o hrdelní soud ve vsi Langenbruck. Zprostředkování Spříseženců přerušilo tažení proti Milánu.",
+  "Detail pro reenactory: městští běžci (louffende botten) nosili podle Vischera na prsou pouzdro („büchse“) s erbem svého města nebo země. Byl to úřední odznak, který jim i za války zaručoval nedotknutelnost.",
+  "Vischer: zajatým úředníkem byl Peter Amstalden z Escholzmattu v Entlebuchu, později popravený (viz Diebold Schilling Lucernský). Spor obcí (Uri, Schwyz, Unterwalden) s Luzernem se týkal měšťanského spolku (burgrecht) měst Curychu, Bernu a Luzernu s Fribourgem a Solothurnem (mimo přepis: 1477), tedy onoho „pozdějšího spolku“. Vischer: výraz „cessabit uncio“ (srov. Dan 9,24) stojí i na nápisu na věži sv. Jiří basilejského dómu.",
+  "Spor Uri s Milánem (mimo přepis): vedl k tažení Spříseženců na Bellinzonu na podzim 1478 a k bitvě u Giornica 28. 12. 1478. „De Uri“ = ti z Uri.",
+  "Špýr: Vischer: zvolen byl Ludvík z Helmstattu. Heseler je kardinál Jiří Hessler (mimo přepis), v kap. 205 „Johannes Hesler“. „Compactata principum“ jsou patrně tzv. konkordáty knížat z doby basilejského koncilu (mimo přepis, 1447), nejisté.",
+  "Opravy textu: do 3. odstavce (Entlebuch) vnikla Vischerova poznámka o waldenburské šibenici (německý výtah z listu rady) a začátek 4. odstavce („Nach demselben ist zwar noch einmal…“). Obojí odstraněno, Knebelova věta („cessabit eorum uncio sicut Romanorum…“) spojena, 4. odstavec sloučen s 3.; odstavec o Meyerově smíru oddělen od 1., počet odstavců (8) tedy zůstal. Dále „Basiliens?dws“ → Basiliensibus, „unccio“ → uncio, „spossunt“ → possunt, „confedeiorati“ → confederati, „imperatoris t)“ → imperatoris, [153] → [153b], I157?] → [157b]. „Centum septuaginta“ a „1478“ (okraj u [157]) ověřeny ve zdroji."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

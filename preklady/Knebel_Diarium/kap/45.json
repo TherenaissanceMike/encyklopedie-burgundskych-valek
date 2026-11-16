@@ -1,0 +1,102 @@
+{
+ "cislo": 45,
+ "nadpis": "Basler Chroniken II, s. 151–152",
+ "nadpis_preklad": "Dobytí La Roche a Mandeure, vánoční počasí, zatčení mincířů v Basileji (prosinec 1474)",
+ "svazek": "II",
+ "strany_edice": [
+  151,
+  152
+ ],
+ "rok": 1474,
+ "rukopis_strana": 168,
+ "odstavce": [
+  {
+   "text": "[168] [Dec. 18–24] Illa septimana preterita clientes domini Johannis episcopi Basiliensis una cum aliquibus Solodrensibus venerunt ad unum castrum montanum, quod dicitur Rupetz, et minis obtinuerunt. in quo invenerunt multas escas et alia belli arma et munimenta, et postquam habuerunt, volebant incendere neque poterant, dimiserunt ibi certos custodes. quod erat domini de Warenbona.",
+   "preklad": "[168] [Dec. 18–24] Minulého týdne přitáhli služebníci pana Jana, biskupa basilejského, spolu s několika Solothurnskými k jednomu horskému hradu, který se jmenuje Rupetz (La Roche), a výhrůžkami ho získali. Našli v něm mnoho potravin a jiné válečné zbraně a zásoby. Když ho měli, chtěli ho zapálit, ale nemohli, [a tak] tam nechali několik strážců. [Hrad] patřil pánu z Varembonu."
+  },
+  {
+   "text": "[Dec. 18–21] Eadem septimana Valentinus de Nuwenstein, capitaneus Basiliensium, Ulricus Mellinger et alii soldati Basiliensium et confederatorum, qui erant in Montispolgardo, obtinuerunt quoddam castrum, quod situm est in paludibus, nomine Manne, quod erant medium domini Wirtenberg et medium Bisuntinensis. sed dominus dux Burgundie acceperat pro se. hoc obtinuerunt et multam predam in eo acceperunt, et ibidem fecerunt custodiam.",
+   "preklad": "[Dec. 18–21] Téhož týdne Valentin z Neuensteinu, hejtman Basilejských, Oldřich Mellinger a jiní žoldnéři Basilejských a Spříseženců, kteří byli v Montbéliardu, dobyli jakýsi hrad ležící v bažinách jménem Manne (Mandeure), který patřil napůl pánu z Württemberka a napůl [arcibiskupovi] besançonskému; vévoda Burgundský si ho však vzal pro sebe. Toho [hradu] dobyli, získali v něm velkou kořist a zřídili tam stráž."
+  },
+  {
+   "text": "Eodem tempore viguit magna pestis in illis partibus, et commeta, qui alias precessit, recte hoc futurum prenunciavit, videlicet bellum, quia undiquaque per totum orbem fiunt bella, et nullibi pax est, et ille dyaboli filius dux Karolus Burgundie totam Christianitatem commovet, tantum effecit, ut papa cum rege Aragonum et Sicilie et omnibus principibus et civitatibus Romanie, Tuscanie, Lumbardie, Pedemontanorum et Mediolani se contra Almanos colligarent, tantumque effecit ut omnes Alamani se colligarent et confederarent contra ipsum Karolum, assumentes ad eos regem Francie. et ipse maledictus Burgundus habet pro suo adjutorio Selandos, Probantinos, Holandos, Flamingos, Anglos, Brittanos, Piccardos et alias adjacentes provincias. [169] et ab alia parte infestat Thurcus usque ad fines Athasis et ab alia parte Aquilegium et Saltzburgensem episcopatum.",
+   "preklad": "Téhož času řádil v oněch krajích velký mor. A kometa, která se ukázala už dříve, správně předpověděla, že to přijde, totiž válku: všude po celém světě se vedou války a nikde není mír. Ten syn ďáblův, Karel, vévoda Burgundský, pobuřuje celé křesťanstvo. Tolik dokázal, že se papež s králem aragonským a sicilským a se všemi knížaty a městy papežských zemí (Romania), Toskánska, Lombardie, Piemontu a Milána spolčili proti Němcům, a tolik dokázal, že se všichni Němci spolčili a spřisáhli proti samotnému Karlovi a přibrali si k sobě krále francouzského. A ten prokletý Burgunďan má na pomoc Zélanďany, Brabanťany, Holanďany, Flámy, Angličany, Bretonce, Pikarďany a jiné přilehlé země. [169] A z druhé strany útočí Turek až k hranicím [na řece] Adiži a z jiné strany na Akvileju a solnohradské biskupství."
+  },
+  {
+   "text": "Mutatur annus et indiccio. Anno domini millesimo quadringentesimo septuagesimo quinto, indiccione octava, pontificatus sanctissimi in Christo patris et domini nostri, domini Sixti pape quarti, anno quarto: [Dec. 25] Die nativitatis domini fuit pluvia et inde gelu.",
+   "preklad": "Mění se rok a indikce. Léta Páně tisícího čtyřstého sedmdesátého pátého, v osmé indikci, ve čtvrtém roce pontifikátu nejsvětějšího v Kristu otce a pána našeho, pana Sixta, papeže čtvrtého: [Dec. 25] V den Narození Páně pršelo a potom mrzlo."
+  },
+  {
+   "text": "[Dec. 26] Die lune sequenti fuit clara dies flante austro.",
+   "preklad": "[Dec. 26] V následující pondělí byl jasný den a vál jižní vítr (auster)."
+  },
+  {
+   "text": "[Dec. 27] Die martis fuit clara dies flante eodem.",
+   "preklad": "[Dec. 27] V úterý byl jasný den a vál týž vítr."
+  },
+  {
+   "text": "[Dec. 28] Die mercurii mane fuit clarum tempus et post cepit flare meridionalis, qui continuavit usque ad sabbatum, et quia prius erat terra frigore gelata, supervenit ex vento caliditas, terra fuit omnino congelata et glaciosa, ita quod arbores et vites apparerent cristalline et timebatur de congelacione et periculo vitium.",
+   "preklad": "[Dec. 28] Ve středu ráno bylo jasno a potom začal vát polední vítr, který trval až do soboty. A protože země byla předtím zmrzlá mrazem, přišlo s větrem teplo [a] země byla celá zamrzlá a pokrytá ledem, takže stromy a vinné keře vypadaly jako z křišťálu, a obávali se, že vinná réva pomrzne a vinice utrpí škodu."
+  },
+  {
+   "text": "[Dec. 30] Die veneris fuit bona aura, et eadem die exiverunt de Basilea juvenes socii, qui egebant peccunia et armis erant instructi et consueti, cum domino Hermanno de Eptingen balivo domini ducis Austrie, qui collegit exercitum mille et quadringentorum virorum peditum et trecentorum equestrium, volens cum eis intrare Burgundiam superiorem. deus prosperetur eis.",
+   "preklad": "[Dec. 30] V pátek bylo pěkné počasí. Téhož dne vytáhli z Basileje mladí druhové, kteří potřebovali peníze a byli ozbrojeni a ve zbrani zběhlí, s panem Heřmanem z Eptingenu, zemským fojtem pana vévody Rakouského. Ten sebral vojsko o tisíci čtyřech stech pěších a třech stech jezdcích a chtěl s nimi vtrhnout do Horního Burgundska. Bůh jim dej zdar."
+  },
+  {
+   "text": "[170] Penestica. Penestica habuit venales a me septem ollas eneas, de quibus vendidit unam parvam pro 1½ solidis.",
+   "preklad": "[170] Vetešnice. Vetešnice měla ode mne na prodej sedm bronzových hrnců, z nichž jeden malý prodala za 1½ šilinku."
+  },
+  {
+   "text": "[Dec. 31] Anno domini 1475 ultima mensis decembris fuerunt capti tres cives Basilienses et positi ad caveas, videlicet monetarius civitatis, Johannes Hützschin campsor, et Johannes Ber famulus Johannis Zscheckapurlin. Johannes autem Zscheckapurlin cum duobus filiis suis, Johannes Yrmi et Ulricus zem Lufft jurarunt non velle alienare se et bona sua a civitate Basiliense. Mathias autem Grünenzwig campsor civitatis clam fugit. cujus bona omnia fuerunt conscripta et arrestata per consulatum civitatis Basiliensis. et illa fuit fama, quia",
+   "preklad": "[Dec. 31] Léta Páně 1475 posledního dne měsíce prosince byli zajati tři basilejští měšťané a vsazeni do vězení, totiž městský mincmistr, Jan Hützschin, směnárník, a Jan Ber, služebník Jana Zscheckapürlina. Jan Zscheckapürlin se svými dvěma syny, Jan Irmi a Oldřich zem Luft pak přísahali, že se ani se svým majetkem nevzdálí z města Basileje. Matyáš Grünenzweig, městský směnárník, však tajně uprchl; všechen jeho majetek byl sepsán a obstaven radou města Basileje. A pověst byla ta, že […]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 4. escas steht zweimal. 26. Hs. Probatinos. 27. Hs. alios.",
+  "1) Am 24. Dec. schreibt Basel, das den Eidgenossen schon vorher die",
+  "Einnahme von Mandeure berichtet hatte, an Zürich, dass ihm von dem Kanz-",
+  "ler des Bischofs der von diesem eingetroffene Bericht mitgetheilt worden, »wie",
+  "die sinen dis tag vergangen ouch ein schlosz genant Ala Rotzscha, zu Tützsch",
+  "zum Velsz, eroberet haben, ouch zü gegenwer der vyend wol gelegen und die-",
+  "nende, weliches schlosses die herren von Barawon sich grafen geschriben",
+  "haben, ouch mit begerung an uns ze wissen, wie er sich damit halten, ob er",
+  "das besetzen oder brechen lassen solle, denn das in velsz gehouwen und nit ze",
+  "brennen sye. Missivenb. XIV, 26. Das Schloss La Roche lag über dem",
+  "rechten Ufer des Doubs, östlich von St. Hippolyte. Ueber die Herren von",
+  "Varembon, Grafen von la Roche s. oben 8. 105 A. 5.",
+  "2) Mandeure, südl. von Mümpelgart, am rechten Ufer des Doubs. Die",
+  "Eidgenossen stellten es dem Ermessen der Basler anheim,, ob die beiden er-",
+  "oberten Schlösser gebrochen oder besetzt gehalten werden sollten. Eidg.",
+  "Absch. II, 523. Nr. 770£. |",
+  "3) Vgl. 8. 14, 3#.",
+  "Dec. 25",
+  "Dec. 26",
+  "Dec. 27",
+  "Dec. 28",
+  "=)",
+  "®",
+  "©",
+  "Dec. 30",
+  "Dec. 31",
+  "1) Trödlerinn. 2) Wohl aus der Erbschaft der Mutter. $. oben",
+  "SL 20028, 3) Ludwig Gesell. 4) Vielmehr Balthasar. 5) Der",
+  "Altoberstzunftmeister. 6) Ludwig und Hans. 7) Ausserdem nach",
+  "Oefinungsb. V, 126b noch Andres Bischoff, Lienhart und Hans Eberler zum",
+  "Gold. 8) Matthias Eberler zum Aoteteia; genannt Grünenzweig.",
+  "9) Ueber diese ganze Angelegenheit s. ausser dem, was Knebel hier er-",
+  "zählt, unten 8. 157,13, pag. 398 und die in den Beilagen abgedruckten Stellen",
+  "aus dem Oeffnungsbuch u.8.w."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Data: Vischerova okrajová data [Dec. 18–24] a [Dec. 18–21]. Knebel počíná rok Vánocemi, proto „1475“: Boží hod = neděle 25. 12. 1474, pondělí 26. 12., úterý 27. 12., středa 28. 12., pátek 30. 12., „poslední den prosince 1475“ = 31. 12. 1474. Indikce 8 a 4. rok Sixta IV. sedí na rok 1475.",
+  "Vischer k Rupetz: Basilej 24. 12. psala do Curychu, že biskupovi lidé dobyli hrad „Ala Rotzscha“ (La Roche) nad pravým břehem Doubsu východně od St-Hippolyte; je vytesán ve skále, a proto ho nelze vypálit. Páni z Varembonu se psali hrabaty z La Roche. Manne = Mandeure, jižně od Montbéliardu na Doubsu. Spříseženci nechali na Basilejských, zda oba hrady zbořit, nebo obsadit.",
+  "Opravy OCR: „Solodrensedus“ → Solodrensibus, „set munimenta“ → et, „maledicetus“ → maledictus, „fuitt“ → fuit, „11/,“ = 1½, „[iss]“ = [168], „(1707|“ = [170]. Z textu odstraněna okrajová data „18—24 18—21“ a do odstavce vlepené řádky aparátu („Das gesperrt Gedruckte steht als Ueberschrift …“). Původní odstavec o počasí rozdělen na jednotlivé dny a zápis o vetešnici osamostatněn.",
+  "Aparát: „Probaxtinos“ v OCR, v rukopisu „Probatinos“, tj. Brabanťané. V rukopisu „alios“ místo alias. „Mutatur annus“ a „Penestica“ jsou v rukopisu nadpisy.",
+  "„Romania“ u Knebela znamená papežské země (srov. Ronciglione „in Romania“, kap. 48). Kometou míní Knebel kometu zmíněnou dříve (Vischer odkazuje na s. 14).",
+  "Vischer: Penestica = vetešnice (Trödlerin); hrnce asi pocházely z dědictví po Knebelově matce.",
+  "Vischer k zatčeným: mincmistrem byl Ludwig Gesell; směnárník se jmenoval ve skutečnosti Balthasar (Hützschi), ne Johannes (Knebel to sám opravuje v kap. 47); Jan Zscheckapürlin byl bývalý nejvyšší cechmistr, jeho synové Ludwig a Hans; přísahali i Andres Bischoff, Lienhart a Hans Eberler zum Gold; Grünenzweig = Matthias Eberler. Úsek končí uprostřed věty, pokračuje kap. 46."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

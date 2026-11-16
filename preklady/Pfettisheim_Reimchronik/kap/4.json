@@ -1,0 +1,65 @@
+{
+ "cislo": 4,
+ "nadpis": "Tobler 1917, s. 15",
+ "nadpis_preklad": "Vyplacení zástavy a obléhání Neussu (1474)",
+ "strana_edice": 15,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Ob sich die sach also begab, / Die lant schaff sich beclaget, / Wie hagenbach, der nasse knab , / Das volck so gar benaget.",
+   "preklad": "Když se věc takto sběhla, / země si stěžovala, / jak ji Hagenbach, ten mazaný chlapík, / tolik ohlodal.",
+   "vers_od": 95
+  },
+  {
+   "text": "Der Edel fürst von österich / Mit andern bunds genossen / Gon basel fuogten sie do sich, / Do ward die sach beslossen.",
+   "preklad": "Urozený kníže rakouský / s ostatními spojenci / se sešli v Basileji, / tam byla věc usnesena.",
+   "vers_od": 99
+  },
+  {
+   "text": "Man solt die houbt sum legen dar, / Gon burgund das verschriben; / Er wolt daz gelt nicht / das ist war, / Sin hochmuot wolt er triben.",
+   "preklad": "Měla se tam složit zástavní jistina, / to bylo písemně oznámeno Burgundsku; / on ty peníze nechtěl, to je pravda, / chtěl dál provozovat svou pýchu.",
+   "vers_od": 103
+  },
+  {
+   "text": "Als er nuon je daz gelt nicht wolt, / Den schaden muost er haben, / Man hats zuo stüre an dem solt / Vnd ließ glück inher traben.",
+   "preklad": "Když tedy ty peníze nikterak nechtěl, / musel nést škodu: / použili je jako příspěvek na žold / a nechali štěstí přiklusat.",
+   "vers_od": 107
+  },
+  {
+   "text": "Vff fritag vor sant iocobs tag , / Hab ich echt / recht vernummen, / Hertzog karle von burgund pflag / Gon nüsß in leger kummen.",
+   "preklad": "V pátek před svatým Jakubem, / slyšel-li jsem dobře a správně, / vévoda Karel Burgundský / přitáhl do ležení před Neuss.",
+   "vers_od": 111
+  },
+  {
+   "text": "Gesthach als in dem selben ior, / Als ich hab hie vor gemeldt. / Vil büchssen logent ouch do vor, / Dar zuo hat er vil geczelt.",
+   "preklad": "Stalo se to v témže roce, / jak jsem zde výše uvedl. / Před městem leželo také mnoho děl / a k tomu měl mnoho stanů.",
+   "vers_od": 115
+  },
+  {
+   "text": "Do lag er by ein gantzes ior / Villicht mynder dry wochen, / Vnd die von nüsß gar offembor / Hant im vil lüt erstochen.",
+   "preklad": "Ležel tam skoro celý rok, / snad o tři týdny méně, / a ti z Neussu zcela zjevně / mu pobili mnoho lidí.",
+   "vers_od": 119
+  },
+  {
+   "text": "Der keyser friderich kam ouch dar / Gar nohe zuo sinem leger, / Des frowt sich nüsß von hertzen gar, / Als des gewilds der ieger.",
+   "preklad": "Přitáhl tam také císař Fridrich / velmi blízko k jeho ležení; / z toho se Neuss radoval ze srdce / jako lovec ze zvěře.",
+   "vers_od": 123
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "= geriebener Bursche.",
+  "= Beitrag an den Sold.",
+  "22. Juli 1474. Schilling I, 165."
+ ],
+ "poznamky_prekladu": [
+  "v. 97 „nasse knab“ = mazaný, prohnaný chlapík (pozn. editora).",
+  "v. 99–102: jednání v Basileji na jaře 1474 – Zikmund Rakouský a Dolní spolek (alsaská a hornorýnská města) složili peníze na vyplacení zástavy u Karla Smělého (mimo text).",
+  "v. 103 „houbt sum“ = jistina, zástavní suma; v. 105 „Er“ = Karel Smělý, který vyplacení odmítl.",
+  "v. 109 „stüre an dem solt“ = příspěvek na žold (pozn. editora).",
+  "v. 111: pátek před sv. Jakubem = 22. července 1474 (pozn. editora; Schilling I, 165). Obléhání Neussu u Kolína nad Rýnem trvalo do června 1475 (mimo text).",
+  "Fridrich III. Habsburský, římský císař; říšské vojsko přitáhlo k Neussu v květnu 1475 (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,133 @@
+{
+ "cislo": 101,
+ "nadpis": "Basler Chroniken II, s. 322–325",
+ "nadpis_preklad": "Kapitulace Nancy, příměří z Neuchâtelu; výzbroj Matyáše Korvína proti Turkům (1475)",
+ "svazek": "II",
+ "strany_edice": [
+  322,
+  325
+ ],
+ "rok": 1475,
+ "rukopis_strana": 431,
+ "odstavce": [
+  {
+   "text": "[Nov. 27] Die lune 27. mensis novembris, cum dux Lothoringie non voluisset neque potuisset defendere eos, qui Nanse erant, nec ipsi in civitate haberent quo se defenderent, neque alimenta eis sufficerent (et referebat michi dominus Ludowicus de Eptingen miles, quod in recessu nobilium et soldatorum non remansissent in civitate 60 panes, nec haberent frumenta, que molirentur), cogitabant quomodo ipsi exire possent, tractaverunt pacem cum duce Burgundie ita ut incolis injuriam non facerent, quin ymmo eos benigne susciperet et eos in domibus et habitis remanere atque advenas cum pace ad propria remeare permitteret. sicque factum est, ut hiis omnibus assentirent, et incole ut suo domino naturali obedienciam facerent et jurarent, et advene, videlicet soldati Argentinensium et nobiles illius patrie et alii tam equestres quam pedites sine injuria et cum bonis ac rebus suis recederent.",
+   "preklad": "[Nov. 27] V pondělí 27. dne měsíce listopadu: protože vévoda Lotrinský nechtěl a nemohl hájit ty, kdo byli v Nancy, oni sami neměli ve městě čím se bránit a nestačily jim ani potraviny (a vyprávěl mi pan Ludvík z Eptingenu, rytíř, že při odchodu šlechticů a žoldnéřů nezůstalo ve městě ani 60 bochníků chleba a neměli ani obilí, které by semleli), přemýšleli, jak by mohli vyjít. Vyjednali s vévodou Burgundským mír, a to tak, aby obyvatelům neublížil, ba naopak je laskavě přijal a nechal je zůstat v jejich domech a statcích, a cizince aby nechal v míru odejít domů. A stalo se, že [strany] na to všechno přistoupily: obyvatelé měli složit poslušnost a přísahu jemu jako svému přirozenému pánu, a cizinci, totiž žoldnéři Štrasburských, šlechtici té země a jiní, jak jezdci, tak pěší, měli odejít bez úhony se svými statky a věcmi."
+  },
+  {
+   "text": "[431] Eodem tempore dominus dux Lothoringie, accepta turba 20000 equitum, intravit ducatum Barensem et disposuit, ut totus ducatus juraret domino regi Francie et sic sub sua tuicione remaneret.",
+   "preklad": "[431] Téhož času pan vévoda Lotrinský vzal houf 20 000 jezdců, vtáhl do vévodství Barského a zařídil, aby celé vévodství přísahalo panu králi francouzskému a zůstalo tak pod jeho ochranou."
+  },
+  {
+   "text": "Eodem tempore, cum dux Burgundie misisset suos oratores ad Novumcastrum prope lacum, et omnium colligatorum oratores fuissent ibidem, fuit conclusum, quod essent treuge et pax usque ad festum circumcisionis domini, quas treugas si colligati addicerent infra eundem terminum, quod extunc fierent alie treuge per tres alios menses sequentes, et medio tempore dominus Rudolfus marchio de Hachberg constitueret dietam ad dictum opidum super principali negocio tractando usque ad primam mensis aprilis et super danda responsione.",
+   "preklad": "Téhož času, když vévoda Burgundský poslal své vyslance do Neuchâtelu u jezera a byli tam i vyslanci všech spojenců, bylo usneseno, že bude příměří a mír až do svátku Obřezání Páně. Přijmou-li spojenci toto příměří v téže lhůtě, bude potom uzavřeno další příměří na další tři následující měsíce, a mezitím pan Rudolf, markrabě z Hachbergu, svolá do řečeného města sněm k jednání o hlavní věci, [a to] do prvního dne měsíce dubna, a k podání odpovědi."
+  },
+  {
+   "text": "[Dec. 5] In profesto sancti Nicolai episcopi in Basilea oratores omnium colligatorum fuerunt congregati in stuba institorum dicta ad Crocum.",
+   "preklad": "[Dec. 5] V předvečer sv. Mikuláše biskupa se v Basileji shromáždili vyslanci všech spojenců v cechovní světnici kramářů, zvané U Šafránu (ad Crocum)."
+  },
+  {
+   "text": "Dominus rex Hungarie ordinavit expedicionem fieri contra Thurcum in modum subscriptum:\nVom kung von Hungern. Item in dem ersten anfang den zug den allergnedigister herre herr Mathias küng zü Hungern wider die Türken meint zü tünd und sin gnod zügericht hatt, und was zü Ofen uszgon wirt uff dem wasser und uff dem land.\nItem sin hofgesind, bischoff, lantschafft, ritter und andre herren und soldener, arm und rich, by Buda uff 70000 mann. item der Steffan Weyda hatt uff 80000 mann usz der Molda. item der Drackolo ligt zwischen der Molda und Sibenburgen an der Saw mit 4000 mannen. item der Hussz hatt in dem lant Wulgaria die höbtstatt mit anderthalb tusent mannen wider den Turken. [432] item die Venediger hand dem kung von Hungern zweimol hundert tusent guldin zü hilff geschickt und wellent öch uff sin mit ir macht wider die unglöbigen. item der küng von Bossen hatt uff 4000 mann.",
+   "preklad": "Pan král uherský nařídil uspořádat výpravu proti Turkovi tímto způsobem:\nO králi uherském. Předně o samém počátku tažení, které nejmilostivější pán, pan Matyáš, král uherský, zamýšlí podniknout proti Turkům a k němuž se jeho milost připravila, a o tom, co vyjde z Budína po vodě i po zemi.\nDále jeho dvořané, biskupové, zemští stavové, rytíři a jiní páni i žoldnéři, chudí i bohatí, u Budína na 70 000 mužů. Dále Štěpán vojvoda má na 80 000 mužů z Moldavy. Dále Drakula leží mezi Moldavou a Sedmihradskem na Sávě se 4000 muži. Dále Husz drží v zemi Bulharské hlavní město s půldruhým tisícem mužů proti Turkům. [432] Dále Benátčané poslali uherskému králi na pomoc dvakrát sto tisíc zlatých a chtějí také se svou mocí vytáhnout proti nevěřícím. Dále bosenský král má na 4000 mužů."
+  },
+  {
+   "text": "Vermerckt was zü Ofen uszgon würt von buchsen und anderer zügehörd und notdurfft: Item 12 grossz höbtbuchsen; item 30 fierteilbuchsen; item 107 huffindisbuchsen; item 200 tarraszbuchsen; item 3000 hackenbuchsen; item 2000 handbuchsen; item 40 strytwegen; item 104 strytkarren; item 8 schliden; item 340 centener bulfers; item fünf dryling furpfil; item 12 dryling huszpfil; item 7 dryling fürkügiln; item 4000 tierspyessz; item 2000 ysen trischel; item 2 wolgeladen wegen mit krampen; item ein grosz wolgeladen trantzili mit beschlagnen schuflen; item 1500 güter nuwer windenarmbrest; item 8 wagner mit ir zügehörung; item 100 buchsenmeister; item 32 schmid; item 10 steinmetzen; item 40 zimmerlüt; [433] item 12 bogner mit ir zügehör; item 644 schiff klein und grosz sind zügerust mit aller notdurfft und volk; item 1700 dryling mit gütes melwes; item 3000 gederter Öchsen; item ander spysz und notdurfft von virnens hirsz, smaltz, kese, unschlitt, wintliecht, smer on zal; item uff den schiffen sind stuben, kammern, kemmin, badstuben, schmitten und bachöfen, als wol zügerüst; item 500 ysenketten; item 700 mürhocken; item 3500 ryszhocken; item 500 stygleytern; item 26 lang brucken; item setztartschen on zal; item ander nützspysz für des kungs gnod, 4000 lebend gense werdent mitgefürt; item kappun und hünre on zal; item zal der wagenburg und wegen kan man nit wissen. item das volk, dasz sich bereit hatt zü rossz, ist als versehen, es sy uff wasser oder uff land.",
+   "preklad": "Poznamenáno, co vyjde z Budína z děl a jiného příslušenství a potřeb: Dále 12 velkých obléhacích děl (bombard); dále 30 čtvrťových děl (fierteilbuchsen); dále 107 houfnic [?] (huffindisbuchsen); dále 200 tarasnic; dále 3000 hákovnic; dále 2000 ručnic; dále 40 bojových vozů; dále 104 bojových kár; dále 8 „schliden“ [?]; dále 340 centů prachu; dále pět sudů (dryling) zápalných šípů; dále 12 sudů šípů „huszpfil“ [?]; dále 7 sudů zápalných koulí; dále 4000 oštěpů („tierspyessz“) [?]; dále 2000 železných cepů; dále 2 dobře naložené vozy se skobami (krampen); dále jedna velká, dobře naložená „trantzili“ [?] s okovanými lopatami; dále 1500 dobrých nových kuší s navijákem; dále 8 kolářů s jejich příslušenstvím; dále 100 puškařů (mistrů dělostřelby); dále 32 kovářů; dále 10 kameníků; dále 40 tesařů; [433] dále 12 lučištníků s jejich příslušenstvím; dále 644 lodí malých i velkých, vypravených se vším potřebným i s lidmi; dále 1700 sudů dobré mouky; dále 3000 sušených volů; dále jiná strava a potřeby: loňské proso, sádlo, sýr, lůj, svíce do větru (lucerny), mazivo bez počtu; dále jsou na lodích světnice, komory, krby, lázně, kovárny a pekařské pece, vše dobře vypravené; dále 500 železných řetězů; dále 700 zedních háků; dále 3500 strhávacích háků; dále 500 útočných žebříků; dále 26 dlouhých mostů; dále stavěcí pavézy bez počtu; dále jiná užitečná strava pro jeho královskou milost: veze se s sebou 4000 živých hus; dále kapouni a slepice bez počtu; dále počet [vozů] vozové hradby a vozů se nedá zjistit. Dále lid, který se připravil na koních, je dobře zaopatřen, ať po vodě, nebo po zemi."
+  },
+  {
+   "text": "[Oct. 8] Anno etc. 75 hatt unser heiliger vatter der bobst unserm herren dem kung zü Hungern gesant ein grawen biberhüt, usswendig schon gezierdt mit perlin und mitt gold, innwendig schon mit hermlin verfutret, und ein swert köstlich gezierdt mit silber und mit gold und meisterlich gemacht. die zwey kleinot [434] hatt unser heiliger vatter der bobst selbs gesegnet und am suntag disz jors vor Dyonisii wurden dise gesegnete kleinot mit grosser wirdikeit und procession getragen von sant Jergen kilchen gelegen in der statt zü Ofen an dem rinck bisz zü unser lieben frowen kilchen, die ist die hochste pfarrkilch, und in der pfarrkirche woren bischoff, prelaten, priester, geistlich und weltlich, burger und gemein volk der statt Ofen, und in der kilchen unser frowen ward ein ampt gesungen ins ere der heiligen trifaltikeit, und in dem opfer gieng des kungs gnod und knüwet zü hand nider für den altar, do was herre Gabriel bischoff zü Sibenburg und des Römischen stüls legat und satztend dem küng den hüt uff und gurten im das swert umb, das geschach mit vil schönen gebetten und lobsang. dornoch ward das ampt zü ende gesungen, und der kung mit grosser menge des volks in das schlossz beleit.",
+   "preklad": "[Oct. 8] Léta atd. 75 poslal náš svatý otec papež našemu pánu, králi uherskému, šedý bobří klobouk, zvenčí krásně zdobený perlami a zlatem, uvnitř krásně podšitý hermelínem, a meč skvostně zdobený stříbrem a zlatem a mistrovsky zhotovený. Ty dva klenoty [434] náš svatý otec papež sám požehnal. V neděli před sv. Divišem tohoto roku byly tyto požehnané klenoty s velkou slávou a v procesí neseny z kostela sv. Jiří, který leží v městě Budíně na náměstí (an dem rinck), až do kostela Panny Marie, jenž je nejvyšším farním kostelem. V tom farním kostele byli biskupové, preláti, kněží, duchovní i světští, měšťané a prostý lid města Budína. V kostele Panny Marie byla zpívána mše ke cti Nejsvětější Trojice a při obětování šla jeho královská milost [k oltáři] a hned před oltářem poklekla. Tam byl pan Gabriel, biskup sedmihradský a legát římské stolice, a nasadili králi klobouk a připásali mu meč; to se stalo za mnoha krásných modliteb a chvalozpěvů. Potom byla mše dozpívána a krále doprovodilo velké množství lidu na hrad."
+  },
+  {
+   "text": "Sust ein zedel: Ouch lasz ich dich wissen, dasz uff gestret mentag unser herre der keyser graff Otten von Sunnenberg, dem erwelten von Constantz, all sin regalia bestet hatt und im alle schlosz inzegeben gebotten hatt.",
+   "preklad": "Ještě jeden lístek: Také ti dávám vědět, že včera v pondělí náš pán císař potvrdil hraběti Ottovi ze Sonnenbergu, zvolenému [biskupovi] kostnickému, všechna jeho regália a přikázal, aby mu byly vydány všechny hrady."
+  },
+  {
+   "text": "[435] Partes ducis Burgundie: videlicet serenissimi et potentissimi principes, Anglie, Scocie, Portugalie seu Lusitanie, Neapolitanie, Arrogonie, Castelle, Dacie, Ungarie Polonieque reges, Britanie, Sabaudie, Mediolani, Clevie et Jüllers duces, ducissa Sabaudie, archiepiscopus Colonie, Leodiensis, Trajectensis et Metensis episcopi, dux et domini Venetorum, comes palatinus, comes Montis Rotundi atque domus Sabaudie.",
+   "preklad": "[435] Strana vévody Burgundského: totiž nejjasnější a nejmocnější knížata, králové Anglie, Skotska, Portugalska čili Lusitánie, Neapolska, Aragonie, Kastilie, Dánska (Dacia), Uher a Polska, vévodové Bretaně, Savojska, Milána, Klévska a Jülichu, vévodkyně Savojská, arcibiskup kolínský, biskupové lutyšský, utrechtský a metský, dóže a páni benátští, falckrabě, hrabě z Romontu (comes Montis Rotundi) a dům savojský."
+  },
+  {
+   "text": "Partes domini nostri Sigismundi ducis Austrie: invictissimus serenissimusque, illustrissimi et reverendi principes, duces et domini: Romanorum imperator, rex Francie, episcopi Argentinensis et Basiliensis et Sedunensis comes et prefectus Vallisie, dominus Lothoringie dux, comes Montispolgardi magnificeque communitates dominorum de liga magna Almanie superioris cum suis coherentibus excelseque respublice civitatum et opidorum Argentinensis, Basiliensis, Columbarie, Slettstatt, Oberehenheym, Keysersperg, Munster, Roszheym, Thurkeim cum ceteris sibi adjunctis, et capitaneus totique decimarii provincie universalis Vallisie, Bernenses, Solodrenses, Lutzernenses, Thuricenses, Glaris, Underwalden, Switz, Ury, Urseren, Frutingen, Etlibuch cum aliis confederatis.",
+   "preklad": "Strana našeho pána Zikmunda, vévody Rakouského: nepřemožitelný a nejjasnější, nejjasnější a důstojná knížata, vévodové a páni: římský císař, král francouzský, biskupové štrasburský a basilejský a [biskup] sionský, hrabě a prefekt Valais, pan vévoda Lotrinský, hrabě z Montbéliardu a vznešené obce pánů z velkého spolku Horního Německa s jejich přidruženými a vznešené obce měst a městeček Štrasburk, Basilej, Colmar, Schlettstadt, Obernai (Oberehnheim), Kaysersberg, Munster, Rosheim, Türkheim s ostatními k nim připojenými, a hejtman a všechny desátky (Zenden) celé země Valais, Bernští, Solothurnští, Luzernští, Curyšští, Glarus, Unterwalden, Schwyz, Uri, Urseren, Frutigen, Entlebuch s ostatními Spříseženci."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 4—7. Die eingeklammerten Worte stehn am Rande ohne Verweisung auf eine bestimmte",
+  "Stelle des Textes. 8. et. 13. ut. 15. cum fehlt. 24. infra steht zweimal.",
+  "1) In dem Bande A. G. 5 des Staatsarchivs Basel Bl. 85ff. finden sich",
+  "eine Anzahl Aufzeichnungen und Actenstücke abschriftlich mitgetheilt, welche",
+  "die auf dem Tage zu Neuenburg eröffneten Friedensverhandlungen betrefien,",
+  "unter anderm der am 29. Nov. zu Neuenburg von dem Markgrafen sowie den",
+  "Abgeordneten des Herzogs von Burgund, des Herzogs von Oesterreich und",
+  "der Stadt Bern im Namen beider Parteien besiegelte »abscheid«, der die",
+  "Einstellung der Feindseligkeiten bis zum 1. Januar anordnet und bestimmt,",
+  "dass der Entwurf zu einem Waffenstillstand (»bestand«) vom 1. Januar bis",
+  "zum 1. April, während dessen über den Abschluss des Friedens unterhandelt",
+  "werden sollte, den Parteien mitgetheilt werde, die sich bis zum 1. Jan. dar-",
+  "über auszusprechen hätten, ferner dieser Entwurf selbst. Beide Actenstücke,",
+  "der »abscheid« und der Entwurf zum »bestand«, sind in deutscher und in latei-",
+  "nischer Fassung mitgetheilt. Das bei Zellweger, Urkunden zur Geschichte",
+  "des appenzellischen Volkes Nr. 477 (II, 1, 8. 457ff.) aus der Abscheiden-",
+  "Sammlung des Schultheiss von Mülinen abgedruckte Actenstück, das Zell-",
+  "Aparát: 6. Das gesperrt Gedruckte steht als Ueberschrift.",
+  "weger selbst und Gingins, dep£ches I, 383 A. 1 für die Verbriefung eines",
+  "wirklich abgeschlossenen Waffenstillstandes halten (vgl. Eidg. Absch. II,",
+  "S. 576 £.) ist nichts anderes als eben die deutsche Fassung dieses Entwurfs.",
+  "1) Das Zunfthaus der Krämer, zum Safran, liegt am ehemaligen Rinder-",
+  "markt, dessen Namen man in neuerer Zeit in dem der Gerbergasse hat auf-",
+  "gehn lassen.",
+  "2) Ein Bericht über die Rüstungen des Königs von Ungarn gegen die",
+  "Türken, dem hier mitgetheilten verwandt und demselben Originalbericht ent-",
+  "stammt, in seiner Fassung von dem unsrigen aber ziemlich verschieden und",
+  "mit manchen abweichenden Angaben, findet sich in der Speierischen Chronik",
+  "bei Mone I, 519. Wir überlassen es dem Forscher, die Angaben der beiden",
+  "selbst mit einander zu vergleichen, und verzichten daher darauf, die Abwei-",
+  "chungen alle hier namhaft zu machen. Dagegen ziehn wir in den Anmerkun-",
+  "gen Einiges heran, was zum bessern Verständniss unseres Textes mit beitragen",
+  "kann. Ueber den Originalbericht giebt die Sp. Ch. Auskunft, indem sie",
+  "ihren Bericht mit den Worten schliesst: Item disz obgemelt ding hat der ratt",
+  "und die burger von Offen dem ratt gein Wyen geschriben ete.",
+  "3) Die Sp. Ch. hat: by 18 tusent. 4) Sp. Ch.: der Draco.",
+  "5) Sp. Ch.: der Hussa Hossa.",
+  "6) Diese nennt die Sp. Ch. nicht. Sollten sie mit den Streitkarren (s. die",
+  "folgende Anmerkung) zusammenhängen?",
+  "Yale:",
+  "Oct. 8",
+  "Aparát: 9. bongner. 36. Unsicher, ob gieng oder giengen.",
+  ") Sp. Ch.: hundert und 4 buchszen, da ychlich off einem karch Iyt.",
+  ") Sp. Ch.: 8 schluder, da man die stein in wurfft.",
+  ") Sp. Ch.: 2 tusen ysenen flegell oder dryschell.",
+  ") Sp. Ch.: 2 wagen mit fuszyszen.",
+  ") Sp.Ch.: ein grossz danaüschiff oder zullen mit schuffeln und schuppfen.",
+  ") Sp. Ch.: 12 schuttzenmeister mit irre zugehorde.",
+  "Aparát: 12. u. 19. Das gesperrt Gedruckte steht als Ueberschrift.",
+  "1) Ueber diese päbstlichen Geschenke und die mit denselben veranstaltete",
+  "Feierlichkeit enthält der Bericht der Speierischen Chronik nichts.",
+  "2) Bei Kopp, Geschichtsblätter II, 69 ist ein Brief des Kaisers an die",
+  "Stadt Luzern, datiert Nördlingen, Oct. 31, abgedruckt, in welchem er ihr an-",
+  "zeigt, er habe »Otten erwelten zu bischoven zu Costentz« als solchem »sein",
+  "und desselben stifts zu Costentz regalia und weltlicheit geraicht und verlihen«.",
+  "Er fordert sie daher bei Verlust aller ihrer Freiheiten und bei Strafe von 100",
+  "Pfund löthigen Goldes auf, denselben bei solcher kaiserlicher Verleihung zu",
+  "schützen und zu schirmen (vgl. unten $. 328, 22ff.). Es giebt uns dies einen",
+  "Anhalt zur Annahme der Zeit, in welcher ungefähr die Notiz in unsrem Texte",
+  "geschrieben sein mag. Der 31. Oct. war ein Dienstag.",
+  "Dec. 6",
+  "Jan. 1",
+  "Jan. 1i",
+  "Dee, 6"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "[Nov. 27] Pondělí 27. 11. 1475 (souhlasí s textem). Vischer: kapitulace Nancy byla uzavřena 26. 11., posádka odtáhla 27. 11., Karel slavnostně vjel 30. 11. [Dec. 5] předvečer sv. Mikuláše = úterý 5. 12. 1475 (okrajové datum v OCR useknuté na „Dee.“, doplněno). [Oct. 8] neděle před sv. Divišem (9. 10.) = 8. 10. 1475. Okrajová data [Jan. 1] a [Apr. 1] u lhůt příměří nejsou vložena.",
+  "Aparát: slova v závorce o 60 bochnících připsal Knebel na okraj bez odkazu na určité místo textu. Rukopisná strana „[ası]“ opravena na [431], „[4532]“ na [432]. Zprávu o tažení vévody Reného s 20 000 jezdci do Barska Vischer nekomentuje, ověřit.",
+  "Vischer: abscheid zpečetěný 29. 11. v Neuchâtelu markrabětem a vyslanci Burgundska, Rakouska a Bernu zastavoval boje do 1. 1.; návrh příměří (bestand) od 1. 1. do 1. 4., během něhož se mělo jednat o míru, měly strany přijmout nebo odmítnout do 1. 1. Cechovní dům kramářů U Šafránu (zum Safran) stál na bývalém Dobytčím trhu (dnes Gerbergasse).",
+  "Uherská zpráva: Vischer ji srovnává se Špýrskou kronikou (Mone I, 519), jejíž verze pochází z téhož listu budínské rady do Vídně a v číslech se liší: místo 80 000 Moldavanů má 18 000, „Drackolo“ = „der Draco“ (Vlad III. Drakula, tehdy v uherských službách, mimo přepis), „Hussz“ = „der Hussa Hossa“. Štěpán vojvoda = Štěpán III. Veliký Moldavský, bosenský král = titulární král Mikuláš z Iloku (obojí mimo přepis).",
+  "Výzbroj (odst. 6): čísla „30 fierteilbuchsen“ a „10 steinmetzen“ v souboru chyběla (OCR je pokládalo za čísla řádků), vrácena podle zdroje; naopak „item i5 500“, „item 2 das volk“ a „sant ;3o Jergen“ byla čísla řádků. Glosované podle Špýrské kroniky: strytkarren = 104 děl, každé na káře; schliden = „8 schluder, do nichž se kladou kameny“ (prakostroje?); ysen trischel = železné cepy; wegen mit krampen = vozy s nášlapnými bodci (fuszyszen); trantzili = velká dunajská loď nebo člun (zulle) s lopatami; místo 12 bogner má 12 velitelů střelců (schützenmeister). „huffindisbuchsen“ Špýrská kronika nemá (Vischer myslí na souvislost s bojovými kárami); překlad houfnice je dohad. dryling = velký sud (míra), ponecháno jako „sud“.",
+  "Vischer: o papežových darech (požehnaný klobouk a meč) Špýrská kronika nic nemá. Gabriel, biskup sedmihradský a legát = Gabriel Rangoni (mimo přepis). Aparát: nejisté, zda „gieng“ nebo „giengen“.",
+  "Vischer: císař list z Nördlingenu 31. 10. (úterý) oznámil Luzernu, že Ottovi, zvolenému biskupovi kostnickému, udělil regália; „včera v pondělí“ je tedy asi 30. 10. 1475 a podle toho Vischer datuje zápis lístku.",
+  "Seznamy stran (odst. 9–10) jsou psané jako nadpisy. „Comes Montis Rotundi“ chápu jako hraběte z Romontu (Jakub Savojský), ne Montferrat (mimo přepis). Uhry stojí v seznamu na burgundské straně. desátky (decimarii) = Zenden, správní okrsky Valais."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

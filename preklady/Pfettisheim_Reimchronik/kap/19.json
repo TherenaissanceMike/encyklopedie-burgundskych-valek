@@ -1,0 +1,42 @@
+{
+ "cislo": 19,
+ "nadpis": "Tobler 1917, s. 30",
+ "nadpis_preklad": "Procesí za mír ve Štrasburku a díkůvzdání",
+ "strana_edice": 30,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Dar noch solt man die letany / Zuo end der messen lesen, / Ein salue sang man ouch do by, / Man fuort ein cristlich wesen.",
+   "preklad": "Potom se měla na konci mše / číst litanie, / zpívalo se při tom také Salve, / vedl se křesťanský život.",
+   "vers_od": 467
+  },
+  {
+   "text": "Man det zuo stroßburg jn der stat / Vil grosser krütze genge, / Mit ernst man gott vmb friden bat, / Die menge macht gassen enge.",
+   "preklad": "Ve městě Štrasburku se konalo / mnoho velkých procesí s křížem, / se vší vážností prosili Boha o mír, / zástup zúžil ulice.",
+   "vers_od": 471
+  },
+  {
+   "text": "Ethche  gingent barfuß do / Als uff den herten steinen, / Man truog das sacrament harnoh, / Vil menschen sahe man weinen.",
+   "preklad": "Někteří tam chodili bosí / po tvrdých kamenech, / za nimi se nesla Svátost, / bylo vidět plakat mnoho lidí.",
+   "vers_od": 475
+  },
+  {
+   "text": "Diß hielt man by zwey gantze jor, / Villicht .XI. wochen mynder. / Gott gab den friden offembor, / Dem danckent, lieben kinder.",
+   "preklad": "Tak se to drželo skoro dva celé roky, / snad o jedenáct týdnů méně. / Bůh zjevně dal mír, / děkujte mu, milé děti.",
+   "vers_od": 479
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Druckfehler für: Etliche."
+ ],
+ "poznamky_prekladu": [
+  "v. 467–469: litanie a „Salve“ = mariánská antifona Salve Regina.",
+  "v. 472 „krütze genge“ = procesí s křížem (prosebná procesí).",
+  "v. 475: tisková chyba „Ethche“ místo „Etliche“ (pozn. editora).",
+  "v. 477 „sacrament“ = Nejsvětější svátost (eucharistie) nesená v procesí.",
+  "v. 479–480: mírové modlitby trvaly necelé dva roky – přibližně od obléhání Neussu (1474) do bitvy u Nancy (1477) [?]; počty básníka nejsou přesné."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,57 @@
+{
+ "cislo": 1,
+ "nadpis": "Tobler 1917, s. 12",
+ "nadpis_preklad": "Úvodní modlitba a Peter von Hagenbach",
+ "strana_edice": 12,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Czuo lob vnd er der trinitöt / On zwyuel, so wurd ich genöt / Nicht abelossen danck zuo sagen. / Richt sich dar nach by sinen tagen",
+   "preklad": "Ke chvále a cti Trojice / jsem bez pochyby povinen / nepřestávat vzdávat díky. / Ať se podle toho po všechny své dny řídí",
+   "vers_od": 1
+  },
+  {
+   "text": "Also der mensch vnd lobe got, / Dar zuo ouch halte sin gebott, / Vnd wan er sinens willen pflicht, / So sthat jm ymer Ewig nicht.",
+   "preklad": "každý člověk a chválí Boha / a k tomu také zachovává jeho přikázání; / a když plní jeho vůli, / nic mu nikdy, navěky, nechybí [?].",
+   "vers_od": 5
+  },
+  {
+   "text": "Priesterschafft die muoß er prysen, / Frowlichem stam ouch er bewysen. / Ein yder, der deß glichen pflicht, / Der truwe gott, Er loßt jn nicht. / Tröstlich half er ouch vor mols me / Eim jüdschen volck der alten E.",
+   "preklad": "Kněžstvo musí ctít / a i ženskému pokolení (úctu) prokazovat. / Každý, kdo tak činí, / ať důvěřuje Bohu, ten ho neopustí. / Útěšně pomohl také již dříve / židovskému lidu Starého zákona:",
+   "vers_od": 9
+  },
+  {
+   "text": "So dick es sich von sünden kort, / Hat gott jr stym gar bald erhort. / Ein glychnüß hab ich hie verstanden, / Maria die sy vns vor schanden.",
+   "preklad": "kdykoli se od hříchů odvrátil, / Bůh jeho hlas velmi brzy vyslyšel. / Tomu podobenství jsem zde porozuměl: / Maria ať nás chrání před hanbou.",
+   "vers_od": 15
+  },
+  {
+   "text": "Man sieht nuon wol zuo diser frist / Was yetz der welt begeren ist; / Wann hochfart vnd der über muot / Die tuont den menschen niemer guot.",
+   "preklad": "Nyní je v tento čas dobře vidět, / po čem teď svět prahne; / neboť pýcha a zpupnost / člověku nikdy nepřinesou nic dobrého.",
+   "vers_od": 19
+  },
+  {
+   "text": "Ver merekent hie ein grosse sach / Von Eim, hieß peter hagenbach. / Der dörst ein zyt jn disem land / Nicht wonen vmb sin gorsse  schand.",
+   "preklad": "Poslyšte zde o velké věci, / o jednom, jenž se jmenoval Peter Hagenbach. / Ten se nějaký čas neodvážil v této zemi / zdržovat pro svou velkou hanebnost.",
+   "vers_od": 23
+  },
+  {
+   "text": "Er was ein ritter gantz on Er, / Deß glichen man kum findet mer. / Er wonet jn burgund ein zyt / Vnd meint, die wyl er wer so wyt",
+   "preklad": "Byl to rytíř zcela beze cti, / jemu podobného by se sotva ještě našlo. / Nějaký čas žil v Burgundsku / a myslel si, že když je tak daleko,",
+   "vers_od": 27
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Druckfehler für: grosse."
+ ],
+ "poznamky_prekladu": [
+  "Peter von Hagenbach (asi 1420–1474), burgundský rytíř, od 1469 zemský fojt Karla Smělého v zastavených předních rakouských zemích (mimo text).",
+  "v. 1–22: zbožný úvod (Trojice, kněžstvo, Panna Maria) a mravní téma básně – pýcha předchází pád.",
+  "v. 8 „So sthat jm ymer Ewig nicht“: smysl nejistý [?], snad „nic mu nikdy nebude chybět“ nebo „nic mu nebude navěky stát v cestě“.",
+  "v. 26: tisková chyba „gorsse“ místo „grosse“ (poznámka editora).",
+  "Poslední sloka (v. 27–30) pokračuje na další straně."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

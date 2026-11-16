@@ -1,0 +1,65 @@
+{
+ "cislo": 10,
+ "nadpis": "Tobler 1917, s. 21",
+ "nadpis_preklad": "Kořist u Grandsonu a nové Karlovo vojsko (1476)",
+ "strana_edice": 21,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "«In gottes namen faren wir» / Begund man frölich singen. / Zuor wagenburg was ir begir, / Darin sy kecklich gingen.",
+   "preklad": "„Ve jménu Božím jdeme“ / začali radostně zpívat. / Jejich touhou byla vozová hradba, / do níž směle vnikli.",
+   "vers_od": 247
+  },
+  {
+   "text": "Die burgundischen wurdent all / Zuor wagenburg vß wychen, / Des fürsten kurtzwyl, die was smal, / Sich huob ein fyntlich kychenn.",
+   "preklad": "Burgundští všichni / z vozové hradby ustupovali; / knížecí kratochvíle byla krátká, / spustilo se nepřátelské lapání po dechu.",
+   "vers_od": 251
+  },
+  {
+   "text": "Die wagenburg waz gantz verspielt, / Dar zuo vill guoter büchssenn. / Der bunt also das velt behielt, / Jens her das was zerrissen.",
+   "preklad": "Vozová hradba byla zcela prohrána / a k tomu mnoho dobrých děl. / Spolek tak udržel pole, / ono vojsko bylo rozprášeno.",
+   "vers_od": 255
+  },
+  {
+   "text": "Do fand man silber vnde golt, / Sin sigel ouch do lygenn / Vnd waz er heymlichs pflegen wolt / In seiner Cantzelygenn.",
+   "preklad": "Tam se našlo stříbro a zlato, / ležela tam i jeho pečeť / a vše, co chtěl tajného vyřizovat / ve své kanceláři.",
+   "vers_od": 259
+  },
+  {
+   "text": "Der löw der leyt sich in ein hül, / Er dorst ein zyt nicht brummen. / Dar noch gar in eim kurtzem ziel / Was er her wider kummen.",
+   "preklad": "Lev se uložil do jeskyně, / nějakou dobu se neodvážil řvát. / Potom ve velmi krátké době / byl zase zpátky.",
+   "vers_od": 263
+  },
+  {
+   "text": "Do zwischen suocht er manchen funt, / Im wordent ander büchssen; / Noch vnglück wessert im der munt, / Das mag man nuon woll wissen.",
+   "preklad": "Mezitím hledal mnohý prostředek, / sehnal si jiná děla; / po neštěstí se mu sbíhaly sliny, / to se nyní dá dobře vědět.",
+   "vers_od": 267
+  },
+  {
+   "text": "Als er sich do beworben  hat, / Der löwe ward wider brummenn, / Er leit sich an ein legerstatt, / Die swytzer hantz vernummen.",
+   "preklad": "Když si tam najal lid, / lev začal znovu řvát, / uložil se do ležení; / Švýcaři to zaslechli.",
+   "vers_od": 271
+  },
+  {
+   "text": "Sie schribent hindersich von stund, / Das man solt aber reysen. / Gar resch  do sammelt sich der bunt, / Die woll ward man jn zöusen .",
+   "preklad": "Hned napsali domů, / že se má zase táhnout do pole. / Spolek se velmi rychle shromáždil, / ti jim budou cuchat vlnu.",
+   "vers_od": 275
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "= Leute anwerben.",
+  "= schnell.",
+  "= zerzausen."
+ ],
+ "poznamky_prekladu": [
+  "v. 247 „In gottes namen faren wir“ – začátek známé poutní a bojové písně; Spříseženci ji zpívali při nástupu (mimo text).",
+  "v. 253 „kychen“ = funění, lapání po dechu.",
+  "v. 259–262: proslulá grandsonská kořist – stříbro, zlato, Karlova pečeť a kancelář (mimo text: dnes zčásti v Historickém muzeu v Bernu).",
+  "v. 263–274: Karel Smělý jako lev (heraldické zvíře), který se stáhne do doupěte a znovu „řve“ (brummen = bručet, řvát).",
+  "v. 271 „beworben“ = najímat lid (pozn. editora); Karel přezbrojoval v Lausanne v březnu–květnu 1476 (mimo text).",
+  "v. 275 „hindersich“ = zpět, domů; v. 277 „resch“ = rychle; v. 278 „zöusen“ = cuchat (pozn. editora) – přísloví „cuchat vlnu“ = vyprášit kožich."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

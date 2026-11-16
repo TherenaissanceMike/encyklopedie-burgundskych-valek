@@ -12,7 +12,8 @@ Osobnosti, bitvy, události, místa a písně burgundských válek (1468–1477)
 | Gerold Edlibach, *Zürcher- und Schweizerchronik* | Zürich, Zentralbibliothek, Ms A 75 | J. M. Usteri, Zürich 1847 | `preklady/Edlibach_Zurich/kap/` (53 kapitol, úsek 1468–1477) |
 | Peter von Molsheim, *Freiburger Chronik der Burgunderkriege* | Fribourg, BCU, Ms. L 2030 | A. Büchi, Bern 1914 | `preklady/Molsheim_Fribourg/kap/` (159 kapitol) |
 | Diebold Schilling ml., *Eidgenössische Chronik* („Luzerner Schilling“) | Luzern, Korporation Luzern, S 23 fol. | vlastní přepis rukopisu ze skenů e-codices (s. 140–281) | `preklady/Luzerner_Schilling/kap/` (95 kapitol, úsek 1468–1480) |
-| Johannes Knebel, *Diarium* (latinsky) | Basel, Universitätsbibliothek | W. Vischer a H. Boos, *Basler Chroniken* II–III, 1880–1887 | zatím jen jako pramen, bez překladu |
+| Johannes Knebel, *Diarium* (latinsky) | Basel, Universitätsbibliothek | W. Vischer a H. Boos, *Basler Chroniken* II–III, 1880–1887 | `preklady/Knebel_Diarium/kap/` (227 kapitol, 1473–1479) a `basne/` (7 básní) |
+| Conrad Pfettisheim, *Reimchronik über die Burgunderkriege* (veršovaná) | prvotisk, Štrasburk asi 1477 | G. Tobler, Bern 1917 | `preklady/Pfettisheim_Reimchronik/kap/` (19 oddílů) |
 
 Překlady vytvořila AI (Claude) z tištěných edic, Bern 3 a Luzerner Schilling z vlastního přepisu rukopisu. Prošly první korekturou, **proti rukopisům zatím ověřené nejsou**. Nejistá místa jsou označena `[?]`. Závazné odborné termíny jsou v `TERMINY.md`.
 

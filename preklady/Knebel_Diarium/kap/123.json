@@ -1,0 +1,87 @@
+{
+ "cislo": 123,
+ "nadpis": "Basler Chroniken II, s. 386–388",
+ "nadpis_preklad": "Nezdar u Romontu, kořist od Grandsonu, Knebelova tiráda proti císaři (březen–duben 1476)",
+ "svazek": "II",
+ "strany_edice": [
+  386,
+  388
+ ],
+ "rok": 1476,
+ "rukopis_strana": 506,
+ "odstavce": [
+  {
+   "text": "Basiliensibus, ut ad civitatem redirent, et hoc ex intimacione Bernensium, qui ad presens eis opus non haberent, et sic avisati essent, ad quamcumque diem ulterius monerentur, essent parati. sicque reintraverunt Basileam.",
+   "preklad": "Basilejským, aby se vrátili do města, a to z oznámení Bernských, kteří jich prý nyní nepotřebují; mají však být zpraveni, aby byli připraveni, ať by byli kteréhokoli dne dále napomenuti. A tak se vrátili do Basileje."
+  },
+  {
+   "text": "[Merz 30] Crastino, videlicet sabbato penultima marcii, cum legerentur littere Bernensium in consulatu, dictum erat quod Thuricenses, Switzeri, Uri, [Underw]alden et alii nollent ad presens arma sua movere contra Burgundum, quia eis ad presens molestus non esset, sed ipse occuparet suos et Sabaudienses et alios ipsorum, in quibus ipse plus noceret quam quod eum nocere possent ipsi. vellent expectare eventum rei, si ipse Burgundus vellet intrare patriam Switzerorum sive confederatorum. extunc vellent sumere contra eum arma et ei omnibus viribus resistere. eciam quia dominus noster imperator eis mandasset pacem, illam vellent servare et videre, si eciam Burgundus eam observare vellet. quam si non servaret, ipsi essent excusati, cum defensio sit jure naturali admissa.",
+   "preklad": "[30. 3.] Nazítří, totiž v sobotu, předposledního března, když se v radě předčítaly listy Bernských, bylo řečeno, že Curyšští, Švýcové, Uri, Unterwalden a jiní nechtějí nyní pozdvihnout zbraně proti Burgunďanovi, protože jim teď není na obtíž. Zaměstnává prý [jen] své [země], Savojské a jiné jejich [spojence], jimž by on škodil víc, než by mu oni mohli uškodit. Chtějí vyčkat, jak věc dopadne, zda Burgunďan bude chtít vstoupit do země Švýcarů čili Spříseženců. Pak se chtějí proti němu chopit zbraní a postavit se mu ze všech sil. Také proto, že jim náš pan císař přikázal mír, chtějí ho zachovávat a vidět, zda ho bude chtít zachovávat i Burgunďan. Kdyby ho nezachovával, budou omluveni, neboť obrana je dovolena přirozeným právem."
+  },
+  {
+   "text": "Bernenses, Friburgenses et Solodrenses autem, cum relatu percepissent, cives sive incolas de Remont fugam [?] prepararunt se ad arma, exientes cum decem milibus contra Remont [Merz 27] feria quarta 27. marcii, nescientes quod dux Burgundie misisset certas bombardas cum pulveribus et aliis requisitis et fecisset municionem misissetque 400 equites, ut observarent et defenderent quousque ipse eis auxiliaretur; venerunt crastino [Merz 28] feria quinta mane prope Remont et habentes consilium cum deputatis, quomodo eos invaderent, et antequam facerent ordinacionem, aliqui juvenes de castris Bernensium direxerunt acies contra Remontenses contra prohibicionem consulum et capitaneorum. Remontenses autem avisati emiserunt ictus bombardarum et interficientes quinque et aliquos vulnerantes, reliqui retro cedebant et venerunt ad panerium, referentes quomodo ipsis factum esset. at illi male recepti puniti sunt, ut contra preceptum capitaneorum talia fecissent. videntes, quod nil proficerent, reversi sunt Bernam etc. [Merz 29] die veneris proxima, videlicet 29.",
+   "preklad": "Bernští, Fribourgští a Solothurnští však, když se z hlášení dozvěděli, že měšťané či obyvatelé Romontu [se dali na útěk?], připravili se ke zbrani a vytáhli s deseti tisíci proti Romontu [27. 3.] ve středu 27. března. Nevěděli, že vévoda Burgundský tam poslal několik děl s prachem a jiným potřebným [příslušenstvím], opevnil [město] a poslal 400 jezdců, aby je hlídali a bránili, dokud jim sám nepřijde na pomoc. Nazítří [28. 3.] ve čtvrtek ráno přišli k Romontu a radili se s vyslanými [zástupci], jak na ně zaútočit. Ještě než udělali rozestavení, obrátili někteří mladíci z ležení Bernských šiky proti Romontským, proti zákazu radních a hejtmanů. Romontští však byli varováni, vypálili z děl, pět jich zabili a několik zranili; ostatní ustoupili, přišli ke korouhvi a vyprávěli, jak se jim vedlo. Ti však byli špatně přijati a potrestáni, protože to udělali proti rozkazu hejtmanů. Když [Spříseženci] viděli, že nic nepořídí, vrátili se do Bernu atd. [29. 3.] v nejbližší pátek, totiž 29. [března]."
+  },
+  {
+   "text": "[506] Dominus de Ysenburg electus Maguntinensis obtinuit pallium, pro quo solvit pape viginti duo milia florenorum, ecce sine symonia! ego vidi registrum camere apostolice, ubi solum ponuntur decem milia, et a tempore dissolucionis concilii Basiliensis jam ascendit taxa 12 milibus florenorum, et bene, quia Maguntinus et alii electores imperii nolebant salutaria sacri Basiliensis concilii decreta acceptare, et destruxerunt se et suos posteros et totam Alamaniam.",
+   "preklad": "[506] Pan z Isenburgu, zvolený [arcibiskup] mohučský, obdržel pallium, za něž zaplatil papeži dvaadvacet tisíc zlatých – hle, bez simonie! Viděl jsem registr apoštolské komory, kde je uvedeno jen deset tisíc, a od doby rozpuštění basilejského koncilu taxa již vzrostla o 12 tisíc zlatých. A dobře tak, protože Mohučský a jiní kurfiřti říše nechtěli přijmout spasitelné dekrety svatého basilejského koncilu, a tím zahubili sebe, své potomky i celou Alamanii."
+  },
+  {
+   "text": "[Merz 31] Dominica passionis, que fuit ultima marcii, audivi ab uno Bernensi, quod inter alia, que dux Burgundie perdidit, conqueritur plus de perdicione reliquiarum sanctarum et presertim de uno clavo et magna parte crucis Cristi, que nemo scit ubi pervenerint.",
+   "preklad": "[31. 3.] O Smrtné neděli, jež byla posledního března, jsem slyšel od jednoho Bernského, že vévoda Burgundský si ze všeho, co ztratil, nejvíc stěžuje na ztrátu svatých ostatků, a zvláště jednoho hřebu a velké části Kristova kříže; nikdo neví, kam se poděly."
+  },
+  {
+   "text": "Tentorium ducis Burgundie est de samet interius, et extra tectum de simplici serico, videlicet flat syden, contextis miris clipeis et rosis sumptuosissime auro, berillis et lapidibus preciosis, quod habent Bernenses. cujus mantellum, hoc est inferiorem partem, habent Switzeri.",
+   "preklad": "Stan vévody Burgundského je uvnitř ze sametu a zvenku pokrytý prostým hedvábím, totiž „flat syden“ [hladkým hedvábím], s vetkanými podivuhodnými štíty a růžemi, nádherně [zdobený] zlatem, beryly a drahými kameny; ten mají Bernští. Jeho plášť, totiž spodní část, mají Švýcové."
+  },
+  {
+   "text": "Tanta dicitur esse preda, quam reliquit, quod mire est estimacionis, et de die in diem multiplicatur, et audivi a vicario Basiliensi, quod ultra trigesies centena milia scutorum auri valorem perdiderit.",
+   "preklad": "Kořist, kterou zanechal, je prý tak veliká, že má podivuhodnou cenu, a ze dne na den se rozmnožuje. Od basilejského vikáře jsem slyšel, že ztratil přes třicetkrát sto tisíc [tj. přes tři miliony] zlatých štítů (écu) v hodnotě."
+  },
+  {
+   "text": "Et audivi a domino Johanne Rudolfi Elhart commendatore dominorum Theuthonicorum domus Mulhusen, quod Fridericus imperator Romanorum fecerit concordiam cum duce Burgundie ante Nussenam, quod ipse debeat expungnare Switzeros et eis confederatos, et cum omnibus aliis debeat habere pacem, [507] eciam quomodo ipse vendidit nos colligatos iste pessimus ribaldus [?], qui totam Theuthoniam destruit nec alicubi pacem facit. cui consenciunt omnes Romani imperii principes, qui omnes connivent, et non est aliquis, qui se pro medio ponat, sed omnes intendentes in eum, ut eradicentur de terra vivencium. sed deus, qui subvenit tribulatis, reddet eis suo tempore mercedem condignam, quam meruerunt. omnes nobiles illius patrie gauderent, quod Switzeri interficerentur cum suis, qui sunt zelatores justicie, qui retroactis temporibus restiterunt nobilibus patrie illius, quia nullus erat securus in patria, omnes predabant et nulli ordini neque etati parcebant, quin eos spoliarent, caperent et diversis supliciis interirent, et quamvis veniret clamor ad principes et ipsorum officiales, contra omnem honestatem permittebant tales predones, fures et latrones in suis opidis et castris et manutenebant eos et defendebant contra omnem honestatem et tantum efficiebant, quod tam civitates imperiales quam confederati illius lige sufferre non poterant, quin invaderent terras illorum principum, qui hoc permittebant fieri, videlicet Austrie et Swevie, et nobiles in illis partibus clamarent ad principes, nequam exauditi sunt et se opposuerunt eis et ad hoc devenit, ut ipsi juxta ipsorum demerita punirentur et domini ipsorum eos tueri non possent, auxilium ab illo nephandissimo nequam Burgundo peterent, qui ex hoc animum recipiens, gravavit cor ejus superbia dyabolus et disposuit sibi malum, quod evenit. ipse putat se esse adeo potentem, quod velit exstirpare et funditus eradicare Switzeros et eis confederatos, et deo auxiliante non prevalebit in vanitate sua. fodit sibi ipsi foveam, qua suffocabitur, et tandem videbunt omnes patrie illius nobiles, in quem confixerunt, quia isti hoc ordinarunt, et videbit imperator, qualis ipse sit. confundetur et peribit de populo suo. ipse suscitavit papam Sixtum quartum fratrem ordinis Minorum, similiter omnes reges et principes terre adversum nos, et deus absque dubio conteret dentes eorum in ore ipsorum et molas eorum confringet dominus, et inter omnes illos non est, qui faciat bonum, et non est usque ad unum, videlicet Sigismundum ducem Austrie dominum Athasis, cui et papa et imperator ejus patruus et omnes principes propter suam honestatem contradixerunt [508] unanimiter principes Europe, qui omnes iniquitate et impietate sua confundantur et pereant.",
+   "preklad": "Od pana Johanna Rudolfiho Elharta, komtura pánů [řádu] Německého domu v Mylhúzách, jsem také slyšel, že Fridrich, římský císař, uzavřel s vévodou Burgundským před Neussem dohodu, že on [vévoda] má porazit Švýcary a ty, kdo jsou s nimi spříseženi, a se všemi ostatními má mít mír. [507] Také [jsem slyšel], jak nás spojence prodal tento nejhorší ničema [?], který hubí celé Německo a nikde nezjedná mír. S ním souhlasí všechna knížata Římské říše, všichni přimhuřují oči a není nikdo, kdo by se postavil doprostřed [jako prostředník], nýbrž všichni na něho hledí, aby [Švýcaři] byli vyhlazeni ze země živých. Ale Bůh, který pomáhá sužovaným, jim v pravý čas odplatí zaslouženou mzdou, jakou si zasloužili.\nVšichni šlechtici oné země by se radovali, kdyby byli pobiti Švýcaři i se svými [spojenci], kteří jsou horliteli pro spravedlnost a kteří se v minulých časech postavili šlechticům oné země. Nikdo totiž nebyl v zemi bezpečný: všichni loupili a nešetřili žádného stavu ani věku, aby je neoloupili, nezajali a nezahubili rozličnými mukami. A ačkoli k knížatům a jejich úředníkům doléhal nářek, proti vší počestnosti trpěli takové lupiče, zloděje a lotry ve svých městech a hradech, drželi je a bránili proti vší počestnosti. Tak daleko to dohnali, že ani říšská města, ani Spříseženci onoho spolku to nemohli snést, aby nevpadli do zemí oněch knížat, kteří to dopouštěli, totiž Rakouska a Švábska. A [když] šlechtici v oněch krajích volali ke knížatům, nebyli vyslyšeni, postavili se proti nim [městům a Spřísežencům], a došlo k tomu, že byli podle svých vin potrestáni a jejich páni je nemohli ochránit. Tu žádali o pomoc onoho nejohavnějšího ničemu Burgunďana, který z toho nabral odvahy; ďábel obtížil jeho srdce pýchou a nachystal si zlo, které [ho] stihlo. Myslí si, že je tak mocný, že chce vyhubit a do kořene vyrvat Švýcary a ty, kdo jsou s nimi spříseženi; ale s Boží pomocí ve své marnosti nezvítězí. Vykopal sám sobě jámu, v níž se udusí, a nakonec všichni šlechtici oné země uvidí, koho probodli, protože oni to [vše] nastrojili; a císař uvidí, jaký on je. Bude zahanben a zahyne ze svého lidu.\nOn [vévoda] poštval proti nám papeže Sixta IV., bratra řádu menších bratří, a stejně tak všechny krále a knížata země. A Bůh bez pochyby rozdrtí zuby v jejich ústech a Pán vyláme jejich stoličky. Mezi nimi všemi není nikdo, kdo by činil dobro, není ani jediného [kromě jednoho], totiž Zikmunda, vévody Rakouského, pána Adiže, jemuž papež i císař, jeho strýc, i všechna knížata pro jeho počestnost odporovali, [508] jednomyslně knížata Evropy. Ať jsou všichni pro svou nepravost a bezbožnost zahanbeni a zahynou."
+  },
+  {
+   "text": "[April 2] Die martis secunda aprilis venerunt Basileam equites domini nostri Sigismundi ducis Austrie de expedicione Gransensi, quorum dux fuit nobilis et strennuus vir Hermannus de Eptingen cum centum equitibus, qui sua strennuitate meruit hoc, ut ipse tamquam princeps in aggressu prelii contra Burgundum et in ipsius aspectu multos creasset et percussisset nobiles milites.",
+   "preklad": "[2. 4.] V úterý 2. dubna přišli do Basileje jezdci našeho pana Zikmunda, vévody Rakouského, z tažení ke Grandsonu. Jejich velitelem byl urozený a statečný muž Hermann z Eptingenu se stem jezdců; ten si svou statečností zasloužil, že jako kníže při zahájení bitvy proti Burgunďanovi a před jeho očima mnoho urozených mužů pasoval [úderem meče] na rytíře."
+  },
+  {
+   "text": "[April 2] Eadem die supervenerunt de eadem expedicione equites per Argentinenses missi trecenti optime armati milites et militares, [April 3] qui crastino die recesserunt Argentinam.",
+   "preklad": "[2. 4.] Téhož dne přišli z téhož tažení jezdci vyslaní Štrasburskými, tři sta výborně ozbrojených rytířů a válečníků, [3. 4.] kteří nazítří odtáhli do Štrasburku."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 6. in hat Knebel aus Versehn bei Anlass einer Correctur, die er im Texte vornahm , go-",
+  "strichen.",
+  "1) Am 28. Merz schrieben die Berner den Baslern: ... dorumm unns",
+  "nitt not bedunckt üch zü vollziechen, wir. begeren aber mitt allem flisz und",
+  "ernst, ir wellen mächtenklichen gerüst sin und uff unnser fürer verkünden, das",
+  "villicht nit langen verzug ertreit, gestracks zü unns komen. Staatsarchiv Basel",
+  "St. 2 Nr. 6.",
+  "2) Ueber den Zug gegen Romont vgl. Schilling 315ff. Gingins II, 3. 8.",
+  "Aparát: 11. 14. 18.",
+  "Aparát: 14. Nach samet steht ipso; doch scheint Kn. dies Wort wieder durchgestrichen zu",
+  "haben. 24. Theuthonicore.",
+  "1) Vgl. S. 316, 33. 2) Vgl. S. 351, 31ff. und 352 A. 1. 8. 394, Yff.",
+  "25*",
+  "Aparát: 22. nos.",
+  "1) Vgl. 8. 336, 10. |",
+  "2) Aus S. 364, 26 ff. (vgl. auch das 389, 21 ff. Erzählte) geht hervor, dass",
+  "der Ritterschlag nach der Schlacht erfolgte, wie auch Schilling 293 und Edli-",
+  "bach 151 berichten, und wie es nach dem ganzen Gang der Ereignisse nicht",
+  "anders denkbar ist."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Data: [Merz 27] středa 27. 3., [Merz 28] čtvrtek, [Merz 29] pátek, [Merz 30] sobota 30. 3. 1476; [Merz 31] Smrtná (5. postní) neděle 31. 3. 1476; [April 2] úterý 2. 4.; [April 3] středa 3. 4.",
+  "Vischer: Bern psal Basileji 28. 3., že jejich výpravy teď není třeba, mají však být připraveni a na další výzvu ihned přitáhnout. K tažení na Romont srov. Schillinga (Bern 3).",
+  "„fugam En“ (odst. 3) je v OCR zkomolené; smysl je asi „že obyvatelé Romontu uprchli“, ponecháno [?]. „cum 2 deputatis“: číslice je vlepené číslo řádku, vypuštěna. „ode alden“ doplněno na [Underw]alden. „Switzeri“ v odst. 2 a 6 = Schwyzští (Švýcové).",
+  "„Yibaldus“ (odst. 8) je nejspíš OCR za „ribaldus“ (ničema, darebák) – Knebelova nadávka císaři Fridrichovi III.; ověřit v rukopisu. „nequam exauditi sunt“ ponecháno, smysl je asi nequaquam (vůbec nebyli vyslyšeni). Citáty ze Žalmů 13 a 57 (zuby, stoličky; „není ani jediného“).",
+  "„[so]“ v OCR = číslo strany rukopisu [506]. Mohučský arcibiskup Diether z Isenburgu; Knebel jako stoupenec basilejského koncilu glosuje kuriální taxy.",
+  "Vischer: pasování rytířů proběhlo podle jiných zpráv (Knebel s. 364 a 389, Schilling, Edlibach) až po bitvě u Grandsonu, ne při jejím zahájení. Aparát: „samet“ následuje v rukopisu „ipso“, snad škrtnuté.",
+  "Opravy OCR: „Bernensigen“ → Bernensium, „lötectum“ → tectum, „celipeis“ → clipeis, „melhbus“ → milibus, „Ep-s tingen“ → Eptingen, „trincenti“ → trecenti, „nor est“ → non est, „unanmiter“ → unanimiter, vlepená čísla řádků."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

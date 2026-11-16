@@ -1,0 +1,101 @@
+{
+ "cislo": 26,
+ "nadpis": "Basler Chroniken II, s. 95–97",
+ "nadpis_preklad": "Klatba na falckraběte, kolínský spor, nová basilejská rada; Karel přísahá zkázu Basileje",
+ "svazek": "II",
+ "strany_edice": [
+  95,
+  97
+ ],
+ "rok": 1474,
+ "rukopis_strana": 97,
+ "odstavce": [
+  {
+   "text": "quo multum gavisi erant homines illius patrie, putantes se per hoc posse melius in hac patria tueri et defendere. rex eciam letatus est, quia amplius non habet timorem ut Almani eum invadant, securius ergo expediet eum.",
+   "preklad": "Z toho se lidé oné země velmi radovali, protože se domnívali, že se tím budou moci v této zemi lépe chránit a bránit. I král se zaradoval, protože se už nemusí bát, že na něho Němci udeří; tím bezpečněji ho [Karla] vyřídí."
+  },
+  {
+   "text": "Eo tempore dominus imperator Fridericus existens in Augusta Vindelica cum multis de civitatibus imperialibus vocavit ibidem Fridericum ducem Bavarie, palatinum Reni. et quia sibi non voluit dare securitatem eundi et redeundi, remansit et non [97] comparuit. propterea eum bannivit banno imperiali et mandavit principibus et civitatibus imperialibus, ut eum invadant. super quo quia timuit subprimi, scripsit omnibus civitatibus et confederatis Switensium, Basiliensibus et Argentinensibus et aliis civitatibus ac principibus causam suam et peciit ab eis responsum, ut in eum eventum, quo imperator eos requireret ad sumendum arma contra eum et invadendum. et medio tempore concordavit cum domino Karolo duce Burgundie et fecit secum intelligenciam seu ligam. quid autem ipsi respondere velint nescio, et quia ipse se offert stare juri coram domino nostro Sixto papa quarto, puto quod non obediant imperatori.",
+   "preklad": "Toho času pan císař Fridrich, pobývaje v Augsburgu (Augusta Vindelica) s mnoha [vyslanci] říšských měst, povolal tam Fridricha, vévodu Bavorského, falckraběte rýnského. A protože mu [císař] nechtěl dát glejt na cestu tam a zpět, zůstal doma a ne[97]dostavil se. Proto ho [císař] dal do říšské klatby a přikázal knížatům a říšským městům, aby na něho udeřili. Protože se [falckrabě] bál, že bude potlačen, napsal všem městům, švýcarským Spřísežencům, Basilejským, Štrasburským i jiným městům a knížatům o své při a žádal od nich odpověď pro ten případ, že by je císař vyzval, aby proti němu chopili zbraň a udeřili na něj. A mezitím se dohodl s panem Karlem, vévodou Burgundským, a uzavřel s ním dohodu čili spolek. Co mu však oni chtějí odpovědět, nevím; a protože se on sám nabízí podrobit se právu před pánem naším papežem Sixtem IV., myslím, že císaře neuposlechnou."
+  },
+  {
+   "text": "Eodem tempore dominus Robertus Coloniensis, qui est frater prefati Friderici, qui se opposuit capitulo et civitati Coloniensi, fecit confederacionem cum domino Burgundie ad pugnandum contra civitatem et capitulum Coloniense. capitulum autem et civitas Coloniensis fecerunt confederacionem cum Westfalis, lantgravio Hassie, Thuringie, Missnie, duce Saxonum et rege Polonie ad resistendum ipsis. quibus eciam assistunt Frisones oponentes se duci Burgundie et Coloniensi, et si umquam venit tempus ut expediatur dux Burgundie, tunc modo in prompto est, quia ab oriente habebit Switzeros et ipsorum confederatos, a meridie Francos, a septemptrione Westfalos, Hassos, Thuringos, Saxones, Polonos et Frisones et forte suos, videlicet quos ipse nimis et vehementer angit exaccionibus, videlicet Selandos, Flammingos, Brobandos, Holandos et alios ab occidente sibi subjectos, qui omnes cuperent erui de manu Herodis, qui et ipse alter est, onera imponit suis importabilia, unde clamor ascendet ad dominum et ipse descendet visitare et consolari eos, qui in tribulacione talismodi sunt.",
+   "preklad": "Téhož času pan Ruprecht Kolínský, bratr řečeného Fridricha, který se postavil proti kolínské kapitule a městu Kolínu, uzavřel spolek s panem [vévodou] Burgundským, aby bojovali proti městu a kapitule kolínské. Kapitula a město Kolín však uzavřeli spolek s Vestfálci, s lantkrabětem hesenským, durynským a míšeňským, s vévodou saským a s polským králem, aby se jim ubránili. Pomáhají jim také Frísové, kteří se stavějí proti vévodovi Burgundskému a [arcibiskupovi] Kolínskému. A jestli kdy přijde čas, aby byl vévoda Burgundský vyřízen, pak je právě teď po ruce: na východě bude mít Švýcary a jejich spojence, na jihu Francouze, na severu Vestfálce, Hesy, Durynky, Sasy, Poláky a Frísy, a snad i své vlastní, totiž ty, které příliš a krutě tíží dávkami, Zélanďany, Vlámy, Brabanťany, Holanďany a jiné jemu poddané na západě. Ti všichni by si přáli být vytrženi z ruky Heroda – vždyť on je druhý Herodes: ukládá svým nesnesitelná břemena. Proto jejich křik vystoupí k Pánu a On sestoupí, aby navštívil a potěšil ty, kdo jsou v takovém soužení."
+  },
+  {
+   "text": "[Juni 19] Reverendus pater et dominus meus graciosus de Venningen episcopus Baseliensis die sanctorum Gervasii et Prothasii martirum, que fuit 20. mensis junii et dominica, constituit in Basilea magistrum civium dominum Petrum Rott zer Rosen militem in magistrum civium [98] et honestum Heinricum Ysenlin civem Basiliensem in magistrum zunftarum. et eadem die pro expedicione supradicta contra ducem Burgundie fienda vestivit mille viros rubeis tunicis divisione in brachio sinistro sangwineo et albo circulo, preter suam familiam.",
+   "preklad": "[Juni 19] Důstojný otec a můj milostivý pán [Jan] z Venningenu, biskup basilejský, v den svatých mučedníků Gervasia a Protasia, jenž byl 20. dne měsíce června a v neděli, ustanovil v Basileji za purkmistra pana Petra Rotta zer Rosen, rytíře, [98] a ctihodného Heinricha Ysenlina, basilejského měšťana, za nejvyššího cechmistra. A téhož dne oděl pro výše řečenou výpravu, která se má podniknout proti vévodovi Burgundskému, tisíc mužů do červených kabátců s odznakem na levém rukávu, krvavě červeným a bílým kruhem, kromě své vlastní čeledi."
+  },
+  {
+   "text": "Eodem tempore quia dux Burgundie tyrannide regebat, nulla vero racione, volens omnes sibi coadjacentes provincias subjugare subditorum suorum rebus et expensis, unde vicini principes et provincie colliganciam fecerunt contra eum ac Robertum episcopum Coloniensem de domo Heydelbergensi, qui se duci Burgundie cum suo fratre Friderico comite palatino pertinaciter conjunxerant contra omnes Almanos, dux Saxonum, lantgravius Thuringie, Missonum et Hassie cum marchione Brandenburgensi cum capitulo et civitate Coloniensi, ad idem eciam domini dux Montanus et alii domini prope Coloniam omnes contra ducem Burgundie et episcopum Coloniensem se confederaverunt. et [Mai 25] circa festum sancti Urbani prope Gulchiam habebant exercitum dominus dux Burgundie cum episcopo Coloniensi. supervenerunt capitanei dominorum Coloniensibus confederatorum et habebant conflictum; tamen de ambabus partibus ceciderunt occisi 400 viri et fugam dedit Burgundus. et quia talis confederacio fuit facta in illis partibus inferioribus ad instar hujus patrie, quam omnes Theutunice naciones dicebant practica episcopi et civitatis Basilensis factam, propterea dominus dux Burgundie indignatus et magno furore contra Basilienses repletus per sanctum Georgium juravit velle Basileam civitatem et episcopatum desolare. quod audientes Basilienses jurarunt, quod adjutorio beate virginis Marie et sanctorum Heinrici imperatoris et Kunegunde virginis [99] patronorum suorum, deinde adjutorio suorum confederatorum se a tyrannide sua defenderent et eum sicut canem baculo de Burgundia profugarent aut gladio occiderent, sicut Petrum de Hagenbach suum balivum.",
+   "preklad": "Téhož času, protože vévoda Burgundský vládl tyransky a bez jakéhokoli rozumu a chtěl si na útraty a náklady svých poddaných podrobit všechny sousední země, uzavřela sousední knížata a země spolek proti němu a proti Ruprechtovi, biskupovi kolínskému z heidelberského rodu, kteří se – [Ruprecht] se svým bratrem Fridrichem, falckrabětem – zatvrzele spojili s vévodou Burgundským proti všem Němcům. Vévoda saský, lantkrabě durynský, míšeňský a hesenský s markrabětem braniborským, s kapitulou a městem Kolínem, k tomu i páni vévoda z Bergu (dux Montanus) a jiní páni u Kolína se všichni spolčili proti vévodovi Burgundskému a biskupovi kolínskému.\n[Mai 25] Kolem svátku sv. Urbana měli pan vévoda Burgundský a biskup kolínský vojsko u Jülichu. Tu přitáhli hejtmani pánů spojených s Kolínskými a došlo k bitvě; z obou stran padlo 400 mužů a Burgunďan se dal na útěk.\nA protože takový spolek byl v oněch dolních krajích uzavřen podle vzoru této země, o němž všechny německé národy říkaly, že vznikl z pletich biskupa a města Basileje, rozhořčil se pan vévoda Burgundský, naplnil se velkou zuřivostí proti Basilejským a přísahal při svatém Jiří, že město Basilej i biskupství zpustoší. Když to Basilejští uslyšeli, přísahali, že s pomocí blahoslavené Panny Marie a svatých Jindřicha císaře a Kunhuty panny, [99] svých patronů, a potom s pomocí svých Spříseženců se před jeho tyranií ubrání a vyženou ho jako psa holí z Burgundska nebo ho zabijí mečem jako Petra z Hagenbachu, jeho zemského fojta."
+  },
+  {
+   "text": "Et ut fide digna relacione tunc didici, si Selandi, Hollandi, Brabantini et Flammingi aliquem possent habere principem, cui possent fiducialiter adherere, omnes ab ejus obediencia declinarent",
+   "preklad": "A jak jsem se tehdy dozvěděl z hodnověrné zprávy: kdyby Zélanďané, Holanďané, Brabanťané a Vlámové mohli mít nějakého knížete, k němuž by se mohli s důvěrou přidat, všichni by od poslušnosti k němu odpadli…"
+  }
+ ],
+ "poznamky_editora": [
+  "1) Die Urkunde der Achterklärung, Augsburg 27. Mai 1474, ist abge-",
+  "druckt bei Chmel, Mon. Habsb. I, 1,395 #. Vgl. Chmel S. XC ff. Janssen II,",
+  "337 und Knebel selbst pag. [100] ff.",
+  "2) Einen Auszug aus dem Rundschreiben Friedrichs vom 12. Juni 1474",
+  "giebt Karl Menzel in den Regesten zur Geschichte Friedrichs des Siegreichen",
+  "Nr. 354, Quellen zur Bayer. und Deutschen Geschichte II (1862), 485 ft.",
+  "3) Dies ist nicht richtig. Vgl. oben 8. 50 A. 3.",
+  "4) In dem kurzen Antwortschreiben Basels an Friedrich spfaltzgrafen by",
+  "Ryn, hertzogen in Beyern, des heiligen Romischen rychs ertztruchseszen und",
+  "kurfursten ete.« vom 27. Juni heisst es: und sint uns solich zweytracht in",
+  "gantzen truwen leid; wo wir ouch der inen horen gedencken, so wollent wir",
+  "uns darinn haben in maszen wir getruwen uns unverwissenlich sin solle. Mis-",
+  "1) Eine solche Verbindung hat nicht stattgefunden. Landgraf Heinrich",
+  "von Hessen , der Bruder des Bisthumsverwesers Hermann war am 14. Januar",
+  "durch Kaiser Friedrich dem Domcapitel und seiner Partei zum Schirmer und",
+  "Handhaber gegeben und bevollmächtigt worden, Fürsten, Grafen, Herren",
+  "und Städte um Beistand und Hilfe anzurufen. _Lacomblet a. a. O. 468.",
+  "2) Vielmehr der 19. Juni.",
+  "3) Civis ist hier im engern Sinne zu fassen: Burger (Achtburger) im Ge-",
+  "sensatz zum Zunftgenossen. Vgl. 8.84 A.1.",
+  "4) Seit einer Reihe von Jahren wechselten alljährlich als Bürgermeister",
+  "Peter Rot und Hans von Bärenfels, als Oberstzunftmeister Heinrich Isenlin",
+  "und Hans Zscheckenbürlin ab. Ueber die Besetzung der Bürgermeister- und",
+  "der Oberstzunftmeisterstelle s. Heusler 380f. 5) Vgl. oben $. 93, 20, 21.",
+  "Aparát: 17. sicut zweimal.",
+  "1) Auch in Betreff dieser Nachrichten gilt das S. 95 A.3 und S. 96 A. 1",
+  "Bemerkte. Was den dux Montanus betrifft, den Herzog v. Jülich und Berg,",
+  "so gab derselbe, Gerhard, nebst seinem Sohne Wilhelm, der Stadt Köln zwar",
+  "gute Worte (Ennen III, 502), hielt sich aber von allen Feindseligkeiten gegen",
+  "Burgund fern und neigte sich in der Folge immer offener auf dessen Seite.",
+  "Ennen 512, 517£., 520 u.s.w. Auch die übrigen Nachbarn der Stadt Köln",
+  "zeigten sich nicht alle geneigt, ihr zu helfen. Ebenda 512f£.",
+  "2) Jülich.",
+  "3) Grössere burgundische Truppenmassen waren damals dem Erzbischof",
+  "noch nicht zu Hilfe gekommen. Karl selbst rückte mit seinem Heere erst in",
+  "der zweiten Hälfte des Juli ins Erzstift ein. Comines-Lenglet II, 215. Ennen",
+  "497. Der Sieg aber, den die Neusser nach dem Magnum Chronicon Belgicum",
+  "bei Pistorius III, 411 um den 22. Juni über Ruprechts Feldhauptmann Martin",
+  "Ruyssenbach erfochten, kann der Nachricht Knebels kaum zu Grunde liegen.",
+  "4) Der Jungfrau Maria war das Münster geweiht. Kaiser Heinrich II,",
+  "der sich um die Basler Kirche verdient gemacht und im J. 1019 der Ein-",
+  "weihung des wiederhergestellten Münsters beigewohnt hatte, wurde, »nament-",
+  "lich seitdem 1347 das Domcapitel und der Rath von Basel heilige Ueberreste",
+  "desselben und seiner Gemahlinn von Bamberg sich erböten hatten, als der",
+  "Gründer und Schutzpatron des Münsters verehrt und ihm zu Ehren seit 1347",
+  "der Heinrichstag als kirchlicher Feiertag begangen.« Fechter, Topographie 7.",
+  "Auf den Heinrichstag wurde im J. 1501 der Bundesschwur bei der Aufnahme",
+  "Basels in die Eidgenossenschaft angesetzt.",
+  "Basler Chroniken. II. 7"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Odst. 1 navazuje na zprávu o vypršení příměří mezi Ludvíkem XI. a Karlem (konec kap. 25).",
+  "Vischer: listina o říšské klatbě na falckraběte Fridricha je dána v Augsburgu 27. 5. 1474; falckrabě rozeslal oběžník 12. 6. 1474. Zpráva o falckrabětově spolku s Karlem „není správná“ (Vischer). Basilej odpověděla 27. 6. vyhýbavě, že je jí ten spor líto.",
+  "Vischer: spolek Kolína s lantkrabětem, Saskem a polským králem nebyl uzavřen; lantkrabě Jindřich Hesenský byl 14. 1. 1474 ustanoven císařem ochráncem kapituly. Ruprecht uzavřel smlouvu s Karlem před 27. 3. 1474. Do textu odst. 3 OCR vlepilo konec Vischerovy německé poznámky o příměří („wurde im Merz 1473 … pag. [103].“), odstraněno.",
+  "[Juni 19] Vischer: svátek Gervasia a Protasia (19. 6.) byl v neděli 19. 6. 1474, ne 20. 6., jak píše Knebel. „civis“ tu v užším smyslu: měšťan z (achtburgerských) rodin oproti cechovníkům. Vischer: Petr Rot a Hans z Bärenfelsu se léta střídali jako purkmistři, Heinrich Isenlin a Hans Zscheckenbürlin jako nejvyšší cechmistři.",
+  "[Mai 25] sv. Urban; okrajové datum v OCR zkomolené („ma 2“), doplněno podle svátku. Vischer: dux Montanus = Gerhard, vévoda z Jülichu a Bergu, který dával Kolínu jen dobrá slova a klonil se k Burgundsku; Karel vtáhl do arcibiskupství až v 2. polovině července, takže bitva u Jülichu se 400 padlými je pochybná (vítězství Neusských nad Ruprechtovým hejtmanem kolem 22. 6. jí asi nebude).",
+  "Vischer: Basilejský dóm je zasvěcen Panně Marii; císař Jindřich II. a jeho choť Kunhuta jsou patroni (svátek sv. Jindřicha slaven od r. 1347). Na Jindřichův den byla r. 1501 složena přísaha při přijetí Basileje do Spříseženstva. Knebel Kunhutu nazývá „pannou“ (legenda o panenském manželství).",
+  "„Liga“ v odst. 1 a 5 = spolek; o které spojenectví v odst. 5 („ad instar hujus patrie“) jde, Knebel neříká – zřejmě Dolní spolek s Kostnickým narovnáním (1474), mimo přepis. Oprava OCR: „Coloniens:s“, „Frideriei“, „peclit“, „ceivium“, „supradiceta“, „düx Saxnum“, „Brandenburgens?“, „Ooloniensi“, „Theu_ tunice“, „virisginis“, „aligquem“, „prineipem“ apod. Úsek končí uprostřed věty („declinarent“), pokračuje kap. 27."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

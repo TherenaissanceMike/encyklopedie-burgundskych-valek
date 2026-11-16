@@ -1,0 +1,124 @@
+{
+ "cislo": 152,
+ "nadpis": "Basler Chroniken III, s. 39–41",
+ "nadpis_preklad": "Zvěsti po Murtenu, kostnický spor, obléhání Nancy a návrat poslů z Fribourgu (srpen 1476)",
+ "svazek": "III",
+ "strany_edice": [
+  39,
+  41
+ ],
+ "rok": 1476,
+ "rukopis_strana": 44,
+ "odstavce": [
+  {
+   "text": "Dux Burgundie, ut fertur, desperans fugit clam in suas inferiores partes, relinquens prope Junge et Ponterlin exercitum 5 millium virorum, qui ibidem in magna miseria vivunt et solum Burgundis nocent. et ibidem manebunt, quousque fames, sitis et angustia repellet.",
+   "preklad": "Vévoda Burgundský prý v zoufalství tajně uprchl do svých dolních krajů a nechal u Jougne a Pontarlier vojsko o 5 tisících mužích. Ti tam žijí ve velké bídě a škodí jen Burgunďanům. A zůstanou tam, dokud je nezažene hlad, žízeň a nouze."
+  },
+  {
+   "text": "Refertur, quod Anthonius bastardus Burgundie sit interfectus in bello Mortano.",
+   "preklad": "Vypráví se, že Antonín, bastard Burgundský, padl v murtenské bitvě."
+  },
+  {
+   "text": "Supra scripsi, quomodo ad mandatum domini nostri imperatoris in Constancia dominus de Papenheym positus sit in curiam domini Johannis Vest vicarii et canonici Constanciensis. idem dominus Johannes Vest ordinavit cum confederatis, quod ipsi scripserunt Constanciensibus civibus, ut eundem de ipsa curia expellant, non obstantibus mandatis imperialibus.",
+   "preklad": "Výše jsem psal, jak byl v Kostnici na příkaz našeho pana císaře pan z Pappenheimu dosazen do dvorce pana Jana Vesta, vikáře a kanovníka kostnického. Týž pan Jan Vest si u Spříseženců zjednal, že napsali kostnickým měšťanům, aby ho z toho dvorce vyhnali bez ohledu na císařské příkazy."
+  },
+  {
+   "text": "Castrum illius nequissimi nequam Lantzonis camerarii quondam domini Hermanni de Landenberg episcopi Constanciensis, qui illam differenciam cum aliis quatuor canonicis Constanciensibus practicavit, quod Switzeri et aliqui confederati receperunt et bona, que inibi erant, dissipaverunt, jam per medium Lutzernensium, quibus multam peccuniam propinavit, rehabuit, sed curiam, quam in Constancia habuit, adhuc non recuperavit, sed bona omnia in eadem consistencia perdidit, et merito. utinam ipse nequam cum suis coadjutoribus in lacum ante quinque annos submersi fuissent, quia non zelo justicie, pietatis aut laudis dei, sed pompe, avaricie et pessime cupiditatis fecerunt, ita ut unusquisque unus ad dextram et alius ad sinistram in curia episcopi sederent. sed hoc non perferens divina bonitas illos ita dispersit, ut unus hic, alter alibi quasi in exilio manerent, ab omnibus despecti et exosi.",
+   "preklad": "Onen nejbídnější darebák Lantzo, kdysi komorník pana Heřmana z Landenbergu, kostnického biskupa, ten spor zosnoval s dalšími čtyřmi kostnickými kanovníky. Jeho hrad zabrali Švýcaři a někteří Spříseženci a statky, které v něm byly, rozchvátili. Nyní ho dostal zpět prostřednictvím Lucernských, jimž daroval mnoho peněz. Dvorec, který měl v Kostnici, však dosud zpět nezískal a přišel o všechen majetek, který v něm byl, a právem. Kéž by se ten darebák se svými pomocníky byl před pěti lety utopil v jezeře! Nedělali to totiž z horlivosti pro spravedlnost, zbožnost nebo chválu Boží, nýbrž z okázalosti, lakomství a nejhorší chtivosti, aby každý z nich seděl v biskupském dvoře, jeden po pravici a druhý po levici. Ale dobrota Boží to nesnesla a rozprášila je tak, že jeden zůstává tu, druhý jinde, jako ve vyhnanství, všemi opovrhovaní a nenávidění."
+  },
+  {
+   "text": "[Juli 28?] Dominus noster sanctissimus legatum ad Constanciam illis diebus, videlicet post festum sancti Jacobi apostoli, misit ad tractandum pacem. Fribergenses [?] venit de domino Sigismundo duce Austrie. quid ibidem tractaverit, nescitur. in Baden tenta est dieta inter confederatos racione facti Constanciensis. et ibidem fuit dominus de Sunnenberg, sed quid factum sit, ignoro. in Minori Basilea prohibuit plebanus omnibus cappellanis celebrare, qui sunt de parte Sunnenbergensium, quia illi sunt excommunicati.",
+   "preklad": "[Juli 28?] Náš nejsvětější pán poslal v těch dnech, totiž po svátku sv. Jakuba apoštola, do Kostnice legáta, aby jednal o mír. Freiberský [?] přišel od pana Zikmunda, vévody Rakouského. Co tam projednal, se neví. V Badenu se konal sněm Spříseženců kvůli kostnické záležitosti a byl tam i pan ze Sonnenbergu, ale co se stalo, nevím. V Malé Basileji zakázal farář sloužit mši všem kaplanům, kteří jsou na straně Sonnenbergových, protože ti jsou exkomunikováni."
+  },
+  {
+   "text": "[44b] Eodem tempore Becherus comes de Bitzsch capitaneus domini Reinhardi ducis Lothoringie obsedit civitatem Nansenam in Lothoringia, quam sibi dux Burgundie antea per fraudem, dolum et mendacium usurpavit, dicens eundem dominum ducem Lothoringie esse mortuum et ipsum esse suum heredem, et dimisit ibidem 1500 equites de Piccardia et Lombardos, qui libenter resignarent civitatem, ut ipsi liberi cum corporibus et suis rebus abire possent. sed hoc noluit dominus comes Beckerus. hoc audientes Piccardi quadam nocte attemptaverunt clam exire et fugere, sed illi habentes custodiam ex eis interfecerunt 80, reliqui reintrarunt.",
+   "preklad": "[44b] Téhož času oblehl Becherus, hrabě z Bitche, hejtman pana Reinharda, vévody Lotrinského, město Nancy v Lotrinsku. To si předtím vévoda Burgundský přisvojil podvodem, lstí a lží, když tvrdil, že pan vévoda Lotrinský je mrtev a že on je jeho dědicem. Zanechal tam 1500 jezdců z Pikardie a Lombarďany. Ti by město rádi vydali, kdyby mohli volně odejít se životy a se svými věcmi. To však pan hrabě Becherus nechtěl. Když to Pikarďané uslyšeli, pokusili se jedné noci tajně vyjít a utéci, ale ti, kdo drželi stráž, jich 80 pobili a ostatní se vrátili dovnitř."
+  },
+  {
+   "text": "Dominus imperator infestatur a rege Hungarie, qui sibi in suis dominiis infert multa dampna. est imperator sine imperio, persequi facit Cristianos et suos.",
+   "preklad": "Pana císaře sužuje uherský král, který mu v jeho državách působí mnoho škod. Císař je bez říše, dopouští, aby byli pronásledováni křesťané i jeho vlastní [lidé]."
+  },
+  {
+   "text": "Dominus Matheus Müller officialis curie Basiliensis nuncius domini nostri reverendissimi episcopi in dieta Friburgensi scripsit vicario Basiliensi in hunc qui sequitur modum.",
+   "preklad": "Pan Matouš Müller, oficiál basilejské kurie, posel našeho nejdůstojnějšího pana biskupa na fribourgském sněmu, napsal basilejskému vikáři způsobem, který následuje."
+  },
+  {
+   "text": "[45] Eo tempore, cum domini essent in Friburgo in dieta, nunciatum est duci Reynhardo de Lothoringia, quod illi, qui Nanse sunt, vellent civitatem sibi ad manus tradere, dummodo ipse personaliter veniat. sicque recepta licencia a confederatis recessit et [Aug. 12] feria secunda post Laurencii venit Basileam et [Aug. 14] feria quarta, vigilia assumpcionis Marie, navigio recessit. requisivit eciam pro adjutorio dominos de liga, qui ei omnes addixerunt.",
+   "preklad": "[45] V té době, když byli páni ve Fribourgu na sněmu, bylo vévodovi Reinhardovi Lotrinskému oznámeno, že ti, kdo jsou v Nancy, mu chtějí vydat město do rukou, jen když přijde osobně. Vzal tedy od Spříseženců dovolení a odjel. [Aug. 12] V pondělí po sv. Vavřinci přijel do Basileje a [Aug. 14] ve středu, v předvečer Nanebevzetí Panny Marie, odplul lodí. Požádal také pány ze spolku o pomoc a ti mu ji všichni přislíbili."
+  },
+  {
+   "text": "[Aug. 12] Medio tempore et feria secunda post Laurencii Argentinenses miserunt ducentos equites ad Nanse ad alios, qui dictam civitatem obsidebant ex parte ducis Lothoringie. Basilienses eciam disponebant equites per singulas zunftas, dantes precium quo solverentur soldati ad eundem effectum.",
+   "preklad": "[Aug. 12] Mezitím, v pondělí po sv. Vavřinci, poslali Štrasburští dvě stě jezdců k Nancy k ostatním, kdo řečené město obléhali za vévodu Lotrinského. Také Basilejští rozvrhovali jezdce po jednotlivých cechách a dávali peníze, z nichž se za týmž účelem platili žoldnéři."
+  },
+  {
+   "text": "Balivus eciam dominus Oswaldus comes de Tierstein fecit vocari suos de dominio ducis Austrie in Suntgaudio ad Ensiszheym et disposuit atque ordinavit equites de nobilibus patrie ad eundem effectum.",
+   "preklad": "Také zemský fojt pan Oswald, hrabě z Thiersteinu, dal svolat své [lidi] z panství vévody Rakouského v Sundgau do Ensisheimu a za týmž účelem rozvrhl a zřídil jezdce ze šlechticů země."
+  },
+  {
+   "text": "[Aug. 17] Sabbato post assumpcionis Marie revenerunt ambasiatores de Friburgo Basileam, et Argentinenses portaverunt secum unam magnam bombardam librans 18 centenarios, signata clipeo Argentinensium, sed dicebatur, quod ipsa fuerit domini marchionis de Rötellen, qui solido eadem est figura, licet in picto differant.",
+   "preklad": "[Aug. 17] V sobotu po Nanebevzetí Panny Marie se vyslanci vrátili z Fribourgu do Basileje. Štrasburští s sebou vezli jedno velké obléhací dělo vážící 18 centů, označené štítem Štrasburských. Říkalo se však, že patřilo panu markraběti z Röttelnu, jehož znak má tentýž tvar, i když se liší barvami."
+  },
+  {
+   "text": "Extunc eciam dominus dux Lothoringie vel sui secum portaverunt duas longas bombardas librantes 33 centenarios. hec vidi in domo mercimoniorum Basiliensi librare.",
+   "preklad": "Tehdy také pan vévoda Lotrinský nebo jeho lidé vezli s sebou dvě dlouhá děla vážící 33 centů. Viděl jsem je vážit v basilejském kupeckém domě."
+  },
+  {
+   "text": "Prefati autem nuncii referebant, quod in dieta Friburgensi quoad Sabaudienses facta fuerit pax inter domum inclitam Sabaudiensem et confederatos superiores perpetuis temporibus, et quod dominus rex Francie nomine Philippi senioris filii quondam ducis Sabaudie, qui furtive duci Burgundie fuit abstractus, dum ipse caperet ejus matrem et alios duos filios,",
+   "preklad": "Řečení poslové pak vyprávěli, že na fribourgském sněmu byl, pokud jde o Savojské, uzavřen věčný mír mezi slavným savojským rodem a horními Spříseženci. Dále že pan král francouzský jménem Filipa, staršího syna zesnulého vévody Savojského, který byl vévodovi Burgundskému tajně odňat, když [ten] zajal jeho matku a další dva syny, [věta pokračuje v kap. 153]"
+  }
+ ],
+ "poznamky_editora": [
+  "ipsum deputatus nennt er sich Eidg. Absch. II, 612; vgl. den Abschied des",
+  "Tages zu Freiburg.bei Chmel, Mon. Habsb. I, 1, 220) und die damaligen Ver-",
+  "hältnisse Savoyens s. Guichenon I, 567. Commynes-Dupont II, 35 und Gin-",
+  "gins Mem. et Doc. VIII, 353 ff.",
+  "1) S. hiegegen 8. 37 A.5.",
+  "2) Nach der Schlacht bei Murten scheint allgemein das Gerücht gegangen",
+  "zu sein, der Bastard sei im See ertrunken, in welchem so viele Krieger aus",
+  "der unter seinem Befehle stehenden Heeresabtheilung den Tod gefunden.",
+  "Ochsenb. 305. 310. 339. Appiano, der in Gex davon vernahm, bezog es, da",
+  "der Bastard Anton selbst hier eingetroffen war, fälschlich auf den jüngern",
+  "Bastard Balduin, dem wir noch bei Nancy begegnen werden. Gingins II, 299.",
+  "3) Knebel hat dies nicht erzählt. Bd. II, 327, 25 ff. hat er berichtet, dass",
+  "Johannes Vest gefangen gesetzt worden sei, oben 31, 18, dass Heinrich v. Stein",
+  "den Hof des Joh. Wernher v. Flachsland in Constanz in Beschlag genommen",
+  "habe.",
+  "4) Vgl. Band II, 251 A. 2 und viele Stellen in den eidg. Abschieden II,",
+  "zuletzt 8. 587. 588. Nr. 837 e. u.",
+  "1) Vgl. unten pag. 28.",
+  "2) Eidg. Absch. II, 8. 600 Nr. 843 (Tag zu Baden, Juli 24) h: Da des",
+  "Fürsten von Österreich Räthe die Unternehmungen des Marschalls v. Pappen-",
+  "heim wider die Freibergische Partei... ., auch die Streitigkeiten des Bisthums",
+  "wegen angezogen haben, so hat man dieselben gebeten, daran zu sein, dass",
+  "keine Gewalt gebraucht, sondern die Sache auf dem Wege friedlicher Vermitt-",
+  "lung erhalten werde.",
+  "3) 8. unten pag. 18.",
+  "4) Wir geben den Wortlaut dieses Briefes und des demselben beigefügten",
+  "Berichtes über den Vortrag der königlichen Gesandtschaft im Zusammenhang",
+  "mit den übrigen von Knebel mitgetheilten Berichten über die Verhandlungen",
+  "zu Freiburg in den Beilagen.",
+  "1) Vgl. jedoch unten 8. 44, 10.",
+  "2) Das ist zuviel gesagt. S. die Verhandlungen v. Freiburg pag. 54ff. in",
+  "den Beilagen und den Abschied bei ChmelI, 1, 221 und Eidg. Absch. II,",
+  "S. 604 k.",
+  "3) Vgl. oben $8.28, 36. Das Wappen von Hochberg (Baden) enthält einen",
+  "rothen Schrägbalken in gelbem, das der Stadt Strassburg einen eben solchen",
+  "in weissem Felde.",
+  "4) Das Kaufhaus stand auf einem Theile des Areals des jetzigen Post-",
+  "gebäudes.",
+  "5) Vielmehr Philiberti."
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Číslo vráceno ze zdroje: „exercitum 5 millium virorum“ (odst. 1), dělení „5“ smazalo. Vischer: proti zvěsti o Karlově útěku stojí, že Karel měl hlavní stan v La Rivière až do 25. 9.",
+  "Vischer: po Murtenu se všeobecně šířila zvěst, že bastard Antonín utonul v jezeře. Byla to nepravda: Antonín dorazil do Gex. Appiano proto zprávu chybně vztáhl na mladšího bastarda Baudouina.",
+  "Vischer: Knebel o Pappenheimovi dříve nepsal. Psal jen, že Jan Vest byl uvězněn, a že Heinrich ze Steinu zabral Flachslandenův dvorec (kap. 149). Lantzo: viz Vischer, sv. II, 251 a Eidg. Abschiede. Spor je kostnické schizma, „před pěti lety“ tedy kolem roku 1471.",
+  "Okraj odst. 5: OCR má „Juli 23“, což nesedí s „post festum sancti Jacobi“ (25. 7.). Snad jde o „Juli 28“, nejisté, ověřit. „Fribergenses venit“ je zkomolené (snad „Fribergensis“, tedy Ludvík z Freibergu), přeloženo s [?]. Vischer: sněm v Badenu 24. 7. požádal rakouské rady, aby proti freiberské straně nebylo použito násilí. „Ka“ na začátku odstavce je šum OCR, odstraněn.",
+  "Becherus/Beckerus, hrabě z Bitche, je patrně Simon Wecker z Zweibrücken-Bitsch (mimo přepis). Stránkování: „[44°]“ = [44b], „[4s?]“ = [45].",
+  "Data: [Aug. 12] pondělí po sv. Vavřinci (10. 8.). [Aug. 14] středa, vigilie Nanebevzetí. [Aug. 17] sobota po Nanebevzetí. Vischer: Müllerův list a zprávu o vystoupení francouzského poselstva otiskuje v přílohách. Že Reného podpořili „všichni“, je podle Vischera přehnané.",
+  "Vischer: erb Hochbergů (markrabí z Röttelnu) má červené šikmé břevno ve zlatém poli, Štrasburk totéž v bílém poli. Kupecký dům stál na části pozemku dnešní pošty. „centenarius“ = cent. U dvou děl „33 centů“ není jasné, zda jde o váhu každého, nebo obou.",
+  "Odstraněn vlepený zbytek Vischerovy poznámky o ženevském biskupovi uprostřed slova „cupiditatis“ (odst. 4). Vischer: místo „Philippi“ má být „Philiberti“ (vévoda Filibert I.). Úsek končí uprostřed věty, pokračuje kap. 153."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,18 @@
+{
+ "cislo": 11,
+ "nadpis": "Tobler 1917, s. 22",
+ "nadpis_preklad": "Dřevořez: bitva u Murtenu",
+ "strana_edice": 22,
+ "rukopis_strana": null,
+ "odstavce": [],
+ "obrazky": [
+  {
+   "soubor": "originaly/Reimchronik/drevorez_s22.jpg",
+   "popis": "Dřevořez: Bitva u Murtenu (prvotisk Knoblochtzer 1477)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky_prekladu": [],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

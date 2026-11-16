@@ -1,0 +1,65 @@
+{
+ "cislo": 12,
+ "nadpis": "Tobler 1917, s. 23",
+ "nadpis_preklad": "Bitva u Murtenu (22. června 1476)",
+ "strana_edice": 23,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Ein grosses her hat er by jm. / Er sprach: «wir wend ir warten / Von Engellant, als ech  vernym, / Bickarter ouch lamparten.»",
+   "preklad": "Měl u sebe velké vojsko. / Řekl: „Počkáme na ně, / z Anglie, jak slyším, / a také na Pikardy a Lombarďany.“",
+   "vers_od": 279
+  },
+  {
+   "text": "Als man nuon schier zuom leger kam, / Sin büchssen grüslich snurrten. / Sin volck gar grossen schaden nam, / Geschach gar nohe by murten.",
+   "preklad": "Když se pak přišlo skoro k ležení, / jeho děla strašlivě hučela. / Jeho lid utrpěl velkou škodu; / stalo se to velmi blízko Murtenu.",
+   "vers_od": 283
+  },
+  {
+   "text": "Wol sübczehentusent vnd ouch me / Die wordent do her slagen, / Gar vil ertrunckent in dem se, / Sich huob ein fyntlich iagen.",
+   "preklad": "Dobrých sedmnáct tisíc i víc / jich tam bylo pobito, / velmi mnoho se utopilo v jezeře, / strhl se nepřátelský hon.",
+   "vers_od": 287
+  },
+  {
+   "text": "Vff einen samstag diß geschach / Der zehentusent ritter . / Gar vil man im der nider stach, / Ir end das ward in bitter.",
+   "preklad": "Stalo se to v sobotu, / na den Deseti tisíc rytířů. / Velmi mnoho mu jich srazili, / jejich konec byl pro ně hořký.",
+   "vers_od": 291
+  },
+  {
+   "text": "Man zalte sehß vnd sübentzig ior / Dar zuo ouch vierczehen hundert. / Zuo berg uff stigent in die hor, / Von forcht ir keiner plundert.",
+   "preklad": "Psal se rok sedmdesát šest / a k tomu čtrnáct set. / Vlasy jim vstávaly hrůzou na hlavě, / ze strachu nikdo z nich nesbalil své věci [?].",
+   "vers_od": 295
+  },
+  {
+   "text": "Die wagenburg bleib ouch do ston / Vnd manche büchsß dar inne. / Burgundsches her, daz flöhe dar von, / Es was im nicht im sinne.",
+   "preklad": "Vozová hradba tam také zůstala stát / a v ní mnohé dělo. / Burgundské vojsko odtamtud prchlo, / nebylo mu to po chuti.",
+   "vers_od": 299
+  },
+  {
+   "text": "Der Edel fürst waz ouch do by / Her reinhart von lotringen. / Man sluog gar manchen ritter fry / Glich kurtz vor disen dingen .",
+   "preklad": "Byl tam při tom také urozený kníže, / pan René Lotrinský. / Pasovali tam mnoho rytířů / těsně před těmito událostmi.",
+   "vers_od": 303
+  },
+  {
+   "text": "Do danckt man got gar inneglich / Mitt singen vnd mitt lesen, / Das er vns so genediclich / Bystendig ist gewesen.",
+   "preklad": "Tu se Bohu velmi vroucně děkovalo / zpěvem a čtením (mší), / že nám tak milostivě / stál po boku.",
+   "vers_od": 307
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Druckfehler für: ich.",
+  "Schilling II, 60, Anm. 4.",
+  "22. Juni 1476.",
+  "Schilling II, 47."
+ ],
+ "poznamky_prekladu": [
+  "v. 281: tisková chyba „ech“ místo „ich“ (pozn. editora). v. 282 „Bickarter ouch lamparten“ = Pikardi a Lombarďané; anglické a italské žoldnéře Karel skutečně měl (mimo text).",
+  "Bitva u Murtenu, sobota 22. června 1476 (pozn. editora), na svátek Deseti tisíc mučedníků (v německé tradici „rytířů“, sv. Achác a druhové).",
+  "v. 287: počet padlých viz Schilling II, 60, pozn. 4 (pozn. editora); mnoho Burgunďanů zahynulo v Murtenském jezeře (mimo text).",
+  "v. 297–298: smysl v. 298 „Von forcht ir keiner plundert“ nejistý [?]; „plundern“ snad = sbalit si věci (Plunder = svršky), tj. prchali bez zavazadel; nebo „nikdo z nich ze strachu neplenil“.",
+  "v. 303–306: René II. Lotrinský bojoval u Murtenu po boku Spříseženců; pasování rytířů před bitvou – srov. Schilling II, 47 (pozn. editora). „ritter fry“ – „fry“ asi jen kvůli rýmu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

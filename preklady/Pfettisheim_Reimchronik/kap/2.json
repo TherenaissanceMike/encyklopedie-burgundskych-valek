@@ -1,0 +1,62 @@
+{
+ "cislo": 2,
+ "nadpis": "Tobler 1917, s. 13",
+ "nadpis_preklad": "Hagenbach zemským fojtem v Sundgau",
+ "strana_edice": 13,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Solt man sin dester e vergessen. / Mit hochmuot waz sin hertz vermessen. / Es macht sich dar noch snelleclich. / Herczog sygmund von österich",
+   "preklad": "zapomenou na něj tím dříve. / Jeho srdce bylo naplněno zpupnou pýchou. / Brzy nato se stalo, / že vévoda Zikmund Rakouský",
+   "vers_od": 31
+  },
+  {
+   "text": "Wolt ein lant vogtig verpfenden / Im sunckow vnd an selben enden. / Do nuon der anslag gar gesthach, / Gedocht her peter hagenbach:",
+   "preklad": "chtěl dát do zástavy zemské fojtství / v Sundgau a v těch končinách. / Když se ten záměr uskutečnil, / pomyslel si pan Peter Hagenbach:",
+   "vers_od": 35
+  },
+  {
+   "text": "Der hertzog von burgund, myn her, / Wan der dar zuo genöuget wer, / Ich hett nicht gar verloren. / Die lant vogtig ward guot burgundsch, / Die sach fügt sich noch sinem wunsch. / Glich bald dar noch kam uß die mer, / Wie hagenbach im suntgow wer",
+   "preklad": "„Vévoda burgundský, můj pán, / kdyby k tomu byl nakloněn, / nevyšel bych naprázdno.“ / Zemské fojtství se stalo pěkně burgundským, / věc se vyvinula podle jeho přání. / Hned nato se rozešla zpráva, / že Hagenbach byl v Sundgau",
+   "vers_od": 39
+  },
+  {
+   "text": "Ein lantvogt vßherkoren. / Do herschet er jn über muot / Es was den bürgern nicht ser guot",
+   "preklad": "vybrán za zemského fojta. / Tu vládl ve zpupnosti, / pro měšťany to nebylo nic dobrého",
+   "vers_od": 46
+  },
+  {
+   "text": "Zuo brysach vnd zuo danne. / Den bösen pfennig wolt er han / Vnd fing vil nüwer schaczung an,",
+   "preklad": "v Breisachu a v Thannu. / Chtěl mít „zlý fenik“ / a zavedl mnoho nových dávek,",
+   "vers_od": 49
+  },
+  {
+   "text": "Der brot trouff jm jn pfanne. / Zuom Ersten kund er kratzen lyse, / Mit senfftikeit zuo glicher wyse",
+   "preklad": "které mu kapaly do pánve. / Zpočátku uměl škrábat zlehka / a zároveň s mírností,",
+   "vers_od": 52
+  },
+  {
+   "text": "Als wer es jm jm hertzen; / Do er das grasß hergriffen hat, / Er herstht zuo brysach jn der stat, / Die burger litten smertzen.",
+   "preklad": "jako by mu to šlo od srdce; / když se však pevně uchytil, / vládl v Breisachu ve městě [tvrdě], / měšťané trpěli bolestí.",
+   "vers_od": 55
+  },
+  {
+   "text": "Do nuon der schimpf am besten waz, / Sin hochfart nam ein ende. / Sie mochtent nymmen gelyden daz / Vnd fingent in behende.",
+   "preklad": "Když pak byla legrace v nejlepším, / jeho pýcha vzala konec. / Už to nemohli snést / a rychle ho zajali.",
+   "vers_od": 59
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [],
+ "poznamky_prekladu": [
+  "pokračování sloky z předchozí strany (v. 31).",
+  "Zikmund Habsburský, vévoda (arcivévoda) rakouský a hrabě tyrolský, zastavil Karlu Smělému roku 1469 smlouvou ze Saint-Omer Horní Alsasko, Sundgau, Breisgau a Breisach (mimo text).",
+  "Sundgau = jižní Alsasko; Breisach = Breisach am Rhein; „danne“ = Thann v Alsasku.",
+  "v. 50 „böser pfennig“: nenáviděná daň (akcíz) z vína, kterou Hagenbach zavedl (mimo text); překládáno doslova „zlý fenik“.",
+  "v. 53 „Der brot trouff jm jn pfanne“: doslova „pečeně mu kapala do pánve“ – obraz pro snadné příjmy.",
+  "v. 56 „Do er das grasß hergriffen hat“: idiom, doslova „když se chopil trávy“; překládáno „když se pevně uchytil“ [?].",
+  "Hagenbacha zatkli vzbouření měšťané v Breisachu na Velikonoce, 11. dubna 1474 (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

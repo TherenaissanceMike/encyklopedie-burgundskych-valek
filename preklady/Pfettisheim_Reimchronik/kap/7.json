@@ -1,0 +1,61 @@
+{
+ "cislo": 7,
+ "nadpis": "Tobler 1917, s. 18",
+ "nadpis_preklad": "Tažení v létě 1475; Karel se obrací proti Švýcarům",
+ "strana_edice": 18,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Dar noch zuor nehsten summer zyt / Begund man wider reysenn, / Es wordent gar vill armer lütt, / Ouch wittwen vnde weisenn.",
+   "preklad": "Potom v nejbližším letním čase / se znovu vytáhlo do pole; / mnoho lidí přišlo na mizinu, / přibylo i vdov a sirotků.",
+   "vers_od": 191
+  },
+  {
+   "text": "Gar bald gewann man etlich slosß / In einer kurtzen wyle, / Gransen, blamont mit keim verdrosß, / Dar zuo ein statt hieß lyle .",
+   "preklad": "Velmi brzy dobyli několik hradů / v krátké chvíli: / Grandson, Blâmont bez potíží / a k tomu město jménem L'Isle.",
+   "vers_od": 195
+  },
+  {
+   "text": "Disen nutz gewann er dor an, / Der hertzog von burgunde, / Als seit gar mancher clappermann / Wie wol er kriegen kunde.",
+   "preklad": "Tento užitek z toho měl / vévoda burgundský, / jak vypráví mnohý žvanil, / že tak dobře umí válčit.",
+   "vers_od": 199
+  },
+  {
+   "text": "Die vnsern komen frisch zuo huß, / Es was jn wol hergangenn, / Dar zuo so bleib jr wenig vß, / Ouch was ir keir gefangenn.",
+   "preklad": "Naši se vrátili v pořádku domů, / dařilo se jim dobře, / jen málokdo z nich se nevrátil / a nikdo z nich nebyl zajat.",
+   "vers_od": 203
+  },
+  {
+   "text": "Sü lobten got von hymmelrich / Mitt siner werden güte, / Das er so gar genediclich / Die vnsern hatt behüte.",
+   "preklad": "Chválili Boha na nebesích / za jeho vzácnou dobrotu, / že tak velmi milostivě / ochránil naše.",
+   "vers_od": 207
+  },
+  {
+   "text": "Dar noch zoh hertzog karle ein fart / Vnd wolt die swytzer bröugen . / Man meint, er wolt gon mimpelgart, / Gar bald ward er sich öugenn .",
+   "preklad": "Potom se vévoda Karel jednou vydal na cestu / a chtěl se Švýcarům posmívat. / Myslelo se, že chce na Montbéliard, / velmi brzy se však ukázal.",
+   "vers_od": 211
+  },
+  {
+   "text": "Als man gransen gewunnen hat, / Man macht sich hin zuo strossen. / Vmb sicherung ließ man in der stat / Vierhundert Eydgenossen.",
+   "preklad": "Když byl Grandson dobyt, / vydali se zase na cestu. / Pro zabezpečení nechali ve městě / čtyři sta Spříseženců.",
+   "vers_od": 215
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Grandson wurde am 30. April 1475 erobert (Schilling I, 219), Blamont am 9. August (Schilling I, 260), L’Isle zwischen dem 18. und 20. Juli (Schilling I, 247). Vielleicht verwechselt der Dichter Grandson mit Granges, das am 25. Juli gewonnen wurde (Schilling I, 248).",
+  "= Schwätzer.",
+  "= verspotten, grosstun. Schweiz. Idiotikon V, 516, 519. Die Konstruktion ist sonderbar.",
+  "= zeigen."
+ ],
+ "poznamky_prekladu": [
+  "v. 196–198: Grandson byl dobyt 30. 4. 1475, Blâmont 9. 8., L'Isle-sur-le-Doubs 18.–20. 7. 1475; básník snad zaměňuje Grandson s Granges (dobyto 25. 7.) – pozn. editora (Schilling I, 219, 260, 247, 248).",
+  "v. 199–202: ironie – Karel z těchto ztrát „užitek“ neměl, jak tvrdí žvanilové („clappermann“ = tlachal, pozn. editora).",
+  "v. 203: „die vnsern“ = Štrasburští.",
+  "v. 212 „bröugen“ = posmívat se, vytahovat se (pozn. editora; Idiotikon V, 516, 519; konstrukce je podivná). v. 214 „öugen“ = ukázat (pozn. editora).",
+  "„swytzer“ překládáno „Švýcaři“, „Eydgenossen“ podle glosáře „Spříseženci“. Básník podle editora užívá jméno „Švýcaři“ nevinně, nevěda, jak nemilé bylo tehdy Spříseženům.",
+  "Montbéliard (Mömpelgard) v hrabství Montbéliard; Karel táhl v únoru 1476 přes Jura k Grandsonu (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

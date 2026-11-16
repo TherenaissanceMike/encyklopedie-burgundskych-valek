@@ -1,0 +1,125 @@
+{
+ "cislo": 205,
+ "nadpis": "Basler Chroniken III, s. 201–203",
+ "nadpis_preklad": "Císař vypovídá válku Francii, spory o biskupství, zatmění slunce a mor v Itálii (1478)",
+ "svazek": "III",
+ "strany_edice": [
+  201,
+  203
+ ],
+ "rok": 1478,
+ "rukopis_strana": 144,
+ "odstavce": [
+  {
+   "text": "ducem Austrie, Burgundie etc. ad tredecim menses, serenissimus dominus noster Fridericus Romanorum imperator propter certas causas disposuit diffidare regem Franckorum, prout in infrascripta copia continetur, et disposuit, quod omnes principes electores sacri Romani imperii et alii principes, duces, marchiones, comites, barones, milites et militares, civitates, opida sacro Romano imperio subjecti eciam eundem regem diffidarent et essent parati ad arma et invadendum una cum sua majestate imperiali aut ejus capitaneo, quando transiret, ut eciam in certa alia copia, que hic infra est registrata, continetur.",
+   "preklad": "[…] vévodou Rakouským, Burgundským atd., na třináct měsíců, rozhodl se náš nejjasnější pán Fridrich, římský císař, z jistých příčin vypovědět nepřátelství králi Franků, jak obsahuje níže zapsaný opis. A nařídil, aby všichni kurfiřti svaté říše římské a ostatní knížata, vévodové, markrabata, hrabata, svobodní páni, rytíři a válečníci, města a městečka poddaná svaté říši římské rovněž vypověděli témuž králi nepřátelství a byli hotovi ke zbrani a k vpádu spolu s Jeho císařskou Velebností nebo s jeho hejtmanem, až potáhne, jak obsahuje také jiný opis, který je níže zapsán."
+  },
+  {
+   "text": "[144b] De adventu domini de Friberg confirmati Constanciensis. [Aug. 13] Feria quinta proxima ante assumpcionis Marie dominus Ludowicus de Friberg episcopus Constanciensis provisus venit navigio ad Bodmen et ibi dimissa classe receptis equis ivit in Zellam Episcopalem prope lacum. quid fiat nescio.",
+   "preklad": "[144b] O příchodu pana z Friberga, potvrzeného [biskupa] kostnického. [Aug. 13] Ve čtvrtek před Nanebevzetím Panny Marie připlul pan Ludvík z Friberga, biskup kostnický jmenovaný [papežem], lodí do Bodmanu. Tam opustil loďstvo, vzal si koně a jel do Biskupské Celly (Bischofszell) u jezera. Co se stane, nevím."
+  },
+  {
+   "text": "De obitu Spirensis et Rabani eleccione. [Aug. 10] Eodem tempore circa festum sancti Laurencii episcopus Spirensis diem vite sue clausit extremum. dominus Philippus palatinus Reni et dux Bavarie cum aliis principibus electoribus imperii mandaverunt, ut capitulum eligeret concorditer, quem noscerent utiliorem in spiritualibus et temporalibus, et quem eligerent, eundem eciam manutenere vellent. sicque intrantes conclavim concorditer elegerunt dominum Rabanum de Helmstat canonicum . . . . in pastorem et episcopum Spirensem, et introducentes eum dederunt sibi possessionem.",
+   "preklad": "O smrti [biskupa] špýrského a volbě Rabana. [Aug. 10] V téže době, kolem svátku sv. Vavřince, dokonal biskup špýrský poslední den svého života. Pan Filip, falckrabě rýnský a vévoda bavorský, spolu s ostatními knížaty kurfiřty říše nařídili, aby kapitula svorně zvolila toho, koho uzná za nejprospěšnějšího ve věcech duchovních i světských, a koho zvolí, toho že také chtějí podporovat. Vešli tedy do konkláve a svorně zvolili pana Rabana z Helmstattu, kanovníka . . . ., za pastýře a biskupa špýrského, uvedli ho [do úřadu] a dali mu držbu."
+  },
+  {
+   "text": "[145] De eclipsi solis. [Juli 29] Anno dominice nativitatis 1478 post meridiem verum Basiliensem 29. diei mensis julii, que fuit feria quarta post festum Jacobi apostoli, una hora et dimidia transactis fuit eclipsatus de dyametro solis ab ea parte sui, que respicit austrum sive meridiem, tres quarte cum modico plus. incepit autem eclipsari duabus terciis unius hore post meridiem decursis duravitque a principio usque ad finem una hora et duabus terciis, eratque solis verus motus, lune autem visus, 14 gradus leonis in medio eclipsis. leonem vidi in speculo in aqua posito.",
+   "preklad": "[145] O zatmění slunce. [Juli 29] Léta od narození Páně 1478, 29. dne měsíce července, jenž byl středou po svátku sv. Jakuba apoštola, když po pravém basilejském poledni uplynula hodina a půl, byly zatměny z průměru slunce, na té jeho straně, která hledí k jihu čili k poledni, tři čtvrtiny a něco málo víc. Zatmívat se počalo, když uplynuly dvě třetiny hodiny po poledni, a trvalo od začátku do konce hodinu a dvě třetiny. Pravý pohyb slunce i zdánlivý [pohyb] měsíce byl uprostřed zatmění na 14. stupni Lva. Lva [?] jsem viděl v zrcadle postaveném do vody."
+  },
+  {
+   "text": "[150b] Illo tempore, videlicet de mensi julii, augusti et septembri, in Ytalia maxima est pestilencia, ita ut de Veneciis fugerent propter pestem plus quam centum milia virorum, et extunc fuit maxima gwerra inter dominum Sixtum papam quartum, regem Vernandum de Neapoli, qui habet suum exercitum in Marchia contra Pisanos, papa vero suum habet exercitum contra Florentinos, ex una et Florentinos, Venecianos, Mediolanum et Januenses ex alia, et est mirabilis lis in illis partibus, cujus similis non est in memoria hominum.",
+   "preklad": "[150b] V té době, totiž v měsících červenci, srpnu a září, je v Itálii převeliký mor, takže z Benátek kvůli moru uprchlo více než sto tisíc lidí. A tehdy byla převeliká válka mezi panem papežem Sixtem IV. a králem Ferdinandem neapolským, který má své vojsko v Markách proti Pisánským (papež pak má své vojsko proti Florenťanům), na jedné a Florenťany, Benátčany, Milánem a Janovany na druhé straně. Je to v těch krajích podivuhodný spor, jemuž podobný nemají lidé v paměti."
+  },
+  {
+   "text": "In causa Constanciensis ecclesie dominus noster imperator vult quod eleccio habeat locum et sic maneat dominus de Sunnenberg, quamvis dominus noster papa Sixtus providerit domino de Friberg de episcopatu.",
+   "preklad": "Ve věci kostnického kostela chce náš pán císař, aby platila volba a aby tak zůstal pan ze Sonnenbergu, ačkoli náš pán papež Sixtus udělil biskupství panu z Friberga."
+  },
+  {
+   "text": "[151] 1478. Eodem tempore in fine augusti obiit dominus episcopus Spirensis et pro eo fuit electus dominus de Helmstat. cardinalis autem Johannes Hesler requisivit dominos de capitulo, ut sibi traderent episcopatum, quia dominus noster sanctissimus sibi eum reservasset. sed nemo sibi quidquam tradidit. miserunt pro provisione apostolica venerabilem dominum Jacobum Pfaw scolasticum Basiliensem et canonicum Spirensem ad Urbem.",
+   "preklad": "[151] 1478. V téže době, koncem srpna, zemřel pan biskup špýrský a místo něho byl zvolen pan z Helmstattu. Kardinál Jan Hesler však žádal pány z kapituly, aby mu biskupství odevzdali, protože si je pro něho vyhradil náš pán nejsvětější [papež]. Nikdo mu však nic neodevzdal. Pro papežské potvrzení (provisio) poslali do Říma ctihodného pana Jakuba Pfawa, basilejského scholastika a špýrského kanovníka."
+  },
+  {
+   "text": "[Oct. 17] Die sabbati, que fuit vigilia Luce ewangeliste, mortuus est reverendus pater et illustris princeps dominus Robertus dux Bavarie episcopus Argentinensis, et in ejus locum electus est . . . .",
+   "preklad": "[Oct. 17] V sobotu, jež byla vigilií sv. Lukáše evangelisty, zemřel ctihodný otec a osvícený kníže pan Robert (Ruprecht), vévoda bavorský, biskup štrasburský, a na jeho místo byl zvolen . . . ."
+  },
+  {
+   "text": "Eo tunc eciam mortuus est Albertus marchio Brandenburgensis, vir nequissimus in vita sua. hic quondam, dum regnum Bohemie fuisset in errore Husitarum et propterea extunc papa Martinus de Columpna natus et rex Sigismundus rex Hungarie et Bohemie dominus in Lutzelburg maximum exercitum de tota Cristianitate contra eos congregassent et expungnare Bohemos venissent, hic nequam iniit et fecit fugam et scandalum toti universali ecclesie fecit. hic multa mala fecit in ecclesia et tota Alamania.",
+   "preklad": "Tehdy také zemřel Albrecht, markrabě braniborský, muž za svého života nanejvýš ničemný. Kdysi, když bylo království české v bludu husitů, a proto tehdy papež Martin, rozený Colonna, a král Zikmund, král uherský a český, pán lucemburský, shromáždili proti nim největší vojsko z celého křesťanstva a přišli Čechy přemoci, tento ničema útěk začal a provedl a způsobil celé obecné církvi pohoršení. Napáchal mnoho zla v církvi i v celém Německu."
+  },
+  {
+   "text": "Eo tempore in civitate Coloniensi alique ecclesie collegiate habuerunt ab antiquo portas in suis circumferenciis et possessionibus, que claudebantur nocturnis temporibus, quibus prohiberetur, ne canonicis et ibi prebendatis pateret via nocturno tempore evagandi vel eciam aliis intrandi ad eos, quibus ipsi in disciplina et regulari vita impedirentur. contigit jam illis diebus, quod canonici et [151b] prebendati ad Apostolos Colonienses haberent certas insidias, unde ipsi permoti clauderent suas portas, ne nocturno tempore possent invadi. Colonienses hoc male ferentes miserunt, qui portas hujusmodi violenter apperirent et destruerent. mane canonici ad Apostolos miserunt ad venerabilem et illustrem dominum Stephanum ducem Bavarie decanum ecclesie majoris Coloniensis conservatorem jurium et privilegiorum ipsorum, conquerentes hujusmodi eis illatas",
+   "preklad": "V té době měly v městě Kolíně některé kolegiátní kostely odedávna ve svých okrscích a državách brány, které se v noci zavíraly, aby se zabránilo tomu, že by kanovníkům a tamním obročníkům byla v noci otevřena cesta k toulkám, nebo i jiným cesta k nim, čímž by byli rušeni v kázni a řeholním životě. V těch dnech se stalo, že kanovníkům a [151b] obročníkům u sv. Apoštolů v Kolíně kdosi strojil úklady. Proto, tím pohnuti, zavřeli své brány, aby na ně nemohl být v noci učiněn útok. Kolínští to nesli nelibě a poslali [lidi], aby ty brány násilím otevřeli a zničili. Ráno poslali kanovníci od sv. Apoštolů k ctihodnému a osvícenému panu Štěpánovi, vévodovi bavorskému, děkanovi kolínského dómu a ochránci (konzervátorovi) jejich práv a privilegií, a stěžovali si na tyto jim způsobené […]"
+  }
+ ],
+ "poznamky_editora": [
+  "1) Es folgen nun die beiden Schriftstücke, die Chmel, Mon. Habsb. 1], 2,",
+  "317ff. nach gleichzeitigen Abschriften im k. k. Haus- und Staatsarchiv abge-",
+  "druckt hat. Das erste, das Knebel unter den Überschriften »Sequitur diffi-",
+  "dacio majestatis imperialis sub hac verborum forma ut ecce. Diffidacio do-",
+  "mini imperatoris facta Ludowico regi Francie« mittheilt, ist ein Schreiben des",
+  "Kaisers an Ludwig, datiert Gratz, April 16, in welchem er ihm seine Beschwer-",
+  "den darlegt und ihn auffordert, dieselben abzustellen, widrigenfalls er ge-",
+  "nöthigt sein werde, mit den Waffen gegen ihn vorzugehn. Das zweite, von",
+  "Knebel überschrieben »Diffidacionis vero prineipum et eivitatum etc. copie",
+  "tenor sequitur et est talis« ist die Formel eines von den Reichsständen zu er-",
+  "lassenden Schreibens an den König, in welchem sie ihn bitten, der Aufforde-",
+  "rung des Kaisers zu entsprechen, indem sie sonst demselben den schuldigen",
+  "Beistand leisten würden. Bei Chmel folgen dann 8. 321 ff. als Nr. X— XIV.",
+  "XVI— XIX wirkliche Schreiben verschiedener Kurfürsten und Fürsten an den",
+  ". König oder Regesten von solchen aus der Zeit vom 24. Mai bis zum 15. Juni,",
+  "die aber zum Theil jenes Formular in freier Weise, zum Theil gar nicht be-",
+  "nützen.",
+  "2) Der Bischof Matthias Rammung starb am 1. August.",
+  "3) Vielmehr Ludwig von Helmstädt. Vgl. unten pag. 181. Ein Raban",
+  "von Helmstädt war Bischof von Speier gewesen (1396—1438), als Knebel in",
+  "Heidelberg studierte (vgl. 8. 199 A. 5).",
+  "Juli 29",
+  "Juli.",
+  "August.",
+  "Sept.",
+  "Aug. [1]",
+  "Aparát: 1. Für die nähere Bezeichnung des canonicum ist eine Lücke gelassen. 3. Das ge-",
+  "sperrt Gedruckte steht am obern Rande der Seite. 24. quam.",
+  "1) Über diese Bischofswahl s. noch unten Z. 26 ff. pag. 157. 181.",
+  "2) Die Basler Uhr ging bekanntlich bis zum J. 1798 um eine Stunde vor.",
+  "Wenn Knebel sagt, die Sonnenfinsterniss habe 11/, Stunden nach dem wah-",
+  "ren Basler Mittag begonnen, so scheint dieser wahre Mittag dem offieiellen",
+  "entgegengestellt zu sein. 5",
+  "3) Es folgt jetzt unter der Überschrift »Disz ist die rachtung und bestant",
+  "zwischen dem allerkristenlichen fursten hern Ludowigen küng zü Franck-",
+  "rich an einem und dem durluchtigisten fursten hern Maximilian hertzogen zü",
+  "Osterrich und Burgundi ete. am andern teilen« eine deutsche Übersetzung der",
+  "von Ludwig am 11. Juli zu Arras vollzogenen Verbriefung des Waffenstill-",
+  "standes nach einem Vidimus vom 13. Juli. Wir drucken dieses Schriftstück",
+  "in den Beilagen ab. |",
+  "4) Reumont, Lorenzo I, 295 ff.",
+  "5) Vgl. oben 8. 201, 16 ff.",
+  "Aparát: 8. Nach electus est sind einige Zeilen freigelassen. 18. Nach Coloniensi steht ein",
+  "in den spätern Zusammenhang nicht mehr passendes fuit. 20. 21. prohiberentur.",
+  "Aparát: 23. regualari. 31. privilegium.",
+  "1) S. unten pag. 181. 183b.",
+  "2) Vgl. mit dieser falschen Nachricht 8. 96, 1.",
+  "3) Knebel verwechselt Albrecht mit seinem Vater, dem Kurfürsten Frie-",
+  "drich I, der im Hussitenkriege von 1431 die undankbare Aufgabe eines Ober-",
+  "befehlshabers über das Reichsheer übernommen hatte. Die Nürnbergische",
+  "Chronik aus Kaiser Sigmunds Zeit sagt (Chron. d.d. Städte I, 384, 12) bei Er-",
+  "zählung der grossen Niederlage des Reichsheeres: und man zeh den marg-",
+  "graven und herezog Hansen [Pfalzgraf Johann von Neumarkt], das sy den",
+  "aufpruch gemacht hetten.",
+  "4) Nach Ennen, Gesch. d. Stadt Köln III, 580, 585 war Pfalzgraf Stephan",
+  "damals Domcustos. Vgl. mit unsrer Erzählung die auf pag. 181b."
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Úsek začíná uprostřed věty z kap. 204 („Antequam fuissent treuge facte … Maximilianum“). Vischer: následují dva opisy, které Chmel otiskl podle soudobých kopií: císařův list Ludvíkovi z Grazu 16. 4. (stížnosti a hrozba zbraní) a formulář listu říšských stavů králi. Skutečné listy knížat jsou z 24. 5. až 15. 6.",
+  "Data: [Aug. 13] čtvrtek před Nanebevzetím P. Marie (15. 8., sobota) = 13. 8. 1478. [Aug. 10] sv. Vavřinec; okrajové datum v OCR nečitelné („aux. ii“), doplněno podle svátku. [Juli 29] středa po sv. Jakubovi = 29. 7. 1478. [Oct. 17] sobota, vigilie sv. Lukáše = 17. 10. 1478. Okraje u italského odstavce: „Juli. August. Sept.“",
+  "Vischer: špýrský biskup Matthias Rammung zemřel 1. 8. Knebel uvádí jednou „kolem sv. Vavřince“, podruhé „koncem srpna“. Zvolen byl Ludvík z Helmstattu, ne Raban. Raban z Helmstattu byl špýrským biskupem 1396–1438, v době Knebelových studií v Heidelbergu. Za „canonicum“ nechal Knebel mezeru (aparát).",
+  "Vischer: basilejské hodiny šly až do r. 1798 o hodinu napřed, proto Knebel rozlišuje „pravé“ basilejské poledne. „Leonem vidi in speculo in aqua posito“ je tak v tisku. Smysl je nejasný, patrně pozoroval zatmění (slunce ve Lvu) odražené v zrcadle ve vodě. Ověřit v rukopisu. Po zatmění Knebel opsal německý překlad příměří z Arrasu (Ludvík XI., 11. 7. 1478, vidimus 13. 7.), Vischer ho otiskl v přílohách, proto skok z [145] na [150b].",
+  "Kostnický rozkol (mimo přepis): kapitula zvolila Ottu ze Sonnenbergu, papež jmenoval Ludvíka z Friberga. „Johannes Hesler“ je kardinál Jiří Hessler (mimo přepis), Knebel ho jinde nazývá jen Heseler. „Robertus“ je Ruprecht Falcko-Simmernský, štrasburský biskup (mimo přepis). Za „electus est“ nechal Knebel několik volných řádků (aparát).",
+  "Vischer: zpráva o smrti Albrechta Braniborského je falešná (srov. dřívější místo). Albrecht Achilles zemřel až 1486 (mimo přepis). Knebel ho zaměňuje s jeho otcem, kurfiřtem Fridrichem I., který ve válce proti husitům 1431 převzal nevděčnou úlohu vrchního velitele říšského vojska. Norimberská kronika uvádí, že útěk začali markrabě a vévoda Hans (falckrabě Jan z Neumarktu). Jde o útěk u Domažlic 14. 8. 1431 (mimo přepis).",
+  "Vischer (Ennen): falckrabě Štěpán byl tehdy kustodem, ne děkanem kolínského dómu. Aparát: po „Coloniensi“ stojí v rukopisu nehodící se „fuit“.",
+  "Opravy OCR: „capitane“ → capitaneo, „class&“ → classe, [14P] → [144b] (podle druhého OCR), „FEodem“ → Eodem, „Pavarie“ → Bavarie, „canoni11.16. Das gesperrt…cum... ..“ → canonicum . . . . (vložený aparát odstraněn), „sul“ → sui, [150°] → [150b], „quamo:s“ → quamvis (aparát: v rukopisu „quam“), „prohiberefur“ → prohiberetur, „regwlari“ → regulari, [151°] → [151b]. „Plus quam centum milia“ a „14 gradus“ ověřeny ve zdroji. Odstavce rozděleny podle Knebelových nadpisů a témat."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

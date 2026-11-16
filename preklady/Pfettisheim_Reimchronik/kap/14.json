@@ -1,0 +1,64 @@
+{
+ "cislo": 14,
+ "nadpis": "Tobler 1917, s. 25",
+ "nadpis_preklad": "Třetí obléhání Nancy a výpady posádky (1476)",
+ "strana_edice": 25,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Des grossen allexanders buoch / Das ließ er im für lesen – / Mach dich harfürher, escher tuoch! – / Er wers ouch gern gewesen.",
+   "preklad": "Knihu o velikém Alexandrovi / si dával předčítat / – vylez ven, ty hrubá pytlovino! – / rád by jím byl také býval.",
+   "vers_od": 343
+  },
+  {
+   "text": "Sin achtent die zuo nansse nicht, / Sie rittent uff den strossen, / Waz fynd in ward in der geschicht / Der selb muost hor do lossen.",
+   "preklad": "Ti v Nancy si ho nevšímali, / vyjížděli na silnice; / kterýkoli nepřítel se jim přitom dostal do rukou, / ten tam musel nechat vlasy.",
+   "vers_od": 347
+  },
+  {
+   "text": "Nansse das ward in iores frist / Zuom dritten mol belegen. / Eins muocht sicht diser fromden lüst / Mit hend vnd füssen segen .",
+   "preklad": "Nancy bylo v průběhu roku / obleženo potřetí. / Nad touto podivnou lstí se člověk musel / žehnat rukama i nohama.",
+   "vers_od": 351
+  },
+  {
+   "text": "Die vnsern komendt uff ein zyt, / Es wolt sich glück do machen; / Sie fundent gar ein guote büt / Eir  möcht des wunders lachen,",
+   "preklad": "Naši přišli jednou, / štěstí se chtělo ukázat: / našli velmi dobrou kořist, / člověk se tomu div mohl smát.",
+   "vers_od": 355
+  },
+  {
+   "text": "Ir. c. pferd uff eynen tag / Gewunnent sie gar swynde, / Sie detten manchen harten slag / Vff die burgundsthen fynde.",
+   "preklad": "Sto jejich koní za jeden den / získali velmi rychle, / zasadili mnohou tvrdou ránu / burgundským nepřátelům.",
+   "vers_od": 359
+  },
+  {
+   "text": "Die schautz  bestuond in do beuor. / Es muogt den fürsten übel; / Mit kolben strelt man in das hor, / Es bosselt  wie die kübel.",
+   "preklad": "Výhoda jim předtím přála. / Knížete to zle hněvalo; / palcáty jim česali vlasy, / tlouklo to jako do škopků.",
+   "vers_od": 363
+  },
+  {
+   "text": "Dar noch so kam die red zuo vns, / Der hertzog von burgunde / Der leg gar nohe by pontemunß . / Man fügt sich dar von stunde.",
+   "preklad": "Potom k nám dolehla zpráva, / že vévoda burgundský / leží velmi blízko Pont-à-Mousson. / Hned se tam vydali.",
+   "vers_od": 367
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Seiler, Die Basler Mundart, S. 17: «s Aescheduech» das Aeschertuch, das grobe Tuch, worauf beim Bauchen der Wäsche sich «der Aescher», die ausgelaugte Asche befindet. Grimm DWb. I, 585: Aeschertuch, das beim Bauchen der Wäsche über sie gebreitete grosse, grobe Tuch, worauf der Aescherich sich befindet. Martin, Elsässisches Wb. gibt das gleiche an, ausserdem «grosses, grobes Leinentuch» überhaupt. Der Satz «Mache dich hervor, grobes Tuch!» muss ein parenthetischer Ausruf des Dichters sein, den man verschieden deuten kann.",
+  "Druckfehler. Es muss heissen: Eins mocht sich diser fromden list usw. Der Sinn: Man hatte Grund, über diese seltsame List sich mit Händen und Füssen zu besegnen.",
+  "= einer, im Sinne von «man».",
+  "Druckfehler für: schantz.",
+  "= schlagen, klopfen.",
+  "Pont-à-Mousson."
+ ],
+ "poznamky_prekladu": [
+  "v. 343: Karel Smělý se rád srovnával s Alexandrem Velikým a dával si předčítat jeho příběhy (mimo text).",
+  "v. 345 „Mach dich harfürher, escher tuoch!“: „Äschertuch“ = hrubé plátno na popel při praní prádla; vsuvka básníka, posměšné zvolání, smysl nejistý [?] (pozn. editora).",
+  "v. 350 „hor lossen“ = nechat vlasy, tj. utrpět ztrátu.",
+  "v. 353–354: tisková chyba; má znít „Eins mocht sich diser fromden list…“ – člověk měl důvod žehnat se nad tou podivnou lstí (pozn. editora). O jakou lest jde, text neříká [?].",
+  "v. 358 „Eir“ = někdo, člověk (pozn. editora).",
+  "v. 363: tisková chyba „schautz“ místo „schantz“ = výhoda (pozn. editora); v. 366 „bosselt“ = tluče, klepe (pozn. editora). „kolben“ podle glosáře palcát.",
+  "„pontemunß“ = Pont-à-Mousson na Mosele (pozn. editora)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

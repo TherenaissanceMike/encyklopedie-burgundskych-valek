@@ -1,0 +1,124 @@
+{
+ "cislo": 173,
+ "nadpis": "Basler Chroniken III, s. 101–103",
+ "nadpis_preklad": "Zajatí a padlí u Nancy, vypálení Heiligkreuz, pohřeb Karla Smělého (leden 1477)",
+ "svazek": "III",
+ "strany_edice": [
+  101,
+  103
+ ],
+ "rok": 1477,
+ "rukopis_strana": 80,
+ "odstavce": [
+  {
+   "text": "herre von Lothringen mit siner eygner person willen zü ryten zu allen den herren und stetten, wie sy genant sind, inen zü dancken irs getruwen dienst, den sy im erzögt hand zü disen zyten. och so Veltin von Nuwenstein dise sach erholt hatt, do ist kommen ein botschafft dem hertzogen von Lothringen, wie dasz zwen Frantzosen den hertzogen von Burgund gefangen haben, do sind zwen Tutzschen kommen ryten und hand den Frantzosen den hertzogen under den handen ze tod geschlagen. als der herzog von Lutringen die botschafft vor vernommen hatt, do hatt er Velthein von Nuwenstein wider gerüfft und hatt im lossen sagen durch groff Oswald von Tierstein, ich soll minen herren die nuwe mer verschriben, und min herre von Lutringen sy in güter hoffnung, es sy wor, und hatt och ein grossz fröd doran gehebt.",
+   "preklad": "… pán Lotrinský má v úmyslu osobně objet všechny pány a města, jak se kdo jmenuje, aby jim poděkoval za věrnou službu, kterou mu v tomto čase prokázali. Také když Veltin z Neuensteinu tuto věc vymohl, přišla vévodovi Lotrinskému zpráva, že dva Francouzi zajali vévodu Burgundského. Tu přijeli dva Němci a ubili vévodu k smrti Francouzům pod rukama. Když vévoda Lotrinský tu zprávu uslyšel, zavolal Veltheina z Neuensteinu znovu k sobě a dal mu skrze hraběte Oswalda z Thiersteinu vzkázat, že mám svým pánům tu novou zprávu napsat. Můj pán Lotrinský je v dobré naději, že je to pravda, a měl z toho také velkou radost."
+  },
+  {
+   "text": "Bernhart Schilling hobtmann und Hans Brieffer vennre.",
+   "preklad": "Bernhart Schilling, hejtman, a Hans Brieffer, praporečník."
+  },
+  {
+   "text": "[80] Disz sind die herren, die zü Nanse gefangen sind: Der graff von Nassaw. Item herre Anthonius, item her Baldewin, basthart von Burgund. Der herre von Nuwenburg. Item der herre von Oroy. Item der herre von Fontenoy. Item her Jost von Allin. Item der herre von Schansinon. Item der herre von Symey.",
+   "preklad": "[80] Toto jsou páni, kteří byli u Nancy zajati: Hrabě z Nassau. Item pan Antonín a item pan Balduin, burgundští bastardi. Pán z Neuchâtelu (Nuwenburg). Item pán z Oroy [Croy?]. Item pán z Fontenoy. Item pan Jost z Allin (Lalaing). Item pán ze Schansinon [?]. Item pán ze Symey (Chimay)."
+  },
+  {
+   "text": "Die erschlagen sind: Der herre von Bivers. Her Jocob Galiott capitan der Lamparter. Item der von Flerscheym.",
+   "preklad": "Ti, kdo padli: Pán z Bivers (Bièvres). Pan Jakub Galiott, kapitán Lombarďanů. Item ten z Flersheimu."
+  },
+  {
+   "text": "In descensu superiorum confederatorum, cum venissent opidum Sancte Crucis, quod est sub advocacia comitis palatini, et peterent sibi dare hospitalitatem et escas, quidam dictus Wetzel de Tannbach advocatus ibidem rennuit eis dare nec hospitalitatem neque alimenta et subrisit eos. illi autem tacentes abierunt, et cum revenissent, intraverunt nunc tres, postea plures et tandem quod tot venerunt, ut eos prohibere non possent, tunc irruerunt in castrum, ubi ille Wetzel moram habuit, et recipientes omnia, que portari poterant, reliqua incenderunt igni et concremaverunt castrum. ipse autem evasit, et si ipsum potuissent apprehendere, non dubito, quin ipsum interfecissent. [Jan. 13] hoc factum fuit die lune, que fuit sancti Hylarii dies.",
+   "preklad": "Když horní Spříseženci táhli zpět [po Rýnu dolů] a přišli do města Heiligkreuz (Sancta Crux), které je pod fojtstvím falckraběte, a žádali, aby jim dali nocleh a jídlo, jistý Wetzel z Tannbachu, tamější fojt, jim odmítl dát nocleh i potraviny a vysmál se jim. Oni mlčky odešli. Když se pak vrátili, vešli nejprve tři, potom víc a nakonec jich přišlo tolik, že jim nemohli zabránit. Tu vtrhli do hradu, kde ten Wetzel sídlil, pobrali všechno, co se dalo odnést, zbytek zapálili a hrad vypálili. On sám však unikl. Kdyby ho byli mohli chytit, nepochybuji, že by ho byli zabili. [Jan. 13] Stalo se to v pondělí, v den sv. Hilaria."
+  },
+  {
+   "text": "[80b] [Jan. 13–15] Die sancti Hylarii que fuit feria secunda, feria tercia et quarta venerunt successive superiores confederati et Bernenses, ferentes secum baneria ducis Burgundie et aliorum dominorum.",
+   "preklad": "[80b] [Jan. 13–15] Na sv. Hilaria, což bylo v pondělí, a v úterý a ve středu přicházeli postupně horní Spříseženci a Bernští a nesli s sebou korouhve vévody Burgundského a jiných pánů."
+  },
+  {
+   "text": "Corpus ducis Burgundie postquam inventum fuisset inter alios occisos, fuit prout postea relatum fuit, ad Nanseyam [ductum], et adductis suis familiaribus et presertim suo sartore et sua famula que sibi obsequebatur in omnibus, postquam viderunt corpus exanime, visis eciam cicatricibus et aliis signis, testificati sunt ipsum corpus fuisse ducis Burgundie, et presertim famula in extasim posita corruit super corpus dicens: o mi domine Burgunde! quod postea excentratum fuit, balsamo linitum et sepultum in ecclesia sancti Jeorgii ante altare sancti Sebastiani, mercedem laboris sui condignam recipiens.",
+   "preklad": "Když bylo tělo vévody Burgundského nalezeno mezi ostatními zabitými, bylo, jak se potom vyprávělo, [dovezeno] do Nancy. Přivedli jeho služebníky, zvláště jeho krejčího a jeho služku, která mu ve všem posluhovala. Když spatřili bezduché tělo a viděli i jizvy a jiná znamení, dosvědčili, že je to tělo vévody Burgundského. Zvláště služka, celá bez sebe, padla na tělo a volala: „Ó můj pane Burgundský!“ Potom bylo [tělo] vyňato z útrob, natřeno balzámem a pohřbeno v kostele sv. Jiří před oltářem sv. Šebestiána. Tak dostal mzdu, jakou si svou prací zasloužil."
+  },
+  {
+   "text": "Postquam Fridericus filius Ludowici ducis Bavarie et comitis palatini habentis residenciam in Heydelberg diem vite sue clausisset extremum et successisset sibi Philippus filius Ludowici fratris prefati Friderici et venisset in possessionem comitatus palatini et residenciam in Heydelberga haberet, disposuit curiam suam ibidem habere, voluit venari et intravit silvas, et cum emisisset venaticos canes, invenerunt aprum magnum valde. quem cum venator insequutus fuisset, contigit ut veniret ad locum ubi princeps stabat Philippus. qui cum intendisset cuspide aprum pungere, venator videns dominum esse presentem, timuit ne dominum lederet, saltum fecit et ante dominum stabat interficiens aprum. quod moleste ferens dux [81] Philippus quod ipse ante eum aprum interfecisset, rixare cepit cum eo. venator autem se excusans, quod non in contemptum ipsius ducis hoc fecisset, sed timuisset, ne aper eum percussisset, et quanto plus se excusabat, tanto iracior dux fieret, et tandem ad hoc venisset, ut minaretur mortem venatori inferre. quod autem audiens venator arrepto cuspide interfecit ducem Philippum. quod factum multis civitatibus imperialibus displicuit, quia ipsum juvenem discretum valde ad imperii dignitatem affectabant provenisse. sperabant quod suorum proavi, avi et patris sui vestigia sequi deberet, qui probissimi principes fuerunt, verum ejus pater propter suam probitatem in conventu principum imperii in Wormacia fuit intoxicatus et sic mortuus fuit, cujus anima requiescat in pace.",
+   "preklad": "Když Fridrich, syn Ludvíka, vévody bavorského a falckraběte sídlícího v Heidelbergu, dokonal poslední den svého života a nastoupil po něm Filip, syn Ludvíka, bratra řečeného Fridricha, ujal se falckého hrabství a sídlil v Heidelbergu, rozhodl se tam mít svůj dvůr. Chtěl lovit a vjel do lesů. Když vypustili lovecké psy, našli velmi velkého kance. Myslivec ho pronásledoval a stalo se, že přišel na místo, kde stál kníže Filip. Když se [kníže] chystal kance probodnout oštěpem, myslivec viděl, že je tu pán, a bál se, aby [kanec] pána neporanil. Skočil, postavil se před pána a kance zabil. Vévoda [81] Filip nesl nelibě, že kance zabil před ním, a začal se s ním hádat. Myslivec se omlouval, že to neudělal z pohrdání vévodou, ale že se bál, aby ho kanec nezranil. Čím víc se však omlouval, tím víc se vévoda hněval, až nakonec došel tak daleko, že myslivci hrozil smrtí. Když to myslivec uslyšel, popadl oštěp a vévodu Filipa zabil. Tento čin se nelíbil mnoha říšským městům, neboť si přála, aby tento velmi rozvážný mladík dosáhl říšské důstojnosti. Doufala, že půjde ve stopách svého praděda, děda a otce, kteří byli nejšlechetnějšími knížaty. Jeho otec byl však pro svou šlechetnost na shromáždění říšských knížat ve Wormsu otráven a tak zemřel. Ať jeho duše odpočívá v pokoji."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 10. von nuwen.",
+  "etwas den Rang der Feldzeichen einigermaassen herabsetzendes erblickte.",
+  "Eman. v. Rodt, Geschichte des bernischen Kriegswesens, Bern 1831, 8. 63,",
+  "erinnert an das Geviertmachen der Fahnen der Lehnsträger (vgl. auch Weiss,",
+  "Kostümkunde II, 629). A.a.O. und in den Kriegen Karls des Kühnen LI,",
+  "293 leitet er den Schwenkel am baslerischen Banner von der bischöflichen",
+  "Oberherrlichkeit her. Zu dieser Ansicht gelangte er aber durch die Annahme,",
+  "das baslerische Banner sei das einzige gewesen, dem bei Murten der Schwen-",
+  "kel abgehauen wurde. Den Stellen, welche das Abhauen des Schwenkels auch",
+  "andrer berichten, ist noch Jak. Heinrich-Petri, der Stadt Mühlhausen Ge-",
+  "schichten 196 beizufügen, wo es heisst: Hertzog Renat von Lothringen hat",
+  "nach der schlacht den Eydgnoszischen paneren die schwenckhel abgehauwen",
+  "unnd sie geviert gemacht.",
+  "1) Vgl. unten S. 107, 19 ft. 2) 8. oben 8. 90 A. A.",
+  "3) Henri seigneur de Neufchätel (Herr zu Blamont). Gollut- Duvernoy",
+  "1312 A. 2. Vgl. unten 8. 107, 24 und pag. 88.",
+  "4) Molinet nennt neben messire Philippe de Croy comte de Chimay (dem",
+  "Herrn von Symey unsres Verzeichnisses) unter den Gefangenen noch le seig-",
+  "neur de Croy. Die Desconfiture, die sagt, man wisse noch nicht, was aus dem",
+  "Grafen von Chimay geworden sei, führt unter den Todten, unter denen sie",
+  "übrigens irrthümlicher Weise auch den Grafen von Nassau (le comte de Nam-",
+  "post) und den Jacques Galliot (s. 102 A. 5) aufzählt, le seigneur de Croy auf.",
+  "Es ist dies wahrscheinlich Philipp von Croy-Aerschot. S. über ihn P. Anselme,",
+  "histoire genealogique V, 638.",
+  "Aparát: 3. 14.",
+  "b)",
+  "larii dies.",
+  "[so] Die sancti Hylarii que fuit feria secunda, feria tercia",
+  "et quarta venerunt successive superiores confederati et Ber-",
+  "nenses, ferentes secum baneria ducis Burgundie et aliorum",
+  "dominorum. 25",
+  "Corpus ducis Burgundie postquam inventum fuisset inter",
+  "alios occisos, fuit prout postea relatum fuit, ad Nanseyam duc-",
+  "Zus, et adductis suis familiaribus et presertim suo sartore et sua",
+  "famula que sibi obsequebatur in omnibus, postquam viderunt",
+  "Aparát: 4. Nach dem Verzeichniss der Gefangenen ist Raum für einige etwa noch ferner einzu-",
+  "tragende Namen gelassen. 7. Der Name sieht aus wie Galieort, es scheint, dass K.",
+  "die Vorlage nicht recht lesen konnte und die Züge derselben nachzeichnete. 26. Zu-",
+  "erst hatte K. geschrieben: Dux B. p. inventus £. 28. ductus fehlt.",
+  "1) Vgl. Dialogue S.41. Über Philipp von Fontenoy s. unten 107 A. 3 und",
+  "P. Anselme, hist..gene&al. VIII, 352.",
+  "2) Josse de Lalain, der nach der Desconfiture den rechten Flügel des",
+  "burgundischen Heeres befehligt hatte. Vgl. Band II, 135, 11.",
+  "3) 8.8. 101 Anm. 4. 4) S. oben 8. 97 A. 3.",
+  "5) Jacob Galeotto, der Führer des linken Flügels des burgundischen",
+  "Heeres, der auch noch in andern Berichten als gefallen aufgeführt wird, kam",
+  "erst im J. 1488 in der Schlacht bei St. Aubin-du-Cormier um (Molinet III, 396),",
+  "nachdem er 1479 in französische Dienste übergetreten war (Rodt II, 409).",
+  "6) Friedrich von Flersheim, »kemmerling« des Herzogs. Flersheimer",
+  "Chronik hsgeg. von O. Waltz, Leipzig 1874, 8. 41.",
+  "7) Heilig Kreuz, südl. von Colmar.",
+  "Aparát: 6. mercedem u. s. w. später beigefügt. 10. Nach Friderici steht ein irrthümliches",
+  "frater. 13. et cum postquam. 31. K. hat Alles, was von dieser Erzählung auf",
+  "Bl. 81 steht, urchgestrichen und an den obern Rand geschrieben: non fuit verum.",
+  "1) Vgl. 99, Aff. und A. 2. Die Desconfiture sagt, nachdem sie die sechs",
+  "Zeichen aufgeführt, an denen Karls Leichnam erkannt worden, zwei davon",
+  "seien angegeben worden durch »son medecin, qui est Portingalois, nomm&",
+  "Mathieu, et les autres enseignes cognurent ses valets-de-chambre, et outre",
+  "fut cognu par le grand Bastard et pareillement par messire Olivier de la Marche",
+  "et des valets-de-chambre et par Denys son chapellain et de tous ses gens qui",
+  "y ont est& menez. — 8. ferner 91, 2ff. 107, 1ft.",
+  "2) 8. das in der Variantenrubrik Bemerkte. Auch Edlibach 168 bringt,",
+  "ganz kurz, ohne weitere Angaben, die irrige Nachricht vom Tode des Pfalz-",
+  "grafen, den er fälschlich Ludwig nennt. Die Behauptung, dass Philipps Vater"
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Odst. 1 je konec listu Schillinga a Brieffera z kap. 172 („Také náš pán Lotrinský…“). Zvěst o dvou Francouzích a dvou Němcích je jen jednou z kolujících verzí Karlovy smrti.",
+  "Seznam zajatých a padlých (odst. 3–4) je sloučen do dvou odstavců. Aparát: za seznamem zajatých nechal Knebel místo pro další jména. „Galiott“ vypadá v rukopisu jako „Galieort“; Knebel zřejmě nemohl předlohu přečíst a překreslil její tahy. Vischer: Nuwenburg = Henri, pán z Neuchâtelu (z Blâmontu). Oroy zřejmě = Croy (Molinet a Desconfiture uvádějí pána z Croy, snad Filipa z Croy-Aerschot). Symey = Filip z Croy, hrabě z Chimay. Fontenoy = Filip z Fontenoy. Jost von Allin = Josse de Lalaing, velitel pravého křídla. Schansinon jsem neurčil.",
+  "Vischer: Bivers = Jean de Rubempré, pán z Bièvres, padl. Jacob Galeotto, velitel levého křídla, nepadl, přešel 1479 do francouzských služeb a padl až 1488 u Saint-Aubin-du-Cormier. Flerscheym = Fridrich z Flersheimu, vévodův komorník.",
+  "Data: sv. Hilarius = pondělí 13. 1. 1477, úterý a středa = 14. a 15. 1. Okrajová data jsou v OCR zkomolená („Jan. 3“, „Jan. 1“) a jsou doplněna podle svátku. Vischer: Sancta Crux = Heiligkreuz (Sainte-Croix-en-Plaine) jižně od Colmaru.",
+  "Oprava: text na konci strany 102 a začátku strany 103 edice („larii dies. [80] Die sancti Hylarii … postquam viderunt“) v souboru chyběl. Vrácen ze zdrojového OCR do odst. 5–7. Zkomolená čísla stran („[so]“, „[sı]“) jsou doplněna podle pořadí jako [80], [80b], [81]. Aparát: „ductus“ v rukopisu chybí (doplněno Vischerem), Knebel nejprve napsal „Dux B. p. inventus f.“. Slova „mercedem … recipiens“ jsou připsána dodatečně.",
+  "Vischer: Karlovo tělo poznal podle Desconfiture jeho lékař, portugalský Matthieu, komorníci, Velký bastard, Olivier de la Marche a kaplan Denys. Pohřeb v kostele sv. Jiří v Nancy potvrzují i jiné prameny.",
+  "Aparát: celý příběh o Filipově smrti na lovu Knebel škrtl a nahoře na stránce [81] připsal „non fuit verum“ (nebyla to pravda). Falckrabě Filip Upřímný žil až do roku 1508 (mimo přepis). Vischer: stejnou mylnou zprávu má krátce i Edlibach, který mu říká Ludvík. Ludvík IV. Falcký, Filipův otec, zemřel 13. 8. 1449. Zvěst o jeho otrávení knížaty opakuje Knebel i později."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

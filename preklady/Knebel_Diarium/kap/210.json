@@ -1,0 +1,146 @@
+{
+ "cislo": 210,
+ "nadpis": "Basler Chroniken III, s. 216–218",
+ "nadpis_preklad": "Štrasburská volba, oloupený kněz z Meyenheimu, smrt biskupa Venningena (listopad–prosinec 1478)",
+ "svazek": "III",
+ "strany_edice": [
+  216,
+  218
+ ],
+ "rok": 1478,
+ "rukopis_strana": 184,
+ "odstavce": [
+  {
+   "text": "[Nov. 17] De eleccione episcopi Argentinensis 1478 feria tercia post Martini. Scribit michi dominus Johannes Guldin vicarius in ecclesia Argentinensi et notarius eleccionis domini Alberti episcopi Argentinensis sub hiis verbis:",
+   "preklad": "[Nov. 17] O volbě štrasburského biskupa, 1478, v úterý po sv. Martinu. Pan Jan Guldin, vikář ve štrasburském kostele a notář při volbě pana Alberta, biskupa štrasburského, mi píše těmito slovy:"
+  },
+  {
+   "text": "Vidi in scriptis vestris, vos non latere eleccionem novi pontificis nostri domini Alberti ad ecclesiam Argentinensem, quam credo ex divina disposicione processisse, quia congregatis dominis canonicis de capitulo in loco capitulari ad hoc deputato pro futuro episcopo eligendo postpositis diversis eleccionum formis et viis per promotores receperunt se seorsum deliberaturos, exclusis notariis, testibus et aliis prelatis, et steterunt per horam vel plus, et denuo revocatis [184] notariis etc. elegerunt viam per inspiracionem spiritus sancti vel, si non possent convenire in unum aut concordare, mixtam etc. et servatis servandis et protestacionibus in talibus fieri consuetis factis iterum fecerunt exire notarios et testes et steterunt pro secunda deliberacione iterum quasi per horam, et revocatis notariis, testibus, prelatis et aliis una voce, nullo discrepante, concorditer nominaverunt dominum Albertum ecclesie Argentinensi dignum fore preficiendum in pontificem et episcopum, et fuerunt quindecim eligentes. cujusmodi eleccio non reperitur apud nos tam concors et sancta a temporibus Arbogasti, Florencii, Justi, Amandi et ceterorum in cathalogo sanctorum sive in libro vite ecclesie Argentinensis descriptorum, et spero, quod per dei graciam per successum temporis nobis debeat esse pacificus, quietus et bonus princeps et pastor et clero quam populo civitatis et dyocesis Argentinensis. pro confirmacione transibunt ad sedem apostolicam dominus Wilhelmus de Lympurg decanus Herbipolensis, dominus Heinricus de Hewen canonici Argentinenses, domini Johannes Symler et Jacobus Dedinger.",
+   "preklad": "Viděl jsem z Vašeho psaní, že Vám neuniklo zvolení našeho nového pastýře pana Alberta pro štrasburský kostel. Věřím, že vzešlo z Božího řízení. Když se totiž páni kanovníci z kapituly shromáždili v kapitulní síni k tomu určené, aby zvolili budoucího biskupa, odložili rozličné způsoby a cesty volby [navržené] promotory a usnesli se, že se budou radit o samotě, bez notářů, svědků a jiných prelátů. Radili se hodinu i déle. Když znovu povolali [184] notáře atd., zvolili cestu vnuknutí Ducha svatého, anebo, kdyby se nemohli shodnout a dohodnout, cestu smíšenou atd. Zachovali všechno, co se zachovat má, učinili protestace, jaké se při takových věcech obvykle činí, dali notáře a svědky znovu vyjít a radili se podruhé, opět asi hodinu. Pak povolali zpět notáře, svědky, preláty a ostatní a jedním hlasem, bez jediného odporu, svorně jmenovali pana Alberta jako hodného, aby byl postaven do čela štrasburského kostela jako pastýř a biskup. Volitelů bylo patnáct. Tak svornou a svatou volbu u nás nenajdeme od časů [svatých] Arbogasta, Florentia, Justa, Amanda a ostatních, kteří jsou zapsáni v seznamu svatých neboli v knize života štrasburského kostela. A doufám, že nám s Boží milostí časem bude pokojným, klidným a dobrým knížetem a pastýřem, jak duchovenstvu, tak lidu města i diecéze štrasburské. Pro potvrzení pojedou k apoštolské stolici pan Vilém z Limpurku, würzburský děkan, a pan Jindřich z Hewenu, štrasburští kanovníci, a páni Jan Symler a Jakub Dedinger."
+  },
+  {
+   "text": "Hii subscripti fuerunt personaliter in eleccione, videlicet venerabiles, illustres, magnifici, generosi et nobiles viri canonici Argentinenses: Albertus dux Bavarie prepositus.",
+   "preklad": "Osobně byli při volbě tito níže psaní, totiž ctihodní, jasní, velkomožní, urození a šlechetní mužové, štrasburští kanovníci: Albert, vévoda Bavorský, probošt."
+  },
+  {
+   "text": "Johannes de Helfenstein decanus.",
+   "preklad": "Jan z Helfensteinu, děkan."
+  },
+  {
+   "text": "Bertholdus de Hennenberg decanus Maguntinus vicecustos Argentinensis.",
+   "preklad": "Bertold z Hennebergu, mohučský děkan, štrasburský vicekustos."
+  },
+  {
+   "text": "Bertholdus de Hennenberg de Slüsszingen cantor Argentinensis et prepositus Babenbergensis.",
+   "preklad": "Bertold z Hennebergu-Schleusingenu, štrasburský kantor a bamberský probošt."
+  },
+  {
+   "text": "Heinricus de Hennenberg scolasticus et canonicus Babenbergensis.",
+   "preklad": "Jindřich z Hennebergu, scholastik a bamberský kanovník."
+  },
+  {
+   "text": "Gerhardus Ruggrafius dominus in Thun pincerna prepositus Treverensis.",
+   "preklad": "Gerhard, Raugraf, pán v Dhaunu, šenk (pincerna) [?], trevírský probošt."
+  },
+  {
+   "text": "Heinricus de Werdenberg.",
+   "preklad": "Jindřich z Werdenbergu."
+  },
+  {
+   "text": "Dominus de Blanckenberg doctor.",
+   "preklad": "Pán z Blankenbergu, doktor."
+  },
+  {
+   "text": "Heinricus de Hewen baro.",
+   "preklad": "Jindřich z Hewenu, svobodný pán."
+  },
+  {
+   "text": "Philippus de Lyningen, Johannes de Lyningen [comites]. Johannes de Brandis baro.",
+   "preklad": "Filip z Leiningenu, Jan z Leiningenu [hrabata]. Jan z Brandisu, svobodný pán."
+  },
+  {
+   "text": "N. de Swartzburg.",
+   "preklad": "N. ze Schwarzburgu."
+  },
+  {
+   "text": "Wilhelmus Erbschenck de Lympurg decanus [?].",
+   "preklad": "Vilém, dědičný šenk z Limpurku, děkan [?]."
+  },
+  {
+   "text": "Hii vero reverendissimi patres habuerunt ibi suos ambasiatores cum mandatis: reverendissimi patres domini Johannes marchio Badensis archiepiscopus Treverensis, Johannes de Werdenberg episcopus Augustensis, Stephanus dux Bavarie.",
+   "preklad": "Tito nejdůstojnější otcové pak tam měli své vyslance s plnými mocemi: nejdůstojnější otcové páni Jan, markrabě Bádenský, arcibiskup trevírský, Jan z Werdenbergu, biskup augsburský, [a] Štěpán, vévoda Bavorský."
+  },
+  {
+   "text": "[184b] Eisdem temporibus fuit quidam presbiter in Meyenheym prope Ensiszheym, qui cum voluisset ire ad Gebwilr in quadam die lune, ubi forum commune est consuetum observari, et in campo habuit sibi obvium quendam nequam latronem, qui sibi dixit: »ecce pfaff, da michi tuum griseum mantellum, quo indueris.« at ille: »quare?« tunc ipse nequam intulit: »oportet, ut tu michi tradas.« presbiter respondit: »si omnino oportet.« exuit se et dedit. rursus iste nequam subintulit: »da eciam pileum et cirilipipium appendens.« tunc presbiter tradidit sibi et statim evaginato pungione suo vulneravit nequam et intulit tria vulnera, ita ut in terram caderet, et dixit ad eum nequam: »ecce vides, quod ego possem te interficere et morti tradere.« tunc nequam petit veniam sicque presbiter iste recepit pallium, pileum et cirilipipium et misit eum in terra jacentem pronum.",
+   "preklad": "[184b] V těch časech byl v Meyenheimu u Ensisheimu jistý kněz. Jednoho pondělí se chtěl vydat do Gebweileru, kde se obvykle koná obecný trh, a v poli potkal jistého darebného lupiče, který mu řekl: „Hle, pfaffe, dej mi ten svůj šedý plášť, co máš na sobě.“ On na to: „Proč?“ Darebák odvětil: „Musíš mi ho dát.“ Kněz odpověděl: „Když to jinak nejde…“, svlékl se a dal mu ho. Darebák znovu dodal: „Dej mi i čepici a ten visící cíp [kápě].“ Kněz mu je podal, ale hned tasil svou dýku, darebáka zranil a zasadil mu tři rány, takže padl na zem, a řekl mu: „Darebáku, vidíš, že bych tě mohl zabít a vydat smrti.“ Tu darebák prosil o milost, a tak si kněz vzal zpět plášť, čepici i cíp a nechal ho ležet na zemi tváří dolů."
+  },
+  {
+   "text": "[Dec. 16] Eodem tempore, videlicet mercurii post Lucie, fuit iterum tentum judicium in Ensiszheym et statuti sunt coram judicio pauperes rustici de Heriken superiori ad probacionem suam faciendam de innocencia sua pro prima dilacione.",
+   "preklad": "[Dec. 16] Téhož času, totiž ve středu po sv. Lucii, se v Ensisheimu znovu konal soud a chudí sedláci z Oberhergheimu byli postaveni před soud, aby v první lhůtě podali důkaz své nevinnosti."
+  },
+  {
+   "text": "Mors episcopi Basiliensis Johannis de Venningen. [Dec. 20] Anno domini 1478 . . . die vero . . . . reverendissimus pater dominus Johannes de Venningen episcopus Basiliensis debitum nature solvens animam ut spero meritis plenam felicibus bonis reddidit inhesuram perhennibus. qui bene rexit episcopatum 21 annis et novem mensibus.",
+   "preklad": "Smrt basilejského biskupa Jana z Venningenu. [Dec. 20] Léta Páně 1478 … dne … splatil nejdůstojnější otec pan Jan z Venningenu, biskup basilejský, dluh přírodě a odevzdal svou duši, jak doufám plnou zásluh, blaženým dobrům, aby k těm věčným navždy přilnula. Dobře spravoval biskupství 21 let a devět měsíců."
+  },
+  {
+   "text": "[185b] Obitus Johannis de Venningen episcopi Basiliensis. [Dec. 20] Anno domini 1478 dominica die ante festum nativitatis domini de mane infra octavam et nonam horas cum maxima racione in castro Brunnentrut emisit spiritum et cum maxima reverencia, ut decet, ad Basileam et ad sepulturam ductus. nam totus clerus, monachi et alii processionaliter funeri obviam venerunt usque ad portam Spalarum, ibique funus, quod in equiductu, videlicet roszbor, ferebatur, honorifice susceptum est. nam equi ferentes funus fuerunt tecti et cooperti nigro panno, cum triginta torciis cereis ardentibus,",
+   "preklad": "[185b] Skon Jana z Venningenu, biskupa basilejského. [Dec. 20] Léta Páně 1478 v neděli před svátkem Narození Páně ráno mezi osmou a devátou hodinou vypustil při plném rozumu ducha na hradě v Porrentruy. S největší úctou, jak se sluší, byl převezen do Basileje k pohřbu. Celé duchovenstvo, mniši i jiní totiž vyšli pohřbu v procesí vstříc až ke Spalenské bráně a tam byla rakev, nesená v koňských nosítkách (roszbor), se ctí přijata. Koně, kteří rakev nesli, byli pokryti a zahaleni černým suknem; [šlo se] se třiceti hořícími voskovými pochodněmi,"
+  }
+ ],
+ "poznamky_editora": [
+  "1) Feria 32 ist ein Versehn für feria 52. Die Wahl fand am 12. Nov. statt.",
+  "S. oben 8. 210, 4. Vgl. Potthast 416. Grote, Stammtafeln 485.",
+  "2) In der Decretaliensammlung Gregors IX, lib. I, tit. VI, cap. 42 werden",
+  "(durch Decret Innocenz III) drei Arten von Wahlen unterschieden: scrutinii,",
+  "compromissi et inspirationis. Es heisst: assumantur tres de collegio fide",
+  "digni, qui secrete et sigillatim vota euncetorum diligenter exquirant et in scrip-",
+  "tis redaeta mox publicent in communi, .. ut is collatione habita eligatur, in",
+  "quem omnes vel major et sanior pars capituli consentit. vel saltem eligendi",
+  "potestas aliquibus viris idoneis committatur, qui vice omnium ecclesie vidua-",
+  "tae provideant de pastore. aliter electio facta non valeat, nisi forte commu-",
+  "niter esset ab omnibus, quasi per inspirationem, absque vitio celebrata.",
+  "Aparát: 8. Slussz.",
+  "1) Der nachmalige Erzbischof. 2) Schleusingen.",
+  "3) Raugraf, Herr zu Dhaun. 4) 8, oben 8. 203, 29.",
+  "5) Nördl. von Ensisheim, an der Ill.",
+  "6) Troddel, Quaste. Diefenbach, Novum glossarium 232 (s. v.leripipium):",
+  "eiripipium, cugelhüt ziphel. Du Cange-Henschel führt unter liripipium meh-",
+  "rere Beispiele an, in denen dieses Wort für die Troddel an einer Kapuze ge-",
+  "braucht wird.",
+  "Aparát: 10. Das gesperrt Gedruckte steht am Rande. 11. Vor und nach den Worten die vero",
+  "ist für die Angabe des Monats und des Tages eine Lücke gelassen. 15. Es folgen nun",
+  "zwei Abschnitte aus Predigten. Der erste beginnt: »Tamdiu enim aliquis dyabolum",
+  "contra se pugnantem non senciet« und schliesst: »sed, sicut apostolus dicit, super ter-",
+  "ram ambulantes conversacionem habeamus in celo.. hec Augustinus in sermone Raphi-",
+  "din et Amalech et de petra percussa« (Exodus 17). Der zweite beginnt (ungefähr in der",
+  "Mitte von pag. 185): »Amator peccunie mamone est servus« und schliesst (ungefähr in",
+  "der Mitte von pag. 185b) »pro quibus sunt penas passuri perpetuas. hec Milito episcopus”",
+  "Laodicie in sermone de transitu Johannis apostoli.« 16. 17. Das gesperrt Gedruckte",
+  "steht als Überschrift. S. auch die Nachträge. 21. ductus dictus. 22. portarum.",
+  "1) Siehe S. 214, 15 ff. und unten S$. 221.",
+  "2) Siehe Z, 17. 3) Vgl. unten pag. 195b,",
+  "4) Johann von Venningen kann nicht mehr als 20 Jahre und etwa 6 Mo-",
+  "nate regiert haben, da sein Vorgänger Arnold von Rotberg in der Nacht vom",
+  "Aparát: 6. auf den 7. Mai 1458 gestorben ist. Den Tag der Wahl Johanns kennen wir",
+  "nicht, die Provision durch Calixt III. (vgl. unten 219, 6) erfolgte den 12. Juli.",
+  "Trouillat V, 419 ff.",
+  "5) Den 20. December. Vgl. die Notiz aus dem Jahrzeitenbuch von St, Ur-",
+  "sanne bei Trouillat V, 532. Ochs IV, 359 und die Verzeichnisse bei Mülinen,",
+  "Helvetia sacra I, 3, Potthast 277, Grote 480, Gams,. Series episcoporum ec-",
+  "clesiae eithatiens sähe 1873) 261 geben den 22. December an, indem",
+  "sie den Tag der Beerdigung, der auf dem Grabstein Bra ist (s. 8. 219",
+  "Anm. 1), mit dem Todestage verwechseln."
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "[Nov. 17] je Vischerovo datum podle textu (úterý po sv. Martinu = 17. 11. 1478). Vischer: „feria tercia“ je omyl za feria quinta; volba proběhla ve čtvrtek 12. 11. (kap. 208). Nadpis stojí na horním okraji s. 184. Z textu odstraněno „[12]“ (zbytek odkazu na poznámku) a vlepená věta z aparátu; s. [184] a [184b], [185b] obnoveny podle druhého OCR.",
+  "Vischer: dekretál Inocence III. rozlišuje tři způsoby volby: scrutinium (tajné hlasování), compromissum (svěření volby několika volitelům) a volbu „quasi per inspirationem“ (jednomyslnou aklamaci). Smíšená cesta (mixta) je zde zřejmě kombinace postupů.",
+  "Seznam volitelů: Bertold z Hennebergu je pozdější mohučský arcibiskup (Vischer); Slüsszingen = Schleusingen; Ruggrafius = Raugraf, pán v Dhaunu. Význam „pincerna“ u něj je nejasný [?]. Slovo „comites“ stojí v edici u složené závorky, patrně u obou Leiningenů. U Viléma z Limpurku je OCR „decanus ae“ nečitelné; v listu výše je týž „decanus Herbipolensis“ (würzburský děkan). Jmenováno je 14 osob, Guldin píše o patnácti volitelích.",
+  "Vischer: Meyenheim leží severně od Ensisheimu na Ill. „Cirilipipium“ (liripipium) je střapec nebo cíp kápě (cugelhüt ziphel). Na konci odstavce doplněno podle druhého OCR, hlavní OCR mělo místo slova jen „a“. Lupič oslovuje kněze německy „pfaff“.",
+  "[Dec. 16] Středa po sv. Lucii (13. 12.) = 16. 12. 1478. Pokračuje proces se sedláky z Oberhergheimu (kap. 209 a 212).",
+  "Vischer: Jan z Venningenu zemřel v neděli 20. 12. 1478. Jiné seznamy uvádějí 22. 12., což je den pohřbu podle náhrobku. Aparát: pro den a měsíc nechal Knebel mezeru. Mezi oběma zápisy o jeho smrti opsal dva úryvky z kázání (Augustin, Meliton z Laodikeje), Vischer je netiskne. Před nadpisem „Obitus“ stojí podle Vischerových dodatků ještě věta „Jugi obsequendi desiderio…“.",
+  "Vischer: Venningen nemohl vládnout víc než asi 20 let a 6 měsíců (předchůdce Arnold z Rotbergu zemřel v noci 6./7. 5. 1458, provize Kalixta III. je z 12. 7. 1458); Knebelových „21 let a 9 měsíců“ nesedí. Aparát: v rukopisu „dictus“ místo ductus a „portarum“ místo portam. Porta Spalarum = Spalentor. „Roszbor“ = Rossbahre, nosítka mezi dvěma koňmi. Úsek končí uprostřed věty, pokračuje kap. 211."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

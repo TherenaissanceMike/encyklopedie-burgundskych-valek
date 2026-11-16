@@ -1,0 +1,69 @@
+{
+ "cislo": 6,
+ "nadpis": "Tobler 1917, s. 17",
+ "nadpis_preklad": "Pštros ze Štrasburku; Karel dobývá Nancy (1474–1475)",
+ "strana_edice": 17,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Ein büchß von basel lag do vor / Vnd ketterlin von Enße, / Der struß  von  straßburg snurte  zwor / Vnd macht ein wüst getenße .",
+   "preklad": "Leželo tam (před hradem) dělo z Basileje / a Kateřinka z Ensisheimu, / Pštros ze Štrasburku věru hučel / a tropil divoký rej.",
+   "vers_od": 159
+  },
+  {
+   "text": "Wann er den kropf vol bulfers hat / So leyt er harte Eyger, / Er clopft so gröblich an die stat / Recht als ein grober meyer.",
+   "preklad": "Když má vole plné prachu, / snáší tvrdá vejce, / tluče tak hrubě na město / jako neotesaný sedlák.",
+   "vers_od": 163
+  },
+  {
+   "text": "Sie mochtens do inne geliden nit / Vnd gobens vff gar swinde, / Sie noment alle ir habe mit / Vnd rittent durch die finde.",
+   "preklad": "Ti uvnitř to nemohli vydržet / a velmi rychle se vzdali, / vzali s sebou všechen svůj majetek / a projeli skrz nepřátele.",
+   "vers_od": 167
+  },
+  {
+   "text": "Dar noch zoh hertzog karle schir / Für nansse in lotringen , / Sin meynung waz vnd gantz begir / Zuo sinen handen bringen",
+   "preklad": "Potom vévoda Karel brzy táhl / před Nancy v Lotrinsku; / jeho úmyslem a celou touhou bylo / dostat do svých rukou",
+   "vers_od": 171
+  },
+  {
+   "text": "Hertzog reiharts gantz fürstentum, / Dar zuo all sine slosse. / Der iunge fürst der det sich vmb / So gar on alls verdrosse.",
+   "preklad": "celé knížectví vévody René / a k tomu všechny jeho hrady. / Mladý kníže se poohlédl (po pomoci) / zcela bez zdráhání.",
+   "vers_od": 175
+  },
+  {
+   "text": "Er hing sich an den dütschen bunt, / Das hatt er von keim narren. / Burgunscher fürst meint do zuo stund / Er welt den krieg beharren.",
+   "preklad": "Přimkl se k německému Spolku, / to neměl od žádného blázna. / Burgundský kníže tehdy hned usoudil, / že chce ve válce vytrvat.",
+   "vers_od": 179
+  },
+  {
+   "text": "Da zwischen so ging nanßen vff / Mit andern deinen slossen. / Etliche sluogent do den muff / Vnd warend gantz verdrossen.",
+   "preklad": "Mezitím se Nancy vzdalo / spolu s jinými malými hrady. / Někteří tam ohrnovali ret / a byli velice rozmrzelí.",
+   "vers_od": 183
+  },
+  {
+   "text": "Der hertzog von burgund so her / In nansse kund er prangen; / Er predigt sim volck ei  nersche ler: / Die tütschen müstenn hangenn.",
+   "preklad": "Vévoda burgundský, tak vznešený, / se v Nancy uměl vypínat; / kázal svému lidu přísné [?] učení: / Němci musí viset.",
+   "vers_od": 187
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Ebd. 253, 259, 270. Dazu Basler Zeitschrift XIV (1914), 87 f.",
+  "= Geschlepp, Gereisse. Die beiden Kopien lesen: getänze.",
+  "November 1475. Schilling I, 336.",
+  "= den Mund verziehen.",
+  "Druckfehler für: ein."
+ ],
+ "poznamky_prekladu": [
+  "v. 159–162: pojmenovaná děla. „ketterlin von Enße“ = „Kateřinka“, dělo patrně z Ensisheimu [?]; „Der struß von straßburg“ = Pštros, slavné velké obléhací dělo (bombarda) města Štrasburku (Schilling I, 253, 259, 270 podle editora).",
+  "v. 162 „getenße“ = vlečení, trhání (pozn. editora; dvě kopie čtou „getänze“ = tanec).",
+  "v. 163–166: žertovný obraz – pštros s volem plným prachu „snáší tvrdá vejce“, tj. kamenné koule. „meyer“ = sedlák, statkář.",
+  "v. 167–170: kapitulace a odchod posádky Héricourtu (16. listopadu 1474, mimo text).",
+  "René II. Lotrinský (v textu „reihart“, „reinhart“), vévoda od 1473; uzavřel spojenectví s Dolním spolkem a Spříseženci a 1475 vyhlásil Karlu válku (mimo text).",
+  "v. 171–174: Karel oblehl Nancy v říjnu 1475, město se vzdalo 30. listopadu 1475 (pozn. editora: listopad 1475; Schilling I, 336).",
+  "v. 185 „den muff slahen“ = ohrnovat ret, šklebit se (pozn. editora).",
+  "v. 189 „ei nersche ler“: tisková chyba „ei“ místo „ein“ (pozn. editora); „ersche“ snad „ernste“ = přísné [?]."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

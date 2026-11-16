@@ -1,0 +1,68 @@
+{
+ "cislo": 5,
+ "nadpis": "Tobler 1917, s. 16",
+ "nadpis_preklad": "Odchod od Neussu a bitva u Héricourtu (1474–1475)",
+ "strana_edice": 16,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Ein legat  wasß ouch stets do by, / Der reyt zuo beyden heren, / Vnd war Er kam, do waß er fry, / Den friden wolt er meren.",
+   "preklad": "Byl tam také stále přítomen legát, / který jezdil k oběma pánům, / a kamkoli přišel, měl volný průchod; / chtěl podpořit mír.",
+   "vers_od": 127
+  },
+  {
+   "text": "Zuom letzten do begert er tag, / Her karle von burgunde, / Es ward gemacht ein übertrag , / Das er do solt von / stunde",
+   "preklad": "Nakonec si vyžádal jednání / pan Karel Burgundský; / byla uzavřena smlouva, / že má ihned",
+   "vers_od": 131
+  },
+  {
+   "text": "Wychen bald vß dem leger sin / Vnd die von nüsß nicht irret. / Es brocht im schand vnd grosse pin, / Sin hertz das was gemirret .",
+   "preklad": "rychle odtáhnout ze svého ležení / a Neuss nechat na pokoji. / Přineslo mu to hanbu a velké trápení, / jeho srdce bylo plné hořkosti.",
+   "vers_od": 135
+  },
+  {
+   "text": "Den nutz, den er geschaffet hat / Vor nüsß, der was gar clein, / Die frummen lüt all in der stat / Her frowtent sich gemeine.",
+   "preklad": "Užitek, kterého dosáhl / před Neussem, byl velmi malý; / všichni řádní lidé ve městě / se společně radovali.",
+   "vers_od": 139
+  },
+  {
+   "text": "Die wyl er lag vor nüsß jm her / Vnd wychen muost mit schanden, / Do czoch der bunt in grosser er / In ober burgundschen landen.",
+   "preklad": "Zatímco ležel s vojskem před Neussem / a musel s hanbou ustoupit, / táhl Spolek s velkou ctí / do hornoburgundských zemí.",
+   "vers_od": 143
+  },
+  {
+   "text": "Zuom Ersten was es Ellekurt, / Belag man hart mit schiessen, / Do kam man vff ein rechte furt / Mitt lantzen vnd mit spiessen.",
+   "preklad": "Nejprve to byl Héricourt, / ten tvrdě obléhali a ostřelovali; / tam se přišlo k pořádnému brodu [?] / s kopími a píkami.",
+   "vers_od": 147
+  },
+  {
+   "text": "Vff einen sontag  es beschach, / Die fyend die koment stille, / Zwey tusent  mann / man do erstach, / Es was nicht gar ir wille.",
+   "preklad": "Stalo se to v neděli, / nepřátelé přišli potichu; / dva tisíce mužů tam pobili, / nebylo to vůbec podle jejich vůle.",
+   "vers_od": 151
+  },
+  {
+   "text": "Die büchsen ruckt man zuo dem sloß / By Ellekurt an graben, / Man schoß so fast, das es verdroß / Jo die burgundschen knaben.",
+   "preklad": "Děla přisunuli k hradu / u Héricourtu až k příkopu; / stříleli tak silně, že to mrzelo / ano, ty burgundské chlapíky.",
+   "vers_od": 155
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Alexander  von Forli. Schilling I, 206.",
+  "= Vertrag.",
+  "mirren = mit bitterer Myrrhe versehen, voll Bitterkeit.",
+  "13. November.",
+  "Schilling I, 183."
+ ],
+ "poznamky_prekladu": [
+  "v. 127: legát Alexander z Forlì, papežský prostředník (pozn. editora; Schilling I, 206).",
+  "v. 131 „tag“ zde = jednání, ne sněm Spříseženců; v. 133 „übertrag“ = smlouva (pozn. editora). Karel odtáhl od Neussu v červnu 1475 (mimo text).",
+  "v. 138 „gemirret“ = naplněno hořkostí (pozn. editora).",
+  "v. 145 „bunt“ = Spolek: Spříseženci a Dolní spolek s Rakouskem; „ober burgundsche lande“ = Hornoburgundsko, Franche-Comté.",
+  "v. 143–146: básník spojuje současné události; tažení k Héricourtu proběhlo v listopadu 1474, kdy Karel ještě ležel před Neussem.",
+  "v. 149 „Do kam man vff ein rechte furt“: smysl nejistý [?]; snad „došlo k pořádné srážce“.",
+  "Bitva u Héricourtu: neděle 13. listopadu 1474 (pozn. editora; Schilling I, 183) – burgundská pomocná armáda byla poražena."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

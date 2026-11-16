@@ -1,0 +1,69 @@
+{
+ "cislo": 13,
+ "nadpis": "Tobler 1917, s. 24",
+ "nadpis_preklad": "Znovudobytí Nancy a nové Karlovo obléhání (1476)",
+ "strana_edice": 24,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Dar nach gar snell begab es sich, / Das man noch disen dingen / Vß cziehen muost gar endelich / Als in das lant lotringen.",
+   "preklad": "Brzy nato se stalo, / že se po těchto věcech / muselo velmi rychle vytáhnout / do lotrinské země.",
+   "vers_od": 311
+  },
+  {
+   "text": "Wan nansse daz waz noch burgundsch, / Ouch ettliche sloss dar vmbe; / Der struß von stroßburg schoß noch wunsch, / Die hüser füllent vmbe.",
+   "preklad": "Neboť Nancy bylo ještě burgundské / a také některé hrady kolem; / Pštros ze Štrasburku střílel podle přání, / domy se kácely.",
+   "vers_od": 315
+  },
+  {
+   "text": "Dar inne do worent frömde gest, / Die werten sich gar sere, / Vff rettung dettent sie das best / An innen velet ir bere .",
+   "preklad": "Uvnitř byli cizí hosté, / bránili se velmi tvrdě, / v naději na vysvobození dělali, co mohli; / [na nich jim selhala jejich síť ?].",
+   "vers_od": 319
+  },
+  {
+   "text": "Man schoß die thürn gar sufer ab, / Die stat ward uff gegeben, / Sü rittent hien mit cleiner hab, / Man ließ sie wol mitt leben.",
+   "preklad": "Věže sestřelili do čista, / město bylo vzdáno; / odjeli s malým majetkem, / nechali je pěkně naživu.",
+   "vers_od": 323
+  },
+  {
+   "text": "Als nuon daz lant ward widerumb / Dem fütsten  von lotringen, / Die vnsern koment mit ir summ / Gar frölich inher clingen.",
+   "preklad": "Když pak země připadla zpátky / knížeti lotrinskému, / naši se svým houfem / přitáhli velmi vesele domů za hlaholu.",
+   "vers_od": 327
+  },
+  {
+   "text": "Der hertzog von burgund vernam / Wie nansse wer gewunnen, / Dar noch gar bald er aber kam, / Die schantz  was im entrunnen.",
+   "preklad": "Vévoda burgundský se doslechl, / že Nancy bylo dobyto; / brzy nato přitáhl znovu, / výhoda mu však unikla.",
+   "vers_od": 331
+  },
+  {
+   "text": "Do waß nansse gespyset vor, / Besetzet mit frantzosen, / Der herczog von burgund meint zwor, / Er wolt sie überbösen.",
+   "preklad": "Nancy bylo totiž předtím zásobeno / a obsazeno Francouzi; / vévoda burgundský věru myslel, / že je přemůže.",
+   "vers_od": 335
+  },
+  {
+   "text": "Er leyt sich zuo sant niclaus port / Vnd vmb die selb refiere, / Do brucht er gar vil stoltzer wort / Vnd brügelt als ein stüre .",
+   "preklad": "Položil se u brány sv. Mikuláše / a kolem v té krajině, / tam užíval mnoho pyšných slov / a řval jako býk.",
+   "vers_od": 339
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "= schnell.",
+  "Für «bere» kann auch «here» gelesen werden. In beiden Fällen ist der Sinn unklar. Vielleicht: an ihnen versagte ihr Fangnetz.",
+  "Druckfehler für: fürsten.",
+  "= Vorteil.",
+  "= brület als ein stiere."
+ ],
+ "poznamky_prekladu": [
+  "v. 313 „endelich“ = rychle (pozn. editora).",
+  "René II. Lotrinský se Spolkem (i se štrasburským dělem Pštrosem) dobyl Nancy zpět; burgundská posádka (Angličané a další cizinci – „frömde gest“) kapitulovala 6. října 1476 (mimo text).",
+  "v. 322 „An innen velet ir bere“: „bere“ lze číst i „here“, smysl nejasný; snad „selhala jejich síť“ (pozn. editora) [?].",
+  "v. 328: tisková chyba „fütsten“ místo „fürsten“ (pozn. editora).",
+  "v. 334 „schantz“ = výhoda (pozn. editora).",
+  "v. 336 „frantzosen“: v Nancy tehdy byli i francouzští a gaskoňští žoldnéři ve službě Reného (mimo text).",
+  "Karel začal třetí obléhání Nancy 22. října 1476 (mimo text). „sant niclaus port“ = brána Saint-Nicolas v Nancy.",
+  "v. 342 „brügelt als ein stüre“ = řval jako býk (pozn. editora)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

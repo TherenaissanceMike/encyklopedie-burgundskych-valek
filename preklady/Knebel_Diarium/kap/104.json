@@ -1,0 +1,80 @@
+{
+ "cislo": 104,
+ "nadpis": "Basler Chroniken II, s. 330–331",
+ "nadpis_preklad": "Basilej bez opevnění, první sníh; Karlův list falckraběti Fridrichovi (prosinec 1475)",
+ "svazek": "II",
+ "strany_edice": [
+  330,
+  331
+ ],
+ "rok": 1475,
+ "rukopis_strana": 440,
+ "odstavce": [
+  {
+   "text": "[440] Mirabar satis, cum Argentinenses ante murum civitatis sue muros conquassarent et everterent funditus certa monasteria, videlicet sancti Marci, sancte Katherine, Carthusiensium, sancti Johannis in Undis, Carmelitarum etc., Basilienses autem nulla penitus propungnacula facerent, nisi quod in turribus bombardas suas ponerent et hincinde muros civitatis munirent. habui a quodam cive Basiliensi, quod hoc eis superiores confederati inhibuissent et avisassent Basilienses, quod hoc solum facerent. cum ipsi audirent, quod Burgundus ipsos vellet obsidere, eis nunciarent, tunc statim vellent eis mittere octo milia fortissimorum virorum suorum in civitatem ipsorum, qui eis auxilium et opem facerent, quousque ipsi cum omni potencia sua possent venire et Burgundum omnino expedirent; hoc attento non facerent propugnacula. et fatue agunt, quia jacula provisa minus feriunt.",
+   "preklad": "[440] Dost jsem se divil, že Štrasburští před hradbami svého města rozbíjeli zdi a do základů bořili některé kláštery, totiž sv. Marka, sv. Kateřiny, kartuziánů, sv. Jana na Vodách (in Undis), karmelitánů atd., kdežto Basilejští nedělali vůbec žádná předsunutá opevnění, jen postavili svá děla do věží a tu a tam zpevnili městské hradby. Slyšel jsem od jednoho basilejského měšťana, že jim to horní Spříseženci zakázali a poradili Basilejským, aby udělali jen toto: až uslyší, že je Burgunďan chce oblehnout, ať jim to oznámí. Tehdy jim prý hned pošlou do jejich města osm tisíc svých nejstatečnějších mužů, kteří jim budou pomáhat, dokud oni sami nebudou moci přitáhnout s celou svou mocí a Burgunďana docela vyřídit. S ohledem na to prý opevnění nedělali. A jednají pošetile, neboť předvídané střely méně zraňují."
+  },
+  {
+   "text": "[Dec. 20] In vigilia sancti Thome cecidit magna nix, et extunc primo incepit hyemescere, quia antea per sex integras septimanas fuit serenum et bonum tempus.",
+   "preklad": "[Dec. 20] V předvečer sv. Tomáše napadl velký sníh a teprve tehdy začala zima, neboť předtím bylo celých šest týdnů jasné a pěkné počasí."
+  },
+  {
+   "text": "Illustris princeps dominus Fridericus comes palatinus Reni in Heidelberg, videns illas res inter ducem Burgundie et confederatos de magna liga superioris Alamanie dispositas ad pungnam, misit oratores suos ad Nanseyam, ubi tunc ipse Karolus dux erat, quia totum ducatum Lothoringie possidebat, ut attemptarent vias, quo posset esse medius et concordare hincinde ipsos. quos ipse cum reverencia recepit et finaliter responsum dedit ac sic dimisit, ut infra.",
+   "preklad": "Jasný kníže pan Fridrich, falckrabě rýnský v Heidelbergu, když viděl, že věci mezi vévodou Burgundským a spojenci z velkého spolku Horního Německa spějí k boji, poslal své vyslance do Nancy, kde tehdy byl sám vévoda Karel, neboť držel celé Lotrinské vévodství, aby zkusili cesty, jak by mohl být prostředníkem a obě strany smířit. [Vévoda] je s úctou přijal, nakonec jim dal odpověď a takto je propustil, jak [stojí] níže."
+  },
+  {
+   "text": "[Dec. 2] Illustri ac potenti principi domino Friderico palatino etc.",
+   "preklad": "[Dec. 2] Jasnému a mocnému knížeti, panu Fridrichovi, falckraběti atd."
+  },
+  {
+   "text": "Illustris ac potens princeps consangwinee tamquam frater carissime. audivimus libenter oratores vestros non tam ob causam sue legacionis, quam vestre contemplacione persone, cui plurimum afficimur atque ingentes gracias agimus, [441] quod sese ad ea obtulerit obeunda, que pro rei Germanice pacificacione nobis putat expedire. super hiis oportunum est vos planum intelligere, quod imperator, non ignorans quidquid in nos mollitus injuria fuerat, pacem tandem appeciit et petitam affirmavit, in quo confederatos nostros comprehendimus. sed pro illis, qui vulgo per Germaniam nuncupantur colligati, nullam fecit mencionem, quoniam apperte cognoscit, quam inique irruerunt in nos et subditos nostros nichil tale suspicantes, ac pro Switensibus inducias peciit ad menses aliquot, ratus ipsos interea loci integram nobis restitucionem facturos. rex vero Francorum, quamquam sollicitaverit Sigismundum Austrie ducem, Switenses ipsos et plerosque alios superioris Almanie populos, ut a fide et officio erga nos deficerent, tamen inter tractandum numquam ostendit, se cupere rem eorum salvam fore. hec nos pro vestre amicicie jure ingenue commemoramus, quoniam non arbitramur, sed scimus, ymmo firmiter credimus, quod honorem nostrum ac eciam indempnitatem cordi habetis, perinde ac si vestrum negocium ageretur; et profecto agitur, quoniam quidem vos in fratris loco habeamus. propterea vestris oratoribus respondimus, quod facta nobis inprimis restitucione integra parati sumus pacis condiciones audire et pocius vestra opera et auctoritate accedente quam cujusvis alterius, quia de vobis ut de nobis ultro confidimus; verum ubi restitucio differretur, non possemus ex usu et dignitate nostra ad ullas convenciones devenire.",
+   "preklad": "Jasný a mocný kníže, příbuzný a jako bratr nejmilejší. Rádi jsme vyslechli vaše vyslance, ani ne tak kvůli jejich poselství, jako z ohledu na vaši osobu, k níž chováme velikou náklonnost a jíž nesmírně děkujeme, [441] že se nabídla podniknout to, co podle ní prospěje nám k uklidnění věcí německých. K tomu je vhodné, abyste jasně věděl toto: Císař, ač dobře ví, jakou křivdu proti nám chystal, nakonec o mír požádal a o nějž požádal, ten potvrdil; do něho jsme zahrnuli své spojence. O těch však, kdo se v Německu obecně nazývají spojenci (colligati), se nijak nezmínil, protože zjevně poznává, jak nespravedlivě vpadli na nás a naše poddané, kteří nic takového netušili; a pro Švýcary žádal příměří na několik měsíců v domnění, že nám mezitím dají plnou náhradu. Král francouzský pak, ačkoli naváděl Zikmunda, vévodu Rakouského, samotné Švýcary a mnohé jiné národy Horního Německa, aby odpadli od věrnosti a povinnosti k nám, přece během jednání nikdy neprojevil, že by si přál, aby jejich věc zůstala zachována. To vám podle práva vašeho přátelství upřímně připomínáme, neboť se nedomníváme, nýbrž víme, ba pevně věříme, že vám naše čest i bezpečí leží na srdci, jako by šlo o vaši vlastní věc; a jistě o ni jde, neboť vás máme na místě bratra. Proto jsme vašim vyslancům odpověděli, že jakmile nám bude nejprve dána plná náhrada (restitutio integra), jsme připraveni vyslechnout mírové podmínky, a to raději s přispěním vašeho úsilí a autority než kohokoli jiného, neboť vám ochotně důvěřujeme jako sami sobě. Kdyby se však náhrada odkládala, nemohli bychom podle svého obyčeje a své důstojnosti přistoupit na žádné úmluvy."
+  },
+  {
+   "text": "Illustris et potens princeps consangwinee tamquam frater carissime, summus atque magnus deus vos fauste atque feliciter conservet. ex Nanceyo opido nostro die secunda decembris anno etc. 75.",
+   "preklad": "Jasný a mocný kníže, příbuzný a jako bratr nejmilejší, nejvyšší a veliký Bůh vás šťastně a blaze zachovej. Z našeho města Nancy, druhého dne prosince léta atd. 75."
+  },
+  {
+   "text": "Consangwineus vester tamquam frater carissimus Karolus dux Burgundie.",
+   "preklad": "Váš příbuzný a jako bratr nejmilejší Karel, vévoda Burgundský."
+  }
+ ],
+ "poznamky_editora": [
+  "1) Vgl. oben S. 327, Aff. Strobel III, 344.",
+  "Aparát: 3. Hs. Swetenses. 17. consangwine.",
+  "1) Die Urkunden über den am 17. Nov. im Lager vor Nancy (nicht vor",
+  "Neuss, wie Eidg. Absch. II, S. 571 irrthümlicher Weise steht) durch die Be-",
+  "vollmächtigten des Kaisers und des Herzogs von Burgund abgeschlossenen",
+  "Friedensvertrag s. bei Chmel 125ff. In einem Zusatzartikel verspricht der",
+  "Kaiser (a. a. ©. 131) binnen sechs Monaten dafür zu sorgen, dass der Herzog,",
+  "betreffend seine Ansprüche an die Grafschaft Pfirt, befriedigt werde; wenn",
+  "ihm dies nicht möglich ist, so sollen der Herzog sowie seine Gegner von ihren",
+  "Rechten Gebrauch machen können, ohne dass der abgeschlossene Friede da-",
+  "durch beeinträchtigt wird.",
+  "2) In einem Beibriefe zu dem Vertrag über Abschluss eines neunjährigen",
+  "Waffenstillstandes spricht Ludwig (Soissons, Sept. 13) dem Herzog das Recht",
+  "zu, die Lande Pfirt und Elsass unter seine Botmässigkeit zurückzuführen.",
+  "Wenn die Berner und ihre Verbündeten diesen irgend welche Hilfe leisten,",
+  "so kann der Herzog gegen sie einschreiten, wie er will, ohne dass der König",
+  "sich ihrer annehmen oder der Waffenstillstand dadurch gebrochen wird.",
+  "Dumont III, 509. Comines-Lenglet III, 419f. Eidg. Absch. II, 562.",
+  "3) Es ist ein Versehn, wenn Kirk III, 244 A. 85 meint, Strobel III, 349",
+  "berichte über diesen Brief »from a manuscript at Strasburg«. Mit dem Citat",
+  "»Gerung fol. 213b ff.« meint Strobel die Stelle unsres Textes, die er nach der",
+  "früheren Bezeichnung der Blätter und in der irrigen Annahme, Niclaus Ge-",
+  "rung genannt Blauenstein sei der Verfasser unsres Tagebuchs, citiert (vgl.",
+  "das Vorwort Buxtorfs zu seiner Uebersetzung, Basel 1851, S. III)."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "„[44 Mirabar“ opraveno na [440] podle zdroje. Vischer odkazuje ke Strobelovi (III, 344) o bourání štrasburských klášterů. sv. Jan na Vodách (in Undis) = komenda johanitů ve Štrasburku (mimo přepis). „jacula provisa minus feriunt“ je týž výrok sv. Řehoře jako v kap. 102.",
+  "[Dec. 20] Předvečer sv. Tomáše (21. 12.) = středa 20. 12. 1475.",
+  "„confederatos de magna liga“ (odst. 3) přeloženo jako spojenci, protože jde o celý velký spolek, ne jen o Spřísežence.",
+  "[Dec. 2] List je datován v Nancy 2. 12. 1475 (sobota). Aparát: v rukopisu „Swetenses“ (opraveno editorem na Switenses). „mollitus“ (= molitus, chystal) a „appeciit“ (OCR „appecüt“) ponechány v Knebelově podobě.",
+  "Vischer: mír mezi císařem a Karlem uzavřeli zplnomocněnci 17. 11. 1475 v táboře před Nancy (ne před Neussem, jak mylně uvádějí Eidg. Abschiede). Doplňkovým článkem se císař zavázal do šesti měsíců vyřídit Karlovy nároky na hrabství Pfirt; jinak měly obě strany volnou ruku.",
+  "Vischer: v průvodním listu ke smlouvě o devítiletém příměří (Soissons, 13. 9. 1475) přiznal Ludvík XI. Karlovi právo podrobit si znovu Pfirt a Alsasko; budou-li Bernští a jejich spojenci pomáhat těm zemím, může proti nim Karel zakročit, aniž se jich král zastane. Karlova slova o francouzském králi tedy odpovídají skutečnosti.",
+  "Vischer: Strobel (III, 349) cituje tento list z Knebelova deníku (který mylně připisoval Niklausi Gerungovi zv. Blauenstein), nikoli ze štrasburského rukopisu, jak se domníval Kirk."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

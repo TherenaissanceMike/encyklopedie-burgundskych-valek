@@ -1,0 +1,68 @@
+{
+ "cislo": 16,
+ "nadpis": "Tobler 1917, s. 27",
+ "nadpis_preklad": "Bitva u Nancy a smrt Karla Smělého (5. ledna 1477)",
+ "strana_edice": 27,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Den weg man in do vnder ging , / Das muostent sie doch lyden. / Der swytzer Ern gar bald anfing, / Sie wurdent gurgeln Snyden.",
+   "preklad": "Zatarasili jim tam cestu, / to museli přece snést. / Švýcarská žeň brzy začala, / podřezávali hrdla.",
+   "vers_od": 403
+  },
+  {
+   "text": "Ser grosser witzen  man do pflag, / Etlich guot ret do gobend. / Geschach uff einen sonentag / Der heiligen dry küng obend .",
+   "preklad": "Jednalo se tam s velkou rozvahou, / někteří tam dávali dobrou radu. / Stalo se to v neděli, / v předvečer svatých Tří králů.",
+   "vers_od": 407
+  },
+  {
+   "text": "Man zalte .XIIII. c. Jor / Dar zuo lxx vnd süben. / Sie prangten ser / gar kürtz do vor, / Es ward in / ingeribben.",
+   "preklad": "Psal se rok čtrnáct set / a k tomu sedmdesát sedm. / Velmi se vypínali, krátce předtím, / bylo jim to vytřeno.",
+   "vers_od": 411
+  },
+  {
+   "text": "Man machte do ein ordenunge, / Das mag man hören gerne, / Die fuoßlüt lüffent alt vnd jnnge / Gar frölich in die Erne.",
+   "preklad": "Sestavil se tam bitevní šik, / to je radost slyšet; / pěší běželi, staří i mladí, / velmi vesele do žně.",
+   "vers_od": 415
+  },
+  {
+   "text": "Man sluog vor manchen ritter stolcz / Als kuortz vor disem vechten, / Sü ranten snell hin als ein bolcz / Vnd stundent by / dem rechten.",
+   "preklad": "Předtím pasovali mnohého hrdého rytíře, / krátce před touto bitvou; / hnali se rychle jako šíp / a obstáli čestně.",
+   "vers_od": 419
+  },
+  {
+   "text": "Der hertzog von burgunden lag / Persönlich in sym here, / Der lotrigsch fürst hat nie kei tag / Gefrowet sich so sere.",
+   "preklad": "Vévoda burgundský ležel / osobně ve svém vojsku; / lotrinský kníže se ještě nikdy v žádný den / tak velice neradoval.",
+   "vers_od": 423
+  },
+  {
+   "text": "Es ging Im do noch allem wunsch, / Von gott fügt sich das glücke, / Sie rantent vnder die burgunsch / Vnd stochent sie zuorucke.",
+   "preklad": "Šlo mu to tam podle všeho přání, / od Boha přišlo to štěstí; / vrazili mezi Burgundské / a zatlačili je bodáním zpět.",
+   "vers_od": 427
+  },
+  {
+   "text": "Herczog karle den stach man dot / Vnd mit Im vier tusent , / Die vordersten in grosser nott / Durch fluocht gar fyntlich susent.",
+   "preklad": "Vévodu Karla ubodali / a s ním čtyři tisíce; / ti přední ve velké tísni / prchali, až to ukrutně svištělo.",
+   "vers_od": 431
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "= versperren.",
+  "= Klugheit.",
+  "5. Januar. Schilling II, 111.",
+  "Druckfehler für: junge.",
+  "Schilling II, 114, Anm. 1."
+ ],
+ "poznamky_prekladu": [
+  "v. 403 „vnder gon“ = zatarasit (pozn. editora); v. 407 „witzen“ = rozvaha (pozn. editora).",
+  "Bitva u Nancy: neděle 5. ledna 1477, předvečer Tří králů (pozn. editora; Schilling II, 111).",
+  "v. 414 „ingeribben“ = vytřeno, tj. odplaceno.",
+  "v. 417: tisková chyba „jnnge“ místo „junge“ (pozn. editora). „fuoßlüt“ = pěší.",
+  "v. 419: pasování rytířů před bitvou, jako u Murtenu (Schilling II, 47); „bolcz“ = šíp do kuše.",
+  "v. 432: počet padlých srov. Schilling II, 114, pozn. 1 (pozn. editora).",
+  "v. 434 „susent“ = svištět, hučet; smysl: prchali bezhlavě."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

@@ -1,0 +1,220 @@
+{
+ "cislo": 80,
+ "nadpis": "Basler Chroniken II, s. 260–263",
+ "nadpis_preklad": "Rozložení říšského vojska před Neussem podle Ludvíka z Eptingenu (květen–červen 1475)",
+ "svazek": "II",
+ "strany_edice": [
+  260,
+  263
+ ],
+ "rok": 1475,
+ "rukopis_strana": 339,
+ "odstavce": [
+  {
+   "text": "Den strengen, ersamen, fursichtigen und wisen, dem burgermeister und dem ratt der stat Basel, unsern lieben herren,",
+   "preklad": "[Adresa:] Urozeným, ctihodným, prozíravým a moudrým [pánům], purkmistrovi a radě města Basileje, našim milým pánům."
+  },
+  {
+   "text": "Disz sind die weltlichen fursten und herren und ire grafen, als sy im here und in der wagenburg vor des hertzogen von Burgund leger vor Nüsse gewesen, als sy herre Ludwig von Eptingen schribt:",
+   "preklad": "Toto jsou světská knížata a páni a jejich hrabata, jak byli rozloženi ve vojsku a ve vozové hradbě před ležením vévody Burgundského před Neussem, jak je zapisuje pan Ludvík z Eptingenu:"
+  },
+  {
+   "text": "Unser allergnedigister herre Friderich Romischer keyser der dritt. grafen by ime: Ulrich graff von Werdenberg, Hans graff von Barban, Wilhelm graff von Seger, Eberhart graff von Sunnenberg.",
+   "preklad": "Náš nejmilostivější pán Fridrich, římský císař, toho jména třetí. Hrabata u něho: Ulrich hrabě z Werdenbergu, Hans hrabě z Barban, Wilhelm hrabě ze Seger, Eberhart hrabě ze Sunnenbergu."
+  },
+  {
+   "text": "[339] Marggraff Albrecht von Brandenburg litt dem keyser zü der linggen syten. grafen by ime: graff Ott von Hennenberg, graff Ludwig von Öttingen, graff Balthasar von Swartzenberg, herre Philipps von Winsperg, herre Michel von Sachsenheym, herre Michel von Senssheym.",
+   "preklad": "[339] Markrabě Albrecht Braniborský leží po císařově levé straně. Hrabata u něho: hrabě Ott z Hennenbergu, hrabě Ludwig z Öttingenu, hrabě Balthasar ze Swartzenbergu [= Schwarzburg], pan Philipps z Winspergu, pan Michel ze Sachsenheymu, pan Michel ze Senssheymu."
+  },
+  {
+   "text": "Herzog Albrecht von Sachsen lyt dem keyser zü der linggen siten. herren by im: Schenck Jorg von Dütemberg, herr Heinrich Richsheym von Blow herre zü Gratz.",
+   "preklad": "Vévoda Albrecht Saský leží po císařově levé straně. Páni u něho: šenk Jorg z Dütembergu, pan Heinrich Richsheym z Blow, pán na Gratz [= Reuss z Plavna, pán na Greizu]."
+  },
+  {
+   "text": "Marggraff Cristoffel von Baden graff zü ep oben lyt dem keyser an der rechten syten by Trier.",
+   "preklad": "Markrabě Cristoffel Bádenský, hrabě z ep[?], leží nahoře po císařově pravé straně u Trevírského."
+  },
+  {
+   "text": "Alt Wirtenberg lit dem keyser an der linggen syten. grafen by ime: graff Krafft von Hohenloch, graff Ludwig von Helfenstein, graff Ytelfritz von Zom.",
+   "preklad": "Starý Württemberk leží po císařově levé straně. Hrabata u něho: hrabě Krafft z Hohenlohe, hrabě Ludwig z Helfensteinu, hrabě Ytelfritz ze Zom [= Zollern]."
+  },
+  {
+   "text": "Graff Eberhart von Wirtenberg lyt och dem keyser an der linggen syten. grafen by ime: graff Alwig von Sultz, graff Bernhart von Eberstein, graff Egge von Furstenberg, graff Hans von Sunnenberg, Eberhart fryeherre von Gundolfingen, Hans fryeherre zü Stöftel.",
+   "preklad": "Hrabě Eberhart Württemberský leží také po císařově levé straně. Hrabata u něho: hrabě Alwig ze Sultzu, hrabě Bernhart z Ebersteinu, hrabě Egge z Fürstenbergu, hrabě Hans ze Sunnenbergu, Eberhart svobodný pán z Gundolfingenu, Hans svobodný pán na Stöftelu."
+  },
+  {
+   "text": "Lantgraff Heinrich von Hessen litt dem keyser zü der linggen syten. grafen by ime: Gothart graff zü Sene und sin sun; graff Ott von Sulms, graff Eberhart von Helfenstein, graff Philipps von Waldeggen, Philipps herre zü Kom und Kungstein, Gottfrid herre zü Eppstein.",
+   "preklad": "Lantkrabě Heinrich Hesenský leží po císařově levé straně. Hrabata u něho: Gothart hrabě ze Sene [= Sayn] a jeho syn; hrabě Ott ze Sulms, hrabě Eberhart z Helfensteinu, hrabě Philipps z Waldeggenu, Philipps pán na Kom a Kungsteinu [Königstein], Gottfrid pán na Eppsteinu."
+  },
+  {
+   "text": "[340] Graff Hans von Nassow mit den sinen dem keyser zu der linggen siten.",
+   "preklad": "[340] Hrabě Hans Nasavský se svými [leží] po císařově levé straně."
+  },
+  {
+   "text": "Mins gnedigen herren hertzog Sigmundis von Osterrich bottschafft: graff Hug von Montfort, graff Hans von Lupfen, graff von Brandis, Mathis herre zü Kastelwart.",
+   "preklad": "Poselstvo mého milostivého pána vévody Zikmunda Rakouského: hrabě Hug z Montfortu, hrabě Hans z Lupfenu, hrabě z Brandisu, Mathis pán na Kastelwartu."
+  },
+  {
+   "text": "Disz sind die geistlichen fursten und herren: Der bischoff von Mentz an der rechten siten des keysers; graffen by im: graff Adolff von Nassow, graff Berthold von Hennenberg, graff Philipps von Hanow, graff Philipps von Nassow.",
+   "preklad": "Toto jsou duchovní knížata a páni: Biskup mohučský po císařově pravé straně; hrabata u něho: hrabě Adolff Nasavský, hrabě Berthold z Hennenbergu, hrabě Philipps z Hanau, hrabě Philipps Nasavský."
+  },
+  {
+   "text": "Der bischoff von Trier an der rechten syten des keysers. grafen by im: graffen zü Sulms, graff Friderich von Wachenheym, graff Heinrich von Nassow herre zü Bylstein, Friderich herre zü Stein, Wilhelm herre zü Runckel, Reinhart herre zü Westerburg, Swerich herre zü Stein, Gotterich herre zü Rüff und Kerppen, groff Friderich von Zweinbrucken, Ytel von Bitsch.",
+   "preklad": "Biskup trevírský po císařově pravé straně. Hrabata u něho: hrabata ze Sulms, hrabě Friderich z Wachenheymu, hrabě Heinrich Nasavský, pán na Bylsteinu, Friderich pán na Steinu, Wilhelm pán na Runckelu, Reinhart pán na Westerburgu, Swerich pán na Steinu, Gotterich pán na Rüff a Kerppen, hrabě Friderich ze Zweinbrucken [Zweibrücken], Ytel z Bitsche."
+  },
+  {
+   "text": "Unden an der rechten syten: des bischoffs von Ougspurg botschafft: groff Jorg von Werdenberg, graff Hug von Werdenberg. bischoffs von Stroszburg botschafft och do by. [341] der bischoff von Eichstetten. der probst von Ellewangen, ist einer von Rechberg. des appt von Kempten botschafft. des apts von Sant Gallen botschafft. des bischoffs von Würtzburg botschafft: graff Wilhelm ein furst zü Hennenberg, graff Hans von Wertheym, graff Wilhelm von Wertheym.",
+   "preklad": "Dole po pravé straně: poselstvo biskupa augsburského: hrabě Jorg z Werdenbergu, hrabě Hug z Werdenbergu. Poselstvo biskupa štrasburského je také při tom. [341] Biskup eichstättský. Probošt z Ellwangen, je to jeden z Rechbergů. Poselstvo opata z Kemptenu. Poselstvo opata ze Sankt Gallen. Poselstvo biskupa würzburského: hrabě Wilhelm, kníže z Hennenbergu, hrabě Hans z Wertheymu, hrabě Wilhelm z Wertheymu."
+  },
+  {
+   "text": "Bischoff von Munster lyt an der rechten syten und hatt ein sunder wagenburg.",
+   "preklad": "Biskup münsterský leží po pravé straně a má vlastní vozovou hradbu."
+  },
+  {
+   "text": "Des bischoffs von Meydburg botschafft. des bischoffs von Badeburn botschafft.",
+   "preklad": "Poselstvo biskupa magdeburského. Poselstvo biskupa paderbornského."
+  },
+  {
+   "text": "Die stett: Stroszburg oben an der linggen syten des keysers, Ougspurg, Nürenberg, Franckfort, Wurmsz, Ulm, Giengen, Aulon, Werd, Kempten, Ysnen, Memmingen, Köffburen, Lutkirch, Rütlingen, Nördlingen, Boppfingen, Hall, Heltprunn, Wynppfen, Wetzfeler, Keysersperg, Roszheym, Sletstatt, Rafenspurg, Durickheym, Ehenheym, Überlingen, Lindow, Santgallen, Schaffhusen, Rotwil, Bibrach, Hagnow, Colmar, Rotenburg, Dinckelspuhel, Swinfurt, Coln, Auch, Eifort, Lubeck, Spir, Mulhusen, Coblentz, Buchbarten, Wesel.",
+   "preklad": "Města: Štrasburk nahoře po císařově levé straně, Augsburg, Norimberk, Frankfurt, Worms, Ulm, Giengen, Aalen (Aulon), Donauwörth (Werd), Kempten, Isny (Ysnen), Memmingen, Kaufbeuren (Köffburen), Leutkirch, Reutlingen, Nördlingen, Bopfingen, Hall, Heilbronn (Heltprunn), Wimpfen, Wetzlar (Wetzfeler), Kaysersberg, Rosheim, Schlettstadt, Ravensburg, Durickheym [snad Türkheim v Alsasku?], Obernai (Ehenheym), Überlingen, Lindau, Sankt Gallen, Schaffhausen, Rottweil, Biberach, Hagenau, Colmar, Rothenburg, Dinkelsbühl, Schweinfurt, Kolín, Auch [Cáchy?], Erfurt (Eifort), Lübeck, Špýr, Mulhusen [Mylhúzy, nebo Mühlhausen?], Koblenz, Boppard (Buchbarten), [Ober]wesel."
+  },
+  {
+   "text": "Uff dem Stein ligend: die von Costantz, Basel und etlich von Cöln.",
+   "preklad": "Na Steinu leží: Kostničtí, Basilejští a někteří z Kolína."
+  },
+  {
+   "text": "[342] Scripta per dominum Ludowicum de Eptingen facta civibus Basiliensibus, cujus finem superius posui, que incipiunt: »öch als der hertzog von Burgund uff fritag noch sant Vitus tag«.",
+   "preklad": "[342] Listy, které pan Ludvík z Eptingenu napsal basilejským měšťanům; jejich konec, začínající slovy „Také když vévoda Burgundský v pátek po sv. Vítu“, jsem položil výše."
+  },
+  {
+   "text": "[Mai 6] Item uff samstag vor dem heiligen pfingstoben hatt sich die keyserlich majestat erhebt zu Köln mit sampt der kurfursten",
+   "preklad": "[Mai 6] „Rovněž v sobotu před svatým předvečerem Letnic se císařský majestát vydal z Kolína spolu s kurfiřty [pokračuje v kap. 81]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 3—7. E.A.: Dis... wagenburg lygen: Unser u. s. w. 7. E.A.: herre der keyser",
+  "in mitten uff dem plane. 8. Sp. Ch.: graff Ulrich von Wurtenberg. graff Hein-",
+  "rich von Barben. 9. E.A.: von Soger. Sp. Ch.: von Seger. 10. Sp. Ch.",
+  "fügt noch bei: herr Rudolf marschalg von Pappenhein. 12. grafen by ime fehlt",
+  "bei Kn. 13. E. A.: Ott von Ottingen. Sp. Ch.: Hug von Ottingen. Ludwig",
+  "ist das Richtige. Stälin III, 691. Grote, Stammtafeln 116. 14. Sp. Ch.: graff Phi-",
+  "lipps von Winsperg ein erbkamer des richs. 14. Nach Ph. v. W. haben E. A.: herr",
+  "Michel von Sensheim, grave Sigmundt von Sensheim. Die Sp. Ch. schliesst den Absatz",
+  "mit Ph. v.W. 17. Sp. Ch.: an der linckten sitten an dem margraffen von Branden-",
+  "burg. 17. E.A.: von Duttenberg. Sp. Ch.: von Dittenberg. 18. E.A.: Heinrich",
+  "Richssen von Blaw herre zu Grätz. Sp. Ch.: Heinrich Ruchssen von Blasen herre zu",
+  "Gretze. 19. lyt fehlt bei Kn. 20. by Trier fehlt Sp. Ch. (vgl. S. 261, A.5). 21. Sp.",
+  "Ch.: nahe an der linckten sitten. 21. Sp. Ch.: lyt unden an dem alten von Wurtenberg-",
+  "1) Die Speierische Chronik, die Mone, Quellensammlung I abdruckt,",
+  "giebt S. 518f. ein Verzeichniss, das, was die weltlichen Fürsten betrifft,",
+  "im wesentlichen mit dem von Ludwig von Eptingen mitgetheilten überein-",
+  "stimmt und auf dasselbe Original zurückzuführen ist. Wir geben die Ab-",
+  "weichungen an, insofern sie sachlicher Natur sind oder zur Verdeutlichung",
+  "der bei Knebel oder in den Eidg. Absch. enthaltenen Lesarten dienen kön-",
+  "‘nen, nehmen jedoch keine Rücksicht auf Verschiedenheiten in der Fassung",
+  "der Sätze. 2) Schwarzburg. nit",
+  "3) Wohl Seinsheim in Franken. Grote, Stammtafeln 90. Carl Wolf,",
+  "die unmittelbaren Theile des ehemaligen römisch-deutschen Kaiserreichs",
+  "(Berlin 1873) 116. 125. 4) Reuss von Plauen Herr zu Greiz.",
+  "5) Graf Ulrich (+ 1480), der im J. 1442 mit seinem ältern Bruder Ludwig",
+  "(+ 1450) die wirtembergischen Lande getheilt und den sog. Neifener oder Stutt-",
+  "garter Theil bekommen hatte, während jenem der Uracher zugefallen war.",
+  "Aparát: 4. Sp. Ch.: graff Albrecht von Sultz. graff Eberhart von Eberstein. 6. Sp. Ch.:",
+  "graff Henrich von Sunnenberg. 6. E.A.: Erhart fryherre zu Gungelfingen, Sp. Ch.",
+  "dagegen : Eberhart f. zu Gundelfingen. 7. Sp. Ch.: Heinrich herre zu Stoffel. Sig-",
+  "mont von Bappenheim ein erbmarschalg des richs. 8. Sp. Ch.: an der linkten sitten",
+  "zu nehst. 9. grafen by ime fehlt beiKn. 9. Sp. Ch.: Seyne. 11. 12. E.A.: Ph. her",
+  "zu Kern und Königstein, Sp. Ch.: graff Philipps herre zu Kam und Königstein.",
+  "Aparát: 12. Sp. Ch.: Gothart herre zu Epstein. 13. Sp. Ch.: graff Heinrich zu Nassauwe",
+  "lyt auch dem keiser zu der linckten sitten wol gerust mit ime selbs mit 50 pferden.",
+  "Aparát: 15. Ungewiss, ob Sigmundis oder Sigmunds zu lesen. 16. Sp. Ch.: botschaff Iyt auch",
+  "an dem keiser uszen an der rechten siten. graffe Hug von Montfurt. graffe von der",
+  "Lyp. graffe von Schonberg. graffe von Heuwen. graff Heinrich von Lupff. .ein herre",
+  "von Brandisz fryherre. ein herre von Castelburg fryherre. ° 21. g. Ph. von Hanow",
+  "fehlt E. A. 24. 25. E.A.: Wathenden.",
+  "1) Zollern.",
+  "2) Eberhard (im Bart), Neffe Ulrichs, Inhaber des Uracher Theils, nach-",
+  "mals (1495) der erste Herzog von Wirtemberg. 3) Sayn.'",
+  "4) Ueber die Grafschaft Königstein und ihre Inhaber aus dem Hause der",
+  "Herren v. Eppstein s. Grote a. a. O0. 138. Wolfa. a. O. 274.",
+  "5) Das Verzeichniss der geistlichen Herren und der ihnen beigeordneten",
+  "Grafen und Herren fehlt in der Speierischen Chronik. Statt desselben hat",
+  "sie bloss folgende Notizen: item Meydburg ein bischoff. item der bischoff",
+  "von Metz ist komen uff dinstag vor sant Vitz tag & uni 13] und lyt uszwendig",
+  "der wagenburg geyn dem Rin.",
+  "Aparát: 1. E.A.: Johann h. z. Runckel. 2. E.A.: Emerich herre zum Stein. 6.g.H.",
+  "v. W. fehlt bei Knebel. Vgl. Stälin III, 456. 689. 8. 9. ist einer von Rechberg fehlt",
+  "E.A. 16. E. A.: Warrpurer. 22. Sletstadt, Rafenspurg stehn E. A. erst zwischen",
+  "„Schofhusen“ und „Rotwil“. 25. Auch fehlt beiKn. Nach E. A., das hier Ach liest»",
+  "mit Rücksicht auf die Schreibart von S. 257, 18 ergänzt. 26. E. A.: Bopparten.",
+  "1) Das Städteverzeichniss der Speierischen Chronik ist von dem hier mit-",
+  "getheilten verschieden. Die Städte werden zum Theil in anderer Reihenfolge",
+  "aufgeführt, und bei den meisten wird der Hauptmann ihrer Truppen angege-",
+  "ben (bei Basel und einigen andern nicht). Von den Städten unseres Verzeich-",
+  "nisses fehlen Worms, Nördlingen, Schweinfurt, Mülhausen, Coblenz, Boppart,",
+  "Wesel. Dagegen enthält es zwei, die sich in unserem nicht finden: »Grünyn-",
+  "gen« und »Winterheym«.",
+  "2) Aalen. 3) Donauwörth. 4) Heilbronn. 5) Wetzlar.",
+  "6) Boppart. 7) D. h. Oberwesel.",
+  "Aparát: 3. E. A.: sambstag nach.",
+  "1) S. oben 8. 256 A. 3. Diesen (ersten) Theil des Schreibens des",
+  "Ludwig von Eptingen bringt Schilling S. 158ff., in manchen Abschnitten",
+  "stark verkürzt, unter der Ueberschrift: »Das die von Cöln aber denen von",
+  "Bern und andern Eidgnossen schriben, wie der keiser mit gantzem gwalt für",
+  "Nusz gezogen was, und wie er wider dannen vertedinget wart«. Gleich zu",
+  "Anfang heisst es: »hat sich die keiserliche majestat in unser statt Cöln er-",
+  "hebt«; wo Ludwig von Eptingen in der ersten Person redet, sind die Sätze",
+  "geändert. Die Erzählung des Auszugs und des Streits zwischen den Mün-",
+  "sterischen und den Strassburgern stimmt fast wörtlich mit unsrem Texte,",
+  "ebenso der Anfang des folgenden Absatzes, gegen das Ende desselben wird",
+  "die Fassung kürzer und in Betreff der Ritter, die geschlagen wurden, heisst",
+  "es einfach: »und wurden uff beiden teilen vil rittern geschlagen«. Die vier",
+  "folgenden Absätze sind alle stark gekürzt. Der vierte schliesst: »und von",
+  "beiden parthien etlich in die statt Nusz geritten.« Darauf folgt: »Item und",
+  "als dieselben gen Nusz furent, da kament sy in des richesten burgers husz«",
+  "und nun kommt in Kürze der Hauptinhalt des entsprechenden Äbsatzes uns-",
+  "res Briefes; »und sagt er«, heisst es zuletzt, »das sy keinen mangel gehebt",
+  "haben, dann an einem apotecker für die krancken, darzu an saltz undan",
+  "büchsenpulver«. Hieran reiht sich unmittelbar, mit Weglassung alles Uebri-",
+  "gen, folgender Schlussabschnitt: »Item und als man in diesen und andern",
+  "dingen lange zit, von eim tage an den andern, getedinget hat, und in sem-",
+  "lichem tedingen allwegen vil uffruren und scharmutzen beschechen, da ist es",
+  "doch am lesten also bericht worden, das der legat die statt Nusz innemmen",
+  "sol zu des rychs sinen handen bis uff usspruch des bapstes; und soll der",
+  "hertzog von Burgunn damit abscheiden und die keiserliche majestat auch,",
+  "doch soll der keiser dem hertzogen nit nachziechen,, als das luter abgerett ist,",
+  "es hat an diser richtung menglich miszfallen, dann anders so blibt der krieg",
+  "und alle fiendschafft offen, und der keiser hette auch den dingen wol ein",
+  "besser ende geben, nachdem er dann als mechtiglichen da gewesen ist«. —",
+  "Ohne Zweifel behielt Ludwig von Eptingen von den Aufzeichnungen, die er",
+  "auf Bitten des Veltin von Neuenstein den Baslern schickte, und die er viel-",
+  "leicht schon vorher und ohne Rücksicht auf eine solche Verwendung nieder-",
+  "geschrieben hatte, ein Concept oder eine Abschrift bei sich; darauf deutet",
+  "die 8. 256 A. 3 erwähnte Benutzung derselben im Eptinger Familienbuche.",
+  "Diese wird er dann auch andern mitgetheilt haben, und so können sie, wie",
+  "früher die $. 133, 12ff. abgedruckten Nachrichten (s. 8. 134 A. 1), weitere",
+  "Verbreitung gefunden und von Köln nach Bern geschickt worden sein, wäh-",
+  "rend das ganze Schreiben des Ludwig von Eptingen von Basel aus den Eid-",
+  "genossen bekannt geworden ist. — Man könnte allerdings denken, die Kölner",
+  "wären im Falle gewesen, ihren Freunden directere Nachrichten zukommen zu",
+  "lassen, allein nach Ennen 547 beschwerten sich die im kaiserlichen Heere be-",
+  "findlichen kölnischen Bevollmächtigten, »dass sie zu den Unterhandlungen",
+  "über den Waffenstillstand nicht zugezogen worden, und von dem Inhalt der",
+  "getroffenen Vereinbarung nicht die geringste Mittheilung erhalten hätten«.",
+  "Sie wussten also nicht mehr als Ludwig von Eptingen.",
+  "Mai 6"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Odst. 1 je adresa Valentinova listu z kap. 79 (oddělena od soupisu). Odst. 2–18 jsou soupis rozložení říšského vojska před Neussem z Eptingenova listu. Jména osob jsou ponechána podle pramene, přeložen je jen titul a předložka.",
+  "Vischer: soupis světských knížat se v podstatě shoduje se Speyerskou kronikou (Mone, Quellensammlung I, 518 n.), jde o týž originál; duchovní knížata v ní chybějí. Určení podle Vischera: Swartzenberg = Schwarzburg, Senssheym = Seinsheim (Franky), Richsheym von Blow herre zü Gratz = Reuss z Plavna, pán na Greizu, Alt Wirtenberg = hrabě Oldřich (†1480, stuttgartský díl), Eberhart = Eberhard s Vousem (uracký díl, od 1495 první vévoda württemberský), Zom = Zollern, Sene = Sayn, Kom und Kungstein = Königstein (Eppsteinové).",
+  "Aparát: hrabě Ludwig z Öttingenu je podle Vischera správně (E.A. Ott, Speyerská kronika Hug). U Knebela chybějí a Vischer doplnil podle Eidg. Absch.: „grafen by ime“ (u Braniborského a Hesenského), „lyt“ (u Bádenského), „graff Hug von Werdenberg“ a město „Auch“ (E.A. „Ach“). „Sigmundis“ je nejisté čtení (snad Sigmunds). Varianty jmen (E.A. „Emerich herre zum Stein“, „Johann h. z. Runckel“, „Erhart … Gungelfingen“) jsem nepřebíral.",
+  "„graff zü ep oben“: slovo je v OCR zkomolené [?]; markrabě Kryštof Bádenský byl též hrabětem ze Sponheimu (mimo přepis), ověřit v rukopisu. „by Trier“ = vedle [arcibiskupa] trevírského. „bischoff von Mentz / Trier / Meydburg“ jsou arcibiskupové; ponecháno „biskup“ podle textu.",
+  "Města podle Vischera: Aulon = Aalen, Werd = Donauwörth, Heltprunn = Heilbronn, Wetzfeler = Wetzlar, Buchbarten = Boppard (E.A. Bopparten), Wesel = Oberwesel. Speyerská kronika má jiný seznam (s hejtmany oddílů), chybějí v ní Worms, Nördlingen, Schweinfurt, Mulhusen, Koblenz, Boppard a Wesel, navíc má „Grünyngen“ a „Winterheym“. Speyerská kronika též uvádí, že biskup metský přišel v úterý před sv. Vítem (13. 6.) a ležel mimo vozovou hradbu u Rýna.",
+  "Opravy OCR: [310] → [340] a [322] → [342] (podle pořadí stran); „naff Kirafft“ → graff Krafft, „Iyt“ → lyt, „Wachen%5heym“, „boschafft“, „Basibensedbus“, „incpiunt“, „„graffen“, „Wesel”)“.",
+  "[Mai 6] Sobota před vigilií Letnic (Letnice 14. 5. 1475) = 6. 5. (Aparát: E.A. „sambstag nach“.) Vischer: tuto první část Eptingenova listu (z 5. 6.) přináší i Schilling (s. 158 n.), místy silně zkráceně, pod nadpisem o listu Kolínských Bernským; Eptingen si asi ponechal koncept a ten se šířil dál. Kolínští zplnomocnění si podle Ennena stěžovali, že nebyli přizváni k jednání o příměří.",
+  "Úsek končí uprostřed věty, pokračuje kap. 81."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

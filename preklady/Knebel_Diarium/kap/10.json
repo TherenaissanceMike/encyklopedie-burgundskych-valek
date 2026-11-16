@@ -1,0 +1,116 @@
+{
+ "cislo": 10,
+ "nadpis": "Basler Chroniken II, s. 43–45",
+ "nadpis_preklad": "Haneronův výhružný list Mylhúzským a Karlova odpověď Bernu (prosinec 1473 – leden 1474)",
+ "svazek": "II",
+ "strany_edice": [
+  43,
+  45
+ ],
+ "rok": 1474,
+ "rukopis_strana": 42,
+ "odstavce": [
+  {
+   "text": "landen, Zulliszheym, Rülinsheym, Richenszheym, Pfaffstatt, Luterbach etc. et omnia consumebant, que esce erant, etsi non ad capienda domus suppellectilia [p…?] erant.",
+   "preklad": "[Flax]landenu, Zillisheimu, Rülisheimu, Rixheimu, Pfastattu, Lutterbachu atd., a spotřebovali všechno, co bylo k jídlu, ačkoli brát domácí svršky [oprávněni?] nebyli."
+  },
+  {
+   "text": "Eo tunc dominus Karolus dux Burgundie scribi fecerat Mulhusensibus in hunc qui sequitur modum: Venerabilibus viris, dilectis amicis meis burgimagistris et communitati oppidi de Mellenouse.",
+   "preklad": "Tehdy dal pan Karel, vévoda Burgundský, napsat Mylhúzským tímto způsobem: Ctihodným mužům, mým milým přátelům, purkmistrům a obci města Mylhúz (Mellenouse)."
+  },
+  {
+   "text": "Dilecti amici mei. Cum hodie expectarem, quod deputati vestri, qui hesterno die hic mecum fuerant, huc reverterentur responsum de hiis, quae illis pro salute vestra et publica utilitate totius civitatis vestrae suaseram, advenit huc quidam nuntius vester cum litteris vestris ad illustrissimum et excellentissimum dominum meum ducem inscriptis. Quas cum excellentia sua perspexisset neque ex illis comperisset diligentiam ullam per vos factam super hiis, quae deputatis vestris praedictis commendaveram, jussit michi eadem excellentia sua ut super hiis darem nomine suo eidem nuntio vestro responsum [42] ad vos deferendum, per quod intelligere potuissetis talem vel tarditatem vel neggligentiam vestram parum gratam fuisse celsitudini suae.",
+   "preklad": "Moji milí přátelé. Když jsem dnes čekal, že se sem vrátí vaši vyslanci, kteří tu včera byli u mne, s odpovědí na to, co jsem jim radil pro vaše blaho a pro obecný prospěch celého vašeho města, přišel sem jakýsi váš posel s vašimi listy adresovanými nejjasnějšímu a nejvznešenějšímu pánu, mému pánu vévodovi. Když je jeho Vznešenost prohlédla a neshledala z nich, že byste vynaložili jakoukoli péči o to, co jsem řečeným vašim vyslancům doporučil, poručila mi tatáž jeho Vznešenost, abych o tom jejím jménem dal témuž vašemu poslu odpověď, [42] kterou by vám donesl a z níž byste mohli poznat, že taková vaše liknavost či nedbalost byla Jeho Výsosti málo milá."
+  },
+  {
+   "text": "Nuntius autem vester (nescitur qua causa, sive sic per vos jussus sive ex levitate et ineptia sua) nullo responso expectato ad vos reversus est.",
+   "preklad": "Váš posel se však (neví se z jaké příčiny, zda na váš rozkaz, či z lehkomyslnosti a nešikovnosti) vrátil k vám, aniž vyčkal odpovědi."
+  },
+  {
+   "text": "Dilecti amici mei, si deputati vestri vera vobis retulerunt de hiis, quae a me audierant, potuissetis huc eos remisisse cum eadem instructione quam illis declaraveram, absque ullo vel incommodo vel periculo vestro, nec debuissetis hoc omisisse nisi animus vobis sit intentioni atque proposito domini mei ducis per moras excogitatas et cautelas improbande subtilitatis, contemptis mediis gratiosis vobis oblatis, illudere.",
+   "preklad": "Moji milí přátelé, jestliže vám vaši vyslanci pravdivě vyložili, co ode mne slyšeli, mohli jste je sem poslat zpět s týmž pověřením, jaké jsem jim vyložil, bez jakékoli škody nebo nebezpečí pro vás, a neměli jste to opomenout, leda byste měli v úmyslu zesměšnit záměr a předsevzetí mého pána vévody vymyšlenými průtahy a úskoky zavrženíhodné chytrosti a pohrdnout milostivými prostředky, které vám byly nabídnuty."
+  },
+  {
+   "text": "Ex qua cogitatione vel opinione parvum accipietis fructum, nisi quod hoc vobis lucrum manebit, quod si ad ipsum dominum meum excellentissimum habebitis aliqua prosequi, parva erit vobis agendi via; qui ultro ad vos ante biduum propinquius accedet, non sine magno periculo et incommodo vestro, sicuti talis vel levitas vestra vel neggligentia vel forte praesumptio digna videtur. Quod vobis non sine certa et magna causa significo.",
+   "preklad": "Z takového úmyslu nebo mínění sklidíte malý užitek; leda vám zůstane ten zisk, že budete-li chtít u samého mého nejvznešenějšího pána něco vyřizovat, budete mít krátkou cestu: on sám se k vám do dvou dnů přiblíží, ne bez velkého nebezpečí a škody pro vás, jak si taková vaše lehkomyslnost, nedbalost nebo snad opovážlivost zřejmě zaslouží. To vám oznamuji ne bez jisté a vážné příčiny."
+  },
+  {
+   "text": "[Jan. 2] Ex opido Anghessey secunda januarii.",
+   "preklad": "[Jan. 2] Z města Ensisheimu (Anghessey) druhého ledna."
+  },
+  {
+   "text": "Anthonius Haneron, ecclesiae Sancti Donatiani Brugensis praepositus, illustrissimi domini mei ducis consiliarius.",
+   "preklad": "Antoine Haneron, probošt kostela sv. Donatiana v Bruggách, rada mého nejjasnějšího pána vévody."
+  },
+  {
+   "text": "Littera missa per dominum Karolum ducem Burgundie etc. sculteto et consulibus opidi Bernensis etc.",
+   "preklad": "List, který poslal pan Karel, vévoda Burgundský atd., starostovi a radním města Bernu atd."
+  },
+  {
+   "text": "Karolus etc.",
+   "preklad": "Karel atd."
+  },
+  {
+   "text": "Spectabilibus viris scultetis et consulibus opidi Bernensis, amicis et confederatis nostris carissimis.",
+   "preklad": "Vážným mužům, starostům a radním města Bernu, našim nejmilejším přátelům a spojencům."
+  },
+  {
+   "text": "[43] Spectabiles viri, amici et confederati carissimi! reddite nobis sunt littere vestre, quibus pro nostre amicicie jure hunc in modum respondemus. rem publicam vestram a teneris amavimus, avorum nostrorum vestigia prosequentes, qui urbi vestre faverunt semper. preterea si fluxarum etatum racionem habuerimus, nulla est provincia finitima vobis, quin aliquando vestris adversata sit commodis, preter unam solam Borgondiam. ut itaque litterarum vestrarum verba repetamus, si graciam vetustissimam, que nostros inter predecessores et vos solidissime duravit, nedum conservare cupitis, sed servando roborare, amplexabimur vos benivolencia non minori. et profecto, putamus, hactenus nichil eorum pretermissum est a nobis, que ad perpetuandam hanc communem amiciciam pertinent, tamenetsi videamini cum Francorum rege hoste nostro non nichil commercii contraxisse, quod non sine admiracione referimus, quandoquidem illius insidias et artes non ignoratis, que universo orbi perspecte sunt, et quondam fecistis periculum. scribitis dedisse ad nos pro opido de Mulhusen alias litteras, quibus responsum non fuit, quod potuit ex inadvertencia accidere. nam si fuissemus de responsione interpellati, satisfecissemus habunde. oratores vestros libenter videbimus et grato atque benivolo, ut equum est, suscipiemus animo. poterunt autem ad nos venire et apud nos [44] se tuto recipere, quantum volent. nec opus est ipsis alio salvo conductu, quoniam eos salvos esse volumus per nos atque nostros. locum autem certum, in quo nos conveniant, statuere vix possumus, tum quod incertum apud nos, quo tempore venturi sint, tum quia parum oci admodum nobis superest. hodie ad Engeszheym opidum nostrum proficiscemur, deinde ad Tann secundum temporum et negociorum exigenciam. postremo ne preces vestras pro opidanis de Mulhusen aspernari videamur, justum est vos animadvertere quidquid pro illis vestra contemplacione fecimus. qua in re dum vobis placere studuimus, non parvo incomodo affecimus eorum creditores et fortasse longe amplius quam honestas pateretur. Mulhusenses enim peccuniarum sunt debitores, nos vero justicie, quam negligere turpe ac flagiciosum est, presertim cum pro ea assequenda creditores isti indefesse nos sollicitent. quare cogitate ea rogare, que possumus sine cujusquam injuria efficere. nam prima, ut ajunt, amicicie lex est, ut ab amicis honesta petantur. utcumque spectatum habebamus desiderium vestrum, scripsimus humanissime ad Mulhusenses emisimusque unum ex consiliariis nostris et quidem virum gravem ac quietis amatorem, quo hujusmodi negocio aliquod utile et conveniens medium adhibeatur, nec deerit opera nostra. et si civitas ulla opidumve volet pro Mulhusensibus intervenire et cavere creditoribus, possemus liberius et honestius vestro desiderio favere, quemadmodum ceteris in rebus constituimus. spectabiles viri, amici et confederati carissimi, altissimus vos conservet!",
+   "preklad": "[43] Vážení mužové, nejmilejší přátelé a spojenci! Byly nám doručeny vaše listy, na něž podle práva našeho přátelství odpovídáme takto. Vaši obec jsme milovali od útlého věku, kráčejíce ve šlépějích našich předků, kteří byli vašemu městu vždy příznivě nakloněni. Mimoto uvážíme-li běh minulých věků, není vám sousední žádná země, která by se kdy nepostavila proti vašemu prospěchu, kromě jediného Burgundska. Abychom tedy zopakovali slova vašich listů: jestliže tu prastarou přízeň, která mezi našimi předchůdci a vámi pevně trvala, chcete nejen zachovat, nýbrž zachováváním i upevnit, obejmeme vás neméně vlídně. A věru, jak myslíme, jsme dosud neopomněli nic z toho, co slouží k zvěčnění tohoto společného přátelství, ačkoli se zdá, že jste s francouzským králem, naším nepřítelem, navázali nemalé styky; to uvádíme ne bez podivu, neboť jeho úklady a lsti, celému světu zjevné, vám nejsou neznámé a kdysi jste je sami okusili. Píšete, že jste nám kvůli městu Mylhúzám poslali dříve jiné listy, na něž nebylo odpovězeno; to se mohlo stát z nepozornosti, neboť kdybychom byli o odpověď požádáni, byli bychom vám hojně vyhověli. Vaše vyslance rádi uvidíme a, jak je slušné, s vděčnou a laskavou myslí přijmeme. Mohou k nám přijít a [44] u nás bezpečně pobývat, jak dlouho budou chtít; nepotřebují žádný jiný glejt, neboť chceme, aby byli v bezpečí skrze nás a naše [lidi]. Určité místo, kde by se s námi sešli, však stanovit stěží můžeme, jednak proto, že nevíme, kdy přijdou, jednak proto, že nám zbývá velmi málo volného času. Dnes se odebereme do našeho města Ensisheimu, potom do Thannu, podle toho, jak budou vyžadovat okolnosti a záležitosti. Konečně, abychom se nezdáli pohrdat vašimi prosbami za měšťany z Mylhúz, je spravedlivé, abyste uvážili, co jsme pro ně z ohledu na vás učinili. Tím, že jsme se vám snažili vyhovět, jsme způsobili nemalou škodu jejich věřitelům, a snad mnohem větší, než by snesla čest. Mylhúzští jsou totiž dlužníky peněz, my však [jsme dlužníky] spravedlnosti, kterou zanedbat je hanebné a ostudné, zvláště když nás ti věřitelé neúnavně žádají, abychom jim k ní dopomohli. Proto pamatujte žádat jen to, co můžeme učinit bez křivdy komukoli; neboť prvním zákonem přátelství je, jak se říká, žádat od přátel [jen] počestné věci. Jakmile jsme poznali vaše přání, napsali jsme Mylhúzským velmi vlídně a vyslali jsme jednoho z našich radů, muže vážného a milovníka pokoje, aby se v této záležitosti našel nějaký užitečný a vhodný prostředek, a naše přičinění nebude chybět. A kdyby se nějaké město nebo městečko chtělo za Mylhúzské přimluvit a zaručit se věřitelům, mohli bychom vašemu přání vyhovět volněji a čestněji, jak jsme to učinili i v ostatních věcech. Vážení mužové, nejmilejší přátelé a spojenci, Nejvyšší vás zachovej!"
+  },
+  {
+   "text": "[Dec. 31] Datum in Brisaco opido nostro die ultima mensis decembris anno etc. 73.",
+   "preklad": "[Dec. 31] Dáno v našem městě Breisachu posledního dne měsíce prosince léta [14]73."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 3. Vor erant ein unleserlicher mit p anfangender Worttheil. 4. Nach Burgundie",
+  "stand zuerst: scripserat Bernensibus et ceteris confederatis. 7. opidi Müllhusens:s.",
+  "Aparát: 11. communitatis. 11. suaseram fehlt. 16. eadem fehlt. 18. potuissetis mentem",
+  "celsitudinis sue. 21. qua de causa. 21. sive sit per vos missus.",
+  "1) Reiningen und das benachbarte Collegiatstift Ölenberg , Heimsbrunn,",
+  "Diedenheim, Brunstadt, Flaxlanden, Zillisheim, Rülisheim, Rixheim, Pfastadt,",
+  "Lutterbach sind rings um Mülhausen gelegen. Die Verlegung herzoglichen",
+  "Kriegsvolkes in diese Ortschaften war auf Einschüchterung der Stadt berechnet",
+  "und hängt mit den Drohungen zusammen, die ihr Karl schriftlich (s. unten",
+  "S. 44, 13) und mündlich (Heinrich-Petri 185) hatte zukommen lassen. Man",
+  "war in Folge dieser Drohungen in Mülhausen auf einen Handstreich gefasst",
+  "(ebenda 186; Bericht der schweizerischen Gesandten bei v. Rodt I, 194) und",
+  "schrieb das Unterbleiben eines solchen oder weiterer Einschüchterungs-",
+  "versuche des Herzogs einer plötzlichen Ueberschwemmung der Ill zu.",
+  "2) Wir geben den Text des Briefes nach einer Abschrift des im Mülhauser",
+  "Archive befindlichen Originals, die Herr Archivar Jos. Coudre angefertigt",
+  "hat, und deren Mittheilung wir der Gefälligkeit des Herrn Armand Weiss",
+  "verdanken. Die Abweichungen Knebels haben wir, insofern sie nicht bloss",
+  "orthographischer Natur sind, unter dem Texte angegeben.",
+  "3) In diesem Schreiben, das vom 2. Jan. datiert ist, entschuldigen die",
+  "Mülhauser ihr Nichteintreten auf die vorgeschlagenen Unterhandlungen mit",
+  "dem Umstande, dass eine eidgenössische Botschaft auf dem Wege zum Herzog",
+  "sei, und eg ihnen nicht gezieme, hinter dem Rücken ihrer Verbündeten zu",
+  "handeln. Mieg II, 113. Der Abdruck aller dieser Briefe bei Mieg leidet an",
+  "vielfachen Ungenauigkeiten.",
+  "Jan. 2",
+  "Aparát: 4. audierunt. 5. vel fehlt. 9. illudendi. ° 10. Ex quo vobis lucrum manebit,",
+  "quem si. 12. nach aliqua steht noch einmal habebitis. 13. vobis erit. 13. ante vos.",
+  "Aparát: 13. propius. 15. vestra fehlt. 18. Engeszheym secunda januarii anno 1474.",
+  "Aparát: 20. ecclesiae fehlt. 27. am obern Rande von pag. 43 steht: Karolus, am untern : dux",
+  "Burgundie, Brabancie, Limburgt, Lucelburge, Ghelrie, comes Flandrie, Arthesii, Burgun-",
+  "die, Hannonie, Holandie, Selandie, Namurci, Zutphanie (oder vielmehr Rutphanie).",
+  "1) Diesen Brief theilt Ochs IV, 235 ff. in deutscher Uebertragung aus einer",
+  "Handschrift des Basler Staatsarchivs mit. Es ist uns bis jetzt nicht gelungen,",
+  "diese letztere aufzufinden.",
+  "2) Vom 28. Dec., deutsch abgedruckt bei Schilling.",
+  "Aparát: 1. nos. 20- Am Rande steht Ensisheym. 32. utrumque."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Vischer: Reiningue, Oelenberg, Heimsbrunn, Didenheim, Brunstatt, Flaxlanden, Zillisheim, Rülisheim, Rixheim, Pfastatt a Lutterbach leží kolem Mylhúz. Vévoda tam vojsko rozložil, aby město zastrašil; v Mylhúzách čekali přepadení a za to, že k němu nedošlo, děkovali náhlé povodni na Ill. Aparát: před „erant“ je nečitelný kus slova začínající na p, zde [p…?] a v překladu „[oprávněni?]“.",
+  "Haneronův list: Vischer jej netiskne podle Knebela, nýbrž podle opisu originálu v mylhúzském archivu; Knebelovy odchylky jsou v aparátu (např. „opidi Mulhusensis“, „communitatis“, datace „Engeszheym secunda januarii anno 1474“). Překlad sleduje Vischerův text. Aparát: po „Burgundie“ stálo v rukopisu nejprve „scripserat Bernensibus et ceteris confederatis“.",
+  "Vischer: mylhúzský list vévodovi z 2. 1. 1474 omlouval odmítnutí jednání tím, že k vévodovi je na cestě poselstvo Spříseženců a že Mylhúzským nesluší jednat za zády spojenců. Antoine Haneron, probošt sv. Donatiana v Bruggách, je týž vévodův rada, který jel do Mylhúz 27. 12. (kap. 9). [Jan. 2] = neděle 2. 1. 1474; Anghessey = Ensisheim.",
+  "Karlův list Bernu: Ochs jej podává v německém překladu z rukopisu basilejského archivu, který se Vischerovi nepodařilo najít. Bernský list, na který Karel odpovídá, je z 28. 12. a německy jej má Schilling. Na horním a dolním okraji Knebelovy s. [43] jsou připsány Karlovy tituly (vévoda burgundský, brabantský, limburský, lucemburský, geldernský, hrabě flanderský, artoiský, burgundský, henegavský, holandský, zélandský, namurský, zutphenský).",
+  "„confederati“ v Karlově listu Bernu nepřekládám jako „Spříseženci“, nýbrž jako „spojenci“: Karel tak oslovuje Bern jako svého spojence (mimo přepis: smlouva Burgundska s Bernem a Spříseženstvem z r. 1467), nemíní Spříseženstvo. Jde o vědomou odchylku od glosáře.",
+  "[Dec. 31] = pátek 31. 12. 1473. Aparát: u „Engeszheym“ je na okraji „Ensisheym“; místo „utcumque“ má rukopis „utrumque“; „nos“ v první řádce. Opravy OCR: „Eo tunce“ → tunc, „sceribi“ → scribi, „diligenistiam“ → diligentiam, „Jucrum“ → lucrum, „uteumque“ → utcumque, „amiecis“ → amicis, „[441]“ → [44]; vypuštěna čísla řádků („io“, „i5“, „2%“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

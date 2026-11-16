@@ -1,0 +1,24 @@
+{
+ "nazev_original": "Christ ist erstanden, der lantvogt ist gefangen",
+ "uvod": {
+  "text": "Sigissmundus dux Austrie … Basileam ingressus est … vociferantibus pueris Basiliensibus:",
+  "preklad": "Vévoda Zikmund Rakouský … vjel do Basileje … zatímco basilejské děti volaly:"
+ },
+ "odstavce": [
+  {
+   "text": "Christ ist erstanden, / der lantvogt ist gefangen, / dessz sollent wir alle fro sin, / Sigmund sol unser trost sin; / kyrioleisz!",
+   "preklad": "Kristus vstal z mrtvých, / zemský fojt je zajat, / z toho buďme všichni rádi, / Zikmund buď naše útěcha; / Kyrie eleison!"
+  },
+  {
+   "text": "Wer er nit gefangen, / so wer es übel gangen; / sid er nu gefangen ist, / so hilft inn nüt sin bösen list. / kyrioleisz!",
+   "preklad": "Kdyby nebyl zajat, / bylo by to zle dopadlo; / když už je teď zajat, / nepomůže mu jeho zlá lest. / Kyrie eleison!"
+  }
+ ],
+ "poznamky": [
+  "Parodie nejstarší německé velikonoční písně „Christ ist erstanden“. Hagenbach byl zajat v Breisachu na Velikonoční pondělí 11. dubna 1474. Přeloženo bez rýmu.",
+  "Knebel, Diarium, kap. 20 (Basler Chroniken II, s. 79): takto volaly basilejské děti, když vévoda Zikmund 20. dubna 1474 vjížděl do Basileje. Celý text zapsal jen Knebel.",
+  "Knebel, kap. 19: Breisašští podle dopisu Jana z Durlachu zpívali „Christ ist erstanden“ už ve chvíli, kdy Hagenbacha a jeho starostu Jana Wernera z Pforru zavřeli do věže.",
+  "Luzerner Schilling (kap. 27, s. 171) cituje jen začátek: mladí i staří běhali k věži, kde Hagenbach ležel, a zpívali mu naschvál „Crist ist erstanden, hagenbach ist gefangen etc.“ Luzern tedy zná variantu s Hagenbachovým jménem místo „lantvogt“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu"
+}

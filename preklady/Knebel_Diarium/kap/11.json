@@ -1,0 +1,56 @@
+{
+ "cislo": 11,
+ "nadpis": "Basler Chroniken II, s. 46–47",
+ "nadpis_preklad": "Breisašský převor o Karlově pobytu a řádění Pikarďanů v Breisachu (prosinec 1473)",
+ "svazek": "II",
+ "strany_edice": [
+  46,
+  47
+ ],
+ "rok": 1473,
+ "rukopis_strana": 45,
+ "odstavce": [
+  {
+   "text": "[45] Quidam prior de Brisaco domino Tripolitano in Theutonico in hunc, qui sequitur, modum.",
+   "preklad": "[45] Jakýsi převor z Breisachu [psal] panu [biskupovi] tripolskému německy tímto způsobem."
+  },
+  {
+   "text": "Filialem obedienciam cum oracionibus utinam devotis. venerabilis pater! notum vobis facio, quod nos circumdati sumus tribulacionibus, angustiis et timore, nos et communis civitas populacione et incendiis. [Dec. 22] feria quarta ante festum natalis domini venerunt consules civitatis nostre Brisaccenses et mandaverunt nobis, debere dormitorium evacuare. hoc facto et honorabiliter juxta possibilitatem magnis laboribus ornato, in quo dominus noster dux Burgundie morari deberet, deinde [Dec. 23] feria quinta sequente post prandium venerunt camerarii domini nostri ducis 20 cum albis bacillis in manibus; illis oportuit aperire singulas seras, et que cito non apperiebantur, minabantur vi velle rumpere. et visis omnibus non placebat eis hospicium; videntes autem castrum eciam non placuit, deinde elegerunt domum Johannis Wernheri de Pforre. ibidem fuerunt camini juxta morem Gallicanum. sic recesserunt de monasterio nostro.",
+   "preklad": "Synovskou poslušnost s modlitbami, kéž zbožnými! Ctihodný otče! Oznamuji vám, že jsme obklíčeni souženími, úzkostmi a strachem, my i celá obec města, [kvůli] plenění a požárům. [Dec. 22] Ve středu před svátkem Narození Páně přišli radní našeho města Breisachu a nařídili nám vyklidit dormitář. Když se to stalo a [dormitář] byl s velkou námahou podle možností čestně vyzdoben, aby v něm přebýval náš pán vévoda Burgundský, přišli potom [Dec. 23] ve čtvrtek nato po obědě komoří našeho pána vévody, [v počtu] 20, s bílými holemi v rukou. Těm jsme museli otevřít všechny zámky, a které se hned neotevřely, ty hrozili násilím vylomit. Když všechno prohlédli, ubytování se jim nelíbilo; prohlédli i hrad, ani ten se jim nelíbil, a potom vybrali dům Jana Wernhera z Pforru. Tam byly krby podle francouzského způsobu. Tak odešli z našeho kláštera."
+  },
+  {
+   "text": "[Dec. 24] postea vero die veneris vigilia nativitatis domini supervenerunt camerarii domini ducis Clevensis. illis oportuit omnes seras apperire et severiores se ostenderunt. illis oportuit dare lectos et omnia ad eos pertinencia, eciam domus et coquine utensilia, eciam vi. eadem die supervenit dominus dux Burgundie cum duobus milibus et quingentis equis, qui honorabiliter fuit cum processione solempni susceptus. dominus autem dux Clevensis venit in monasterium nostrum; qui fecerunt in dormitorio et ante cameram magnos ignes. calefacientes enim furnum in stuba apperuerunt januam et in tantum calefaciebant, ut incenderetur stuba, in qua dominus dux manere debebat, et ardebat; ubi venimus in magnum timorem et anxietatem, et cum vino oportuit incendium istud extingwi, sicque illam noctem natalis domini peregimus cum magno labore, timore et attonitu. [Dec. 29] deinde feria quarta, que fuit dies sancti Thome Cantuariensis, cum dominus [46] dux Karolus disposuisset se ad eundum in Ensiszheym suamque expedicionem duorum milium et quingentorum equitum congregasset ante domum communitatis illius opidi et omnes cives illic congregasset, compulit eos prestare juramentum fidelitatis absque omni privilegio prius ipsis opidanis dato. et cum recessissent dux cum suis et transiissent pontem Brisaccensem, statim Petrus de Hagenbach balivus assumptis sibi nongentis equitibus de Piccardis et Flammingis, pessimis hominibus, opidum reintravit et distributis hincinde domibus et hospiciis balivus recessit. qui quidem nequam Piccardi et alii, suppressis violencia virginibus, viduis et in matrimonio constitutis, inhumanissime tractaverunt, adeo ut qui tam ex viris, quam mulieribus, qui poterant, exinde fugierunt. propterea consules et communitas ipsius opidi suos oratores ad Ensisszheym ad dominum ducem miserunt, nunciantes sibi talia maleficia, que balivus et illi Piccardi in suos commiserunt. super hoc dominus dux Burgundie illum Petrum de Hagenbach maledictum ribaldum cum domino Johanne comite de Lupfen domino in Künszheym misit cum ducentis equitibus et totidem peditibus, qui prefatos Piccardos expellentes ibi manserunt et omnem potestatem a dictis incolis exemerunt, recipientes omnia sua privilegia et quascumque litteras quas pro tam tuicione et salvagwardia sue civitatis habebant, et in maxima tribulacione, angustia et timore vivebant. deinde propter negligenciam commissam [47] stabulum ad Allium prope murum situatum fuit incensum et ibidem cremati sunt 14 validissimi equi, qui fuerant domini militis Ringreff, qui fuit balivus domini Friderici comitis palatini ducis Bavarie, quique equi ita combusti usque in hodiernum in dicto stabulo jacent insepulti sive ammoti in terrorem ipsorum opidanorum. ex quo incendio tantus ardor evulsit, ut fratres monasterii sancti Augustini ibidem campanile suum madidis in aqua et vino pannis circumvelarent, cum et ipsum campanile tegulis ligneis tectum esset. et sic opidani Brisaccenses in maximis tribulacionibus, angustiis et timoribus sunt constituti; videant alii opidani, [?] sint in acceptacione ipsius Burgundi, ne eis simile contingat.",
+   "preklad": "[Dec. 24] Potom v pátek, v předvečer Narození Páně, přišli komoří pana vévody klévského. Těm jsme museli otevřít všechny zámky, a ukázali se ještě přísnější. Museli jsme jim dát postele a všechno, co k nim patří, i domácí a kuchyňské nádobí, a to i pod nátlakem. Téhož dne přijel pan vévoda Burgundský se dvěma tisíci pěti sty koňmi a byl čestně přijat se slavným procesím. Pan vévoda klévský pak přišel do našeho kláštera; [jeho lidé] rozdělali v dormitáři a před komnatou velké ohně. Roztopili totiž kamna v jizbě, otevřeli dvířka a topili tak silně, že jizba, v níž měl pan vévoda bydlet, chytila a hořela. Tu jsme přišli do velkého strachu a úzkosti a ten požár se musel hasit vínem. Tak jsme onu noc Narození Páně strávili ve velké námaze, strachu a zděšení.\n[Dec. 29] Potom ve středu, v den sv. Tomáše Canterburského, když se pan [46] vévoda Karel připravil k odjezdu do Ensisheimu, shromáždil svůj průvod dvou tisíc pěti set jezdců před obecním domem toho města a svolal tam všechny měšťany, přinutil je složit přísahu věrnosti, aniž [potvrdil] jakoukoli výsadu dříve městu udělenou. A když vévoda se svými odtáhl a přešel breisašský most, hned se zemský fojt Petr z Hagenbachu s devíti sty jezdci z Pikarďanů a Vlámů, nejhorších lidí, vrátil do města, rozdělil [jim] tu a tam domy a ubytování a [sám] zemský fojt odjel. Ti ničemní Pikarďané a jiní násilím znásilňovali panny, vdovy i vdané ženy a nakládali [s lidmi] nanejvýš nelidsky, takže kdo mohl, muži i ženy, odtamtud utekl. Proto radní a obec toho města poslali své vyslance do Ensisheimu k panu vévodovi a oznámili mu zločiny, jichž se zemský fojt a ti Pikarďané na jejich [lidech] dopustili. Na to pan vévoda Burgundský poslal toho Petra z Hagenbachu, prokletého ribalda, s panem Janem, hrabětem z Lupfenu, pánem v Kientzheimu, s dvěma sty jezdci a stejným počtem pěších. Ti řečené Pikarďany vyhnali, zůstali tam a odňali řečeným obyvatelům všechnu moc; vzali jim všechny jejich výsady a jakékoli listy, které měli k ochraně a zabezpečení svého města, a [měšťané] žili ve velikém soužení, úzkosti a strachu. Potom z nedbalosti [47] vyhořela stáj U Česneku (ad Allium), stojící u hradeb, a uhořelo v ní 14 velmi silných koní, kteří patřili panu rytíři Rýnskému hraběti (Ringreff), fojtovi pana Fridricha, falckraběte, vévody Bavorského. Ti koně tak spálení leží v řečené stáji dodnes, nepohřbení a neodklizení, k postrachu měšťanů. Z toho požáru vyšlehl takový žár, že bratři kláštera sv. Augustina tamtéž ovinuli svou zvonici plátny namočenými ve vodě a víně, protože i ta zvonice byla krytá dřevěnými šindeli. A tak jsou breisašští měšťané postaveni do největšího soužení, úzkostí a strachu. Ať si dají pozor jiní měšťané, [kteří?] by přijímali toho Burgunďana [za pána], aby je nepotkalo nic podobného."
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 6. Hs. populo (ppfo). 26. Hs. nach magnos steht nochmals fecerunt. 26. Hs. ignem.",
+  "1) Mone III, 221P nimmt an, es sei der Prior des Augustinerklosters ge-",
+  "wesen. Doch stimmt damit nicht recht die Weise, in der dieses $. 47, 29 er-",
+  "wähnt wird. Vielleicht ist eher an den Prior der von ihm 2252 genannten",
+  "Prediger zu denken.",
+  "2) Nicolaus, Bischof von Tripolis, Weihbischof von Basel.",
+  "3) Ueber Pforr s. unten 8. 49, 28.",
+  "4) Die Reimchronik bei Mone III, 303 erzählt, es seien »ob vier tusent",
+  "man« eingeritten.",
+  "Aparát: 13. ad fehlt. 17. Hs. dominum. 26. Hs. Austrie. 31. Hs. capanile.. 34. dazu",
+  "ist bemerkt: vide inferius signo ® similia. Siehe S. 49, 10.",
+  "1) Vgl. oben 8. 42, Anm. 4.",
+  "2) Nach Mone III, 311 ritten sie »mit achthundert pferdt« ein. Nach",
+  "dem S. 42 A. 2 erwähnten Schreiben an Bern und Solothurn waren es »ob",
+  "tusent Pickart«. Ueber die Piccarden vgl. Boos, Gesch. v. Basel I, 300,",
+  "3) Vgl. eben dieses Schreiben.",
+  "4) Mone III, 315f."
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Vischer: Mone pokládá pisatele za převora augustiniánů, tomu však neodpovídá, jak se o augustiniánském klášteře mluví na konci listu; spíš jde o převora dominikánů. „Dominus Tripolitanus“ = Mikuláš, biskup tripolský, basilejský světicí biskup. List byl psán německy („in Theutonico“), Knebel jej podává latinsky.",
+  "Data: [Dec. 22] středa, [Dec. 23] čtvrtek, [Dec. 24] pátek, [Dec. 29] sv. Tomáš Becket = středa 29. 12. 1473. Okrajová data v OCR zkomolená („Dec. 2“, „Dec. 21“, „Dee. 99“), opravena podle textu; „[4]“ → [46].",
+  "Počty: „20“ komořích ověřeno ve zdroji (12. řádek strany, nejde o číslo řádku). Vischer: podle rýmované kroniky (Mone) vjelo s vévodou „přes 4000 mužů“. „nonentis“ v OCR = nongentis (900); podle Moneho vjeli Pikarďané „s 800 koňmi“, podle basilejského listu Bernu a Solothurnu jich bylo „přes 1000“.",
+  "Aparát: „populacione“ je v rukopisu zkratka „ppl'o“ (populo?), výklad nejistý; za „magnos“ stojí znovu „fecerunt“ a rukopis má „ignem“; u „ad Ensisszheym“ chybí v rukopisu „ad“; rukopis má „dominum Johannem“ a „ducis Austrie“ místo Bavarie (Vischer opravuje na falckraběte, vévodu Bavorského); „capanile“. Ke konci listu připsal Knebel „vide inferius signo … similia“ (odkaz na s. 49 edice).",
+  "Konec listu je v OCR porušen („videant alii opidani, nn a sint“): chybějící slovo označeno [?], ověřit v rukopisu. Opravy OCR: „Bickardi“/„Piecardi“ → Piccardi, „neglieneiam“ → negligenciam, „fuitt“ → fuit, „incendis“ → incendiis, „cocquine“ → coquine.",
+  "Vévoda klévský = Jan I. Klévský (mimo přepis). „Ringreff“ = Rýnský hrabě (Wild- a Rheingraf) ve službách falckraběte Fridricha; bližší určení chybí. Jan z Lupfenu, pán v Kientzheimu, je týž hrabě, který vévodu hostil 23. 12. (kap. 8)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

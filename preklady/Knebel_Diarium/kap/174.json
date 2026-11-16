@@ -1,0 +1,89 @@
+{
+ "cislo": 174,
+ "nadpis": "Basler Chroniken III, s. 104–105",
+ "nadpis_preklad": "Po Nancy: plenění Židů v Mylhúzách, výplata žoldu v Basileji, univerzitní spor (leden 1477)",
+ "svazek": "III",
+ "strany_edice": [
+  104,
+  105
+ ],
+ "rok": 1477,
+ "rukopis_strana": 82,
+ "odstavce": [
+  {
+   "text": "Eodem tempore, cum jam venissent de expedicione Burgundica et liberassent illos, qui erant in Nanseio, et venissent ad Mulhusen, expediverunt omnes Judeos ibidem, recipientes omnia que habebant, dividentes inter se spolia.",
+   "preklad": "Téhož času, když se [Spříseženci] už vrátili z burgundské výpravy, vysvobodili ty, kdo byli v Nancy, a přišli do Mylhúz, vyřídili tam všechny Židy, vzali jim všechno, co měli, a kořist si rozdělili mezi sebou."
+  },
+  {
+   "text": "Eodem tempore dieta fuit omnibus illius lige confederatis indicta, ut die conversionis sancti Pauli [Jan. 25] essent in Basilea tractaturi, quid ultra sit faciendum in superiori Burgundia, attento quod dux Karolus Burgundie sit interfectus.",
+   "preklad": "Téhož času byl všem spojencům onoho spolku vypsán sněm: mají být na den Obrácení sv. Pavla [Jan. 25] v Basileji a jednat o tom, co dál podniknout v Horním Burgundsku, když je vévoda Karel Burgundský zabit."
+  },
+  {
+   "text": "Dux Lothoringie adivit cum exercitu Lutzelbergam. quid ibi fiat nescitur.",
+   "preklad": "Vévoda Lotrinský táhl s vojskem do Lucemburska. Co se tam děje, neví se."
+  },
+  {
+   "text": "Cum jam superiores confederati venissent de expedicione Nansensi Basileam, ibidem debebant exsolvi de precio, dominus dux Lothoringie misit scuta, coronas, ducatos et nobiles Anglicanos et putabat quod civitas Baseliensis deberet facere cambium. sed non volebant, sed liquefiebant aurum et cuderunt florenos Basilienses, et ideo oportuit eos manere in Basilea et fuerunt male [?] contenti et Basilienses erant in magno timore.",
+   "preklad": "Když horní Spříseženci přišli z výpravy k Nancy do Basileje, měli tam dostat výplatu. Pan vévoda Lotrinský poslal štítové zlaté, korunové zlaté, dukáty a anglické nobly a myslel, že město Basilej [je] bude směňovat. To však [Basilejští] nechtěli, nýbrž zlato roztavovali a razili z něj basilejské zlaté. Proto [Spříseženci] museli zůstat v Basileji a byli velmi nespokojení a Basilejští měli velký strach."
+  },
+  {
+   "text": "[Jan. 18] Die sabbati multi ex soldatis exsolvebantur et recedebant.",
+   "preklad": "[Jan. 18] V sobotu byla mnohým žoldnéřům vyplacena mzda a odcházeli."
+  },
+  {
+   "text": "Sicut supra scripseram, quomodo dux Mediolanensis in ecclesia sancti Stephani Mediolanensi fuit interfectus per quatuor cives Mediolanenses, statim principalis ante fores ecclesie fuit in frusta scisus, alii tres fuerunt capti et postea quartati, et postea de dominio Mediolanensi fecerunt obedienciam suo filio et matri et prestiterunt juramentum.",
+   "preklad": "Jak jsem psal výše o tom, že milánský vévoda byl v milánském kostele sv. Štěpána zabit čtyřmi milánskými měšťany: hlavní [spiklenec] byl hned před dveřmi kostela rozsekán na kusy, ostatní tři byli zajati a potom rozčtvrceni. Potom [poddaní] milánského panství složili poslušnost jeho synovi a matce a odpřisáhli jim věrnost."
+  },
+  {
+   "text": "Dux Burgundie Karolus jam occisus, dum viveret, semper legit hystorias, quomodo gentiles sibi acquisiverunt regna, sed non animadvertebat, quomodo interierunt postea. legit hystorias Alexandri magni, quomodo sibi subegerit Grecos, Persas et multas alias gentes, et non legit, quod in flore virilis etatis interiit, legit hystoriam Trojanam, quomodo viriliter pugnaverunt contra Grecos et sibi adherentes propter Elenam pulcram, quam Paris abstulit, sed non legit, quomodo omnes interierunt in flore virilis etatis. sic voluit iniciare ambitum regni, sed non voluit diu regnare. fatui sunt principes, qui tyrannide et sevicia volunt regnare et non justicia et pietate. hii omnes defecerunt, deficiunt et deficient in suo pertinaci proposito.",
+   "preklad": "Nyní zabitý vévoda Karel Burgundský za svého života stále četl dějiny o tom, jak pohané získávali království, ale nedbal na to, jak potom zahynuli. Četl dějiny Alexandra Velikého, jak si podrobil Řeky, Peršany a mnoho jiných národů, a nečetl, že zahynul v květu mužného věku. Četl trojské dějiny, jak [Trójané] statečně bojovali proti Řekům a jejich spojencům kvůli krásné Heleně, kterou unesl Paris, ale nečetl, jak všichni zahynuli v květu mužného věku. Tak chtěl začít usilovat o království, ale nechtěl dlouho vládnout. Pošetilá jsou knížata, která chtějí vládnout tyranií a krutostí, a ne spravedlností a zbožností. Ti všichni ve svém zatvrzelém úmyslu ztroskotali, ztroskotávají a ztroskotají."
+  },
+  {
+   "text": "Eodem tempore sicut in Basilea studium viguit generale et jam quidam nequam de Basilea studio Basiliensi incorporatus, sicut suprascriptum est, letaliter nocturno tempore quendam juvenem domini nostri Basiliensis familiarem vulnerasset, fuisset carceribus mancipatus, qui eciam clericus et in Blotzheym Basiliensis diocesis cappellanus, dominus Basiliensis eundem nequam, qui Sunnentag appellabatur, pro excessu hujusmodi voluit corrigere, rector universitatis una cum consilio magistrorum universitatis eum contra voluntatem domini Basiliensis relaxavit et permisit abire. inter quos precipue fuit Adam Kridenwysz, cujus avus Judeus et postea prespiter fuit, genuit in sacris ordinibus duos filios, quorum unus suspensus fuit patibulo in Rinfelden, alter venit Basileam et [82] mensurator frugum effectus postea genuit Adam Kridenwissz magistrum in artibus, qui postea studuit medicinam, deinde sicut filius inconstancie studuit lente jus canonicum et tandem per Helmicum de Bercka juris canonici ordinarium accepta peccunia promotus inscientem in doctorem juris canonici. hic quia semper contra dominos de capitulo et dominum Basiliensem fuit, et dum a curia Basiliensi propter suas nequicias fuisset depulsus, cepit machinari contra dominos de capitulo et totum clerum Basiliensem. dominus noster Basiliensis, quia stu-",
+   "preklad": "Téhož času, když v Basileji kvetlo obecné učení (studium generale), jistý ničema z Basileje, zapsaný na basilejské univerzitě, jak je psáno výše, v noci smrtelně zranil jednoho mladíka, služebníka našeho pana basilejského [biskupa], a byl vsazen do vězení. Byl také klerikem a kaplanem v Blotzheimu v basilejské diecézi. Pan basilejský chtěl toho ničemu, jménem Sunnentag, za takový přečin potrestat, ale rektor univerzity spolu s radou mistrů univerzity ho proti vůli pana basilejského propustil a nechal odejít. Mezi nimi byl především Adam Kridenwysz. Jeho děd byl Žid a potom kněz a ve svěcení zplodil dva syny. Jeden z nich byl oběšen na šibenici v Rheinfeldenu, druhý přišel do Basileje, stal se [82] měřičem obilí a potom zplodil Adama Kridenwissze. Ten [se stal] mistrem svobodných umění, potom studoval medicínu, pak jako syn nestálosti zvolna studoval kanonické právo a nakonec ho Helmicus z Bercky, řádný profesor kanonického práva, za přijaté peníze povýšil, ač nevědomého, na doktora kanonického práva. Protože byl vždy proti pánům z kapituly a proti panu basilejskému a protože byl pro své ničemnosti vypuzen z basilejské kurie, začal kout pikle proti pánům z kapituly a celému basilejskému kléru. Náš pan basilejský, protože u[čení] … [pokračuje kap. 175]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 6. K. hat ut in ad geändert, weitere Änderungen aber unterlassen. 22. frustra.",
+  "Ludwig (gest. 13. Aug. 1449) von den Fürsten vergiftet worden sei, kehrt bei",
+  "Knebel wieder pag. 142b,",
+  "1) 8. Seite 96, 3f. 2) Lampugnano.",
+  "1) Knebel ist im Irrthum, wenn er meint, er habe an einer frühern Stelle",
+  "über die Verwundung des bischöflichen Dieners berichtet. Wir wissen deshalb",
+  "auch nicht genau, wann dieselbe und die sich zunächst daran knüpfenden Ver-",
+  "handlungen stattgefunden haben. (Die Universitätsacten enthalten nach",
+  "Vischer, Gesch. der Univ. 90 nichts über diese Angelegenheit.) Doch ist an-",
+  "zunehmen, dass es erst seit der Rückkehr des Bischofs nach Basel (also nach",
+  "dem 11. Nov. s. 8. 70, 32) geschehen sei. Der Thäter, den der Rath auf An-",
+  "suchen des Bischofs verhaften liess, dann aber dem Rector auf dessen Ein-",
+  "sprache hin übergab und der von diesem nach einiger Zeit gegen Bürgschaft",
+  "freigelassen wurde, wird in den Auseinandersetzungen des Rathes (s. die Bei-",
+  "lage über den Streit des Bischofs Johannes v. Venningen mit der Stadt Basel",
+  "1476—1477) mit seinem Taufnamen Gilg (Aegidius) bezeichnet. »Egidius",
+  "Sunnentag de Basilea« ist im Sommersemester 1471 in die Universitätsmatrikel",
+  "eingetragen worden. Blotzheim, wo er nach Knebel Kaplan war, liegt im",
+  "Sundgau, etwa 2 Stunden nordwestlich von Basel. Rector der Universität war",
+  "im Wintersemester 1476/77 der im ersten Bande unsrer Chroniken vielgenannte",
+  "Jacob Louber von Lindau, nachmals Prior der Karthaus in Basel. — Näheres",
+  "über diesen ganzen Handel s. in der erwähnten Beilage.",
+  "2) Vischer, a. a. O0. 91 Anm. 67: »Nach der juristischen Matrikel wurde",
+  "Kridenwyss 1476 unter dem Decan Gerhard In Curia von Bercka zum Licen-",
+  "tiaten des canonischen Rechts promoviert. Wann er die insignia doctoralia",
+  "annahm, ist nicht gesagt, doch wird er später als Doctor bezeichnet.« Im",
+  "J. 1474 hatte er sich um die Stadtschreiberstelle beworben. S. Band II, 110",
+  "Anm. 1.",
+  "|"
+ ],
+ "radky_zdroje": "knebel_baslerchr3_1887.txt",
+ "poznamky_prekladu": [
+  "Data: Obrácení sv. Pavla = 25. 1. 1477 (okrajové datum je v OCR zkomolené na „Jan. S“). Sobota [Jan. 18] = 18. 1. 1477, den sv. Prisky.",
+  "Mince v odst. 4: scuta = štítové zlaté (écus), coronae = korunové zlaté (écus à la couronne), ducati = dukáty, nobiles Anglicani = anglické nobly. „male [?] contenti“: v OCR stojí „[sı?]“, snad Vischerovo „[sic]“. Ověřit v edici nebo rukopisu.",
+  "„Illius lige confederatis“ (odst. 2) jsou zřejmě spojenci tažení k Nancy, tedy Dolní spolek se Spříseženci. Sněm v Basileji je doložen k 20. 1. 1477 (viz kap. 175).",
+  "Vischer: hlavním spiklencem rozsekaným před kostelem byl Giovanni Andrea da Lampugnano. Syn a matka = Gian Galeazzo Sforza a vévodkyně Bona Savojská (mimo přepis). Aparát: v rukopisu stojí „frustra“ místo „frusta“. Karlova četba o Alexandrovi a Tróji je pro deník typické moralizování.",
+  "Vischer: Knebel se mýlí, když tvrdí, že o zranění biskupova služebníka psal už výše. Pachatelem byl Gilg (Egidius) Sunnentag z Basileje, zapsaný na univerzitu v letním semestru 1471. Rektorem byl v zimním semestru 1476/77 Jakob Louber z Lindau. Blotzheim leží v Sundgau asi 2 hodiny cesty severozápadně od Basileje. Biskupem byl Jan z Venningenu (mimo přepis).",
+  "Vischer: Kridenwyss byl podle právnické matriky promován r. 1476 na licenciáta kanonického práva za děkana Gerharda In Curia z Bercky. Knebel mu říká „Helmicus“. R. 1474 se ucházel o místo městského písaře. Aparát: slova „eum contra … permisit abire“ jsou připsána dodatečně. Knebel vedlejší větu od „inter quos“ tak rozvinul, že pro závěrečnou větu už nezbylo místo. Proto je souvětí neucelené.",
+  "Opraveno OCR: „Basihiensti“, „Basihensis“, „Bas:liensis“, „Basikiensi“ → Basiliensis, „neguam“ → nequam, „gquomodo“ → quomodo, „interlit“ → interiit, „Basthienses“ → Basilienses, „qutuor“ → quatuor. Ze závěru odst. 8 odstraněn vlepený Vischerův aparát. Úsek končí uprostřed slova „stu-[dium]“, pokračuje kap. 175."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}

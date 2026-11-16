@@ -1,0 +1,63 @@
+{
+ "cislo": 18,
+ "nadpis": "Tobler 1917, s. 29",
+ "nadpis_preklad": "Karlovo tělo, zajatci a štrasburské modlitby za mír",
+ "strana_edice": 29,
+ "rukopis_strana": null,
+ "odstavce": [
+  {
+   "text": "Er lag al do gar one macht / Im ellend wie ein ander. / Also endt sich die selbe nacht / Der ander allexander.",
+   "preklad": "Ležel tam zcela bezmocný / v bídě jako kdokoli jiný. / Tak skončil té noci / ten druhý Alexandr.",
+   "vers_od": 435
+  },
+  {
+   "text": "Sechczehen heren fing man do , / Die muosten pfennig switzen, / Sie frowtent sich, das sie also / Bym leben blibbent sitzen.",
+   "preklad": "Šestnáct pánů tam zajali, / ti se museli potit penězi (výkupným); / radovali se, že takto / zůstali naživu.",
+   "vers_od": 439
+  },
+  {
+   "text": "Sie logent jn dem feld gestrowt / Die doten / vil on cleyder, / Der sinen keyner sich deß herfrowt, / Sie ruofftent: «leyder! leyder!»",
+   "preklad": "Leželi rozházení po poli / mrtví, mnozí bez šatů; / nikdo z jeho lidí se z toho neradoval, / volali: „Běda! Běda!“",
+   "vers_od": 443
+  },
+  {
+   "text": "Man fand den fürsten von burgund / Dot ligen uff dem felde, / Etlicher weynen do begund. / Gott geb jm ewige selde!",
+   "preklad": "Našli knížete burgundského / ležet mrtvého na poli; / někteří se tu rozplakali. / Bůh mu dej věčnou blaženost!",
+   "vers_od": 447
+  },
+  {
+   "text": "Sin diener kanten jn ser wol, / Dar zuo sin eygen knabe. / In nansse als man billich sol / Brocht man den lyb zuo grabe .",
+   "preklad": "Jeho služebníci ho dobře poznali / a k tomu jeho vlastní páže. / V Nancy, jak se sluší, / pohřbili jeho tělo.",
+   "vers_od": 451
+  },
+  {
+   "text": "Diß ding hat als verhenget got / Vnd hat für vns gestritten. / Syt er vns nuon Erhöret hot / Wöllen wir jn fürbaß bitten.",
+   "preklad": "To všechno dopustil Bůh / a bojoval za nás. / Když nás nyní vyslyšel, / chceme ho dále prosit.",
+   "vers_od": 455
+  },
+  {
+   "text": "Die wyl man lag vor nüß der stat, / Zuo straßburg ward geordent; / Gar früntlich man die priester batt, / Gewillig sie do wordent,",
+   "preklad": "Zatímco se leželo před městem Neuss, / ve Štrasburku se nařídilo: / velmi vlídně požádali kněze / a ti byli ochotni,",
+   "vers_od": 459
+  },
+  {
+   "text": "Das man zuor wochen einen tag / Solt früg vor allen dingen / In pfarren vmb den sesten slag / Ein mess vmb friden singen.",
+   "preklad": "že se má jeden den v týdnu / časně ráno, přede vším ostatním, / ve farních kostelech kolem šesté hodiny / zpívat mše za mír.",
+   "vers_od": 463
+  }
+ ],
+ "obrazky": [],
+ "poznamky_editora": [
+  "Ebd. S. 118.",
+  "Schilling II, 116, 114."
+ ],
+ "poznamky_prekladu": [
+  "v. 438 „Der ander allexander“ – ironická narážka na Karlovo srovnávání s Alexandrem Velikým (srov. v. 343).",
+  "v. 439: šestnáct zajatých pánů, srov. Schilling II, 118 (pozn. editora).",
+  "v. 443–444: padlí byli svlečeni pleniteli; Karlovo tělo bylo nalezeno nahé a zmrzlé v rybníce u Saint-Jean (mimo text).",
+  "v. 451–454: tělo identifikoval mj. jeho páž (Battista Colonna, mimo text); pohřben v Nancy v kostele Saint-Georges (Schilling II, 116, 114 podle editora; kostel mimo text).",
+  "v. 459–466: zpětné vyprávění – ve Štrasburku se od dob obléhání Neussu (1474–1475) konaly týdenní mše za mír; „vmb den sesten slag“ = kolem šesté hodiny."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z Toblerovy edice prvotisku 1477 (přepis Wikisource); termíny podle glosáře; neprošlo lidskou korekturou",
+ "overeno_rukopis": false
+}

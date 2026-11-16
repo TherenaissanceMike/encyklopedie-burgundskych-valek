@@ -1,0 +1,170 @@
+{
+ "cislo": 116,
+ "nadpis": "Basler Chroniken II, s. 365–367",
+ "nadpis_preklad": "Zikmundův zlatý důl; soupis grandsonské kořisti, návrat Basilejských (březen 1476)",
+ "svazek": "II",
+ "strany_edice": [
+  365,
+  367
+ ],
+ "rok": 1476,
+ "rukopis_strana": 480,
+ "odstavce": [
+  {
+   "text": "[480] Illis diebus in finibus terre Athasis intra montes et dominia ducis Sigismundi ducis Austrie inventa est minera aurea, et dominus Sigismundus fecit effodi, de qua aurifodina obtulit dare effossor et ille, qui magister separandi aurum ab ere, singulis mensibus unum centenarium puri auri in suam domum in Ynsbruck sine omni dampno et expensa principis presentare, prout eciam [Merz 3] die dominica invocavit proxime preterita unum centenarium puri auri presentavit. sed dominus Sigismundus habito suorum consilio noluit sibi arrendare, sed proprias habere expensas, et quantum sibi deus donaverit, habere velit. hoc puto deus ordinaverit, ut resistere possit et habere stipendiarios contra ducem Burgundie, qui totam Cristianitatem occupat, ut non fiat expedicio Thurci. hoc retulit michi dominus Jeorgius de Nuwhusen comendator domus Theutunicorum in der Meygenow prope lacum Constanciensem.",
+   "preklad": "[480] V těch dnech byl v končinách Adižské země (terra Athasis), v horách a v panstvích pana Zikmunda, vévody Rakouského, nalezen zlatý důl a pan Zikmund jej dal kopat. Havíř a ten, kdo je mistrem v oddělování zlata od rudy, nabídli, že z toho zlatého dolu budou každý měsíc dodávat jeden cent ryzího zlata do jeho domu v Innsbrucku bez jakékoli škody a nákladu pro knížete; a skutečně také [Merz 3] v neděli Invocavit nedávno minulou jeden cent ryzího zlata dodali. Ale pan Zikmund po poradě se svými nechtěl důl pronajmout (arrendare), nýbrž chce jej provozovat na vlastní náklad a mít, co mu Bůh nadělí. To, myslím, Bůh zařídil, aby mohl vzdorovat a vydržovat žoldnéře proti vévodovi Burgundskému, který zabírá celé křesťanstvo, takže nedojde k výpravě proti Turkovi. To mi vyprávěl pan Jiří z Neuhausenu, komtur domu Německého řádu na Mainau (in der Meygenow) u Bodamského jezera."
+  },
+  {
+   "text": "In castris ducis Burgundie apud Grandsonam, postquam fugam dederat scandalosissimam cum plusquam quinquagintis milibus equitum et peditum, et Switzerorum sive colligatorum magne lige non erant ultra 24 milia et equitum et peditum, inventa sunt multa milia florenorum, multa clenodia aurea, argentea et margarite et vestes preciosissime, que estimari non poterant, et quantum intelligere potui, notare curavi.",
+   "preklad": "V táboře vévody Burgundského u Grandsonu, když se se svými více než padesáti tisíci jezdců a pěších dal na nanejvýš hanebný útěk — a Švýcarů čili spojenců velkého spolku nebylo víc než 24 tisíc, jezdců i pěších —, bylo nalezeno mnoho tisíc zlatých, mnoho zlatých a stříbrných klenotů, perly a nejdražší šaty, které nebylo možno ocenit. Kolik jsem se mohl dozvědět, postaral jsem se zapsat:"
+  },
+  {
+   "text": "De pixidibus sexcente et plures.",
+   "preklad": "Děl šest set a více."
+  },
+  {
+   "text": "Duo milia quadrigarum.",
+   "preklad": "Dva tisíce vozů (quadrige)."
+  },
+  {
+   "text": "Item sua aurea sedes, quo presidebat judicando, cum suo velo mire estimacionis, quam habent Bernenses. item suum tentorium sericeum cum intextura mirabilium gemmarum et auri copiosa multitudine, quod Bernenses obtulerunt sancto Vincencio et exinde fecerunt vestes ad divinum cultum aptas.",
+   "preklad": "Dále jeho zlatý trůn, na němž předsedal soudu, s baldachýnem (velum) podivuhodné ceny; ten mají Bernští. Dále jeho hedvábný stan protkaný hojným množstvím podivuhodných drahokamů a zlata, který Bernští obětovali svatému Vincenci a dali z něj zhotovit roucha pro bohoslužbu."
+  },
+  {
+   "text": "[481] Item Bernenses cum aliis suis vicinis Switzeris de Art, Glaris, Uri etc. intraverunt Bernam cum 73 paneriis, inter que erant tria principalia, unum aureum, in quo erat depicta ymago beate virginis, que in ulno habuit Jhesum, aliud magnum, in quo depicta erat ymago sancti Andree apostoli sedentis super sedem auream et habentis suam crucem transversam in manibus, sicut ipse crucifixus erat, et alia diversi coloris, que mira pictura decorabat.",
+   "preklad": "[481] Dále Bernští s jinými svými sousedy Švýcary z Artu [?], Glarusu, Uri atd. vjeli do Bernu se 73 korouhvemi. Mezi nimi byly tři hlavní: jedna zlatá, na níž byl namalován obraz blahoslavené Panny držící v náručí Ježíše; druhá velká, na níž byl namalován obraz sv. Ondřeje apoštola sedícího na zlatém stolci a držícího v rukou svůj příčný kříž, na němž byl sám ukřižován; a další různé barvy, kterou zdobila podivuhodná malba."
+  },
+  {
+   "text": "Switzeri habebant laudem in illo conflictu. ex illis fuerunt interfecti et vulnerati 80 viri. Basilienses non minus fuerunt strennuissimi, et quamvis fuerunt pauci equestres, ipsi se proximiores junxerunt Burgundis.",
+   "preklad": "Švýcaři si v té bitvě získali chválu. Z nich bylo zabito a raněno 80 mužů. Basilejští byli neméně nanejvýš udatní, a ačkoli jich na koních bylo málo, přiblížili se k Burgunďanům ze všech nejvíce."
+  },
+  {
+   "text": "Tria milia saccorum avene. Et annona multa nimis, ita quod Switzeri permitterent equos libere ire hincinde et pascere se ipsos.",
+   "preklad": "Tři tisíce pytlů ovsa. A obilí velmi mnoho, takže Švýcaři nechávali koně volně chodit sem a tam a pást se."
+  },
+  {
+   "text": "Item tricenti centenarii pulveris pixidum.",
+   "preklad": "Dále tři sta centů střelného prachu."
+  },
+  {
+   "text": "Item duo milia curruum.",
+   "preklad": "Dále dva tisíce káry (currus)."
+  },
+  {
+   "text": "Item duo magni currus pleni, qui vehebant funes, quo suspendebat homines.",
+   "preklad": "Dále dva velké vozy plné provazů, na nichž věšel lidi."
+  },
+  {
+   "text": "Duo milia tonnarum allecium.",
+   "preklad": "Dva tisíce sudů slanečků."
+  },
+  {
+   "text": "Multe tonne de piscibus fumatis et aridis et angwillis et multe tonne de lixis ovis.",
+   "preklad": "Mnoho sudů uzených a sušených ryb a úhořů a mnoho sudů vařených vajec."
+  },
+  {
+   "text": "Multeque tonne de salsis carnibus, gallinis et anseribus, de strumulis multa habundancia.",
+   "preklad": "A mnoho sudů nasoleného masa, slepic a hus, sušených tresek (strumuli) veliká hojnost."
+  },
+  {
+   "text": "Tres quadrige onuste de arcubus sagittariis.",
+   "preklad": "Tři vozy naložené luky."
+  },
+  {
+   "text": "Item unum plaustrum magnum de cordis, vulgariter sennwen, quibus trahuntur arcus.",
+   "preklad": "Dále jedna velká fůra tětiv, lidově „sennwen“, jimiž se napínají luky."
+  },
+  {
+   "text": "Item multa plaustra sagittarum Anglicarum.",
+   "preklad": "Dále mnoho fůr anglických šípů."
+  },
+  {
+   "text": "Item 8000 fustorum bellicorum ad pondus 8 librarum, cum ferreis clavis plumbo circumfusis, ad longitudinem viri vel duorum cubitorum.",
+   "preklad": "Dále 8000 válečných palcátů o váze 8 liber, s železnými hřeby zalitými olovem, na délku muže nebo dvou loktů."
+  },
+  {
+   "text": "Item multa peccunia auri et argenti.",
+   "preklad": "Dále mnoho peněz ve zlatě a stříbře."
+  },
+  {
+   "text": "Item ciphy aurei et argentei.",
+   "preklad": "Dále zlaté a stříbrné poháry."
+  },
+  {
+   "text": "Item sua credencia et navis et pelves, quibus sibi ministrabatur aqua et omnia sua vasa aurea et argentea et suorum, sigillum suum magnum et parvum. item sigillum Anthonii bastardi de Burgundia, quod habent Basilienses. [482] Item de ficubus, amigdalis, racemis et aliis speciebus aromaticis sine numero.",
+   "preklad": "Dále jeho kredenc, loď (navis) a mísy, v nichž se mu podávala voda, a všechny jeho i jeho lidí zlaté a stříbrné nádoby, jeho velká a malá pečeť. Dále pečeť Antonína, levobočka burgundského, kterou mají Basilejští. [482] Dále fíků, mandlí, hrozinek a jiných vonných koření bez počtu."
+  },
+  {
+   "text": "Panni preciosi valde auro sericis intexto, et de lanificio multi.",
+   "preklad": "Velmi drahé látky protkané zlatem a hedvábím a mnoho vlněných."
+  },
+  {
+   "text": "Que omnia fuerunt divisa inter eos, qui hujusmodi expedicioni interfuerunt.",
+   "preklad": "To vše bylo rozděleno mezi ty, kdo se té výpravy zúčastnili."
+  },
+  {
+   "text": "[Merz 14] Die mercurii 14. marcii venerunt nostre gentes Basileam, deferentes secum vexilla et baneria aureis litteris inpicta 19, item duas magnas bombardas clipeis Burgundorum infusis, valoris mille florenorum. et ex gracia dei nullus ipsorum defuit nisi quidam servus Ullarici Mellinger, qui de allecibus tantum commedit, quod febricitabat; ille mansit in Bielo, alii omnes recentes cum magno gaudio venerunt, representantes se beate virgini Marie, intraverunt omnes ecclesiam Basiliensem per magnam portam, referentes grates beate virgini ad altare suum, exierunt per portam sancti Galli.",
+   "preklad": "[Merz 14] Ve středu 14. března přišli naši lidé do Basileje a přinesli s sebou 19 praporců a korouhví pomalovaných zlatými písmeny, dále dvě velká obléhací děla s odlitými burgundskými erby v hodnotě tisíce zlatých. Z milosti Boží nikdo z nich nechyběl kromě jednoho čeledína Oldřicha Mellingera, který se tolik najedl slanečků, že dostal horečku; ten zůstal v Bielu. Všichni ostatní přišli svěží a s velikou radostí, představili se blahoslavené Panně Marii, vešli všichni do basilejského chrámu hlavní branou, vzdali díky blahoslavené Panně u jejího oltáře a vyšli Havlovou branou (porta sancti Galli)."
+  },
+  {
+   "text": "Et eo tunc domini Bernenses scripserunt Basiliensibus, quod ille nequam Burgundus post fugam manserit in Niverduno per noctem, sequenti vero die se transtulerit in Nazaritum et ibi mansit duobus diebus, non commedendo nec bibendo, et congregato exercitu suo fecit in furore decapitari certos nobiles, qui sibi retulisse dicuntur, quod Switzeri et illi de liga non haberent arma, sed sint homines rusticani, nudi, et de facili possent interfici. et disposuit iterum ire contra Switzeros. propterea mandaverunt Basiliensibus, ut nunciarent quantocius Argentinensibus et aliis, ut omnes confederati de liga se disponerent ad arma et cum potencia essent parati, quacumque hora eis intimaretur, ut irent et equitarent ad expedicionem [483] mitterentque suos nuncios cum pleno mandato ad Lucernam, ut ibi essent [Merz 17] dominica proxima post Gregorii, tractaturi negocium hujusmodi, quomodo, quando et qualiter ipsum Burgundum invaderent.",
+   "preklad": "A tehdy páni Bernští psali Basilejským, že onen ničemný Burgunďan po útěku zůstal přes noc v Yverdonu (Niverdunum), příštího dne se přesunul do Nozeroy (Nazaritum) a zůstal tam dva dny, aniž jedl či pil. Když shromáždil své vojsko, dal v zuřivosti stít několik šlechticů, kteří mu prý tvrdili, že Švýcaři a ti ze spolku nemají zbraně, že jsou to sedláci, nazí [bez zbroje], a že je lze snadno pobít. A rozhodl se znovu táhnout proti Švýcarům. Proto Bernští vzkázali Basilejským, aby co nejrychleji oznámili Štrasburským a jiným, ať se všichni spojenci ze spolku připraví ke zbrani a jsou s [plnou] mocí hotovi, aby v kteroukoli hodinu, kdy jim to bude oznámeno, vytáhli a vyjeli na výpravu, [483] a aby poslali své posly s plnou mocí do Luzernu, aby tam byli [Merz 17] v neděli po sv. Řehoři a jednali o té věci, jak, kdy a jakým způsobem na Burgunďana udeřit."
+  },
+  {
+   "text": "Et audivi postea, quod ipse dux in ista fuga perdiderit in",
+   "preklad": "A slyšel jsem potom, že vévoda na tom útěku ztratil v… [pokračuje kap. 117]"
+  }
+ ],
+ "poznamky_editora": [
+  "Aparát: 36. erant.",
+  "1) Arrendare, gegen jährlichen Zins (arrenda) übergeben.",
+  "2) Meinau.",
+  "Merz 3",
+  "Aparát: 5. Nach hincinde steht noch einmal equos. 8. Zuerst hatte Kn. geschrieben: unus",
+  "magnus currus plenus, qui vehebat. Bei der vorgenommenen Aenderung hat er aus",
+  "Versehen vehebat statt ı ehebant stehn lassen. 15. Statt arcubus hatte Kn. zuerst",
+  "mit unrichtiger Declination arcis geschrieben. 24. credencia steht zweimal. 31. Nach",
+  "multi steht noch das Zeichen für et:",
+  "1) Lixus = elixus, gesotten. Du Cange. Diefenbach.",
+  "2) Strumulus, Stockfisch. Diefenbach.",
+  "3) Fustum, Kolben. Du:Cange. Diefenbach.",
+  "4) S. oben 8.353, A.1. 5) Vgl.8S.374,19 und p.510. 6) Vgl. 8.361, 1.",
+  "Aparát: 1. Statt inpieta hatte Kn. zuerst geschrieben intexta.",
+  "1) Am 12. Merz schicken die Berner den Baslern die unten $. 368 mit-",
+  "getheilte Abschrift des Briefes des Meiers von Locle, »darus ir mercken den",
+  "gewalltigen züzug, so der Burgunsch hertzog ietz uff unns und ander von",
+  "nüwem fürnimpt«, theilen mit, dass sie deshalb auf nächsten Sonntag einen",
+  "Tag nach Luzern angesetzt, und ersuchen die Basler, sich zu sofortigem Zuzuge",
+  "gerüstet zu halten, bevollmächtigte Boten auf den Tag zu senden und Gleiches",
+  "denen von Strassburg, Colmar, Schlettstadt und andern zu verkünden, auch",
+  "dafür zu sorgen, dass aus dem Sundgau und sonst Hafer und andere Noth-",
+  "durft um baares Geld zugeführt werde. — Dieses Schreiben sowohl als die",
+  "Copie des Briefes von Locle sind von der Hand des Thüring Fricker (Staats-",
+  "archiv Basel St. 2; Nr. 6). Ochsenbein theilt beide Schriftstücke mit, nach",
+  "Abschriften, welche die Basler, dem Ansuchen Berns entsprechend, nach Col-",
+  "mar geschickt hatten, 8. 28 und 21, ebenso das Begleitschreiben der Basler,",
+  "welche hinwiederum die Colmarer ersuchen, die nöthigen Mittheilungen nach",
+  "Kaisersberg, Münster und Türkheim gelangen zu lassen, S. 33.",
+  "2) Hievon steht kein Wort in dem Briefe. Karl war sofort über Jougne",
+  "nach dem etwa 7 Stunden westlich von diesem gelegenen Nozeroy geeilt, wo",
+  "Panicharola am Morgen des 3. Merz bei ihm eintraf. Gingins I, 311. 316.",
+  "Vgl. das Tagebuch der Hofmeister bei Comines-Lenglet II, 219,",
+  "Merz 17",
+  "Merz 9",
+  "Merz 10",
+  "Merz 10",
+  "Merz 16"
+ ],
+ "radky_zdroje": "knebel_baslerchr2_1880.txt",
+ "poznamky_prekladu": [
+  "Opravy OCR: [4s → [480], [asi] → [481], [as2] → [482], [4s3] → [483]; ininera → minera, sere → ere, Oristianitatem → Cristianitatem, Theuistunicorum → Theutunicorum, scommedit → commedit, et surum → et suorum, Basekensibus/Basilienssdws → Basiliensibus; vlepená čísla řádků (9, 2%, oo) odstraněna.",
+  "[Merz 3] Neděle Invocavit = 3. 3. 1476. [Merz 14] středa = 14. 3. [Merz 17] neděle po sv. Řehoři (12. 3.) = 17. 3. (neděle Oculi).",
+  "„Terra Athasis“ = Adižská země (Etschland) v Tyrolsku. „Centenarium“ = cent (asi 50 kg) — měsíční výnos „centu ryzího zlata“ je zjevně přehnaná zvěst; ponecháno, jak stojí v textu. „Arrendare“ = dát v nájem za roční činži (Vischer).",
+  "Soupis kořisti: Vischer vykládá lixus = vařený, strumulus = sušená treska (Stockfisch), fustum = palcát (Kolben). Aparát: Knebel napsal nejprve „unus magnus currus plenus, qui vehebat“ a po opravě nechal omylem vehebat; „credencia“ stojí dvakrát. „Navis“ = stolní loď (nef) na koření a příbory (mimo přepis). „de Art“ snad Arth (Schwyz) (mimo přepis) — ověřit.",
+  "Míry a jednotky (saccus = pytel, tonna = sud, plaustrum = fůra, centenarius = cent, libra = libra, cubitus = loket) ponechány doslovně bez přepočtu.",
+  "Vischer: Bernský list z 12. 3. (opis listu majera z Le Locle, svolání sněmu do Luzernu na příští neděli, žádost o pohotovost a o dovoz ovsa ze Sundgau) o stínání šlechticů nic neříká; Karel spěchal přes Jougne do Nozeroy, kam za ním 3. 3. ráno dorazil Panicharola. Zvěst o popravách tedy pochází odjinud (srov. list z Le Locle v kap. 117).",
+  "Úsek končí uprostřed věty, pokračuje kap. 117 („valore quinquies centena milia florenorum…“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-14, z Vischerova přepisu autografu (Basler Chroniken); neověřeno proti rukopisu",
+ "overeno_rukopis": false
+}
