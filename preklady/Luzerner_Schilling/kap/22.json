@@ -1,0 +1,35 @@
+{
+ "cislo": 22,
+ "nadpis": "Wie hagenbach gan brisach kam vnd ein arme[n] man sin tochter überfürt vnd was jm darnach gieng",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 164,
+ "strany": [
+  164
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd alß nu hagenbach uff die vasten eben gan brisach komen vnd des willens ouch der hoffnu[n]g was sich bitz ostern da zeenthalten fieng er abe[r] mit eins armen bidermans tochter ein fräueln mütwillen an sy zegeschenden Dar zů der tochter vatt[er] nit vil bedorfft reden wann souil das er zů fridrichen vögeli dem hoptma[n] gieng vnd jm sin kumer mit weynenden ougen clagt Der selb vögeli da angendz das andern ouch kunt tett batt sy vnd gebot jnen gerust zesind vnd acht uff jnn zehaben wann er wölte morndes sin läben daran binden sich selber vnd ander biderblüt vo[n] sollichem übel zeerlösen Das sy alle geloptend vnd von härtzen fro ouch gůtz willens warend wie sy versproch[en] hattend jm mit lib vnd gůt bystendig zesinde alß sy ouch tatend rustend sich alle heimlich jrem anschlag nach zegande",
+   "preklad": "A když Hagenbach přišel právě v postě do Breisachu s úmyslem a nadějí zdržet se tam až do Velikonoc, začal opět svévolně dotírat na dceru jednoho chudého poctivého muže, aby ji zneuctil. Otec té dcery k tomu nemusel mnoho mluvit; jen šel k Friedrichu Vögelimu, hejtmanovi, a se slzami v očích mu žaloval svůj žal. Týž Vögeli to ihned oznámil i ostatním, prosil je a přikázal jim, aby byli připraveni a dávali na něj pozor, neboť chce nazítří vsadit svůj život, aby sebe i jiné poctivé lidi z takového zla vysvobodil. To mu všichni slíbili a byli z toho z celého srdce rádi a ochotni, jak slíbili, stát při něm životem i statkem, což také učinili. Všichni se tajně chystali, aby provedli svůj úklad."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 164,
+   "popis": "ulice v Breisachu s kostelem a kašnou: Hagenbach a dcera chudého měšťana, opodál stěžující si otec"
+  }
+ ],
+ "okraje": [],
+ "poznamky": [
+  {
+   "strana": 164,
+   "text": "edice má v nadpisu místo jména „Hagenbach“ hvězdičku (vynechané slovo)"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak Hagenbach přišel do Breisachu a zneuctil dceru jednoho chudého muže a co ho potom potkalo",
+ "poznamky_prekladu": [
+  "Edice 1862 má v nadpisu místo jména hvězdičku; rukopis jméno „Hagenbach“ uvádí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

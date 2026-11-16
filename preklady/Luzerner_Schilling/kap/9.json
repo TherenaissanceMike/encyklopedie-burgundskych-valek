@@ -1,0 +1,51 @@
+{
+ "cislo": 9,
+ "nadpis": "Aber von denen von mülhusen vnd wie ma[n] jn das sungkow zoch",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 149,
+ "strany": [
+  149,
+  150
+ ],
+ "odstavce": [
+  {
+   "text": "Die von mülhusen namend die ccc man jnhalt jr verkommiß nit von denen von bern vnd solotu[r]n wie obstatt vnd was das die vrsach dz sy sollicher maß genötiget wurdet das die selbe zal lüten wenig hätte beschossen Das selb aber beid stett bärn vnd solotu[r]n vermarcktend das sy wider alle billicheit genötiget vnd den eitgnossen zetratz von denen von hallwil genötiget wurd[ent] machtend sich mit jren panern uff vnd zugend mit macht jn das sungkow zů dissen dingen rouch her bilgerins von höwdorff sach vnd sin vnbillich fürnämen lange zit wider die von schaffhusen gebrucht Vnd zugend die von zürch glarus vn[d] zug vnd dem nach min heren von lucern vre switz vnd vnderwalden ouch wolgerüst mit jren panern jn das väld vnd kamend also alle eitgnossen jm sunckow zesame[n] uff das ochsenueld vnd dem nach uff dem hirtzueld wie die rütter alwege[n] begärt hattend uff der witi ein vortantz mit den switzern zehaben meintend wie sy jnen tůn weltend damit sy den haber müstend tragen Wie vast aber die frommen eitgnossen jm land vm[b] zugend brantend vnd roubtend kam doch nieman der mit jnen vnderstůnd zetantzen hortend doch all tag trumen pfiffen harschhörn[er] trumeten vnd ander spil so die eitgnossen genůgsam by jnen hatte[nd]",
+   "preklad": "Mulhouseští nepřevzali od Bernských a Solothurnských těch tři sta mužů podle obsahu své smlouvy, jak stojí výše. Příčina byla ta, že byli tak sužováni, že by jim takový počet lidí málo prospěl. To však obě města Bern a Solothurn zpozorovala: že je ti z Hallwilu proti vší slušnosti a Spřísežencům navzdory sužují. Vypravila se se svými korouhvemi a táhla mocně do Sundgau. K těmto věcem ještě čpěla záležitost pana Bilgerina von Heudorf a jeho nespravedlivé počínání, které dlouhý čas vedl proti Schaffhauským. A táhli také Curyšští, Glarušští a Zugští a potom moji páni z Luzernu, Urijští, Schwyzští a Unterwaldenští, také dobře vyzbrojeni se svými korouhvemi do pole. A tak se všichni Spříseženci sešli v Sundgau na Ochsenfeldu a potom na Hirtzfeldu, neboť jezdci si vždy přáli mít se Švýcary na širé pláni předtanec a říkali, co jim udělají, aby museli nosit oves. Ať však stateční Spříseženci táhli zemí sebevíc, pálili a loupili, nepřišel nikdo, kdo by se s nimi odvážil tančit. Celé dny přece slyšeli bubny, píšťaly, válečné rohy, trubky a jiné hudební nástroje, kterých měli Spříseženci u sebe dost."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 149,
+   "popis": "vojsko konfederátů s korouhvemi táhne do Sundgau"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 150,
+   "text": "150 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 149,
+   "text": "„tag“ v ř. 24 doplněno nad řádkem; rukopis „rouch her bilgerins“, edice „rouch her her Bilgerins“; slovo „spil“ v edici chybí"
+  },
+  {
+   "strana": 150,
+   "text": "edice 1862 tu má značku „Fol. 74 b.“; strana bez iluminace (edice u rubriky „(Bild.)“ – obraz je na s. 151)"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Opět o Mulhouseských a jak se táhlo do Sundgau",
+ "poznamky_prekladu": [
+  "Tažení do Sundgau – mulhouská válka, červen–červenec 1468 (mimo přepis).",
+  "„rouch her bilgerins … sach“ – doslova „čpěla, kouřila se“ věc pana Bilgerina, tj. přidávala se k příčinám.",
+  "Hirtzueld = patrně Hirtzfelden u Ensisheimu (mimo přepis).",
+  "„rütter“ = jezdci (rytíři) ve smyslu šlechtické jízdy; „vortantz“ = předtanec, posměšná metafora pro bitvu, na niž Schilling navazuje „nikdo se neodvážil tančit“.",
+  "„damit sy den haber müstend tragen“ – idiom nejasný; snad „aby z nich udělali soumary (nosiče ovsa)“, tj. ponížili je. Přeloženo doslova.",
+  "„harschhörner“ = válečné rohy (Harsthorn), typické pro Lesní místa (Uri, Luzern).",
+  "Oproti Bernu 3 (kap. 19): Bern líčí shromáždění na Ochsenfeldu jako bratrské přivítání; Luzern řadí místa jinak (Curych, Glarus, Zug, pak Luzern a Lesní místa) a zmiňuje i Hirtzfeld."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1468
+}

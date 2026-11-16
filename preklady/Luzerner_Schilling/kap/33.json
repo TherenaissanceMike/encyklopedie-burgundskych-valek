@@ -1,0 +1,42 @@
+{
+ "cislo": 33,
+ "nadpis": "Von einem grossen vngehüren hagel so zů lucern was / vnd was darvon schadens kam",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 180,
+ "strany": [
+  180,
+  181
+ ],
+ "odstavce": [
+  {
+   "text": "Dar nach über ein jar vmb sant vits vnd modestus tag jm sumer vor sant johans tag an eine[m] samstag nach mittemtag kam schnäll zů lucern vnd an vil orten darvm[b] ein sollicher grosser hagel vnd wind das er schüren böum lüt vnd gůt nider schlůg vil hüsern endackt vnd erschlůg alles das so uff dem väld was ouch tier vnd vögel jn wälden vnd uff dem wasser Dar zů alle glaßfenster so er mocht erreichen tett sollichen grossen schaden das darvon nit ist zeschriben / wann der merenteil der hagelsteinen warend alß groß alß angsterwärtige wisse brott man gesicht ouch noch hütbetag jn wälden vnd an fruchtbaren böumen sollich streich von den hagelsteine[n]",
+   "preklad": "Potom o rok později, kolem dne svatého Víta a Modesta v létě, před svátkem svatého Jana, v sobotu odpoledne, přišlo náhle v Luzernu a na mnoha místech v okolí takové veliké krupobití a vichřice, že porážely stodoly, stromy, lidi i statek, mnoho domů odkryly a pobily všechno, co bylo na poli, také zvířata a ptáky v lesích i na vodě. K tomu všechna skleněná okna, na která mohlo dosáhnout. Způsobilo tak velkou škodu, že se to nedá popsat, neboť většina krup byla tak velká jako bílé chleby za angster. Ještě dnes je vidět v lesích a na plodných stromech takové stopy po úderech krup."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 180,
+   "popis": "krupobití nad Lucernem: hagelsteiny padají na město, jezero, lodi a pole"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 181,
+   "text": "lxxxx (původní foliace nahoře uprostřed); 181 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 181,
+   "text": "edice 1862 tu má značku „Fol. 90.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "O velikém nesmírném krupobití, které bylo v Luzernu, a jaká škoda z toho vzešla",
+ "poznamky_prekladu": [
+  "Sv. Vít a Modest = 15. 6.; „o rok později“ po roce 1475 = 1476; 15. 6. 1476 připadl na sobotu (juliánský kalendář), údaj tedy sedí (výpočet mimo přepis).",
+  "„angsterwärtige wisse brott“ = bílé chleby v ceně jednoho angsteru (drobná luzernská mince); termín „angster“ v glosáři chybí, ponechán."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 94,
+ "nadpis": "Von her richarten von hochenburg dem ritter von straßburg was er volbracht vnd letst verbrent wart",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 280,
+ "strany": [
+  280,
+  281
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd jnn dissen dingen was ein ritter von straßburg von dem hie vor ouch gehört ist der ein armen knaben ließ ertrencken Der selb ritter hieß her richart von hochenburg vnd was von vncristenlich[en] wercken wägen hie vor ze zabern geuangen gelägen vnd entrunnen vnd alß er nach vil handels an denen ende[n] nit me sicher Da was er so listig kam gan zürch hielt sich so früntlich mit aller wält geistlich vnd wältlichen fürt so ein fromen wandel jn der kilchen vnd uff der gassen das man jm anders nit dann aller fromkeit vnd eren getruwet vnd alß er ein zit zürch sich hat enthalten vnd die wält verbländet warb er an ein statt von zürch vnd batt sy jnn uff zenämen für jren burger wann jm geuiele der eitgnossen vnd sunderlich dero von zürch wäsen vnd regiment so wol das er jemer begärte sin läben by jne[n] zeschlissen vnd sin gůt dahin zeziechen mit vil gůter vnd glatter worten vnd vff sollich sin bitt vnd begär ward er von jne[n] zů burger uff genomen",
+   "preklad": "A mezitím tu byl jeden rytíř ze Štrasburku, o němž už bylo předtím slyšet, že dal utopit jednoho chudého chlapce. Ten rytíř se jmenoval pan Richart von Hochenburg a předtím byl kvůli nekřesťanským skutkům uvězněn v Saverne a utekl. A když už po mnohém jednání nebyl v těch končinách v bezpečí, byl tak lstivý, že přišel do Curychu. Choval se tak přívětivě ke všem lidem, duchovním i světským, a vedl tak zbožný život v kostele i na ulici, že se od něj nečekalo nic jiného než veškerá zbožnost a čest. A když se nějakou dobu zdržoval v Curychu a oslepil svět, ucházel se u města Curychu a prosil, aby ho přijali za svého měšťana, neboť se mu prý zřízení a vláda Spříseženců, a zvláště Curyšských, tak líbí, že by u nich rád strávil svůj život a přenesl tam svůj majetek – a to s mnoha dobrými a uhlazenými slovy. Na tuto jeho prosbu a žádost byl od nich přijat za měšťana."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 280,
+   "popis": "rytíř Richard von Hohenburg před zürišskou radou (přijetí za měšťana), síň s dřevěným stropem; dolní polovina strany v tyrkysovém rámu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 280,
+   "text": "1480 (vlevo vedle rubriky)"
+  },
+  {
+   "strana": 281,
+   "text": "281 (moderní paginace, pravý horní roh)"
+  },
+  {
+   "strana": 281,
+   "text": "Cxxxviiij (foliace nahoře uprostřed)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 280,
+   "text": "edice 1862 má rubriku i závěr porušené („Von * W von Hochenburg … 5 rt shi tlerſt verbrent wart“; „mit vil guoter vnd Water — vnd uff 2 ſin bitt vnd erg er von inen zuo Pe. uff 8 u ö“); rukopis viz výše. Ř. 10 edice „nüt“, rukopis „nit“[?]."
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "O panu Richartu von Hochenburg, rytíři ze Štrasburku, co spáchal, a že byl nakonec upálen",
+ "poznamky_prekladu": [
+  "„ze zabern“ = Saverne (Zabern) v Alsasku. „vncristenliche werck“ – podle jiných pramenů šlo o sodomii; Richard Puller von Hohenburg byl upálen v Curychu 1482 (mimo přepis).",
+  "Na okraji letopočet 1480. Kapitola končí přijetím za měšťana; upálení zmíněné v rubrice text této kapitoly nepopisuje (pokračování snad jinde, srov. pozn. ke kap. 95).",
+  "„fromen wandel“ – „from“ zde v náboženském smyslu, proto „zbožný život“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1480
+}

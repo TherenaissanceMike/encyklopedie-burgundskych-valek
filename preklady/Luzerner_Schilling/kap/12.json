@@ -1,0 +1,47 @@
+{
+ "cislo": 12,
+ "nadpis": "Wie hertzog sigmund von österich die vierstett dz brisgow sunkow vnd dz elsas versatzt",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 154,
+ "strany": [
+  154,
+  155
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als die sach vor waltzhůt gantz beschlosse[n] abgerett verbriefft vnd versigelt ward vnd jederman wider heim kam ouch dem allem nach zil vnd tag nohetend dz ma[n] den eitgnossen das vor waltzhůt versprochen geben vnd ußrichten solt hatt hertzog sigmund damaln ein sollich groß sum[m] geltes nit oder villicht sunst jm sinn dz nit zegeben uß der vrsach als wol was zeglouben dz er vermeint den eitgnossen ein nachpuren uff den halß zesetzen der jnen swär genůg wurde oder villicht den hertzoge[n] von burgun[d] damit zebetrieg[en] der doch sich grosser sachen vnderstůnd zetůnde versatzt daruff die vierstett namlich waltzhůt louffenberg seckingen vnd rinfelden mit sampt dem swartzwald ouch dz elsas prisgow vnd sunkow vmb ein mercklich sum[m] geltes me dann er den eitgnossen schuldig was hertzogen karle von burgun[d] verschreib sich darvm[b] vnd gab jm dz alles jn bitz uff ein ablosung Des den hertzoge[n] von burgun[d] wol benügt was frölich by der sach vnd vast ein hochfärtiger fürst vnd des willens die gantz tütsch nation vnder sich zebringe[n]",
+   "preklad": "A když byla věc před Waldshutem úplně uzavřena, ujednána, stvrzena listy a zapečetěna a každý se vrátil domů, a když se potom blížila lhůta a den, kdy se mělo Spřísežencům dát a vyplatit to, co bylo před Waldshutem slíbeno, neměl vévoda Zikmund tehdy tak velkou sumu peněz, nebo snad měl jinak v úmyslu ji nedat. Příčina byla, jak lze dobře věřit, ta, že chtěl Spřísežencům posadit na krk souseda, který by jim byl dost těžký, nebo snad tím chtěl obelstít vévodu Burgundského, který se přece pouštěl do velkých věcí. Zastavil proto čtyři města, totiž Waldshut, Laufenburg, Säckingen a Rheinfelden, spolu se Schwarzwaldem, také Alsasko, Breisgau a Sundgau, vévodovi Karlovi Burgundskému za značnou sumu peněz, větší, než kolik byl Spřísežencům dlužen. Upsal se mu za to a dal mu to všechno do držení až do vyplacení. To vévodovi Burgundskému dobře postačovalo a byl z té věci rád; byl to velmi pyšný kníže a měl v úmyslu podrobit si celý německý národ."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 154,
+   "popis": "vévoda Zikmund a vévoda Karel (vyslanci) u stolu v klenuté síni, předání listiny a peněz za zástavu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 155,
+   "text": "lxxvii (původní foliace, nahoře uprostřed); 155 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 154,
+   "text": "rukopis „vast ein hochfärtiger fürst“ (edice „vnd 1 ein“); „die gantz tütsch nation“, edice „die gantzen tütschen nacion“"
+  },
+  {
+   "strana": 155,
+   "text": "edice 1862 tu má značku „Fol. 77.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak vévoda Zikmund Rakouský zastavil čtyři města, Breisgau, Sundgau a Alsasko",
+ "poznamky_prekladu": [
+  "Zástava byla sjednána smlouvou ze Saint-Omer 9. 5. 1469 za 50 000 zlatých (mimo přepis).",
+  "„die vierstett“ = čtyři (lesní) města na Rýně: Waldshut, Laufenburg, Säckingen, Rheinfelden.",
+  "„bitz uff ein ablosung“ = až do vyplacení (zpětného vykoupení) zástavy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1469
+}

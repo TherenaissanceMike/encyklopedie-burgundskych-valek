@@ -1,0 +1,51 @@
+{
+ "cislo": 20,
+ "nadpis": "Wie ein jung[er] knab zů lucern ertrenckt vnd wid[er] läbendig ward vnd lang darnach läpt",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 162,
+ "strany": [
+  162,
+  163
+ ],
+ "odstavce": [
+  {
+   "text": "Jn dem selben jar fiengend min heren von lucern ein jungen knaben der sich souil mit diepstall verwürckt hatt dz man jnn solt mit dem strick gerichttet han aber von bitt siner fründ ouch sin[er] jugend wägen geschach jm die gnad jnn ze ertrencken Alß man jnn nu zů lucern am wyenstein jn das wasser warff ließ man jnn gemach rünnen bitz vnder die hüser Daselbs zoch jnn der nachrichter haruß zerhüw jm sin band vnd ließ jn ligen Also namend jn die statt knecht leitend jnn jn ein boum Darin nu ben by eine[m] clagk die jungen knaben lugten vnd gesahend souil dz er dennocht den mund rürt vnd läbt seitend dz so lüt dz die frowen über den boum brachend vnd lugtend Da fundend sy jn ouch noch läben vnd also namend sy jnn trugend jnn jn den spittal schüttend das wasser von jm dz er jemer wid[er] zů jm selber kam läpt lange zit darnach vnd ward ein bider man nam ein wib vnd macht hübsche[?] kind",
+   "preklad": "V tom roce zajali moji páni z Luzernu mladého chlapce, který se tolik provinil krádeží, že měl být popraven provazem. Ale na prosbu jeho přátel a také pro jeho mládí se mu dostalo té milosti, že měl být utopen. Když ho tedy v Luzernu u Wyensteinu hodili do vody, nechali ho pomalu plout až pod domy. Tam ho kat vytáhl ven, rozsekl mu pouta a nechal ho ležet. Pak ho vzali městští služebníci a položili ho do rakve. Do ní se tedy „ben“ [?] při nářku dívali mladí chlapci a viděli, že přece hýbe ústy a žije. Řekli to tak nahlas, že ženy rakev rozlomily a podívaly se. Tu ho našly ještě živého, a tak ho vzaly, odnesly do špitálu a vylily z něho vodu, takže nakonec přišel znovu k sobě. Žil potom dlouhý čas, stal se z něho poctivý muž, vzal si ženu a měl pěkné [?] děti."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 162,
+   "popis": "v Lucernu u mostu: kat a pomocníci v loďce na Reussi, odsouzený mladík visí svázaný hlavou dolů ve vodě"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 163,
+   "text": "lxxxi (původní foliace, nahoře uprostřed); 163 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 162,
+   "text": "ř. 16–17 edice vynechává „kam“ a místo „macht hübsche[?] kind“ má zkomolené „habe kind“; ř. 10 „ben“ (= Bahn/bänk?) shodně s edicí, nejasné"
+  },
+  {
+   "strana": 163,
+   "text": "edice 1862 tu má značku „Fol. 81.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak byl mladý chlapec v Luzernu utopen a znovu ožil a dlouho potom žil",
+ "poznamky_prekladu": [
+  "„Jn dem selben jar“ – podle souvislosti rok 1473 (mimo přepis).",
+  "„am wyenstein“ – místo v Luzernu u řeky Reuss, neurčeno; „vnder die hüser“ = pod domy stojící nad vodou.",
+  "Utopení bylo mírnějším trestem než oběšení, udělovaným zvláště mladistvým a ženám.",
+  "„nachrichter“ = kat; „statt knecht“ = městští služebníci (biřici), ne vojenští knechti.",
+  "„boum“ = rakev (Totenbaum, vydlabaný kmen).",
+  "„ben by eine[m] clagk“ – „ben“ nejasné (shodně s edicí); ponecháno v originále s [?].",
+  "„macht hübsche[?] kind“ – čtení nejisté, edice zkomoleně „habe kind“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1470
+}

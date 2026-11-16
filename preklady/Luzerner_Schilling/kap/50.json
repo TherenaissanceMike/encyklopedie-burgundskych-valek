@@ -1,0 +1,50 @@
+{
+ "cislo": 50,
+ "nadpis": "Wie der hertzog von burgun angentz granson wid[er] / besatzt vnd was dem nach für gieng",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 205,
+ "strany": [
+  205,
+  206
+ ],
+ "odstavce": [
+  {
+   "text": "Der hertzog von burgund was noch nit recht[?] flüchtig worden / wann so bald die eitgnossen abzugend vnd von granson kamend besatzt er angentz das selb schloß wider[?] mit vil güter lüt[en] / Die selben lagend also da vnd jubilierend[?] mit vil gespöt vnd hochmůt[?] vnd jn sollichem zugend ettlich knächt der eitgnossen von dem hertzogen von burgund ^ so lang by jm ouch by der schantlichen tat zů granson / Da sy semlich biderb[?] lüten so schantlich hattend erhenckt / warend gewäsen / Die selben knächt begertend gnad an jr heren / besunder kam ein[er] der was von Ruswil vnd miner heren von lucern vndertan vast ein stoltzer man von lib hieß Hans jm wil zů miner heren von lucern sich mit jnen zeuersünen / aber min he[ren] hoptman fenner rät vnd hundert / so jm väld mit der paner warend schicktend jn gan lucern jren heren vnd obern gabend jm sin fürdernuß[?] das er mit dem swert gericht / Des glich ward ouch zů bern vnd jn ettlich[en] andern orten volbracht",
+   "preklad": "Vévoda Burgundský ještě neuprchl doopravdy [?]; neboť jakmile Spříseženci odtáhli a odešli od Grandsonu, ihned znovu [?] obsadil ten hrad mnoha dobrými lidmi. Ti tam tak leželi a jásali [?] s velkým posměchem a pýchou [?]. A mezitím odešlo od vévody Burgundského několik knechtů ze Spříseženců, kteří u něho byli dlouho a byli také při té hanebné věci v Grandsonu, když tak hanebně oběsili tak poctivé [?] lidi. Ti knechti prosili své pány o milost. Zvláště přišel jeden, který byl z Ruswilu a poddaný mých pánů z Luzernu, velmi statný muž postavou, jmenoval se Hans im Wil, k mým pánům z Luzernu, aby se s nimi usmířil. Ale moji páni hejtman, praporečník, radní a Sto, kteří byli s korouhví v poli, ho poslali do Luzernu jeho pánům a představeným a dali mu jeho „přímluvu“ [?]: že byl popraven mečem. Totéž se stalo také v Bernu a na několika dalších místech."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 205,
+   "popis": "Švýcaři obléhají a dobývají Grandson: hradby a věže města u jezera, útočníci s žebříky a korouhvemi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 205,
+   "text": "vpravo u ř. 7 odkazovou značkou ^ připojený přípisek: „vnd warumb […] / […]“ (nejisté); „vndertan“ v ř. 15 vepsáno nad řádek"
+  },
+  {
+   "strana": 206,
+   "text": "206 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 205,
+   "text": "edice 1862 (Fol. 101) je zde v OCR jen ve zlomcích; čitelná shoda: „Hans im Wil … ſich mit inen zeuerſünen … hoptman, fenner, rät vnd hundert … gabend im ſouil … gericht, des glich ward … in ettlichen andern orten volbracht“. Rozdíl: edice „gabend im ſouil“, rukopis spíše „gabend jm sin fürdernuß[?]“"
+  }
+ ],
+ "nejista_mista": 6,
+ "nadpis_preklad": "Jak vévoda Burgundský ihned znovu obsadil Grandson a co se potom dělo",
+ "poznamky_prekladu": [
+  "Oproti Bernu 3: Bern (kap. 298) vypráví, že se do hradu Grandson uchýlili nepřátelé na útěku z bitvy; Luzern tvrdí, že vévoda hrad po odchodu Spříseženců znovu cíleně obsadil.",
+  "„recht[?]“, „wider[?]“, „jubilierend[?]“, „hochmůt[?]“, „biderb[?]“ – nejistá čtení přepisu, přenesena.",
+  "„rät vnd hundert“ – luzernská Malá rada a Velká rada („Sto“, die Hundert), které měly v poli své zástupce u korouhve.",
+  "„gabend jm sin fürdernuß[?]“ – nejisté čtení (edice 1862 „gabend im ſouil“); fürdernuß = přímluva, podpora – patrně ironicky: „odměnou“ mu byla poprava. Doporučuji ověřit v rukopisu (s. 205).",
+  "Na okraji s. 205 je odkazovou značkou připojen nejistý přípisek „vnd warumb […]“, který do překladu nevstupuje.",
+  "„vast ein stoltzer man von lib“ = velmi statný (urostlý) muž, ne „pyšný“. Ruswil – obec v luzernském území."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

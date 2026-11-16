@@ -1,0 +1,53 @@
+{
+ "cislo": 83,
+ "nadpis": "Wie min heren von lucern vff die selben mäß vnd kilchwichi jre ämpter jn jr statt beschicktend vnd wz dem nach beschach",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 263,
+ "strany": [
+  263,
+  264
+ ],
+ "odstavce": [
+  {
+   "text": "[M]in heren von lucern warend ouch nit zeträg[?] Beschicktend uff die kilchwichi jr ämpter jn jr Statt vnd tetend jnen diß ding kunt Die selbe[n] ämpter alle vnuerzagt gůtz willens warend zů minen heren vnd der loblichen statt von lucern jr lib vnd gůt zesetzen vnd ward also jn derselben mäß der gröst vnd hübschist vmbgang zů lucern alß er jn hundert jaren je gewäsen wann es was damalen ein loblich alt gewonheit Die dazemal ein[er] statt von lucern wol kam Das alle burg[er] järlich am grossen zinstag jn der mäß nach dem nachtmal jm harnesch müstend mit jr weri vmgan Das geschach ouch uff die nacht dar durch villicht ettlichs vnderwägen bleib dz sunst für sich gangen vnd wäre gůt das man sollichs nit liesse abgan Aber von grosser hoffart wägen blipt es vnderwägen man vindet jn peter etterlins kronick von einer mortnacht zů lucern so an der eck vnder dem schwinnbogen angetragen Da ward der vmbgang jm harnasch uff gesetzt vnd von den alte[n] me betrachtet dann aber jetz gehalten will wärden",
+   "preklad": "Moji páni z Luzernu také nebyli líní [?]. Povolali na posvícení své úřady (okrsky) do svého města a oznámili jim tyto věci. Všechny tyto úřady byly neohroženě a ochotně připraveny nasadit pro mé pány a chvalitebné město Luzern život i statek. A tak se na téže pouti konal největší a nejkrásnější průvod v Luzernu, jaký tam kdy za sto let byl. Neboť tehdy byl chvalitebný starý zvyk, který tehdy městu Luzernu dobře posloužil: že všichni měšťané každoročně na velké úterý během pouti po večeři museli obcházet v zbroji se svými zbraněmi. To se stalo i tu noc, a tím snad zůstalo zabráněno něčemu, co by se jinak stalo; a bylo by dobře, kdyby se od toho neupouštělo. Ale z velké pýchy se to zanechává. V kronice Petra Etterlina se nachází [zpráva] o vražedné noci v Luzernu, která byla osnována na rohu (Egg) pod klenutým obloukem. Tehdy byl ten průvod v zbroji zaveden, a staří o něm víc uvažovali, než se nyní chce dodržovat."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 263,
+   "popis": "ozbrojení muži z lucernských úřadů (ämpter) s korouhvemi táhnou do města Lucernu; hnědý rám, dolní polovina strany"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 264,
+   "text": "264 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 263,
+   "text": "místo pro iniciálu M vynecháno (nevyplněno), první čtyři řádky odsazeny"
+  },
+  {
+   "strana": 263,
+   "text": "konec kapitoly je v edici 1862 porušený („Da ward der vmb⸗ … 1 im deren * 2. vnd von den alten me n! dann aber jetz“); rukopis čte „Da ward der vmbgang jm harnasch uff gesetzt vnd von den alten me betrachtet dann aber jetz gehalten will wärden“."
+  },
+  {
+   "strana": 264,
+   "text": "strana bez iluminace; prosvítá iluminace z druhé strany listu (s. 263). Edice 1862 tu má značku „Fol. 130 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak moji páni z Luzernu povolali na tutéž pouť a posvícení své úřady (okrsky) do svého města a co se potom stalo",
+ "poznamky_prekladu": [
+  "Místo pro iniciálu M je v rukopisu nevyplněné. „zeträg[?]“ – nejisté čtení přepisu, přeloženo „líní [?]“.",
+  "„ämpter“ = luzernské venkovské úřady, tj. správní okrsky (Ämter) a jejich muži.",
+  "„mäß“ = pouť, výroční trh spojený s posvícením (kilchwichi) kolem svátku sv. Leodegara (2. 10.) (mimo přepis); „großer zinstag“ = velké úterý pouti.",
+  "Peter Etterlin, Kronika von der loblichen Eidgnoschaft (tisk 1507) (mimo přepis); „mortnacht“ = luzernská vražedná noc (1333), spiknutí prý osnované „an der eck vnder dem schwinnbogen“ – na Eggu pod klenbou (Schwibbogen); přesné místo mimo přepis neověřeno.",
+  "Pro reenactory: každoroční noční obchůzka luzernských měšťanů v plné zbroji se zbraněmi jako připomínka vražedné noci; Schilling (1513) si stěžuje, že se už nedodržuje."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1478
+}

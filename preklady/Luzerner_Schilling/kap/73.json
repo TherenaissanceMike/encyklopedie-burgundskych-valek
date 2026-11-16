@@ -1,0 +1,47 @@
+{
+ "cislo": 73,
+ "nadpis": "Wie der küng von vngern melchiorn russen von lucern zů ritter schlůg vnd jm ein guldin stuck an leit",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 246,
+ "strany": [
+  246,
+  247
+ ],
+ "odstavce": [
+  {
+   "text": "Alß hieuor gehört ist wie der küng von vngern minen heren von lucern schreib die jren erlich heim zeschicken für er zů uff sant johans tag beschickt die botten zů jm jn die kilchen zů dem ampt ze komen alß sy ouch tatend vnd da das ampt uß was bracht man dem küng ein guldin swärt Das nam er jn sin hand růfft her melchiorn vnd hieß jn nider knüwen vnd schlůg jnn ze ritter verhieß jm zegeben ritterlich stat zevolbringen leit jm ein guldinen rock an vnd sprach er welte ein eignen ritter jn eitgnossen haben aber sollichs erschoß her melchiorn nit wol wann er nam sich der ritterschafft an Des kam er zů armüt wan er entlechnet groß gůt vnd hielt jm der küng nit dz so er jm hat zů geseit Darvmb man noch wol brieff vnd sigel funde",
+   "preklad": "Jak bylo slyšet výše, uherský král napsal mým pánům z Luzernu, že jejich lidi čestně pošle domů. Pokročil k tomu tak, že na den svatého Jana povolal posly k sobě do kostela na mši, jak také učinili. A když mše skončila, přinesli králi zlatý meč. Ten vzal do ruky, zavolal pana Melchiora, kázal mu pokleknout a pasoval ho na rytíře. Slíbil mu dát [prostředky], aby mohl vést rytířský stav, oblékl mu zlatý kabát a řekl, že chce mít mezi Spříseženci vlastního rytíře. Ale to panu Melchiorovi nepřineslo mnoho dobrého, neboť se rytířství ujal, a proto přišel na mizinu, protože si vypůjčil velký majetek a král mu nedodržel, co mu přislíbil. O tom by se ještě dobře našly listy a pečeti."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 246,
+   "popis": "uherský král pasuje Melchiora Russe na rytíře"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 247,
+   "text": "247 (moderní paginace, pravý horní roh); na pravém okraji u ř. 1 pozdější rukou „1479“"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 246,
+   "text": "ř. 14 edice 1862 zkomoleno („ae man noch wol en vnd figel funde“), rukopis „Darvmb man noch wol brieff vnd sigel funde“; rubrika v edici „küng von — Melchiorn“, rukopis „küng von vngern melchiorn“"
+  },
+  {
+   "strana": 247,
+   "text": "strana bez iluminace (vlevo dole kresba rostliny na okraji), silně prosvítá iluminace ze s. 248; edice 1862 tu má značku „Fol. 122.“ a „(Zwei Bilder.)“, obrazy jsou až na s. 248"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak uherský král pasoval Melchiora Russe z Luzernu na rytíře a oblékl mu zlatohlavový šat",
+ "poznamky_prekladu": [
+  "„sant johans tag“ – text neurčuje, který svátek sv. Jana je míněn (sv. Jan Křtitel 24. 6., sv. Jan Evangelista 27. 12.); pozdější ruka připsala na okraj rok 1479. Přesné datum nelze z textu určit.",
+  "Rubrika mluví o „guldin stuck“ (kus zlatohlavu, zlatem protkávané látky), text o „guldinen rock“ (zlatý kabát); obojí míněn tentýž šat z drahé zlaté látky.",
+  "„verhieß jm zegeben ritterlich stat zevolbringen“ = slíbil mu dát [prostředky] k vedení rytířského stavu; doplnění v hranatých závorkách podle smyslu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1478
+}

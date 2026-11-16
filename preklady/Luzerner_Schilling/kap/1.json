@@ -1,0 +1,44 @@
+{
+ "cislo": 1,
+ "nadpis": "Wie küffer hans on sin lon von mülhusen bitz gen brunstatt gieng vnd wie sy jm den lon schicktend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 140,
+ "strany": [
+  140,
+  141
+ ],
+ "odstavce": [
+  {
+   "text": "Da nu küffer hans hort vnd marckt das der burgermeister sin ansprach[?] verachtet vnd sin sach als ring[?] schatzt gieng angendes von mülhusen bitz jn ein dorff heissett brunstatt Daselbs zart er jn eim wirtzhuß ze abend Jn dem selben hattend aber die von mülhusen der sach witer nach gesinnet wurdent zerat vnd schickt[end] küffer hansen ein botten nach mit den vj basel plaparten jm die zebringen / Der selb bott gieng ouch gan brunstat gegen des wirtes huß / Darin küffer hans zart / vnd als bald küffer hans den botten gesach gegen dem wirtzhuß gan stůnd er uff vnd gieng zů der hindern tür uß hinweg / Da nu der bott das ersach das jn küffer hans floch gieng er zů dem wirt vnd sprach / Her der wirt jch wolt küffer hansen von miner heren wägen vj basel plapart geben so flücht er mich harvm[b] züg ich das an üch vnd bitten üch des jngedenck zesin das ich jm sollich gelt wolt haben geben / Das aber der wirt ouch für ein gespött vnd hatt villicht küffer hansen vnderwist was er solt tůn / Doch sprach er spöttlich zům botte[n] Ja es ist gůt vnd also zoch der bott mit dem gelt wid[er] heim vnd seit das sinen heren",
+   "preklad": "Když tedy Küffer Hans slyšel a zpozoroval, že purkmistr jeho nárok [?] pohrdl a jeho věc měl za tak lehkou [?], odešel ihned z Mulhouse až do vesnice, které se říká Brunstatt. Tam zůstal přes večer v hospodě a utrácel. Mezitím však Mulhouseští o věci dále uvažovali, usnesli se a poslali za Küfferem Hansem posla se šesti basilejskými groši, aby mu je donesl. Ten posel šel také do Brunstattu k hostinskému domu, v němž Küffer Hans utrácel. A jakmile Küffer Hans uviděl posla, jak jde k hospodě, vstal a odešel zadními dveřmi pryč. Když tedy posel spatřil, že před ním Küffer Hans utíká, šel k hostinskému a řekl: „Pane hostinský, chtěl jsem Küfferu Hansovi jménem svých pánů dát šest basilejských grošů, a on přede mnou utíká. Proto se vás dovolávám jako svědka a prosím vás, abyste pamatoval, že jsem mu ty peníze chtěl dát.“ To však měl hostinský také za posměch a snad Küffera Hanse předtím naučil, co má dělat. Řekl však posměšně poslovi: „Ano, je to dobré.“ A tak se posel s penězi vrátil domů a pověděl to svým pánům."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 140,
+   "popis": "vesnice Brunstatt s hostincem; Küffer Hans odchází, posel z Mülhausenu s penězi před hostincem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 141,
+   "text": "lxx (původní foliace, nahoře uprostřed); 140 (moderní paginace, pravý horní roh); vlevo nahoře drobná značka nebo přípisek […]"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 141,
+   "text": "edice 1862 tu má značku „Fol. 70.“"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "Jak Küffer Hans odešel bez své odměny z Mulhouse až do Brunstattu a jak mu odměnu poslali",
+ "poznamky_prekladu": [
+  "Kapitola navazuje na předchozí (mimo tuto dávku) o sporu Küffera Hanse s Mulhouse; jde o předehru mulhouské války 1466–1468 (mimo přepis).",
+  "„sin ansprach[?] … als ring[?] schatzt“ – obě slova nejistá v přepisu; přeloženo „nárok [?]“ a „tak lehkou [?]“.",
+  "„zart“ = zehrte, utrácel za jídlo a pití, stravoval se; „vj basel plapart“ = šest basilejských grošů (glosář: Baselplaphart).",
+  "Brunstatt jižně od Mulhouse (mimo přepis); „züg ich das an üch“ = dovolávám se vás jako svědka."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1465
+}

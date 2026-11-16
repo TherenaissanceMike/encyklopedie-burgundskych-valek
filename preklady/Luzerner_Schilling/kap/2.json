@@ -1,0 +1,48 @@
+{
+ "cislo": 2,
+ "nadpis": "Wie gab küffer hans sin ansprach junckher hansen von regeßheim zekouffen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 141,
+ "strany": [
+  141,
+  142
+ ],
+ "odstavce": [
+  {
+   "text": "Hans küffer hätte ein schlächte sach gehept er macht sy aber gantz krum[m] wan wa er jm wirtzhuß bliben bitz der bott zů jm komen so wär er bezalt worden Sunst was zů besorgen er vnd der junckher ouch der wirt hettend die sachen vorhin überschlage[n] oder mit ein andern angeleit / Doch wie dem joch wäre So kam küffer hans zů eine[m] edelman jm sungow genant junckher hans von regeßheim dem ouch lieber vnglück dann glück was Dem selben seit er nu allen handel uff das der edelman jm von stundan sin ansprach abkoufft gab jm doch nit mer darvm[b] dann die vj basel plapart dardurch er vermeint die von mülhusen zezwinge[n] jm groß gůt zegeben saß angendz nider vnd schreib dene[n] von mülhusen ein brieff darin vil süsser worte[n] mitt gallen stůndend geschriben / Schickt den selben brieff ouch darmit ein quittantz by sine[m] eignen botten gan mülhusen vnd lutet der brieff uff meynung er wäre der so alle zit jr trüwer nachpur begärte zesin Des halben er jnen von sunders gunst wägen hette grössern schaden wellen wenden vnd hansen küffer der sich treffelich vnd hoch ab jnen clagte bezalt vn[d] jnen vj basel plapart dargelüchen bäte sy jm die by dem botten mit sampt sinem lon wider zeschicken So wurde jnen der bott ouch darvm[b] ein quittantz gebe[n] mit vil ander worten hie nit not zemälden",
+   "preklad": "Hans Küffer měl prostou věc, ale udělal ji docela křivou. Kdyby byl totiž zůstal v hospodě, dokud k němu posel nepřišel, byl by býval zaplacen. Jinak bylo třeba se obávat, že on a junker, a také hostinský, si věci předem rozvrhli nebo spolu nastrojili. Ať tomu však bylo jakkoli, přišel Küffer Hans k jednomu šlechtici v Sundgau, jménem junker Hans von Regeßheim, kterému bylo neštěstí milejší než štěstí. Tomu pověděl celou záležitost, načež mu šlechtic jeho nárok ihned odkoupil; nedal mu však za něj víc než oněch šest basilejských grošů. Tím mínil Mulhouseské donutit, aby mu dali velký majetek. Hned si sedl a napsal Mulhouseským list, v němž stálo mnoho sladkých slov se žlučí. Ten list poslal po svém vlastním poslu do Mulhouse a s ním také kvitanci. List zněl v tom smyslu, že on je ten, kdo si vždy přeje být jejich věrným sousedem. Proto z obzvláštní přízně k nim chtěl odvrátit větší škodu a zaplatil Hansovi Küfferovi, který si na ně velmi a důrazně stěžoval, a půjčil jim tak šest basilejských grošů. Prosí je, aby mu je po poslu i s jeho mzdou zase poslali; posel jim za to také vydá kvitanci. A ještě mnoho jiných slov, která zde není třeba vypisovat."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 141,
+   "popis": "Küffer Hans u junkera Hanse z Regisheimu (jezdec se psem, krajina), prodej nároku"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 142,
+   "text": "142 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 141,
+   "text": "rubrika v rukopisu „Wie gab“, edice „Hie gab“; ř. 21 rukopis „gunst“, edice „gunsten“"
+  },
+  {
+   "strana": 142,
+   "text": "edice 1862 tu má značku „Fol. 70 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak Küffer Hans dal svůj nárok koupit junkerovi Hansovi von Regeßheim",
+ "poznamky_prekladu": [
+  "„schlächte sach“ = prostá, přímá (schlicht) věc – protiklad ke „krum“ (křivá).",
+  "„quittantz“ = kvitance, písemné potvrzení o zaplacení.",
+  "„dem ouch lieber vnglück dann glück was“ – Schillingova charakteristika výtržníka, který se rád pouští do sporů.",
+  "„mit sampt sinem lon“ – mzdou je patrně míněna odměna posla."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1465
+}

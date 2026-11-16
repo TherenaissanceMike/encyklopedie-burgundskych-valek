@@ -1,0 +1,48 @@
+{
+ "cislo": 52,
+ "nadpis": "Wie man das väld brach die büchsen teilt vnd ein gemeine / büt angesehen vnd das übrig ouch geteilt wardt",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 207,
+ "strany": [
+  207,
+  208
+ ],
+ "odstavce": [
+  {
+   "text": "Da man nu alß sitt vnd gewonheit ist nach der schlacht vnd dz granson wider gewunnen was drig tag uff der waltstatt gelag / wurdent von gemein[en] eitgnossen lüt zů den dingen verordnet von erste[m] Die büchsen jm väld zeteilen / Des glichen ward angesähen ein gemeine büt alß was jederman hätte erobert darin zelegen / Damit mengklichem vnd jederma[n] glich vil wurde vn[d] Die ding gemeinlich vnd rächt zů giengend / Doch alß das jederman das so jm wär worden wider leite / ob aber sollichs mit trüwen oder nit zů gienge lan ich bliben / aber ettlich wa vor der schlacht vast arm / Die dem nach zů grossem gůt kamend das die jren noch hüt bitag dester baß mögend huß han / nit dz jeman vnrächt täte / man fragt aber alß noch zů zitten beschicht nit zum gefarlichesten allen dinge[n] nach / vnd ist zebesorgen sollichs bring der tag einest ein[er] löblichen eitgnoschafft grossen schaden / das gůt also lieb sin vnd nieman me will der alten wäsen betrachten / Gott behüt sy vnd jre verwanten ze allen zitten vor schanden Vnd da disse büt alß angesähen vnd das läger gebroch[en] wart vnd jederma[n] mit grossen eren vnd frölich heim zoch vn[d] vil gůtes volbracht / satztend gemein eitgnossen ein tag an vn[d] gebütend alle clenodt silber vnd gold sidine cleider vnd and[er] jn miner heren von lucern statt zebringen / Da selbs man dz erlichen teilt / vnd was von sidine[n] vennline[n] wz gab man allenthalben an die gotzhüser wie das noch täglich wirt gesähen / Des glich ward das heltumb erlich geteilt vnd löblich von lucern geferttiget / Es meint ouch jederman der hertzog hät sich mit den eitgnossen zeschlahen gemüdet[?] / aber bald fieng er ein anders an alß man wirt hören",
+   "preklad": "Když se nyní, jak je mravem a zvykem, po bitvě a po opětovném dobytí Grandsonu leželo tři dny na bojišti, ustanovili všichni Spříseženci lidi k těmto věcem. Nejprve aby rozdělili děla v poli. Stejně tak byla ustanovena společná kořist, aby do ní každý vložil, co získal, aby každý a všichni dostali stejně a věci šly společně a spravedlivě. Avšak i když každý vrátil, co se mu dostalo, nechávám stranou, zda se to dělo věrně, nebo ne. Ale někteří, kteří byli před bitvou velmi chudí, přišli potom k velkému majetku, takže jejich [potomci] mohou dodnes tím lépe hospodařit. Ne že by se někomu dělala křivda, ale nevyptávalo se – jak se to ještě časem děje – na všechny věci zrovna nejpřísněji. A je se třeba obávat, že to jednoho dne přinese chvályhodnému Spříseženstvu velkou škodu, že je majetek tak milý a nikdo už nechce hledět na obyčeje předků. Bůh je i jejich spojence chraň po všechny časy před hanbou. A když byla tato kořist takto ustanovena, ležení opuštěno a každý se s velkou ctí a radostně táhl domů a vykonalo se mnoho dobrého, stanovili všichni Spříseženci sněm a nařídili přinést všechny klenoty, stříbro a zlato, hedvábná roucha a jiné do města mých pánů z Luzernu. Tam se to počestně rozdělilo. A co bylo hedvábných praporců, to se rozdalo všude do kostelů, jak to lze ještě denně vidět. Stejně tak byly počestně rozděleny relikvie a chvalně z Luzernu odeslány. Každý se také domníval, že vévoda je už unaven [?] bitím se se Spříseženci, ale brzy začal něco jiného, jak se uslyší."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 207,
+   "popis": "dělení kořisti: Švýcaři s ukořistěnými děly na lafetách a vozících"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 207,
+   "text": "v nadpisu „väld“ vepsáno nad řádek"
+  },
+  {
+   "strana": 208,
+   "text": "208 (moderní paginace, levý horní roh); nahoře uprostřed slabá vybledlá číslice (snad „119“?)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 207,
+   "text": "edice 1862 (Fol. 102) vynechává „alß sitt vnd gewonheit ist“ (ř. 1, v OCR zničeno, nejisté); edice „die büchſen telt ond ein gemeine bütt anſehen“, rukopis „büt angesehen“; edice „gold, wine cleider“ (OCR), rukopis „sidine cleider“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak se opustilo pole, rozdělila děla a ustanovila společná kořist a jak se rozdělilo i ostatní",
+ "poznamky_prekladu": [
+  "„drig tag uff der waltstatt“ – tři dny na bojišti: válečný obyčej držet pole na znamení vítězství.",
+  "„das die jren noch hüt bitag dester baß mögend huß han“ – „huß han“ = hospodařit, vést dům; Schillingova poznámka o zbohatlících z grandsonské kořisti je kritikou současnosti (kolem 1511).",
+  "„gemüdet[?]“ – nejisté čtení, přeloženo „unaven“.",
+  "„büt“ = kořist (pracovní doplněk glosáře); „gemeine büt“ = společná kořist dělená mezi místa."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

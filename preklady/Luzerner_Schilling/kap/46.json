@@ -1,0 +1,49 @@
+{
+ "cislo": 46,
+ "nadpis": "Wie gemein eitgnossen vnd alle so by ein andern warend von nüwenburg zugend vnd wz jnen begegnet",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 197,
+ "strany": [
+  197,
+  198
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd also morndes zoch man jn dem namen gottes abstatt vnd lagend die eitgnossen die selb nacht jn ettlichen dörffern hie dissent dem schloß famerkü die ich nit weiß zenennen Aber der eitgnossen botten kamend jn der nacht zů minen heren vo[n] lucern jn das dorff da sy lagend daselbs beschloß man erst den ratschlag rächt Hiemit sol man noch me von denen von bern vnd der kuntschafft halben mercken die sy dann zů den jren zů granson söltend gehept han Damit man mög versten das sy nit schuldig an den jren warend wan wie wol die eitgnossen dem hertzogen lagend hat er doch ouch gantz kein kuntschafft zů oder von jnen vnd wust ouch nüt von jnen alß sich wol beschein wann beid teil stiessend uff ein andern vnd zesame[n] Das nieman nüt von dem andern wust vnd alß sich aber[?] menglich des anschlags hie vor gemachet hielt vnd vermeint sich morndes für famerkü zelegen Rustend sich min heren von lucern dester früger vnd liessend[?] jrem lütpriester her[r] adam korsten der ein geschickter priest vnd jm veld vast ein trostlich manlich man was dester ee meß haben vnd eben jm ampt der meß zugend die fürsichtige[n] frommen vnd wisen von swytz mit jr paner durch das dorff darin min heren von lucern lagend Die selben min heren brachend ouch uff vnd zugend mit ein andern Des glich die frome[n] eitgnossen alle ouch ander vnd kamend gan famerkü Nu warend die von bärn swytz vn[d] soloturn jn ein yl für famerkü uß gezogen mit jren paneren vnd wust nieman warvm[b] sy das tatend wann der hertzog von burgund was mit sinem zůg uff gebrochen das wüstend sy nit noch niemand",
+   "preklad": "A tak se nazítří ve jménu Božím táhlo odtamtud a Spříseženci leželi tu noc v několika vesnicích na této straně hradu Vaumarcus, které neumím pojmenovat. Ale poslové Spříseženců přišli v noci k mým pánům z Luzernu do vesnice, kde leželi, a teprve tam se ten plán pořádně usnesl. Zde je třeba ještě více si všimnout o Bernských a o zprávách, které měli mít od svých lidí v Grandsonu, aby se mohlo pochopit, že nebyli vinni na svých lidech. Neboť ačkoli Spříseženci leželi [blízko] vévody, neměl ani on vůbec žádné zprávy k nim ani od nich a nic o nich nevěděl, jak se dobře ukázalo, neboť obě strany narazily na sebe a srazily se, takže nikdo nic o druhém nevěděl. A když se tedy [?] každý držel dříve učiněného plánu a hodlal se nazítří položit před Vaumarcus, vystrojili se moji páni z Luzernu tím dříve a nechali [?] svého lidového kněze pana Adama Korstena, který byl schopný kněz a v poli velmi povzbudivý a mužný muž, tím dříve sloužit mši. A právě během mše táhli prozíraví, stateční a moudří Schwyzští se svou korouhví přes vesnici, v níž leželi moji páni z Luzernu. Tito moji páni také vyrazili a táhli spolu s nimi, stejně tak všichni stateční Spříseženci i jiní, a přišli k Vaumarcus. Bernští, Schwyzští a Solothurnští však v rychlosti vytáhli se svými korouhvemi před Vaumarcus a nikdo nevěděl, proč to udělali. Vévoda Burgundský totiž se svým vojskem vyrazil, a to nevěděli oni ani nikdo jiný."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 197,
+   "popis": "dolní část strany: řada korouhví švýcarských míst (mj. Uri s býčí hlavou), vlevo malá postava"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 198,
+   "text": "198 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 197,
+   "text": "ř. 1 edice „Vnd alſo — zoch man“, rukopis „Vnd also morndes zoch man“; ř. 7–30 (od „rächt Hiemit sol man…“) v edici 1862 chybí (jen nečitelné zbytky), včetně jména lucernského kněze „her adam korsten“; ř. 11 snad chybí slovo („dem hertzogen [nach] lagend“)"
+  },
+  {
+   "strana": 198,
+   "text": "strana bez iluminace, dolní čtvrtina prázdná, prosvítá iluminace z druhé strany listu (s. 197). Text této strany v edici 1862 chybí (sazba poškozená, jen zlomky kolem „Fol. 98 b.“), čteno jen z rukopisu"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "Jak všichni Spříseženci a všichni, kdo byli spolu, táhli od Neuchâtelu a co je potkalo",
+ "poznamky_prekladu": [
+  "„dem hertzogen [nach] lagend“ – v rukopisu snad chybí slovo; doplněno podle smyslu „[blízko]“.",
+  "„aber[?]“ a „liessend[?]“ – nejistá čtení přenesena do překladu.",
+  "„lütpriester“ = lidový kněz (farní kněz, plebán) Luzernu; „her adam korsten“ – jméno jen v rukopisu, edice 1862 tu pasáž postrádá.",
+  "Pasáž je v edici 1862 z velké části nečitelná nebo chybí; překlad stojí jen na přepisu rukopisu.",
+  "Datum Schilling neuvádí; bitva u Grandsonu se odehrála v sobotu 2. 3. 1476 (juliánský kalendář; mimo přepis, podle Bernu 3, kap. 289)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

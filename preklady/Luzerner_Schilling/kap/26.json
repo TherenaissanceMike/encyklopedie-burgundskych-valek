@@ -1,0 +1,50 @@
+{
+ "cislo": 26,
+ "nadpis": "Wie man zů brysach zů gericht saß vnd wie hagenbach an das gericht gefürt vnd dar gestelt ward",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 169,
+ "strany": [
+  169,
+  170
+ ],
+ "odstavce": [
+  {
+   "text": "Alß nu der rächttag gesetzt vnd jederman wie vorgehört ist vnd sunst ein grosse vili der lüte[n] zů brisach was warend dennocht die von brisach alwegen jn sorgen überfalß von dem hertzogen von burgund woltend dennocht die statt nit beschliessen Sy versorgtend aber alle tor wol mit lüte[n] Damit diß nit heimlich beschähe sunder jederman sin mißtat möcht hören vnd sähen Vnd also uff hagenbachs eigne vergicht ouch uff mercklich grosse kuntschafft über jnn jngenomen fürt man jnn für gericht Da dann burgermeister vnd rat von brisach ouch alle vorgemäldet bottschafften offelich sassend vnd sin wartetend vnd da er an das gericht kam stůnd ein statt knecht von brisach dar tett ein rüff vnd sprach wär jema[n] da der uff her petern von hagenbach clagen der möcht das tůn dem vnd denen wolte man nach form der keiserlichen rächten richten wann der tag was darum[b] angesetzt jnn vnd sine widersacher rächt lassen zeergan",
+   "preklad": "Když byl tedy stanoven soudní den a v Breisachu byli všichni, jak bylo slyšet výše, a kromě toho veliké množství lidí, byli Breisašští přesto stále v obavách z přepadení od vévody Burgundského. Přesto nechtěli město zavřít, ale všechny brány dobře obsadili lidmi. Aby se to nestalo potají, nýbrž aby každý mohl slyšet a vidět jeho provinění, přivedli ho před soud na základě jeho vlastního doznání a také značně velkých svědectví, která byla proti němu shromážděna. Tam veřejně zasedali purkmistr a rada z Breisachu i všechna výše jmenovaná poselstva a čekali na něj. A když přišel před soud, stál tam městský biřic z Breisachu, provolal a řekl: kdo by tu chtěl žalovat na pana Petera von Hagenbach, ať tak učiní; jemu a jim bude souzeno podle formy císařských práv, neboť ten den byl určen k tomu, aby se jemu i jeho protivníkům dostalo práva."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 169,
+   "popis": "soud na náměstí v Breisachu: soudci a vyslanci sedí na lavicích v kruhu, uprostřed přivedený Hagenbach mezi strážemi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 170,
+   "text": "170 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 169,
+   "text": "v nadpisu je začátek 2. řádku („bach an“) rozmazaný/přepsaný"
+  },
+  {
+   "strana": 169,
+   "text": "edice 1862 má v ř. 15–18 mezery („Hagenbach — tuon“, „Wann der tag — inne * lassen“); rukopis je celý čitelný: „clagen der möcht das tůn“, „was darum[b] angesetzt jnn vnd sine widersacher rächt lassen zeergan“; ř. 16 rukopis „der keiserlichen“, edice „des“"
+  },
+  {
+   "strana": 170,
+   "text": "strana bez iluminace; edice 1862 tu má značku „Fol. 84 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak se v Breisachu zasedlo k soudu a jak byl Hagenbach přiveden a postaven před soud",
+ "poznamky_prekladu": [
+  "„vergicht“ = doznání (na mučení); „kuntschafft“ = svědectví, výpovědi svědků.",
+  "Soud zasedal 9. 5. 1474 (podle Bernu 3 a jiných pramenů; mimo přepis); Luzern datum neuvádí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

@@ -1,0 +1,47 @@
+{
+ "cislo": 5,
+ "nadpis": "Wie beid landuögt denen von mülhusen ouch ab seitend vnd vnd jnen für die statt zügend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 144,
+ "strany": [
+  144,
+  145
+ ],
+ "odstavce": [
+  {
+   "text": "Vff des von regeßheim fürgeben namend sich beid lantuögt der sach wider die von mülhusen an Rustend sich vnd brachtend so vil zewäg das sy denen von mülhusen ouch abseitend vnd die statt belägerte[nd] vnd jn dem als sy vor der statt lagen[d] wurdend beid partien jn ein rächt vertädinget vnd damit zugend sy ab des rechte[n] ze erwarte[n] Nu ist gar gůt vor dem bären zefischen vnd wie wol sy beider sit jn ein rächt gangen warend dennocht die von mülhusen jn sorge[n] jne[n] gieng grösser schaden zehanden synnetend der sach wislich nach als man wol wirt hören",
+   "preklad": "Na základě toho, co ten z Regeßheimu předložil, se oba zemští fojtové ujali věci proti Mulhouseským. Vyzbrojili se a dosáhli toho, že Mulhouseským také vypověděli nepřátelství a město oblehli. A zatímco leželi před městem, byly obě strany vyjednáváním přivedeny k právnímu řízení, a tak odtáhli, aby vyčkali práva. Je však velmi dobré lovit ryby před „bären“ [?]. A ačkoli obě strany přistoupily na právní řízení, Mulhouseští se přece obávali, že je čeká větší škoda, a moudře o věci uvažovali, jak se ještě uslyší."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 144,
+   "popis": "muž s praporci na kopci, skupina mužů (zemští fojti a posel) před obleženým Mülhausenem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 145,
+   "text": "lxxii (původní foliace, nahoře uprostřed); 145 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 144,
+   "text": "v rubrice zdvojené „vnd vnd“; rukopis „vor dem bären zefischen“, edice „bärren“"
+  },
+  {
+   "strana": 145,
+   "text": "edice 1862 tu má značku „Fol. 72.“; strana bez iluminace (edice u rubriky „(Bild.)“ – obraz je na s. 146), dolní třetina strany prázdná, prosvítá iluminace z druhé strany listu"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak oba zemští fojtové také vypověděli Mulhouseským nepřátelství a táhli před město",
+ "poznamky_prekladu": [
+  "„jn ein rächt vertädinget“ = vyjednáváním (teding) přivedeni k tomu, že se spor rozhodne právní cestou.",
+  "„Nu ist gar gůt vor dem bären zefischen“ – přísloví nejasného smyslu; „bär“ může být středohornoněmecké bër = rybářská síť, vrš (tedy lovit před sítí, včas se zajistit), ale snad jde i o narážku na bernského medvěda, k němuž se Mulhouseští v příští kapitole obracejí. V překladu ponecháno s [?].",
+  "V rubrice zdvojené „vnd vnd“ (viz poznámka přepisu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1465
+}

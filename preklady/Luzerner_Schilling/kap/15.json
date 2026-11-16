@@ -1,0 +1,52 @@
+{
+ "cislo": 15,
+ "nadpis": "Wie die von straßburg den eitgnossen ze eren uß zugent vnd die gefangne[n] ledigotend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 157,
+ "strany": [
+  157,
+  158
+ ],
+ "odstavce": [
+  {
+   "text": "Als nu die strengen vesten fürsichtige[n] vnd wisen meist[er] vnd rat der statt straßburg jn denen zitten alwägen geneigt warend gemeine[n] eitgnossen by stand zetůnd[e] wie das von jnen jn burgunschen kriegen erzöugt wart sollichen des von geroltseck můtwillen ee dann die eitgnossen vernamend rustend sy sich vnd zugend ylendez den eitgnosse[n] vnd sunderlich minen heren von lucern zů denen sy ein sundr[e] neygung hattend vnd vornaher beid stett jn grossen geschäfften rat by ein andern pflägen vnd zugend ylentz gan schüttern mit jrem geschütz vnd ritterlichen wer gewunnend das stättli vn[d] machtend die gefangnen ledig liessend sy on alle engeltniß mit jr hab abziechen vnd gan franckfurt faren Die selben biderbe[n] lüt von straßburg zugend ouch dem nach für geroltseck vnd ward als die sach zetagen angesetzt vnd der krieg gerichtett",
+   "preklad": "Urození, pevní, prozíraví a moudří mistr a rada města Štrasburku byli v těch časech vždy nakloněni stát při všech Spřísežencích, jak se to od nich ukázalo v burgundských válkách. Takovou svévoli toho z Geroldsecku [se dozvěděli] dříve než Spříseženci; vyzbrojili se a táhli spěšně Spřísežencům, a zvláště mým pánům z Luzernu, [ke cti]. K nim měli obzvláštní náklonnost a obě města spolu již dříve ve velkých záležitostech rokovala. Táhli spěšně k Schutternu se svým dělostřelectvem a udatnou zbraní, dobyli městečko a zajatce osvobodili. Nechali je bez jakékoli škody odejít s jejich majetkem a plout do Frankfurtu. Tito poctiví lidé ze Štrasburku táhli potom také před Geroldseck, a tak byla věc odkázána na sněm a válka urovnána."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 157,
+   "popis": "Štrasburští dobývají Schuttern: děla a jezdci před hradbami města"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 157,
+   "text": "na levém okraji u iniciály perokresebné ozdoby"
+  },
+  {
+   "strana": 158,
+   "text": "158 (moderní paginace, levý horní roh); nahoře uprostřed nejasná vybledlá čísla (snad pozdější foliace) […]"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 157,
+   "text": "závěr „vnd der krieg gerichtett“ v edici zkomolen („der — anten“)"
+  },
+  {
+   "strana": 158,
+   "text": "edice 1862 tu má značku „Fol. 78 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak Štrasburští Spřísežencům ke cti vytáhli a zajatce osvobodili",
+ "poznamky_prekladu": [
+  "„meister vnd rat“ = mistr (nejvyšší městský představený) a rada (glosář).",
+  "Věta o tom, kdo se o svévoli dozvěděl, je v originále neúplná; doplněno „[se dozvěděli]“ a podle rubriky „[ke cti]“.",
+  "„on alle engeltniß“ = bez jakékoli škody, bez újmy.",
+  "„zetagen angesetzt“ = věc byla vložena na sněm (k jednání)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1473
+}

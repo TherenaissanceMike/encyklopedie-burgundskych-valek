@@ -1,0 +1,53 @@
+{
+ "cislo": 81,
+ "nadpis": "Wie peter am stalden gan lucern uff jngenomne kuntschafft beschickt vnd dem nach gefangen ward",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 259,
+ "strany": [
+  259,
+  260
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd da die kuntschafft alle das min heren von lucern beducht genůg sin vnd dero so vil was das an vil minderer genůg wär gewäsen da verordnetend min heren durch ein vogt ze entlibůch was der fenrich fanckhuser hin jn gan entlibůch zeritten vnd petern am stalden nit gefenglich aber sunst vmb eren[?] vnd sins geschlächtz willen jn jr statt zebringe[n] Das ouch vmb sant bartholomeus tag jm lxxviij jar beschach vnd alß er sich nüt böß versach dan[n] ein güte[n] müt mit minen heren zehaben so bald er gan lucern kam ward er gefenglich angenome[n] vnd angendtz jn wasserturn gefürt Darab er vast übel erschrack vnd fieng an der sach nach ze synnen vnd wie wol er jm nit glich[?] […] wust er doch vast wol was jm wurd begegnen",
+   "preklad": "A když se mým pánům z Luzernu zdálo, že svědectví je dost, a bylo jich tolik, že by stačilo i mnohem méně, ustanovili moji páni skrze fojta v Entlebuchu, jímž byl praporečník Fanckhuser, aby tam do Entlebuchu zajel a přivedl Petera am Stalden do jejich města, ne jako zajatce, nýbrž jinak, kvůli cti [?] a kvůli jeho rodu. To se také stalo kolem svatého Bartoloměje v roce [14]78. A když nečekal nic zlého, než že si s mými pány udělá dobrou mysl, byl, jakmile přišel do Luzernu, zajat a ihned odveden do Vodní věže. Z toho se velmi zle polekal a začal o té věci přemýšlet; a ačkoli nikoli stejně [?] […], věděl přece velmi dobře, co ho potká."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 259,
+   "popis": "zatčení Petera am Stalden: muži ho vedou ulicí kolem kašny, vpravo kůň"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 259,
+   "text": "na pravém okraji u ř. 8 pozdější rukou „1478“"
+  },
+  {
+   "strana": 260,
+   "text": "260 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 259,
+   "text": "ř. 7 edice 1862 má na začátku řádku hvězdičku („* vnd ſins geſchlächtz“), rukopis „vmb eren[?] vnd sins geschlächtz“; ř. 14 edice zkomolená („nit glich au wuſt“); ř. 4 rukopis „ze entlibůch“, edice „zuo Entlibuoch“"
+  },
+  {
+   "strana": 260,
+   "text": "strana bez iluminace; prosvítá iluminace z druhé strany listu (s. 261 / 262). Text končí asi ve 4/5 výšky strany. Modré čárky v textu přepsány jako „/“."
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "Jak byl Peter am Stalden na základě získaných svědectví povolán do Luzernu a potom zajat",
+ "poznamky_prekladu": [
+  "„vmb sant bartholomeus tag jm lxxviij jar“ = kolem 24. 8. 1478; pozdější ruka připsala na okraj „1478“.",
+  "„fenrich“ = praporečník; Fanckhuser byl tehdy fojtem v Entlebuchu.",
+  "„vmb eren[?]“ – nejisté čtení přepisu.",
+  "Konec odstavce je porušený: „wie wol er jm nit glich[?] […] wust er doch“ – za nejistým „glich“ je nečitelné místo; smysl zřejmě „ačkoli si to nepřipouštěl…“, překlad ponechán neúplný.",
+  "wasserturn = Vodní věž (Wasserturm) v Luzernu, věznice a archiv."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1478
+}

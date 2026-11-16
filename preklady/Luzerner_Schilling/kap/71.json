@@ -1,0 +1,47 @@
+{
+ "cislo": 71,
+ "nadpis": "Wie jederman heim vnd den nächsten gan basel zoch Da verhieß der hertzog den sold zegeben alß er ouch tett",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 243,
+ "strany": [
+  243,
+  244
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd glich morndes[?] nach der heiligen dryer küngen tag zoch jederman wie dann der bescheid was gan basel zů Da was verheissen jederman sin sold zegäben wie er ouch erlich[en] tett vnd alß man den sold zů basel hatt entpfangen zoch man mit grossen eren vnd fröud[en] wider heim vnd alß man heim kam begab es sich eben das jn den selben zitten der türck der cristenheit vil not vnd kumers zů fügt an lüten vnd landen sunderlich jm vngerland vnd allenthalben an den anstössen ouch an land[en] vnd stetten so der helgen cristenlichen kilchen zů gehorten Er hatt ouch ein solliche grosse macht das sixtus der zů denen zitten bapst was tag vnd nacht jn grossen sorgen stůnd vnd můst tag vnd nacht vil soldner uff dem mer haben Des glich stieß ouch mathiasken dem küng von vngern zehanden Der was vast ein güter crist vnd satzt sich sollicher maß wider den türcken das darmit vil lüt vnd land beschirmt wurden Die sunst verderpt wärend worden",
+   "preklad": "A hned nazítří [?] po svátku Tří králů táhl každý, jak bylo ujednáno, do Basileje. Tam bylo každému slíbeno, že dostane svůj žold, jak to [vévoda] také čestně splnil. A když v Basileji žold přijali, táhli s velkou ctí a radostí zase domů. A když přišli domů, stalo se právě, že v těch časech Turek působil křesťanstvu mnoho nouze a soužení na lidech i zemích, zvláště v Uhrách a všude na hranicích, také na zemích a městech, které patřily ke svaté křesťanské církvi. Měl také tak velkou moc, že Sixtus, který byl v těch časech papežem, byl dnem i nocí ve velkých starostech a musel dnem i nocí držet na moři mnoho žoldnéřů. Totéž potkalo také Mathiaska, uherského krále. Ten byl velmi dobrý křesťan a postavil se proti Turkovi takovým způsobem, že tím bylo ochráněno mnoho lidí a zemí, které by jinak byly zahubeny."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 243,
+   "popis": "vojsko táhne do města u řeky (Basilej)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 244,
+   "text": "244 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 243,
+   "text": "ř. 1 edice 1862 má na místě slova za „glich“ pomlčku, rukopis snad „morndes“; ř. 1 rubrika v edici zkomolená OCR („Merinän hem … Da Bei der Berbon hen“), rukopis: „Wie jederman heim vnd den nächsten gan basel zoch Da verhieß der hertzog den sold zegeben“"
+  },
+  {
+   "strana": 244,
+   "text": "strana bez iluminace; edice 1862 tu má značku „Fol. 120 b.“ a „(Zwei Bilder.)“, obrazy jsou až na s. 245"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak se každý vydal domů a nejprve do Basileje. Tam vévoda slíbil vyplatit žold, jak to také učinil",
+ "poznamky_prekladu": [
+  "„nazítří po svátku Tří králů“ = 7. 1. 1477, den po svátku Zjevení Páně (6. 1.), dva dny po bitvě u Nancy (5. 1. 1477) (mimo přepis). Slovo „morndes“ (nazítří) je v přepisu nejisté [?], edice 1862 má na jeho místě pomlčku.",
+  "Vévodou, který vyplácel žold, je míněn lotrinský vévoda René II., v jehož žoldu Spříseženci u Nancy bojovali (mimo přepis); text ho jménem neuvádí.",
+  "Sixtus = papež Sixtus IV. (1471–1484); Mathiasken = uherský král Matyáš Korvín (1458–1490) (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1477
+}

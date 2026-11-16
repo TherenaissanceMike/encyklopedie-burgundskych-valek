@@ -1,0 +1,45 @@
+{
+ "cislo": 76,
+ "nadpis": "Wie die lender denen von friburg vnd soloturn jr bitt gantz abschlugend vnd daruff das burgrächt gemacht vnd beschlossen wart",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 251,
+ "strany": [
+  251,
+  252
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd da also vil tagen harvmb geleistet vnd zů beiden sitten grosser cost müg vn[d] arbeit gebrucht ward vnd ouch sollichs dheins wägs an lendern mocht funden werden woltend dennocht zürch bern vnd lucern die von friburg vnd soloturn nit gantz verschüpfen so doch die selb[en] beid stett nit begärtend sich mit jemand wider die eitgnossen zeuerpinden vnd uff sollichs machtend die von zürch bern vnd lucern ein ewig burgrächt mit denen beiden stetten friburg vnd soloturn vnd sy wider vmb mit jnen verschribend versigleten[d] vnd beuestnetend sollichs der besten form vnd über gabe[n]t die brieff ein andern schribend dem nach alwegen jn jren missiven ein andern mitburger Das aber die vo[n] lendern uff tagen vnd sunst vernamend daran sy nit geuallens sunder groß verdriessen hattend",
+   "preklad": "A když se kvůli tomu konalo tolik sněmů a na obou stranách bylo vynaloženo mnoho nákladů, námahy a práce, a u zemí se to nijak nedalo prosadit, přesto nechtěly Curych, Bern a Luzern Fribourgské a Solothurnské úplně odstrčit, zvláště když si tato dvě města nepřála spolčit se s někým proti Spřísežencům. A na to učinili Curyšští, Bernští a Luzernští s oběma městy, Fribourgem a Solothurnem, věčné měšťanské právo (burgrecht) a ona zase s nimi. Sepsali, zpečetili a stvrdili to v nejlepší formě, předali si navzájem listiny a od té doby se ve svých listech vždy navzájem titulovali spoluměšťany. To se však dozvěděly země na sněmech i jinak a neměly v tom zalíbení, nýbrž velkou nevoli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 251,
+   "popis": "shromáždění mužů v síni s erby v oknech (uzavření měšťanského práva)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 252,
+   "text": "252 (moderní paginace, levý okraj); nahoře prosvítá foliace z druhé strany listu"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 251,
+   "text": "rubrika v edici 1862 zkomolená OCR („ir bit Han esfhtnognn, on daruff“), rukopis „jr bitt gantz abschlugend vnd daruff“"
+  },
+  {
+   "strana": 252,
+   "text": "edice 1862 tu má značku „Fol. 124 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak země Fribourgským a Solothurnským jejich prosbu zcela odmítly a jak potom bylo uzavřeno a stvrzeno měšťanské právo",
+ "poznamky_prekladu": [
+  "Burgrecht pěti měst (Curych, Bern, Luzern, Fribourg, Solothurn) byl uzavřen v květnu 1477 (mimo přepis); text datum neuvádí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1477
+}

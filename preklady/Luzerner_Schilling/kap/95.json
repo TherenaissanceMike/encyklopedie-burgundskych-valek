@@ -1,0 +1,38 @@
+{
+ "cislo": 95,
+ "nadpis": "Wie frisch hans teiling sälig zürich gefangen vnd vmb ein liederlich sach enthoptet ward",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 281,
+ "strany": [
+  281
+ ],
+ "odstavce": [
+  {
+   "text": "Der grossen ritterlichen tat vnd etwz jaren nach der schlacht zů girnis Darin sich dann frisch hans teiling ouch ander erlich vnd redlich gehalten wol hatt er jn schimpff vnd gůter geselschafft by dem win etwz worten dero von zürch paner berürend gerett die jm aber verkert vnd zů bösem dar gemässen wurdent wan alß hans teilig uff ein zit gan zürch jn jr mäß kam der meynung tůch da feil zehaben fiengend jnn die von zürch leitend jnn jn wellenberg Das nu min heren von lucern ylendtz bericht wurdent schicktend schnell mit sine[n] fründen jr treffenlich bottschafft gan zürch sy zebitten jren zorn abzestellen vnd die wort so gerett wärend worden nit so hoch zefassen vnd jnen die sachen ouch den man ze über gäbent etc. aber min heren sungend süß oder sur so mocht es anders nit ergan wann dz die von zürch frisch hansen den kopf abhüwend Das ein grossen vnwillen macht zwüschend miner heren von lucern vnd denen von zürch wan der waldman seit zürich uff dem rathuß miner heren von lucern bottschafft sy söltend sich darnach richten vnd wie frisch hans so groß alß der kilchen turn so möcht jn sollichs nit geschirmen wann er müst stärben",
+   "preklad": "Po velkém rytířském činu a několik let po bitvě u Giornica, v níž se Frischhans Teiling i jiní čestně a statečně zachovali, řekl [Teiling] žertem a v dobré společnosti u vína několik slov týkajících se curyšské korouhve. Ta mu však byla překroucena a vyložena ve zlém. Neboť když Hans Teiling jednou přišel do Curychu na jejich trh s úmyslem prodávat tam sukno, Curyšští ho chytili a uvrhli do Wellenbergu. Když se to moji páni z Luzernu spěšně dozvěděli, rychle poslali s jeho přáteli do Curychu své významné poselstvo, aby je prosilo, aby upustili od svého hněvu, nebrali ta slova, která byla řečena, tak vážně a vydali jim tu věc i toho muže atd. Ale ať moji páni zpívali sladce nebo kysele, nemohlo to dopadnout jinak, než že Curyšští Frischhansovi usekli hlavu. To způsobilo velkou nevoli mezi mými pány z Luzernu a Curyšskými, neboť Waldmann řekl v Curychu na radnici poselstvu mých pánů z Luzernu, ať se podle toho zařídí, a i kdyby byl Frischhans tak velký jako kostelní věž, nemohlo by ho to ochránit, protože musí zemřít."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 281,
+   "popis": "poprava Frischhanse Teilinga v Curychu: odsouzený klečí před kaplí, kat napřahuje meč, vlevo duchovní a měšťan, vpravo ozbrojenci a jezdec; dolní polovina strany v červeném rámu"
+  }
+ ],
+ "okraje": [],
+ "poznamky": [
+  {
+   "strana": 281,
+   "text": "v edici 1862 tato kapitola (s porušenou značkou „Fol. 150)“, asi Fol. 139) stojí uprostřed kapitoly o Hochenburgovi; v rukopisu následuje přímo po s. 280. Konec kapitoly je v edici porušený („vnd — 508 es on bam, . act im … geſchirmen, wann dz cee Kaen, ee es“); rukopis: „vnd wie frisch hans so groß alß der kilchen turn so möcht jn sollichs nit geschirmen wann er müst stärben“. Rubrika v edici nečitelná („w. Bean Sting ſaͤlig Zurch n nd vmb ein lederlich ſac“)."
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak byl nebožtík Frischhans Teiling v Curychu zajat a kvůli lehkovážné věci sťat",
+ "poznamky_prekladu": [
+  "Frischhans Teiling (Theiling) byl sťat v Curychu roku 1487 (mimo přepis); Schilling rok neuvádí.",
+  "„wellenberg“ = Wellenberg, vězeňská věž v Limmatu v Curychu (mimo přepis). „mäß“ = trh, jarmark.",
+  "„sungend süß oder sur“ – ustálené rčení, přeloženo doslova („ať zpívali sladce nebo kysele“), tj. ať prosili jakkoli.",
+  "„liederlich sach“ v rubrice = lehkovážná, malicherná věc."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1487
+}

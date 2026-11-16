@@ -1,0 +1,57 @@
+{
+ "cislo": 87,
+ "nadpis": "Hie koufftend min heren von lucern wärdenberg von den graffen von musackx beherschetend das also sächs jar vnd gabend das dem nach eim von castelwart ze kouffen Der ward jr burger vnd kam am letsten zů dornach vmb Da kam es an die von höwen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 269,
+ "strany": [
+  269,
+  270
+ ],
+ "odstavce": [
+  {
+   "text": "[J]m vierhundersten vnd sächs vnd achtzigosten jar koufftend min heren von lucern Das schloß statt vnd herschafft grund vnd boden wärdenberg von den graffen von musackx vmb zwey vnd zwäntzig tusend guldin darumb dann ein stür zů lucern angeleit vnd daruff bezalt wart Die selbe[n] herschafft fiengend sy an zebevogten vnd satztend zů eim vogt zum ersten dahin volrichen veissen zwey jar Dem nach aber zwey jar hans sunenberg vnd die letsten zwey jar hansen grepper alle des rates vnd was ein vnelicher von musackx hieß her caspar ein torechter priester Dem gabend min heren ein pfrůnd das selb ouch jm kouff berett wart vnd jn dissem warb der von castelwart an min heren von lucern jm die herschafft zekouffen zegäben wie die an sy komen wäre doch jnn darmit zů burger uff zenämen Das ouch min heren uß mengerley vrsach willen tatend wann es was jnen nit wol gelägen vnd nit allen eitgnossen wol zewillen wie gar min heren nieman darvon hat mögen trengen vnd also ward man zerat vnd gab jm das doch das er vnd sin erben ouch die jn der herschafft burg[er][?] soltend zů lucern sin vnd ein grosse sum geltes ward jm zezinsen geschlagen aber er hielt das burgrächt schlächtlich wand er zoch wider gemei[n] eitgnossen jm schwabischen krieg kam zů tornach vmb vnd also wärdenberg an die jungen heren von höwen alß sin erben",
+   "preklad": "Roku čtrnáctistého osmdesátého šestého koupili moji páni z Luzernu od hrabat von Musackx hrad, město a panství Werdenberg s půdou za dvaadvacet tisíc zlatých; kvůli tomu byla v Luzernu vypsána daň a z ní [kupní cena] zaplacena. To panství začali spravovat skrze fojty a jako prvního fojta tam dosadili na dva roky Volricha Veisse, po něm na dva roky Hanse Sunenberga a poslední dva roky Hanse Greppera, všechny z rady. Byl tam také jeden nemanželský [syn] von Musackx jménem pan Caspar, prostoduchý kněz; tomu dali moji páni obročí, což bylo také ujednáno při koupi. Mezitím se ten z Castelwartu ucházel u mých pánů z Luzernu, aby mu panství dali koupit tak, jak na ně připadlo, a aby ho přitom přijali za měšťana. To moji páni z mnoha příčin také učinili, neboť jim [panství] neleželo příhodně a nebylo to po vůli všem Spřísežencům, ačkoli mé pány od něj nikdo nemohl vytlačit. Usnesli se tedy a dali mu je, avšak tak, že on a jeho dědicové i ti z panství mají být měšťany [?] v Luzernu, a velká suma peněz mu zůstala na něm k úročení. Měšťanské právo však dodržel špatně, neboť ve Švábské válce táhl proti všem Spřísežencům, padl u Dornachu, a tak připadl Werdenberg mladým pánům von Höwen jako jeho dědicům."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 269,
+   "popis": "lucernští vyslanci přebírají hold ve Werdenbergu – zástup lidí před městem a hradem, v pozadí hory a jezero; dolní polovina strany v hnědém rámu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 269,
+   "text": "1486 (vpravo vedle prvního řádku textu)"
+  },
+  {
+   "strana": 270,
+   "text": "270 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 269,
+   "text": "místo pro iniciálu J vynecháno (nevyplněno), první čtyři řádky odsazeny"
+  },
+  {
+   "strana": 269,
+   "text": "rubrika: rukopis „dornach“, text dole „tornach“; poslední řádek edice porušená („vnd alſo ge an die jungen heren von Höwen 80 ſin erben“), rukopis „vnd also wärdenberg an die jungen heren von höwen alß sin erben“."
+  },
+  {
+   "strana": 270,
+   "text": "edice 1862 tu má značku „Fol. 133 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Zde moji páni z Luzernu koupili Werdenberg od hrabat von Musackx, ovládali ho tak šest let a pak ho dali koupit jednomu z Castelwartu. Ten se stal jejich měšťanem a nakonec padl u Dornachu. Tu [Werdenberg] připadl pánům von Höwen",
+ "poznamky_prekladu": [
+  "„graffen von musackx“ = hrabata ze Sax-Misoxu (mimo přepis); jméno ponecháno podle pramene. Letopočet 1486 i na okraji; podle jiných pramenů koupil Luzern Werdenberg již 1485 (mimo přepis, neověřeno, nesoulad ponechán).",
+  "„stür“ přeloženo „daň“; „bevogten“ = spravovat skrze fojty. Jména fojtů ponechána podle pramene.",
+  "„ein torechter priester“ = prostoduchý (pošetilý) kněz; „pfrůnd“ = obročí.",
+  "„burg[er][?]“ – rozepsání nejisté.",
+  "Schwabischer krieg = Švábská válka 1499, bitva u Dornachu 22. 7. 1499 (mimo přepis). Rubrika píše „dornach“, text „tornach“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1485
+}

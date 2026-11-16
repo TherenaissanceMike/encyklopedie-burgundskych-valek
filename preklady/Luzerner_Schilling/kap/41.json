@@ -1,0 +1,48 @@
+{
+ "cislo": 41,
+ "nadpis": "Wie ein groß mort zů basel beschach vnd wust nieman wer das getan hat",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 189,
+ "strany": [
+  189,
+  190
+ ],
+ "odstavce": [
+  {
+   "text": "Eben vor den burgunschen kriege[n] by hagenbachs zitten beschach ein groß mort zů basel vnd kond nieman wüssen wer das getan hatt Jn einem huß ze basel was ein alte riche frow vn[d] ein altz mennli ouch ein dienst magt vnd ein cleines meitli Die wurdend all uff ein nacht ermürt ouch ward ein armer mönsch hieß pfaff roßschwantz darvmb übel gemartert Dem aber vast vnrecht geschach wann dem nach über ein lange zitt was ein barfůß münch zů rom ouch vmb ander sachen gefangen der veriach der[?] sollich mort zů basel hatt volbracht Den selben münch verbrant man",
+   "preklad": "Krátce před burgundskými válkami, v Hagenbachově době, se v Basileji stala velká vražda a nikdo nemohl vědět, kdo ji spáchal. V jednom domě v Basileji byla stará bohatá žena a starý mužíček, také služebná a malé děvčátko. Ti všichni byli jedné noci zavražděni. Kvůli tomu byl ubohý člověk jménem kněz Roßschwantz zle mučen. Tomu se však stala velká křivda, neboť po dlouhé době byl potom v Římě zajat kvůli jiným věcem jeden bosák a ten přiznal, že [?] tu vraždu v Basileji spáchal. Toho mnicha upálili."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 189,
+   "popis": "vražda v basilejském domě, mrtvá těla v místnosti"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 190,
+   "text": "190 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 189,
+   "text": "edice 1862 má ř. 11–13 zkomolené („gefangen. gern er ſollich mort … volbracht“ a nečitelný zbytek); rukopis „der veriach der[?] sollich mort zů basel hatt volbracht Den selben münch verbrant man“"
+  },
+  {
+   "strana": 190,
+   "text": "edice 1862 tu má značku „Fol. 94 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak se v Basileji stala velká vražda a nikdo nevěděl, kdo ji spáchal",
+ "poznamky_prekladu": [
+  "„hagenbachs zitten“ = doba, kdy Peter von Hagenbach spravoval zástavní území v Horním Porýní (1469–1474; mimo přepis).",
+  "„pfaff roßschwantz“ – jméno ponecháno („pfaff“ = kněz, kaplan).",
+  "„barfůß münch“ = bosák, františkán.",
+  "„der[?]“ – nejisté čtení; v překladu „že [?]“. Edice 1862 je zde zkomolená."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

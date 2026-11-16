@@ -1,0 +1,49 @@
+{
+ "cislo": 8,
+ "nadpis": "Von her richarten von hochenburg von straßburg vnd wz vnrůw von jm uff erstůnd",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 148,
+ "strany": [
+  148,
+  149
+ ],
+ "odstavce": [
+  {
+   "text": "Dazemal vnd jn den selben tagen was ouch ein vast richer ritter von straßburg der dan[n] ein böckin daselbs zů eim elichen wib hat Der selb hieß her richart von hochenburg lag lang zit jn des bischoffs von straßburg gefengniß von eins bösen lümbden vnd geschreys wäge[n] darvm[b] das er ein knaben ließ ertrencken mit dem er sin můtwillen solt haben verbracht Des halben er sin eigen jnsigel felschet vnd die vrfech so er schwůr nit hielt wan[n] er für lange zitt vmb hilff wider ein loblich[e] statt von straßburg zesůchen Die aber jnn nit gefang[en] noch des sinen wenig jnnhatte anders dan[n] sin wib Die wolt nit mit jm huß halten Doch fand er am letsten bystand wie dz zů siner zit nit wirt verhalten sunder me dann jn eim capittel von siner bůberig gehört vnd verstanden wie biderblüt zum dickern[?] mal durch sollich betrieger werdend überfürt",
+   "preklad": "Tehdy a v těch dnech byl také jeden velmi bohatý rytíř ze Štrasburku, který tam měl za manželku jednu z rodu Bocků. Jmenoval se pan Richart von Hochenburg. Dlouhý čas ležel ve vězení štrasburského biskupa kvůli zlé pověsti a řečem, protože dal utopit chlapce, s nímž prý provozoval svou zvůli. Proto zfalšoval svou vlastní pečeť a přísahu nepomsty (urfehde), kterou odpřisáhl, nedodržel. Dlouhý čas totiž chodil hledat pomoc proti chvályhodnému městu Štrasburku, které ho však nevěznilo a ze všeho jeho nedrželo nic než jeho ženu; ta s ním nechtěla hospodařit. Nakonec však našel podporu, jak se ve své době nezamlčí, nýbrž o jeho darebáctví se uslyší a pochopí ve více než jedné kapitole – jak bývají poctiví lidé častěji [?] takovými podvodníky svedeni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 148,
+   "popis": "Richard von Hohenburg; utopení chlapce ve vodě u hradu, muži předávají listinu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 149,
+   "text": "lxxiiii (původní foliace, nahoře uprostřed); 149 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 148,
+   "text": "závěr „gehört vnd verstanden wie biderblüt zum dickern[?] mal durch sollich betrieger“ je v edici 1862 zkomolen"
+  },
+  {
+   "strana": 149,
+   "text": "edice 1862 tu má značku „Fol. 74.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "O panu Richartovi von Hochenburg ze Štrasburku a jaký neklid kvůli němu vznikl",
+ "poznamky_prekladu": [
+  "„ein böckin“ = žena z rodu Bock (štrasburský patricijský rod, mimo přepis).",
+  "„můtwillen verbracht“ – opis obvinění ze sodomie.",
+  "„vrfech“ = urfehde, přísaha nepomsty při propuštění z vězení; v glosáři chybí.",
+  "„zum dickern[?] mal“ – čtení nejisté, smysl „častěji, mnohdy“.",
+  "Richard von Hohenburg (Hochenburg) později hledal pomoc u Hagenbacha a Burgundska (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1463
+}

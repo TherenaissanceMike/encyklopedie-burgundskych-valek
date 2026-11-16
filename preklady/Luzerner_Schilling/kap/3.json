@@ -1,0 +1,46 @@
+{
+ "cislo": 3,
+ "nadpis": "Wie die von mülhusen den brieff entpfiengend vnd was für ein antwurt gabend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 142,
+ "strany": [
+  142,
+  143
+ ],
+ "odstavce": [
+  {
+   "text": "Als nu der bott mit sollichem brieff gan mülhusen kam vnd die von mülhusen den brieff verhortend hattend sy nit gevallens an der sach Doch wurdent sy zerat schicktend dem von regeßheim uff sin schribe[n] ouch ein brieff vnd darin ein schlächte antwurt sy hättend jr gelten wolzebezalen vnd jnn noch nie gebett[en] das oder anders jnen darzelichen Sy wöltend sich ouch vmb sollichs vnd noch vil me nit lassen vertriben Doch so sässend sy jn gůte[n] gerichten dero sy sich troste[n] ouch des das sy hans küffern by jrem eignen botte[n] das gelt zů geschickt hättend das er ouch billich solt habe[n] entpfangen da er den botten doch gesach komme[n] vnd nit sin geflohen vnd meintend damit die von mülhusen sy wärend dem von regeßheim witer nit schuldig noch pflichtig",
+   "preklad": "Když tedy posel s tím listem přišel do Mulhouse a Mulhouseští si ten list vyslechli, neměli v té věci zalíbení. Usnesli se však a poslali tomu z Regeßheimu na jeho psaní také list a v něm prostou odpověď: že jsou dobře s to zaplatit svým věřitelům a nikdy ho ještě nežádali, aby jim to nebo něco jiného půjčoval. Kvůli tomu ani kvůli mnohem většímu se prý nedají vyhnat. Sedí však pod dobrými soudy, na něž se spoléhají, a také na to, že Hansi Küfferovi poslali peníze po svém vlastním poslu, které měl také právem přijmout, když přece posla viděl přicházet, a neměl utíkat. A Mulhouseští tím mínili, že tomu z Regeßheimu nejsou dále nic dlužni ani povinni."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 142,
+   "popis": "městská rada Mülhausenu u stolu pod lípou před městem, čtení dopisu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 143,
+   "text": "lxxi (původní foliace, nahoře uprostřed); 143 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 142,
+   "text": "závěr „vnd meintend damit die von mülhusen sy wärend dem von regeßheim witer nit schuldig noch pflichtig“ v edici 1862 chybí (končí „nit sin geflohen“)"
+  },
+  {
+   "strana": 143,
+   "text": "edice 1862 tu má značku „Fol. 71.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak Mulhouseští list přijali a jakou dali odpověď",
+ "poznamky_prekladu": [
+  "„sy hättend jr gelten wolzebezalen“ = jsou dobře schopni zaplatit svým věřitelům (gelten = věřitelé, dlužníci).",
+  "Závěrečná věta (od „A Mulhouseští tím mínili“) v edici 1862 chybí, je jen v rukopisu (viz poznámka přepisu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1465
+}

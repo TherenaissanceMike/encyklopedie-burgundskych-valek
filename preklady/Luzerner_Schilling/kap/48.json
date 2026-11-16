@@ -1,0 +1,45 @@
+{
+ "cislo": 48,
+ "nadpis": "Wie man die vygend zů gransen jn ein grosse flucht / sy vmb bracht jren[?] cleinot vnd anders gewan / wie jm nach gend capittel ouch gehört wirt",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 202,
+ "strany": [
+  202,
+  203
+ ],
+ "odstavce": [
+  {
+   "text": "Da nu die fromen manhafften die eitgnossen des hertzogen von österich / Die nidern stett vnd all and[er] verwanten so ritterlich vnd vnerzagt jn die burgunder[?] vnd jr vigend fielend / wolt der selb[en] vigenden keiner me beiten noch gestan sunder so fluhend sy das jr keiner me hinder sich lugt vnd liessend der hertzog vnd die sinen dahinden aller jr gůt so sy mit jnen dahin bracht hattend gold silber gelt vnd des glich silber geschir edel gestein vnd mengerley cleinot vnd des vnsäglich vil / wie wol an dem end wenig lüten vmkam / Doch kam ein mächtiger landtsherr vmb hieß der von schattegu Der verlor ouch sin paner die er selber fůrt die was wiß brun vnd blaw / Die gewann Heini elsner von lucern Den man nampt boßherin[?] / Der bracht sy ouch erlichen jn miner heren von lucern statt da hanget sy zů den barfüssen / Die selb paner hat jn der mitte ein guldin andres crütz / vnd also gab got den eitgnosse[n] glück das sy jr vigend verjagtend vnd das sy obgelagend",
+   "preklad": "Když se nyní ti stateční a mužní Spříseženci, [lidé] vévody Rakouského, Dolní města a všichni ostatní spojenci tak udatně a neohroženě vrhli na Burgunďany [?] a své nepřátele, nechtěl už nikdo z těch nepřátel vyčkávat ani vydržet. Naopak utíkali tak, že se žádný z nich už neohlédl. A vévoda i jeho lidé nechali za sebou všechen svůj majetek, který si s sebou přivezli: zlato, stříbro, peníze, a stejně tak stříbrné nádobí, drahé kameny a mnohé klenoty, a toho nevýslovně mnoho. Ačkoli na tom místě zahynulo málo lidí, přece padl jeden mocný zemský pán, jmenoval se pán ze Schattegu. Ten ztratil také svou korouhev, kterou sám nesl; byla bílá, hnědá a modrá. Tu získal Heini Elsner z Luzernu, kterému se říkalo Boßherin [?]. Ten ji také se ctí přinesl do města mých pánů z Luzernu, kde visí u bosáků. Ta korouhev má uprostřed zlatý ondřejský kříž. A tak dal Bůh Spřísežencům štěstí, že své nepřátele zahnali a že zvítězili."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 202,
+   "popis": "kořist z Grandsonu: místnost se stolem, truhlami, nádobím, zbraněmi a rouchy"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 203,
+   "text": "C (původní foliace, nahoře uprostřed); 203 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 202,
+   "text": "text edice 1862 je v tomto úseku (Fol. 100) v OCR téměř zničen, srovnání možné jen u posledních řádků („bracht sy ouch erlichen in miner heren von Lucern statt … guldin Andres crütz … glück, das sy ir vigend“); rozdíl: edice „in der mitten“, rukopis „jn der mitte“"
+  }
+ ],
+ "nejista_mista": 3,
+ "nadpis_preklad": "Jak byli nepřátelé u Grandsonu obráceni na velký útěk, jak byli připraveni o své [?] klenoty a jak se získalo i jiné, jak se také uslyší v následující kapitole",
+ "poznamky_prekladu": [
+  "„der von schattegu“ – podle všeho Louis de Chalon, pán z Châteauguyonu, který u Grandsonu padl (určení mimo přepis); jméno v textu ponecháno podle pramene.",
+  "„Burgunder[?]“ – nejisté čtení přepisu, přeneseno.",
+  "Přezdívku „boßherin[?]“ přepis čte nejistě; význam nejasný, ponecháno v originále.",
+  "„zů den barfüssen“ = v kostele bosáků (františkánů, minoritů) v Luzernu; „obgelagend“ = zvítězili (obliegen = zvítězit, udržet pole).",
+  "Ondřejský (šikmý) kříž byl burgundským polním znamením; pro reenactory: ukořistěná korouhev bílo-hnědo-modrá se zlatým ondřejským křížem uprostřed."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

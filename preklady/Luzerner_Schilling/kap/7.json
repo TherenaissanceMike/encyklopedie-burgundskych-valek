@@ -1,0 +1,47 @@
+{
+ "cislo": 7,
+ "nadpis": "Von zweyen gebrüdern vnd landes heren ludwig[en] vnd jacoben von liechtenberg",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 147,
+ "strany": [
+  147,
+  148
+ ],
+ "odstavce": [
+  {
+   "text": "Es warend ouch dazemal zwen landz heren rächt elich gebrüder namlich ludwig vn[d] jacob von liechtenberg Die kamend mit ein ander vmb jr vätterlich erb ouch ettliche stett vnd schlösser zů grossem krieg Es wäre vmb nüwwiler buswiler vnd jngwiler Dar zů dann jeglich[er] vermeint rächt zehaben / Des halben ludwig von liechte[n]berg die statt nüwwiler belägert vnd sollich maß mit geschütz vnd anderm nötiget das sich jemer die arme[n] lüt darin uff gabend vnd er sy gewan Doch hatt er für sich gesetzt alle man darin ze ertöten Es lit aber ein helger lyphafftig jn der statt Da gieng ein red uß die vyend hättend jnn uff der mur gesähen Des halben er jnen dz laben zů seit Ouch leitend sich ettlich heren her anthoni von ochsenstein die von pitsch die von straßburg vnd ander darin der maß dz die zwen brüder gericht vnd mit ein ander wider eins wurdend",
+   "preklad": "V té době byli také dva zemští páni, praví vlastní bratři, totiž Ludwig a Jacob von Lichtenberg. Ti se spolu dostali do velké války o své otcovské dědictví a také o několik měst a hradů, totiž o Neuwiller, Bouxwiller a Ingwiller, na něž si každý myslel, že má právo. Proto Ludwig von Lichtenberg oblehl město Neuwiller a tak je děly i jinak sužoval, že se mu chudí lidé v něm nakonec vzdali a on je dobyl. Předsevzal si však pobít všechny muže v něm. Ve městě však ležel tělesně jeden světec. Tu se rozneslo, že ho nepřátelé viděli na hradbě, a proto jim slíbil život. Také se do toho vložili někteří páni – pan Anthoni von Ochsenstein, páni z Bitsche, Štrasburští a jiní – tak, že oba bratři byli usmířeni a znovu se spolu shodli."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 147,
+   "popis": "obléhání Neuwilleru, ozbrojenci s korouhvemi táhnou před bránou města"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 147,
+   "text": "na levém okraji u ř. 10–13 velká značka (paragraf/nota)"
+  },
+  {
+   "strana": 148,
+   "text": "148 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 148,
+   "text": "edice 1862 tu má značku „Fol. 78 b.“ (zřejmě chyba OCR za 73 b.)"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "O dvou bratrech a zemských pánech Ludwigovi a Jacobovi von Lichtenberg",
+ "poznamky_prekladu": [
+  "Nüwwiler, Buswiler, Jngwiler = Neuwiller-lès-Saverne, Bouxwiller, Ingwiller v Dolním Alsasku; Pitsch = Bitche (mimo přepis).",
+  "„ein helger lyphafftig“ = světec přítomný tělesně, tj. jeho ostatky; v Neuwilleru se uctíval sv. Adelphus (mimo přepis).",
+  "Lichtenberský bratrský spor probíhal kolem roku 1470 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1463
+}

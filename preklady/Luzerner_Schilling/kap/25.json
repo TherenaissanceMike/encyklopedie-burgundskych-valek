@@ -1,0 +1,57 @@
+{
+ "cislo": 25,
+ "nadpis": "Wie diß den eitgnossen für kam vnd wie sy zů brysach jnritten vnd wz hagenbach jm turn darzů rett",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 167,
+ "strany": [
+  167,
+  168,
+  169
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd uff sollichen hertzog Sigmundz vnd siner räten rat vnd anschlag ward der handel den acht orte[n] der eitgnoschafft gemeinlich verkündet vnd alles nach notturfft endeckt Die ouch nach gehaltne[n] tagen darvmb jr treffenlichen bottschafft dahin verordnete[n] Dahin von minen heren von lucern her heinrich hassfurt[er] ritter vnd ludwig kram[er] beid schultheissen geschickt würd[ent] Nu lag hagenbach jn eine[m] turn uff einem tor dar durch die so zů tagen kamend von eitgnossen jn die stat müstend ritten das er das getön vnd die roß wol mocht hören vnd wenn je zů zitten ein huff kam ritten so fraget er alwägen wenn man jm ze essen bracht wer da wäre komen Das treib er souil bitz uff den tag dz der eitgnossen botten ouch kamend Die selben hattend den merteil roß denen gemünchet was vnd die kein mäni hand vnd beschroten sind vnd alß er sy ouch hat gehört komen fraget er aber wer die so da jngeritten wärend Da sprach der stattknächt er kante sy nit aber sy hättend den mere[n] teil beschorne roß Da sprach hagenbach O so ist min läbe[n] uß wann ich hör das die Switzer jm land sind vnd erschrak hart darab wann er wust vnd gedacht an das so er der eitgnossen botten zů basel getan hat wie vor gehört ist etc[etera] Je doch so kamend gan brisach hertzog Sigmunds rät der stetten vnd lantschafft treffelich bottschafft ouch miner heren der eitgnossen jnn zeberächtigen vnd sunderlich kam dahin her herma[n] von eptingen ritter der vor dem hagenbach lantuogt was gewesen mit eine[m] herolden disse ding zum end zebringen",
+   "preklad": "Na takovou radu a návrh vévody Zikmunda a jeho radních byla ta věc oznámena všem osmi místům (kantonům) Spříseženstva a vše podle potřeby vyloženo. Ta také po uspořádaných sněmech vyslala do Breisachu své vzácné poselstvo. Od mých pánů z Luzernu tam byli vysláni pan Heinrich Hasfurter, rytíř, a Ludwig Kramer, oba starostové. Hagenbach ležel ve věži nad branou, kterou museli vjíždět do města ti ze Spříseženců, kteří přijížděli na sněm, takže dobře slyšel dusot a koně. A kdykoli přijel nějaký houf, ptal se vždycky, když mu nesli jíst, kdo že to přijel. To dělal tak dlouho, až přišel den, kdy přijeli i poslové Spříseženců. Ti měli většinou koně valachy, kteří nemají hřívu a jsou ostříhaní. A když je uslyšel přijíždět, ptal se opět, kdo jsou ti, kdo právě vjeli. Tu řekl městský biřic, že je nezná, ale že mají většinou ostříhané koně. Tu řekl Hagenbach: „Ó, pak je po mém životě, neboť slyším, že Švýcaři jsou v zemi,“ a velmi se toho zhrozil, neboť věděl a vzpomněl si na to, co učinil poslům Spříseženců v Basileji, jak bylo slyšet výše atd. Do Breisachu pak přišli radní vévody Zikmunda, vzácné poselstvo měst a země, také mých pánů Spříseženců, aby ho soudili. A zvláště tam přišel pan Hermann von Eptingen, rytíř, který byl před Hagenbachem zemským fojtem, s heroldem, aby tuto věc dovedl do konce."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 168,
+   "popis": "vyslanci Spříseženců (rytíři na koních) jedou přes most k branám Breisachu; v bráně věž, kde je Hagenbach vězněn"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 168,
+   "text": "168 (moderní paginace, levý horní roh)"
+  },
+  {
+   "strana": 169,
+   "text": "lxxxiiii (původní foliace, nahoře uprostřed); 169 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 167,
+   "text": "ř. 6 edice „Haffurter“, rukopis „hassfurt[er]“ (Hasfurter); zbytek strany prázdný"
+  },
+  {
+   "strana": 168,
+   "text": "edice 1862 tu má značku „Fol. 83 b.“ (uprostřed slova „mer-teil“); nahoře prosvítá foliace „lxxxiii“ ze s. 167"
+  },
+  {
+   "strana": 169,
+   "text": "edice 1862 tu má značku „Fol. 84.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak se to doneslo Spřísežencům a jak vjeli do Breisachu a co k tomu Hagenbach ve věži řekl",
+ "poznamky_prekladu": [
+  "„acht orte“ = osm míst (kantonů): Curych, Bern, Luzern, Uri, Schwyz, Unterwalden, Zug, Glarus.",
+  "Heinrich Hasfurter (edice „Haffurter“) a Ludwig Kramer – oba luzernští starostové (schultheissen); oproti Bernu 3 Luzern jmenuje vlastní posly.",
+  "„roß denen gemünchet was … kein mäni hand vnd beschroten sind“ = vykleštění koně (valaši) bez hřívy, ostříhaní; podle nich Hagenbach poznal Švýcary.",
+  "„stattknecht“ = městský služebník, zde žalářník; přeloženo „městský biřic“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

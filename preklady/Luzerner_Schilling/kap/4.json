@@ -1,0 +1,48 @@
+{
+ "cislo": 4,
+ "nadpis": "Wie junckher hans von regeßheim uff dero vo[n] mülhusen antwurt jnen abseit",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 143,
+ "strany": [
+  143,
+  144
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd als der bott sinem junckheren disse antwurt von denen von mülhusen bracht ward er darab vast frölich wann mager lüß bissend übel Nu was er darmit vm[b] gang[en] vnd diß sin meynung die wint[er]für davon zebring[en] vnd der sach vast wol zegeniessen / Seit daruff von stundan denen von mülhusen ab Reit ouch angetz uff sollich absagung zů beiden lantuögten namlichen heren thüringe[n] von hallwil lantuogt zů ensheim ouch zů junckher walthern von hallwil dazemal vogt uff lansern clagt jnen trefflich ab dene[n] von mülhusen Die selben lantuögt beid warend jn den tagen nit gůt eitgnossen vnd denen von mülhusen vast vngünstig wann sy wüstend das denen von mülhusen jr härtz alwegen zů den eitgnossen stůnd Darvm[b] tatend sy als die so denen von mülhusen noch den eitgnossen nit hold warend vnd gloubtend dem von regeßheim",
+   "preklad": "A když posel přinesl svému junkerovi tuto odpověď od Mulhouseských, byl z ní velmi rád, neboť hubené vši koušou zle. Šel totiž s tím, že z toho chce mít zimní zásoby a dobře na té věci vydělat. Hned nato vypověděl Mulhouseským nepřátelství. Na základě toho vypovězení také ihned odjel k oběma zemským fojtům, totiž k panu Thüringovi von Hallwil, zemskému fojtovi v Ensisheimu, a také k junkerovi Waltherovi von Hallwil, tehdy fojtovi na Landseru, a důrazně si jim na Mulhouseské stěžoval. Oba ti zemští fojtové nebyli v těch dnech dobrými přáteli Spříseženců a Mulhouseským byli velmi nepříznivě nakloněni, neboť věděli, že Mulhouseští mají srdce vždy u Spříseženců. Proto jednali jako ti, kdo nebyli nakloněni ani Mulhouseským, ani Spřísežencům, a uvěřili tomu z Regeßheimu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 143,
+   "popis": "junker z Regisheimu se dvěma zemskými fojty (Hallwil) před hradem/městem, vyhlášení nepřátelství"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 144,
+   "text": "144 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 143,
+   "text": "„gloubtend“ v edici 1862 zkomoleno („vnd 2 dem“)"
+  },
+  {
+   "strana": 144,
+   "text": "edice 1862 tu má značku „Fol. 71 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak junker Hans von Regeßheim na odpověď Mulhouseských vypověděl nepřátelství",
+ "poznamky_prekladu": [
+  "„mager lüß bissend übel“ = hubené vši koušou zle (přísloví o chudém a hladovém šlechtici).",
+  "„die winterfür“ = zimní zásoba, obživa na zimu.",
+  "„nit gůt eitgnossen“ – doslova „nebyli dobří Spříseženci“, tj. nebyli jim nakloněni.",
+  "Ensheim = Ensisheim (sídlo předorakouské správy v Alsasku), Lansern = hrad Landser v Sundgau (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1465
+}

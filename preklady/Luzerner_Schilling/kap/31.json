@@ -1,0 +1,49 @@
+{
+ "cislo": 31,
+ "nadpis": "Wie keiser friderich sich für nüß leit vnd wän er da hin zeziehen mant",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 177,
+ "strany": [
+  177,
+  178
+ ],
+ "odstavce": [
+  {
+   "text": "Jn dem selben zitt vnd bald nach obgeschribne[n] dinge[n] begab es sich das keiser friderich dem hertzogen von burgundie zetratz sich für nüß leit vnd beleit darin hertzog karle von burgund der dann vil redlicher knächten von eitgnossen by jm hat Nüt dester minder gebott der keiser jm lüt gan nüß zeschicken vnd den hertzog von burgun hälffen zeschädigen Der hertzog von burgun versach sich vorhin des schimpffs darvm[b] dz er den pfand schillig vom hertzog von österich nit wolt nämen wan[n] er wüst die früntschafft zwüschend dem keiser vnd hertzog[en] von österich vnd uff sollichs ließ der hertzog von burgun das land luders elikurt blawmont vnd anders vor vnd e er gan nüß zoch besetzen Da nu min heren von lucern ouch ander eitgnossen vom keiser ouch von hertzog Sigmu[n]den von österich jnhalt der ewigen bericht jm zehälffen gemant wurdend vnd aber beider here[n] manunge[n] wider den hertzog von burgun warend brachend sy uff vnd zůgend gan elikurt",
+   "preklad": "V téže době a brzy po výše popsaných věcech se stalo, že se císař Fridrich na vzdor vévodovi Burgundskému položil před Neuss a oblehl v něm vévodu Karla Burgundského, který měl u sebe mnoho statečných knechtů ze Spříseženců. Nicméně císař přikázal, aby mu poslali lidi k Neussu a pomohli škodit vévodovi Burgundskému. Vévoda Burgundský už předtím tušil tuto potíž, protože nechtěl přijmout zástavní sumu od vévody Rakouského, neboť znal přátelství mezi císařem a vévodou Rakouským. A proto dal vévoda Burgundský obsadit [posádkami] zemi Lure, Héricourt, Blamont a jiné, ještě než táhl k Neussu. Když tedy moji páni z Luzernu i jiní Spříseženci byli císařem i vévodou Zikmundem Rakouským podle obsahu Věčného narovnání vyzváni, aby mu pomohli, a výzvy obou pánů byly proti vévodovi Burgundskému, vytáhli a táhli k Héricourtu."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 178,
+   "popis": "švýcarské vojsko s píkami a praporci táhne k Héricourtu (Elikurt); na hradbách města burgundský prapor, vlevo děla a stany"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 178,
+   "text": "178 (moderní paginace, levý horní roh); 1475 (letopočet na levém okraji u nadpisu)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 177,
+   "text": "zbytek strany prázdný; bez podstatných rozdílů proti edici"
+  },
+  {
+   "strana": 178,
+   "text": "edice 1862 tu má značku „Fol. 88 b.“; na pravém okraji prosvítá kresba rostliny ze s. 179"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak se císař Fridrich položil před Neuss a koho vyzval, aby tam táhl",
+ "poznamky_prekladu": [
+  "Schilling píše, že císař „se položil před Neuss a oblehl v něm vévodu Karla“; ve skutečnosti obléhal Neuss Karel (od 29. 7. 1474) a císařské vojsko přitáhlo městu na pomoc (mimo přepis). Ponecháno podle textu.",
+  "Zmínka, že Karel měl u sebe „mnoho statečných knechtů ze Spříseženců“, je zajímavý doklad žoldnéřské služby Švýcarů na burgundské straně.",
+  "„das land luders“ = asi Lure (něm. Lüders) ve Franche-Comté; „elikurt“ = Héricourt; „blawmont“ = Blamont (určení mimo přepis).",
+  "„schimpff“ = zde potíž, nepříjemnost (ne posměch).",
+  "Na okraji s. 178 letopočet 1475; tažení k Héricourtu bylo v listopadu 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1473
+}

@@ -1,0 +1,46 @@
+{
+ "cislo": 23,
+ "nadpis": "Wie hagenbach am ostertag gebott zů brisach jm graben ze werchen vnd wie er daruff ward gefangen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 164,
+ "strany": [
+  164,
+  165
+ ],
+ "odstavce": [
+  {
+   "text": "Nu ließ sich hagenbach nit benügen das er vil from[mer] lüten zů tann vnd me dann an eim end jm land hatt lassen vmb vnschuld enthopten jnen dz jr wider rächt genomen sy geschmächt vnd geschendet hatt sunder fieng er an vnd erdacht ein schantlich vngötlich ding Damit er vil mütwillens vnd sine bösen gelust möchte volbringen wann das man jm des nit me wolt gesitzen je doch gebott er einer gantze[n] gemeind zů brisach das sy am helgen oster tag soltend gerust sin jn der statt graben ze wercken vnd ein fron tagwen zetůnde Er hatt aber am helgen hochen fritag den mütwillen mit der arme[n] tochter volbracht Darvm[b] was jm diß ouch nit zů vil zetůnde Vnd jn sollichem ließ er aber uff dem platz ein gemeind berüffen jnen sollichs ze verkünden das doch vncristenlich vnd vngehört was an dem grossen loblichen tag Daran mönschlich geschlächt erlöst ist worden ein sollichs für zenämen",
+   "preklad": "Hagenbachovi však nestačilo, že dal v Thannu i na více místech v zemi stít mnoho statečných lidí bez viny, bral jim proti právu, co bylo jejich, hanobil je a zneucťoval. Začal a vymyslel ještě hanebnou, bezbožnou věc, aby mohl provést mnoho svévole a svých zlých choutek, neboť mu to už nechtěli trpět. Přikázal totiž celé obci v Breisachu, aby byla na svatý Boží hod velikonoční připravena pracovat na městském příkopu a odvést robotní den. Na svatý Velký pátek už však byl svou svévoli s tou chudou dcerou dokonal; proto mu ani tohle nebylo příliš. A v tom dal na náměstí opět svolat obec, aby jí to oznámil; bylo to však nekřesťanské a neslýchané, něco takového zamýšlet v ten velký chvályhodný den, kdy byl vykoupen lidský rod."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 165,
+   "popis": "na náměstí v Breisachu před kostelem oznamuje Hagenbach shromážděným měšťanům rozkaz k velikonoční robotě"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 165,
+   "text": "lxxxii (původní foliace, nahoře uprostřed); 165 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 164,
+   "text": "zbytek strany pod textem prázdný; ilustrace k druhé kapitole není (následuje na s. 165)"
+  },
+  {
+   "strana": 165,
+   "text": "edice 1862 tu má značku „Fol. 82.“ (uprostřed věty „ouch (Fol. 82.) nit zuo vil“)"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak Hagenbach na Boží hod velikonoční přikázal v Breisachu pracovat na příkopu a jak byl kvůli tomu zajat",
+ "poznamky_prekladu": [
+  "Velký pátek 1474 = 8. 4., Boží hod velikonoční = 10. 4. 1474 (juliánský kalendář). Podle jiných pramenů byl Hagenbach zatčen 11. 4. 1474, tj. na velikonoční pondělí (mimo přepis); Schilling klade svolání obce na Boží hod.",
+  "„ein fron tagwen“ = robotní (panský) den práce."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

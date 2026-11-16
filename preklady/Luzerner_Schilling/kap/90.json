@@ -1,0 +1,51 @@
+{
+ "cislo": 90,
+ "nadpis": "Wie dem nach sich ein sach von gemeinen eitgnossen erhůb gan Bellentz vn[d] wie ma[n] vor dem hertzog schreib",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 273,
+ "strany": [
+  273,
+  274
+ ],
+ "odstavce": [
+  {
+   "text": "[D]em nach alß der hertzog von meyland dem bischoff vnd den lantlüten von wallis ein vast grosse sum[m] geltes müst geben hat er ein groß verdriessen daran fieng daruff durch die sine jn lampart[en] vil mutwillens an mit roßtüschern vnd andern so von der eitgnoschafft hin jn mit jren gewärben wandletend zetrib[en] was sy koufften woltend sy nieman mit lieb bezale[n] sunder alwegen die verköuffer daran howen vnd stachen ouch zum dickern mal jnen das jr mit gewalt nämen vnd dar zů geuangen legen alß ouch me dan eine[m] beschach vermeintend die lamparter durch sollichs jrem schaden vnd dem so sy den wallisern hättend geben zů zekom[en] wann der hertzog hatt darumb ein stür angeleit vnd sollichs uff die landschafft geschlagen Sollicher vnd ander mutwill clag vnd anders kam souil jn gemein eitgnosse[n] das der gemein man ouch anuieng vnwillig ze wärde[n] wann jnen lag noch alwegen ouch der burgunsch krieg jm synn Darin dann die lamparter jn allen schlachte[n] wider die eitgnossen fundend worden vnd warend ouch dz so sy jnen zů thům hattend zů gefügt sollicher maß das jemer gemein eitgnossen anfiengend der dingen halb zesamen zetagen vnd sollichen der lampartern mutwillen vnderstan zerechen Schribend doch von ersten dem hertzog[en] von meyland die jren zefriden zestellen Das selb er aber verachtet vnd sich daran nüt wolt keren",
+   "preklad": "Poté, když milánský vévoda musel dát biskupovi a zemským příslušníkům z Valais velmi velkou sumu peněz, měl z toho velkou nevoli. Proto začal skrze své lidi v Lombardii páchat mnoho svévole na koňských handlířích a jiných, kteří tam ze Spříseženstva jezdili za svými obchody. Co koupili, nechtěli nikomu po dobrém zaplatit, nýbrž prodávající přitom vždy sekali a bodali, také jim často to jejich násilím brali a k tomu je uvrhali do vězení, jak se stalo více než jednomu. Lombarďané se domnívali, že si tím nahradí svou škodu a to, co dali Valaisanům, neboť vévoda kvůli tomu vypsal daň a uvalil ji na zemi. Taková a jiná svévole, stížnosti a jiné věci doléhaly tolik na všechny Spřísežence, že i prostý lid začal být nevolný. Neboť jim stále ještě ležela v mysli také burgundská válka, v níž se Lombarďané ve všech bitvách ocitli [?] proti Spřísežencům, a také to, co jim způsobili u Domodossoly. Tak nakonec všichni Spříseženci začali kvůli těm věcem společně svolávat sněmy a podnikat, aby takovou svévoli Lombarďanů pomstili. Nejprve však psali milánskému vévodovi, aby své lidi zkrotil. On to však pohrdavě odbyl a nechtěl na to vůbec dbát."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 273,
+   "popis": "milánský vévoda v renesanční síni na trůnu čte list od konfederátů, kolem dvořané a posel, šachovnicová podlaha; dolní polovina strany v červeném rámu s květinovým ornamentem"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 274,
+   "text": "274 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 273,
+   "text": "místo pro iniciálu D vynecháno (nevyplněno), první řádky odsazeny"
+  },
+  {
+   "strana": 273,
+   "text": "pasáž ř. 14–24 je v edici 1862 silně porušená (OCR: „Sollicher vnd andrer muotwill, elag vnd 170 a uil in gemein … Wann 1 1 en ouch der Burgunſch krieg … in a llen fol achten 1 e e e fundend … zus gefügt ſollch u das“); rukopis čte souvisle podle přepisu výše. Ř. 19 „fundend worden“ je čtení nejisté."
+  },
+  {
+   "strana": 274,
+   "text": "strana bez iluminace; prosvítá iluminace z druhé strany listu (s. 273). Edice 1862 tu má značku „Fol. 135 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak potom vznikla u všech Spříseženců věc kvůli Bellinzoně a jak se nejprve psalo vévodovi",
+ "poznamky_prekladu": [
+  "„fundend worden“ – čtení nejisté (viz pozn. k přepisu) [?]; smysl: Lombarďané stáli v burgundské válce ve všech bitvách na straně Karla Burgundského proti Spřísežencům.",
+  "Oproti historickému sledu: tažení na Bellinzonu se konalo v listopadu–prosinci 1478, tedy před válkou Valaisanů o Domodossolu 1487 (mimo přepis). Schilling je řadí až po ní a dává je do příčinné souvislosti; nesoulad ponechán.",
+  "„die verköuffer daran howen vnd stachen“ přeloženo doslova „sekali a bodali“; možná i obrazně „šidili“ [?]."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1478
+}

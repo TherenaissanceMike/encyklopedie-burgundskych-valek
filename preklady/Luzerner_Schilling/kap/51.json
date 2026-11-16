@@ -1,0 +1,43 @@
+{
+ "cislo": 51,
+ "nadpis": "Wie granson abermalß wider gewunnen vnd was von / söldnern darin ergriffen über uß geworffen ward",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 206,
+ "strany": [
+  206,
+  207
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd alß granson wider besetzt vnd man der sach jnne ward / zugend angentz gemeinen eitgnossen wider dahin gewunnend das vnd wurffend alle die so darin warend über die turn vnd muren uß ze tod / wann da was kein erbermd sunder so gedacht jederma[n] an die schand an den biderben lüten ergangen / Die sy so ellenklich ermürt vnd gehenkt vnd über das sy die des läbens gesichert hattend / Nu was ein richer edelman von bysantz jm schloß hieß Johannes de latur / der selb ward mit grosser not vnd vast kum geschirmt / dem leit ma[n] ander cleider an / sunst hätte man jn läbendig durch die her nit mögen bringen vor dero von bern lüten / Doch kam er jn miner heren von lucern zält / Da ward er von dem gewalt von bärn erbätten by läben vnd ledig ze lassen / Damit brandolff vom stein ouch gelädiget möcht wärden / der ouch hie uor als gehört ist gefangen was vnd also ward einer vmb den andern gäben / wann wa man den von bysantz getöt so hätte brandolff vom stei[n] ouch müssen stärben / der aber von ein grossen geschlecht ein redlicher man vnd denen von bärn vast lieb was",
+   "preklad": "A když byl Grandson znovu obsazen a dozvěděli se o tom, táhli ihned všichni Spříseženci zase tam, dobyli ho a všechny, kdo v něm byli, svrhli z věží a hradeb dolů na smrt. Neboť tu nebylo žádné slitování, ale každý myslel na tu hanbu, která se stala poctivým lidem, které tak žalostně zavraždili a oběsili, a to přesto, že jim předtím zaručili život. V hradě byl nyní bohatý šlechtic z Besançonu jménem Johannes de Latur; toho s velkou námahou a sotva sotva uchránili. Oblékli mu jiné šaty, jinak by ho živého nemohli dostat skrze vojsko před lidmi Bernských. Přesto se dostal do stanu [?] mých pánů z Luzernu. Tam si ho bernská vrchnost vyprosila, aby byl ponechán naživu a propuštěn, aby mohl být vysvobozen také Brandolf vom Stein, který byl, jak se výše slyšelo, rovněž zajat. A tak byl jeden vyměněn za druhého. Neboť kdyby toho z Besançonu zabili, musel by zemřít i Brandolf vom Stein, který byl z velkého rodu, statečný muž a Bernským velmi milý."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 206,
+   "popis": "Švýcaři svrhávají burgundskou posádku z věží a hradeb dobytého Grandsonu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 207,
+   "text": "CII (původní foliace, nahoře uprostřed); 207 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 206,
+   "text": "edice 1862 (Fol. 101 b.) „Brandolff von Stein“, rukopis „brandolff vom stein“; edice „Johannes de Latur“ shodně; ostatní text edice v OCR jen ve zlomcích"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak byl Grandson opět znovu dobyt a jak byli žoldnéři, kteří v něm byli zajati, svrženi dolů",
+ "poznamky_prekladu": [
+  "Oproti Bernu 3: podle Bernu (kap. 298) bylo v hradě ubito „dobře třicet“ mužů a „skutečný pán“ s několika mladíky byl ušetřen; Luzern píše, že všichni byli svrženi z věží a hradeb, a ušetřeného šlechtice jmenuje (Johannes de Latur z Besançonu) a nechává ho dostat se k Luzernským.",
+  "„zält“ – přeloženo „stan“ (Zelt); jiný výklad textu se nenabízí, ale čtení stojí za kontrolu.",
+  "„von dem gewalt von bärn“ = od bernské vrchnosti (moci). Brandolf vom Stein – bernský hejtman v Grandsonu, zajatý Burgunďany (Bern 3, kap. 269)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

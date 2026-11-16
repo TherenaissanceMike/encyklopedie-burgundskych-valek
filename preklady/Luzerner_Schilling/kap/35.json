@@ -1,0 +1,48 @@
+{
+ "cislo": 35,
+ "nadpis": "Wie min heren von lucern uff dero von Bärn vnd ouch friburg schriben angendes vßzugend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 182,
+ "strany": [
+  182,
+  183
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd alß sollich bottschafft gan lucern für min heren kam vnd an dem end die brieff ouch der biderben lüten vnd getrüwen wächtern von bärn vnd friburg fürnämen ward geläsen vnd verstanden namend min heren von lucern angends vß vnd zugend jnen trostlich zehilff Des glich tatend ouch die manhafften von soloturn vn[d] Die frommen lüt von basel Da kam aber damaln von den andern orten nieman dahin Beschach aber nit jm bösen wann es tett nit so nott vnd mocht der cost wol erspart wärden Vnnd also zoch man gan granson[?] das dennocht der frowen von saffoy was Das selb nam man jn on alle not vnd besatzt das",
+   "preklad": "Když takové poselství přišlo do Luzernu před mé pány a když tam byly předloženy, přečteny a pochopeny dopisy poctivých lidí a věrných strážců z Bernu a z Fribourgu, vytáhli moji páni z Luzernu ihned a táhli jim povzbudivě na pomoc. Totéž učinili také stateční Solothurnští a řádní lidé z Basileje. Z ostatních míst (kantonů) tam však tehdy nikdo nepřišel. Nestalo se to ale ve zlém, neboť toho nebylo tolik zapotřebí a výdaje se mohly dobře ušetřit. A tak se táhlo ke Grandsonu [?], který přece patřil paní Savojské. Ten se vzal bez jakékoli námahy a obsadil se."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 182,
+   "popis": "opevněné město (Grandson) na kopci, pod ním vojsko"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 183,
+   "text": "lxxxxi[?] (původní foliace nahoře uprostřed); 183 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 182,
+   "text": "v nadpisu edice 1862 čte „one vßzugend“, rukopis má zřetelně „angendes vßzugend“; několik slov v ř. 2–8 je pozdější rukou obtaženo tmavším inkoustem"
+  },
+  {
+   "strana": 183,
+   "text": "edice 1862 tu má značku „Fol. 91.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak moji páni z Luzernu na dopis Bernských a také Fribourgských ihned vytáhli",
+ "poznamky_prekladu": [
+  "„granson[?]“ – čtení v rukopisu nejisté; podle souvislosti (kap. 36) jde o Grandson.",
+  "„jm bösen“ = ve zlém, ze zlé vůle; Schilling omlouvá nepřítomnost ostatních míst.",
+  "„on alle not“ = bez potíží, bez boje.",
+  "Oproti Bernu 3: Bern 3 líčí dobytí Grandsonu podrobně a s útokem (kap. 168–171, konec dubna a 1. 5. 1475); Luzern uvádí, že se Grandson vzal „bez jakékoli námahy“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

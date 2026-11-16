@@ -1,0 +1,60 @@
+{
+ "cislo": 60,
+ "nadpis": "Wie die büchsen geteilt wurden vnd sunst keiner=ley bütt gemachet vnd groß gůt gewunnen wart",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 220,
+ "strany": [
+  220,
+  221,
+  222
+ ],
+ "odstavce": [
+  {
+   "text": "Nach sollichem allem wurdent lüt zů der gewunnenen hab büchsen vnd anderm verordnet vnd geratschlaget ein büt zemachen daruß aber nüt ward Doch teilt man die büchsen den orten nach welchem aber sunst etwas was worden dem ließ man es bliben vnd alßo ward abermalß hertzog karoli[?] von burgun von den fromen eitgnossen vnd jre helffen vertriben vnd veriagt von allem dem so er vnd der graff von Remund ouch ander die sinen gan murten bracht hattend wie wol es gůtz halben daselbs ein kinden spil vnd bettel werch gegen gransen was Dar gegen aber was es erschlagner lüten halb zů gransen ein schimpf gegen denen zů murten wann zů murten kamend uff den tag ob drissig tusend manne vmb Darvmb gieng dazemal ein red uß er verlüre zů Elicurt das hertz zů gransen das gůt vnd er zů murten die lütt vnd am letsten zů nanse sin lib wie von dem selben harnach gehört wirt Es kamend ouch uff der eitgnoss[en] sitten zů murten by fünfftzig manne vmb gott gäbe jnen allen die ewigen rüw vnd also wurdend die von murten erlöst uff der helgen zechen tusend ritter tag Des jars alß man zalt tusend vierhundert sibentzig vnd sächs jar Man möcht sich ouch verwunder[n] vß wäs vrsach der hertzog von lothringe den eitgno[ssen] zů murten zů zoch Das hat die gestalt Der hertzog von burgun hatt mut die gantzen tütschen nation vndersich zebringe vnd wolt jm selbs ein wäg machen das elsas vnd brißgöw für zů vnd vnderstund den fromen hertzog Reinharten von lothringen zeuertribe[n] nam jm vil landz sunderlich nanse sin hopt statt jnn Die er nu besatzt Doch mit hilff des alten küng ludwigs von franckerich vnd der nidern stetten gewan der hertzog von lothringen das sin alles wider vnd überkam also ein vyend Des halb er alwegen besorget der burguner wurde den schaden wider vnder stan zerechen alß ouch am letsten beschach vnd gehört wirt vnd darvmb das der hertzog von lothringen ouch der eitgno[ssen] gunst über käm so zoch er jnen mit sine eignen lib vnd den sinen trostlich zů über kam damit ein sollich[en] gunst das er der sach am letste wol genoß Sunst wär er vm alle sin stett vnd land kome[n]",
+   "preklad": "Po tom všem byli k získanému majetku, dělům a jinému určeni lidé a radilo se, aby se udělala [společná] kořist; z toho však nic nebylo. Děla se však rozdělila podle míst; komu se však jinak něco dostalo, tomu se to nechalo. A tak byl opět vévoda Karel [?] Burgundský statečnými Spříseženci a jejich pomocníky zahnán a vypuzen ode všeho, co on, hrabě z Romontu a také jiní jeho lidé přivezli k Murtenu. Ačkoli to co do majetku bylo tam dětskou hrou a žebrotou proti Grandsonu, naproti tomu co do pobitých lidí byl Grandson žert proti Murtenu, neboť u Murtenu toho dne zahynulo přes třicet tisíc mužů. Proto se tehdy říkalo, že u Héricourtu ztratil srdce, u Grandsonu majetek, u Murtenu lidi a nakonec u Nancy svůj život, jak se o tom později uslyší. Na straně Spříseženců zahynulo u Murtenu na padesát mužů; Bůh jim všem dej věčný odpočinek. A tak byli Murtenští vysvobozeni na den svatých deseti tisíc rytířů roku, kdy se psalo tisíc čtyři sta sedmdesát šest let. Mohlo by se také divit, z jaké příčiny vévoda Lotrinský přitáhl Spřísežencům k Murtenu. S tím je to takto: vévoda Burgundský měl v úmyslu podrobit si celý německý národ a chtěl si udělat cestu přes Alsasko a Breisgau. Pokusil se vyhnat statečného vévodu Reinharta Lotrinského, vzal mu mnoho země, zvláště Nancy, jeho hlavní město, které pak obsadil. Avšak s pomocí starého krále Ludvíka Francouzského a Dolních měst získal vévoda Lotrinský všechno své zase zpět, a tak si získal nepřítele. Proto se vždycky obával, že se Burgunďan pokusí tu škodu zase pomstít, jak se také nakonec stalo a uslyší se. A proto, aby si vévoda Lotrinský získal také přízeň Spříseženců, přitáhl jim útěšně na pomoc ve vlastní osobě a se svými lidmi a získal tím takovou přízeň, že mu to nakonec dobře posloužilo. Jinak by byl přišel o všechna svá města a země."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 221,
+   "popis": "celostránková iluminace: dělení ukořistěných burgundských děl po bitvě u Murtenu; v popředí bombardy a polní děla na lafetách, ozbrojenci s halapartnami, v pozadí stany, opevněné město (Murten) a jezero s hradem na kopci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 221,
+   "text": "221 (moderní paginace, pravý horní roh); nahoře uprostřed foliace „C viij“ (cviij)"
+  },
+  {
+   "strana": 222,
+   "text": "222 (moderní paginace, levý horní roh); nahoře slabě prosvítá foliace „C viij“ z rubu"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 220,
+   "text": "ř. 7 edice „Karolus“, v rukopisu spíš „karoli“ se zakončením; ř. 10 edice „finden spil“ (chyba OCR), rukopis „kinden spil“; ř. 13 edice „mannen“, rukopis „manne“; ř. 14 edice „Elikurt“, rukopis „Elicurt“; ř. 20 rukopis „rüw“, edice „ruow“; ř. 26 rukopis „das elsas“ bez „in“ (edice „in das Elsas“); ř. 1–2 edice má v OCR mezeru („gewunnenen hab, — —“), rukopis „hab büchsen vnd anderm verordnet“"
+  },
+  {
+   "strana": 221,
+   "text": "strana bez textu"
+  },
+  {
+   "strana": 222,
+   "text": "strana bez iluminace; text v horních čtyřech pětinách. OCR edice 1862 tuto kapitolu z velké části ztratila (rubrika a začátek chybí, text začíná až „was in der gantzen ſtatt Loſan“), čtení začátku je proto jen z rukopisu"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak byla rozdělena děla, jinak se nedělala žádná kořist a získal se velký majetek",
+ "poznamky_prekladu": [
+  "Datum: den deseti tisíc rytířů 1476 = 22. 6. 1476 (sobota).",
+  "Počty: Schilling uvádí přes 30 000 mrtvých na burgundské straně a asi 50 padlých Spříseženců. Oproti Bernu 3 (kap. 353): Bern odhaduje přes 26 000 pohřbených. Čísla ponechána podle textu.",
+  "Rčení „u Héricourtu srdce, u Grandsonu majetek, u Murtenu lidi, u Nancy život“ – luzernská podoba známého úsloví (jinde „zu Grandson das Gut, zu Murten den Mut, zu Nancy das Blut“; mimo přepis). „Elicurt“ = Héricourt (bitva 13. 11. 1474).",
+  "„hertzog karoli[?]“ – zakončení nejisté (edice „Karolus“), přeloženo „vévoda Karel [?]“.",
+  "„hertzog Reinharten von lothringen“ – Schilling zde René II. jmenuje „Reinhart“ (v kap. 57 „Renier“); ponecháno. „küng ludwig von franckerich“ = Ludvík XI.",
+  "Nancy dobyl Karel v listopadu 1475; René je s francouzskou a alsaskou pomocí znovu získal až v říjnu 1476, tj. po bitvě u Murtenu (mimo přepis). Schilling to podává jako vysvětlení předem, chronologicky nepřesně.",
+  "„kinden spil vnd bettel werch“ = dětská hra a žebrácká věc; „ein schimpf“ = žert, hříčka (ne „hanba“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

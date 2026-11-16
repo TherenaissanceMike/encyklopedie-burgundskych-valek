@@ -1,0 +1,46 @@
+{
+ "cislo": 77,
+ "nadpis": "Wie die drüy lender ouch zesamen tageten vnd vnderstůndend das burgrächt wider abzetůnd",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 252,
+ "strany": [
+  252,
+  253
+ ],
+ "odstavce": [
+  {
+   "text": "Diß burgrächt stůnd also ein cleine zitt an vnd nit vil tägen Die drüy lender vre switz vnd vnderwalden fiengend ouch an zesamen tage[n] wann sy hattend an sollichem burgrächten ein groß mißuallen vnd merglich verdriessen Doch stůnd zug vnd glarus jn der sach still woltend sich dheweder partig beladen anders dann früntlich mitler darin zesin vnd alß sy ouch darvm geratschlaget hattend kamend sy gan lucern begärtend an die selben min heren von lucern früntlichen von sollichem burgrächten zestan wan[n] die pünd möchtend das dheins wägs erliden vnd wa sy das von jr bitt wägen nit weltend tůn vnd sunderlich was jr meynung vnd begär min heren von lucern daruon zebringen so wöltend aber sy darvmb jr manbrieff darlegen alß sy ouch tatend wann die drüy lender wolte[n]t voruß minen heren von lucern sollichs nit gestatten uß dem dz sy mit sundrigen pünden zesamen verpunden wärend vnd wie sy zů lucern die sach fürnamend alß tatend sy ouch zů zürch vn[d] bärn Jnen ward aber damaln nit witer antwurt wan[n] das sich die stett namend zeuerdencken",
+   "preklad": "Toto měšťanské právo tak trvalo jen krátkou dobu a nemnoho dní. Tři země Uri, Schwyz a Unterwalden začaly také spolu sněmovat, neboť měly nad takovým měšťanským právem velkou nelibost a značnou nevoli. Zug a Glarus však v té věci zůstaly stranou; nechtěly se zaplést s žádnou stranou jinak než jako přátelští prostředníci. A když se o tom uradily, přišly [země] do Luzernu a žádaly tytéž mé pány z Luzernu přátelsky, aby od takového měšťanského práva upustili, neboť spolky (pünd) to nijak nemohou snést. A kdyby to [páni] na jejich prosbu nechtěli učinit – a zvláště bylo jejich úmyslem a žádostí mé pány z Luzernu od toho odvrátit –, chtějí kvůli tomu předložit své vyzývací listy (manbrieff), jak také učinily. Neboť tři země nechtěly mým pánům z Luzernu především něco takového dovolit, protože byli spolu svázáni zvláštními spolky. A jak tu věc předložily v Luzernu, tak učinily také v Curychu a v Bernu. Tehdy jim však nebyla dána jiná odpověď, než že si to města vzala na rozmyšlenou."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 252,
+   "popis": "porada zástupců tří lesních kantonů v síni"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 253,
+   "text": "253 (moderní paginace, pravý horní roh); nahoře foliace (useknutá, Cxxv[?])"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 252,
+   "text": "ř. 19 rukopis „alß tatend sy ouch“, edice „alſo tatend ſy ouch“"
+  },
+  {
+   "strana": 253,
+   "text": "strana bez iluminace, silně prosvítá iluminace ze s. 254, střední a dolní část špatně čitelná; edice 1862 tu má značku „Fol. 125.“ a „(Bild.)“, obraz je až na s. 254"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak i tři země spolu sněmovaly a podnikly, aby měšťanské právo bylo opět zrušeno",
+ "poznamky_prekladu": [
+  "„manbrieff“ = list, jímž se podle spolkové smlouvy spojenec vyzývá (manen), zde k dodržení spolků; přeloženo „vyzývací listy“.",
+  "„mit sundrigen pünden“ – míněn zvláštní spolek Luzernu se třemi Lesními místy (spolek Čtyř lesních míst z r. 1332) (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1481
+}

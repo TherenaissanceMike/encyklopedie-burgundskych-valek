@@ -1,0 +1,45 @@
+{
+ "cislo": 54,
+ "nadpis": "Von brůder Clausen von vnderwalden dem einsidel / jm Ranfft vnd brůder ölrichen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 210,
+ "strany": [
+  210,
+  211
+ ],
+ "odstavce": [
+  {
+   "text": "Jn disen zitten vnd lang dauor was ein lantman zů vnderwalden ob dem wald jn dem kilchspel zů Sachseln / der hieß Claus von flü / hatt ein wib vnd vil hübscher kinden / Der nam für sich von der wält zegan vnd gott streng zedienen / alß er ouch tett vnd wol bewist / wann er gieng von wib vnd kind allenthalben zů den helgen stetten / Das man jnn jm anfang ein kurtze zit verlor / Doch kam er heimlich wid[er] zeland vnd gieng jm selber vnder[?] sine hus[?] harab heist jm Ranfft jn einer wilden rüchi / vnd macht[?] jm ein wonung vnder eim felsen uß / Da jm die bösen geist vil zů an gefochten / aber gott der her gab jm sterke jn sine will[en] zeläben / Das er anfieng an liplicher narung täglich ab zebrechen / der jenen[?] an dem end jn einer cleinen hüsli vnd ein capell / die man jm ouch dar machet / on alle narliche[?] spiß ob zwey vnd zwentzig jaren läpt vnd also gar vnmassen[?] wol / Seit den eitgnossen mengerley das dem nach jnen über vil jaren zehanden gieng vnd war ward / so[?] jm uff dem barg über dz wasser was ouch ein brůder by[?] uß schwaben hieß brůder vlrich alß man[?] tag nieme[?] […] […] mentsch[?] hielt sich ouch gantz jn gotz willen vast wol",
+   "preklad": "V těchto časech a dlouho předtím žil zemský příslušník (lantman) v Unterwaldenu nad lesem, ve farnosti Sachseln, který se jmenoval Claus von Flü. Měl ženu a mnoho pěkných dětí. Ten si předsevzal odejít ze světa a přísně sloužit Bohu, což také učinil a dobře prokázal. Neboť odešel od ženy a dětí a chodil všude po svatých místech, takže se na počátku na krátký čas ztratil. Avšak přišel tajně zase domů a šel sám pod [?] svůj dům [?] dolů – [to místo] se jmenuje v Ranftu – do divoké drsné krajiny a udělal [?] si příbytek pod skálou. Tam na něho zlí duchové mnoho útočili, ale Bůh Pán mu dal sílu žít podle jeho vůle. Takže začal denně ubírat tělesné potravy. Ten [?] žil na tom místě v malém domku a [při] kapli, které mu tam také postavili, bez jakékoli přirozené [?] stravy přes dvaadvacet let, a to nesmírně [?] dobře. Pověděl Spřísežencům mnohé, co se jim potom po mnoha letech dostalo do rukou a co se stalo pravdou. Tak [?] na hoře nad vodou u něho [?] byl také bratr ze Švábska, jmenoval se bratr Ulrich, jak se […] […] člověk [?], který se také zcela odevzdal Boží vůli a [žil] velmi dobře."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 210,
+   "popis": "bratr Klaus (Mikuláš z Flüe) v poustevně v Ranftu: skalnatá roklina, cela s kaplí, poustevník v hábitu; vlevo dům v Sachseln s rodinou"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 211,
+   "text": "CIIII (původní foliace, nahoře uprostřed); 211 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 210,
+   "text": "inkoust silně vybledlý, čtení mnoha míst nejisté; edice 1862 (Fol. 103 b.) je v OCR čitelná jen v první větě („Jn diſſen zitten vnd lang dauor was ein lantman in Underwalden ob dem wald in dem kilchſpel zuo Sachſeln, der hieß Claus von Flü, hatt ein wib vnd vil hübſcher kinden. Der nam für ſich, von der …“ a „alß er ouch tett vnd wol bewiſt, wann er gieng von wib vnd kind“); rozdíl: edice „in Underwalden“, rukopis „zů vnderwalden“"
+  }
+ ],
+ "nejista_mista": 11,
+ "nadpis_preklad": "O bratru Klausovi z Unterwaldenu, poustevníkovi v Ranftu, a o bratru Ulrichovi",
+ "poznamky_prekladu": [
+  "Inkoust na s. 210 je silně vybledlý; mnoho míst je nejistých ([?]) a konec o bratru Ulrichovi je zčásti nečitelný. Celou kapitolu doporučuji znovu ověřit v rukopisu.",
+  "Claus von Flü = Mikuláš z Flüe (bratr Klaus, 1417–1487), poustevník v Ranftu u Sachselnu v Obwaldenu („Unterwalden ob dem Wald“); bratr Ulrich – švábský poustevník, který žil nad Ranftem (určení mimo přepis).",
+  "„ob zwey vnd zwentzig jaren“ – Schilling píše o více než 22 letech bez přirozené stravy; Mikuláš žil v Ranftu od roku 1467 do smrti 1487, tj. asi 20 let (mimo přepis). Údaj ponechán, jak stojí v textu.",
+  "„jm Ranfft jn einer wilden rüchi“ – rüchi = drsná, divoká krajina; „ob dem wald“ = nad lesem (Obwalden).",
+  "„der jenen[?]“, „narliche[?]“ (snad natürliche), „vnmassen[?]“ – nejistá čtení, přenesena."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

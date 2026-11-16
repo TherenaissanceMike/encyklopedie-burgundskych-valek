@@ -1,0 +1,54 @@
+{
+ "cislo": 36,
+ "nadpis": "Dem nach vnd jn dem selben zůg zoch man gan orben nam die statt jnn aber das schloß gewan man mit gewalt",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 183,
+ "strany": [
+  183,
+  184
+ ],
+ "odstavce": [
+  {
+   "text": "Da nu granson jngenome[n] vnd besetzt ward zugent die obgenanten vier stett mit ein andern gan orben was ouch saffoysch namend die statt ouch jnn wann sy gabend sich uff Aber die so jm schloß warend woltend sich kurtz nit ergäben sunder weren wan das man sollichs mit gewalt vnd einem herten sturm můst gewünnen vnd erobern vnd alß granson am sonntag jngenome[n] Da ward morndes am mendag orben gestürmt vnd vil saffoyer über das schloß vß geworffen vnd sunderlich hatt junckher heinrich von hunwil schultheis zů lucern ein tochterman zů losan hieß rüdolff was ouch uff orben er mocht aber an dem end nieman geniessen sunder ward er ouch wie ander ertöt vnd über das schloß vß geworffe[n] starb aber erlich vnd ritterlich wann er ward[?] von sinen obern dahin gezwunge[n] sin vatterland hälffen zebeschirmen Das ein jeglich biderma[n] ist schuldig zetůnd vnd gehorsam zesind An dem end was hans trůber des ratz zů lucern schützen vennrich vnd der erst mit sinem vennli jm schloß ze orben ob allen vyenden vnd mit jm hans senn von zug Der selb was dazemal mit mine[n] heren von lucern gezogen vnd hinder jnen mit huß er hielt sich aber uff den tag alß ein gůter lucerner vnd fromer biderber eitgnoß das ouch den[en] von zug ein grosse fröud vnd ere was Da nu das schloß also mit gewalt erobert ward Da was kein gnad me wan das edel vnd vnedel můst stärben vnd kamend alß ob sibentzig manne an dem end vmb",
+   "preklad": "Když byl Grandson vzat a obsazen, táhla zmíněná čtyři města společně k Orbe, které bylo také savojské. Vzali také město, neboť se vzdalo. Ale ti, kdo byli na hradě, se rozhodně nechtěli vzdát, nýbrž se bránili, takže se to muselo dobýt a zmocnit násilím a tvrdým útokem. A když byl Grandson vzat v neděli, byl nazítří v pondělí Orbe ztečen a mnoho Savojanů bylo svrženo z hradu. Zvláště junkr Heinrich von Hunwil, starosta v Luzernu, měl v Lausanne zetě jménem Rudolf. Ten byl také na Orbe, ale nic mu tam nebylo platné, že k někomu patřil; byl zabit jako ostatní a svržen z hradu. Zemřel však čestně a rytířsky, neboť byl svými vrchními pány přinucen pomáhat tam chránit svou vlast, což je každý poctivý muž povinen činit a v čem má být poslušný. Tam byl Hans Trůber, člen rady v Luzernu, praporečník střelců, a byl první se svým praporcem na hradě v Orbe nad všemi nepřáteli, a s ním Hans Senn ze Zugu. Ten tehdy táhl s mými pány z Luzernu a bydlel u nich jako usedlík; toho dne se však držel jako dobrý Luzerňan a statečný poctivý Spříseženec, takže to bylo i Zugským k velké radosti a cti. Když byl tedy hrad takto násilím dobyt, nebylo už žádné milosti, takže museli zemřít urození i neurození. A přišlo tam o život asi přes sedmdesát mužů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 183,
+   "popis": "dobývání hradu Orbe, Savojané shazováni z hradeb"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 183,
+   "text": "NB (pozdější ruka, pravý okraj u ř. 9–10, jméno Hunwil)"
+  },
+  {
+   "strana": 184,
+   "text": "184 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 183,
+   "text": "ř. 2 edice „Orban“, rukopis „orben“; ř. 14 „er“ je vepsáno nad řádek; ř. 24–25 edice „ob Abenig mannen“ (chybné čtení), rukopis „alß ob sibentzig manne“"
+  },
+  {
+   "strana": 184,
+   "text": "strana bez iluminace; prosvítá iluminace z druhé strany listu (s. 185). Edice 1862 tu má značku „Fol. 91 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Potom se na téže výpravě táhlo k Orbe; město se vzalo, ale hrad se dobyl násilím",
+ "poznamky_prekladu": [
+  "„die obgenanten vier stett“ = Bern, Luzern, Solothurn a Basilej, případně s Fribourgem (Schilling je výslovně nevyjmenovává; v kap. 35 jmenuje Luzern, Solothurn a Basilej vedle Bernu a Fribourgu).",
+  "Schilling: Grandson vzat v neděli, Orbe ztečeno nazítří v pondělí; datum neuvádí. Podle Bernu 3 (kap. 171) začal útok na Grandson v neděli 30. 4. 1475 a hrad se vzdal 1. 5. 1475 (juliánský kalendář).",
+  "Rudolf, zeť luzernského starosty Heinricha von Hunwil, bojoval na savojské straně; „er mocht aber an dem end nieman geniessen“ = nic mu nepomohlo, ke komu patřil (tj. příbuzenství s luzernským starostou). Na okraji pozdější rukou „NB“ u jména Hunwil.",
+  "„schützen vennrich“ = praporečník střelců (nesl střelecký praporec).",
+  "„hinder jnen mit huß“ = bydlel u nich jako usedlík (Hintersasse), tj. bez plného měšťanského práva.",
+  "„alß ob sibentzig manne“ = asi přes sedmdesát mužů; ponecháno podle textu. Edice 1862 zde čte chybně „ob Abenig mannen“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

@@ -1,0 +1,54 @@
+{
+ "cislo": 14,
+ "nadpis": "Von den kouff lüten der von geroltseck zů schüttern fieng darvm[b] die von straßburg ußzugend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 156,
+ "strany": [
+  156,
+  157
+ ],
+ "odstavce": [
+  {
+   "text": "Diß ding stůnd an da vil lüten gestarb bitz das man zalt m cccc[?] vnd lxxiiij jar Da begab es sich als noch der bruch ist das ein schiff von basel mit lüten vnd gůt von jr statt ouch von der eitgno[s]schafft für jn willen mit jr hanttierung gan franckfurt jn die maß zefaren darin dann vnder andern ludwig seyler schultheis vnd peter von alikon des rates ze lucer[n] warend Vnd als sy hin ab vnder arsel[?] nit fer von rinow kamend da warend die heren von geroltseck am land fiengend sy all vnd fürtend lütt vnd gůt jn ein stättli heisset schüttern meyntend sy hättend ein ansprach von her bilgerins von höwdorffs wägen Der aber mit dene[n] von schaffhusen jm waltzhůter krieg vertragen vnd gericht was vnd wäre sollicher hochmůt wol vnderwäge[n] blibe[n] hättend die von geroltseck betrachtet jm anfang dz so me jm end zehanden gieng",
+   "preklad": "Tento stav trval a umíralo při něm mnoho lidí, až se psalo 1474 [?]. Tu se stalo, jak je dosud zvykem, že loď z Basileje s lidmi a zbožím z jejich města a také ze Spříseženstva hodlala se svým obchodem plout do Frankfurtu na veletrh. Na ní byli mezi jinými Ludwig Seyler, starosta, a Peter von Alikon z rady v Luzernu. A když připluli dolů pod Arsel [?], nedaleko Rhinau, byli na břehu páni z Geroldsecku, všechny je zajali a odvezli lidi i zboží do městečka, které se jmenuje Schuttern. Tvrdili, že mají nárok kvůli panu Bilgerinovi von Heudorf. Ten však byl se Schaffhauskými ve waldshutské válce smířen a narovnán. A taková zpupnost by byla dobře zůstala nevykonána, kdyby byli páni z Geroldsecku na začátku uvážili, co je nakonec ještě čeká."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 156,
+   "popis": "přepadení basilejské lodi s kupci a zbožím na Rýně, zajatí odváděni jezdci ke hradu Geroldseck/Schuttern"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 157,
+   "text": "lxxviii (původní foliace, nahoře uprostřed); 157 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 156,
+   "text": "místo „vnder arsel[?]“ edice „under Sara“; závěr „dz so me jm end zehanden gieng“ v edici zkomolen; letopočet zapsán zkratkovitě, čtení podle edice (m cccc vnd lxxiiii)"
+  },
+  {
+   "strana": 157,
+   "text": "edice 1862 tu má značku „Fol. 78.“"
+  }
+ ],
+ "pripisky": [
+  {
+   "strana": 156,
+   "text": "nad slovem „kouff lüten“ pozdější rukou „der Eidtgnossen die“"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "O kupcích, které zajal ten z Geroldsecku v Schutternu, a proč proto Štrasburští vytáhli",
+ "poznamky_prekladu": [
+  "Letopočet zapsán zkratkovitě, čtení podle edice (m cccc vnd lxxiiii) – viz poznámka přepisu; proto [?].",
+  "„vnder arsel[?]“ – místo nejisté, edice „under Sara“; Rinow = Rhinau na Rýně, Schüttern = Schuttern (klášterní městečko v Ortenau) (mimo přepis).",
+  "„jn die maß“ = na veletrh (frankfurtský podzimní či jarní trh); „schultheis“ = starosta.",
+  "Závěr „dz so me jm end zehanden gieng“ přeložen podle smyslu („co je nakonec ještě čeká“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1473
+}

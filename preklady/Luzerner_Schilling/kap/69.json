@@ -1,0 +1,59 @@
+{
+ "cislo": 69,
+ "nadpis": "Wie der angriff zů nanse an einem selbgewachsnen torn hag beschach Die burgunschen die flucht name[n]t ob fünff tusenden der burgunschen vm kamen vnd der hertzog von burgun selber ward erschlagen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 240,
+ "strany": [
+  240,
+  241,
+  242
+ ],
+ "odstavce": [
+  {
+   "text": "Da aber die fromen eitgnossen ouch ander manlich so da warend der burgundern geschrey hortend vnd sahend ouch erkantend das sy die büchse[n] gegen jnen zugend was da kein beiten noch warten me sunder lüffend sy schnell den bärg ab an einen selbgewachsnen dicken tornhag Dardurch einer von lucern genant küri[?] kont zů roß vor allem züg jn die vyend kam Der fürt ein renn fennli an siner glänen uff den ylten[d] die burguner vnd meintend er wäre ein rächter fenrich Dar zů hat er ein vnbendigen hengst des halben er vmb kam gott hälff der sel wann er starb ritterlich ouch wurdend an dem selben hag vil lüten von handbogen pfilen gewüstet Doch was der nachtruck so groß das der hag uff den hard geleit ward vnd gab gott das glück das die burgunschen die flucht namen liessend also vor der statt nanse zwüschend der statt vnd eine[m] closter jr büchsen silber gold cleider vnd cleinodt vnd zum aller größten kament sy vmb jren heren hertzog karle von burgun Dar zů vmb vil güter lüten Der bleib dem hertzoge von lothringen zeletze Jr wurdend ouch vil jn die musel gejagt vnd ertrenckt Die ze nanse jn der statt alß sy diß gesahent brachend sy ouch haruß sitlingen an die vygend vnd tatend an dem end ouch das best",
+   "preklad": "Když však stateční Spříseženci a také jiní udatní [muži], kteří tam byli, uslyšeli křik Burgunďanů a viděli a poznali, že otáčejí děla proti nim, nebylo už otálení ani čekání, ale rychle běželi z kopce dolů k samorostlému hustému trnitému plotu. Jím pronikl jeden muž z Luzernu jménem Küri [?] Kont na koni před celým vojskem mezi nepřátele. Nesl na svém kopí jezdecký praporek (rennfähnlein). Na něho se Burgunďané vrhli a mínili, že je to skutečný praporečník. K tomu měl nezkrotného hřebce, kvůli němuž zahynul. Bůh pomoz jeho duši, neboť zemřel rytířsky. U téhož plotu bylo také mnoho lidí zraněno šípy z ručních luků. Tlak zezadu byl však tak velký, že plot byl povalen k zemi, a Bůh dal štěstí, že se Burgunďané dali na útěk. Nechali tak před městem Nancy, mezi městem a jedním klášterem, svá děla, stříbro, zlato, šaty a klenoty, a co bylo nejvíc, přišli o svého pána, vévodu Karla Burgundského, a k tomu o mnoho dobrých lidí. Ten zůstal vévodovi Lotrinskému jako dar na rozloučenou. Mnoho jich bylo také zahnáno do Mosely a utopeno. Ti v Nancy ve městě, když to uviděli, také vyrazili ven a z boku na nepřátele a i na tom místě učinili to nejlepší."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 240,
+   "popis": "bitva u Nancy (pokračuje přes s. 241)"
+  },
+  {
+   "strana": 241,
+   "popis": "bitva u Nancy, pokračování iluminace ze s. 240 (celostránková, bez textu)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 241,
+   "text": "241 (moderní paginace, pravý horní roh); nahoře foliace „Cxviiij“[?]"
+  },
+  {
+   "strana": 242,
+   "text": "242 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 240,
+   "text": "ř. 7 edice 1862 „Kuori Könt“, v rukopisu spíše „küri kont“; ř. 2 rukopis „hortend“, edice „baren“ (chyba OCR); ř. 20 edice doplňuje „(Sieg)“ za „Der“, v rukopisu chybí; ř. 24 edice vynechává „ouch“"
+  },
+  {
+   "strana": 242,
+   "text": "edice 1862 tu má značku „Fol. 119 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak k útoku u Nancy došlo u samorostlého trnitého živého plotu, jak se Burgunďané dali na útěk, přes pět tisíc Burgunďanů zahynulo a sám vévoda Burgundský byl zabit",
+ "poznamky_prekladu": [
+  "Rubrika: přes pět tisíc padlých Burgunďanů. Oproti Bernu 3 (kap. 374): přes šest tisíc mužů nepřátel.",
+  "„küri[?] kont“ – edice 1862 „Kuori Könt“; jméno ponecháno podle rukopisu, čtení nejisté.",
+  "„renn fennli“ = rennfähnlein, malý praporek jezdce (kopiníka) na kopí (glene); Burgunďané jej považovali za praporečníka a soustředili se na něj.",
+  "„Der bleib dem hertzoge von lothringen zeletze“ – „letze“ = dar na rozloučenou; ironicky: vévoda Karel zůstal Lotrinskému „na rozloučenou“. Edice 1862 doplňuje „(Sieg)“, v rukopisu chybí.",
+  "„die musel“ = Mosela; ve skutečnosti Meurthe (mimo přepis).",
+  "Oproti Bernu 3 (kap. 372): Bern popisuje „silný příkop a hustou ohradu“ a přes třicet serpentin na úzké cestě a připisuje předvoj Bernským; luzernskou postavu Küriho Konta nemá."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1477
+}

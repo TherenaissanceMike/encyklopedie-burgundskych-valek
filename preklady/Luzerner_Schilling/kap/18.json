@@ -1,0 +1,48 @@
+{
+ "cislo": 18,
+ "nadpis": "Wie ein anslag über den hagenbach gemacht vnd zů brisach angetragen wart",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 160,
+ "strany": [
+  160,
+  161
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd uff sollichs nach siner vilfaltigen bosheit ist wol zů glouben das gott sollichs über jnn verhengt ward ein heimlichen anschlag von ettlich[en] gemachet vnd angefähen jn der lantschafft allenthalben den je ein gůt gesell dem andern kunt tett ein list zeerdencken damit sy des wütrichs abkämend vnd von sollicher not erlöst wurdend wann sy warend vornacher sollich übels von einer herschafft von österich vnd jren landuögten vertragen gewäsen vnd jn gůten rüwen gesässen zů dem vnderstůnd er sy von jren fryheiten priuileyen vnd regalien zetrengen vnd je lenger vnd vester an allen di[n]ge[n][?] zeschädigen vnd ist nit minder es gieng dazemal jn gemeiner lantschafft so übel vnd clagtend sich biderb lüt so übel mit schrigen vnd weinen sollich maß dz die gemeind den bösen gewalt zestraffen bewegt wart",
+   "preklad": "A na to, po jeho mnohonásobné zlotě, lze dobře věřit, že Bůh nad ním dopustil, že byl některými učiněn a započat tajný úklad všude v krajině. Jeden dobrý druh to vždy sdělil druhému, aby se vymyslela lest, jak by se toho ukrutníka zbavili a byli z takové nouze vysvobozeni. Takové zlo totiž předtím od rakouského panství a jeho zemských fojtů nesnášeli a žili v dobrém klidu. K tomu se je pokoušel vytlačit z jejich svobod, privilegií a regálií a stále víc a tvrději jim ve všech věcech [?] škodit. A není nic menšího, než že se tehdy v celé krajině dělo tak zle a poctiví lidé si tak žalostně stěžovali s křikem a pláčem, že obec byla pohnuta tu zlou moc potrestat."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 160,
+   "popis": "před městem s branou a mostem přes řeku stojí hloučky mužů a tajně se radí (spiknutí proti Hagenbachovi)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 161,
+   "text": "lxxx (původní foliace, nahoře uprostřed); 161 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 160,
+   "text": "ř. 5 „ein gůt gesell“ vypsáno na levém okraji vedle iniciály; ř. 14 rukopis „sollich maß“, edice „sollicher maß“"
+  },
+  {
+   "strana": 161,
+   "text": "edice 1862 tu má značku „Fol. 80.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak byl proti Hagenbachovi učiněn úklad a v Breisachu nastrojen",
+ "poznamky_prekladu": [
+  "„gůt gesell“ = dobrý druh (druhové, glosář gesellen); slova jsou v rukopisu vypsána na okraji vedle iniciály.",
+  "„an allen di[n]ge[n][?]“ – čtení nejisté, proto „ve všech věcech [?]“.",
+  "„wütrich“ = ukrutník, tyran; „regalien“ = regálie (panovnická práva, např. mýto, ražba).",
+  "Úklad vedl ke vzpouře v Breisachu a zajetí Hagenbacha v dubnu 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1469
+}

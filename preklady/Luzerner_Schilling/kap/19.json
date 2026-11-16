@@ -1,0 +1,53 @@
+{
+ "cislo": 19,
+ "nadpis": "Wie keiser fridrich dazemal gan Basel kam vnd die eitgnossen durch hagenbach gehindert wurdend für ze komen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 161,
+ "strany": [
+  161,
+  162
+ ],
+ "odstavce": [
+  {
+   "text": "Zů den selben zitten vnd tagen alß hagenbach jn sinem strengen gewalt alwegen für sich ze regiert begab es sich dz keiser fridrich gan basel kam ettlicher gescheffen halb Dahin nu min heren gemein eitgnossen ouch jrs anligens halb jr treffelich bottschafft dahin schicktend nu was hagenbach ouch dazemal wol zehoff by dem keiser vnd alwege[n] den eitgnoss[en] widerwärtig vnd vermocht souil dz zů allen malen wan[n] der eitgnossen botten für die k[eiserliche] m[aiestat] wolten · dz verhielt dz sy ein lang zit zů basel jn grossem costen ligen vnd dem hindristen uß müstend warten je doch machtend sy jm ouch nit lenger swigen vnd ward jm von her niclauß von diespach ritt[er] schulth[eis] zů bärn geseit er sölte sich darnach wüssen ze richten wa er den eitgnossen würde ze erbarmen dz sy jm an sin fürderniß wöltend gedencken hagenbach verachttet aber dazemal sollich red bedacht wenig dz so jme zů handen gieng",
+   "preklad": "V těch časech a dnech, kdy Hagenbach ve své tvrdé moci stále vládl po svém, stalo se, že císař Fridrich přišel do Basileje kvůli jakýmsi záležitostem. Tam tedy moji páni, všichni Spříseženci, také kvůli své tísni poslali své vzácné poselstvo. Hagenbach byl tehdy také dobře u dvora u císaře a byl Spřísežencům stále nepřátelský. Zmohl tolik, že kdykoli chtěli poslové Spříseženců předstoupit před Jeho císařskou Majestát, zdržel to, takže museli dlouhý čas ležet v Basileji s velkými náklady a čekat až do posledního. Přesto mu už déle nemlčeli a pan Niclaus von Diesbach, rytíř, starosta v Bernu, mu řekl, ať se podle toho zařídí: kdyby se někdy dostal Spřísežencům do rukou, rádi si vzpomenou na jeho ochotu. Hagenbach však tehdy takovou řeč pohrdl a málo myslel na to, co ho čeká."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 161,
+   "popis": "císař Fridrich na trůnu v klenutém sále s basilejskými erby, před ním dvořané a švýcarští vyslanci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 162,
+   "text": "162 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 161,
+   "text": "v nadpisu je „kam“ vepsáno nad řádek; edice má místo „gehindert“ zkomolené „ann“"
+  },
+  {
+   "strana": 161,
+   "text": "ř. 9 edice „er dz verhielt“, v rukopisu „er“ nevidím (jen tečka); ř. 11 rukopis „machtend“, edice „mochtend“; ř. 13 edice „Barn“"
+  },
+  {
+   "strana": 162,
+   "text": "edice 1862 tu má značku „Fol. 80 b.“; nahoře prosvítá foliace „lxxx“ ze s. 161"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak císař Fridrich tehdy přišel do Basileje a jak Hagenbach bránil Spřísežencům předstoupit [před něho]",
+ "poznamky_prekladu": [
+  "Císař Fridrich III. pobýval v Basileji v roce 1473 (na cestě k jednání s Karlem Smělým v Trevíru a zpět) (mimo přepis).",
+  "„wa er den eitgnossen würde ze erbarmen“ = kdyby byl někdy odkázán na milost Spříseženců; „an sin fürderniß gedencken“ = vzpomenout na jeho přízeň/ochotu – ironická výhrůžka, která se naplnila Hagenbachovou popravou v Breisachu 9. 5. 1474 (mimo přepis).",
+  "„dem hindristen uß müstend warten“ = museli čekat až do posledního, nejdéle ze všech.",
+  "Edice 1862 má „er dz verhielt“, v rukopisu „er“ nevidět (viz poznámka přepisu); smysl nezměněn.",
+  "„für ze komen“ v rubrice = předstoupit (před císaře)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1473
+}

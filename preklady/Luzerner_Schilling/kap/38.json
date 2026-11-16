@@ -1,0 +1,63 @@
+{
+ "cislo": 38,
+ "nadpis": "Wie die so uff jungen lagend mangel gewunnend an spis vnd tranck vnd was jnen begegnet",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 185,
+ "strany": [
+  185,
+  186,
+  187
+ ],
+ "odstavce": [
+  {
+   "text": "Nu begab es sich alß die von basel jre soldner wider heim hattend genomen Das die knecht uff jungen mangel hattend an win vnd verordnetend zwen gan yferden zefaren vnd jnen da win zekouffen alß ouch Die selben zwen tatend vnd sumptend sich solang dz sy jn der statt zů yferden benachtetend Das nu der graff von remund hat vernome[n] vnd meint der eitgnossen knächten wärend vil jn der stat ein antrag zetůn das jnen yferden ouch wurde vnd kam der selben nacht mit eim grossen zůg vnd über fiel die jn der statt Doch kamend die zwen ab jungen so win hattend kouft kamend mit grosser nott darvon liessend den win dahinden den aber die von yferd[en] Dem nach tür genug bezaltend Vnd was peter etterli von lucern der erst hoptman uff jungen vnd der zweyen einer so den win zů yferden hattend kofft Sy entrunnend aber beid kamend derselben nacht gan orben vnd da danne[n] gan jung[en] Da was man jr vast fro Der selben nacht ward ouch Brandolff vom stein von bärn uß dem schloß zů granson betrogen vnd gevangen Das brachtend ettlich tütsch knächt zewägen so von eitgnossen by dem hertzoge[n] von burgun warend Doch ward weder yferden nach granson derselb[en] nacht jngenome[n] wan der graff forcht jm gieng vnglück an darvmb dorfft er sich so lang nit da sumen vnd uff sollich verräterig tettend die jn zůsetzen sollichs jren heren vnd obern kunt Da rustend sich ylendtz alwege[n] die nächsten gan jungen vnd granson zů zeziehen Das selb marckt der graff von remund rucht schnell wider uß dem land Doch brachend die von bern e uff dann ander zugend gan stäfis vnd gewunnend dz selb wie oder jn welhe wäg lan ich jn sine[m] wäsen bliben Abe[r] wa kein gotzforcht oder ordnung ist vnd der gewalt nit mag oberhand haben Da gat gern der wagen vor den rosse[n] also geschach ouch an dem end",
+   "preklad": "Stalo se pak, když si Basilejští vzali své žoldnéře zase domů, že knechti v Jougne měli nedostatek vína. Určili dva, aby jeli do Yverdonu a nakoupili jim tam víno. Ti dva tak učinili, ale zdrželi se tak dlouho, že je ve městě Yverdonu zastihla noc. Když se to dozvěděl hrabě z Romontu a domníval se, že knechtů Spříseženců je ve městě mnoho, osnoval plán, aby mu i Yverdon připadl. Té noci přišel s velkým vojskem a přepadl ty, kdo byli ve městě. Ti dva z Jougne, kteří koupili víno, však s velkou nouzí unikli. Víno nechali za sebou; to ale Yverdonští potom zaplatili dost draze. Peter Etterli z Luzernu, první hejtman v Jougne, byl jeden z těch dvou, kteří víno v Yverdonu koupili. Oba však unikli, přišli téže noci do Orbe a odtud do Jougne. Tam z nich měli velkou radost. Téže noci byl také Brandolff vom Stein z Bernu z hradu v Grandsonu podveden a zajat. To způsobili někteří němečtí knechti od Spříseženců, kteří byli u vévody Burgundského. Ani Yverdon ani Grandson však té noci vzat nebyl, neboť se hrabě bál, že by se mu stalo neštěstí, a proto se tam nesměl dlouho zdržet. Na takovou zradu dali ti v posádkách znát svým pánům a vrchnosti. Tu se v rychlosti ozbrojili vždy ti nejbližší, aby táhli k Jougne a ke Grandsonu. To zpozoroval hrabě z Romontu a rychle se zase stáhl ze země. Bernští však vyrazili dříve než ostatní, táhli k Estavayeru a dobyli ho. Jak a jakým způsobem, nechávám být, jak to bylo. Ale kde není bázeň Boží ani řád a kde moc nemůže mít vrch, tam rád jede vůz před koňmi. Tak se stalo i tam."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 186,
+   "popis": "jezdci a pěší s korouhvemi před opevněným městem (Estavayer / Stäfis)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 186,
+   "text": "186 (moderní paginace, levý horní roh)"
+  },
+  {
+   "strana": 187,
+   "text": "lxxxxiii[?] (původní foliace nahoře uprostřed, nad starší přeškrtnutou číslicí); 187 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 185,
+   "text": "v nadpisu edice „mangel e“, rukopis „mangel gewunnend“; ř. 11 rukopis opakuje „kamend“ (edice jen jednou); edice všude „Pferden“ (chybné čtení), rukopis „yferden“; zbytek strany pod textem prázdný"
+  },
+  {
+   "strana": 186,
+   "text": "edice 1862 tu má značku „Fol. 92 b.“"
+  },
+  {
+   "strana": 186,
+   "text": "ř. 5 edice „Brandelſ von Stein“, rukopis „Brandolff vom stein“"
+  },
+  {
+   "strana": 187,
+   "text": "edice 1862 tu má značku „Fol. 93.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak ti, kteří leželi v Jougne, přišli do nedostatku jídla a pití a co je potkalo",
+ "poznamky_prekladu": [
+  "„graff von remund“ = hrabě z Romontu, Jakub Savojský (mimo přepis).",
+  "„yferden“ = Yverdon (edice 1862 čte všude chybně „Pferden“).",
+  "„ein antrag zetůn“ = osnovat úklad, pokus.",
+  "„den aber die von yferden Dem nach tür genug bezaltend“ – Schilling naznačuje, že Yverdonští později za to tvrdě zaplatili (snad narážka na pozdější události).",
+  "Oproti Bernu 3: Bern 3 (kap. 269) spojuje zajetí Brandolfa vom Stein, bernského hejtmana v Grandsonu, s vražednou nocí v Yverdonu (leden 1476); Luzern je klade do noci hraběte z Romontu před dobytím Estavayeru.",
+  "Dobytí Estavayeru Bernskými (a dalšími) proběhlo v říjnu 1475 a provázel ho krutý masakr (mimo přepis); Schilling se o něm výslovně odmítá rozepsat. „Da gat gern der wagen vor den rossen“ = rčení „vůz jede před koňmi“, tj. vše je naruby."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

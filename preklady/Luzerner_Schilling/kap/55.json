@@ -1,0 +1,48 @@
+{
+ "cislo": 55,
+ "nadpis": "Von zweyen bischoffen so zů costentz beid vermeinte[n] / rächt ze haben das bistum zeregiere[n] vnd here zesind",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 211,
+ "strany": [
+  211,
+  212
+ ],
+ "odstavce": [
+  {
+   "text": "Ouch begab es sich das jn disen zitten ein bischoff zů costentz starb hieß her Herman von landenberg / Also den nu dz capitel uß bäpstlicher vnd keiserlicher fryheit erwalten / Graff Otte von Sunnenberg ein gelerten erlichen heren / Jn dem was einer ^ von friberg der sich das bistum zů Rom ouch an vnd bracht souil zewägen nach langem dz er bestätet / Daruß zů beiden teilen jr geschlecht dz capittel vnd ander sachen halb groß vnwil entsprang vnd ward ein sollich zwitracht daruß dz jeglicher bischoff das chorgericht besatzt vnd richt einer zů costentz der ander zů zell jn vndersee / aber der erwelt vom capittel hatt die pfaltz jnn / Doch ward am letste[n] gemacht dz man weder zů costentz noch zů zell sunder ussert[?] der mur zecostentz by den predigern richt / was aber[?] alles by krefften bekent vom bapst so von beiden bischoffen gericht vnd gemacht was worden / vnd also am letsten der von friberg abgestelt vnd jm ettlich rente[n] abgetragen / vnd damit der erwelt jn ruwige possessio[n] gesetzet regiert wol vnd was ein wiser gütiger fürst",
+   "preklad": "Také se přihodilo, že v těchto časech zemřel biskup v Kostnici, jmenoval se pan Herman von Landenberg. Tu kapitula na základě papežského a císařského privilegia zvolila hraběte Otu von Sunnenberg, učeného a počestného pána. Mezitím byl jeden [pan Ludwig] von Friberg, který si biskupství v Římě také nárokoval a po dlouhé době dosáhl toho, že byl potvrzen. Z toho mezi oběma stranami, jejich rody, kapitulou a kvůli jiným věcem vzešla velká nevole a vznikl z toho takový rozkol, že každý biskup obsadil [svůj] duchovní soud a jeden soudil v Kostnici, druhý v Radolfzellu na Untersee. Ale ten zvolený kapitulou držel biskupskou falc. Nakonec se však ustanovilo, že se nebude soudit ani v Kostnici, ani v Radolfzellu, ale venku [?] za hradbou Kostnice u dominikánů. Ale [?] papež uznal za platné všechno, co oba biskupové nasoudili a učinili. A tak byl nakonec ten von Friberg odstaven a dostal nějaké důchody, a tím byl zvolený uveden do pokojné držby; vládl dobře a byl to moudrý a dobrotivý kníže."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 211,
+   "popis": "dvojitá iluminace: vlevo biskup na trůnu v kostele, vpravo biskup žehná u oltáře (dva konstanští biskupové)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 211,
+   "text": "vlevo u ř. 6 k odkazové značce ^: „h[er] Lüdwig“"
+  },
+  {
+   "strana": 212,
+   "text": "212 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 211,
+   "text": "edice 1862 (Fol. 104) je v OCR v tomto úseku nečitelná (jen „das biſtum“ v rubrice rejstříku: „Von zweyen biſchoffen zuo Coſtentz“), srovnání nemožné"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "O dvou biskupech v Kostnici, kteří se oba domnívali, že mají právo spravovat biskupství a být pánem",
+ "poznamky_prekladu": [
+  "„h[er] Lüdwig“ – jméno doplněno na okraji s. 211 k odkazové značce, v překladu v hranatých závorkách.",
+  "Hermann von (Breiten)landenberg zemřel 1474; následoval spor Oty von Sonnenberg (zvolen kapitulou) a Ludwiga von Freiberg (papežská provize) do roku 1480 (mimo přepis).",
+  "„zů zell jn vndersee“ = Radolfzell na Untersee; „chorgericht“ = biskupský (konzistorní) soud; „pfaltz“ = biskupská rezidence (falc) v Kostnici; „by den predigern“ = u dominikánů (řád kazatelů).",
+  "„ussert[?]“, „aber[?]“ – nejistá čtení, přenesena. Kapitola je vsuvkou mimo burgundské války."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

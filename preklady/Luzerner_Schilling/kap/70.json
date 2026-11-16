@@ -1,0 +1,48 @@
+{
+ "cislo": 70,
+ "nadpis": "Wie aller züg sich wider an der bruck vm kart vnd dz läger schlůg vnd man erst vernam dz der hertzog was[?] vm komen was",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 242,
+ "strany": [
+  242,
+  243
+ ],
+ "odstavce": [
+  {
+   "text": "Der hoptman jn der statt hieß der gräß Derselb vnd der hertzog von lothringen fundend einander by der brucken weintend beid von fröud vnd vmb fiengend einandern ouch schlůg der hertzog den hoptman zů ritter vnd seit jm vil gůtz zů vnd alß wüst dennocht nieman das der hertzog von burgun was vmb komen vnd kart sich aller züg vmb vnd schlůg man das läger dahin da die burgunder warend gelägen vnd da fund man den hertzogen von burgun tod jn einem graben ligen Den nam der hertzog von lothringe jn die statt jn sin palast Darin jn vil güter gesellen geschowetend vnd sahend uff einem tisch ligen mit einem swartze[n] samet verdeckt vnd erlich besunder[?] ouch kostlich jn sant jörgen kilchen zů nanse bestattet",
+   "preklad": "Hejtman ve městě se jmenoval der Gräß. Ten a vévoda Lotrinský se setkali u mostu, oba plakali radostí a objali se. Vévoda také pasoval hejtmana na rytíře a mnoho dobrého mu přislíbil. A tak ještě nikdo nevěděl, že vévoda Burgundský zahynul. Celé vojsko se obrátilo zpět a tábor se rozbil tam, kde leželi Burgunďané. A tam se našel vévoda Burgundský mrtvý ležet v příkopu. Toho vzal vévoda Lotrinský do města do svého paláce, kde si ho prohlíželo mnoho dobrých druhů a vidělo ho ležet na stole přikrytého černým sametem. A byl čestně, zvláště [?] také nákladně pohřben v kostele svatého Jiří v Nancy."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 242,
+   "popis": "vojsko s korouhvemi a stany se shromažďuje u Nancy (ležení po bitvě)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 243,
+   "text": "243 (moderní paginace, pravý horní roh); nahoře foliace „Cxx“"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 242,
+   "text": "ř. 15 edice 1862 má poškozený text („erlich e, ige nn * n eine Ola“), rukopis: „erlich besunder[?] ouch kostlich jn sant jörgen kilchen zů nanse bestattet“; ř. 3 edice „fröuden“, rukopis „fröud“; ř. 6 rukopis „alß wüst“, edice „alſo wüſt“"
+  },
+  {
+   "strana": 243,
+   "text": "edice 1862 tu má značku „Fol. 120“"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "Jak se celé vojsko opět obrátilo k mostu a rozbilo tábor a jak se teprve zjistilo, že vévoda zahynul",
+ "poznamky_prekladu": [
+  "Rubrika: „dz der hertzog was[?] vm komen was“ – nejisté zdvojené „was“, přeloženo jednou.",
+  "„der gräß“ – velitel posádky Nancy; snad Gratien d'Aguerre (mimo přepis, nejisté). Jméno ponecháno podle rukopisu.",
+  "„besunder[?]“ nejisté čtení (edice zde poškozená).",
+  "„sant jörgen kilchen“ = kolegiátní kostel sv. Jiří v Nancy, kde byl Karel Smělý pohřben (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1477
+}

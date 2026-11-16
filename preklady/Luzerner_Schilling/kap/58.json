@@ -1,0 +1,43 @@
+{
+ "cislo": 58,
+ "nadpis": "Wie die eitgnossen ein volck zeroß vnd füß vor dannen / schicktend des burgunders züg zebesichtigen",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 215,
+ "strany": [
+  215,
+  216
+ ],
+ "odstavce": [
+  {
+   "text": "Die so des hertzogen von burgund züg zebesichtig[en] verordnet wurdend / zugend früg uff der zeche[n] tusent ritter tag jn einem vast grossen rägen uß der was jn massen das nieman meint das es des tags uff hörte rägnens / Alß nu die selben für den wald hinuß kamend / stieß des hertzogen von burgun wacht uff sy vnd ward glich ein larmen jm selben her / das je der hertzog von burgun das vernam / vnd uff dz ruschte er sich angendz mit macht zů der gegen were mit vil büchsen vnd anderm geschütz zeroß vnd zefůß / Der eitgnossen lüt vnd jr verwanten so uß geschickt warend schicktend aber ylendtz hindersich vnd tatend den übrig[en] eitgnossen das kunt was vorhanden wäre / Dar durch ouch ein merklich geschrey jn dz her kam vnd ward gerett die jren so voruß hin[?] geschickt wärend angriff[en] von den vienden / Da fieng man sich erst vast an rüsten vnd sich zefichten[?] rüsten",
+   "preklad": "Ti, kteří byli určeni obhlédnout vojsko vévody Burgundského, vytáhli časně ráno na den deseti tisíc rytířů ve velmi velkém dešti. Ten byl takový, že nikdo nemyslel, že toho dne přestane pršet. Když nyní ti vyšli ven před les, narazila na ně stráž vévody Burgundského a hned byl v tom vojsku poplach, takže se to vévoda Burgundský dozvěděl. A nato se ihned celou mocí vrhl do obranného postavení s mnoha děly a jinými palnými zbraněmi, na koni i pěšky. Lidé Spříseženců a jejich spojenců, kteří byli vysláni, poslali ale spěšně zpátky a dali ostatním Spřísežencům na vědomí, co se děje. Tím se také do vojska dostal velký pokřik a říkalo se, že jejich lidé, kteří byli vysláni napřed [?], byli napadeni od nepřátel. Tu se teprve začali velmi chystat a chystat se k boji [?]."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 215,
+   "popis": "švýcarský zvědný oddíl pěších a jezdců u lesní ohrady (plotu) naráží na burgundskou stráž"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 216,
+   "text": "216 (moderní paginace, levý horní roh); nahoře uprostřed vybledlá číslice (nečitelná)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 215,
+   "text": "edice 1862 (Fol. 106) „die Eitgnoſſen ein wel Pu vnd use vor“ (OCR) – rukopis „ein volck zeroß vnd füß vor dannen“; edice „ſchicktend aber vlendtz hinderſich“ shodně; edice „ruſcht er fich“ – rukopis „ruschte er sich“"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "Jak Spříseženci poslali napřed oddíl jízdy a pěších, aby obhlédli Burgunďanovo vojsko",
+ "poznamky_prekladu": [
+  "Oproti Bernu 3 a běžnému líčení: podle Luzernu vyšel průzkum i celé vojsko v týž den (22. 6. 1476); jinde se uvádí, že průzkum proběhl již 21. 6. (mimo přepis). Ponecháno podle textu.",
+  "„zeroß vnd füß“ = jízda a pěší; „gegen were“ = obranné postavení (glosář gegenwere), u Murtenu tzv. Grünhag, opevněná linie s děly (mimo přepis).",
+  "„hin[?]“, „zefichten[?]“ (snad zefechten = k boji) – nejistá čtení, přenesena."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

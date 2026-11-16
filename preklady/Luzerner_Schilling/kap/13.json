@@ -1,0 +1,52 @@
+{
+ "cislo": 13,
+ "nadpis": "Von einem Cometen dem sprach man der pfawe[n] swantz oder die rüten",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 155,
+ "strany": [
+  155,
+  156
+ ],
+ "odstavce": [
+  {
+   "text": "Nach dissen dingen allen vnd jn dem jar als man zalt von der geburt cristi M cccc vnd lxxij[?] jar jn dem jenn[er] ward gegen sunnen nidergang vnd zeletst gegen mittnacht ein comet mit langen swarten strimen gantz sweyssig[?] vnd als disser stärn noch nit verswinen was aber ein ander gesähen worden gegen uff gang der sunnen mit fürine[n] strimen glich einer rüten ettlich sprachend es wär ein pfaw[en] schwantz Vff sollich gestirn kam vast ein warmer sumer sollicher maß das alles ertrich so drochen vnd türr was das des jars wenig früchten für kam ouch kam ein grosse pestilentz daruff jn allen tütschen landen Des glich erhübend sich vil vnd mengerley krieg vnd uffrür jn tütschen vnd wälschen landen das kum darvor gehört was sollich zweyträcht vnd widerwärtikeiten wie hie nach gehört wirt",
+   "preklad": "Po všech těchto věcech, v roce, kdy se psalo od narození Krista 1472 [?], v lednu, objevila se na západě a nakonec na severu kometa s dlouhými černými pruhy, celá „sweyssig“ [?]. A když tato hvězda ještě nezmizela, byla spatřena další na východě s ohnivými pruhy jako metla; někteří říkali, že je to paví ocas. Po takových nebeských znameních přišlo velmi teplé léto, a to takovým způsobem, že všechna země byla tak suchá a vyprahlá, že toho roku urodilo málo plodů. Také přišel potom velký mor ve všech německých zemích. Stejně tak povstalo mnoho a rozmanitých válek a vzpour v německých i vlašských zemích, takže sotva kdy předtím bylo slýcháno o takových svárech a protivenstvích, jak se dále uslyší."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 155,
+   "popis": "dvě komety („páví ocas“ a „metla“) nad krajinou s kostely a domy, lidé hledí k nebi"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 155,
+   "text": "1472 (pozdější ruka, pravý okraj u data)"
+  },
+  {
+   "strana": 156,
+   "text": "156 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 155,
+   "text": "číslovka letopočtu je v rukopisu stísněná a špatně čitelná (edice „m cccc vnd lxxij“, okrajový přípisek 1472)"
+  },
+  {
+   "strana": 156,
+   "text": "edice 1862 tu má značku „Fol. 77 b.“"
+  }
+ ],
+ "nejista_mista": 2,
+ "nadpis_preklad": "O kometě, které se říkalo pávím ocasem nebo metlou",
+ "poznamky_prekladu": [
+  "Letopočet v rukopisu stísněný a špatně čitelný (edice i okrajový přípisek 1472), proto [?]. Velká kometa z ledna 1472 je doložena i jinde (mimo přepis).",
+  "„gantz sweyssig[?]“ – nejasné slovo, snad „schweifig“ (s ohonem); ponecháno v originále s [?].",
+  "„rüten“ = metla, prut; obě pojmenování (paví ocas, metla) jsou lidová jména komety.",
+  "Velmi horké a suché léto je známé zvláště z roku 1473 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1472
+}

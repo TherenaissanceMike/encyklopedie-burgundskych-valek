@@ -1,0 +1,47 @@
+{
+ "cislo": 21,
+ "nadpis": "Hie ward fridrich vögeli zů hoptman erwelt vnd der antrag über den hagenbach gemacht",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 163,
+ "strany": [
+  163,
+  164
+ ],
+ "odstavce": [
+  {
+   "text": "Moyses ward zů dem küng pharo geschickt die kind von jsrahel jn das gelopt land zelassen vnd darumb das zetůnde gewarnet Dem küng ward aber sin härtz verhertet das er mit gewalt das volck nit wolt lassen des aber er vnd alles sin volck zů letst jm mere ertrunckend Also geschicht gewonlich allen denen so jren gewaltte wider den willen gottes vnd die gesatztend rächt oder cristenliche ordnung bruchend Das beschach ouch heren peter[n] von hagenbach wann da er also jn sinem tyrannischen gewalt me dann ein jar hochmütenclich regiert vnd der meynung was er hätte das schwärt jn der hand Die wil hattend sich aber ettlich von dem gewalt vnd der gemeind zesame[n] verpflichtet zů brisach sich mit eyd vnd eren verpunden vnd ein andern versprochen by ein andern zebliben zestärben vnd zegenäsen vnder denen einer genant friderich vögeli burg[er] zů brisach der was ein schnider ein manlicher redlich[er] man der dann zů eine[m] hoptman jn disser sach von jn allen erwelt ward Das selb was jn der vasten da die biderben lüt lieber hättend gott gedienet jnen tett aber sich selber so nott zeretten das jnen dardurch ein vnrůw uff den halß wůchß kam jnen wol aber dem hagenbach vast übel",
+   "preklad": "Mojžíš byl poslán k faraonovi, aby propustil syny Izraele do zaslíbené země, a byl varován, aby tak učinil. Králi však bylo srdce zatvrzeno, takže lid nechtěl mocí propustit; proto se nakonec on i všechen jeho lid utopili v moři. Tak se obvykle stává všem, kdo užívají své moci proti vůli Boží a proti ustanovenému právu nebo křesťanskému řádu. To se stalo také panu Peterovi von Hagenbach. Neboť když takto ve své tyranské moci přes rok zpupně vládl a domníval se, že má meč v ruce, zavázali se mezitím v Breisachu někteří z vrchnosti i z obce, spojili se přísahou a ctí a slíbili si navzájem, že spolu vytrvají, spolu zemřou i spolu přežijí. Mezi nimi byl jeden jménem Friedrich Vögeli, měšťan v Breisachu, krejčí, muž mužný a poctivý; toho všichni zvolili v této věci za hejtmana. Stalo se to v postě, kdy by ti poctiví lidé byli raději sloužili Bohu. Musili se však sami zachránit, a tak jim z toho na krk narostl neklid. Jim to dopadlo dobře, Hagenbachovi však velmi zle."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 163,
+   "popis": "před hradbami Breisachu se shromáždění měšťané (spiklenci) radí kolem svého hejtmana Fridricha Vögeliho"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 164,
+   "text": "164 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 163,
+   "text": "edice 1862 vynechává první dva a půl řádku textu (od „Moyses ward zů dem küng pharo“ po „vnd darumb“) a začíná až „darvmb das zetuonde gewarnet“; jinak shoda"
+  },
+  {
+   "strana": 164,
+   "text": "edice 1862 tu má značku „Fol. 81 b.“; nahoře prosvítá foliace „lxxxi“ ze s. 163"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Zde byl Friedrich Vögeli zvolen hejtmanem a byl ukut úklad proti Hagenbachovi",
+ "poznamky_prekladu": [
+  "Úvodní příměr o Mojžíšovi a faraonovi (Ex 5–14) edice 1862 zčásti vynechává (viz poznámka k přepisu); v rukopisu je celý.",
+  "„von dem gewalt vnd der gemeind“ – přeloženo „z vrchnosti i z obce“ (gewalt = vládnoucí moc, rada).",
+  "„jn der vasten“ = v postní době; Velikonoce 1474 připadly na 10. 4. (juliánský kalendář), půst tedy zhruba od 23. 2. 1474 (mimo přepis)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1474
+}

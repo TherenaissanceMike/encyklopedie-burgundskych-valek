@@ -1,0 +1,43 @@
+{
+ "cislo": 40,
+ "nadpis": "Wie min heren von lucern bärn friburg vnd soloturn zesamen kamend vnd ein ratschlag tatend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 188,
+ "strany": [
+  188,
+  189
+ ],
+ "odstavce": [
+  {
+   "text": "In sollichem handel kamend aber min heren von lucern trostlich zů denen von bärn vnd friburg Des glichen kamend ouch die frommen von soloturn zů jnen vnd wurdent da mit ein andern rätig vnd namend die soldner von jungen danne[n] liessend das stättli vnd schloß verbrenne[n] meintend sy hättend genug an granson vnd an yferden ouch verbrantend sy orben wann die selben warend nit gůt cristen vnd besatztend die von bärn granson aber yferden ward besetzt von mine[n] heren von lucern ouch von denen von friburg vnd soloturn vn[d] ettlichen von bärn Vnd da granson vnd yferden also besetzet wurdent zugend sy fürbaß jn das land vnd schicktent Der bischoff vnd die statt von jenff jr treffelich bottschafft haruß vnd machtend ein täding mit den eitgnossen damit sy nit witer zugend ouch das land nit brantend vnd ward jnen darvmb ein merglich sum[m] geltes verheissen zegeben vnd also zoch jederma[n] ab vnd abermalß wider heim",
+   "preklad": "V té věci přišli opět moji páni z Luzernu povzbudivě k Bernským a Fribourgským. Stejně tak přišli k nim také stateční Solothurnští. Tam se spolu usnesli a vzali žoldnéře z Jougne pryč. Městečko a hrad dali spálit, neboť soudili, že jim stačí Grandson a Yverdon. Spálili také Orbe, neboť tamní lidé nebyli dobří křesťané. Bernští obsadili Grandson, ale Yverdon obsadili moji páni z Luzernu, dále Fribourgští, Solothurnští a někteří Bernští. A když byly Grandson a Yverdon takto obsazeny, táhli dál do země. Tu biskup a město Ženeva vyslali své vznešené poselstvo a uzavřeli se Spříseženci dohodu, aby netáhli dál a nevypalovali zemi. Za to jim byla slíbena značná suma peněz. A tak každý odtáhl a opět se vrátil domů."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 188,
+   "popis": "porada jezdců a vojska s korouhvemi Bernu, Fribourgu, Lucernu a Solothurnu, v pozadí hrad na kopci"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 189,
+   "text": "lxxxxiiii (původní foliace nahoře uprostřed); 189 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 189,
+   "text": "edice 1862 tu má značku „Fol. 94.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak se moji páni z Luzernu, Bernští, Fribourgští a Solothurnští sešli a radili se",
+ "poznamky_prekladu": [
+  "„wann die selben warend nit gůt cristen“ – vztah je nejasný, nejspíš míněni obyvatelé Orbe; přeloženo „tamní lidé“.",
+  "„täding“ = vyjednávání, dohoda. Ženevská smlouva z podzimu 1475; suma se v jiných pramenech uvádí asi 26 000 tolarů (écus) (mimo přepis, neověřeno).",
+  "Oproti Bernu 3: Bern 3 (kap. 244) popisuje spálení Jougne žoldnéři po dlouhém držení posádky; Luzern je spojuje s poradou čtyř měst."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

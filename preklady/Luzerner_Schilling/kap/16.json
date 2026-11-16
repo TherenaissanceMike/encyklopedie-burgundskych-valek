@@ -1,0 +1,38 @@
+{
+ "cislo": 16,
+ "nadpis": "Von bischoff walther von wallis wie vnder jm jr burgrecht ernüwert verbriefft vnd versiglet wart",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 158,
+ "strany": [
+  158
+ ],
+ "odstavce": [
+  {
+   "text": "Es was zů dissen zitten ein bischoff zů wallis mit namen her walther uff der flü jn dem jar als man zalt tusend vierhundert drüw vnd sibentzig jar vast ein wiser fürst von grober person der wol kond betrachten des landes wallis ouch sin vnd siner nachkomen lob nutz vnd ere Der selb trůg an vnd bracht zewäg damit das burgrächt so die walliser vnd ein bischoff mit den dryen waltstetten lucern vre vnd vnderwalden hand vnder jm ernüwert verbriefft versiglet vnd bestätet ward ze ewigen zitten zehalten",
+   "preklad": "V těch časech byl biskupem ve Wallisu pan Walther uff der Flü, v roce, kdy se psalo tisíc čtyři sta sedmdesát tři, velmi moudrý kníže statné postavy, který dobře uměl uvážit chválu, užitek a čest země Wallis i svou a svých nástupců. Ten navrhl a dosáhl toho, že měšťanské právo (burgrecht), které mají Walliští a biskup se třemi Lesními místy Luzernem, Uri a Unterwaldenem, bylo za něho obnoveno, stvrzeno listy, zapečetěno a potvrzeno, aby se zachovávalo na věčné časy."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 158,
+   "popis": "biskup Walter Supersaxo (v dlouhém plášti) a zástupci Wallisu a Waldstätten při přísaze obnoveného spolku (zdvižené prsty)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 158,
+   "text": "1473 (pozdější ruka, levý okraj u data)"
+  }
+ ],
+ "poznamky": [],
+ "nejista_mista": 0,
+ "nadpis_preklad": "O biskupu Waltherovi z Wallisu, jak za něho bylo jejich měšťanské právo obnoveno, stvrzeno listy a zapečetěno",
+ "poznamky_prekladu": [
+  "Walther uff der Flü = Walter Supersaxo, biskup sedunský (sionský) 1457–1482 (mimo přepis).",
+  "„von grober person“ = statné, mohutné postavy.",
+  "„dryen waltstetten“ – Schilling zde jako tři Lesní místa jmenuje Luzern, Uri a Unterwalden (bez Schwyzu), protože právě s nimi měl Wallis měšťanské právo.",
+  "Iluminace na s. 158 patří námětem k této kapitole (viz poznámka přepisu u kap. 17)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1473
+}

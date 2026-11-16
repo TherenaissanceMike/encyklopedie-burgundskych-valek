@@ -1,0 +1,48 @@
+{
+ "cislo": 34,
+ "nadpis": "Wie denen von Bärn vnd friburg groß warnung von des hertzogen von burgund wägen kamend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 181,
+ "strany": [
+  181,
+  182
+ ],
+ "odstavce": [
+  {
+   "text": "Nu fieng sich an der schimpff machen wann der stecken was jn das wäspi nest gestossen vnd ward der hertzog von burgund hart vnd übel erzürnt fieng ouch an zetröwen vnd ze ratschlagen wie er den schaden wölte rächen sollicher maß das jemer denen von Bärn vnd friburg den biderben lüten so am anstoß warent täglich grosse warnung von gůten fründen kamend wie der hertzog von burgun mit eim grossen zůg haruff käme wie ein zorniger bär den nächsten schaden zerächen vnd das so jm von eitgnossen vnlidenlich was zeuergelten Nu kondent Die frommen fürsichtigen vnd wisen von bern wol betrachte[n] vnd ermässen das sy an der frowen von saffoy so damaln regiert wann hertzog philip was tot / nit ein gůten nachpur hattend vnd wo der hertzog von burgun vor jnen jn saffoy vischete dz villicht die hertzogin jm die besten schloß vnd stett hätte jngeben Das aber jnen zů verderplichem schaden komen wäre vnd dester e jnen jn jr land kome[n] Darvm[b] wurdent sy zerat vnd meintend es wäre wäger sy nämend sollich stett vnd schlösser zů jren handen jn wann das sy der hertzog von burgun jnn hätte vnd uff sollichs zugend die obgenante[n] zwo stett mit jr macht vnd panern vß jn dem obgenante[n] jar schribend das angends minen heren von lucern alß jren getrüwen lieben eitgnossen / battend sy ein gůt getrüw uffsehe[n] uff sy zehaben alß denn miner heren der eitgnossen gewonheit je vnd je ist gewäsen vnd jnnhalt jr loblich pünden fürhin also mit gotzhilff wirt[?] bliben vnd erlich gehalten",
+   "preklad": "Tu se začala ta „hra“, neboť hůl byla strčena do vosího hnízda. Vévoda Burgundský se tvrdě a zle rozhněval, začal také vyhrožovat a radit se, jak by chtěl tu škodu pomstít. Bylo to takové, že Bernským a Fribourgským, poctivým lidem, kteří byli na hranici, přicházela od dobrých přátel denně velká varování, že vévoda Burgundský sem přitáhne s velkým vojskem jako rozzlobený medvěd, aby pomstil nedávnou škodu a oplatil to, co mu Spříseženci způsobili a co pro něj bylo nesnesitelné. Stateční, prozíraví a moudří Bernští dobře uvážili a odhadli, že v paní Savojské, která tehdy vládla, neboť vévoda Philip byl mrtev, nemají dobrého souseda. A kdyby vévoda Burgundský „lovil“ v Savojsku dříve než oni, vévodkyně by mu snad vydala nejlepší hrady a města. To by jim však přišlo ke zhoubné škodě a on by se tím dříve dostal do jejich země. Proto se usnesli a soudili, že bude lepší, když takové hrady a města vezmou do svých rukou sami, než aby je měl vévoda Burgundský. Na to obě jmenovaná města vytáhla ve zmíněném roce se svou mocí a korouhvemi. Hned to napsali mým pánům z Luzernu jako svým věrným milým Spřísežencům a prosili je, aby na ně měli dobrý a věrný ohled, jak bylo vždycky obyčejem mých pánů Spříseženců a jak podle obsahu jejich chvalných spolků s Boží pomocí i nadále bude [?] zachováváno a čestně dodržováno."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 181,
+   "popis": "Bernští a Fribourgští vytahují s korouhvemi z města (tažení do Vaudu)"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 182,
+   "text": "182 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 181,
+   "text": "ř. 26 „wirt“ je v rukopisu snad přeškrtnuté nebo přepsané"
+  },
+  {
+   "strana": 182,
+   "text": "edice 1862 tu má značku „Fol. 90 b.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "Jak Bernským a Fribourgským přicházela velká varování kvůli vévodovi Burgundskému",
+ "poznamky_prekladu": [
+  "„Nu fieng sich an der schimpff machen“ – „schimpff“ = žert, hra; ironicky o začátku války po výpadu do Burgundska. „Stecken in das wäspi nest gestossen“ = rčení „strčit hůl do vosího hnízda“.",
+  "„frowen von saffoy so damaln regiert wann hertzog philip was tot“ – Schilling jmenuje mrtvého vévodu „Philip“. Ve skutečnosti vládla Jolanda Francouzská jako regentka za nezletilého Filiberta I.; jejím zemřelým manželem byl Amadeus IX. († 1472) (mimo přepis). Jméno ponecháno podle textu.",
+  "„jn dem obgenanten jar“ – ve zmíněném roce, tj. v roce uvedeném v předchozím textu (1475).",
+  "„wirt[?]“ – v rukopisu snad přeškrtnuto nebo přepsáno (viz poznámku k přepisu); v překladu „bude [?]“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

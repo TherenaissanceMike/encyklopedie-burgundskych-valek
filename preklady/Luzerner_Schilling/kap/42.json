@@ -1,0 +1,49 @@
+{
+ "cislo": 42,
+ "nadpis": "Von eim bischoff lag lang zů basel gefangen tett jm selbs am letsten den tod an vnd ward uff dz wasser geschlagen vnd mengerley geret",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 190,
+ "strany": [
+  190,
+  191
+ ],
+ "odstavce": [
+  {
+   "text": "Vnd jn allem burgunschen handel kam ein bischoff preduer orden gan basel wolt wid[er] vnnsern helgen vatter den bapst sixtum etwas handlen vnd schlůg ettlich brieff zů basell allenthalben an die kilchen uff Dem kamend nu andere märe nach das er jemer von basel wolt ritte[n] vnd alß er für die statt zů basel kam ward er gefangen wider hin jn gefürt vnd dene[n] von basell benolhen jnn zehanden des bapstz zegehalten Die selben von basel hattend jnn lang gefangen vnd vast grossen costen mit jm vnd also am letsten fund man jnn jm turn alß ob er sich selber hätte erhenkt Des namend jnn die von basel vnd schlůgend jnn jn ein vaß uff das wasser daselbs er ein gůte zit lag das man jnn nie kond abstatt bringen vnd jn dem gieng mengerley red uß meintend vil lüten er wär jm turn vmbracht vnd ein angeleite[?] sich zereden dz er sich selb erhenckt hette Doch lan ich dz selb bliben will nieman schalten noch rüemen",
+   "preklad": "V době všech burgundských věcí přišel do Basileje biskup z řádu kazatelů. Chtěl podniknout něco proti našemu svatému otci papeži Sixtovi a přibil v Basileji všude na kostely několik listin. Pak za ním přišly jiné zprávy, takže chtěl z Basileje odjet. Když přijel před město Basilej, byl zajat, zase do něj odveden a svěřen Basilejským, aby ho drželi do rukou papeže. Basilejští ho drželi dlouho zajatého a měli s ním velmi velké výdaje. Nakonec ho našli ve věži, jako by se sám oběsil. Basilejští ho tedy vzali, zatloukli do sudu a hodili do vody. Tam ležel dlouhou dobu, takže ho nikdy nemohli dostat pryč [?]. Mezitím se rozšířily mnohé řeči; mnoho lidí soudilo, že byl ve věži zavražděn a že je to nastrojené [?], když se říká, že se sám oběsil. Nechávám to však být; nechci nikoho hanět ani chválit."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 190,
+   "popis": "Basilej, sud s tělem biskupa vhozený do Rýna"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 191,
+   "text": "lxxxxv (původní foliace nahoře uprostřed); 191 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 190,
+   "text": "ř. 1 edice „Burgunſchen bande“, rukopis „burgunschen handel“; nadpis i ř. 17–19 má edice zkomolené (nečitelné pasáže), rukopis viz výše"
+  },
+  {
+   "strana": 191,
+   "text": "strana bez iluminace; edice 1862 tu má značku „Fol. 95.“"
+  }
+ ],
+ "nejista_mista": 1,
+ "nadpis_preklad": "O biskupovi, který dlouho ležel zajat v Basileji, nakonec si sám vzal život, byl vhozen do vody a mnoho se o tom mluvilo",
+ "poznamky_prekladu": [
+  "Jde o arcibiskupa Andreje Jamometiće (Zamometiće), dominikána, který roku 1482 vyhlásil v Basileji koncil proti papeži Sixtu IV. a zemřel ve vězení roku 1484 (mimo přepis). Schilling ho klade „do doby všech burgundských věcí“, ačkoli jde o pozdější léta.",
+  "„preduer orden“ = řád kazatelů (dominikáni).",
+  "„das man jnn nie kond abstatt bringen“ – smysl nejistý: sud zůstával na místě a nedařilo se ho odstrčit (dostat proudem pryč); přeloženo s [?].",
+  "„ein angeleite[?] sich zereden“ – nejisté čtení; asi „nastrojená věc, takto mluvit“.",
+  "Iluminace na s. 190: sud s tělem biskupa v Rýně."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1484
+}

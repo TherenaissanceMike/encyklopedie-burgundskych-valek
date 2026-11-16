@@ -1,0 +1,42 @@
+{
+ "cislo": 39,
+ "nadpis": "Wie allenthalben der uffbruch beschach vnd wie die von friburg zů denen von bärn kamend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 187,
+ "strany": [
+  187,
+  188
+ ],
+ "odstavce": [
+  {
+   "text": "Alß nu der uffbruch beschach kamend die von friburg zů denen von bärn vnd zugend also mit ein andern gan orben vnd jüngen nu lag ein schloß hieß eckle was vast ein starck gůt huß darab denen von jüngen vnd orben ouch jren botte[n] zum dickern mal vil smach beschach Des selben wurdend die von bärn vnd friburg von den jren berichtett vnd uff sollichs zugend sy für eckle gewunnend vnd stürmendt das schloß ritterlich wie wol man meint es wär vnmüglich ze gewünnen aber gott gab jnen dz glück vnd wurdend alle die so man läbendig begreiff gan orben gefürt vnd daselbs enthoptett vnder denen warend vil gůter edler tapfer lüten",
+   "preklad": "Když tedy došlo k vytažení, přišli Fribourgští k Bernským a táhli spolu k Orbe a Jougne. Ležel tam hrad zvaný Eckle, velmi silný a dobrý dům, z něhož bylo lidem z Jougne a Orbe i jejich poslům častokrát způsobeno mnoho potupy. O tom byli Bernští a Fribourgští od svých lidí zpraveni. Na to táhli před Eckle, dobyli a ztekli ten hrad rytířsky, ačkoli se mělo za to, že je nemožné ho dobýt; Bůh jim však dal to štěstí. Všichni, které zajali živé, byli odvedeni do Orbe a tam sťati. Bylo mezi nimi mnoho dobrých, urozených a statečných lidí."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 187,
+   "popis": "dobývání hradu Les Clées (Eckle), v pozadí město"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 188,
+   "text": "188 (moderní paginace, levý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 188,
+   "text": "edice 1862 tu má značku „Fol. 93 b.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak všude došlo k vytažení a jak Fribourgští přišli k Bernským",
+ "poznamky_prekladu": [
+  "„eckle“ = Les Clées (hrad ve Vaudu mezi Orbe a Jougne; mimo přepis, podle popisu iluminace). Dobyt na podzim 1475 (mimo přepis).",
+  "„smach“ = potupa, příkoří."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1475
+}

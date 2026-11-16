@@ -1,0 +1,44 @@
+{
+ "cislo": 56,
+ "nadpis": "Wie die eitgnossen gemeinlich fünff hundert man zů / eim züsatz gan friburg leitend",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 212,
+ "strany": [
+  212,
+  213
+ ],
+ "odstavce": [
+  {
+   "text": "Also uff miner heren gemeiner eitgnossen ratschlag vnd dem tagsatz nach so jn miner heren statt von lucern was / leitend die eitgnossen gemeinlich fünff hundert man zů einem züsatz gan friburg so lang bitz man jnnen wurde was der hertzog an welte fahen / wann er hatt sich dennocht noch nit geläget / vnd für alß hin[?] vnd vmbschwaben[?] arm lüt zeuerderben vnd allenthalben die gelägenheiten ze beschowen vnd kuntschafft jnzenämen / Doch alß der züsatz gan friburg kam vnd er der jnnen ward / wann jm war[en] vil lüten am scharmutzen abgeströfft[?] / fürwelt er jm ein end / Damit er meint wenn jm das selb würde so wäre er dann here jn der gantzen eitgnoschafft glich ouch alleinig wie er welte jn das land komen / kond aber nit besinnen wie[?] er wider daruß käme",
+   "preklad": "A tak na radu mých pánů, všech Spříseženců, a podle sněmu, který byl ve městě mých pánů z Luzernu, poslali Spříseženci společně pět set mužů jako posádku do Fribourgu, dokud by se nedozvěděli, co chce vévoda podniknout. Neboť se ještě stále neusadil a táhl sem a tam [?] a okolo [?], aby hubil poddané, všude si prohlížel příležitosti a sbíral zprávy. Když však posádka přišla do Fribourgu a on se to dozvěděl – neboť o mnoho lidí přišel [?] v šarvátkách –, vyvolil si jedno místo. Myslel totiž, že kdyby ho dostal, byl by potom pánem v celém Spříseženstvu. Stejně tak myslel jen na to, jak by chtěl přijít do země, ale nedokázal domyslet, jak [?] by se z ní zase dostal."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 212,
+   "popis": "švýcarská posádka (500 mužů) vtahuje s korouhvemi do města Fribourgu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 213,
+   "text": "CV (původní foliace, nahoře uprostřed); 213 (moderní paginace, pravý horní roh)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 212,
+   "text": "edice 1862 (Fol. 104 b., „Wie man ein zuoſatz gan Friburg leit“) je v OCR v tomto úseku nečitelná, srovnání nemožné"
+  }
+ ],
+ "nejista_mista": 4,
+ "nadpis_preklad": "Jak Spříseženci společně poslali pět set mužů jako posádku do Fribourgu",
+ "poznamky_prekladu": [
+  "Oproti Bernu 3: Bern (kap. 306) uvádí, že Spříseženci poslali do Fribourgu tisíc ozbrojených mužů; Luzern píše pět set. Číslo ponecháno podle textu.",
+  "„für alß hin[?] vnd vmbschwaben[?]“ – nejisté čtení, přeloženo podle smyslu „táhl sem a tam a okolo“; „abgeströfft[?]“ – nejisté, přeloženo „přišel o“. Stojí za ověření v rukopisu (s. 212).",
+  "„fürwelt er jm ein end“ = vyvolil si místo (cíl) – míněn Murten (viz následující kapitolu; určení mimo přepis).",
+  "„tagsatz“ = sněm; „kuntschafft jnzenämen“ = sbírat zprávy (zvědy)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1476
+}

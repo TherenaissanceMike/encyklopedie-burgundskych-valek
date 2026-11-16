@@ -1,0 +1,54 @@
+{
+ "cislo": 88,
+ "nadpis": "Wie vnd wenn lentzburg verbran Darumb ein armer mönsch gefange[n] vnd übel gemartert ward vmb grosse vnschuld",
+ "rukopis": "Luzern, Korporation Luzern, S 23 fol.",
+ "rukopis_strana": 270,
+ "strany": [
+  270,
+  271
+ ],
+ "odstavce": [
+  {
+   "text": "[J]n dem obgeschribnen jar Begab es sich das lentzburg so dero von bärn ist verbran vnd jn eim wirtzhuß jn roß ställen an gieng ward ouch nit mutwillig angestossen sunder verwarloset Aber man fieng ein armen gesellen darumb der ward übel gemartert Doch halff jm gott vnd sin liebe můter Das die warheit an tag kam wann der selb verhieß sich mit dem almůsen ettlich vert zetůn die er ouch tett vnd damit von siner nott entran Darumb solte man jn sollich sachen eigentlich wüssen vnd nit wänen wann ein armen mönschen vmb vnschuld also zemartern vnd vmze bringen ist swär gegen gott abzelegen",
+   "preklad": "V témž výše psaném roce se stalo, že Lenzburg, který patří Bernským, vyhořel. [Oheň] vznikl v jednom hostinci v koňských stájích a nebyl založen úmyslně, nýbrž z nedbalosti. Přesto kvůli tomu chytili jednoho chudého druha, a ten byl zle mučen. Avšak Bůh a jeho milá Matka mu pomohli, takže pravda vyšla najevo, neboť on se zaslíbil vykonat o almužně několik poutí, které také vykonal, a tak ze své nouze unikl. Proto by se v takových věcech mělo vědět najisto, a ne jen domnívat, neboť takto nevinně mučit a zahubit chudého člověka se před Bohem těžko odpykává."
+  }
+ ],
+ "obrazky": [
+  {
+   "strana": 270,
+   "popis": "požár Lenzburgu: hořící městečko pod hradem na skále, lidé hasí a vynášejí věci, v popředí jezdec a mučení zajatce; větší část strany v červeném rámu"
+  }
+ ],
+ "okraje": [
+  {
+   "strana": 271,
+   "text": "271 (moderní paginace, pravý horní roh)"
+  },
+  {
+   "strana": 271,
+   "text": "Cxxxiiij (foliace nahoře uprostřed)"
+  }
+ ],
+ "poznamky": [
+  {
+   "strana": 270,
+   "text": "místo pro iniciálu J vynecháno (nevyplněno), první čtyři řádky odsazeny"
+  },
+  {
+   "strana": 270,
+   "text": "poslední věta je v edici 1862 porušená („vnd umze ringen, it fie gegen Bott ——“); rukopis: „vnd vmze bringen ist swär gegen gott abzelegen“."
+  },
+  {
+   "strana": 271,
+   "text": "strana bez iluminace; prosvítá iluminace z druhé strany listu (s. 272). Edice 1862 tu má značku „Fol. 134.“"
+  }
+ ],
+ "nejista_mista": 0,
+ "nadpis_preklad": "Jak a kdy vyhořel Lenzburg, kvůli čemuž byl zajat a zle mučen jeden chudák, ač byl zcela nevinný",
+ "poznamky_prekladu": [
+  "„jn dem obgeschribnen jar“ = 1486 (podle předchozí kapitoly).",
+  "„mit dem almůsen ettlich vert zetůn“ = vykonat několik poutí a živit se přitom almužnou (žebrotou)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-16, z vlastního přepisu rukopisu Luzern S 23 fol. (strany/); termíny podle glosáře (Google tabulka, list Schilling staroněmčina); neprošlo lidskou korekturou",
+ "rok": 1485
+}
