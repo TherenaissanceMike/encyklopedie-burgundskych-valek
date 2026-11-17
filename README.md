@@ -15,6 +15,9 @@ Osobnosti, bitvy, události, místa a písně burgundských válek (1468–1477)
 | Johannes Knebel, *Diarium* (latinsky) | Basel, Universitätsbibliothek | W. Vischer a H. Boos, *Basler Chroniken* II–III, 1880–1887 | `preklady/Knebel_Diarium/kap/` (227 kapitol, 1473–1479) a `basne/` (7 básní) |
 | Conrad Pfettisheim, *Reimchronik über die Burgunderkriege* (veršovaná) | prvotisk, Štrasburk asi 1477 | G. Tobler, Bern 1917 | `preklady/Pfettisheim_Reimchronik/kap/` (19 oddílů) |
 | *Eidgenössische Abschiede* (sněmovní výnosy Spříseženců) | úřední záznamy sněmů | A. Ph. Segesser, *Amtliche Sammlung der ältern Eidgenössischen Abschiede* II (1863) a III/1 (1858) | `preklady/Abschiede/kap/` (506 stran, přeloženo 252: 1474 – červenec 1478) |
+| Philippe de Commynes, *Mémoires* (francouzsky) | | É. Dupont, Paris 1840–1847 | `preklady/Commynes_Memoires/kap/` (50 kapitol, burgundský úsek) |
+| Olivier de La Marche, *Mémoires* (francouzsky) | | H. Beaune a J. d'Arbaumont, Paris 1883–1888 | `preklady/LaMarche_Memoires/kap/` (11 kapitol) |
+| Jean Molinet, *Chroniques* (francouzsky) | | J.-A. Buchon, Paris 1827 | `preklady/Molinet_Chroniques/kap/` (39 kapitol) |
 
 Překlady vytvořila AI (Claude) z tištěných edic, Bern 3 a Luzerner Schilling z vlastního přepisu rukopisu. Prošly první korekturou, **proti rukopisům zatím ověřené nejsou**. Nejistá místa jsou označena `[?]`. Závazné odborné termíny jsou v `TERMINY.md`.
 

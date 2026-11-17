@@ -1,0 +1,28 @@
+{
+ "cislo": 21,
+ "kapitola": "XXI",
+ "nadpis": "Appoinctement de la ville de Nusse.",
+ "edice": "J.-A. Buchon, Chroniques de Jean Molinet, t. I, Paris 1827, kap. XXI",
+ "sken": "chroniquedesduc01buchgoog (druhý sken)",
+ "zdroj_radky": "molinet_buchon1827_t1_ocr2.txt, ř. 14490–14546",
+ "rok": 1475,
+ "nadpis_preklad": "Dohoda o městě Neussu.",
+ "odstavce": [
+  {
+   "text": "Durant le temps desdites trêves, qui furent de trois jours, traictié fut par le légat trouvé au contentement desdites parties, par lequel la ville de Nusse debvoit demourer es mains dudict légat, sans prendre préjudice des droits impériaulx, et le différent d'icelle debvoit eslre réservé en l'ordonnance de nostre sainct-père. Et parce moyen, après avoir souffert intollérable pestilence de guerre, tenant tousjours pied ferme, et résistant à tous assaux, fut dessiégée à son grant loz, honneur et gloire, le plus recommandé de jamais, par le conseil prudent et saige de ceulx qui avoient l'administration de sa police. Ils avoient au jour de cest appoinctement assez de bled pour ung an, vin de Rin, malvoisie et bierre largement; nulle chair n'avoient, sinon de cheval, desquels il en y avoit douze, et encoires les quatre estoient empeschés à tourner les moulins; toute douceur de laitaiges, beurre, fromages, œufs et fruicts. Sitost que quel qu'un estoit navré, il périssoit par faulte de médecine. Les rustres prendoient leurs vivres chacun jour à l'ostel de l'archevesque, et le menu peuple à deux bourgeois de la ville, qui journellement leur faisoient administrer leurs nécessités.",
+   "preklad": "Během zmíněného příměří, které trvalo tři dny, nalezl legát smlouvu ke spokojenosti obou stran, podle níž mělo město Neuss zůstat v rukou legáta, bez újmy císařských práv, a spor o ně měl být vyhrazen rozhodnutí našeho Svatého otce. A tak bylo město, když vytrpělo nesnesitelnou pohromu války, stále stálo pevně a odolalo všem útokům, zbaveno obležení ke své velké chvále, cti a slávě, nejslavnější, jaké kdy bylo, díky prozíravé a moudré radě těch, kdo měli v rukou jeho správu. V den této dohody měli obilí na celý rok, rýnského vína, malvazu a piva hojně; masa však neměli žádného kromě koňského, a koní tam bylo dvanáct, z nichž čtyři byli ještě zaměstnáni otáčením mlýnů; [scházela jim] všechna lahoda mléčných výrobků, másla, sýrů, vajec a ovoce. Jakmile byl někdo raněn, zahynul pro nedostatek léčení. Venkované (rustres) dostávali své zásoby každý den v domě arcibiskupově a drobný lid u dvou měšťanů, kteří jim denně dávali vydávat, co potřebovali."
+  },
+  {
+   "text": "De quatorze à quinze cens hommes de deffence, rustres et aultres qui estoient en Nusse au jour qu'elle fut assiégée, n'y estoient demourés que cinq cens ou environ; et estoient morts durant le siège, que de gens de guerre, que de bourgeois et aultre menu peuple, femmes et enfans, environ trois mille. De ce jour en avant, par cest appoinctement, se trouvoient ceux de la ville en l'ost du duc, pour acheter ce que mieux leur duisoit. Et de faict trouvèrent subtile voie d'amasser pouldre de canon, sur espoir de rebeller, comme dessus; mais tout fut ra[?]ubé; car pareillement ceux de l'ost entroient en Nusse, faindant d'aller en pèlerinage à Saint-Quirin, pour regarder la disposition de la ville; et se donnoient grand merveille que si long-temps s'estoient tenus contre sa fière puissance.",
+   "preklad": "Ze čtrnácti až patnácti set mužů k obraně, venkovanů i jiných, kteří byli v Neussu v den, kdy byl obležen, zůstalo jen asi pět set; a během obléhání zemřelo, ať válečníků, měšťanů či jiného drobného lidu, žen a dětí, na tři tisíce. Od toho dne chodili podle této dohody lidé z města do vévodova ležení nakupovat, co se jim hodilo. A skutečně našli lstivý způsob, jak shromažďovat střelný prach v naději, že se znovu vzbouří jako předtím; ale vše bylo prohlédnuto [?], neboť stejně tak lidé z ležení chodili do Neussu pod záminkou pouti ke svatému Quirinovi, aby si prohlédli rozložení města; a velmi se divili, že se [obránci] tak dlouho drželi proti jeho [vévodově] hrozné moci."
+  }
+ ],
+ "poznamky": [
+  "Text kapitoly jen z 2. skenu.",
+  "Legát = Alessandro Nanni Malatesta; arcibiskupem je zde míněn Heřman Hesenský, správce kolínské arcidiecéze, který Neuss bránil (mimo text). Karel Smělý odtáhl od Neussu koncem června 1475 (mimo text).",
+  "Svatý Quirinus – patron Neussu (Quirinusmünster).",
+  "„mais tout fut ra^ubé“ – slovo porušené (snad „rabobé“ = zmařeno, oklamáno, nebo „radoubé“ = napraveno) [?]; v textu ponecháno „ra[?]ubé“.",
+  "Opravy OCR: nadpis „Appoinctemement de le ville de ïiuMe“ → Appoinctement de la ville de Nusse; „Tostel de Tarchevesque“ → l'ostel de l'archevesque; „deflPence“ → deffence."
+ ],
+ "prelozil": "Claude (AI), 2026-11-17, z Buchonovy edice (1827); neověřeno proti rukopisu"
+}

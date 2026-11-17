@@ -1,0 +1,29 @@
+{
+ "cislo": 15,
+ "kapitola": "XV",
+ "nadpis": "Comment ceulx de Nusse descendirent es isles, et furent rués jus par les Angles.",
+ "edice": "J.-A. Buchon, Chroniques de Jean Molinet, t. I, Paris 1827, kap. XV",
+ "sken": "chroniquesdejea07buchgoog",
+ "zdroj_radky": "molinet_buchon1827_t1.txt, ř. 3661–3720",
+ "rok": 1475,
+ "nadpis_preklad": "Jak obránci Neussu vysedli na ostrovy a byli Angličany pobiti.",
+ "odstavce": [
+  {
+   "text": "Ja-soit-ce que le siège de Nusse fut tant proprement situé que rien plus, toutefois on ne l'assist pas selon la doctrine de Végèce, qui enseigne à colloquer les tentes ou forts en tel lieu que nulle soubdaine inondation n'y puisse donner empeschement; car entre my-caresme et Pasques, les eaux furent si grandes sur le Rin, qu'elles surmontèrent tout dicquaige; et furent la petite isle et la plus grande partie de la grande si couvertes, que par les grandes ondes et nuages qui de gros vent se causoient, ce sembloit à voir une petite mer. Et lors trois bourgeois de Nusse se mirent en ung petit bastel sur la rivière; et par le bon vent qu'ils eurent, cinglèrent amont le Rin. Et nonobstant toute garde, défense, aguet et provision d'artillerie qu'ils firent à l'encontre, ils eschappèrent ce danger, et arrivèrent de plain jour en l'ost des Coloniens.",
+   "preklad": "Ačkoli bylo ležení před Neussem rozloženo tak výhodně, jak jen to šlo, přece nebylo založeno podle učení Vegetiova, který učí stavět stany či opevnění na takovém místě, kde jim žádná náhlá povodeň nemůže způsobit potíže. Neboť mezi středopostím a Velikonocemi stouply vody na Rýně tak vysoko, že přelily všechny hráze; malý ostrov i větší část velkého ostrova byly zaplaveny tak, že s velkými vlnami a mračny, která zvedal prudký vítr, to vypadalo jako malé moře. Tehdy se tři měšťané z Neussu posadili do malé lodice a s příznivým větrem se plavili proti proudu Rýna. A navzdory veškeré stráži, obraně, hlídkám a dělostřelectvu, které proti nim [obléhatelé] nasadili, tomu nebezpečí unikli a za bílého dne dorazili do ležení Kolínských."
+  },
+  {
+   "text": "Environ trois jours après, ceulx de la ville entrèrent de nuict en trois bodequins, et descendirent au poinct du jour en l'isle, sur intention de brusler les logis des assiégeans et de mettre tout aux espées. Angles, qui ce quartier avoient en garde, apperceurent leur venue; et comme tout avisés de leur faict, les laissèrent descendre paisiblement sans esmouvoir quelqu'effroi; puis, quant bon leur sembla, ils eslevèrent un si aspre et cruel alarme, que ceulx de Nusse, tous épouvantés, cuidans que toute l'armée se tirast celle part, ne cuidèrent jamais trouver leurs bodequins à temps. Les uns au rentrer ens se sauvoient, et les aultres se noyoient. Les Angles, qui y perdirent deux hommes, chargèrent sur eulx si rudement, que environ trente demeurèrent sur la place, et douze aultres furent prisonniers, qui récitèrent les dispositions de la ville, et congneurent que les trois bourgeois dessusdits s'estoient tirés à Bomelle, vers l'empereur, pour avoir secours de vivres. Et tantost ceulx de Coulongne mirent sur le Rin grans bastaux garnis de tous biens, pour ravitailler Nusse. Le duc, de ce adverti, fut en armes deux ou trois jours de la sepmaine peneuse, et il mit si grand obstacle, que les Coloniens furent frustrés de leur emprinse.",
+   "preklad": "Asi o tři dny později nasedli lidé z města v noci do tří člunů (bodequins) a za svítání vystoupili na ostrově s úmyslem zapálit ležení obléhatelů a všechno pobít mečem. Angličané, kteří ten úsek střežili, jejich příchod zpozorovali; a jsouce na jejich podnik dobře připraveni, nechali je v klidu vystoupit, aniž by vyvolali jakýkoli poplach. Potom, když se jim to zdálo vhodné, spustili tak prudký a krutý poplach, že obránci Neussu, celí vyděšení a v domnění, že se tam obrací celé vojsko, už nedoufali, že své čluny včas najdou. Jedni se při nastupování do nich zachránili, druzí se utopili. Angličané, kteří tam ztratili dva muže, na ně udeřili tak tvrdě, že jich asi třicet zůstalo ležet na místě a dvanáct dalších bylo zajato; ti vypověděli, jak to ve městě vypadá, a prozradili, že se tři výše zmínění měšťané odebrali do Bomelle [?] k císaři, aby získali pomoc v zásobách. A brzy nato vypravili Kolínští na Rýn velké lodě naložené vším potřebným, aby Neuss zásobili. Vévoda, o tom zpraven, byl dva nebo tři dny Svatého týdne ve zbrani a postavil jim do cesty takovou překážku, že Kolínští byli ve svém podniku zmařeni."
+  }
+ ],
+ "poznamky": [
+  "Vegetius, De re militari III, 8 – o zakládání táborů (mimo text).",
+  "Středopostí (my-caresme) 1475 připadlo na začátek března, Velikonoce 1475 byly 26. 3.; Svatý týden (sepmaine peneuse) = 20.–26. 3. 1475.",
+  "Ostrovy: obléhatelé měli ležení i na ostrovech v Rýně (resp. v Erftu) proti městu; „malý“ a „velký“ ostrov viz předchozí kapitoly (mimo text).",
+  "„Bomelle“ (obě skeny shodně): neurčeno [?]; snad Bonn (Bonne), kde se shromažďovalo císařské vojsko (srv. kap. XVIII), jisté to však není.",
+  "Angles = Molinetův tvar pro Angličany.",
+  "Opravy OCR: „Go Ioniens“ → Coloniens, „à rencontre“ → à l'encontre, „aguetetprovision“ → aguet et provision, „quelqu'eflProi“ → quelqu'effroi, „turent“ → furent; v nadpisu „cealx … ruds jus“ → ceulx … rués jus."
+ ],
+ "prelozil": "Claude (AI), 2026-11-17, z Buchonovy edice (1827); neověřeno proti rukopisu"
+}
