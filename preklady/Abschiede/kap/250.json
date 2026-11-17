@@ -1,0 +1,87 @@
+{
+ "cislo": 250,
+ "svazek": "2",
+ "strana": 620,
+ "pdf_strana": 648,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "Tag v°\"\" YZV September 147k.",
+ "nadpis": "Fortsetzung Nr. 850 (Lucern, 23. Sept. 1476): Anmerkungen – Colmar, Georg vom Stein, Württemberg, Freiburg; Vorschläge über Murten und die eroberten Herrschaften",
+ "nadpis_preklad": "pokračování č. 850 (Luzern, 23. 9. 1476) – poznámky: Colmar (100 žoldnéřů u Murtenu), glejt pro Jörga vom Stein, Württembersko, Fribourg; návrhy na správu Murtenu a dobytých panství",
+ "odstavce": [
+  {
+   "text": "Es habe 100 Söldner vor Murten gehabt, die zum Theil schon wieder entlassen seien; diese haben für etwa 20 Gulden Harnische und Kleider erbeutet; man soll ihnen dieses in der Beute anweisen. Schlettstadt beschickt den Tag nicht und schickt 1 Gulden; die Seinigen hätten sonst nichts genommen.",
+   "preklad": "[Colmar] mělo u Murtenu 100 žoldnéřů, z nichž část už byla zase propuštěna; ti ukořistili zbroj a šaty asi za 20 zlatých; má se jim to při [dělení] kořisti přiznat. Sélestat na sněm vyslance neposílá a posílá 1 zlatý; jeho lidé prý jinak nic nevzali."
+  },
+  {
+   "text": "Zu c. Georg vom Stein erhält schon den 4. September vorher von Schultheiß und Rath zu Lucern Geleit für Stadt und Landschaft Lucern (s. den Geleitsbrief d. d. 1476, Mittwoch vor unserer Lieben Frauen Tag natiuitatis, abschriftlich im Lucerner Abschiedeband B. 70 b.)",
+   "preklad": "K c. Georg (Jörg) vom Stein dostal od starosty a rady v Luzernu glejt pro město a venkov Luzernu už předtím, 4. září (viz glejt datovaný 1476, ve středu před Narozením Panny Marie, v opisu v luzernském svazku výnosů B, f. 70b)."
+  },
+  {
+   "text": "Zu n. 1476, 18. September (Mittwoch nach Exaltationis Crucis). Stuttgart. Ulrich, Graf zu Württemberg und Mümpelgard, schickt den Ludwig von Emmershofen und den Hans von Nüwenack an die Eidgenossen wegen der Gefangenschaft seines Sohnes beim Herzog von Burgund. (Staatsarchiv Lucern. Original auf Papier.)",
+   "preklad": "K n. 18. 9. 1476 (středa po Povýšení sv. Kříže), Stuttgart. Oldřich, hrabě württemberský a montbéliardský, posílá Ludwiga von Emmershofen a Hanse von Nüwenack ke Spřísežencům kvůli zajetí svého syna u vévody Burgundského. (Státní archiv Luzern, originál na papíře.)"
+  },
+  {
+   "text": "Zu ff. Nach „nit getun“ stehen die Worte: „aber vmb ein bescheiden einig, wo sy die mit den eidgnossen machen, wil man gütlich losen vnd darumb antwurt geben zimlich“ — im Text gestrichen.",
+   "preklad": "K ff. Za slovy „nemůžeme učinit“ stojí slova: „ale o rozumný spolek (einung), uzavřou-li jej se Spříseženci, se chce vlídně vyslechnout a dát na to přiměřenou odpověď“ – v textu přeškrtnuto."
+  },
+  {
+   "text": "Zu gg. Hieher gehört offenbar folgende, im Solothurner Abschiedeband O. 34 irrig dem Tag vom 12. Juli dieses Jahres beigebundene Notiz:",
+   "preklad": "K gg. Sem zjevně patří následující záznam, který je v solothurnském svazku výnosů O, f. 34, mylně přivázán ke sněmu z 12. července tohoto roku:"
+  },
+  {
+   "text": "„Die Mittel, so durch min Herren gemein Eidgnossen vnd durch min gnedigen Herren von Basel fürgeschlagen sind:“",
+   "preklad": "„Prostředky (návrhy), které navrhli moji páni, všichni Spříseženci, a moji milostiví páni z Basileje:“"
+  },
+  {
+   "text": "1. Daß die von Bern und Freiburg die Schlösser und Herrschaften mit ihren Vögten und doch in ihrem und gemeiner Eidgenossen Namen besetzen und jährlich um die Nutzungen Rechnung gäben und man den Ertrag gleichmäßig unter die Orte theile und dabei ein Verkommniß mache, daß wenn es die Eidgenossen begehrten, man ihnen von jenen Herrschaften eine bestimmte Zahl Leute zu Hülfe schicken, und daß die Schlösser, Herrschaften und Leute zu gemeiner Eidgenossen Handen huldigen und schwören sollen.",
+   "preklad": "1. Aby Bernští a Fribourgští obsadili hrady a panství svými fojty, avšak svým jménem i jménem všech Spříseženců, a každoročně ze zisků skládali účty; výnos aby se rovnoměrně dělil mezi místa (kantony) a přitom se uzavřela úmluva, že kdyby to Spříseženci žádali, pošle se jim z oněch panství na pomoc určitý počet lidí; a aby hrady, panství a lidé holdovali a přísahali do rukou všech Spříseženců."
+  },
+  {
+   "text": "2. „Das ander Mittel“, daß Bern und Freiburg die Herrschaften zu ihren und gemeiner Eidgenossen Handen bevogten und man die Nutzung gleich vertheile.",
+   "preklad": "2. „Druhý prostředek“: aby Bern a Fribourg spravovaly panství fojty pro sebe a pro všechny Spřísežence a výnos se rovně rozdělil."
+  },
+  {
+   "text": "3. Daß die Zugesetzten den Eidgenossen die Herrschaften zuerkennen, diese aber dann den beiden Städten ihre Gerechtigkeit zu kaufen geben sollen.",
+   "preklad": "3. Aby přísedící (rozhodčí) přiřkli panství Spřísežencům, ti však pak aby svá práva oběma městům prodali."
+  },
+  {
+   "text": "4. Daß von den bisherigen Nutzungen abgesehen würde und man Bern und Freiburg die Schlösser und deren Nutzung noch fünf bis sechs Jahre ließe, darnach aber Bern je zwei Jahre, Freiburg zwei Jahre und gemeine Eidgenossen zwei Jahre die Herrschaften besetzten und benutzten.",
+   "preklad": "4. Aby se odhlédlo od dosavadních výnosů a Bernu a Fribourgu se hrady a jejich výnos ponechaly ještě pět až šest let; potom však aby panství obsazoval a užíval střídavě Bern dva roky, Fribourg dva roky a všichni Spříseženci dva roky."
+  },
+  {
+   "text": "5. Gleicher Vorschlag mit dem Unterschied, daß Murten und Erlach, welche von jenen beiden Städten vor oder nach dem Krieg erkauft sind, ihnen gelassen würden.",
+   "preklad": "5. Týž návrh s tím rozdílem, že Murten a Erlach, které obě města koupila před válkou nebo po ní, by jim byly ponechány."
+  },
+  {
+   "text": "6. Daß Bern anfinge zwei Jahre zu besetzen, darauf Zürich, dann Freiburg, dann Lucern, dann wieder Bern, dann Uri und so fort, bis die Reihe um wäre, daß man aber die Nutzung jeweilen gleich vertheilte.",
+   "preklad": "6. Aby Bern začal obsazovat na dva roky, po něm Curych, pak Fribourg, pak Luzern, pak znovu Bern, pak Uri a tak dále, až by se řada vystřídala; výnos aby se však vždy dělil rovně."
+  },
+  {
+   "text": "7. Daß man Bern und Freiburg Murten und Erlach oder doch Murten allein zum voraus ließe, im Uebrigen Bevogtung und Benutzung dieser Herrschaften ihnen und gemeinen Eidgenossen zukommen sollte, wie die von Baden etc.",
+   "preklad": "7. Aby se Bernu a Fribourgu předem ponechal Murten a Erlach, nebo aspoň samotný Murten; jinak aby správa fojty a užívání těchto panství příslušely jim a všem Spřísežencům, jako u Badenu atd."
+  },
+  {
+   "text": "„Dis sint die artikel vnd mittel, weles man will vffnemen oder nit:",
+   "preklad": "„Toto jsou články a prostředky, o nichž [se má rozhodnout], který se chce přijmout, nebo ne:"
+  },
+  {
+   "text": "Item das man denen von Bern vnd Friburg Murten vnd Erlach oder doch Murten allein vor vß liesse vnd dannenthin sy vnd gemein Eidgnossen die andern Herrschaften besatztent vnd die Nutzungen teiltent, wie man zu Baden tut.",
+   "preklad": "Za prvé, aby se Bernským a Fribourgským předem ponechal Murten a Erlach, nebo aspoň samotný Murten, a potom aby oni a všichni Spříseženci obsazovali ostatní panství a dělili se o výnosy, jak se to dělá v Badenu."
+  },
+  {
+   "text": "Item das man die beiden Stett noch v oder vj Jar die Sloß besetzen vnd die nutz Innemen liess, an Iren gelittnen costen, vnd dz man darnach, wie man zu Baden tut, beid stett vnd gemein Eidgnossen besetzte vnd die nutz glichlich teilte.“",
+   "preklad": "Dále, aby se oběma městům dovolilo ještě 5 nebo 6 let obsazovat hrady a brát výnosy jako náhradu za jejich utrpěné náklady, a aby potom, jak se to dělá v Badenu, obě města a všichni Spříseženci [panství] obsazovali a výnosy rovně dělili.“"
+  }
+ ],
+ "poznamky": [
+  "Konce řádků doplněny ze skenu.",
+  "První odstavec pokračuje dopisem Colmaru z 19. 9. 1476 (konec předchozí strany).",
+  "Data: středa před Narozením Panny Marie (8. 9. 1476 = neděle) → 4. 9. 1476; středa po Povýšení sv. Kříže (14. 9. = sobota) → 18. 9. 1476.",
+  "Hrabě Oldřich V. Württemberský; jeho syn hrabě Jindřich byl v burgundském zajetí (mimo text).",
+  "Baden (Aargau) – společné panství Spříseženců, spravované střídajícími se fojty; uváděn jako vzor (mimo text).",
+  "Erlach (Cerlier) – panství u Bielského jezera."
+ ],
+ "prelozil": "Claude (AI), 2026-11-17, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

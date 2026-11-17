@@ -1,0 +1,58 @@
+{
+ "cislo": 176,
+ "svazek": "2",
+ "strana": 546,
+ "pdf_strana": 574,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1475,
+ "zahlavi": "Zum 1475.",
+ "nadpis": "Fortsetzung der Note zu Nr. 796: Bericht über den Entsatz von Neuß (1)",
+ "nadpis_preklad": "pokračování poznámky k č. 796 – zpráva o vyproštění Neussu (1): příměří, návštěva v obleženém Neussu, ztráty Burgunďanů",
+ "odstavce": [
+  {
+   "text": "lüte mit Inen biß an eynen, der was mit etlichen kürrissen gerant. Vff solich vßlouffen hant büchsenschützen vnd knecht biß hart an vnser wagenburg vnd erstochen biß vff x oder xij vnsers geschütz, vnd sust forchthalp vnser getorsten sy sich mit erstechen nit geüben. In demselben wart derselbe kürrisser vor vnser wagenburg erschossen vnd glich do bliben. Sust nach dem mole habent sy vns vnbekümbert gelossen, denn vff den warten vnd füterungen ist alle mol scharmützelin gewesen.",
+   "preklad": "lidi s sebou, až na jednoho, který přicválal s několika těžkými jezdci (kürisser). Na takový výpad dorazili (jejich) střelci a knechti až těsně k naší vozové hradbě a ubodali nám na 10 nebo 12 z obsluhy našich děl [?]; jinak se ze strachu před námi neodvážili ubodávat dál. Přitom byl onen těžký jezdec před naší vozovou hradbou zastřelen a hned tam zůstal ležet. Jinak nás od té doby nechali na pokoji, jen na strážích a při pícování docházelo pokaždé k šarvátkám."
+  },
+  {
+   "text": "Item in solichem vor vnd nach hatt ein legat, gesant von vnserm heyligen vatter dem Bapst, in disen dingen vil getedinget vnd zefriden gesucht vnd souil funden vnd gemacht, das vff Sonntag nach vnsers Herrn gotstag obgenant ist ein frid gemacht vnd vff denselben sontag glich die burgundischen Rete vf xl pferde in vnser Here vnd wagenburg geritten vnd getaget in des Keysers zelt bis vff nacht, widder in Ir Here geritten mit grosser beleyttung, fürsten vnd andere, vnd denselben sontag zwischen den zweyen Heren oder wagenburgen fründe vnd figent, were gewollt hat, zu fuß vnd Roß zusamen geritten vnd gutten friden gehept.",
+   "preklad": "Dále mezitím, před tím i potom, papežský legát, vyslaný naším Svatým otcem, v těchto věcech mnoho vyjednával a hledal smír a tolik nalezl a učinil, že v neděli po Božím těle našeho Pána, jak výše řečeno, byl učiněn mír; a téže neděle hned přijeli burgundští radové asi na 40 koních do našeho tábora a vozové hradby, jednali v císařově stanu až do noci a odjeli zase do svého tábora s velkým doprovodem knížat a jiných; a téže neděle se mezi oběma tábory či vozovými hradbami scházeli přátelé i nepřátelé, kdo chtěl, pěšky i na koni, a měli dobrý pokoj."
+  },
+  {
+   "text": "Item vff morgens montag zwey gezelt zwüschen den beden Herren vfgeslagen vnd aber dar Inne getaget den ganzen tag vnd aber fründe vnd figendt im felde vnd do vmb by einander geritten vnd gewest vnd vff nacht mit den burgundischen Reten etlich von vnsern Reten mit Inen in Ire Here geritten, allda verbliben die Nacht vnd etlich in die Stat Nüß, die nacht ouch darinne verbliben.",
+   "preklad": "Dále nazítří v pondělí byly mezi oběma tábory postaveny dva stany a v nich se zase jednalo celý den, a přátelé i nepřátelé zase spolu jezdili a pobývali na poli a kolem; a večer odjeli s burgundskými rady někteří z našich radů s nimi do jejich tábora a zůstali tam přes noc, a někteří do města Neussu, kde také zůstali přes noc."
+  },
+  {
+   "text": "Item wir wissen ouch nit anders zu sagen oder zu schriben, denn von einer richtunge, demnach wir vnd were von vnserm Here vnd partye in das burgundisch Here, ouch in die Stat Nüß gangen oder geritten, gessen, drunken, vber nacht dar Inne bliben; deßglichen die Burgundischen zu vns ouch, vnd nit dester mynder hart vnd ernstlich darzwischen getagt. Solich tagen, was das sye, vns allen vnwissen ist in beden Heren, denn den Höuptern vnd Reten, die damit vmbgangen. Ouch so bin ich mit sampt etlichen Herren gewesen in solichem wesen zu Nüß in des richsten burgers huß, der alda gesessen sin mag, vnd ze obende dar Inne gessen, vns guten win vnd gut biere geben, des Sy kein mangel nye gehebt haben, vnd ein platten mit gesottenem Roßfleisch, dz wir alle lustlich assen vnd vast gut gewesen, das sy ouch sprachen, es gult Inen als glich als von einem Ochsen. Vnd sagte derselbe burger, das sy syt dem Ostertag hetten gessen iiijc xxvj pferde vnd vaste costlich pferde; ouch sagt vns damit, das Sy kein mangel gehebt handt, weder an schuchen, kleydern, biere, brot, fleisch als obstett, an keynen stucken, denn an einem guten appoteker für die kranken vnd an saltz vnd das gröste an Büchsenpuluer.",
+   "preklad": "Dále nevíme nic jiného říci ani napsat, než že jde o narovnání (mír), podle něhož jsme my a kdo chtěl z našeho tábora a strany chodili či jezdili do burgundského tábora i do města Neussu, jedli, pili a zůstávali tam přes noc; stejně tak Burgunďané k nám; a přesto se mezitím tvrdě a vážně jednalo. Co ta jednání jsou, to nevíme nikdo v obou táborech, kromě předáků a radů, kteří s tím zacházejí. Také jsem byl s několika pány v takovém pokoji v Neussu v domě nejbohatšího měšťana, který tam asi sídlí, a večer jsme tam jedli; dali nám dobré víno a dobré pivo, jichž nikdy neměli nedostatek, a mísu vařeného koňského masa, které jsme všichni s chutí jedli a bylo velmi dobré, takže i oni říkali, že je jim to stejné jako z vola. A týž měšťan říkal, že od Velikonoc snědli 426 koní, a to velmi drahých koní; také nám přitom řekl, že neměli nedostatek ani v obuvi, šatech, pivu, chlebu, mase, jak výše psáno, v žádném kusu, leda v dobrém lékárníkovi pro nemocné a v soli, a nejvíc ve střelném prachu."
+  },
+  {
+   "text": "Item wir wurden allenthalben gefürt in der statt zu sehen: Also sint weder hüser, noch nützig geschediget, weder holz halb oder sust, denn an einer muren haben Sy etwie manig böse hüßlin abgebrochen, mit dem holz an weren gebuwen, vnd do die selben hüslin gestanden, warent zelt vffgeslagen.",
+   "preklad": "Dále nás všude provedli po městě, abychom se podívali: domy ani nic jiného nebylo poškozeno, ani kvůli dřevu, ani jinak; jen u jedné hradby zbourali dost chatrných domků a dřevem z nich stavěli na opevnění, a kde ty domky stály, byly postaveny stany."
+  },
+  {
+   "text": "Ouch hat der Herzog von Burgundien vber iijm man vor Nüß verloren an stürmen vnd allenthalben, aber in warheit sagt man, das Inen sy obe xijm pferde gestorben vnd abgangen. Ouch hört ich sagen Sy selbs, sye hetten ob hundert tusen guldin wert puluers dauor verschossen.",
+   "preklad": "Také ztratil vévoda burgundský před Neussem přes 3000 mužů při útocích a všelijak, ale po pravdě se říká, že jim pošlo a ubylo přes 12 000 koní. Také jsem slyšel je samotné říkat, že před městem vystříleli prachu za víc než sto tisíc zlatých."
+  },
+  {
+   "text": "Vf dornstag nach vnsers Herren gotstag hab ich in der Stat Nüß messe gehört. Do ich hin In komen bin, sint obe iijm Burgundesche dar Inne gewesen vnd ist nit mynder; die von Nüß hetten ein gruwen daran, aber sy gingent zuchtiklich, do Sy meß gehorten, widder heruß, vnd darnach vnd sythe so lossent sy nit vil lüte mer hin In, weder fründe noch figent.",
+   "preklad": "Ve čtvrtek po Božím těle našeho Pána jsem slyšel mši ve městě Neussu. Když jsem tam přišel, bylo v něm přes 3000 Burgunďanů, a není to méně; Neusští z toho měli hrůzu, ale oni (Burgunďané) po vyslechnutí mše zase spořádaně odešli ven; a potom a od té doby už tam nepouštějí mnoho lidí, ani přátel, ani nepřátel."
+  },
+  {
+   "text": "Ich bin ouch an allen Iren weren gewesen, vssen vnd Innen, one zwifel so ist es wore, das Sy groß nott an solichen weren gelitten vnd gehabt haben, sonder an denselben weren sy einander so nahe gelegen, domit Sy einander mit den horn genomen habent, vnd frilich, erlich vnd fromenclich vnd woll sich gehalten haben.",
+   "preklad": "Byl jsem také na všech jejich opevněních, venku i uvnitř; bezpochyby je pravda, že na těch opevněních trpěli a měli velkou nouzi, zvláště že u týchž opevnění leželi (obránci a obléhatelé) tak blízko sebe, že se brali za rohy [?]; a drželi se zajisté čestně, statečně a dobře."
+  },
+  {
+   "text": "Es ist ouch vmb die zitt Inen zehelffen gewesen, wenn der Hertzog von Burgundien ze ringe vmb die stat gelegen ist mit einem grossen büchsenzuge vnd anderm. Er hatt ouch die stat zeringe vmb geschlossen vnd ersucht vnd vaste gegraben an denselben Orten allen, vnd wa er yede zitt geschossen hat oder gegraben, Innewendig die von Nüß vast gebuwen für solichs, das vast gut gewesen ist, vnd nit vil nemen wolt, ich hetts gesehen. Ouch ist der Burgunder",
+   "preklad": "Byl už také nejvyšší čas jim pomoci, neboť vévoda burgundský ležel kolem dokola města s velkým dělostřeleckým trénem a jiným. Také město kolem dokola uzavřel, zkoušel je a na všech těch místech silně podkopával; a kdekoli kdy střílel nebo kopal, Neusští proti tomu zevnitř pevně stavěli, což bylo velmi dobré; a nevzal bych mnoho za to, že jsem to viděl. Také je burgundský"
+  }
+ ],
+ "poznamky": [
+  "Celá strana je dobová citace (dopis účastníka z císařského tábora); OCR silně porušené, text přečten z obrázku (zvětšený výřez), včetně konců řádků.",
+  "Římské číslice: „x oder xij“ = 10 nebo 12, „xl pferde“ = 40 koní, „iiijc xxvj“ = 426, „iijm“ = 3000, „xijm“ = 12 000, „ob hundert tusen guldin“ = přes 100 000 zlatých.",
+  "Data: Boží tělo 25. 5. 1475; neděle po něm = 28. 5., pondělí = 29. 5., čtvrtek po Božím těle = 1. 6.; Velikonoce (Ostertag) = 26. 3. 1475. Papežský legát = Alessandro Nanni Malatesta, biskup z Forlì (mimo text).",
+  "„einander mit den horn genomen“ – doslova „vzali se za rohy“; smysl: obě strany ležely u opevnění tak blízko, že se mohly téměř dotknout [?].",
+  "Pro reenactory: obležení v Neussu snědli od Velikonoc 426 koní; jedli vařenou koninu a říkali, že chutná jako hovězí; nouzi měli jen o lékárníka, sůl a hlavně o střelný prach. Burgunďané prý vystříleli prach za víc než 100 000 zlatých."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,48 @@
+{
+ "cislo": 208,
+ "svazek": "2",
+ "strana": 578,
+ "pdf_strana": 606,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "578 Januar 1476. A476, SS. Januar.",
+ "nadpis": "Nr. 829 (Bern), 29. Jan. 1476: Quittung für Genf; Nr. 830 Lucern, 9. Febr. 1476 (Anfang)",
+ "nadpis_preklad": "č. 829 (Bern), 29. 1. 1476 – stvrzenka Ženevě na zaplacené sumy; č. 830 Luzern, 9. 2. 1476 – kostnický zvolený biskup, Bern žádá ujištění o pomoci, ženevské peníze (začátek)",
+ "odstavce": [
+  {
+   "text": "829. 1476, 29. Januar. Staatsarchiv Bern: Lateinisches Missivenbuch A. 437 b.",
+   "preklad": "**č. 829 – [Bern], 29. 1. 1476.** Státní archiv Bern: Latinská kniha missiv A. 437 b."
+  },
+  {
+   "text": "Schultheiß und Rath der Stadt Bern, für sich und gemeine Eidgenossen handelnd, quittiren Genf für folgende Summen: in Münze 280½ savoyische Gulden, in utrischen Gulden 215, in königlichen Schilden 40, in rheinischen oder deutschen Gulden 710 (septingentos et decem), in Ducaten und Saluciern 52, in Savoyerschilden 8, in florenis Ratti 60, in Kettengold 1 Mark 1½ Unzen, in gebrochenem Silber (argento rupto) 81 Mark 6 Unzen Bernergewicht. Dabei behalten sie alle weitern Forderungen vor.",
+   "preklad": "Starosta a rada města Bernu, jednající za sebe i za všechny Spřísežence, potvrzují Ženevě přijetí těchto částek: v minci 280½ savojského zlatého, v utrechtských zlatých 215, v královských štítových zlatých 40, v rýnských neboli německých zlatých 710 (septingentos et decem), v dukátech a saluzzských [mincích] 52, v savojských štítových zlatých 8, ve „florenis Ratti“ 60, ve zlatě z řetězů 1 hřivnu 1½ unce, v lámaném stříbře (argento rupto) 81 hřiven 6 uncí bernské váhy. Přitom si vyhrazují všechny další pohledávky."
+  },
+  {
+   "text": "Laut dem Basler Öffnungsbuch V. 146 sollte am 29. Januar (Montag vor Lichtmeß) ein Tag der Eidgenossen und der Vereinigung in Zürich stattfinden.",
+   "preklad": "Podle basilejské Öffnungsbuch V. 146 se měl 29. ledna (v pondělí před Hromnicemi) konat v Curychu sněm Spříseženců a [Dolního] spolku."
+  },
+  {
+   "text": "830. Lucern. 1476, 9. Februar (Fritag post Agathe). Staatsarchiv Lucern: Lucerner Abschiede, B. 55.",
+   "preklad": "**č. 830 – Luzern, 9. 2. 1476** (pátek po sv. Agátě). Státní archiv Luzern: Luzernské výnosy B. 55."
+  },
+  {
+   "text": "Boten: Zürich. Hans Waldmann. Bern. Schultheiß von Wabern; Peter Stark. Lucern. Peter Rust, Schultheiß; Caspar von Hertenstein und Heinrich Hasfurter, Altschultheißen; Peter Tammann. Uri. Walther In der Gasse, Altammann. Schwyz. Ammann Jacob. Unterwalden. Ammann von Einwil. Zug. Der Landolt. Glarus. Ammann Aebly.",
+   "preklad": "Vyslanci: Curych – Hans Waldmann. Bern – starosta von Wabern; Peter Stark. Luzern – starosta Peter Rust; Caspar von Hertenstein a Heinrich Hasfurter, bývalí starostové; Peter Tammann. Uri – Walther In der Gasse, bývalý úředník. Schwyz – úředník Jacob. Unterwalden – úředník von Einwil. Zug – Landolt. Glarus – úředník Aebly."
+  },
+  {
+   "text": "a. Der Erwählte von Constanz ist auf diesem Tag erschienen und hat seine und des Capitels Sache erzählt, wie er gewählt worden und wie ihm die Regalien geliehen seien. Dabei hat er sich erboten, die Vereinigung, welche Bischof Hermann selig mit uns gehabt, zu erneuern und sich mit uns zu verbinden. b. Die von Bern haben Zusage begehrt, daß wir, falls sie durch den Herzog von Burgund überzogen würden, sie nicht verlassen wollen. Ferner melden sie, der König von Frankreich habe seine Botschaft zu Lyon und begehre, daß wir die unsere auch hinschicken. Auf beide Stücke soll Sonntags nach Valentini (18. Februar) Jedermann mit Vollmacht zu Lucern antworten. c. Auf denselben Tag soll man nach Bern reiten und da das Geld, das dahin gekommen ist, in Empfang nehmen. d. Die von Genf haben 2000 Gulden nach Bern geschickt und dabei etwas Silbergeräthe zu Pfand gegeben und begehrt, man möchte mit ihnen nach Basel, Straßburg oder anderwärts hin reiten und das Geld darauf nehmen. Das soll Jedermann heimbringen. e. Beringer Müller hat den Frieden gebrochen, soll 50 Pfund zu Buße verfallen sein, dieselben dem Vogt Waldmann bezahlen und schwören, den Frieden an Werner Schmid in Zukunft zu halten. Der Eid und die Strafe sollen ihm an seiner Ehre nicht schaden. f. Auf Samstag nach St. Valentinstag (17. Februar) wird der Rechttag des Niclaus Bürkli und seines Gelten wegen sein. Wenn Jemand ist, der Forderungen an ihn hat, so soll derselbe auf den Rechttag kommen, da will man darüber richten. g. Heimbringen das Schreiben von Bern und den Bericht …",
+   "preklad": "a. Zvolený [biskup] kostnický se dostavil na tento sněm a vylíčil svou věc a věc kapituly: jak byl zvolen a jak mu byla udělena regálie. Přitom se nabídl, že obnoví spolek, který s námi měl zesnulý biskup Hermann, a že se s námi spojí. b. Bernští žádali ujištění, že je neopustíme, kdyby je vévoda Burgundský napadl. Dále oznamují, že král Francie má své poselstvo v Lyonu a žádá, abychom tam poslali i své. Na obě věci má každý v neděli po sv. Valentinovi (18. února) odpovědět v Luzernu s plnou mocí. c. Na týž den se má jet do Bernu a převzít tam peníze, které tam přišly. d. Ženevští poslali do Bernu 2000 zlatých, dali k tomu do zástavy nějaké stříbrné nádobí a žádali, aby se s nimi jelo do Basileje, do Štrasburku nebo jinam a na ně si tam vypůjčily peníze. To má každý předložit doma. e. Beringer Müller porušil mír; propadá pokutě 50 liber, má je zaplatit fojtovi Waldmannovi a odpřisáhnout, že bude napříště zachovávat mír vůči Werneru Schmidovi. Přísaha a trest nemají být na újmu jeho cti. f. V sobotu po sv. Valentinovi (17. února) bude soudní rok (stání) Niclause Bürkliho a jeho věřitele. Má-li kdo vůči němu pohledávky, má na ten soudní rok přijít; tam se o nich rozhodne. g. Předložit doma list Bernských a zprávu …"
+  }
+ ],
+ "poznamky": [
+  "Č. 829: místo v záhlaví chybí, z obsahu Bern. 29. 1. 1476 = pondělí. Dlouhé konce řádků (Genf, königlichen, und, gebrochenem, Forderungen) doplněny z obrázku.",
+  "Mince (mimo text): „utrische Gulden“ = utrechtské zlaté [?]; „Saluciern“ = mince markrabství Saluzzo [?]; „floreni Ratti“ – neurčeno [?]; „Kettengold“ = zlato ze (zlatých) řetězů; „königliche Schilde“ = francouzské écus.",
+  "Basler Öffnungsbuch = basilejská kniha zápisů (otevřených listů), název ponechán.",
+  "Č. 830: sv. Agáta = 5. 2. (pondělí 1476), pátek po ní = 9. 2. 1476 – souhlasí. Seznam vyslanců doplněn z obrázku (OCR vynechalo „Peter Tammann“, „Ammann von Einwil“).",
+  "Bod a.: zvolený biskup kostnický = Ludwig von Freiberg (zvolen po smrti biskupa Hermanna III. von Breitenlandenberg 1474) (mimo text); srov. bod k. na další straně („von Freiberg“).",
+  "Bod d.: „das Geld darauf nehmen“ = vypůjčit si peníze na zástavu stříbra. Bod e.: Pfund = libra (početní jednotka); „Vogt Waldmann“ = Hans Waldmann (mimo text). Bod f.: „Gelte“ = věřitel (Gläubiger).",
+  "Konce řádků (Sache, die, verbinden, überzogen, Botschaft, Valentini, man, Genf, begehrt, nehmen, Pfund zu, Werner, schaden, seines, Rechttag, Bericht) doplněny z obrázku. Bod g. pokračuje na další straně."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

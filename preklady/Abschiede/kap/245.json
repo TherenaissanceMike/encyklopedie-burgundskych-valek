@@ -1,0 +1,88 @@
+{
+ "cislo": 245,
+ "svazek": "2",
+ "strana": 615,
+ "pdf_strana": 643,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "September 1476.",
+ "nadpis": "Schluss Nr. 848 (Zürich, 8. Sept. 1476); Nr. 849, 17. Sept. 1476: Creditiv und Instruction für Bubenberg und Dießbach an den König von Frankreich",
+ "nadpis_preklad": "konec č. 848 (Curych, 8. 9. 1476) – Murten a dobyté země, Vaud, Fribourg jako místo, Waldmann k Pappenheimovi; č. 849, 17. 9. 1476 – pověřovací listina a instrukce pro Bubenberga a Diesbacha ke králi Ludvíkovi XI.",
+ "odstavce": [
+  {
+   "text": "[„Von des Heerzugs wegen … ist gemeinlich] von allen Orten geantwurt.“ i. Da der König von Frankreich den jungen Herrn von Savoyen in seinen Schirm genommen hat, so soll man ihm empfehlen, auch dessen Land zu schirmen.",
+   "preklad": "[„… odpověděla společně] všechna místa (kantony).“ i. Protože francouzský král vzal mladého pána Savojského pod svou ochranu, má se mu doporučit, aby chránil i jeho zemi."
+  },
+  {
+   "text": "k. „Von Murten vnd des eroberten lands wegen, das die von Bern vnd Fryburg allein begerent zu haben, darinn wil yeglich ort sin teil haben.“",
+   "preklad": "k. „Ohledně Murtenu a dobyté země, kterou chtějí mít Bernští a Fribourgští sami: na tom chce mít každé místo svůj podíl.“"
+  },
+  {
+   "text": "l. Die Schlösser und Städte in Savoyen soll man nicht weiter zerstören und an der Wehre nicht weiter bauen lassen.",
+   "preklad": "l. Hrady a města v Savojsku se už nemají dál bořit a na opevnění se už nemá dál stavět."
+  },
+  {
+   "text": "m. Der Knechte wegen, die Yverdon verrathen haben, soll man heimbringen, ob man sie begnadigen, beschätzen oder wie man sie halten wolle.",
+   "preklad": "m. Ohledně knechtů, kteří zradili Yverdon, se má doma předložit, zda je chtějí omilostnit, nebo jim uložit výkupné, či jak s nimi chtějí naložit."
+  },
+  {
+   "text": "n. Eines Landvogts wegen für die Waadt soll man auch auf vorgenanntem Tag antworten.",
+   "preklad": "n. Ohledně zemského fojta pro Vaud se má také odpovědět na zmíněném sněmu."
+  },
+  {
+   "text": "o. Der Knechte wegen, welche in die Kriege laufen, soll man vorsehen, daß sie die Zugewandten der Eidgenossen ungeschädigt lassen.",
+   "preklad": "o. Ohledně knechtů, kteří odbíhají do válek, se má zařídit, aby spojence Spříseženců nechali bez škody."
+  },
+  {
+   "text": "p. Zürich, Lucern, Uri und Schwyz sollen der Bisthumssache wegen in gemeiner Eidgenossen Namen die Botschaft zu Herzog Sigmund schicken. Auf St. Michaelsabend sollen die Boten zu Wesen eintreffen.",
+   "preklad": "p. Curych, Luzern, Uri a Schwyz mají ve věci biskupství jménem všech Spříseženců vypravit poselstvo k vévodovi Zikmundovi. Na předvečer sv. Michala se mají vyslanci sejít ve Wesenu."
+  },
+  {
+   "text": "q. „Von der von Friburg von begerens wegen, Sy ein ortt der Eydgnosschaft lassen zu sind, dorumb sol man vff dem nechsten Tag zu Lutzern antwurten.“",
+   "preklad": "q. „Na žádost Fribourgských, aby jim bylo dovoleno být místem Spříseženstva, se má odpovědět na příštím sněmu v Luzernu.“"
+  },
+  {
+   "text": "r. Als Bote zu dem Marschall von Pappenheim ist Herr Hans Waldmann, Ritter, mit dem Auftrag geordnet, ihn zu bitten, er möchte sein Unternehmen der Bischofsangelegenheit wegen ruhen lassen und alle Haft und Verbote, die er gethan, abstellen bis St. Niclaustag; inzwischen hoffe man, durch die Botschaft, welche man zum Herzog von Oesterreich gethan, die Sache zu betragen. Will er dieses nicht thun, so soll ihm erklärt werden, wir wollen es durchaus haben, und uns seiner mächtigen. Das geschieht deßwegen, damit man in der Sache desto fruchtbarer unterhandeln möge.",
+   "preklad": "r. Jako vyslanec k maršálkovi z Pappenheimu je určen pan Hans Waldmann, rytíř, s úkolem požádat ho, aby svůj podnik ve věci biskupství nechal spočinout a všechna zatčení a zákazy (obstavení), které učinil, zrušil až do sv. Mikuláše; mezitím se doufá, že se věc urovná poselstvem, které bylo vypraveno k vévodovi Rakouskému. Nebude-li to chtít učinit, má se mu prohlásit, že to rozhodně chceme mít a že se ho zmocníme. To se děje proto, aby se v té věci dalo tím plodněji vyjednávat."
+  },
+  {
+   "text": "Zu d, e, f, p und r. 1476, 16. August. Bern schreibt an den Herzog von Oesterreich: Es habe der Angelegenheiten des Bisthums Constanz wegen den Eidgenossen einen Tag nach Zürich gesetzt auf unserer Frauen natiuitatis; man bitte ihn, seinen Landvogt und Marschall, den Grafen Oswald von Thierstein, und den Ritter Wilhelm Herter dazu zu schicken. (Berner deutsches Missivenbuch D. 2.)",
+   "preklad": "K d, e, f, p a r. 16. 8. 1476. Bern píše vévodovi Rakouskému: kvůli záležitostem kostnického biskupství vypsal Spřísežencům sněm do Curychu na Narození Panny Marie; prosí ho, aby tam poslal svého zemského fojta a maršálka, hraběte Oswalda z Thiersteinu, a rytíře Wilhelma Hertera. (Bernská německá kniha listů D, f. 2.)"
+  },
+  {
+   "text": "Zu q. Lucern instruirt darauf noch: „Wir wollen des müssig gan.“",
+   "preklad": "K q. Luzern k tomu ještě dává instrukci: „Toho se chceme zdržet.“"
+  },
+  {
+   "text": "849. 1476, 17. September. Staatsarchiv Bern: Lateinisches Missivenbuch A. 485. 486.",
+   "preklad": "**č. 849 – [Bern], 17. 9. 1476.** Státní archiv Bern: Latinská kniha listů (Lateinisches Missivenbuch) A, f. 485–486."
+  },
+  {
+   "text": "Creditiv der im Namen gemeiner Eidgenossen zum König von Frankreich gesendeten Herren Adrian von Bubenberg und Wilhelm von Dießbach, Altschultheißen und Ritter.",
+   "preklad": "Pověřovací listina pro pány Adriana von Bubenberg a Wilhelma von Diesbach, bývalé starosty a rytíře, vyslané jménem všech Spříseženců k francouzskému králi."
+  },
+  {
+   "text": "Nach Schilling, Burgunderkriege S. 353, reisten sie erst am 23. October ab. — Ihre Instruction (Berner lateinisches Missivenbuch A. 484 b) lautete folgendermaßen:",
+   "preklad": "Podle Schillinga (Burgunderkriege, s. 353) odcestovali teprve 23. října. – Jejich instrukce (Bernská latinská kniha listů A, f. 484b) zněla takto:"
+  },
+  {
+   "text": "«Quia placuit Regi, oratores suos, inprimis illustrem dominum, dominum Admiraldum cum suis collegis, destinare ad dominos de liga illicque seriem voluntatis sue reserare, que tribus articulis principalibus enodata est:",
+   "preklad": "„Protože se králi zalíbilo vyslat své řečníky (vyslance), především osvíceného pána, pana admirála, s jeho druhy, k pánům ze Spolku a tam jim vyložit svou vůli, která je rozvedena ve třech hlavních článcích:"
+  },
+  {
+   "text": "In primis guerras in Burgundie ducem efficaciter continuendas concernente, super quo domini de liga respondent, sese ob honorem et impulsionem regis guerras in eum movisse et usque in hunc diem tribus letalibus preliis commissis continuasse et in presentiarum prosequi, nec unquam voluisse ad aliqua media pacis, quibus rex ipse se jungeretur, tam et si id sepe temptatum fuerit inclinare, nec hodie id admittere, [...]",
+   "preklad": "Za prvé, co se týče účinného pokračování ve válce proti vévodovi Burgundskému: na to páni ze Spolku odpovídají, že kvůli králově cti a na jeho popud proti němu válku zahájili, až do dnešního dne v ní pokračovali, svedše tři krvavé bitvy, a v současnosti ji vedou dál; že se nikdy nechtěli přiklonit k žádným mírovým prostředkům, k nimž by se nepřipojil sám král, ačkoli o to bylo často usilováno, a že to nepřipouštějí ani dnes, […]"
+  }
+ ],
+ "poznamky": [
+  "Konce řádků a latinská instrukce doplněny ze skenu.",
+  "„junger Herr von Savoyen“ = nezletilý vévoda Filibert I. (mimo text).",
+  "Wesen = Weesen u Walensee (místo setkání vyslanců). Předvečer sv. Michala = 28. 9. 1476; sv. Mikuláš = 6. 12. 1476.",
+  "„uns seiner mächtigen“ = zmocnit se ho (zajmout); přeloženo doslova.",
+  "„tribus letalibus preliis“ = tři bitvy: Héricourt (1474), Grandson a Murten (1476) (mimo text, výklad).",
+  "„dominus Admiraldus“ = francouzský admirál (Louis de Bourbon, bastard Bourbonský, mimo text).",
+  "Č. 849 nemá v záhlaví uvedeno místo; podle archivu (Bern) zřejmě Bern."
+ ],
+ "prelozil": "Claude (AI), 2026-11-17, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

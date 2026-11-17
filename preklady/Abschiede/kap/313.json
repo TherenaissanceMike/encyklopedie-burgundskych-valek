@@ -1,0 +1,54 @@
+{
+ "cislo": 313,
+ "svazek": "2",
+ "strana": 683,
+ "pdf_strana": 711,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "Mm 1477. 683",
+ "nadpis": "Schluss Nr. 893 (Baden, 25. Mai 1477): Peter vom Stein, Landvogt im Thurgau, Bischof von Constanz, Rheinwuhr bei Ragatz, Graf von Sulz, Oberland, Botschaft nach Innsbruck, Kadelburg, Einnahmen der Vogtei Baden, Tag zu Freiburg; Nr. 894 Bern, 8. Juni 1477: Waffenstillstand mit dem Herrn von Craon (Anfang)",
+ "nadpis_preklad": "konec č. 893 (Baden, 25. 5. 1477): Peter vom Stein, zemský fojt v Thurgau, biskup kostnický, rýnská hráz u Ragazu, hrabě ze Sulzu, Oberland, poselstvo do Innsbrucku, Kadelburg, příjmy badenského fojtství, sněm ve Fribourgu; č. 894 Bern, 8. 6. 1477 – příměří s pánem z Craonu (začátek)",
+ "odstavce": [
+  {
+   "text": "zweimal Treue gebrochen, ein Malter Korn um Kundschaft verheißen hätte u. s. w., worüber dieser das Recht angerufen hat, soll man auf dem Tag zu Zürich antworten, wie man dem Knecht zu Hülfe kommen wolle; inzwischen sollen die von Bern die Sache zum Besten aller Theile bedenken.",
+   "preklad": "… dvakrát porušil věrnost [a] slíbil maltr obilí za svědectví atd., kvůli čemuž se tento dovolal práva, se má na sněmu v Curychu odpovědět, jak chtějí knechtovi pomoci; mezitím mají Bernští věc uvážit k co největšímu dobru všech stran."
+  },
+  {
+   "text": "p. Der Landvogt im Thurgau hat nichts gebracht; er soll nächstes Jahr für zwei Jahre Rechnung ablegen. q. Des Begehrens des Bischofs von Constanz wegen, bezüglich der Eide von Kaiserstuhl, Klingnau etc. soll man zu Zürich, sofern der Bischof nicht gütlich von seinem Begehren abstehen will, entscheiden, ob man die Sache vor den drei oder den acht Orten berechten wolle. Dann soll das Recht zu Zürich vor sich gehen, doch so, daß das Capitel mit dem Bischof gegen uns in's Recht stehe.",
+   "preklad": "p. Zemský fojt v Thurgau nic nepřinesl; příští rok má složit účty za dva roky. q. Ohledně žádosti biskupa kostnického, týkající se přísah v Kaiserstuhlu, Klingnau atd., se má v Curychu – pokud biskup nechce od své žádosti smírně upustit – rozhodnout, zda se má věc soudit před třemi, nebo před osmi místy (kantony). Pak má soud proběhnout v Curychu, avšak tak, aby kapitula stála s biskupem proti nám před soudem."
+  },
+  {
+   "text": "r. Bezüglich der Streitigkeiten zwischen dem Abt von Pfäfers und denen von Ragatz einerseits, und denen von Fläsch andererseits über ein Rheinwuhr sollen die von Glarus mit unserm Vogt im Oberland auf Samstag nach St. Ulrichstag einen Augenschein an Ort und Stelle veranstalten und den Streit gütlich oder rechtlich entscheiden. s. Das Anbringen und die Entschuldigung des Grafen Rudolf von Sulz weiß jeder Bote, ebenso was man ihm geantwortet hat. t. Vom Oberland erhält jedes der sieben Orte 43 Pfund Haller.",
+   "preklad": "r. Ohledně sporů mezi opatem z Pfäfersu a Ragazskými na jedné straně a Fläschskými na druhé straně o rýnskou hráz (Wuhr) mají Glaruští s naším fojtem v Oberlandu v sobotu po sv. Oldřichu uspořádat ohledání na místě a spor smírně nebo soudně rozhodnout. s. Co přednesl hrabě Rudolf ze Sulzu a jak se omlouval, ví každý vyslanec, stejně jako co se mu odpovědělo. t. Z Oberlandu dostává každé ze sedmi míst 43 liber haléřů."
+  },
+  {
+   "text": "u. Der Sache wegen, derenthalb man eine Botschaft zum Herzog von Oesterreich schicken soll, hat man beschlossen, auf einem Tag zu Lucern Dienstag vor St. Ulrichstag (1. Juli) zu entscheiden, ob man nur von vier oder von allen Orten Boten schicken wolle. Da soll man auch den Tag der Abreise der Boten und ihres Eintreffens zu Innsbruck beim Fürsten festsetzen und letzterm solches verkünden. v. Jeder Bote weiß zu sagen, wie Graf Eberhards Sache gegen den Herzog von Oesterreich steht und worüber man sich gegen ihn verschrieben hat.",
+   "preklad": "u. Ohledně věci, kvůli níž se má vyslat poselstvo k vévodovi rakouskému, bylo usneseno rozhodnout na sněmu v Luzernu v úterý před sv. Oldřichem (1. července), zda vyslat vyslance jen ze čtyř, nebo ze všech míst. Tam se má také stanovit den odjezdu vyslanců a jejich příjezdu ke knížeti do Innsbrucku a jemu to oznámit. v. Každý vyslanec umí říci, jak stojí věc hraběte Eberharda proti vévodovi rakouskému a k čemu se vůči němu písemně zavázali."
+  },
+  {
+   "text": "w. Der Span um Kadelburg zwischen den Herren von Zurzach und Sulz ist verglichen nach Laut der darüber aufgerichteten Schrift. x. Der Vogt von Baden giebt jedem Ort 53 Pfund Haller, vom Geleit zu den großen Bädern erhält jedes Ort 3 Pfund, vom Geleit zu Mellingen 6 Pfund, vom Geleit zu Bremgarten 3 Pfund. 4 Gulden hat man denen von Bremgarten als Beisteuer gegeben, um die Schilde zu malen.",
+   "preklad": "w. Spor o Kadelburg mezi pány ze Zurzachu a ze Sulzu je urovnán podle znění listiny o tom sepsané. x. Fojt v Badenu dává každému místu 53 liber haléřů; z průvodného (glejtovného) u Velkých lázní dostává každé místo 3 libry, z průvodného v Mellingenu 6 liber, z průvodného v Bremgartenu 3 libry. Bremgartenským dali 4 zlaté jako příspěvek na malování erbovních štítů."
+  },
+  {
+   "text": "y. Auf St. Ulrichstag (4. Juli) zu Nacht sollen alle Orte ihre Boten zu Freiburg haben, um die Waadt zu besetzen und zu berathen, was man der Frau von Savoyen antworten, was man mit denen von Bern und Freiburg betreffend Murten, Erlach, Grandcourt und Cudrefin reden und ob man an sie eine Botschaft schicken wolle.",
+   "preklad": "y. Na den sv. Oldřicha (4. července) večer mají mít všechna místa své vyslance ve Fribourgu, aby obsadili Vaud a poradili se, co odpovědět paní Savojské, o čem jednat s Bernskými a Fribourgskými ohledně Murtenu, Erlachu, Grandcourtu a Cudrefinu a zda k nim vyslat poselstvo."
+  },
+  {
+   "text": "Baseler Offnungsbuch V. 197 b: Sonntag nach Urbani (ist ein) Tag gemeiner Vereinigung und der Eidgenossen zu Baden wegen der Kleinode zu Lucern. — 1477, 24. Mai (Pfingstabend). Graf Heinrich von Württemberg und Mümpelgard sendet den ehrwürdigen und wohlgelehrten Martin Kelner, beider Rechte Doctor und Propst zu Stuttgart, an die Eidgenossen. — 1477, 16. Mai (Freitag nach der Auffahrt); Rothenburg am Neckar. Erzherzogin Mechtild, geb. Pfalzgräfin bei Rhein, schreibt an die Eidgenossen bezüglich der Anforderung des Hans Truchseß und dessen Ehefrau an sie. (Originalbriefe im Staatsarchiv Lucern.)",
+   "preklad": "Basilejská Offnungsbuch V. 197 b: v neděli po sv. Urbanu (je) sněm celého Dolního spolku a Spříseženců v Badenu kvůli klenotům v Luzernu. — 24. května 1477 (předvečer Letnic). Hrabě Jindřich Württemberský a z Montbéliardu posílá ke Spřísežencům ctihodného a vysoce učeného Martina Kelnera, doktora obojího práva a probošta ve Stuttgartu. — 16. května 1477 (pátek po Nanebevstoupení); Rottenburg nad Neckarem. Arcivévodkyně Mechtilda, rozená falckraběnka rýnská, píše Spřísežencům ohledně nároku Hanse Truchseße a jeho manželky vůči ní. (Originální listy ve Státním archivu Luzern.)"
+  },
+  {
+   "text": "894. Bern. 1477, 8. Juni (viija Junii). Staatsarchiv Bern: Lateinisches Missivenbuch B. 31.",
+   "preklad": "**č. 894 – Bern, 8. 6. 1477** (8. června). Státní archiv Bern: Latinská kniha odeslaných listů B 31."
+  },
+  {
+   "text": "Der Eidgenossen Boten ersuchen den Herrn von Craon, alle Feindseligkeiten in der Grafschaft Burgund bis und mit dem 1. August einzustellen, wie es auch die Burgunder thun werden („armorum …",
+   "preklad": "Vyslanci Spříseženců žádají pána z Craonu, aby zastavil veškerá nepřátelství v Burgundském hrabství až do 1. srpna včetně, jak to učiní i Burgunďané („armorum …"
+  }
+ ],
+ "poznamky": [
+  "Obrázek dobře čitelný; konce řádků a čísla (43 lb, 53 lb, Mellingen 6 lb, Martin Kelner, viija Junii) opraveny z obrázku. Data: sobota po sv. Oldřichu (4. 7., pátek) = 5. 7.; úterý před sv. Oldřichem = 1. 7.; neděle po sv. Urbanu = 1. 6.; předvečer Letnic = 24. 5.; pátek po Nanebevstoupení = 16. 5. 1477. Malter = objemová míra obilí (maltr). „drei oder acht Orte“ – viz č. 890 a (tři místa, která nejsou s biskupem ve spolku). Capitel = kostnická kapitula. Rheinwuhr = rýnská hráz/jez proti povodním. Vogt im Oberland = fojt v Sargans [?] (Oberland zde patrně hrabství Sargans, společné panství sedmi míst) (mimo text). Graf Eberhard = patrně hrabě Eberhard von Sonnenberg/Waldburg [?]. Herren von Zurzach = patrně kapitula sv. Vereny v Zurzachu [?]. „große Bäder“ = Velké lázně v Badenu. Herr von Craon = Georges de La Trémoille, pán z Craonu, francouzský velitel v Burgundsku (mimo text). Erzherzogin Mechtild = Mechtilda Falcká, vdova po arcivévodovi Albrechtovi VI., sídlila v Rottenburgu (mimo text). Graf Heinrich von Württemberg = Jindřich Württemberský, hrabě z Montbéliardu (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

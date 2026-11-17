@@ -1,0 +1,62 @@
+{
+ "cislo": 102,
+ "svazek": "2",
+ "strana": 472,
+ "pdf_strana": 500,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1474,
+ "zahlavi": "472 Februar 1474.",
+ "nadpis": "Schluss Nr. 732 (Lucern, 4. Februar 1474); Nr. 733 Lucern, 11. Februar 1474 – Tag zu Stans",
+ "nadpis_preklad": "konec č. 732 (Luzern, 4. 2. 1474) – vlašští jezdci k Burgundsku, přijetí výnosu s Rakouskem a Dolního spolku, Hagenbachův list o Prattelnu; č. 733 Luzern, 11. 2. 1474 – sněm ve Stansu",
+ "odstavce": [
+  {
+   "text": "sie sollen auch Niemanden durchziehen lassen.",
+   "preklad": "nemají také nikoho nechat projít."
+  },
+  {
+   "text": "b. Der von Landenberg und seine Mutter sollen nach Zürich zu Recht kommen nach Maßgabe des Abschieds, der ihnen darum gegeben ist.",
+   "preklad": "b. Pán von Landenberg a jeho matka mají přijít k soudu do Curychu podle sněmovního výnosu (abscheid), který jim o tom byl dán."
+  },
+  {
+   "text": "c. Der reisigen Walen wegen, welche jetzt zu dem Herzog von Burgund ziehen, ist erkennt, daß Bern in gemeiner Eidgenossen Namen dieselben angreifen, niederlegen, erstechen und auf alle Weise schädigen soll. Welches Ort mit diesem Beschlusse nicht einverstanden ist, soll selbes sofort nach Bern schreiben.",
+   "preklad": "c. Ohledně vlašských jezdců, kteří nyní táhnou k vévodovi burgundskému, bylo rozhodnuto, že Bern je má jménem všech Spříseženců napadat, pobíjet, probodávat a všemožně jim škodit. Které místo s tímto usnesením nesouhlasí, má to ihned napsat do Bernu."
+  },
+  {
+   "text": "d. „Item Zürich, Bern, Lutzern, Vnderwalden, Zug vnd Glarus hant zugeseit, den abscheid gegen dem fürsten von Oesterreich vnd die einung mit den nidern herren vnd stetten zuzesagen, als sy stellen werden, vnd ob gemein eidgenossen dz ouch tun. Die von Switz hant zugeseit die einung, aber fürsten abscheid hant sy nit zugeseit, dann mit den fürworten, wann der graff von Sunnenberg des sinen wider bewert vnd ingesetzt vnd denen, so Herr Bilgre von Höwdorff das jr genomen, widerkert, wan dz beschicht, so wellen sy dz ouch zusagen. Die von Vre hant geantwurt vnd zugeseit den abscheid mit dem fürsten, aber mit der eynung wellen sy nütt ze schaffen han; die nid dem Wald sint nütt vff dem tag gewessen; da sind die von Bern geordnet, gan Switz vnd Vre ze faren, die sachen ze werben, mit andern eidgnossen zeziechen; aber gan Vnderwalden nid dem wald sollen aber Bern, Zürich, Switz vnd Vre die sach da werben, mit den eidgnossen zeziechen. Vnd wie sy ioch die sachen vindent, so sol aber Jederman mit vollem gewalt wider zu Lutzern sin vff Donstag ze nacht nach Dorothee (10. Februar), die Sachen zu vollem ze besliessen.“",
+   "preklad": "d. „Rovněž Curych, Bern, Luzern, Unterwalden, Zug a Glarus slíbili přijmout výnos (abscheid) ve věci knížete rakouského a spolek s dolními pány a městy, jak jej sepíší, a to pokud to učiní i všichni Spříseženci. Schwyzští přislíbili spolek, avšak výnos ve věci knížete nepřislíbili, leda s výhradou: až bude hrabě von Sonnenberg znovu uveden a dosazen do svého majetku a těm, jimž pan Bilgeri von Heudorf vzal jejich majetek, bude navrácen – až se to stane, chtějí to také přislíbit. Urijští odpověděli a přislíbili výnos s knížetem, se spolkem však nechtějí mít nic společného. Nidwaldenští nebyli na sněmu vůbec; proto byli Bernští určeni, aby jeli do Schwyzu a Uri, věc přednesli a přiměli je, aby táhli s ostatními Spříseženci; do Nidwaldenu pak mají věc přednést Bern, Curych, Schwyz a Uri, aby je přiměli táhnout se Spříseženci. A ať věc najdou jakkoli, má být každý s plnou mocí znovu v Luzernu ve čtvrtek večer po sv. Dorotě (10. února), aby se věci plně uzavřely.“"
+  },
+  {
+   "text": "e. Die von Basel sollen sich auch auf obgenanntem Tage zu Lucern einfinden; das soll man ihnen schreiben. Der letzte Abschied ist ihnen abgeschlagen.",
+   "preklad": "e. Basilejští se mají rovněž dostavit na řečený sněm do Luzernu; to se jim má napsat. Poslední sněmovní výnos jim byl odepřen."
+  },
+  {
+   "text": "f. Da Ulrich Ester gegen gemeinen St. Johannsorden Feindschaft hat, so ist beiden Städten Bern und Zürich befohlen, sich darein zu legen, damit die Sache gerichtet werde.",
+   "preklad": "f. Protože Ulrich Ester má nepřátelství s celým řádem sv. Jana, bylo oběma městům, Bernu a Curychu, uloženo, aby se do toho vložila a věc byla urovnána."
+  },
+  {
+   "text": "Zu a. Hier ist anläßlich folgender Act zu erwähnen: 1474, 10. Januar (Montag vor St. Hilarientag) verkündet Peter von Hagenbach, Ritter, Landvogt und Hofmeister, mit seinem offenen Briefe Jedermann, insonderheit den Städten und Orten Basel, Bern, Solothurn, Lucern, Zürich, Schwyz, Uri, Unterwalden, Zug und Glarus, daß er Amts wegen und nach Befehl seines Herrn, des Herzogs von Burgund, den Ritter Hans Bernhard von Eptingen mit seinem Haus und Dorf zu Pratteln und aller Zubehör in des Herzogs besondern Schirm genommen und empfangen habe, daß er also gegen Jeden, welcher den Herrn von Eptingen oder die von Pratteln angreifen würde, insonderheit solche, die sich seiner Ungehorsamen annähmen, diesen Schirm bethätigen müßte. Copie im Allgemeinen Abschiedeband B. 80. Staatsarchiv Lucern.",
+   "preklad": "K bodu a: v této souvislosti je třeba zmínit následující akt: 10. ledna 1474 (pondělí před sv. Hilariem) oznamuje Peter von Hagenbach, rytíř, zemský fojt a hofmistr, svým otevřeným listem všem, zvláště městům a místům Basilej, Bern, Solothurn, Luzern, Curych, Schwyz, Uri, Unterwalden, Zug a Glarus, že z moci úřadu a z rozkazu svého pána, vévody burgundského, vzal a přijal rytíře Hanse Bernharda von Eptingen s jeho domem a vsí Pratteln a vším příslušenstvím pod zvláštní vévodovu ochranu, takže by tuto ochranu musel uplatnit proti každému, kdo by pána von Eptingen nebo Prattelnské napadl, zvláště proti těm, kdo by se ujímali jeho neposlušných [poddaných]. Opis ve svazku Všeobecných výnosů B 80, Státní archiv Luzern."
+  },
+  {
+   "text": "733. Lucern. 1474, 11. Februar (Freitag vor Valentini). Staatsarchiv Lucern: Lucerner Abschiede, B. 15.",
+   "preklad": "**č. 733 – Luzern, 11. 2. 1474** (pátek před sv. Valentinem). Státní archiv Luzern: Luzernské výnosy B 15."
+  },
+  {
+   "text": "Boten: Zürich. Heinrich Röist, Burgermeister. Bern. Niclaus von Dießbach, Ritter; Petermann von Wabern, beide Altschultheißen. Lucern. Caspar von Hertenstein; Heinrich Hasfurter, beide Altschultheißen. Uri. Hans Fries, Altammann. Schwyz. Vogt Schiffli. Obwalden. Ammann Heinzli. Nidwalden. Ammann Enentachers. Zug. Ammann Schell. Glarus sendet keinen Boten, hat aber am letzten Tage durch Ammann Aebly, in nachgeschriebenen Sachen zu handeln, volle Gewalt gegeben.",
+   "preklad": "Vyslanci: Curych – purkmistr Heinrich Röist. Bern – rytíř Niclaus von Dießbach; Petermann von Wabern, oba bývalí starostové. Luzern – Caspar von Hertenstein; Heinrich Hasfurter, oba bývalí starostové. Uri – Hans Fries, bývalý zemský úředník. Schwyz – fojt Schiffli. Obwalden – úředník Heinzli. Nidwalden – úředník Enentachers. Zug – úředník Schell. Glarus nevysílá žádného vyslance, ale na posledním sněmu dal prostřednictvím úředníka Aeblyho plnou moc jednat v níže uvedených věcech."
+  },
+  {
+   "text": "„Vff Samstag zu nacht nach der alten Vasnacht (5. März) söllend aller eitgnossen botten mit ganzem vollem gewalt zu Stans sin, vnd der von Basel botschaft ouch, vnd sol man am Sondag mit einer",
+   "preklad": "„V sobotu večer po staré masopustní neděli (5. března) mají být vyslanci všech Spříseženců s úplnou plnou mocí ve Stansu, a také poselstvo Basilejských, a v neděli se má s"
+  }
+ ],
+ "poznamky": [
+  "Konec č. 732. „reisige Walen“ = vlašští (románští, zde savojští a italští) jezdci táhnoucí k Burgundsku; „niederlegen, erstechen“ – doslova „složit, probodnout“.",
+  "Bod d.: „abscheid gegen dem fürsten von Oesterreich“ = návrh Věčného narovnání (Ewige Richtung) s vévodou Zikmundem; „einung mit den nidern herren vnd stetten“ = Dolní spolek. Hrabě von Sonnenberg = Eberhard z Waldburgu-Sonnenbergu (mimo text) [?].",
+  "Data: čtvrtek po sv. Dorotě (6. 2. 1474 = neděle) = 10. 2.; pondělí před sv. Hilariem (13. 1. 1474 = čtvrtek) = 10. 1.; pátek před sv. Valentinem (14. 2. = pondělí) = 11. 2.; sobota po staré masopustní neděli (Invocavit 27. 2.) = 5. 3. 1474 – vše souhlasí s edicí.",
+  "Pratteln – ves u Basileje; Hans Bernhard von Eptingen tak přešel pod burgundskou ochranu, což Basilej a Spříseženci vnímali jako provokaci (mimo text).",
+  "OCR opraveno podle skenu: „Zürich“, „Walen“, „Ort“, „Oesterreich“, „gemein eidgenossen“, „nit“, „ingesetzt“, „sy dz“, „mit der eynung“, „gewessen“, „die von Bern“, „wider“, „besliessen“, „Johannsorden“, „Hofmeister“, „Lucern“, jména vyslanců („Petermann“, „Hasfurter, beide Altschultheißen“, „Heinzli“), „Stans“, „ganzem“."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

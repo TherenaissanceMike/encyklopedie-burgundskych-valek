@@ -1,0 +1,46 @@
+{
+ "cislo": 275,
+ "svazek": "2",
+ "strana": 645,
+ "pdf_strana": 673,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "",
+ "nadpis": "Nr. 868 Lucern, 29. Jan. 1477: St. Gallen und Toggenburg, Zelger, Tag zu Camrach, Ittingen, Brandschatz von Genf, Waadt (Anfang)",
+ "nadpis_preklad": "č. 868 Luzern, 29. 1. 1477 – St. Gallen a Toggenburg, Zelgerová, sněm v Camrach, přečin v Ittingenu, ženevské výpalné, správa Vaudu (začátek)",
+ "odstavce": [
+  {
+   "text": "868. Lucern. 1477, 29. Januar (Mittwoch nach Pauli Bekehrung). Staatsarchiv Lucern: Lucerner Abschiede, B. 84 b.",
+   "preklad": "**č. 868 – Luzern, 29. 1. 1477** (středa po Obrácení sv. Pavla). Státní archiv Luzern: Luzernské výnosy B 84 b."
+  },
+  {
+   "text": "Boten: Zürich. Heinrich Göldli, Ritter. Bern. Schütz. Lucern. Heinrich Hasfurter, Ritter, Schultheiß; Caspar von Hertenstein, Ritter, Altschultheiß; Ludwig Kramer. Uri. Hans Imhof, der junge. Schwyz. Hans Sigrist. Unterwalden. Ammann Zimmermann. Zug. Ammann Schmid. Glarus. ....",
+   "preklad": "Vyslanci: Curych – Heinrich Göldli, rytíř. Bern – Schütz. Luzern – Heinrich Hasfurter, rytíř, starosta; Caspar von Hertenstein, rytíř, bývalý starosta; Ludwig Kramer. Uri – Hans Imhof mladší. Schwyz – Hans Sigrist. Unterwalden – úředník Zimmermann. Zug – úředník Schmid. Glarus – …"
+  },
+  {
+   "text": "a. Da die von Toggenburg die Güter des Spitals und der Burger von St. Gallen wider das alte Herkommen besteuern, so sind die Boten einhellig, mit denen von Schwyz zu reden und denen von Glarus zu schreiben, sie möchten dafür sorgen, daß die von St. Gallen mit diesen Steuern unbehelligt bleiben oder daß die Sache nach Sage der Bünde an das Recht gebracht werde. b. Die Stadt St. Gallen begehrt, man möchte ihrer nicht vergessen bei den Unterhandlungen mit Mailand, namentlich in Betreff der Zölle.",
+   "preklad": "a. Protože Toggenburští proti starému obyčeji zdaňují statky špitálu a měšťanů St. Gallen, jsou vyslanci jednomyslní, že se má promluvit se Schwyzskými a napsat Glaruským, aby se postarali, aby St. Gallenští zůstali těmito daněmi neobtěžováni, nebo aby věc byla podle znění spolkových listin předložena k právu. b. Město St. Gallen žádá, aby se na ně nezapomnělo při jednáních s Milánem, zejména pokud jde o cla."
+  },
+  {
+   "text": "c. Bezüglich der Ehesache der Margaretha Zelger erklärt Schwyz, es könne nicht dazu stimmen, daß die Frau heimgelassen werde, sondern die Sache soll bleiben wie sie geordnet worden ist. Den Propst von Lucern hat Schwyz für sich und die Seinen gesichert. Da Nidwalden auf diesem Tag nicht vertreten ist, so soll der Bote von Obwalden bewirken, daß dessen völlige Antwort in dieser Angelegenheit beförderlich nach Lucern gemeldet werde. d. Den Tag, welcher auf St. Dorotheentag (6. Februar) der Gefangenen, des Lanz und anderer Sachen wegen nach Basel gesetzt ist, soll man leisten. e. Heimbringen das Schreiben der Herzogin und des jungen Herzogs von Mailand.",
+   "preklad": "c. Ohledně manželské při Margarethy Zelgerové prohlašuje Schwyz, že nemůže souhlasit s tím, aby byla žena puštěna domů, nýbrž věc má zůstat, jak byla upravena. Luzernského probošta Schwyz za sebe i své lidi zajistil. Protože Nidwalden na tomto sněmu není zastoupen, má obwaldenský vyslanec zařídit, aby jeho úplná odpověď v této záležitosti byla co nejrychleji oznámena do Luzernu. d. Sněm, který byl na sv. Dorotu (6. února) svolán do Basileje kvůli zajatcům, Lanzovi a jiným věcem, se má obeslat. e. Předložit doma dopis vévodkyně a mladého vévody milánského."
+  },
+  {
+   "text": "f. Bezüglich des Tags zu Camrach, über dessen Beschickung heute entschieden werden sollte, hat man dem Boten von Genf, Tschan Aleman, geantwortet, daß des Schneefalls und der rauhen Jahreszeit wegen die Räthe und Gemeinden nicht so bald versammelt werden können; jedoch wenn sich die Zeiten etwas bessern, so wolle man sie zwischen jetzt und der alten Fastnacht versammeln, um Antwort zu geben, ob man den Tag besuchen wolle oder nicht. Dann möge er oder ein anderer Bote wieder herauskommen und die Antwort in Empfang nehmen; doch gefiele den Eidgenossen immerhin, wenn der Tag statt zu Camrach etwas näher, etwa zu Lausanne, gehalten werden könnte.",
+   "preklad": "f. Ohledně sněmu v Camrach [?], o jehož obeslání se mělo dnes rozhodnout, bylo ženevskému vyslanci Tschanu Alemanovi odpovězeno, že kvůli sněžení a drsné roční době nelze rady a obce tak brzy svolat; jakmile se však počasí poněkud zlepší, chtějí je svolat mezi nynějškem a starým masopustem, aby odpověděli, zda chtějí sněm obeslat, či ne. Pak ať on nebo jiný vyslanec znovu přijede a odpověď převezme; Spřísežencům by se však přesto líbilo, kdyby se sněm místo v Camrach mohl konat někde blíže, například v Lausanne."
+  },
+  {
+   "text": "g. Des Frevels wegen, welchen der Heudorfer und Andere zu Frauenfeld an dem Prior von Ittingen begangen haben, soll der Landvogt, Hans Tachelshofer von Zürich, die Frevler vor Allem strafen, dann Gewalt haben, sie in Betreff des Schadensersatzes mit dem Prior gütlich zu vertragen oder aber sie nach Zürich oder vor gemeine Eidgenossen zum Recht zu weisen. h. Den Roßtäuschern ist ein Schreiben an die Herzogin von Mailand gegeben mit dem Begehren, ihnen ihren Schaden zu ersetzen oder mit ihnen zu Recht zu kommen.",
+   "preklad": "g. Kvůli přečinu, kterého se Heudorfer a jiní ve Frauenfeldu dopustili na převorovi z Ittingenu, má zemský fojt Hans Tachelshofer z Curychu pachatele nejprve potrestat, pak má mít plnou moc je ohledně náhrady škody s převorem po dobrém smířit, anebo je odkázat k soudu do Curychu nebo před všechny Spřísežence. h. Koňským handlířům byl dán dopis vévodkyni milánské se žádostí, aby jim nahradila jejich škodu nebo se s nimi soudila."
+  },
+  {
+   "text": "i. Des Brandschatzes von Genf wegen soll man, sobald das Geld angelangt ist, entscheiden, ob man denselben nach den Orten oder nach den Leuten theilen wolle. k. Bezüglich der Waadt soll man auf dem nächsten Tag entscheiden, ob man aus allen Orten Boten nach Freiburg schicken wolle, die dann die Amtleute in der Waadt berufen und mit ihnen ein Urbar der Nutzungen des Landes machen sollen, oder ob man einen Landvogt dahin setzen und diesem das Geschäft übertragen wolle. l. Bezüglich der Verhandlungen mit Bern wegen Murten &c. und dem besondern Brandschatz hat Lucern Vollmacht, einen Tag anzusetzen. m. Der Bote von Bern …",
+   "preklad": "i. Ohledně ženevského výpalného se má, jakmile peníze dorazí, rozhodnout, zda je chtějí dělit podle míst (kantonů), nebo podle lidí (počtu mužů). k. Ohledně Vaudu se má na příštím sněmu rozhodnout, zda se mají ze všech míst poslat vyslanci do Fribourgu, kteří by pak svolali úředníky ve Vaudu a sepsali s nimi urbář výnosů země, anebo zda tam dosadit zemského fojta a svěřit tu věc jemu. l. Ohledně jednání s Bernem kvůli Murtenu atd. a zvláštnímu výpalnému má Luzern plnou moc svolat sněm. m. Bernský vyslanec …"
+  }
+ ],
+ "poznamky": [
+  "Hlavička, signatura a konce řádků doplněny z obrázku. Středa po Obrácení sv. Pavla (25. 1.) = 29. 1. 1477. „alte Fastnacht“ = starý (selský) masopust, neděle Invocavit, v roce 1477 = 23. 2. (Velikonoce 6. 4. 1477) – přepočet můj. Lanz = Hans Lanz von Liebenfels (spor z r. 1475, mimo text) [?]. Heudorfer – snad Bilgeri von Heudorf, nepřítel Spříseženců [?] (mimo text). Ittingen = kartouza Ittingen u Frauenfeldu. Landvogt Hans Tachelshofer = zemský fojt v Thurgau. Roßtäuscher = koňští handlíři. Genfer Brandschatz = výpalné, které Ženeva slíbila r. 1475/1476 (mimo text). Urbar = urbář (soupis důchodů)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

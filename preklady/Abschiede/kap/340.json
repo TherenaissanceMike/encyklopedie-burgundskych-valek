@@ -1,0 +1,46 @@
+{
+ "cislo": 340,
+ "svazek": "2",
+ "strana": 710,
+ "pdf_strana": 738,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "710 December 1477.",
+ "nadpis": "Schluss Nr. 923 (Lucern, 30. Dec. 1477) – Theilung des Genfer Geldes, Tag zu Zürich, Anerbieten des Königs von Frankreich (Salins oder 200,000 Schildkronen), Wallis",
+ "nadpis_preklad": "konec č. 923 (Luzern, 30. 12. 1477) – dělení ženevských peněz, sněm v Curychu, nabídka francouzského krále (Salins, nebo 200 000 štítových korun), Wallis",
+ "odstavce": [
+  {
+   "text": "… diejenigen außer Berechnung lassen, welche allfällig unaufgefordert nachgelaufen oder nicht bei der Sache gewesen seien. Diejenigen, welche die Mannschaftsverzeichnisse aufstellen, sollen dieses bei ihren Eiden beobachten.",
+   "preklad": "… vynechat z počtu ty, kdo snad přiběhli nevyzváni nebo při té věci nebyli. Ti, kdo sestavují soupisy mužstva, to mají dodržet pod svou přísahou."
+  },
+  {
+   "text": "f. „Als dann angebracht ist von des tags wegen Zürrich, da man besorgt, dz der übersal ze groß werd, da etlichen Orten gefiel, dz man verkomen, dz man die sinen beheben; etlich meinen dz aber nit ze verkomen. Vff dz hat der bott von Zürich Innamen siner Herren aber anbracht vnd gebetten, dz sinen Herren diser zitt gefiele, dz Jederman die sinen deheimen behüb; dann sy können noch mögen den lütten nit zucht vnd ere getun, als sy aber gern tun wellen; mog dz aber nit sin, dz doch jederman mit den sinen schaff, sich zuchtenklich ze halten vnd dehein vnfug ze triben, als sy des getruwen.“",
+   "preklad": "f. „Pokud jde o to, co bylo předneseno ohledně sněmu v Curychu, kde se obávají, že nával bude příliš velký: některým místům se líbilo, aby se tomu předešlo tak, že si každý své lidi podrží [doma]; někteří však míní, že tomu zabránit nelze. Na to vyslanec z Curychu jménem svých pánů znovu přednesl a prosil: jeho páni by tentokrát rádi viděli, aby si každý své lidi podržel doma, neboť lidem nemohou ani nejsou s to prokázat náležitou péči a čest, jak by rádi chtěli. Nebude-li to však možné, ať se aspoň každý postará, aby se jeho lidé chovali spořádaně a netropili žádnou nepřístojnost, jak oni [Curyšští] důvěřují.“"
+  },
+  {
+   "text": "g. Die Boten des Königs von Frankreich haben angebracht: Obschon gemeine Eidgenossen zu Lucern und auch wieder zu Zürich zugesagt haben, zu halten, was sie dem König versprochen und verschrieben, und sie, die französischen Boten, auf Begehren der Eidgenossen dem königlichen Hauptmann in Burgund geschrieben und wirklich die Einstellung der Feindseligkeiten seinerseits erlangt haben, so haben doch einige Deutsche und Eidgenossen die Seinigen in den Städten überfallen, erstochen und beraubt, während diese sich nach der gemachten Zusage sicher glaubten. Alles das habe der König zu seinem großen Mißvergnügen aus Burgund selbst vernommen; nichtsdestominder wolle er, wenn wir ihn zum Freunde haben wollen, auch unser Freund sein und alles thun, was uns lieb sei, und die Werke zu den Worten fügen.",
+   "preklad": "g. Vyslanci krále francouzského přednesli: Ačkoli všichni Spříseženci v Luzernu a znovu v Curychu přislíbili dodržet, co králi slíbili a písemně se zavázali, a ačkoli oni, francouzští vyslanci, na žádost Spříseženců napsali královskému hejtmanovi v Burgundsku a skutečně dosáhli toho, že on zastavil nepřátelství, přesto někteří Němci a Spříseženci přepadli jeho lidi ve městech, ubodali je a oloupili, zatímco se tito po daném slibu cítili v bezpečí. To všechno se král ke své velké nelibosti dozvěděl přímo z Burgundska. Nicméně chceme-li ho mít za přítele, chce být i on naším přítelem a činit vše, co je nám milé, a ke slovům připojit i skutky."
+  },
+  {
+   "text": "Wollen wir lieber Land als Geld, so wolle er uns Salins und andere Städte, Schlösser, Lande und Leute geben, die uns gelegen seien. Wollen wir lieber Geld als Land, so wolle er uns 200,000 Schildkronen in kurzen Terminen zahlen und zudem wolle er, wenn schriftlich zugesagt werde, Brief und Siegel zu halten, auch den Waffenstillstand zusagen, den Eidgenossen in die Sachen zu reden zugestehen und zu den 200,000 Schildkronen ihnen noch 150,000 Gulden auf das Land Burgund setzen, so daß er von selbem keinen Nutzen nehmen wolle, ehe diese Summe bezahlt sei; und sofern die 150,000 Gulden innert Jahresfrist von Burgund nicht bezahlt seien, so wolle er sie aus seinem Säckel bezahlen.",
+   "preklad": "Chceme-li raději zemi než peníze, chce nám dát Salins a jiná města, hrady, země a lidi, které nám budou po ruce. Chceme-li raději peníze než zemi, chce nám v krátkých lhůtách zaplatit 200 000 štítových korun. Kromě toho, bude-li písemně slíbeno, že se listy a pečeti dodrží, chce také přislíbit příměří, přiznat Spřísežencům právo do věci mluvit a k 200 000 štítových korun jim ještě zapsat 150 000 zlatých na zemi Burgundsko, takže z ní nechce brát žádný užitek, dokud tato suma nebude zaplacena. A pokud by 150 000 zlatých nebylo z Burgundska zaplaceno do roka, chce je zaplatit ze svého měšce."
+  },
+  {
+   "text": "Ferner erklären die französischen Boten, wenn man die Verschreibung am Könige halten wolle, so wollen sie die Pension baar bezahlen und nicht von dannen gehen, ehe das Geld auf dem Weg sei. Wenn die Geschichte in Burgund nicht vorgefallen wäre, so würde das Geld schon hier sein; aber wenn man ihnen Zusage und Brief gebe, so wollen sie dennoch das Geld bringen und die Pension bezahlen; alles mit mehr Worten. Das sollen die Boten heimbringen und auf dem Tag zu Zürich völlig Antwort geben.",
+   "preklad": "Dále francouzští vyslanci prohlašují, že chce-li se králi dodržet zápis, chtějí penzi zaplatit v hotovosti a neodejdou, dokud nebudou peníze na cestě. Kdyby se ona událost v Burgundsku nebyla stala, byly by peníze už zde; ale dá-li se jim slib a list, chtějí peníze přesto přinést a penzi zaplatit – to vše obšírněji. To mají vyslanci předložit doma svým pánům a na sněmu v Curychu dát úplnou odpověď."
+  },
+  {
+   "text": "h. Die von Wallis sollen auf die alte Fastnacht zu Nacht (8. Februar 1478) zu Lucern an der Herberge sein.",
+   "preklad": "h. Valliští mají být o staré masopustní neděli večer (8. února 1478) v Luzernu na noclehu (v hostinci)."
+  }
+ ],
+ "poznamky": [
+  "Konce řádků u pravého okraje doplněny z obrázku (např. „Deutsche“, „aus Burgund“, „geben“, „Jahresfrist“, „mit mehr Worten“).",
+  "Stará masopustní neděle (alte Fastnacht, neděle Invocavit) 1478 = 8. 2. 1478 (Velikonoce 22. 3. 1478) – souhlasí se Segesserem.",
+  "„Übersal“ = nával, přeplnění (velký počet lidí přicházejících na curyšský sněm); překlad „nával“ [?]. Jde o slavný sněm v Curychu v lednu 1478, kde se jednalo o mír s Rakouskem a Francií (mimo text).",
+  "Bod e/f: dělení ženevských peněz „podle míst, nebo podle lidí“ – v druhém případě se počítají jen muži skutečně vyslaní na výpravu, ne dobrovolníci, kteří „přiběhli nevyzváni“.",
+  "Bod g: královský hejtman v Burgundsku = Charles d'Amboise (mimo text). Schildkronen = štítové koruny (écus à la couronne). Salins = Salins-les-Bains ve Franche-Comté (solivary)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,89 @@
+{
+ "cislo": 344,
+ "svazek": "3/1",
+ "strana": 4,
+ "pdf_strana": 20,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1478 bis 1499.pdf",
+ "priloha": false,
+ "rok": 1478,
+ "zahlavi": "4 März 1473.",
+ "nadpis": "Fortsetzung Nr. 6 (Lucern, 11. März 1478): Baden, Les Clées, Mailand, Theilung des Genfer Brandschatzes, Württemberg, Randegg, Rheinau, König Matthias, St. Gallen – Rheinthal, Beute von Grandson; Tabelle der Söldner zu Morsee",
+ "nadpis_preklad": "pokračování č. 6 (Luzern, 11. 3. 1478): Baden, Les Clées, Milán, dělení ženevského výpalného, Württembersko, Randegg, Rheinau, král Matyáš, St. Gallen – Rýnské údolí, kořist od Grandsonu; tabulka žoldnéřů u Morges",
+ "odstavce": [
+  {
+   "text": "… tochter zu belassen bis zum Tag der Jahrrechnung.",
+   "preklad": "… dcerou ponechali až do dne výročního vyúčtování."
+  },
+  {
+   "text": "d. Die von Büren und Zurzach sollen den Untervogt Hansli Welti hinsichtlich des Holzhaus und anderer Dinge als einen der Ihrigen behandeln.",
+   "preklad": "d. Obyvatelé Bürenu a Zurzachu mají s podfojtem Hanslim Weltim, pokud jde o dřevník a jiné věci, zacházet jako s jedním ze svých."
+  },
+  {
+   "text": "e. Der Vogt von Les Cles und zum heiligen Kreuz legt Rechnung ab: Jedes der X Orte erhält davon 10 Gulden.",
+   "preklad": "e. Fojt v Les Clées a v Sainte-Croix skládá účty: každé z deseti míst (kantonů) z toho dostane 10 zlatých."
+  },
+  {
+   "text": "f. Die Herzogin von Mailand entschuldigt die Abwesenheit ihrer Botschaft auf dem Tage zu Zürich und wünscht zu wissen, mit welchen Fürsten die Eidgenossen in Einung stehen. Es wird ihr schriftlich angezeigt, sowohl mit wem man bereits in Einung stehe, als auch wer sich darum bewerbe.",
+   "preklad": "f. Vévodkyně milánská omlouvá nepřítomnost svého vyslanectví na sněmu v Curychu a přeje si vědět, s kterými knížaty jsou Spříseženci ve spolku. Písemně se jí oznámí, s kým už ve spolku jsou i kdo se o to uchází."
+  },
+  {
+   "text": "g. Die Theilung des Brandschatzes von Genf wird vorgenommen.",
+   "preklad": "g. Provádí se dělení výpalného ze Ženevy."
+  },
+  {
+   "text": "h. An Graf Heinrich von Württemberg wird geschrieben, er soll dafür sorgen, daß dem Sattler von Sursee das Seinige wieder erstattet werde. Dabei soll man auch die üppigen Worte anzuziehen nicht vergessen, welche der Graf undankbarer Weise gegen einige der Unsrigen gebraucht hat.",
+   "preklad": "h. Hraběti Jindřichu Württemberskému se píše, aby se postaral, aby sedláři ze Sursee bylo navráceno, co mu patří. Přitom se nemá zapomenout připomenout i drzá slova, která hrabě nevděčně použil vůči některým z našich lidí."
+  },
+  {
+   "text": "i. Hansen von Randegg zu Dießenhofen wird geschrieben, daß er dem Rudolf Storchenegger den Harnisch bezahle oder mit ihm zu Zürich vor Recht trete.",
+   "preklad": "i. Hansi von Randegg v Diessenhofenu se píše, aby Rudolfu Storcheneggerovi zaplatil zbroj, nebo s ním předstoupil před soud v Curychu."
+  },
+  {
+   "text": "k. In Betreff des Schultheißen von Rheinau soll der Vogt im Thurgau bis zum Jahrrechnungstag Erkundigung einziehen.",
+   "preklad": "k. Ohledně starosty z Rheinau má fojt v Thurgau do dne výročního vyúčtování zjistit podrobnosti."
+  },
+  {
+   "text": "l. Auf diesen Tag hat König Matthias von Ungarn und Böhmen den Eidgenossen freundlich gedankt für das gegebene Geleit und angezeigt, daß er seine Gesandtschaft schicken werde, um ein Verständniß oder eine Einung mit gemeinen Eidgenossen zu unterhandeln.",
+   "preklad": "l. Na tento sněm král Matyáš Uherský a Český Spřísežencům přátelsky poděkoval za poskytnutý glejt a oznámil, že pošle své vyslanectví, aby se všemi Spříseženci vyjednalo dohodu nebo spolek."
+  },
+  {
+   "text": "m. Die Boten, welche nächstens nach St. Gallen kommen, sollen suchen, den Steuerstreit zwischen St. Gallen und dem Rheinthal gütlich zu vergleichen oder sie auf ein Schiedsgericht zu vereinigen.",
+   "preklad": "m. Vyslanci, kteří příště přijdou do St. Gallen, se mají pokusit smírně urovnat daňový spor mezi St. Gallen a Rýnským údolím (Rheintal), nebo strany dohodnout na rozhodčím soudu."
+  },
+  {
+   "text": "n. Der Bote von Zug soll mit Anton Geißberg reden, damit er an den Herrn von Oesterreich das Begehren bringe, daß laut der Vereinigung die Briefe mit den niedern Städten aufgerichtet werden.",
+   "preklad": "n. Vyslanec ze Zugu má promluvit s Antonem Geissbergem, aby pánu rakouskému přednesl žádost, aby podle Dolního spolku byly vyhotoveny listiny s Dolními městy."
+  },
+  {
+   "text": "o. Auf St. Jörgentag zu Nacht (23. April) sollen die Boten aller eidgenössischen Orte, auch diejenigen der niedern Vereinigung, die vor Grandson war, mit Vollmacht über die Kostbarkeiten der Beute zu entscheiden, in Lucern erscheinen.",
+   "preklad": "o. Na den sv. Jiří večer (23. dubna) se mají v Luzernu dostavit vyslanci všech míst Spříseženců i vyslanci Dolního spolku, který byl u Grandsonu, s plnou mocí rozhodnout o cennostech z kořisti."
+  },
+  {
+   "text": "p. Der Herzogin von Mailand wird geschrieben, sie möchte den Heinzmann Kleger von Uznach mit seinem Widersächer im Veltlin vergleichen oder nach Vorschrift des Capitulats bewirken, daß dieser ihm zu Chum (Como) zu Recht stehe.",
+   "preklad": "p. Vévodkyni milánské se píše, aby Heinzmanna Klegera z Uznachu smířila s jeho protivníkem ve Valtellině, nebo podle ustanovení kapitulace zařídila, aby se mu ten postavil k soudu v Comu (Chum)."
+  },
+  {
+   "text": "Zu g. L. A. S. B. 110: „Die zal der soldnern zur Morse, vnd wie man den brantschaz von Jenff und Losan geteilt hat nach „Anzal der lüten, die den gewunnen hant, vnd hat man vff iegliche person 1½ Gulden geteilt.“ Es erhielten:",
+   "preklad": "K bodu g. Sbírka luzernských výnosů (L. A. S.) B 110: „Počet žoldnéřů u Morges a jak se dělilo výpalné ze Ženevy a Lausanne podle počtu lidí, kteří ho vydobyli; na každou osobu se rozdělilo 1½ zlatého.“ Dostali:"
+  },
+  {
+   "text": "Zürich mit Mann 2000, Gulden 3200 | Bern 7070, 11262 | Lucern 2121, 3392 | Uri 200, 330 | Schwyz 610, 975 | Unterwalden 240, 384 | Zug 250, 400 | Glarus mit Oberland, Thurgau und Thurtal 800, 1280 | Freiburg 2000, 3200 | Solothurn 1400, 2240 | Baden 139, 230 | Mellingen, Bremgarten, Waggenthal 192, 261 | Uri, Schwyz, Unterwalden zum Voraus 300 | Mann 17022, Gulden 27454",
+   "preklad": "Curych – 2000 mužů, 3200 zlatých | Bern – 7070 mužů, 11 262 zlatých | Luzern – 2121 mužů, 3392 zlatých | Uri – 200 mužů, 330 zlatých | Schwyz – 610 mužů, 975 zlatých | Unterwalden – 240 mužů, 384 zlatých | Zug – 250 mužů, 400 zlatých | Glarus s Oberlandem, Thurgau a Thurtalem – 800 mužů, 1280 zlatých | Fribourg – 2000 mužů, 3200 zlatých | Solothurn – 1400 mužů, 2240 zlatých | Baden – 139 mužů, 230 zlatých | Mellingen, Bremgarten, Wagental – 192 mužů, 261 zlatých | Uri, Schwyz, Unterwalden předem (přednostně) – 300 zlatých | Celkem 17 022 mužů, 27 454 zlatých."
+  },
+  {
+   "text": "„Item vnd hat man dz Gold also gewerdt: Rinsch Gulden vnd Sant Andres Gulden mit dem Krüz für Rinsch Gulden.",
+   "preklad": "„Dále se zlato ocenilo takto: rýnské zlaté a zlaté sv. Ondřeje s křížem jako rýnské zlaté."
+  }
+ ],
+ "poznamky": [
+  "Konce řádků a celá tabulka přepsány z obrázku (OCR čísla zcela zkomolená). Kontrolní součty sedí: 17 022 mužů a 27 454 zlatých.",
+  "Nesoulad v edici (neopravováno): při 1½ zl. na osobu by Bern měl mít 10 605 zl. (má 11 262), Uri 300 (má 330), Baden 208,5 (má 230), Mellingen atd. 288 (má 261); ostatní řádky sedí přesně.",
+  "„Söldner zur Morse“ = muži výpravy k Morges (podzim 1476/zima 1477), při níž si Spříseženci vynutili výpalné od Ženevy a Lausanne (mimo text).",
+  "Tag der Jahrrechnung = výroční vyúčtování společných panství (obvykle v Badenu v létě). Büren a Zurzach (Aargau), Les Cles = Les Clées, heiliges Kreuz = Sainte-Croix (Vaud).",
+  "Herzogin von Mailand = Bona Savojská, regentka za Giana Galeazza Sforzu (mimo text). „Capitulat“ = milánská kapitulace (smlouva Spříseženců s Milánem, 1467/1477). Chum = Como, Veltlin = Valtellina.",
+  "St. Jörgentag = sv. Jiří, 23. 4. 1478. Graf Heinrich von Württemberg = pán Montbéliardu (srov. č. 1 l).",
+  "Anton Geißberg – blíže neurčen [?]. Niedere Städte = města Dolního spolku (Basilej, Štrasburk, Colmar, Sélestat).",
+  "Sant Andres Gulden mit dem Krüz = burgundský zlatý s ondřejským křížem (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,59 @@
+{
+ "cislo": 345,
+ "svazek": "3/1",
+ "strana": 5,
+ "pdf_strana": 21,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1478 bis 1499.pdf",
+ "priloha": false,
+ "rok": 1478,
+ "zahlavi": "",
+ "nadpis": "Schluss Nr. 6 (Lucern, 11. März 1478): Münzwerthe, Kirchensilber und goldenes Halsband, Berns Vorschuss von 736 Gulden, Beute; Nr. 7 Lucern, 8. April 1478 – Burgrecht der Städte",
+ "nadpis_preklad": "konec č. 6 (Luzern, 11. 3. 1478): kurzy mincí, chrámové stříbro a zlatý náhrdelník, bernská záloha 736 zlatých, kořist; č. 7 Luzern, 8. 4. 1478 – měšťanské právo měst a tři země",
+ "odstavce": [
+  {
+   "text": "4 Ducaten für 5 Rinsch Gulden. 1 Utrisch Gulden für 1 Rinsch Gulden 4 Cart. 4 Frankricher Schilt für 5 Gulden vnd vf ieglichs 100 Schilt 5 Schilt. 1 Bislag für 18 Plappert. 1 Wilhelmer für 30 Schilling. 1 Nobel für 2½ Gulden. 1 Areguner für 2 Gulden. 1 St. Michelsgulden für 1½ Gulden.",
+   "preklad": "4 dukáty za 5 rýnských zlatých. 1 utrechtský zlatý za 1 rýnský zlatý a 4 kvarty. 4 francouzské štítové zlaté za 5 zlatých a na každých 100 štítových zlatých [přídavek] 5 štítových zlatých. 1 „bislag“ za 18 grošů (plappert). 1 „wilhelmer“ za 30 šilinků. 1 nobl za 2½ zlatého. 1 aragonský zlatý (areguner) za 2 zlaté. 1 zlatý sv. Michala za 1½ zlatého."
+  },
+  {
+   "text": "Item dz silber von Bern enweg gefürt wigt: dz gemein Silber 151½ March 4 Loth, an Kirchensilber 35 March, ein March für 7 Gulden gerechnet; das golden Halsband wigt 1 March 5 Loth ½ Seditt, 1 Loth für 1 Gulden gerechnet. Item an den 28000 Gulden hat gebresten 736 Gulden.“",
+   "preklad": "Dále stříbro odvezené z Bernu váží: obyčejné stříbro 151½ hřivny 4 loty, chrámového stříbra 35 hřiven, hřivna počítána za 7 zlatých; zlatý náhrdelník váží 1 hřivnu 5 lotů ½ „seditu“, lot počítán za 1 zlatý. Dále na 28 000 zlatých chybělo 736 zlatých.“"
+  },
+  {
+   "text": "(Bern hat diese vorgeschossen, die Eidgenossen gaben Bern dafür Brief und Siegel. Urkunde im Staatsarchiv Bern, d. d. 1478 Samstag vor dem Palmtag: Die Boten der neun Orte Zürich, Lucern, Uri, Schwyz, Unterwalden, Zug, Glarus, Freiburg und Solothurn urkunden, daß, nachdem der Brandschatz von Lausanne und Genf im Betrage von Gulden 28000 ihnen nach und nach bis auf 736 rheinische Gulden baar bezahlt worden, nun Bern diesen Rest ihnen ausbezahlt habe; Bern also allein Ansprecher dieser 736 rheinischen Gulden bleibe, wofür die hinterlegten goldenen und silbernen Pfänder fortan auch ihm allein als Sicherheit dienen sollen.)",
+   "preklad": "(Bern je zaplatil zálohou a Spříseženci mu za to dali list a pečeť. Listina ve Státním archivu Bern, dána 1478 v sobotu před Květnou nedělí: Vyslanci devíti míst – Curychu, Luzernu, Uri, Schwyzu, Unterwaldenu, Zugu, Glarusu, Fribourgu a Solothurnu – osvědčují, že poté, co jim výpalné z Lausanne a Ženevy ve výši 28 000 zlatých bylo postupně v hotovosti zaplaceno až na 736 rýnských zlatých, Bern jim nyní tento zbytek vyplatil. Bern tedy zůstává jediným věřitelem těchto 736 rýnských zlatých, za což mají napříště jen jemu sloužit jako jistota uložené zlaté a stříbrné zástavy.)"
+  },
+  {
+   "text": "Zu o. Diese Verhandlung scheint auf den 1. Mai verschoben worden zu sein, da am 23. April die Eidgenossen mit der niedern Vereinigung und dem Herzog von Lothringen zu Solothurn tagen. (Siehe 8. 9.) Am 22. April (St. Jörgen Abend) schreiben jedoch Meister und Rath der Stadt Straßburg an „gemeiner Eidgenossen Boten zu Lucern versampt“, daß sie ihre Boten nach Lucern senden werden, mit Bitte, man möchte ihnen melden, wie viel von der Beute auf ihren Theil komme. (Staatsarchiv Lucern.)",
+   "preklad": "K bodu o. Toto jednání bylo zřejmě odloženo na 1. května, protože 23. dubna jednali Spříseženci s Dolním spolkem a vévodou lotrinským na sněmu v Solothurnu. (Viz č. 8, 9.) Dne 22. dubna (v předvečer sv. Jiří) však mistr a rada města Štrasburku píší „vyslancům všech Spříseženců shromážděným v Luzernu“, že pošlou své vyslance do Luzernu, s prosbou, aby jim bylo sděleno, kolik z kořisti připadne na jejich podíl. (Státní archiv Luzern.)"
+  },
+  {
+   "text": "7. Lucern. 1478, 8. April (Mittwoch nach St. Ambrosiustag). Staatsarchiv Lucern: Allgemeine Abschiede, B. 160.",
+   "preklad": "**č. 7 – Luzern, 8. 4. 1478** (středa po sv. Ambroži). Státní archiv Luzern: Všeobecné výnosy B 160."
+  },
+  {
+   "text": "Lucern zieht an, was die III Orte Uri, Schwyz und Unterwalden in Betreff des Burgrechts vorgebracht haben. Das soll man heimbringen. Lucern soll auf das Anbringen der III Länder glimpflich antworten, es sei ihm von den Städten völlige Antwort noch nicht geworden, es seien dieselben Willens, ihre Botschaften in die Länder vor die Gemeinden zu schicken. Was den Boten aufgetragen werde, wisse man noch nicht.",
+   "preklad": "Luzern přednáší, co tři místa (kantony) Uri, Schwyz a Unterwalden uvedla ve věci měšťanského práva (burgrecht). To mají vyslanci předložit doma svým pánům. Luzern má na podání tří zemí vlídně odpovědět, že od měst dosud nedostal úplnou odpověď; ta mají v úmyslu poslat svá vyslanectví do zemí před zemské obce. Co bude vyslancům uloženo, se zatím neví."
+  },
+  {
+   "text": "Eine Ansicht war, Zürich und Bern sollten eine Botschaft in die Länder schicken, um diesen begreiflich zu machen, daß das Burgrecht nicht wider sie, sondern vielmehr zu ihrem Nutzen gemacht sei und daß sie also deshalb Lucern unbekümmert lassen sollten. Andere meinten, es dürfte gut sein, wenn die IV Städte, nur Lucern ausgenommen, an der Botschaft Theil nähmen; noch andere wollten alle V Städte in der Sache handeln lassen. Gegen letzteres wendete Lucern ein, die Länder möchten in diesem Falle glauben, was die Boten reden, sei ihnen von denen von Lucern „ingestossen“.",
+   "preklad": "Jeden názor byl, že Curych a Bern by měly poslat do zemí vyslanectví, aby jim vysvětlilo, že měšťanské právo nebylo uzavřeno proti nim, nýbrž spíše k jejich užitku, a že proto mají nechat Luzern na pokoji. Jiní mínili, že by bylo dobré, kdyby se vyslanectví účastnila čtyři města s výjimkou jen Luzernu; ještě jiní chtěli nechat v té věci jednat všech pět měst. Proti tomu Luzern namítl, že by země v tom případě mohly myslet, že to, co vyslanci mluví, jim Luzernští „vnukli“."
+  },
+  {
+   "text": "Endlich kommt man überein, daß man die Botschaft nicht nur in die III Länder, sondern auch nach Zug und Glarus schicken soll, damit, wenn es zum Rechten komme, man alle jene V Orte als Sächer in das Recht bringe. Alles das soll man heimbringen und auf dem Tag zu Lucern an St. Jörgentag (23. April) jeglicher Herren Willen und Rath zu erkennen geben.",
+   "preklad": "Nakonec se dohodli, že vyslanectví se pošle nejen do tří zemí, ale také do Zugu a Glarusu, aby, kdyby došlo na soudní řízení, byla všechna ta pět míst přivedena k soudu jako strany sporu. To vše mají vyslanci předložit doma a na sněmu v Luzernu na den sv. Jiří (23. dubna) oznámit vůli a radu svých pánů."
+  },
+  {
+   "text": "Siehe die Anmerkung zu 6 o.",
+   "preklad": "Viz poznámku k č. 6 o."
+  }
+ ],
+ "poznamky": [
+  "Tabulka kurzů a čísla přepsány z obrázku (OCR úplně zkomolený). Rozdělení do odstavců upraveno podle smyslu.",
+  "Mince: Utrisch Gulden = utrechtský zlatý; Cart = kvart (savojská mince); Frankricher Schilt = francouzský štítový zlatý (écu); Plappert = groš; Nobel = anglický zlatý nobl; Areguner = aragonský zlatý [?]; „Bislag“ a „Wilhelmer“ – nejisté mince, snad nizozemské (Vilém Bavorský/Holandský) [?]. „Seditt“ – neznámá váhová jednotka (snad šestnáctina lotu) [?].",
+  "Hřivna (March) = asi 234 g stříbra, lot = 1/16 hřivny (mimo text). Odvezené stříbro (151½ hřivny obyčejného + 35 hřiven chrámového) a zlatý náhrdelník byly zástavy Ženevy/Lausanne uložené v Bernu.",
+  "Data: sobota před Květnou nedělí (15. 3. 1478) = 14. 3. 1478; sv. Ambrož = 4. 4. (sobota), středa po něm = 8. 4. 1478; předvečer sv. Jiří = 22. 4.",
+  "Výpalné Ženevy a Lausanne zde 28 000 zl.; v tabulce na předchozí straně se dělí 27 454 zl. (+ 736 zl. chybějících = 28 190; nesoulad neopravován).",
+  "Spor o měšťanské právo pěti měst (Curych, Bern, Luzern, Fribourg, Solothurn) s venkovskými místy – předehra Stanského narovnání 1481 (mimo text). „Sächer“ = strany sporu."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,69 @@
+{
+ "cislo": 229,
+ "svazek": "2",
+ "strana": 599,
+ "pdf_strana": 627,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "Juli 1476. 699",
+ "nadpis": "Fortsetzung Nr. 842 (Lucern, 12. 7. 1476) – Mailand, Cöln, Straßburg, Kirchenraub zu Lausanne, Briefe des Königs, Antrag Lothringens, Beute von Murten, Lanz, Bischof von Grenoble (80,000 Gulden)",
+ "nadpis_preklad": "pokračování č. 842 (Luzern, 12. 7. 1476) – Milán, Kolín, Štrasburk, svatokrádež v Lausanne, královské listy, návrh Lotrinska, kořist od Murtenu, Lanz, biskup z Grenoblu (80 000 zlatých)",
+ "odstavce": [
+  {
+   "text": "Mailand geschrieben, er möchte ihnen Abtrag ihres Schadens thun oder ihnen zu Recht stehen nach Sage der Capitel.",
+   "preklad": "… milánskému píše, aby jim nahradil jejich škodu nebo se před nimi postavil k právu podle znění kapitulace."
+  },
+  {
+   "text": "m. Nach Cöln wird geschrieben, sie sollen sorgen, daß dem Isenlin von St. Gallen das Seine wieder erstattet werde, oder sie sollen die Sache vor ihren Rath nehmen und ihm Geleit geben. Im Nichtentsprechensfalle müsse und wolle man ihm gestatten, das Seinige auf anderm Wege zu suchen.",
+   "preklad": "m. Do Kolína se píše, aby se postarali, aby bylo Isenlinovi ze St. Gallen jeho jmění vráceno, nebo aby věc vzali před svou radu a dali mu glejt. Nevyhoví-li, muselo by se mu a chtělo by se mu dovolit hledat své jiným způsobem."
+  },
+  {
+   "text": "n. Straßburg wird ersucht, den Heinrich Berger anzuhalten, daß er den Anlaß gegen Jörg Beck besiegle, dem Rechte zu Basel nachkomme und die Inhibition abthue. Geschehe dieses nicht, so könne man die von Appenzell nicht abhalten, demselben zu dem Seinigen zu verhelfen.",
+   "preklad": "n. Štrasburk se žádá, aby přiměl Heinricha Bergera, aby zpečetil rozhodčí smlouvu (Anlaß) proti Jörgu Beckovi, podrobil se soudu v Basileji a zrušil zápověď (inhibici). Nestane-li se tak, nelze Appenzellské zdržet, aby mu (Beckovi) pomohli k jeho právu."
+  },
+  {
+   "text": "o. Die Boten, welche nach Freiburg kommen, sollen mit Bern ernstlich reden, daß es seine Angehörigen, welche mit Andern zu Lausanne und anderswo Kelche und andere Kirchenzierden verunehret und weggenommen haben, ausmittle und bestrafe.",
+   "preklad": "o. Vyslanci, kteří přijdou do Fribourgu, mají s Bernem vážně promluvit, aby vypátral a potrestal své příslušníky, kteří s jinými v Lausanne a jinde zneuctili a pobrali kalichy a jiné církevní ozdoby."
+  },
+  {
+   "text": "p. Dieselben Boten sollen auch mit den Herren von Bern reden, daß sie Briefe, welche vom König von Frankreich an gemeine Eidgenossen kommen, versiegelt an gemeine Eidgenossen bringen und ohne Aller Wissen und Willen keine Antwort an den König geben, auch daß sie, wenn Schreiben an den König abgehen, nicht Bern allein, sondern die acht Orte nach ihrer Ordnung darin vermelden sollen.",
+   "preklad": "p. Titíž vyslanci mají také s pány z Bernu promluvit, aby listy, které přicházejí od krále francouzského všem Spřísežencům, přinášeli všem Spřísežencům zapečetěné a bez vědomí a vůle všech nedávali králi žádnou odpověď; také aby, když se posílají listy králi, v nich neuváděli jen Bern, nýbrž osm míst v jejich pořadí."
+  },
+  {
+   "text": "q. Der Antrag eines freundlichen Verständnisses mit gemeiner Eidgenossenschaft, welchen der Graf von Leiningen aus Auftrag des Herzogs von Lothringen auf diesem Tag zu Lucern am Samstag vor Alexii an gemeiner Eidgenossen Boten gethan hat, begreift folgende vier Punkte:",
+   "preklad": "q. Návrh přátelského dorozumění s celým Spříseženstvem, který hrabě z Leiningenu z pověření vévody lotrinského učinil na tomto sněmu v Luzernu v sobotu před sv. Alexiem vyslancům všech Spříseženců, obsahuje tyto čtyři body:"
+  },
+  {
+   "text": "1. Jedes Theiles Angehörige sollen durch des andern Theiles Land frei und sicher an Leib und Gut wandeln.",
+   "preklad": "1. Příslušníci každé strany mají volně a bezpečně na těle i statku chodit zemí strany druhé."
+  },
+  {
+   "text": "2. Kein Theil soll gegen den andern kriegen, noch einem Dritten Durchzug oder Vorschub gewähren, um dem andern Schaden zufügen zu lassen. 3. Wenn der Herzog von Lothringen für seine Kriege Söldner begehren würde, so sollen wir ihm solche in seinen Kosten und in seinem Sold zugehen lassen. 4. Kein Theil soll mit dem Herzog von Burgund irgend eine Richtung machen, ohne den andern wie sich selbst darin zu begreifen.",
+   "preklad": "2. Žádná strana nemá válčit proti druhé ani poskytnout třetímu průchod nebo podporu, aby druhé straně způsobil škodu. 3. Kdyby vévoda lotrinský pro své války žádal žoldnéře, máme mu je nechat přijít na jeho náklady a za jeho žold. 4. Žádná strana nemá s vévodou burgundským uzavřít jakékoli narovnání, aniž by do něj zahrnula druhou stranu jako sebe samu."
+  },
+  {
+   "text": "r. Der Beute wegen ist gerathschlagt, daß man eine gemeine Beute machen wolle aus Allem, was in dem Zug erobert worden, es sei im Streit zu Murten, zu Milden, zu Lausanne, zu Romont oder an andern Orten. Diesen Rathschlag soll man heimbringen und auf dem Tag zu Freiburg darüber völlig Antwort geben; auch soll man daselbst entscheiden, wie man sich bezüglich der Verwundeten und bezüglich des Guts, das Jedermann verloren hat, halten und was man dafür geben wolle.",
+   "preklad": "r. Ohledně kořisti se uradilo, že se má udělat společná kořist ze všeho, co bylo na tažení dobyto, ať v bitvě u Murtenu, v Moudonu, v Lausanne, v Romontu nebo na jiných místech. Toto doporučení se má předložit doma a na sněmu ve Fribourgu o něm dát plnou odpověď; také se tam má rozhodnout, jak se zachovat k raněným a ke zboží, které kdo ztratil, a co se za to má dát."
+  },
+  {
+   "text": "s. Hans Lanz hat angebracht, es werde ihm zugeredet, er und Andere haben Mörspurg verbrennen lassen wollen. Er erbiete sich, um solche Zureden vor einem Rathe zu Lucern, wo er Burger sei, Recht zu stehen. Darauf soll Jedermann mit den Seinen reden, daß der Lanz als Burger zu Lucern und in der Eidgenossen Schirm unbekümmert gelassen werde.",
+   "preklad": "s. Hans Lanz přednesl, že se o něm říká, že on a jiní chtěli dát vypálit Meersburg. Nabízí se, že se kvůli takovým řečem postaví k právu před radou v Luzernu, kde je měšťanem. Nato má každý se svými lidmi promluvit, aby byl Lanz jako luzernský měšťan a pod ochranou Spříseženců ponechán na pokoji."
+  },
+  {
+   "text": "t. Herr Jost von Silinon, Bischof von Grenoble, hat als bevollmächtigter Bote des Königs von Frankreich in dessen Namen angebracht, „dz der küng von hertzen fro, dz es vns zu Murtten so wol gangen, vnd er sig sin lebetag nie so fro gesin“. Er habe sich erboten, die Freundschaft, die er mit den Eidgenossen habe, zu mehren und alles zu thun, was diesen lieb sei; insbesondere wolle er daran arbeiten, daß wir mit dem Hause Savoyen einig werden, „da mit dz zwüschen sinen gnaden vnd den eidgnossen zu Safoy dhein rigel gemacht, noch sin mag“. Als man darauf mit ihm (dem französischen Boten) geredet und eine Antwort begehrt hat der 80,000 Gulden wegen, welche wir vom König schriftlich verlangt haben, hat er geantwortet, es sei ihm bezüglich dieser Sache nichts befohlen; aber nach dem, was der König und er mit einander darüber geredet, zweifle er nicht, die Eidgenossen werden, wenn sie eine Botschaft zum König schicken, auch dießfalls gute Antwort und mehr, als sie begehrt, erhalten; denn der König sei Willens, die Freundschaft zu mehren, nicht zu mindern.",
+   "preklad": "t. Pan Jost von Silinon, biskup z Grenoblu, přednesl jako zplnomocněný vyslanec krále francouzského jeho jménem, „že král je ze srdce rád, že se nám u Murtenu tak dobře vedlo, a že nikdy v životě nebyl tak rád“. Nabídl se rozmnožit přátelství, které má se Spříseženci, a učinit vše, co je jim milé; zvláště chce pracovat na tom, abychom se dohodli se savojským rodem, „aby mezi Jeho Milostí a Spříseženci nebyla v Savojsku udělána, ani nemohla být, žádná závora“. Když se s ním (francouzským vyslancem) nato jednalo a žádalo se odpověď ohledně 80 000 zlatých, které jsme od krále písemně požadovali, odpověděl, že v této věci nemá žádný příkaz; ale podle toho, co o tom spolu s králem mluvili, nepochybuje, že Spříseženci, pošlou-li ke králi poselstvo, dostanou i v tomto ohledu dobrou odpověď, a víc, než žádají; neboť král má v úmyslu přátelství rozmnožit, ne zmenšit."
+  }
+ ],
+ "poznamky": [
+  "Konce řádků a čísla zkontrolovány podle skenu; text strany je v OCR poměrně dobrý (opraveny hlavně „»“ místo „n“ a písmena bodů).",
+  "Bod l (začátek na předchozí straně): vévoda = vévoda milánský; „Capitel“ = milánská kapitulace (smlouva Spříseženců s Milánem 1467).",
+  "Sobota před sv. Alexiem (17. 7., 1476 středa) = 13. 7. 1476, tedy den po zahájení sněmu.",
+  "„Anlaß“ = rozhodčí smlouva (kompromis); „Inhibition“ = soudní zápověď.",
+  "Milden = Moudon (Vaud); Mörspurg = Meersburg na Bodamském jezeře (sídlo kostnického biskupa) – souvislost se sporem o kostnické biskupství (mimo text).",
+  "Jost von Silinon = Jost von Silenen, biskup z Grenoblu, později sionský biskup, rodák z Uri, agent Ludvíka XI. (mimo text).",
+  "„rigel“ = závora, překážka – tj. aby Savojsko nebylo mezi Francií a Spříseženci zablokováno.",
+  "Číslování odstavců v textu: body 1–4 návrhu Lotrinska jsou na straně částečně v jednom odstavci (podle sazby)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

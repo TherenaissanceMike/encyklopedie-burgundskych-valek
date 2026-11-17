@@ -1,0 +1,57 @@
+{
+ "cislo": 123,
+ "svazek": "2",
+ "strana": 493,
+ "pdf_strana": 521,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1474,
+ "zahlavi": "August 1474. 493",
+ "nadpis": "Fortsetzung Nr. 750 (Lucern, 10. 8. 1474) – Mümpelgard, Tag zu Basel, Mailänder Roßtäuscher, Thurgau",
+ "nadpis_preklad": "pokračování č. 750 (Luzern, 10. 8. 1474) – Montbéliard a Dolní spolek, sněm v Basileji, vzájemná pomoc, milánští handlíři s koňmi, Thurgau",
+ "odstavce": [
+  {
+   "text": "dz sich Herzog Sigmund verschribt für sich vnd sin erben.“ d. Heimbringen, daß Mümpelgard in die Vereinigung einzutreten begehrt und daß Bern „fast“ bittet, den Tag zu Basel zu besuchen, welcher auf Donstag zu Nacht nach unserer Frauen Tag assumptionis (18. August) gesetzt ist. Die Boten sind der Meinung, man sollte von allen Orten den Tag beschicken.",
+   "preklad": "že se vévoda Zikmund zaváže [listem] za sebe i své dědice.“ d. Předložit doma, že Montbéliard žádá o vstup do Dolního spolku a že Bern „velmi“ prosí, aby se obeslal sněm v Basileji, který je stanoven na čtvrtek večer po Nanebevzetí Panny Marie (18. srpna). Vyslanci jsou toho názoru, že by sněm měla obeslat všechna místa (kantony)."
+  },
+  {
+   "text": "e. Es ist gerathschlagt, daß, wenn ein Geschrei käme, daß die von Mümpelgard, von Basel oder andere Herren und Städte der Vereinigung belagert oder überzogen würden, dasjenige Ort, das solches zuerst vernimmt, allen andern Tag verkünden soll, damit man gemeinsam zu Rath werde, was zu thun sei. Würden aber die von Bern, Solothurn oder andere Eidgenossen überzogen, so sollen alle Orte denselben sofort zuziehen und ihnen Leib und Gut retten helfen.",
+   "preklad": "e. Uradilo se: přijde-li zpráva (poplach), že Montbéliard, Basilej nebo jiní páni a města Dolního spolku jsou obléháni nebo napadeni, má to místo, které se to dozví první, svolat všem ostatním sněm, aby se společně uradili, co činit. Budou-li však napadeni Bernští, Solothurnští nebo jiní Spříseženci, mají jim všechna místa ihned přitáhnout na pomoc a pomoci jim zachránit životy i statky."
+  },
+  {
+   "text": "f. Da die von Kaisersberg, Oberehrenheim und etliche andere Städte in die Vereinigung einzutreten begehren, so soll man das heimbringen und auf dem Tag zu Lucern antworten. g. Auf das Schreiben des Herzogs von Mailand, der Roßtäuscher wegen, und auf das fortwährende Rechtbegehren dieser letztern soll man sich an dem Tag zu Lucern, der wegen des Königs Botschaft gehalten wird, ferner berathen.",
+   "preklad": "f. Protože Kaysersberg, Obernai a některá další města žádají o vstup do Dolního spolku, má se to předložit doma a odpovědět na sněmu v Luzernu. g. O listu milánského vévody ve věci handlířů s koňmi a o jejich neustálém dovolávání se soudu se má dále jednat na sněmu v Luzernu, který se bude konat kvůli královu poselstvu."
+  },
+  {
+   "text": "h. Da Margaretha Zelger und Ulrich Ammann jetzt nach Rom gehen oder ihre Vollmachten hinschicken müssen, wie das der versiegelte Abschied vorschreibt, so haben der Eidgenossen Boten erkannt, daß, wenn Margaretha Zelger nicht persönlich nach Rom gehen wolle, sie einen Procurator nehmen möge, welchen sie wolle; doch soll derselbe nicht Partei sein und den Boten der Eidgenossen tauglich scheinen. Auch Rudolf Sittli mag nach Rom gehen, wenn er will, aber in seinen eigenen Kosten.",
+   "preklad": "h. Protože Margaretha Zelger a Ulrich Ammann musejí nyní jít do Říma nebo tam poslat své plné moci, jak předepisuje zapečetěný sněmovní výnos, vyslanci Spříseženců rozhodli: nechce-li Margaretha Zelger jít do Říma osobně, může si vzít prokurátora (zmocněnce), koho chce; ten však nesmí být stranou ve sporu a musí se vyslancům Spříseženců zdát způsobilý. Také Rudolf Sittli smí jít do Říma, chce-li, ale na vlastní náklady."
+  },
+  {
+   "text": "i. Den Boten auf den Tag zu Basel soll empfohlen werden, dem Jost Kuhn, Hintersaßen von Bern, gegen die St. Johannser beholfen und berathen zu sein. k. Auf dem nächsten Tag zu Lucern soll man sich erklären, ob man Herrn Hans von Randegg, der das Schloß zu Dießenhofen gekauft hat, erlauben wolle, das in Kriegszeiten vermauerte „Türlin“ in der Mauer wieder zu öffnen. l. Da einige Herren, Edle und Städte im Thurgau die Ihrigen das „Landgeschrei“ noch nicht haben schwören lassen, so soll Lucern, sobald der nächste Tag dahin angesetzt ist, ihnen allen schreiben, jene schwören zu lassen oder auf dem Tag zu erscheinen, um sich zu verantworten.",
+   "preklad": "i. Vyslancům na sněm v Basileji se má uložit, aby byli Jostu Kuhnovi, bernskému podsedníkovi (Hintersasse), nápomocni radou i skutkem proti johanitům. k. Na příštím sněmu v Luzernu se má rozhodnout, zda se panu Hansi von Randegg, který koupil hrad v Diessenhofenu, povolí znovu otevřít „dvířka“ ve zdi, za války zazděná. l. Protože někteří páni, šlechtici a města v Thurgau dosud nedali svým lidem přísahat na „zemský poplach“, má Luzern, jakmile tam bude svolán příští sněm, všem napsat, aby je dali přísahat, nebo se dostavili na sněm a zodpovídali se."
+  },
+  {
+   "text": "m. Heimbringen, wie man es mit dem Gefangenen halten wolle, der zu Baden sitzt, ein Knecht des Herrn Hug von Landenberg gewesen ist und eingestanden hat, er habe Briefe seines Herrn vertragen, wodurch der Leutpriester von Frauenfeld verrathen und gefangen worden ist. n. Die Boten, welche auf Michaelis (29. September) nach Dießenhofen gehen, sollen von ihren Obern Vollmacht erhalten, über alle Thurgau betreffenden Gegenstände zu verhandeln. o. Heimbringen der Kornausfuhr in's Oberland wegen.",
+   "preklad": "m. Předložit doma, jak se má naložit s vězněm, který sedí v Badenu, býval pacholkem (Knecht) pana Huga von Landenberg a přiznal, že roznášel listy svého pána, jimiž byl zrazen a zajat farář z Frauenfeldu. n. Vyslanci, kteří půjdou na sv. Michala (29. září) do Diessenhofenu, mají od svých vrchností dostat plnou moc jednat o všech záležitostech týkajících se Thurgau. o. Předložit doma věc vývozu obilí do Horní země (Oberland)."
+  },
+  {
+   "text": "h fehlt im Berner- und Zürcher-Abschied, n und o fehlen im Lucerner- und Berner-Abschied.",
+   "preklad": "Bod h chybí v bernském a curyšském výnosu, body n a o chybějí v luzernském a bernském výnosu."
+  },
+  {
+   "text": "Zu a. 1474, 6. August (St. Sixt): Straßburg bittet die Eidgenossen, zu Lucern versammelt zu bleiben, seine Botschaft habe wichtige Mittheilungen zu machen. Staatsarchiv Lucern. — Zu d. 1474, Dienstag nach Jacobi (26. Juli): Hermann von Eptingen, Ritter, Landvogt, und der Fürsten und Städte der Vereinigung Räthe und Rathsfreunde schreiben an Lucern: Sie vernehmen, es sei den Grafen von Württemberg nicht so viel an Mümpelgard gelegen, daß sie vieles für dessen Erhaltung zu thun geneigt wären; dagegen haben die von Mümpelgard mit Bewilligung ihrer Herren den Entschluß gefaßt, sich auch ohne deren Hülfe beim deutschen Reiche zu behaupten und nicht „welsch zu werden“, und haben um Aufnahme in die Vereinigung und um Hülfe nachgesucht. Daher wird allen Orten der Eidgenossenschaft Tag gesetzt nach Basel auf Donstag nach Assumptionis Marie (18. August). Nachrichten über den bevorstehenden Ausbruch des Herzogs von Burgund nach den obern Landen u. s. w. Staatsarchiv Lucern, ungebundene Abschiede.",
+   "preklad": "K bodu a: 1474, 6. srpna (sv. Sixt): Štrasburk prosí Spřísežence, aby zůstali shromážděni v Luzernu, jeho poselstvo má důležitá sdělení. Státní archiv Luzern. — K bodu d: 1474, úterý po sv. Jakubovi (26. července): Hermann von Eptingen, rytíř, zemský fojt, a radové a radní knížat a měst Dolního spolku píší Luzernu: Doslýchají se, že hrabatům z Württemberka na Montbéliardu tolik nezáleží, aby byli ochotni mnoho podniknout pro jeho udržení; Montbéliardští se naopak se svolením svých pánů rozhodli udržet se při Německé říši i bez jejich pomoci a „nestát se vlašskými“, a požádali o přijetí do Dolního spolku a o pomoc. Proto se všem místům Spříseženstva svolává sněm do Basileje na čtvrtek po Nanebevzetí Panny Marie (18. srpna). Zprávy o chystaném vpádu burgundského vévody do Horních zemí atd. Státní archiv Luzern, nevázané výnosy."
+  }
+ ],
+ "poznamky": [
+  "Strana pokračuje č. 750 (Luzern, 10. 8. 1474); začátek věty viz s. 492.",
+  "Nanebevzetí P. Marie 15. 8. 1474 = pondělí, čtvrtek po něm = 18. 8. (souhlasí s edicí). Úterý po sv. Jakubovi (25. 7. = pondělí) = 26. 7. 1474 (souhlasí).",
+  "Mümpelgard = Montbéliard; Kaisersberg = Kaysersberg, Oberehrenheim = Obernai (Alsasko); Dießenhofen = Diessenhofen (Thurgau). St. Johannser = johanité (řád sv. Jana).",
+  "„Landgeschrei“ = povinnost vytáhnout na zemský poplach (přísaha poddaných v Thurgau, společném panství) – překládám „zemský poplach“ [?].",
+  "„Knecht“ zde v civilním smyslu pacholek, sluha (ne vojenský knecht).",
+  "Margaretha Zelger, Ulrich Ammann, Rudolf Sittli – manželský spor z Unterwaldenu před římskou kurií (srov. č. 753 a).",
+  "Hermann von Eptingen – rakouský zemský fojt v Předních zemích (mimo text). „welsch werden“ = připadnout francouzsky mluvící (burgundské) moci.",
+  "OCR opraveno podle obrázku (Bafel→Basel, Zclger, «volle→wolle aj.)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

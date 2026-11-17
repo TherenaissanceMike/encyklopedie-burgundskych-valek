@@ -1,0 +1,54 @@
+{
+ "cislo": 324,
+ "svazek": "2",
+ "strana": 694,
+ "pdf_strana": 722,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "694 Juli 1477. MS",
+ "nadpis": "Nr. 906 Turin, 20. Juli 1477 – Jolanta von Savoyen verzichtet auf Freiburg; Nr. 907 Zürich, 4. und 12. August 1477 – Gesandtschaft zum König von Frankreich; Nr. 908 (wahrscheinlich) Bern, 17. August 1477 – Waadt gegen 50,000 Gulden (Anfang)",
+ "nadpis_preklad": "č. 906 Turín, 20. 7. 1477 – Yolanda Savojská se vzdává svrchovanosti nad Fribourgem; č. 907 Curych, 4. a 12. 8. 1477 – poselstvo ke králi francouzskému; č. 908 (pravděpodobně) Bern, 17. 8. 1477 – vrácení Vaudu Savojsku za 50 000 zlatých (začátek)",
+ "odstavce": [
+  {
+   "text": "906. Turin. 1477, 20. Juli. Archiv Freiburg.",
+   "preklad": "**č. 906 – Turín, 20. 7. 1477.** Archiv Fribourg."
+  },
+  {
+   "text": "Jolanta, Herzogin und Regentin von Savoyen, sendet der Stadt Freiburg durch eine Gesandtschaft die Unterwerfungsurkunde vom 10. Juni 1452 mit einem dieselbe entkräftenden Annex zurück und verzichtet in ihrem und ihres Sohnes Namen auf alle daraus fließenden Hoheitsrechte. Siehe unten Absch. 911.",
+   "preklad": "Yolanda, vévodkyně a regentka Savojska, posílá městu Fribourgu po poselstvu zpět listinu o podrobení z 10. června 1452 s dodatkem, který ji zbavuje platnosti, a vzdává se svým i svého syna jménem všech výsostných práv, která z ní plynou. Viz níže výnos č. 911."
+  },
+  {
+   "text": "907. Zürich. 1477, 4. und 12. August. Staatsarchiv Bern: Lateinisches Missivenbuch, B. 58, 59.",
+   "preklad": "**č. 907 – Curych, 4. a 12. 8. 1477.** Státní archiv Bern: Latinská kniha odeslaných listů B. 58, 59."
+  },
+  {
+   "text": "Die Boten der Eidgenossen senden den Adrian von Bubenberg, Ritter, Schultheißen zu Bern, den Johannes Waldmann, Ritter, und den Johannes Imhof mit einem Beglaubigungsschreiben an den König von Frankreich, an den Herrn von Craon und die königlichen Hauptleute in Burgund. Zwei lateinische Briefe unter dem Siegel Berns.",
+   "preklad": "Vyslanci Spříseženců vysílají Adriana von Bubenberg, rytíře, starostu bernského, Johannese Waldmanna, rytíře, a Johannese Imhofa s pověřovacím listem ke králi francouzskému, k panu z Craonu a ke královským hejtmanům v Burgundsku. Dva latinské listy pod pečetí Bernu."
+  },
+  {
+   "text": "908. (Wahrscheinlich) Bern. 1477, 17. August. Staatsarchiv Lucern: Allgemeine Abschiede, B. 121.",
+   "preklad": "**č. 908 – (pravděpodobně) Bern, 17. 8. 1477.** Státní archiv Luzern: Všeobecné výnosy B. 121."
+  },
+  {
+   "text": "„Vff den artikel des landes in der Wadt, als die Hertzogin von Savoye begert, das die eidgenossen sy desselben landes in der Wadt vnd alles des dem Hus von Sauoye vnd den sinen entwert ist, angendes wider in gewerd setzent vnd wider bekeren wöllen, so wölle sy den eitgenossen von nu sant Johanns tag vber ein Jar 50,000 Rinscher gulden sammenthaft geben, wie denn dz derselb artikel darumb vff dem Tag zu Nysse abgeredt witer begriffet.",
+   "preklad": "„K článku o zemi ve Vaudu, kde vévodkyně Savojská žádá, aby ji Spříseženci neprodleně znovu uvedli v držbu této země ve Vaudu a všeho, co bylo savojskému domu a jeho lidem odňato, a aby jí to chtěli vrátit; za to chce Spřísežencům ode dneška za rok na sv. Jana dát najednou 50 000 rýnských zlatých, jak to dále obsahuje tentýž článek, o němž bylo ujednáno na sněmu v Nysse [?]."
+  },
+  {
+   "text": "Ist daruff der eitgenossen antwurt, vorab ob die Hertzogin von Sauoye solich 50,000 gulden von nu St. Johannstag vber ein Jare den eitgenossen also bar vsrichten wil, so wöllend sy die lantschaft der Wadt, was denn der graff von Remondt Ingehept hat, durch liebe willen widerumb zu dem Hus Sauoye komen lassen zu Iren vnd Ires sunes des Hertzogen handen, doch also, das dz selbe land in der Wadt niemerme dem grauen von Remont zu sinen handen wider werden sölle, vnd ouch also vnd vorbehalten Murten, Grankort vnd Eudressin mit Ir zugehörde, dz wöllen die eitgnossen Inen selber behalten vnd nit wider keren.",
+   "preklad": "Na to je odpověď Spříseženců: Především, chce-li vévodkyně Savojská oněch 50 000 zlatých ode dneška za rok na sv. Jana Spřísežencům takto v hotovosti vyplatit, chtějí z lásky nechat krajinu Vaud, tedy to, co držel hrabě z Romontu, znovu připadnout savojskému domu do jejích rukou a rukou jejího syna vévody; avšak tak, aby se tato země ve Vaudu již nikdy nevrátila hraběti z Romontu do jeho rukou; a také s výhradou Murtenu, Grandcourtu a Cudrefinu s jejich příslušenstvím – ty si chtějí Spříseženci ponechat pro sebe a nevracet je."
+  },
+  {
+   "text": "Die eitgnossen wöllent ouch das land in der Wadt die zit vs vnd bitz das die 50,000 gulden bezalt werdent, mit aller nutzung Inhan, mit vnderschid, ob die Hertzogin von Sauoye dieselbe 50,000 gulden bitz zu dem vorgenannten St. Johannstag nit bezalt, das denn dannenthin dasselbe land ewigelich den eitgnossen zugehören vnd niemerme an das Hus von Sauoye komen sol.“",
+   "preklad": "Spříseženci chtějí také zemi ve Vaudu po celou tu dobu, dokud nebude oněch 50 000 zlatých zaplaceno, držet se všemi užitky, s tou výhradou, že nezaplatí-li vévodkyně Savojská oněch 50 000 zlatých do výše řečeného dne sv. Jana, má tato země od té doby navěky patřit Spřísežencům a nikdy více nepřipadnout savojskému domu.“"
+  }
+ ],
+ "poznamky": [
+  "Záhlaví strany v tisku zní „Juli 1477“, ač strana obsahuje i srpnové záznamy.",
+  "Data: „od nynějška za rok na sv. Jana“ = 24. 6. 1478. „Nysse“ [?] – místo sněmu neurčeno.",
+  "Eudressin = Cudrefin, Grankort = Grandcourt (určení podle souvislosti, mimo text); Remondt/Remont = Romont – hrabě z Romontu Jakub Savojský, spojenec Karla Smělého (mimo text).",
+  "Fribourg se r. 1452 podřídil Savojsku; vzdání se svrchovanosti 1477 je krok k jeho přijetí do Spříseženstva 1481 (mimo text).",
+  "Rinscher gulden = rýnské zlaté."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

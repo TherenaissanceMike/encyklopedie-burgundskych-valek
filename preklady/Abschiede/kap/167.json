@@ -1,0 +1,62 @@
+{
+ "cislo": 167,
+ "svazek": "2",
+ "strana": 537,
+ "pdf_strana": 565,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1475,
+ "zahlavi": "April 1475. 537",
+ "nadpis": "Fortsetzung Nr. 785 (Lucern, 9. April 1475); Nr. 786 Colmar, 16. April 1475; Nr. 787 Lucern, 17. April 1475",
+ "nadpis_preklad": "pokračování č. 785 (Luzern, 9. 4. 1475) – glejt pro Huga z Landenbergu; č. 786 Colmar, 16. 4. 1475 – sněm Dolního spolku, přijetí vévody René Lotrinského; č. 787 Luzern, 17. 4. 1475 – Pontarlier opuštěn, Bernští v poli žádají pomoc",
+ "odstavce": [
+  {
+   "text": "Eidgenossen Boten zu Lucern an der Herberge sein, um Montags darauf völlige Antwort zu geben.",
+   "preklad": "Spříseženců být v Luzernu v hospodě, aby nazítří v pondělí dali úplnou odpověď."
+  },
+  {
+   "text": "o. Dem Herrn Hug von Landenberg ist auf den Tag zu Baden Geleit gegeben, um sich seiner Sache wegen im Rechte oder sonst zu verantworten. Der Tag zu Baden wird stattfinden auf den zweiten Sonntag nach Corporis Christi.",
+   "preklad": "o. Panu Hugovi z Landenbergu byl dán glejt na sněm v Badenu, aby se ve své věci zodpovídal soudně nebo jinak. Sněm v Badenu se bude konat druhou neděli po Božím těle."
+  },
+  {
+   "text": "Zu c. Bern hatte durch Schreiben vom 4. April die Orte ersucht, eine verzögerliche Instruction auf die savoyischen Anbringen zu geben. Deutsches Missivenbuch C. 419. Vergleiche auch das Schreiben Berns an Wilhelm von Dießbach vom 13. April. Ebenda 429. — Zu d. Die Acten dieses Tages fehlen. S. Basler Offnungsbuch V. 134. — Zu m. Vergleiche de Gingins, Dépêches des ambassadeurs Milanais. (Montcalier 30. Januar 1475.)",
+   "preklad": "K bodu c. Bern dopisem ze 4. dubna požádal místa (kantony), aby na savojské přednesy dala odkladnou instrukci. Německá kniha odeslaných listů C. 419. Srov. také dopis Bernu Wilhelmovi von Dießbach ze 13. dubna, tamtéž 429. – K bodu d. Akta tohoto sněmu chybějí. Viz basilejskou Offnungsbuch V. 134. – K bodu m. Srov. de Gingins, Dépêches des ambassadeurs milanais (Moncalieri, 30. ledna 1475)."
+  },
+  {
+   "text": "786. Colmar. 1475, 16. April (Sonntag Jubilate). Archiv Basel: Offnungsbuch V. 134.",
+   "preklad": "**č. 786 – Colmar, 16. 4. 1475** (neděle Jubilate). Archiv Basilej: Offnungsbuch V. 134."
+  },
+  {
+   "text": "Tag gemeiner Vereinigung, auch den Eidgenossen verkündet, des Herzogs von Lothringen wegen.",
+   "preklad": "Sněm celého Dolního spolku, oznámený i Spřísežencům, kvůli vévodovi lotrinskému."
+  },
+  {
+   "text": "1475, 18. April: Bischof Ruprecht von Straßburg, Herzog Sigmund von Oesterreich, Bischof Johannes von Basel und die Städte Straßburg, Basel, Colmar, Schlettstadt, Oberehenheim, Kaisersberg, Münster im Gregorienthal, Roßheim und Türichen nehmen den Herzog Reinhard von Lothringen in ihr, am Montag St. Ambrosientag (4. April) 1474 errichtetes, zehnjähriges Bündniß auf. Lichnowsky Bd. VII. Regest 1853.",
+   "preklad": "1475, 18. dubna: biskup Ruprecht štrasburský, vévoda Zikmund Rakouský, biskup Johannes basilejský a města Štrasburk, Basilej, Colmar, Sélestat (Schlettstadt), Obernai (Oberehenheim), Kaysersberg, Munster v Gregoriánském údolí, Rosheim a Turckheim (Türichen) přijímají vévodu Reinharda (René) Lotrinského do svého desetiletého spolku, uzavřeného v pondělí na sv. Ambrože (4. dubna) 1474. Lichnowsky sv. VII, regest 1853."
+  },
+  {
+   "text": "787. Lucern. 1475, 17. April (Mendag nach Jubilate). Staatsarchiv Lucern: Lucerner Abschiede, B. 40.",
+   "preklad": "**č. 787 – Luzern, 17. 4. 1475** (pondělí po neděli Jubilate). Státní archiv Luzern: Luzernské výnosy B. 40."
+  },
+  {
+   "text": "Boten: Zürich. Cunrad Schwend. Bern. Bartholomäus Huber. Lucern. Caspar von Hertenstein; Heinrich Hasfurter; Peter Tammann. Uri. Ammann Püntiner. Schwyz. Cunrad Jacob. Unterwalden. Ammann Ambül; Claus von Zuben. Glarus. Der Blum.",
+   "preklad": "Vyslanci: Curych – Cunrad Schwend. Bern – Bartholomäus Huber. Luzern – Caspar von Hertenstein; Heinrich Hasfurter; Peter Tammann. Uri – úředník Püntiner. Schwyz – Cunrad Jacob. Unterwalden – úředník Ambül; Claus von Zuben. Glarus – Blum."
+  },
+  {
+   "text": "a. Da etliche Knechte der Eidgenossen, meistens Lucerner, und Andere Stadt und Schloß Pontarlier gewonnen, doch zuletzt, als sie von den Feinden heftig bestürmt wurden, beide verbrannt haben und „mit ritterlicher Hand“ abgezogen, die Berner aber vorwärts gezogen und noch im Felde sind und dringend begehren und mahnen, daß man ihnen zuziehe, so soll Jedermann das heimbringen und bis Freitag vor St. Jörgentag (21. April) wieder zu Lucern sein, mit Vollmacht, zu beschließen, wie man unsern Eidgenossen von Bern zuziehen und die Dinge ordnen wolle.",
+   "preklad": "a. Protože několik knechtů Spříseženců, většinou Luzernských, a jiní dobyli města a hradu Pontarlier, nakonec však, když byli nepřáteli prudce napadeni, obojí vypálili a „rytířskou rukou“ odtáhli, Bernští však táhli kupředu, jsou stále v poli a naléhavě žádají a vyzývají ke spojenecké pomoci, aby se jim přitáhlo na pomoc, má to každý předložit doma a do pátku před sv. Jiřím (21. dubna) být znovu v Luzernu s plnou mocí rozhodnout, jak se má našim Spřísežencům z Bernu přitáhnout na pomoc a věci uspořádat."
+  },
+  {
+   "text": "b. Denen von Basel soll man schreiben, man habe jetzt die Sache von Pontarlier und den Auszug der Berner vernommen, man werde darüber an die Obrigkeiten berichten und getraue wohl, daß Jedermann sein Bestes dazu thun werde.",
+   "preklad": "b. Basilejským se má napsat, že se nyní dozvědělo o věci s Pontarlierem a o výpravě Bernských, že se o tom podá zpráva vrchnostem a že se pevně věří, že každý k tomu přispěje, jak nejlépe může."
+  }
+ ],
+ "poznamky": [
+  "Čísla záznamů 786, 787 a údaje „Basler Offnungsbuch V. 134“, „Regest 1853“, „Claus von Zuben“ (OCR „Juden“), „Türichen“ přečteny ze skenu; „68“ dole je arch. signatura, vypuštěna.",
+  "Jubilate 1475 = 16. 4., pondělí po něm = 17. 4.; pátek před sv. Jiřím = 21. 4.; 4. 4. 1474 = pondělí – sedí.",
+  "Druhá neděle po Božím těle 1475: Boží tělo = 25. 5., tedy 4. 6. 1475 (přepočet).",
+  "„Herzog Reinhard von Lothringen“ = René II. Lotrinský (mimo text). „Türichen“ = Turckheim [?].",
+  "„mit ritterlicher Hand abgezogen“ = odtáhli čestně, se zbraní v ruce (ne jako zajatci)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

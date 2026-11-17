@@ -1,0 +1,73 @@
+{
+ "cislo": 348,
+ "svazek": "3/1",
+ "strana": 8,
+ "pdf_strana": 24,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1478 bis 1499.pdf",
+ "priloha": false,
+ "rok": 1478,
+ "zahlavi": "8 Mai 1478.",
+ "nadpis": "Schluss Nr. 9 (Lucern, 1. Mai 1478): Württemberg, Burgrecht – Botschaft der V Städte vor die Landsgemeinden, Bläwenstein; Nr. 10 Bern, 25. Mai 1478 – französische Pension, Valendis, Markgraf Rudolf von Hochberg, Wallis und Savoyen, Schiff zu Nidau; Nr. 11 Baden, 31. Mai 1478 (Jahrrechnung)",
+ "nadpis_preklad": "konec č. 9 (Luzern, 1. 5. 1478): Württembersko, měšťanské právo – vyslanectví pěti měst před zemské obce, Bläwenstein; č. 10 Bern, 25. 5. 1478 – francouzská penze, Valangin, markrabě Rudolf von Hochberg, Wallis a Savojsko, loď v Nidau; č. 11 Baden, 31. 5. 1478 (výroční vyúčtování, akta chybí)",
+ "odstavce": [
+  {
+   "text": "… langen erstrecken wolle, auch was dem Boten von Herrn Hermanns von Eptingen wegen geantwortet worden.",
+   "preklad": "… žádosti prodloužit, a také co bylo odpovězeno vyslanci kvůli panu Hermannovi von Eptingen."
+  },
+  {
+   "text": "i. Des Burgrechts wegen mit Freiburg und Solothurn sollen die Boten der V Städte, von jeder Stadt zwei, auf Donnerstag zu Nacht vor dem Pfingsttag (7. Mai) zu Lucern sein und am Pfingstmontag zu Obwalden, am Mittwoch darnach zu Nidwalden, am Freitag zu Uri, am folgenden Montag zu Schwyz, am Mittwoch darauf zu Zug und am Samstag darnach zu Glarus vor die Gemeinden treten.",
+   "preklad": "i. Kvůli měšťanskému právu (burgrecht) s Fribourgem a Solothurnem mají být vyslanci pěti měst, z každého města dva, ve čtvrtek před Letnicemi večer (7. května) v Luzernu a pak předstoupit před zemské obce: o svatodušním pondělí v Obwaldenu, ve středu potom v Nidwaldenu, v pátek v Uri, následující pondělí ve Schwyzu, ve středu nato v Zugu a v sobotu potom v Glarusu."
+  },
+  {
+   "text": "k. „Man sol gen Nürenberg schriben von Bläwensteins wegen.“",
+   "preklad": "k. „Má se psát do Norimberku kvůli Bläwensteinovi.“"
+  },
+  {
+   "text": "Zu b. Dieser Beschluß ist abgedruckt in Segesser, Rechtsgeschichte der Stadt und Republik Lucern, II. 83.",
+   "preklad": "K bodu b. Toto usnesení je otištěno v Segesser, Právní dějiny města a republiky Luzern, II, 83."
+  },
+  {
+   "text": "10. Bern. 1478, 25. Mai (vff Vrbani). Staatsarchiv Lucern: Allgemeine Abschiede. B. 162.",
+   "preklad": "**č. 10 – Bern, 25. 5. 1478** (na sv. Urbana). Státní archiv Luzern: Všeobecné výnosy B 162."
+  },
+  {
+   "text": "a. Heimbringen von der französischen Pension wegen, die zu Lyon liegt und weshalb Wernher Läubli nach Frankreich gesendet worden mit Briefen der Eidgenossen an den Bischof von Albi und den Präsidenten von Toulouse.",
+   "preklad": "a. Předložit doma ohledně francouzské penze, která leží v Lyonu a kvůli níž byl do Francie vyslán Wernher Läubli s listy Spříseženců biskupovi z Albi a předsedovi [parlamentu] v Toulouse."
+  },
+  {
+   "text": "b. Dem jungen Herrn von Valendis ist von den Eidgenossen vergönnt worden, wieder zu seinem Vater heimzukehren.",
+   "preklad": "b. Mladému pánovi z Valangin Spříseženci povolili vrátit se domů ke svému otci."
+  },
+  {
+   "text": "c. Heimbringen, daß dem Markgrafen Rudolf von Hochberg auf seine Anfrage geantwortet worden, er könne kraft der getroffenen Abrede in seine burgundischen Lande zurückkehren, möge aber des Kaisers Mahnung und Herzog Maximilians Bitte in Betreff seiner Pflichten eingedenk sein. Uebrigens wolle man beider Theile müßig gehen, seine Bitte an die Obern bringen, bevorworten und auf den nächsten Tag Antwort geben. Man dankt ihm für die großen Kosten, so er der Eidgenossen wegen gehabt.",
+   "preklad": "c. Předložit doma, že markraběti Rudolfovi von Hochberg bylo na jeho dotaz odpovězeno, že se podle uzavřené úmluvy může vrátit do svých burgundských zemí, ať však pamatuje na císařovo napomenutí a prosbu vévody Maxmiliána ohledně svých povinností. Ostatně se chtějí obou stran zdržet; jeho prosbu předloží vrchnostem, podpoří ji a na příštím sněmu dají odpověď. Děkuje se mu za velké náklady, které kvůli Spřísežencům měl."
+  },
+  {
+   "text": "d. Dem Herzog von Lothringen wird des Herrn von Valendis wegen geschrieben.",
+   "preklad": "d. Vévodovi lotrinskému se píše kvůli pánovi z Valangin."
+  },
+  {
+   "text": "e. Zwischen dem Bischof von Sitten und seiner Landschaft einerseits und Savoyen anderseits wurde auf diesem Tag viel verhandelt: Savoyen bot Freundschaft und Recht auf gemeine Eidgenossen; Wallis wollte die Vermittlung nicht annehmen, sondern bei den eroberten Landen bleiben. Daher will man den Antrag heimbringen, daß eine Botschaft aller eidgenössischen Orte nach Sitten geschickt werden soll, um die Landschaft zur Annahme eidgenössischer Vermittlung zu bewegen. Es wird darum ein Tag nach Lucern auf Dienstag nach St. Ulrich (7. Juli) angesetzt; was da beschlossen wird, soll man von Lucern aus nach Sitten verkünden. Inzwischen soll der Waffenstillstand bis St. Michaelstag von beiden Parteien gehalten werden.",
+   "preklad": "e. Mezi biskupem sionským a jeho zemí na jedné straně a Savojskem na straně druhé se na tomto sněmu mnoho jednalo: Savojsko nabídlo přátelství a soudní řízení před všemi Spříseženci; Wallis však zprostředkování přijmout nechtěl a chtěl si ponechat dobyté země. Proto se má doma předložit návrh, aby se do Sionu vyslalo vyslanectví všech míst (kantonů) Spříseženců, které by zemi pohnulo k přijetí zprostředkování Spříseženců. Proto se svolává sněm do Luzernu na úterý po sv. Oldřichovi (7. července); co se tam usnese, má se z Luzernu oznámit do Sionu. Mezitím mají obě strany dodržovat příměří až do sv. Michala."
+  },
+  {
+   "text": "f. „Item vergessen nitt anzubringen, das Bernhartten Wyler, dem Schiffmann, bezalt werd das Schiff, So Im zu Nidow genommen vnd mit miner Herren von Zürich vnd Lucern Büchsen hinweggevertigt ist; bringt nün Gulden denselben beyden Stetten zu bezalen.“",
+   "preklad": "f. „Dále nezapomeňte přednést, aby lodníkovi Bernhartu Wylerovi byla zaplacena loď, která mu byla vzata v Nidau a na níž byla odvezena děla mých pánů z Curychu a Luzernu; činí to devět zlatých, které mají zaplatit tatáž dvě města.“"
+  },
+  {
+   "text": "11. Baden. 1478, 31. Mai. Die Jahresrechnung. Die Acten fehlen. Siehe 6 c. k.",
+   "preklad": "**č. 11 – Baden, 31. 5. 1478.** Výroční vyúčtování. Akta chybějí. Viz č. 6 c, k."
+  }
+ ],
+ "poznamky": [
+  "Konce řádků ověřeny podle obrázku (OCR dobrý, opraveny Hochberg, Obwalden, Glarus aj.).",
+  "Data: Letnice 1478 = 10. 5., čtvrtek před nimi = 7. 5.; svatodušní pondělí = 11. 5.; sv. Urban = 25. 5.; sv. Oldřich = 4. 7. (sobota), úterý po něm = 7. 7. 1478 (sněm se nakonec konal ve středu 8. 7., č. 13); sv. Michal = 29. 9.",
+  "Bod i: „Burgrecht mit Freiburg und Solothurn“ = spolek měst Curych, Bern, Luzern s Fribourgem a Solothurnem z r. 1477; pět měst ho obhajuje před zemskými obcemi venkovských míst (mimo text). Odkaz „Zu b.“ je u Segessera k bodu b tohoto záznamu (silnice) [?].",
+  "Bläwenstein – blíže neurčená osoba (možná Blauenstein) [?].",
+  "Bod a: penze = roční peníze slíbené Ludvíkem XI.; biskup z Albi = Louis d'Amboise; „Präsident von Toulouse“ = předseda parlamentu v Toulouse (mimo text) [?].",
+  "Valendis = Valangin; mladý pán = syn hraběte Hanse (Jana) z Aarbergu-Valangin, zřejmě rukojmí/zajatec z burgundských válek (mimo text) [?]. Markgraf Rudolf von Hochberg = Rudolf IV. Hachberg, hrabě neuchâtelský, který měl i burgundská léna (mimo text).",
+  "Bod e: Sitten = Sion; „dobyté země“ = Dolní Wallis dobytý na Savojsku r. 1475 (mimo text).",
+  "Bod f: Nidow = Nidau (u Bielského jezera); děla Curychu a Luzernu odvezena lodí (snad po válce 1476) – „Büchsen“ zde děla."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 189,
+ "svazek": "2",
+ "strana": 559,
+ "pdf_strana": 587,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1475,
+ "zahlavi": "September 1475. 559",
+ "nadpis": "Fortsetzung Nr. 808 (Lucern, 4. Sept. 1475): Hug von Landenberg, Lehen im Thurgau, Liebenfels, Savoyen, Constanzer Bisthumsstreit",
+ "nadpis_preklad": "pokračování č. 808 (Luzern, 4. 9. 1475) – Hug von Landenberg, léna v Thurgau, Liebenfels, Savojsko, spor o kostnické biskupství",
+ "odstavce": [
+  {
+   "text": "das nicht thun, so sollen die Boten auf nächsten Tag wieder Vollmacht erhalten, in der Sache zu handeln.",
+   "preklad": "… to učinit, mají vyslanci na příští sněm opět dostat plnou moc v té věci jednat."
+  },
+  {
+   "text": "c. Herr Hug von Landenberg, welcher durch den Götzen, der zu Baden gefangen ist, beschuldigt wird, an der Gefangennahme des Leutpriesters zu Frauenfeld Schuld zu haben, anerbietet sich, seine Unschuld mit Zeugen zu beweisen, wenn man die Kundschaften anhören wolle. Man sagt ihm nichts weiter zu, als man wolle sein Anerbieten heimbringen, erneuert und verlängert ihm aber das Geleit bis auf St. Gallentag. Auf dem nächsten Tag soll man dann antworten, ob man seine Verantwortung und Kundschaft weiter anhören oder ihm die Vergicht zu Baden vorhalten wolle. Sein Begehren, ihn in das Gut seiner Kinder einzusetzen, läßt man auch ruhen bis zum Austrag obgemeldeter Sache; doch hat man dem Landammann im Thurgau befohlen, daß er die Kinder bei dem Gut schirme nach Laut des ihnen darüber gegebenen Briefes.",
+   "preklad": "c. Pan Hug von Landenberg, kterého Götz, vězněný v Badenu, obviňuje ze spoluviny na zajetí lidového kněze (faráře) ve Frauenfeldu, nabízí, že svou nevinu prokáže svědky, budou-li jejich výpovědi vyslechnuty. Nepřislibuje se mu nic víc, než že jeho nabídku předloží doma svým pánům; obnovuje a prodlužuje se mu však glejt až do dne sv. Havla. Na příštím sněmu se pak má odpovědět, zda se jeho obhajoba a svědectví budou dále slyšet, nebo zda se mu předloží výpověď (Vergicht) [vězně] z Badenu. Jeho žádost, aby byl uveden do statku svých dětí, se rovněž odkládá až do vyřízení výše uvedené věci; zemskému úředníkovi v Thurgau však bylo nařízeno, aby děti při tom statku chránil podle znění listu, který jim o tom byl vydán."
+  },
+  {
+   "text": "d. Der Lehen im Thurgau wegen, welche die Herrschaft zu leihen meint, wir aber dem Landvogte zu leihen befohlen haben, soll man zu Rath werden, wie man die leihen wolle; man soll die Sache ordnen; ein Schreiber, er sei von Zürich, Lucern oder aus einem andern Orte, welcher der Eidgenossen Nutzen und Ehre zu bedenken wisse, soll dabei sein und ein Urbarbuch aufstellen, damit man in Zukunft sich daran halten könne. Inzwischen soll der Schreiber von Lucern in dem (österreichischen) Urbar suchen, was sich der Lehen wegen darin findet.",
+   "preklad": "d. Ohledně lén v Thurgau, která hodlá udělovat [rakouské] panství, kdežto my jsme jejich udělování svěřili zemskému fojtovi, je třeba se poradit, jak je chceme udělovat; věc se má uspořádat. Má u toho být písař – ať z Curychu, Luzernu, nebo z jiného místa (kantonu) –, který umí dbát užitku a cti Spříseženců, a má sestavit urbář, aby se ho napříště bylo možno držet. Mezitím má luzernský písař vyhledat v (rakouském) urbáři, co se v něm o lénech nachází."
+  },
+  {
+   "text": "e. Des Lanz und seines Schlosses Liebenfels wegen ist derer von Constanz Botschaft abermals hier gewesen und hat begehrt, daß dem Lanz und seiner Ehefrau das Ihrige wieder zurückgestellt werde, indem wir nie Jemanden, der sich vor uns zu Recht erboten, rechtlos gelassen hätten &c., und damit der Lanz nicht veranlaßt werde, sein Recht weiter zu suchen &c. Man hat darüber gerathschlagt und mit Schwyz, Zug und Glarus geredet, weil der Lanz Recht geboten und sie das Recht auf Uri aufgenommen haben, so möchten sie mit den Ihrigen reden, gütlich von Liebenfels abzuziehen, und betrachten, „dz nieman verbunden ist, verpfant zu Recht zu kommen“.",
+   "preklad": "e. Kvůli Lanzovi a jeho hradu Liebenfels zde bylo opět poselstvo z Kostnice a žádalo, aby Lanzovi a jeho manželce bylo jejich vráceno, neboť jsme prý nikdy nikoho, kdo se před námi nabídl k právu, nenechali bez práva atd., a aby Lanz nebyl přinucen hledat své právo dále atd. Poradili se o tom a jednali se Schwyzem, Zugem a Glarusem: protože Lanz nabídl právní řízení a oni přijali Uri za rozhodčího, ať promluví se svými lidmi, aby z Liebenfelsu po dobrém odtáhli, a ať uváží, „že nikdo není povinen jít k soudu, když je jeho majetek zastaven (obsazen)“."
+  },
+  {
+   "text": "f. Da die Herzogin von Savoyen sich bei uns um einen Frieden mit dem Herzog von Burgund bemüht, so hat man beschlossen, sie gütlich anzuhören, wenn sie ferner uns nachreiten und Tag setzen lassen wird. Man soll ihren Boten die Vereinigung mit dem König von Frankreich, die Richtung mit dem Herzog von Oesterreich und die Vereinigung mit den Fürsten und Städten vorhalten und mit ihnen dergestalt reden, daß man gründlich erkenne, „was hinder Inen sye“. Denen von Unterwalden ist aufgetragen, ihnen dieses zu antworten und ihnen nach Lucern um die Sache Tag zu setzen.",
+   "preklad": "f. Protože se savojská vévodkyně u nás snaží o mír s vévodou Burgundským, bylo usneseno vyslechnout ji vlídně, bude-li k nám dále posílat posly a dávat určit sněm. Jejím vyslancům se má předestřít spolek s králem francouzským, narovnání s vévodou rakouským a spolek s knížaty a městy (Dolní spolek) a jednat s nimi tak, aby se důkladně poznalo, „co se za nimi skrývá“. Unterwaldenským bylo uloženo, aby jim to odpověděli a určili jim kvůli této věci sněm v Luzernu."
+  },
+  {
+   "text": "g. Des Tages wegen, welchen die Räthe der Herrschaft dieser schweren Kriegsläufe wegen zu leisten begehren, wie zu Schaffhausen geredet ist, will man die Ansetzung desselben gewärtigen und inzwischen zu Rath werden, ob man den Tag besuchen oder was man thun wolle.",
+   "preklad": "g. Pokud jde o sněm, který si rady [rakouského] panství kvůli těmto těžkým válečným časům přejí konat, jak se mluvilo v Schaffhausenu, chtějí vyčkat jeho vypsání a mezitím se poradit, zda sněm obeslat, nebo co učinit."
+  },
+  {
+   "text": "h. Die Boten des Capitels und des Erwählten von Constanz haben wiederum Klagen angebracht gegen den von Freiberg, er mache Neuerungen, fange Priester und nehme ihnen das Ihrige, versuche die Gerichte von Constanz in des Herzogs von Oesterreich Schloß zu Zell zu bringen, unterfange sich zu weihen und Weihebriefe auszustellen, alles wider den Abschied von Schaffhausen. Man möchte ihn an seinem Beginnen hindern oder sie müßten Gewalt brauchen. Sie haben auch eine Schrift hören lassen, wie sich der Kaiser und die Kurfürsten der Sache wider den von Freiberg angenommen haben, indem sie das Bisthum Constanz und alle deutschen Lande bei ihren Pfründen und Freiheiten schirmen wollen. Sie haben endlich begehrt, man möchte ihnen Fürderniß­briefe an den Papst geben, wie vormals; denn der Kaiser und die Kurfürsten hätten dem Papste auch geschrieben, wenn er den von Sonnenberg nicht bestätigen wolle, so werden sie ihn schirmen und ihm die Regalien leihen. Darauf hat man ihnen geantwortet, die Sachen seien uns leid, man wolle",
+   "preklad": "h. Vyslanci kapituly a zvoleného [biskupa] kostnického opět vznesli stížnosti na pana von Freiberg: zavádí prý novoty, zajímá kněze a bere jim jejich majetek, snaží se přenést kostnické soudy na hrad vévody rakouského v Zellu, osobuje si právo světit a vydávat svěcenecké listy – vše proti výnosu ze Schaffhausenu. Ať mu prý v jeho počínání zabráníme, jinak budou muset použít násilí. Dali také přečíst spis o tom, jak se císař a kurfiřti ujali věci proti panu von Freiberg, neboť chtějí kostnické biskupství i všechny německé země chránit při jejich obročích a svobodách. Nakonec žádali, abychom jim dali přímluvné listy k papeži jako dříve; neboť i císař a kurfiřti prý papeži napsali, že nebude-li chtít pana von Sonnenberg potvrdit, budou ho chránit a udělí mu regálie. Nato jim bylo odpovězeno, že nás ty věci mrzí a že chceme"
+  }
+ ],
+ "poznamky": [
+  "Strana pokračuje záznamem č. 808 (Luzern, 4. 9. 1475), konec bodu b. a body c.–h.",
+  "Bod c.: „Götz“ – vězeň v Badenu (srov. č. 803 a, kap. 186); den sv. Havla = 16. 10. 1475. „Landammann im Thurgau“ – v edici tak, ač správně jde o zemského fojta v Thurgau [?]; ponecháno.",
+  "Bod e.: Hans Lanz a hrad Liebenfels (Thurgau), který obsadili knechti ze Schwyzu, Zugu a Glarusu (srov. kap. 181, 185). Citát = zásada, že nikdo není povinen stát před soudem, dokud je jeho majetek zabaven.",
+  "Bod f.: „Vereinigung mit den Fürsten und Städten“ = Dolní spolek (1474); „Richtung“ = Věčné narovnání s Rakouskem (1474) (mimo text).",
+  "Bod h.: Zell = Radolfzell (rakouské město u Bodamského jezera) (mimo text); spor biskupů Ludwiga von Freiberg a Oty von Sonnenberg.",
+  "OCR opraveno podle skenu: „Vergicht“ (OCR „Verzicht“), „Austrag“, „schirmen und“ (OCR „lehn nun“), „Fürderniß­briefe“, „sye“, „Lande“."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

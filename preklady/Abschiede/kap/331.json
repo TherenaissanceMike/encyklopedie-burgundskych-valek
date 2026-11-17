@@ -1,0 +1,62 @@
+{
+ "cislo": 331,
+ "svazek": "2",
+ "strana": 701,
+ "pdf_strana": 729,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "Oktober 1477. ttl« Zürich. R47 7, IS October (Monwg vor Gally.",
+ "nadpis": "Nr. 916 Zürich, 13. Oct. 1477 (Ewige Vereinigung mit Herzog Sigmund); Nr. 917 Zürich, 16. Oct. 1477 (Anfang): a–i",
+ "nadpis_preklad": "č. 916 Curych, 13. 10. 1477 – věčný spolek s vévodou Zikmundem Rakouským; č. 917 Curych, 16. 10. 1477 (začátek): body a–i – výpravy z hrabství Baden, Savojsko a Vaud, opat ze St. Gallen, Schaffhausen, prodej diamantu, spolek s Rakouskem, Eptingen proti Württembersku, francouzské poselstvo",
+ "odstavce": [
+  {
+   "text": "916. Zürich. 1477, 13. October (Montag vor Galli).",
+   "preklad": "**č. 916 – Curych, 13. 10. 1477** (pondělí před sv. Havlem)."
+  },
+  {
+   "text": "Ewige Vereinigung und Verständniß mit gegenseitiger Hülfsverpflichtung gegen Angreifer zwischen Herzog Sigmund von Oesterreich für sich und seine Erben einerseits, und den Städten und Orten Zürich, Bern, Lucern, Uri und Solothurn andererseits. — Beilage 66.",
+   "preklad": "Věčný spolek a dohoda se vzájemným závazkem pomoci proti útočníkům mezi vévodou Zikmundem Rakouským za sebe a své dědice na jedné straně a městy a místy (kantony) Curychem, Bernem, Luzernem, Uri a Solothurnem na straně druhé. — Příloha 66."
+  },
+  {
+   "text": "917. Zürich. 1477, 16. October (St. Gallentag). Staatsarchiv Lucern: Allgemeine Abschiede, B. 146.",
+   "preklad": "**č. 917 – Curych, 16. 10. 1477** (den sv. Havla). Státní archiv Luzern: Všeobecné výnosy B. 146."
+  },
+  {
+   "text": "a. Der Vogt von Baden fragt an, wie er sich gegenüber denjenigen zu verhalten habe, welche wider Verbot aus der Grafschaft Baden in Kriege gelaufen sind. b. Dem Jörg Beck soll man aus den Orten, von denen er es verlangt, Boten, nicht Briefe, nach Basel geben.",
+   "preklad": "a. Fojt v Badenu se táže, jak má naložit s těmi, kdo proti zákazu odešli z hrabství Baden do válek. b. Jörgu Beckovi se mají z míst, od nichž to žádá, dát do Basileje vyslanci, nikoli listy."
+  },
+  {
+   "text": "c. Die Boten von Savoyen verlangen, daß man ihnen das Land der Waadt zu ihren Handen kommen lasse, dann wollen sie auf nächste Lichtmesse 25,000 Gulden und von da über ein Jahr auch auf Lichtmesse 25,000 Gulden geben und dieses nach aller Nothdurft versichern, sei es durch Verpfändung des Landes oder durch Bürgen. Jedes Ort soll auf nächsten Tag hierüber seine Antwort geben, Bern sodann dieselbe der Frau und dem jungen Herzog von Savoyen zuschreiben.",
+   "preklad": "c. Vyslanci Savojska žádají, aby jim byla země Vaud ponechána do rukou; pak chtějí na příští Hromnice dát 25 000 zlatých a za rok opět na Hromnice 25 000 zlatých a zajistit to vším potřebným, ať zástavou země, nebo rukojmími. Každé místo má o tom na příštím sněmu dát svou odpověď a Bern ji pak má písemně sdělit paní [vévodkyni] a mladému vévodovi savojskému."
+  },
+  {
+   "text": "d. Der Abt von St. Gallen bittet, man möchte mit denen von St. Gallen reden, daß sie keine Leute aus seinen Gerichten zu Burgern annehmen, und die Gotteshausleute weisen, das Burg- und Landrecht mit den vier Orten mit Eiden zu erneuern.",
+   "preklad": "d. Opat ze St. Gallen prosí, aby se promluvilo s městem St. Gallen, aby nepřijímalo za měšťany lidi z jeho soudních obvodů, a aby se klášterním poddaným (lidem Božího domu) uložilo obnovit přísahou měšťanské a zemské právo se čtyřmi místy."
+  },
+  {
+   "text": "e. Die von Schaffhausen meinen, wir sollen einen Tag ansetzen, um mit ihnen über Verlängerung ihres Verständnisses mit den Eidgenossen und über Abänderung einiger darin enthaltenen Artikel zu rathschlagen; auch würden sie gerne sehen, wenn Uri und Unterwalden ebenfalls beitreten wollten. Darüber soll auf dem nächsten Tag geantwortet werden.",
+   "preklad": "e. Schaffhausenští míní, že bychom měli stanovit sněm, abychom se s nimi poradili o prodloužení jejich dohody se Spříseženci a o změně některých článků v ní obsažených; také by rádi viděli, kdyby k ní chtěly přistoupit i Uri a Unterwalden. Odpověď na to se má dát na příštím sněmu."
+  },
+  {
+   "text": "f. Rudolf von Wippingen von Freiburg bringt an, der Diamant würde seines Erachtens 15,000 Gulden gelten. Man trägt ihm auf, daß er mehr dafür zu erhalten trachte; möchte das nicht sein, so will man den Stein um 15,000 Gulden geben.",
+   "preklad": "f. Rudolf von Wippingen z Fribourgu přednáší, že diamant by podle jeho mínění měl cenu 15 000 zlatých. Ukládá se mu, aby se snažil získat za něj více; nebude-li to možné, chtějí ten kámen dát za 15 000 zlatých."
+  },
+  {
+   "text": "g. „Item vnser eidgnossen von Zürich, Bern, Lutzern vnd Vre haben minem gnädigen Herren von Oesterrich die ewige verstentnuß, wie die zuletst der abscheid zu Lutzern gewesen ist, zugesagt, die brieff vfgericht vnd sind zu versigeln underwegen. Vnd habent der fürst vnd sy einander nachgelassen, ob vnd wenn die andern ort vnser eitgnosschafft dar In wellent, das sy dann die dar In ouch lassen wellint. Das söllent die botten der Herren, die noch nit dar In sind, ernstlich heimbringen, das sy in solich bericht ouch fürderlich gangint vnd sich von den andern nit sundrint.“",
+   "preklad": "g. „Dále naši spříseženci z Curychu, Bernu, Luzernu a Uri přislíbili mému milostivému pánu rakouskému věčnou dohodu, jak zněl poslední výnos v Luzernu; listiny jsou sepsány a chystají se k zapečetění. A kníže i oni si navzájem povolili, že pokud a kdy budou chtít přistoupit ostatní místa našeho Spříseženstva, chtějí je také přijmout. To mají vyslanci pánů, kteří v tom ještě nejsou, vážně předložit doma, aby do takového narovnání také brzy vstoupili a neoddělovali se od ostatních.“"
+  },
+  {
+   "text": "h. Da Herr Hermann von Eptingen mit dem Grafen Eberhard von Württemberg zu Urach vor denen von Constanz im Recht steht und gebeten hat, ihm und seinen Mithaften zum Beistand in ihren Kosten Boten zu geben, ist ihnen bewilligt, solche nach Belieben aus jedem Ort der ganzen Vereinigung zu nehmen.",
+   "preklad": "h. Protože pan Hermann von Eptingen vede s hrabětem Eberhardem Württemberským z Urachu spor před Kostnickými a prosil, aby jemu a jeho spoluručitelům (spoluúčastníkům) byli na jejich náklady dáni vyslanci k podpoře, bylo jim povoleno vzít si je podle libosti z kteréhokoli místa celého Dolního spolku."
+  },
+  {
+   "text": "i. Auf diesem Tage ist eine Botschaft des Königs von Frankreich erschienen, nämlich Herr Jost von Silinon, Bischof zu Grenoble, und der Herr von Rochechouart. Sie haben im Namen des Königs angebracht, was folgt: Erstlich möchte man die Knechte,",
+   "preklad": "i. Na tomto sněmu se dostavilo poselstvo krále francouzského, totiž pan Jost von Silinon, biskup grenobelský, a pán z Rochechouartu. Jménem krále přednesli toto: Za prvé ať se knechti, …"
+  }
+ ],
+ "poznamky": [
+  "Čísla záznamů, hlavičky a konce řádků doplněny z obrázku; OCR četlo sumy chybně (26 000 a 16 000), obraz má 25 000 a 15 000 zlatých. Data: pondělí před sv. Havlem (16. 10., čtvrtek) = 13. 10. 1477; den sv. Havla = 16. 10. 1477; Hromnice = 2. 2. 1478 a 2. 2. 1479. Diamant = patrně velký diamant z burgundské kořisti od Grandsonu, který prodával Rudolf von Wippingen (mimo text). V citátu bodu g jsou jako přistoupivší uvedeny Curych, Bern, Luzern a Uri, kdežto Beilage 66 (č. 916) jmenuje Curych, Bern, Luzern, Uri a Solothurn (nesoulad ponechán). „Vor denen von Constanz im Recht“ = rozhodčí řízení před Kostnicí. „Jost von Silinon“ = Jost von Silenen, biskup z Grenoblu (mimo text); „der Herr von Rochechouart“ = francouzský šlechtic z rodu Rochechouart [?]."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

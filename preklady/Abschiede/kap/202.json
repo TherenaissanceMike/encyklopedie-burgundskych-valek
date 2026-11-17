@@ -1,0 +1,57 @@
+{
+ "cislo": 202,
+ "svazek": "2",
+ "strana": 572,
+ "pdf_strana": 600,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1475,
+ "zahlavi": "572 November 1475. Areiburq. 147S, T4 November.",
+ "nadpis": "Nr. 821 Freiburg, 24. Nov. 1475: Unterhandlungen Savoyen–Bern–Wallis; Nr. 822 Welsch-Neuenburg, 26. Nov. 1475: Tag mit dem Markgrafen Rudolf; Nr. 823 Baden, 30. Nov. 1475: Eide zu Kaiserstuhl, Klingnau und Zurzach",
+ "nadpis_preklad": "č. 821 Fribourg, 24. 11. 1475 – neúspěšná jednání Savojsko–Bern–Wallis o příměří; č. 822 Neuchâtel, 26. 11. 1475 – sněm s markrabětem Rudolfem o příměří s Burgundskem; č. 823 Baden, 30. 11. 1475 – přísahy lidí v Kaiserstuhlu, Klingnau a Zurzachu",
+ "odstavce": [
+  {
+   "text": "821. Freiburg. 1475, 24. November. Schilling: Burgunderkrieg, 254, 255.",
+   "preklad": "**č. 821 – Fribourg, 24. 11. 1475.** Schilling: Burgundská válka, s. 254, 255."
+  },
+  {
+   "text": "Erfolglose Unterhandlungen zwischen Savoyen, Bern und Wallis über einen Waffenstillstand. Das Project des Stillstands zwischen Savoyen und dem Bischof von Wallis s. ebendaselbst.",
+   "preklad": "Neúspěšná jednání mezi Savojskem, Bernem a Wallisem o příměří. Návrh příměří mezi Savojskem a biskupem z Wallisu viz tamtéž."
+  },
+  {
+   "text": "822. Welsch-Neuenburg. 1475, 26. November. Schilling: Burgunderkrieg, 258.",
+   "preklad": "**č. 822 – Neuchâtel (Welsch-Neuenburg), 26. 11. 1475.** Schilling: Burgundská válka, s. 258."
+  },
+  {
+   "text": "Tag gemeiner Eidgenossen und der Vereinigung mit dem Markgrafen Rudolf von Neuenburg auf dessen Werbung und nach dem Begehren etlicher Burgunder, behufs Vermittlung eines Waffenstillstands oder Friedens mit Burgund. Vorschlag eines Waffenstillstands auf drei Monate unter Vorbehalt der Genehmigung aller streitenden Theile.",
+   "preklad": "Sněm všech Spříseženců a Dolního spolku s markrabětem Rudolfem z Neuchâtelu na jeho návrh a na žádost několika Burgunďanů, za účelem zprostředkování příměří nebo míru s Burgundskem. Návrh příměří na tři měsíce s výhradou schválení všemi válčícími stranami."
+  },
+  {
+   "text": "Vergleiche oben Abschied 817 a, unten Abschied 825 a.",
+   "preklad": "Srovnej výše výnos č. 817 a, níže výnos č. 825 a."
+  },
+  {
+   "text": "823. Baden. 1475, 30. November (vff Sant Andrestag). Archiv Aarau: Urbar der Grafschaft Baden, 39.",
+   "preklad": "**č. 823 – Baden, 30. 11. 1475** (na den sv. Ondřeje). Archiv Aarau: Urbář hrabství Baden, 39."
+  },
+  {
+   "text": "Die Eide der Leute zu Kaiserstuhl, Klingnau und Zurzach gegenüber dem Bischof von Constanz und den acht Orten der Eidgenossenschaft werden festgesetzt und jedem Theil ein aus dem andern geschnittener Zedel mit der Formel gegeben. Darauf wird den Leuten bei ihren Eiden geboten, mit Niemanden in einen Krieg zu laufen ohne des Vogts von Baden Wissen und Erlauben, und wer irgend eine Zwietracht oder ein Zerwürfniß inne würde, der soll sie nach bestem Vermögen wenden oder stillen.",
+   "preklad": "Stanovují se přísahy lidí v Kaiserstuhlu, Klingnau a Zurzachu vůči biskupovi kostnickému a osmi místům (kantonům) Spříseženstva a každé straně se dává cedule s formulí, vyříznutá z druhé (vrubová cedule). Nato se lidem při jejich přísaze přikazuje, aby s nikým neodbíhali do války bez vědomí a dovolení badenského fojta; a kdo by se dozvěděl o nějakém sváru nebo roztržce, má ji podle svých nejlepších sil odvrátit nebo utišit."
+  },
+  {
+   "text": "Die Formel lautet: „Ir werdent sweren ytz vnserm gnedigen Herren von Costenz als üwerm rechten Herren stätte trüw vnd warheit zu halten, siner gnaden vnd der stifte nutz zefürdern vnd schaden zu wenden vnd ze warnen nach allem vermügen vngefarlich, sinen gnaden vnd iren reten, vögten vnd amptlüten an siner gnaden statt in allen zimlichen geboten vnd sachen gehorsam vnd gewertig zu sind vnz an sin end vnd deßglichen nach siner gnaden abgang mit dem schloß niemands gewertig zu sind, denn dem merteil des Capitels, vnz an einen künftigen herren, der üch von inen verkünt wirt, doch hindan gesetzt die eidgnosschaft von des huß Baden wegen, den sol der eid in allweg an ir gerechtigkeit vnd hohen gerichten ganz one schaden sin, alles vngeuarlich.",
+   "preklad": "Formule zní: „Budete nyní přísahat našemu milostivému pánu kostnickému jako svému pravému pánu, že mu zachováte stálou věrnost a pravdu, budete podle všech svých sil bez lsti podporovat užitek Jeho Milosti a biskupství, odvracet škodu a varovat [před ní], Jeho Milosti a jeho radům, fojtům a úředníkům na místě Jeho Milosti ve všech přiměřených příkazech a věcech budete poslušni a k službám až do jeho skonání; a rovněž po skonu Jeho Milosti nebudete s hradem nikomu k službám než většině kapituly, až do budoucího pána, kterého vám oznámí; vyjímá se však Spříseženstvo kvůli badenskému hradu (des huß Baden): tomu nemá přísaha v žádném ohledu škodit na jeho právech a hrdelním soudnictví, vše bez lsti."
+  },
+  {
+   "text": "Ir werdent sweren gemeinen eidtgnossen, den acht orten, trüw vnd warheit, Iren nutz zu fürdern vnd schaden zu wenden vnd irem vogt vnd amptman, so sy habendt zu Baden, zu den hohen gerichten gehorsam vnd gewertig zu sind, die helffen fertigen nach dem vnd sich daz gepürt, alles getrüwlich, doch vnserm gnedigen Herrn von Costenz vnd der stifft daselbs an aller herrlicheit, gerichten vnd rechten one allen schaden.“",
+   "preklad": "Budete přísahat všem Spřísežencům, osmi místům, věrnost a pravdu, podporovat jejich užitek a odvracet škodu a jejich fojtovi a úředníkovi, kterého mají v Badenu, být ve věcech hrdelního soudnictví poslušni a k službám a pomáhat je vykonávat, jak se sluší, vše věrně, avšak bez jakékoli škody našemu milostivému pánu kostnickému a tamějšímu biskupství na všech panských právech, soudech a právech.“"
+  }
+ ],
+ "poznamky": [
+  "Č. 821 a 822 jsou jen regesty podle Schillingovy Burgundské války (Diebold Schilling, Bern). 24. 11. 1475 = pátek, 26. 11. 1475 = neděle.",
+  "Č. 822: Welsch-Neuenburg = Neuchâtel (na rozdíl od Neuenburgu am Rhein). Markrabě Rudolf = Rudolf Hochberský (z Rötteln). Srov. č. 817 a (kap. 198–199).",
+  "Č. 823: sv. Ondřej = čtvrtek 30. 11. 1475. Kaiserstuhl, Klingnau, Zurzach – městečka kostnického biskupství v Badenském hrabství; vrchní (hrdelní) soudnictví měli Spříseženci jako páni hrabství. „aus dem andern geschnittener Zedel“ = vrubová cedule (chirograf), dvě vyhotovení rozstřižená napříč.",
+  "Formule čtena ze skenu (drobný tisk, místy obtížně čitelný): „ze warnen“, „zimlichen“, „merteil“, „huß Baden“ [?]."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

@@ -1,0 +1,57 @@
+{
+ "cislo": 105,
+ "svazek": "2",
+ "strana": 475,
+ "pdf_strana": 503,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1474,
+ "zahlavi": "Februar und März 1474. 475",
+ "nadpis": "Fortsetzung Nr. 735 (Constanz, Februar und März 1474) – a. letzter Abschied von Constanz: Richter, Hilfe um Sold, Briefe, Besitzstand, Pfandlösung, Zölle",
+ "nadpis_preklad": "pokračování č. 735 (Kostnice, únor a březen 1474) – a. poslední kostnický výnos: rozhodčí, pomoc za žold, vydání listin, zachování dobytého, vyplacení zástavy, cla",
+ "odstavce": [
+  {
+   "text": "Vnd vmb des willen, dz die verwilkürten Richter im vstrag bestimpt in Beladung solicher spennigen Hendel in iren sprüchen vnd übungen dester fryer syend, so söllend allwegen die spennigen partyen in Ingang der rechtlichen vstrage sich gen denselben angenomenen Richtern schriftlich verbinden, von solicher Sprüch wegen dieselben Richter darumb nit zu vechen oder darumb Inen einichen argen willen oder vnfug zuzemessen.",
+   "preklad": "A aby rozhodčí, dobrovolně zvolení a určení k rozhodčímu řízení, byli při projednávání takových sporných věcí ve svých výrocích a jednání tím svobodnější, mají se sporné strany vždy na začátku soudního řízení vůči těmto přijatým rozhodčím písemně zavázat, že je kvůli jejich výrokům nebudou stíhat nepřátelstvím ani jim přičítat nějakou zlou vůli nebo bezpráví."
+  },
+  {
+   "text": "Item vnd ob vnser gnediger Herr von Oesterrich in siner gnaden geschefften der Eitgnosschaft Hilff notturftig wurde sin, dz si die sinen gnaden tun wöllen vff siner gnaden sold, wie die Eitgnosschaft sölich solde in Iren eigenen geschefften geben, getrüwlich vnd vngefarlich.",
+   "preklad": "Rovněž, kdyby náš milostivý pán Rakouský ve svých záležitostech potřeboval pomoc Spříseženstva, že mu ji chtějí poskytnout za žold placený Jeho Milostí, a to takový, jaký Spříseženstvo dává ve svých vlastních záležitostech, věrně a bez úskoku."
+  },
+  {
+   "text": "Item die Eitgnosschaft sollen ouch vnserm gnedigen Herrn von Oesterrich überantwurten alle brieffe, vrberbücher, register vnd geschrifften, so sy innhabend vnd der Herrschaft von Oesterrich zustant, vnd ob sy eynicherley brieffe, bücher oder geschriften yemant anderm übergeben hetten, dz sollend sy sinen fürstlichen gnaden ouch offnen getrüwlich vnd on geverde, vsgescheiden die brieff, rödel oder geschriften, so die inhabenden lande, Stett vnd slos der eidgnossen besagend.",
+   "preklad": "Rovněž má Spříseženstvo vydat našemu milostivému pánu Rakouskému všechny listiny, urbáře, rejstříky a spisy, které má v držení a které náležejí rakouskému panství; a kdyby nějaké listiny, knihy nebo spisy předalo někomu jinému, má to Jeho knížecí Milosti rovněž věrně a bez lsti oznámit – s výjimkou listin, svitků (rodelů) nebo spisů, které se týkají zemí, měst a hradů, jež Spříseženci drží."
+  },
+  {
+   "text": "Item das ouch beid partyen by allen Iren landen, Slossen vnd Stetten, dörffern vnd merkten, so sy in vergangnen ziten zu Iren handen erobret vnd bracht haben, bliben, ouch den verschribungen, so bede teil von einandern habent, nachkomen sollent an Intrag.",
+   "preklad": "Rovněž, že obě strany zůstanou při všech svých zemích, hradech a městech, vsích a městysech, které v minulých dobách dobyly a získaly do svých rukou, a že také mají bez námitek dostát úpisům, které obě strany od sebe navzájem mají."
+  },
+  {
+   "text": "Item vnd das ouch dewedre partye, noch ir zugehörigen vnd mithaften die ander partye vnd Ir mithaften durch Ir Stett, Slos vnd lande dheins wegs bekriegen, beschädigen, vechen oder in einich wise an lib oder gut beleidigen lassen sol.",
+   "preklad": "Rovněž, že žádná ze stran ani její poddaní a spojenci nesmějí dopustit, aby druhá strana a její spojenci byli z jejich měst, hradů a zemí jakkoli válečně napadáni, poškozováni, stíháni nepřátelstvím nebo jakkoli zraňováni na těle či statku."
+  },
+  {
+   "text": "Item vnd das ouch dewedrer partye fürer niemans die Sinen in büntnus, burgrecht, lantrecht, schutz, schirm, noch versprechen annemen sol, dem andern zu schaden vnd vnfug, es were denn, dz yemans hinder den andern mit sinem hushablichen sitz ziechen wolte, den gerichten, darin ein Jeder sins sitzes halb von alter gehört hat, vnverdinget.",
+   "preklad": "Rovněž, že žádná ze stran nemá napříště přijímat poddané druhé strany do spolku, měšťanského práva (burgrecht), zemského práva (lantrecht), ochrany, záštity ani přímluvy ke škodě a křivdě druhé strany – ledaže by se někdo chtěl se svým trvalým bydlištěm přestěhovat pod druhou stranu, a to bez újmy soudům, k nimž každý podle svého sídla odedávna patřil."
+  },
+  {
+   "text": "Item vnd ob darüber deweder partye oder die Iren durch der andern partye Stett vnd lender bekriegt oder beschediget wurde, wen dann das derselben partye, da es beschech, zewüssen getan wurde vnd den vögten vnd amptlüten verkündet, vnd da die däter begriffen möchten werden, dz dann das beschech vnd demnoch dieselben beschediger darumb vffgehalten vnd gestraft werden nach dem Rechten, vnd ouch dhein teil dem andern sin viend oder beschädiger wissentlich nit husen, hoffen, essen, trinken, noch dhein vnderschlup oder hilff tun, noch das yemant gestattigen sol in dhein wis, getrüwlich vnd vngefarlich.",
+   "preklad": "Rovněž, kdyby přesto byla některá strana nebo její lidé válečně napadeni nebo poškozeni z měst a zemí druhé strany: jakmile to bude dáno na vědomí té straně, kde se to stalo, a oznámeno fojtům a úředníkům, a pokud lze pachatele dopadnout, má se tak stát a tito škůdci mají být zadrženi a potrestáni podle práva. A žádná strana nemá nepřátele či škůdce druhé strany vědomě ubytovávat, přechovávat, dávat jim jíst a pít ani jim poskytovat úkryt nebo pomoc, ani to nikomu jakkoli dovolit, věrně a bez úskoku."
+  },
+  {
+   "text": "Item von der widerbringunge des versatzten landes, in was fugen vnd schin dieselbe losung beschechen, vnd wz hilff, Rats vnd zutuns vnser gnediger Herr zu der Eitgnosschaft, wes sich iede partye zu der andern zuversichtigen sol, des haben beid teil von einander bericht genomen der gestalt, dz es schriftlich nit zu verfassen sye, sunder sich yede partye der andern in gutem, erberm glouben darumb vertruwen vnd verlassen mus, dz vnser gnediger Herr von Oesterrich vlis vnd übung haben sol, die bericht zu Waltzhut beschechen, die von Schaffhusen vnd herrn Bilgerin von Höudorff berürende, mit der Eitgnosschaft Rat vnd Hilff zu volziechen.",
+   "preklad": "Rovněž o navrácení zastavené země – jakým způsobem a v jaké podobě se má vyplacení stát a jakou pomoc, radu a součinnost má náš milostivý pán [očekávat] od Spříseženstva a čeho se má která strana od druhé nadít – se obě strany navzájem dorozuměly tak, že to nelze sepsat písemně, nýbrž každá strana musí druhé v dobré a poctivé víře důvěřovat a spoléhat na ni; a že náš milostivý pán Rakouský má vynaložit píli a úsilí, aby s radou a pomocí Spříseženstva provedl narovnání učiněné ve Waldshutu, které se týká Schaffhauských a pana Bilgeriho von Heudorf."
+  },
+  {
+   "text": "Item dz ouch von dewedrer partye vnd den Iren vff die ander partye vnd die Iren dhein nüw zöll noch ander beschwerde gelegt werden sol, sunder dz bliben ze lassen gegen einander, wie von alter har genomen vnd geben worden ist.",
+   "preklad": "Rovněž, že žádná ze stran a jejích lidí nemá na druhou stranu a její lidi uvalovat žádná nová cla ani jiná břemena, nýbrž má se vůči sobě ponechat tak, jak se odedávna bralo a dávalo."
+  }
+ ],
+ "poznamky": [
+  "Pokračování č. 735, text kostnického výnosu (a.). V edici jsou proloženě (zdůrazněně) vysázeny pasáže „den verschribungen … Intrag“ a celý článek o navrácení zastavené země („Item von der widerbringunge … verlassen mus“) – zřejmě Segesserovo zdůraznění.",
+  "„vff siner gnaden sold“ – pomoc Spříseženců Rakousku za žold ve výši, jakou platí sami svým lidem; důležité pro reenactory: Spříseženci se zavazují k žoldnéřské pomoci Habsburkům.",
+  "„vrberbücher“ = urbáře; „rödel“ = svitky, soupisy; „hushablicher sitz“ = trvalé bydliště; „husen, hoffen“ = ubytovat, přechovávat. „Waltzhut“ = Waldshutské narovnání 1468 (mimo text).",
+  "OCR opraveno podle skenu: „verwilkürten“, „übungen“, „Ingang“, „tun“, „getrüwlich“, „anderm“, „vsgescheiden“, „Intrag“, „büntnus“, „zewüssen“, „amptlüten“, „gestattigen“, „Bilgerin“ (OCR „Dilgerin“), „zöll“, „beschwerde“."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

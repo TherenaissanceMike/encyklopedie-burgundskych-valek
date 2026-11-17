@@ -1,0 +1,54 @@
+{
+ "cislo": 327,
+ "svazek": "2",
+ "strana": 697,
+ "pdf_strana": 725,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "September 1477. 697 »R».",
+ "nadpis": "Nr. 913 Turin, 10. Sept. 1477; Nr. 914 Lucern, 10. Sept. 1477 (Anfang)",
+ "nadpis_preklad": "č. 913 Turín, 10. 9. 1477 – propuštění Fribourgu ze savojské podřízenosti; č. 914 Luzern, 10. 9. 1477 – bernská mince, Klingnau, spor s Kolínem, peníze od francouzských vyslanců, 6000 mužů pro krále (začátek)",
+ "odstavce": [
+  {
+   "text": "913. Turin. 1477, 10. September. Archiv Freiburg.",
+   "preklad": "**č. 913 – Turín, 10. 9. 1477.** Archiv Fribourg."
+  },
+  {
+   "text": "Urkunde der gänzlichen und feierlichen Entlassung der Stadt Freiburg und ihres Gebiets aus dem Unterthänigkeitsverhältniß zum Hause Savoyen. — Beilage 65.",
+   "preklad": "Listina o úplném a slavnostním propuštění města Fribourgu a jeho území z poddanského vztahu k savojskému rodu. — Příloha 65."
+  },
+  {
+   "text": "914. Lucern. 1477, 10. September (Mittwoch nach Nativitatis Marie). Staatsarchiv Lucern: Lucerner Abschiede, B. 104. Staatsarchiv Zürich: Tschudische Sammlung I. 47. Stadtarchiv St. Gallen.",
+   "preklad": "**č. 914 – Luzern, 10. 9. 1477** (středa po Narození Panny Marie). Státní archiv Luzern: Luzernské výnosy B. 104. Státní archiv Curych: Tschudiho sbírka I. 47. Městský archiv St. Gallen."
+  },
+  {
+   "text": "Boten: Zürich. Hans Tachelshofer. Bern. Anton Archer; Bartholomäus Huber. Lucern. Heinrich Hasfurter, Schultheiß; Caspar von Hertenstein. Uri. Hans Fries. Schwyz. Cunrad Jacob. Unterwalden. Jenni in Diegischwand; Paul Enentachers. Zug. Der Amptz. Glarus. Hans Kuchli. Freiburg. Jacob Bugnet. Solothurn. Der Stadtschreiber.",
+   "preklad": "Vyslanci: Curych – Hans Tachelshofer. Bern – Anton Archer; Bartholomäus Huber. Luzern – starosta Heinrich Hasfurter; Caspar von Hertenstein. Uri – Hans Fries. Schwyz – Cunrad Jacob. Unterwalden – Jenni in Diegischwand; Paul Enentachers. Zug – úředník [?]. Glarus – Hans Kuchli. Fribourg – Jacob Bugnet. Solothurn – městský písař."
+  },
+  {
+   "text": "a. Der Bernermünze wegen soll Jedermann heimbringen und zu Rath werden, ob man eine gemeine Münze machen oder wie man sich der Münzen wegen halten wolle. Inzwischen sollen die von Bern die Sache ihrer Münze halb anstehen lassen.",
+   "preklad": "a. Kvůli bernské minci má každý věc předložit doma a uradit se, zda se má razit společná mince, nebo jak se má v mincovních věcech postupovat. Mezitím mají Bernští záležitost své mince odložit."
+  },
+  {
+   "text": "b. Dem Vogt von Baden wird geschrieben, er soll sich bei denen von Klingnau verwenden, daß der Herr von Birmenstorf seine Pfründe zu Klingnau behalten könne, wie ihm zugesagt worden ist, „ob anders ein gemeind von Clingnow In empfangen haben“.",
+   "preklad": "b. Fojtovi v Badenu se píše, aby se u obyvatel Klingnau přimluvil, aby pán z Birmenstorfu mohl podržet své obročí v Klingnau, jak mu bylo slíbeno, „pokud ho ovšem obec Klingnau přijala“."
+  },
+  {
+   "text": "c. Jacob von Siplingen und seine Gesellschaft haben aus Cöln den Eidgenossen geschrieben und ihnen alle Copien und dazu etwelche Kundschaft über Reden geschickt, die den Knechten an ihre Ehre gehen. Darauf ist beschlossen, denen von Cöln zu schreiben, daß alle vorigen Schriften von gemeinen Eidgenossen ausgegangen seien, und sie zu bitten, daß endlich die Unsern für ihre Ansprachen befriedigt und ihnen ihre Ehre wieder gegeben oder eines der von ihnen gebotenen Rechte aufgenommen werden möchte.",
+   "preklad": "c. Jacob von Siplingen a jeho druhové napsali Spřísežencům z Kolína a poslali jim všechny opisy a k tomu nějaké svědectví o řečech, které se dotýkají cti knechtů. Usneseno napsat Kolínským, že všechny dřívější listy vyšly od všech Spříseženců, a žádat je, aby naši byli konečně uspokojeni ve svých nárocích a aby jim byla navrácena čest, anebo aby bylo přijato některé z řízení (práv), která nabídli."
+  },
+  {
+   "text": "d. Die Boten des Königs von Frankreich klagen, es haben etliche Eidgenossen Geld von ihnen genommen und versprochen, ihnen Leute anzuwerben, das nun aber nicht gethan und doch das Geld behalten. Insonderheit habe solches Geld Cunrad von Ergöw, Burger und Hintersaße derer von Bern und Solothurn, angenommen. Darauf ist beschlossen, daß Jedermann den Seinen, welche in dem angegebenen Falle sind, befehle, solches Geld dem König zurückzugeben.",
+   "preklad": "d. Vyslanci krále francouzského si stěžují, že někteří Spříseženci od nich vzali peníze a slíbili jim naverbovat lidi, což však neučinili, a peníze si přesto ponechali. Zvláště takové peníze přijal Cunrad von Ergöw, měšťan a podsedník Bernu a Solothurnu. Usneseno, že každý přikáže svým lidem, kteří jsou v takovém případě, aby ty peníze králi vrátili."
+  },
+  {
+   "text": "e. Bezüglich der verlangten Stellung der 6000 Mann in den Dienst des Königs von Frankreich etc. hat Zürich geantwortet, man soll die Rückkehr der Boten, die man an den König von Frankreich und an das Fräulein von Burgund gesendet, und den Erfolg ihrer Bemühungen zur Herstellung des Friedens abwarten; komme der Friede nicht zu Stande, so wolle Zürich dem König halten, was es versprochen und besiegelt habe. Bern will getreulich halten, was dem König verbriefet und besiegelt ist; in Betreff der übrigen Stücke, des Delphins und einer nähern Verbindung wegen, soll der Bote anhören. Lucern antwortet gleich wie Bern. Uri, Schwyz, Unterwalden und Zug wie Zürich. Freiburg und Solothurn wollen die gegen den König eingegangenen Verpflichtungen halten; bezüglich der weitern Anbringen hat der Bote von Solothurn Gewalt, wie die von",
+   "preklad": "e. Ohledně požadovaného postavení 6000 mužů do služeb krále francouzského atd. odpověděl Curych, že se má vyčkat návratu vyslanců, kteří byli posláni ke králi francouzskému a ke slečně Burgundské, a výsledku jejich úsilí o obnovení míru; nedojde-li k míru, chce Curych králi dodržet, co slíbil a zpečetil. Bern chce věrně dodržet, co bylo králi stvrzeno listinou a pečetí; ohledně ostatních bodů, dauphina a užšího spojenectví, má vyslanec [krále] vyslechnout [jejich odpověď] [?]. Luzern odpovídá stejně jako Bern. Uri, Schwyz, Unterwalden a Zug jako Curych. Fribourg a Solothurn chtějí dodržet závazky přijaté vůči králi; ohledně dalších přednesů má vyslanec Solothurnu plnou moc jako vyslanci …"
+  }
+ ],
+ "poznamky": [
+  "Čísla záznamů a hlavičky doplněny z obrázku (OCR: „Ä477, t«“ = 1477, 10.; „1 September“ = 10. September). Datum: středa po Narození P. Marie (8. 9., pondělí) = 10. 9. 1477. „Der Amptz“ u Zugu = zugský úředník (Ammann) [?]. „Delphin“ = francouzský dauphin, budoucí Karel VIII. (mimo text). Fräulein von Burgund = Marie Burgundská, dcera Karla Smělého (mimo text). Spor s Kolínem: požadavky švýcarských knechtů z tažení k Neussu (1475) [?] (mimo text). Birmenstorf: OCR má „Virmenstorf“, na skenu „Birmenstorf“. Cunrad von Ergöw = Konrad z Aargau [?]."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

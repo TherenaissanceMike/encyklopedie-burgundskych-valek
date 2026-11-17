@@ -1,0 +1,50 @@
+{
+ "cislo": 305,
+ "svazek": "2",
+ "strana": 675,
+ "pdf_strana": 703,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "Mai 1477. 675 888.",
+ "nadpis": "Nr. 888 Basel, 3. Mai 1477: Tag mit dem päpstlichen Legaten und den kaiserlichen Gesandten (Acten fehlen); Nr. 889 Lucern, 12. Mai 1477: Zug will gegen den König ziehen, Knechte in Frankreich, Pensionen, Hammerschmied und Bysanz (Anfang)",
+ "nadpis_preklad": "č. 888 Basilej, 3. 5. 1477 – sněm s papežským legátem a císařskými vyslanci (akta chybějí); č. 889 Luzern, 12. 5. 1477 – Zug chce táhnout proti králi, knechti ve Francii, zákaz penzí, Hammerschmied a Besançon (začátek)",
+ "odstavce": [
+  {
+   "text": "888. Basel. 1477, 3. Mai. Archiv Basel: Offnungsbuch, V. 183 b.",
+   "preklad": "**č. 888 – Basilej, 3. 5. 1477.** Archiv Basilej: Offnungsbuch V. 183 b."
+  },
+  {
+   "text": "„Vf Samstag Inventionis sancte crucis LXXVij wirt von beschribung vnseres Herrn des Legaten, Graf Ludwigs von Oettingen vnd Doctor Johansen Heßlers innamen beder Höuptern, Bapsts vnd Keysers, ein tag in der Statt Basel zwüschen In, ouch gemeiner Vereynung vnd den Eydgnossen, des nachts hie an der Herberg zesind.“ — Die Acten fehlen.",
+   "preklad": "„V sobotu na Nalezení svatého Kříže [14]77 bude z obeslání našeho pána legáta, hraběte Ludwiga von Oettingen a doktora Johanna Heßlera, jménem obou hlav, papeže a císaře, sněm v městě Basileji mezi nimi, celým Dolním spolkem a Spříseženci; [vyslanci mají] být večer zde v hostinci.“ — Akta chybějí."
+  },
+  {
+   "text": "Das gleiche Offnungsbuch 196 b. setzt auch einen Tag nach Solothurn auf Dienstag nach Cantate (6. Mai) „von wegen des Herrn von Lothringen, vff die werbung des küngs allda antwurt zegeben“.",
+   "preklad": "Táž Offnungsbuch 196 b. uvádí také sněm do Solothurnu na úterý po neděli Cantate (6. května) „kvůli pánovi lotrinskému, aby se tam dala odpověď na králův návrh“."
+  },
+  {
+   "text": "889. Lucern. 1477, 12. Mai (Montag vor mittem Meyen). Archiv Solothurn: Abschiedeband, O. 2.",
+   "preklad": "**č. 889 – Luzern, 12. 5. 1477** (pondělí před polovinou května). Archiv Solothurn: svazek výnosů O. 2."
+  },
+  {
+   "text": "a. Jeder Bote soll heimbringen, die von Zug, besonders die Gemeinde, seien Willens, nach Burgund gegen den König von Frankreich zu ziehen. Da aber unsere Knechte, denen ein solcher Zug Unheil bringen dürfte, noch in Frankreich sind, da zudem auf den nächsten Sonntag nach Mitte Mai ein Tag nach Lucern angesetzt ist, um über die auf letztem Tag angeregten und heimgebrachten Gegenstände weiter zu rathschlagen, so hat man den Tag auf den Dienstag nach dem genannten Sonntag verschoben und soll man dann endlich und ohne Hintersichbringen über alles, was in dem vorigen und jetzigen Abschied steht, Antwort geben, besonders aber über die Frage, wie man wirksam die Annahme von Pensionen, Gaben und Schenkungen verbieten könne, da solche der Eidgenossenschaft nicht zu Gutem gereiche.",
+   "preklad": "a. Každý vyslanec má doma předložit, že Zugští, zvláště obec, mají v úmyslu táhnout do Burgundska proti králi francouzskému. Protože však naši knechti, kterým by takové tažení mohlo přinést neštěstí, jsou ještě ve Francii, a protože je navíc na příští neděli po polovině května svolán sněm do Luzernu, aby se dále radilo o věcech na posledním sněmu navržených a doma předložených, byl sněm odložen na úterý po zmíněné neděli; tehdy se má konečně a bez dalšího předkládání doma odpovědět na vše, co stojí v předchozím i tomto výnosu, zvláště však na otázku, jak účinně zakázat přijímání penzí, darů a dárků, protože to Spříseženstvu není k dobru."
+  },
+  {
+   "text": "b. Von demselben Tage soll man dem König von Frankreich ernstlich schreiben, daß er unsern Knechten Urlaub gebe und keine mehr annehme oder aber uns die Vereinigung herausgebe. Ferner will man berathen, wie man die Knechte nach Hause bringen und zu Hause behalten möge.",
+   "preklad": "b. Z téhož sněmu se má králi francouzskému důrazně napsat, aby našim knechtům dal propuštění a žádné další nepřijímal, anebo aby nám vrátil spolkovou smlouvu. Dále se chce radit, jak knechty dostat domů a doma je udržet."
+  },
+  {
+   "text": "c. Auf den nächsten Freitag soll Zug seine ganze Gemeinde oder „Ir volkomnen gewalt von den vssern vnd innern ämptern“ in der Stadt versammelt halten; vor derselben Gemeinde sollen Boten von Lucern, Uri und Schwyz erscheinen und mit ihr ernstlich reden, daß sie keinen Krieg anfangen, vielmehr betrachten soll, was uns Eidgenossen an Krieg oder Frieden gelegen sei. Die Boten von Zug sollen mit ihren Gemeinden reden, „dz sy vnser aller gemeinden vnvffgewigelt lassen, ouch nützet anfachen bitz vff den nächsten Tag, sye der Eidgnossen gefallen vnd meynung“.",
+   "preklad": "c. Na příští pátek má Zug shromáždit ve městě celou svou obec, nebo „svou plnou moc z vnějších i vnitřních úřadů“; před touto obcí mají vystoupit vyslanci z Luzernu, Uri a Schwyzu a důrazně s ní promluvit, aby nezačínala válku, nýbrž raději uvážila, co nám Spřísežencům na válce či míru záleží. Vyslanci ze Zugu mají se svými obcemi promluvit, „aby nechali obce nás všech nepoštvané a také nic nezačínali až do příštího sněmu, [jak] je to vůle a mínění Spříseženců“."
+  },
+  {
+   "text": "d. Die Boten von Schwyz sollen mit dem Hammerschmied und denen, die sich seiner annehmen, reden, daß sie nichts anfangen und sich nicht in Sachen mischen, die sie nichts angehen, wie die Sache von Bysanz und andere. Sie sollen dem Ulrich Reding und seinen Gesellen schreiben, daß sie die zwei Männer von Bysanz, welche sie gefangen haben, freilassen, indem diese mit der Sache in gar keiner Beziehung stehen, wie aus einem Briefe, den die von Bysanz nach Lucern geschrieben haben, deutlich hervorgeht; auch sollen sie in Zukunft ohne der Eidgenossen …",
+   "preklad": "d. Vyslanci ze Schwyzu mají promluvit s Hammerschmiedem a s těmi, kdo se ho zastávají, aby nic nezačínali a nepletli se do věcí, do kterých jim nic není, jako je záležitost Besançonu a jiné. Mají napsat Ulrichu Redingovi a jeho druhům, aby propustili dva muže z Besançonu, které zajali, protože ti s tou věcí nemají vůbec nic společného, jak jasně vyplývá z listu, který Besançonští napsali do Luzernu; a také mají napříště bez Spříseženců …"
+  }
+ ],
+ "poznamky": [
+  "Obrázek dobře čitelný; konce řádků a čísla doplněny z něj. Nalezení sv. Kříže = 3. 5.; neděle Cantate 1477 = 4. 5., úterý po ní = 6. 5. Neděle po polovině května = patrně 18. 5. 1477, úterý po ní 20. 5. [?] (výpočet mimo text). Pondělí před polovinou května = 12. 5. 1477. Legát = patrně papežský legát (biskup Alessandro Nanni [?]) (mimo text); Ludwig von Oettingen a dr. Johann Heßler = vyslanci císaře Fridricha III. (mimo text). „die werbung des küngs“ = návrh francouzského krále o Burgundsko. Bysanz = Besançon. Hammerschmied = vůdce odbojných schwyzských dobrovolníků [?] (osoba neurčena). „vssern vnd innern ämptern“ = vnější (venkovské) a vnitřní (městský) úřad Zugu. „Vereinigung herausgeben“ = vrátit (vydat zpět) spolkovou listinu, tj. vypovědět spolek."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

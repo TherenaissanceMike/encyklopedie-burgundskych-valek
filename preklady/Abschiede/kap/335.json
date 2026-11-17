@@ -1,0 +1,62 @@
+{
+ "cislo": 335,
+ "svazek": "2",
+ "strana": 705,
+ "pdf_strana": 733,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "October und November 1477. 705",
+ "nadpis": "Bemerkungen zu Nr. 919 (Schluss): Bubenbergs Heimkehr; Bündnisprojecte mit Ludwig XI.: 1. Urkunde der fünf Städte, 27. Oct. 1477; 2. Urkunde Ludwigs XI., 1. Nov. 1477 (Anfang)",
+ "nadpis_preklad": "poznámky k č. 919 (konec): Bubenbergův návrat z Francie, list králi a biskupovi z Grenoblu; projekty spolku s Ludvíkem XI.: 1. listina pěti měst, 27. 10. 1477 (latinsky); 2. listina Ludvíka XI., 1. 11. 1477 (začátek, latinsky)",
+ "odstavce": [
+  {
+   "text": "archiv Lucern, Acten: Burgunderkrieg. Berner Rathsmanual XXIII. 7.)",
+   "preklad": "… archiv Luzern, akta: Burgundská válka. Bernský radní manuál XXIII. 7.)"
+  },
+  {
+   "text": "— 7. November. Bern schreibt an Heinrich Röist, Burgermeister in Zürich (Ammann In der Gasse zu Uri und Schultheiß Hasfurter in Lucern): „Nachdem Her Adryan ist komen, bring er allerley meren, was Im dann sy begegnet, vnd sy doch daby, Ir bott vnd ouch der von Vre werden wol gehalten, gelassen vnd geuertigt. Das verkünden sy In mit beger, solichs an eynen Rat ze bringen, damit sy dester rüwiger syen, besunders nachdem er ouch meint zu schriben sinen Herren vnd den von Vre. Vnd begeren dartzu mine Herren, Inen zu schicken Copy des so Her Adryan Inen schript. Mine Herren haben In ouch noch nit verhört; wann sy In aber verhörten, wellen sy Inen ouch verkünden.“ (Berner Rathsmanual XXIII. 18.)",
+   "preklad": "— 7. listopadu. Bern píše Heinrichu Röistovi, purkmistrovi v Curychu (úředníkovi In der Gasse v Uri a starostovi Hasfurterovi v Luzernu): „Když pan Adrian přijel, přináší všelijaké zprávy o tom, co se mu přihodilo; přitom však [říká], že jejich vyslanec i vyslanec z Uri jsou dobře opatřeni, ponecháni [u krále] a budou vypraveni. To jim oznamují s žádostí, aby to přednesli radě, aby byli tím klidnější, zvláště když on [vyslanec] také hodlá psát svým pánům a Urijským. A moji páni k tomu žádají, aby jim poslali opis toho, co jim píše pan Adrian. Moji páni ho také ještě nevyslechli; až ho vyslechnou, chtějí jim to také oznámit.“ (Bernský radní manuál XXIII. 18.)"
+  },
+  {
+   "text": "— Damit ist zu vergleichen die bei Zellweger, Versuch über die wahren Gründe des burgundischen Krieges, im fünften Band des Archivs für schweizerische Geschichte abgedruckte Ausfertigung nach dem deutschen Missivenbuch D. 101, wo noch als Einleitung steht: Herr Adrian sei gestern (6. November) Mittag „in schlechtem stat vnd mit yl“ angekommen.",
+   "preklad": "— Srovnej s tím vyhotovení otištěné u Zellwegera (Versuch über die wahren Gründe des burgundischen Krieges, v pátém svazku Archivu pro švýcarské dějiny) podle Německé knihy odeslaných listů D. 101, kde je ještě jako úvod uvedeno: pan Adrian přijel včera (6. listopadu) v poledne „ve špatném stavu a ve spěchu“."
+  },
+  {
+   "text": "— 11. November. Bern schreibt an den König von Frankreich: Die Mission habe den Zweck, Burgund und mittelbar unsere Lande zu schützen, nicht erreicht; die Boten, insbesondere Bubenberg, seien bedroht und täglich gewarnt worden, daher der letztere heimgekehrt sei. Man bitte wegen seiner plötzlichen Abreise um Entschuldigung; der König möchte unsern Burger Johann Pristin, der in seinem Geleit gefangen liege, freigeben; endlich möchte er die beiden andern Gesandten der Eidgenossen abfertigen, die Eidgenossen würden dann zu seinem Dienste um so „hitziger“ sein. (Berner deutsches Missivenbuch D. 101 b, 102.)",
+   "preklad": "— 11. listopadu. Bern píše králi francouzskému: Poselstvo nedosáhlo svého účelu, totiž ochránit Burgundsko a nepřímo naše země; vyslancům, zvláště Bubenbergovi, se vyhrožovalo a byli denně varováni, a proto se Bubenberg vrátil domů. Za jeho náhlý odjezd se omlouvají; král ať propustí našeho měšťana Johanna Pristina, který leží zajat v jeho glejtu (pod jeho ochranou?) [?]; konečně ať vypraví oba ostatní vyslance Spříseženců – Spříseženci pak budou k jeho službám tím „horlivější“. (Bernská Německá kniha odeslaných listů D. 101 b, 102.)"
+  },
+  {
+   "text": "— 10. November. Bern schreibt an den Bischof von Grenoble unter Mittheilung obigen Schreibens an den König: Man wollte, es wäre mit Bubenberg nicht so weit gekommen, es verursache Unwillen in der Gemeinde; der Bischof möchte die Sache beim König „zu bestem ziehen“. (Ebenda 102 b.)",
+   "preklad": "— 10. listopadu. Bern píše biskupovi z Grenoblu a sděluje mu výše uvedený list králi: Přáli by si, aby to s Bubenbergem nedošlo tak daleko; způsobuje to nevoli v obci; biskup ať věc u krále „obrátí k dobrému“. (Tamtéž 102 b.)"
+  },
+  {
+   "text": "— 1477, 3. December (Mittwoch nach Andree). Bern schreibt an Lucern: Waldmann und der Bote von Uri seien zu Lyon und werden bald „mit guter Mär“ heimkommen; Lucern möchte dieses auch nach Zürich und Uri melden. (Staatsarchiv Lucern, Acten: Burgunderkrieg.)",
+   "preklad": "— 3. prosince 1477 (středa po sv. Ondřeji). Bern píše Luzernu: Waldmann a vyslanec z Uri jsou v Lyonu a brzy se vrátí domů „s dobrou zprávou“; Luzern ať to oznámí také do Curychu a Uri. (Státní archiv Luzern, akta: Burgundská válka.)"
+  },
+  {
+   "text": "Hieher gehören auch die Abfertigung der französischen Boten und die Projecte des Bündnisses mit König Ludwig XI.:",
+   "preklad": "Sem patří také vypravení francouzských vyslanců a návrhy spolku s králem Ludvíkem XI.:"
+  },
+  {
+   "text": "1. (1477, 27. October.) «Nos magistri ciuium, sculteti, consules, ciues et communitates subscriptarum ciuitatum Thuricensis, Bernensis, Lucernensis, Friburgensis et Solodorensis, Constantiensis et Lausannensis diocesis, recognoscimus et notificamus litteras per presentes: Quia reverendissimus in Christo pater et dominus, dominus Jodocus de Silinon, episcopus Gratianopolitanus et prepositus Beronensis, ac generosus vir Johannes de Rupecauardi, vicecomes et dominus de dicto loco, consiliarii christianissimi Regis Francie, ex commissione eiusdem apud nos certosque nobis confederatos et conjuratos, ut intelligentias ligas et vniones cum dicto domino Rege per nos initas et acceptas seruare et eisdem effectualiter satisfacere dignaremur, pluribus et iteratis vicibus seriosius institerunt, Nos laudabilem predecessorum et maiorum nostrorum famam, qui, ut probos homines decet, nunquam litteris et sigillis propriis contrauenerunt, considerantes, supradictis Ambaziatoribus directe addiximimus, affirmauimus et addicimus litteras per presentes, nos ligas et uniones cum dicto domino Rege per nos initas, litteris et sigillis nostris propriis editas, conscriptas et sigillatas, quantum eisdem ligamur, fideliter obseruaturos et eisdem satisfacturos, omnibus dolo et fraude seclusis. In quorum testimonium et fidem presentes litteras sigillis Bernensis et Lucernensis ciuitatum propriis omnium nostrorum nomine sigillauimus vicesima septima die Octobris anni dominice Incarnationis Millesimi, quadringentesimi, septuagesimi septimi.»",
+   "preklad": "1. (27. října 1477.) „My, purkmistři, starostové, radní, měšťané a obce níže psaných měst Curychu, Bernu, Luzernu, Fribourgu a Solothurnu, [z] kostnické a lausannské diecéze, vyznáváme a oznamujeme tímto listem: Jelikož nejdůstojnější otec a pán v Kristu, pan Jodocus de Silinon, biskup grenoblský a probošt beromünsterský, a urozený muž Johannes de Rupecauardi, vikomt a pán téhož místa, radové nejkřesťanštějšího krále Francie, z jeho pověření u nás a u některých našich spojenců a spříseženců mnohokrát a opakovaně a velmi vážně naléhali, abychom ráčili dohody, spolky a svazky, které jsme s řečeným pánem králem uzavřeli a přijali, zachovávat a skutečně jim dostát, my, majíce na zřeteli chvályhodnou pověst svých předchůdců a předků, kteří, jak se na poctivé muže sluší, nikdy nejednali proti svým listům a pečetím, jsme výše řečeným vyslancům přímo přislíbili a potvrdili a tímto listem přislibujeme, že spolky a svazky s řečeným pánem králem, námi uzavřené a našimi vlastními listy a pečetěmi vydané, sepsané a zpečetěné, budeme, nakolik jsme jimi vázáni, věrně zachovávat a jim dostojíme, s vyloučením jakékoli lsti a podvodu. Na svědectví a ujištění toho jsme tento list zpečetili vlastními pečetěmi měst Bernu a Luzernu jménem nás všech dne dvacátého sedmého října léta od vtělení Páně tisícího čtyřstého sedmdesátého sedmého.“"
+  },
+  {
+   "text": "Ex(ecu)tum Solis post omnium sanctorum coram toto consilio et placuit eisdem.»",
+   "preklad": "„Vyhotoveno v neděli po Všech svatých před celou radou a schváleno jí.“"
+  },
+  {
+   "text": "Berner Bundbuch H. 81.",
+   "preklad": "Bernská kniha spolků H. 81."
+  },
+  {
+   "text": "2. (1477, 1. November.) «Ludouicus dei gratia Francorum Rex omnibus et singulis presentibus et futuris, presentes visuris litteras uel audituris notifficando insinuamus, nos sincero masticatoque animo ponderauisse vetustas beniuolentias internosque fauores Cristianissimi herois, domini Karoli felicis me-",
+   "preklad": "2. (1. listopadu 1477.) „Ludvík, z Boží milosti král Franků, všem i každému jednotlivě, přítomným i budoucím, kteří tento list uvidí nebo uslyší, oznamujeme a dáváme na vědomí, že jsme upřímnou a důkladně uváženou myslí zvážili starou přízeň a vnitřní náklonnost nejkřesťanštějšího hrdiny, pana Karla blahé pa-…"
+  }
+ ],
+ "poznamky": [
+  "Latinské texty přečteny celé z obrázku (OCR nečitelné). Data: Adrian von Bubenberg přijel 6. 11. 1477 v poledne; středa po sv. Ondřeji (30. 11., neděle) = 3. 12. 1477; „Solis post omnium sanctorum“ = neděle po Všech svatých = 2. 11. 1477. Segesser řadí list z 10. 11. až za list z 11. 11. (ponecháno). Heinrich Röist = curyšský purkmistr; Ammann In der Gasse = urijský zemský úředník. Zellweger = Johann Caspar Zellweger, Versuch über die wahren Gründe des burgundischen Krieges (Archiv für schweizerische Geschichte V). Jodocus de Silinon = Jost von Silenen, biskup grenoblský a probošt v Beromünsteru („praepositus Beronensis“); Johannes de Rupecavardi = Jean de Rochechouart, vikomt [?]. „Constantiensis et Lausannensis diocesis“ = Curych, Luzern a Solothurn [ležely] v kostnické, Bern a Fribourg v lausannské diecézi. Bubenberg odjel od krále náhle po výhrůžkách (mimo text: odjel tajně v přestrojení)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

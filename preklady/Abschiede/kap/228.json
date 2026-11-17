@@ -1,0 +1,77 @@
+{
+ "cislo": 228,
+ "svazek": "2",
+ "strana": 598,
+ "pdf_strana": 626,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "598 Zuli 1476.",
+ "nadpis": "Nr. 842 Lucern, 12. 7. 1476 – Pfalzgraf, Frankreich, Lothringen, Büchsen von Murten, Tag zu Freiburg, Jahrrechnung, Constanz, Ueberlingen, St. Gallen (Anfang)",
+ "nadpis_preklad": "č. 842 Luzern, 12. 7. 1476 – falckrabě, francouzské poselstvo, odpověď Lotrinsku, děla ukořistěná u Murtenu, sněm ve Fribourgu, výroční vyúčtování, blahopřání Kostnice, nabídka Überlingenu, St. Gallen (začátek)",
+ "odstavce": [
+  {
+   "text": "842. Lucern. 1476, 12. Juli. Staatsarchiv Lucern: Lucerner Abschiede, B. 69. Archiv Solothurn: Abschiedeband, O. 24.",
+   "preklad": "**č. 842 – Luzern, 12. 7. 1476.** Státní archiv Luzern: Luzernské výnosy B 69. Archiv Solothurn: svazek výnosů O. 24."
+  },
+  {
+   "text": "Boten: Zürich. Hans Tachelshofer. Bern. Urban von Mulern; Anton Archer. Lucern. Peter Rust, Schultheiß; Caspar von Hertenstein und Heinrich Hasfurter, Altschultheißen; Peter Tammann. Uri. Hans Imhof. Schwyz. Gilg Mettler. Unterwalden. Rudolf Heinzli; Paulus Enentachers. Zug. Hans Seiler, Stadtschreiber. Glarus. Hans Schübelbach. Solothurn. Urs Steger. Freiburg. Willi Techtermann.",
+   "preklad": "Vyslanci: Curych – Hans Tachelshofer. Bern – Urban von Mulern; Anton Archer. Luzern – Peter Rust, starosta; Caspar von Hertenstein a Heinrich Hasfurter, bývalí starostové; Peter Tammann. Uri – Hans Imhof. Schwyz – Gilg Mettler. Unterwalden – Rudolf Heinzli; Paulus Enentachers. Zug – Hans Seiler, městský písař. Glarus – Hans Schübelbach. Solothurn – Urs Steger. Fribourg – Willi Techtermann."
+  },
+  {
+   "text": "a. Basel hat insgeheim geschrieben: Wenn man daran arbeiten wollte, so würde man den Pfalzgrafen wohl in die Vereinigung bringen. Das soll man heimbringen und darauf zu erkennen geben, wie unfreundlich und gefährlich sich der Pfalzgraf des Herzogs von Burgund wegen gegenüber den Eidgenossen verhalten habe.",
+   "preklad": "a. Basilej tajně napsala: Kdyby se na tom chtělo pracovat, dalo by se falckrabě asi přivést do Dolního spolku. To se má předložit doma a přitom dát na srozuměnou, jak nepřátelsky a nebezpečně se falckrabě kvůli burgundskému vévodovi vůči Spřísežencům choval."
+  },
+  {
+   "text": "b. Des Königs von Frankreich Botschaft hat uns allen freundlich geschrieben und begehrt, daß man den Tag zu Freiburg mit den Savoyern nicht halten möchte, ohne auch sie zuzuziehen.",
+   "preklad": "b. Poselstvo krále francouzského nám všem přátelsky napsalo a žádá, aby se sněm se Savojskými ve Fribourgu nekonal, aniž by byli přizváni i oni."
+  },
+  {
+   "text": "c. Dem Herzog von Lothringen ist auf sein Begehren geantwortet, „dz sin gnad vns vngelegen, vmb dz können wir nuzemal dehein einung mit Im machen, dann vns bedunckt, nachdem er mit den Herren vnd stetten, so in vnser einig sind, ouch in einig stat vnd sy mit vns, daran gnug sig, vnd Im früntlich danken sines zuzugs, vnd wo wir dz vmb In verdienen, dz wir darzu gutwillig vnd bereit sin wellen.“",
+   "preklad": "c. Vévodovi lotrinskému bylo na jeho žádost odpověděno, „že Jeho Milost je od nás vzdálena (nehodí se nám), a proto s ním nyní nemůžeme uzavřít žádný spolek, neboť se nám zdá, že když je ve spolku s pány a městy, kteří jsou v našem spolku, a oni s námi, že to stačí; a přátelsky mu děkujeme za jeho přispění, a kde bychom mu to mohli oplatit, k tomu chceme být ochotni a připraveni.“"
+  },
+  {
+   "text": "d. Auf das Begehren des Herzogs von Lothringen und der Herren und Städte von Straßburg, Basel u. s. w., die beim Zug gewesen, man möchte ihnen von den zu Murten gewonnenen Büchsen einige schenken oder dieselben mit ihnen theilen, ist beschlossen: Die Boten, welche nach Freiburg kommen, sollen Vollmacht erhalten, solche Büchsen zu schenken; jedenfalls soll der Herzog von Lothringen „erlich vsgericht“ werden.",
+   "preklad": "d. Na žádost vévody lotrinského a pánů a měst Štrasburku, Basileje atd., kteří byli na tažení, aby jim byla některá z děl ukořistěných u Murtenu darována nebo s nimi rozdělena, je usneseno: Vyslanci, kteří přijdou do Fribourgu, mají dostat plnou moc taková děla darovat; v každém případě má být vévoda lotrinský „čestně odbyt (obdarován)“."
+  },
+  {
+   "text": "e. Auf den Tag zu Freiburg sollen die Boten der Eidgenossen Vollmacht erhalten, ohne Hintersichbringen zu handeln; ebenso sollen sie reden und rathschlagen über die Absendung der Botschaft zum König von Frankreich.",
+   "preklad": "e. Na sněm do Fribourgu mají vyslanci Spříseženců dostat plnou moc jednat bez předkládání doma; také mají jednat a radit se o vypravení poselstva ke králi francouzskému."
+  },
+  {
+   "text": "f. Auf Sanct Marien Magdalenentag (22. Juli) sollen gemeine Eidgenossen ihre Boten zu Baden auf der Jahrrechnung haben.",
+   "preklad": "f. Na den sv. Marie Magdalény (22. července) mají mít všichni Spříseženci své vyslance v Badenu na výročním vyúčtování."
+  },
+  {
+   "text": "g. Auf den Tag zu Freiburg soll man als „Vndertädinger“ beschreiben unsere Herren und Freunde, den Herzog von Lothringen, den Grafen von Greyerz und Herrn Wilhelm Herter, Ritter.",
+   "preklad": "g. Na sněm do Fribourgu se mají jako „prostředníci“ obeslat naši páni a přátelé, vévoda lotrinský, hrabě z Gruyères a pan Wilhelm Herter, rytíř."
+  },
+  {
+   "text": "h. Die von Constanz haben durch eine Botschaft den Eidgenossen ihre Freude ausdrücken lassen über den Sieg, den sie über den Herzog von Burgund davongetragen haben, und gemeldet, sie haben darum Gott Lob und Dank gesagt, Kreuzgänge gethan vor und nach der Schlacht und mit ihren Glocken Freude geläutet. Dabei bitten sie, wenn sie etwa von Jemanden verklagt würden, daß selbem nicht geglaubt, sondern ihnen Gelegenheit zur Verantwortung gegeben werden möchte. Dafür hat man ihnen treulich gedankt.",
+   "preklad": "h. Kostničtí dali poselstvem Spřísežencům vyjádřit svou radost nad vítězstvím, které dobyli nad vévodou burgundským, a oznámili, že za to vzdali Bohu chválu a díky, konali prosebná procesí před bitvou i po ní a radostně vyzváněli svými zvony. Přitom prosí, kdyby je snad někdo obžaloval, aby se mu nevěřilo, nýbrž aby jim byla dána příležitost obhájit se. Za to se jim upřímně poděkovalo."
+  },
+  {
+   "text": "i. Eine Botschaft von Ueberlingen hat den Eidgenossen Büchsen, Büchsenpulver, Salpeter, Salz und Korn anerboten, wenn sie dessen bedürftig wären.",
+   "preklad": "i. Poselstvo z Überlingenu nabídlo Spřísežencům děla, střelný prach, ledek, sůl a obilí, budou-li toho potřebovat."
+  },
+  {
+   "text": "k. Die Stadt St. Gallen begehrt auch eine oder mehrere der erbeuteten Büchsen zu erhalten. Den Boten, die nach Freiburg gehen, soll Vollmacht gegeben werden, über dieses Begehren zu entscheiden. Denselben soll man auch empfehlen, derer von St. Gallen bei einem allfälligen Friedensschlusse nicht zu vergessen, „dz sy ouch dann von der zöllen wegen fry zu faren ouch sicher sigen, als ander eidgnossen“.",
+   "preklad": "k. Město St. Gallen žádá také dostat jedno nebo více ukořistěných děl. Vyslancům, kteří půjdou do Fribourgu, se má dát plná moc o této žádosti rozhodnout. Týmž se má také doporučit, aby při případném uzavírání míru nezapomněli na St. Gallenské, „aby i oni pak, co se cel týče, mohli volně jezdit a byli v bezpečí jako jiní Spříseženci“."
+  },
+  {
+   "text": "l. Auf Begehren der Roßtäuscher und anderer Ansprecher wird dem Herzog von",
+   "preklad": "l. Na žádost koňských handlířů a jiných žadatelů se vévodovi …"
+  }
+ ],
+ "poznamky": [
+  "Datum opraveno podle skenu: 12. Juli (OCR „17. Inli“); číslo záznamu 842 a signatura B. 69 přečteny z obrázku. Signatura solothurnská „O. 24“ čtena nejistě [?].",
+  "12. 7. 1476 = pátek. Sv. Marie Magdaléna = 22. 7.",
+  "Falckrabě = Fridrich I. Vítězný, kurfiřt falcký, spojenec Karla Smělého (mimo text).",
+  "Bod c: „vngelegen“ – doslova „nepoložený, vzdálený“, tj. Lotrinsko leží daleko; Spříseženci odmítají přímý spolek s Reném II., protože je spojen s Dolním spolkem.",
+  "„Kreuzgänge“ = prosebná procesí; Überlingen – říšské město na Bodamském jezeře.",
+  "„Jahrrechnung“ = výroční vyúčtování (sněm v Badenu, kde se skládaly účty ze společných panství).",
+  "„Vndertädinger“ = prostředníci (vyjednavači) – srov. teding = vyjednávání (doplněk glosáře).",
+  "Pokračuje na další straně (kap. 229)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

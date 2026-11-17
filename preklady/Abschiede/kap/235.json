@@ -1,0 +1,50 @@
+{
+ "cislo": 235,
+ "svazek": "2",
+ "strana": 605,
+ "pdf_strana": 633,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "Zuli und August 1476. 605",
+ "nadpis": "Fortsetzung Nr. 844 (Freiburg, 25. Juli – 12. Aug. 1476): r.–t. Botschaft zum König, Österreich und Sonnenberg, Waadt; Noten (Quellen, Knebel)",
+ "nadpis_preklad": "pokračování č. 844 (Fribourg, 25. 7. – 12. 8. 1476) – r. poselstvo ke králi; s. rakouský dluh hraběti ze Sonnenbergu a dva kostničtí biskupové; t. správce pro Vaud; poznámky (prameny, Knebel o jednání 7. 8.)",
+ "odstavce": [
+  {
+   "text": "… zu geben.",
+   "preklad": "… dal."
+  },
+  {
+   "text": "r. In Betreff der obgemeldeten Anbringen des Königs von Frankreich und der Begehren der Eidgenossen wegen der Richtung mit Savoyen, der jährlichen Pension und der Summe der 80,000 Gulden, soll Jedermann heimbringen, ob man, da der Admiral meint, des letztern und anderer Punkte wegen wäre die Absendung einer Botschaft zum König rathsam, eine solche Botschaft aus allen Orten und in jedes Ortes eigenen Kosten senden wolle, oder nur von einigen Orten in Aller Namen und Kosten. Mögen sich die Obrigkeiten für den einen oder den andern Vorschlag entscheiden, so soll immerhin die Botschaft auf St. Verenatag (1. September) nächsthin von Bern abgehen, da der König jetzt in der Nähe weilt und es gegenwärtig leichter ist, durch Savoyen zu kommen, „dann ob des Burguners fürnemen sölichs hernach wurd irren“.",
+   "preklad": "r. Pokud jde o výše zmíněné návrhy krále francouzského a o požadavky Spříseženců ohledně narovnání se Savojskem, roční penze a sumy 80 000 zlatých, má každý doma předložit – protože admirál míní, že kvůli této sumě a jiným bodům by bylo radno vyslat ke králi poselstvo –, zda se má takové poselstvo poslat ze všech míst (kantonů) a na vlastní náklad každého místa, nebo jen z některých míst jménem a na náklad všech. Ať se vrchnosti rozhodnou pro jeden nebo druhý návrh, poselstvo má v každém případě vyrazit z Bernu na nejbližší den sv. Verény (1. září), protože král nyní pobývá nablízku a nyní je snazší projít Savojskem, „neboť kdyby tomu později překazilo Burgunďanovo počínání“."
+  },
+  {
+   "text": "s. Jedermann weiß, was der Marschall von Oesterreich angebracht hat, erstlich des Gelds wegen, das dem Grafen von Sonnenberg gehört, daß in Ansehung der kostbaren Kriege, welche Herzog Sigmund in der letzten Zeit gegen Burgund, Venedig und Mailand zu führen gehabt, die Eidgenossen beim Grafen Eberhard von Sonnenberg ihre Vermittlung eintreten lassen möchten, daß dieser für die Zahlung einen Termin von mehrern Jahren gestatte, indem der Herzog gegenwärtig außer Stand sei, eine so große Summe zu bezahlen. Zweitens bezüglich der beiden Bischöfe von Constanz: Hieran habe der Herzog von Oesterreich ebenfalls ein großes Interesse, er habe über 12,000 Gulden dargeliehen; auch sei ein päpstlicher Legat hier, um in der Sache zu handeln; man möchte also sowohl des Geldes als des Bisthums wegen einen freundlichen Tag an ein gelegenes Ort setzen. Darauf wird beschlossen, bezüglich beider Punkte auf einem Tag zu Zürich auf Mariä Geburt (8. September) eine Vermittlung zu versuchen, allwo mit den Eidgenossen auch Boten von Freiburg und Solothurn und ebenso die Boten Oesterreichs, beider Bischöfe und des Grafen Eberhard von Sonnenberg sich einfinden sollen.",
+   "preklad": "s. Každý ví, co přednesl rakouský maršálek: zaprvé kvůli penězům, které patří hraběti ze Sonnenbergu – aby Spříseženci vzhledem k nákladným válkám, které vévoda Zikmund v poslední době musel vést proti Burgundsku, Benátkám a Milánu, u hraběte Eberharda ze Sonnenbergu zprostředkovali, aby povolil splatnost za několik let, neboť vévoda není nyní s to tak velkou sumu zaplatit. Zadruhé ohledně obou kostnických biskupů: na tom má vévoda rakouský rovněž velký zájem, půjčil přes 12 000 zlatých; také je zde papežský legát, aby v té věci jednal; ať se tedy kvůli penězům i kvůli biskupství určí přátelský sněm na vhodném místě. Nato se usnáší pokusit se v obou bodech o zprostředkování na sněmu v Curychu na Narození Panny Marie (8. září), kam se mají se Spříseženci dostavit také vyslanci Fribourgu a Solothurnu a rovněž vyslanci Rakouska, obou biskupů a hraběte Eberharda ze Sonnenbergu."
+  },
+  {
+   "text": "t. Der Landschaft Waadt wegen ist gerathen, daß man nächstens einen Gubernator wählen wolle, der auf St. Bartholomäustag (24. August) alle dortigen Amtleute nach Freiburg zu berufen habe, wo die Eidgenossen die Verwaltung des Landes ordnen werden. Auf des heiligen Kreuzes Tag (14. September) soll dann jedes Ort zu Lucern die Ansprüche, die es auf das Land macht, anmelden.",
+   "preklad": "t. Ohledně země Vaud se radí, aby se brzy zvolil správce (gubernátor), který má na den sv. Bartoloměje (24. srpna) povolat všechny tamní úředníky do Fribourgu, kde Spříseženci uspořádají správu země. Na den Povýšení sv. Kříže (14. září) má pak každé místo v Luzernu ohlásit nároky, které na tuto zemi vznáší."
+  },
+  {
+   "text": "Die Namen der Boten finden sich in den Abschiede-Exemplaren unserer Archive nicht; nur der Solothurner-Abschiedband O. 66 enthält ein unvollständiges Verzeichniß derselben. Das obstehende Verzeichniß ist einem, mit dem Lucerner-Exemplar im Uebrigen ganz übereinstimmenden, Originalabschied im k. k. Haus-, Hof- und Staatsarchiv zu Wien, abgedruckt bei Chmel, Monumenta habsburgica I. 218, entnommen, wo die Namen am Schlusse stehen. Auch bei Schilling, Burgunderkrieg S. 361, stehen die Namen der Boten.",
+   "preklad": "Jména vyslanců se v exemplářích výnosů v našich archivech nenacházejí; jen solothurnský svazek výnosů O 66 obsahuje jejich neúplný seznam. Výše uvedený seznam je převzat z originálního výnosu v c. k. Domácím, dvorském a státním archivu ve Vídni, jinak zcela shodného s luzernským exemplářem, otištěného u Chmela, Monumenta habsburgica I, 218, kde jsou jména uvedena na konci. Jména vyslanců uvádí také Schilling, Burgunderkrieg, s. 361."
+  },
+  {
+   "text": "Der Abschied dieses Tages findet sich auch in der handschriftlichen Chronik des gleichzeitigen Chronisten Johannes Knebel (Stadtbibliothek Basel), welcher aus Basler-Gesandtschaftsberichten schöpfte. Daneben berichtet Knebel weitläufig über die gleichzeitig in Freiburg abgehaltenen besondern Conferenzen der Fürsten und Städte der niedern Vereinigung und deren Verkehr mit den Eidgenossen, namentlich wegen Aufnahme des Pfalzgrafen in die Vereinigung etc. etc. In der gedruckten Ausgabe von Buxtorf, Basel 1855, II. S. 78, 82–87 sind nur einige Auszüge aufgenommen; es folgen daher in den nachstehenden Noten aus der Handschrift die bedeutendern Verhandlungen der Fürsten und Städte der Vereinigung, insoweit sie auf Artikel dieses Abschieds Beziehung haben.",
+   "preklad": "Výnos tohoto sněmu se nachází také v rukopisné kronice současného kronikáře Johannese Knebela (Městská knihovna Basilej), který čerpal ze zpráv basilejských poselstev. Vedle toho Knebel obšírně informuje o zvláštních konferencích knížat a měst Dolního spolku, konaných současně ve Fribourgu, a o jejich styku se Spříseženci, zejména kvůli přijetí falckraběte do spolku atd. Do tištěného vydání Buxtorfova, Basilej 1855, II, s. 78, 82–87, bylo pojato jen několik výtahů; v následujících poznámkách proto podáváme z rukopisu významnější jednání knížat a měst spolku, pokud se vztahují k článkům tohoto výnosu."
+  },
+  {
+   "text": "Zu a und h. Knebel a. a. O.: „Vff Mittwuchen vor Laurentii (7. August) vor minem Herren von Luttringen, dem Amiral, dem Grafen von Gryers, Herrn Wilhelm Herter, als Tagesherren vnd Tedingslüten erschinen die Eydgnossen an eim, vnd der Bischoff von Jenff mit sampt sinen Gelerten, Rittern vnd Knechten, ouch etlich von Jenff vnd die Botschaft von Safoy anders Teils. In Bywesen aller Fürsten, Herren vnd Stette Botschaften etc. hat Herr Wilhelm Herter erzalt, wie das die Tagsherren hattend angesehen den Vnwillen vnd Vffrur, so do weren zwischend den …",
+   "preklad": "K bodům a a h. Knebel, na uv. m.: „Ve středu před sv. Vavřincem (7. srpna) se před mým pánem lotrinským, admirálem, hrabětem z Gruyères a panem Wilhelmem Herterem jako pány sněmu a vyjednavači dostavili Spříseženci na jedné straně a biskup ženevský spolu se svými učenými [rádci], rytíři a panoši, též někteří Ženevští a poselstvo Savojska na straně druhé. Za přítomnosti všech knížat, pánů a poselstev měst atd. pan Wilhelm Herter vyložil, jak páni sněmu uvážili nevoli a rozbroj, které panovaly mezi … (pokračuje na další straně)"
+  }
+ ],
+ "poznamky": [
+  "Den sv. Verény = 1. 9.; Narození P. Marie = 8. 9.; sv. Bartoloměj = 24. 8.; Povýšení sv. Kříže = 14. 9.; středa před sv. Vavřincem 1476 = 7. 8. (vše podle edice).",
+  "Rakouský maršálek = Marquart von Schellenberg (viz seznam účastníků). Hrabě Eberhard ze Sonnenbergu (Waldburg-Sonnenberg), věřitel vévody Zikmunda; oba kostničtí biskupové = Ludwig von Freiberg a Otto von Sonnenberg (mimo text).",
+  "„Ritter vnd Knechte“ u biskupa ženevského přeloženo podle glosáře „rytíři a panoši“.",
+  "Johannes Knebel, kaplan basilejského dómu, autor deníku z let 1473–1479 (mimo text).",
+  "OCR opraveno podle skenu: konce řádků (der, Gulden, die, Ortes, die, auf, und, hernach, Gelds, Herzog, Eidgenossen, die, eine, der, auch, als, beschlossen, September, Der, auf, Eid-genossen, September, Solothurner-, Staatsarchiv, Schlusse, Johan-nes, niedern, Vereinigung, auf-genommen, der, Luttringen, Eyd-gnossen, vnd, Wil-helm, den) a čísla (80,000, 12,000, O. 66, I. 218, S. 361, 1855, II. S. 78, 82–87)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

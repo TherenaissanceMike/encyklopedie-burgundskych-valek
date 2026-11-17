@@ -1,0 +1,76 @@
+{
+ "cislo": 349,
+ "svazek": "3/1",
+ "strana": 9,
+ "pdf_strana": 25,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1478 bis 1499.pdf",
+ "priloha": false,
+ "rok": 1478,
+ "zahlavi": "Juni l^78. 9 12.",
+ "nadpis": "Nr. 12 Zürich, 1. Juni 1478 – Uri und Mailand, Verständniß mit Württemberg, Chur, Jestetten, Städte am Rhein; Nr. 13 Lucern, 8. Juli 1478 – Knechte von Schüttenried, Burgrecht (Städte und Länder), Mülhausen (Anfang)",
+ "nadpis_preklad": "č. 12 Curych, 1. 6. 1478 – Uri a Milán, dohoda s Württemberskem, Chur, Jestetten, města na Rýně; č. 13 Luzern, 8. 7. 1478 – knechti ze Schüttenriedu, měšťanské právo (města proti zemím), Mulhouse (začátek)",
+ "odstavce": [
+  {
+   "text": "12. Zürich. 1478, 1. Juni (im Anfang des Brachmonats). Staatsarchiv Lucern: Allgemeine Abschiede. B. 161.",
+   "preklad": "**č. 12 – Curych, 1. 6. 1478** (na začátku června). Státní archiv Luzern: Všeobecné výnosy B 161."
+  },
+  {
+   "text": "a. Auf nächstem Tag soll über das Anbringen von Uri, daß Mailand den Vertrag nicht halte, Antwort gegeben werden; inzwischen wird mit dem Ammann von Uri geredet, daß Uri die Seinigen bis zu jenem Tag nichts Feindseliges beginnen lasse.",
+   "preklad": "a. Na příštím sněmu se má odpovědět na podání Uri, že Milán nedodržuje smlouvu; mezitím se s úředníkem z Uri promluví, aby Uri nedovolilo svým lidem až do onoho sněmu podniknout nic nepřátelského."
+  },
+  {
+   "text": "b. Beide Herren von Württemberg begehren die nächstens zu Ende gehende „Verstentnuß“, darin sie mit den Eidgenossen stehen, zu verlängern.",
+   "preklad": "b. Oba páni Württemberští žádají prodloužit brzy končící „dohodu“ (verstentnuss), v níž jsou se Spříseženci."
+  },
+  {
+   "text": "c. Auf dem bevorstehenden Tag zu Lucern soll auf das Anbringen des Bischofs von Chur des Kornkaufs wegen geantwortet werden.",
+   "preklad": "c. Na nastávajícím sněmu v Luzernu se má odpovědět na podání biskupa churského ohledně nákupu obilí."
+  },
+  {
+   "text": "d. Ebenda soll auf das Begehren des Herzogs von Oesterreich, daß dem Jacob Stüdeler das Schlößchen Jestetten auf dem Rafzerfeld, das seinem Schwäher gehört hatte und nun durch Ludwig von Büren an den Spital zu Lucern gekommen ist, zurückgestellt werde, Antwort erfolgen.",
+   "preklad": "d. Tamtéž se má odpovědět na žádost vévody rakouského, aby byl Jacobu Stüdelerovi vrácen zámeček Jestetten na Rafzerfeldu, který patřil jeho tchánovi a nyní přešel skrze Ludwiga von Büren na špitál v Luzernu."
+  },
+  {
+   "text": "e. Ebenso auf das Begehren des Herzogs, daß die Eidgenossen Niemanden aus seinen Angehörigen in Burg- oder Landrecht aufnehmen sollen.",
+   "preklad": "e. Rovněž na vévodovu žádost, aby Spříseženci nepřijímali nikoho z jeho poddaných do měšťanského nebo zemského práva."
+  },
+  {
+   "text": "f. Hinsichtlich der Städte am Rhein wird beschlossen, die betreffende Verschreibung aufzurichten. Den österreichischen Räthen wird aufgetragen, das Gleiche auch von Herzog Sigmund zu verlangen.",
+   "preklad": "f. Pokud jde o města na Rýně, usnáší se vyhotovit příslušný zápis. Rakouským radům se ukládá, aby totéž žádali i od vévody Zikmunda."
+  },
+  {
+   "text": "g. Wegen der Irrungen zwischen dem Herzog von Oesterreich und den Grafen von Württemberg, auch Chur und andern wird die Absendung einer Botschaft an den Herzog beschlossen.",
+   "preklad": "g. Kvůli sporům mezi vévodou rakouským a hrabaty Württemberskými, také Churem a jinými, se usnáší vyslat k vévodovi vyslanectví."
+  },
+  {
+   "text": "13. Lucern. 1478, 8. Juli (Mittwoch nach Ulrici). Staatsarchiv Lucern: Lucernerabschiedesammlung. B. 113.",
+   "preklad": "**č. 13 – Luzern, 8. 7. 1478** (středa po sv. Oldřichovi). Státní archiv Luzern: Sbírka luzernských výnosů B 113."
+  },
+  {
+   "text": "Boten: Zürich. Heinrich Röist, Burgermeister; Hans Tachelshofer. Bern. Urban von Mühlern; Rudolf von Erlach. Lucern. Hans Ferr, Schultheiß; Caspar von Hertenstein, Ritter; Heinrich Hasfurter, Altschultheiß; Peter Tammann; Ulrich Weiß. Uri. Ammann Beroldinger; Ammann Frieß; Ammann in der Gasse. Schwyz. Jacob Reding; Ammann Dietrich; Ammann Jacob, der Landschreiber. Unterwalden. Ammann Bürgler; Claus von Einwil; Hans Henzli, Altammann; Ammann zum Brunnen; Paul Enentachers, Ammann; Heini Winkelried. Zug. Ammann Schell; Hans Hagnauer. Glarus. Ammann Kuchli; Ammann Ebly. Freiburg. Jacob Velg, Schultheiß. Solothurn. Hemmann Blast, Venner.",
+   "preklad": "Vyslanci: Curych – purkmistr Heinrich Röist; Hans Tachelshofer. Bern – Urban von Mühlern; Rudolf von Erlach. Luzern – starosta Hans Ferr; Caspar von Hertenstein, rytíř; Heinrich Hasfurter, bývalý starosta; Peter Tammann; Ulrich Weiss. Uri – úředník Beroldinger; úředník Friess; úředník in der Gasse. Schwyz – Jacob Reding; úředník Dietrich; úředník Jacob, zemský písař. Unterwalden – úředník Bürgler; Claus von Einwil; Hans Henzli, bývalý zemský úředník; úředník zum Brunnen; úředník Paul Enentachers; Heini Winkelried. Zug – úředník Schell; Hans Hagnauer. Glarus – úředník Kuchli; úředník Ebly. Fribourg – starosta Jacob Velg. Solothurn – praporečník Hemmann Blast."
+  },
+  {
+   "text": "a. Die Angelegenheit der zwei mit ihren Herren in Streit gerathenen Knechte von Schüttenried soll man dem Bilgeri von Heudorf, auf den sie zu Recht gekommen, empfehlen.",
+   "preklad": "a. Záležitost dvou knechtů ze Schüttenriedu, kteří se dostali do sporu se svými pány, se má doporučit Bilgerimu von Heudorf, na jehož rozhodnutí se dohodli."
+  },
+  {
+   "text": "b. Verhandlung zwischen den Städten und Ländern des Burgrechts wegen. Die Städte erklären, unabänderlich bei dem unter ihnen abgeschlossenen Burgrechte verbleiben zu wollen; die Länder aber verlangen Zusage, daß man davon abstehen werde; dagegen wollen sie Hand bieten, den Sempacherbrief, worin auch Freiburg und Solothurn begriffen, zu verändern und zu verbessern. Die Boten der Städte haben keine Vollmacht, vom Burgrecht abzugehen, schlagen aber den Ländern zu Ehren vor, es sollen von jeder Seite drei Ausgeschossene ernannt werden, um über die Sache zu reden und das Resultat ihrer Berathung an den auf Dienstag nach Unserer Lieben Frauen Tag im Augustmonat nach Lucern angesetzten Tag der Eidgenossen zu bringen. Dieses wurde angenommen.",
+   "preklad": "b. Jednání mezi městy a zeměmi kvůli měšťanskému právu. Města prohlašují, že chtějí neměnně setrvat při měšťanském právu uzavřeném mezi sebou; země však žádají slib, že od něho upustí, a nabízejí se naproti tomu pomoci změnit a zlepšit Sempašský list, do něhož by byly zahrnuty i Fribourg a Solothurn. Vyslanci měst nemají plnou moc od měšťanského práva ustoupit, ale zemím ke cti navrhují, aby každá strana jmenovala tři zástupce, kteří by o věci jednali a výsledek své porady přinesli na sněm Spříseženců svolaný do Luzernu na úterý po svátku Panny Marie v srpnu. To bylo přijato."
+  },
+  {
+   "text": "c. Dienstags nach St. Jacobstag (28. Juli) sollen Zürich, Bern, Lucern und Solothurn im Namen aller Orte ihre Boten nach dem Verlangen des Herzogs von Lothringen zu Mühl- …",
+   "preklad": "c. V úterý po sv. Jakubovi (28. července) mají Curych, Bern, Luzern a Solothurn jménem všech míst mít podle žádosti vévody lotrinského své vyslance v Mül[hausenu] …"
+  }
+ ],
+ "poznamky": [
+  "Text ověřen podle obrázku; opravena jména (Beroldinger, Claus von Einwil, Hagnauer, Kuchli, Ebly, Hemmann Blast) a čísla archivních signatur.",
+  "Data: Brachmonat = červen; sv. Oldřich = 4. 7. 1478 (sobota), středa po něm = 8. 7.; sv. Jakub = 25. 7. (sobota), úterý po něm = 28. 7.; Nanebevzetí P. Marie = 15. 8. (sobota), úterý po něm = 18. 8. 1478.",
+  "Bod b: Sempacherbrief = Sempašský list z r. 1393 (společný vojenský řád Spříseženců) (mimo text). Země nabízejí přijmout Fribourg a Solothurn do Sempašského listu výměnou za zrušení měšťanského práva měst – předehra Stanského narovnání 1481 (mimo text).",
+  "Bod d: Rafzerfeld – rovina severně od Rýna u Eglisau; Jestetten srov. č. 8 c/d. Bod f: „Städte am Rhein“ = lesní města (Rheinfelden, Säckingen, Laufenburg, Waldshut) [?].",
+  "Bod b č. 12: „beide Herren von Württemberg“ = Eberhard V. (Urach) a Eberhard VI. (Stuttgart) (mimo text) [?].",
+  "Schüttenried – neidentifikované místo [?]. Bilgeri von Heudorf zde jako rozhodčí (srov. č. 1 m).",
+  "Bod c: „zu Mühl-“ pokračuje na další straně (zřejmě Mülhausen = Mulhouse) [?]."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

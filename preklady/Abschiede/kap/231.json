@@ -1,0 +1,69 @@
+{
+ "cislo": 231,
+ "svazek": "2",
+ "strana": 601,
+ "pdf_strana": 629,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "Juli 1476. hgl",
+ "nadpis": "Schluss Nr. 843 (Baden, 24. Juli 1476); Nr. 844 Freiburg, 25. Juli – 12. August 1476 (Friedenskongress): Anfang der Teilnehmerliste",
+ "nadpis_preklad": "konec č. 843 (Baden, 24. 7. 1476) – výnosy fojtství, mýta, kurz mincí; č. 844 Fribourg, 25. 7. – 12. 8. 1476 (mírový kongres) – začátek seznamu účastníků",
+ "odstavce": [
+  {
+   "text": "… die Vogtei zu Handen der Eidgenossen nehmen wolle.",
+   "preklad": "… [zda se má] fojtství vzít do rukou Spříseženců."
+  },
+  {
+   "text": "k. Heimbringen die drei Stücke, die der Abt von St. Gallen angebracht hat: das erste der Reisekosten wegen, das zweite der Eide im Thurgau wegen, das dritte der Botschaft zum Kaiser wegen.",
+   "preklad": "k. Předložit doma tři body, které přednesl opat ze St. Gallen: první kvůli válečným nákladům (Reisekosten), druhý kvůli přísahám v Thurgau, třetí kvůli poselstvu k císaři."
+  },
+  {
+   "text": "l. Schiffmanns und Rudolf Seilers Sache ist nach Lucern gewiesen; Lucern soll aller Eidgenossen Vollmacht haben, darin gütlich oder rechtlich zu entscheiden.",
+   "preklad": "l. Záležitost Schiffmanna a Rudolfa Seilera je odkázána do Luzernu; Luzern má mít plnou moc všech Spříseženců rozhodnout v ní smírně nebo právně."
+  },
+  {
+   "text": "m. Zürich soll zwischen den Herren von Zurzach und dem Grafen Albrecht von Sulz wegen Eingriffen des letztern in die Gerechtigkeiten der erstern freundliche Vermittlung versuchen.",
+   "preklad": "m. Curych se má pokusit o přátelské zprostředkování mezi pány ze Zurzachu a hrabětem Albrechtem ze Sulzu kvůli zásahům hraběte do práv zurzašských pánů."
+  },
+  {
+   "text": "n. Die Fähren zu Lunkhofen diesseits und jenseits der Reuß sollen abgethan werden bis auf das rechte Fahr, damit das Geleit nicht beeinträchtigt werde.",
+   "preklad": "n. Přívozy u Lunkhofenu na této i oné straně Reussy se mají zrušit až na ten řádný přívoz, aby nebylo zkracováno průvodné (Geleit)."
+  },
+  {
+   "text": "o. Der Moser und der Schmied von Sarmenstorf sind gerichtet; ersterer soll den Eidgenossen 10 Pfund zu Buße geben, ohne Nachtheil seiner Ehre; jeder Theil trägt seinen Antheil der Kosten.",
+   "preklad": "o. Moser a kovář ze Sarmenstorfu jsou rozsouzeni: první má dát Spřísežencům pokutou 10 liber, bez újmy na své cti; každá strana nese svůj podíl nákladů."
+  },
+  {
+   "text": "p. Rechnung: Der Vogt im Thurgau giebt jedem der sieben Orte 32 Pfund Haller, Lunkhofen 14 Schillinge, der Vogt im Oberland giebt jedem der sieben Orte 29 Pfund Haller; das Geleit zu Mellingen erträgt jedem Orte 7 Pfund Haller, das zu Bremgarten 4 Pfund; der Vogt in gemeinen Aemtern giebt jedem der sieben Orte 40 Pfund; der Vogt zu Baden giebt jedem Orte 45 Pfund; das Geleit zu Baden erträgt jedem Orte 14 Pfund, dasjenige zu den Bädern 3 Pfund Haller.",
+   "preklad": "p. Vyúčtování: Fojt v Thurgau dává každému ze sedmi míst (kantonů) 32 liber haléřů, Lunkhofen 14 šilinků, fojt v Oberlandu dává každému ze sedmi míst 29 liber haléřů; průvodné v Mellingenu vynáší každému místu 7 liber haléřů, v Bremgartenu 4 libry; fojt ve Společných úřadech (gemeine Aemter) dává každému ze sedmi míst 40 liber; fojt v Badenu dává každému místu 45 liber; průvodné v Badenu vynáší každému místu 14 liber, průvodné u lázní 3 libry haléřů."
+  },
+  {
+   "text": "q. Werthung der Münze: ein Baslersechser für 3 Angster, ein alter Weißpfenning für 9 Angster, ein Bernerfünfer für 5 Haller, ein ganzer Bernerplappart für 16 Haller, ein Savoyerplappart für 1 Schilling, ein burgundischer Plappart für 1 Schilling, ein großer burgundischer Plappart für 2 Plappart.",
+   "preklad": "q. Ocenění mincí: basilejský šestník za 3 angstery, starý bílý peníz (Weißpfennig) za 9 angsterů, bernský pětník za 5 haléřů, celý bernský groš za 16 haléřů, savojský groš za 1 šilink, burgundský groš za 1 šilink, velký burgundský groš za 2 groše."
+  },
+  {
+   "text": "Zu b. Schreiben Graf Ulrichs, Stuttgart ultimo Maii, im Staatsarchiv Lucern, Acten: Deutsches Reich, Fasc. XXIII. — m–p fehlen im Lucerner-Exemplar. — Zu q. Das Schwyzer-Exemplar enthält als den Ertrag des Geleits zu Mellingen 6½ Pfund, desjenigen zu Baden 11½ Pfund.",
+   "preklad": "K bodu b. List hraběte Ulricha, Stuttgart, poslední května, ve Státním archivu Luzern, akta: Německá říše, fasc. XXIII. — Body m–p v luzernském exempláři chybějí. — K bodu q. Schwyzský exemplář uvádí jako výnos průvodného v Mellingenu 6½ libry, v Badenu 11½ libry."
+  },
+  {
+   "text": "844. Freiburg. 1476, 25. Juli – 12. August (Jacobi bis Montag nach Laurentii). Staatsarchiv Lucern: Acten, Burgunderkrieg. Allgemeine Abschiede, B. 112–115. Staatsarchiv Zürich: Tschudische Sammlung I. 29. Staatsarchiv Bern: Allgemeine Eidgenössische Abschiede, A. 53–58, 73–80. Archiv Solothurn: Abschiedeband, O. 47. Chmel: Monumenta habsburgica I. 218.",
+   "preklad": "**č. 844 – Fribourg, 25. 7. – 12. 8. 1476** (od sv. Jakuba do pondělí po sv. Vavřinci). Státní archiv Luzern: akta, Burgundská válka; Všeobecné výnosy B 112–115. Státní archiv Curych: Tschudiho sbírka I. 29. Státní archiv Bern: Všeobecné spříseženecké výnosy A 53–58, 73–80. Archiv Solothurn: Svazek výnosů O 47. Chmel: Monumenta habsburgica I, 218."
+  },
+  {
+   "text": "„Dis sind die Fürsten, Herren, Stett vnd Eydgnossen, so vff dem tag ze Friburg erschinen sind: Min Herr von Lothringen in eigner person; Graf Philipps von Liningen; der tütsch Bellis; Bernhard zum Trübel vnd vff x Edler oder mer bi Im gehept. Mins Herren von Oesterrich rätt: Herr Marquart von Schellenberg, Marschalk; Herr Wilhelm Herter; Hans von Rinach; Antoni Geißberg. Mins Herren von Straßburg: Bernhart Wurzgart; Bernhart Ott Friedrich. Mins Herren von Basel: Mattheus Müller, Doctor und Official; Herr Jörg von Venningen; Herr Jacob Rich; Statt Straßburg: Herr Hans von Kaltenegk; Statt Basel: Herr Peter Rot, Burgermeister. Colmar: Hans Huter. Slettstadt: Hans Heilman. Sant Gallen: Ludwig Vogelweider. Appenzell: Ammann Zidler; Hans Schürge. Biel: Der Venner; Steffan Khory. Walliser: Habent by viij redlicher personen da gehept. Die Oertter der Eydgnossen: Zürich: Herr Heinrich Göldlin, Burgermeister. Bern: Herr Peter von Wabern; Herr Niclaus von Scharnachthal; Herr Adrian von Bubenberg; Herr Wilhelm von Diesbach; Doctor Thüring, Stadtschriber; die zwen renner. Luzern: …",
+   "preklad": "„Toto jsou knížata, páni, města a Spříseženci, kteří se dostavili na sněm do Fribourgu: Můj pán [vévoda] lotrinský osobně; hrabě Philipp z Leiningenu; ‚německý Bellis‘ [?]; Bernhard zum Trübel; a měl u sebe asi 10 šlechticů nebo více. Radové mého pána rakouského: pan Marquart von Schellenberg, maršálek; pan Wilhelm Herter; Hans von Rinach; Antoni Geißberg. [Vyslanci] mého pána [biskupa] štrasburského: Bernhart Wurzgart; Bernhart Ott Friedrich. Mého pána [biskupa] basilejského: Mattheus Müller, doktor a oficiál; pan Jörg von Venningen; pan Jacob Rich. Město Štrasburk: pan Hans von Kaltenegk. Město Basilej: pan Peter Rot, purkmistr. Colmar: Hans Huter. Sélestat: Hans Heilman. St. Gallen: Ludwig Vogelweider. Appenzell: úředník Zidler; Hans Schürge. Biel: praporečník; Steffan Khory. Walliští: měli tam asi 8 počestných osob. Místa Spříseženců: Curych – pan Heinrich Göldlin, purkmistr. Bern – pan Peter von Wabern; pan Niclaus von Scharnachthal; pan Adrian von Bubenberg; pan Wilhelm von Diesbach; doktor Thüring, městský písař; oba ‚renner‘ [?]. Luzern: …"
+  }
+ ],
+ "poznamky": [
+  "Začátek strany dokončuje bod i č. 843 (Diessenhofen) z předchozí strany.",
+  "„Gemeine Aemter“ = Společné úřady (Freie Ämter v Aargau), společné panství; „Oberland“ zde patrně Sarganserland nebo horní Freie Ämter [?] (mimo text). „Bäder“ = lázně v Badenu.",
+  "Mince: Angster = drobný curyšský/basilejský peníz (2 haléře?) [?]; Plappart = groš podle glosáře; Bernerfünfer = bernský pětník.",
+  "č. 844: sv. Jakub = 25. 7.; pondělí po sv. Vavřinci (10. 8., sobota) = 12. 8. 1476. Mírový kongres ve Fribourgu po bitvě u Murtenu (22. 6. 1476), kde se jednalo se Savojskem a o Vaud (mimo text).",
+  "„der tütsch Bellis“ – nejasné; snad německý herold či úředník jménem Bellis [?]. „vff x Edler“ = asi deset šlechticů.",
+  "„die zwen renner“ – edice zřetelně tiskne „renner“; pravděpodobně jde o „venner“ (dva bernské praporečníky), případně o jízdní posly (Renner) [?]. Ponecháno.",
+  "Doctor Thüring = Thüring Fricker, bernský městský písař (mimo text). Mattheus Müller, oficiál basilejského biskupa.",
+  "OCR opraveno podle skenu: konce řádků (Abt, Thurgau wegen, Lucern, Zürich, letztern, Lunkhofen, nicht, soll, Antheil, Lunk-hofen, zu, das, Wer-thung, Berner-fünfer, Plappart, Deutsches, den, Bern-hard, Herr, Geißberg, von, Statt, Colmar, Am-mann, viij, Göldlin, von, Luzern) a čísla (844, 1476, 25. Juli, 12. August, B. 112–115, I. 29, A. 53–58, 73–80, O. 47, I. 218, 32/29/40/45/14 Pfund, 6½, 11½)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

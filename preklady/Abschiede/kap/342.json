@@ -1,0 +1,76 @@
+{
+ "cislo": 342,
+ "svazek": "3/1",
+ "strana": 2,
+ "pdf_strana": 18,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1478 bis 1499.pdf",
+ "priloha": false,
+ "rok": 1478,
+ "zahlavi": "2 Januar 1478.",
+ "nadpis": "Schluss Nr. 1 (Zürich, Jan. 1478): Friedensvertrag mit Maximilian, 150,000 Gulden Kriegskosten, Bemerkungen; Nr. 2 Innsbruck, 26. Jan. 1478 – Erbvereinigung; Nr. 3 Bern, 4. Febr. 1478 – Rechnungsabnahme der Vögte (Anfang)",
+ "nadpis_preklad": "konec č. 1 (Curych, leden 1478): mír s Maxmiliánem, 150 000 zlatých válečných nákladů, poznámky; č. 2 Innsbruck, 26. 1. 1478 – dědičná smlouva s Rakouskem; č. 3 Bern, 4. 2. 1478 – vyúčtování fojtů (začátek)",
+ "odstavce": [
+  {
+   "text": "… Erzherzog Sigmund von Oesterreich und Tyrol, Herzog Renat von Lothringen, Ruprecht Bischof zu Straßburg, Johannes Bischof zu Basel, gemeinen Eidgenossen der VIII Orte und den Städten Freiburg und Solothurn, sowie Basel, Colmar und Schlettstedt auf der einen, Maximilian Erzherzog von Oesterreich und seiner Gemahlin Maria von Burgund auf der andern Seite. (Beilage 1.)",
+   "preklad": "… arcivévodou Zikmundem Rakouským a Tyrolským, vévodou Renatem Lotrinským, Ruprechtem biskupem štrasburským, Johannem biskupem basilejským, všemi Spříseženci osmi míst (VIII Orte) a městy Fribourgem a Solothurnem, jakož i Basilejí, Colmarem a Sélestatem na jedné straně a Maxmiliánem arcivévodou rakouským a jeho chotí Marií Burgundskou na straně druhé. (Příloha 1.)"
+  },
+  {
+   "text": "q. Maximilian und Maria von Burgund nebst der Grafschaft Oberburgund verpflichten sich, dem Herzog Sigmund von Oesterreich, Herzog Renat von Lothringen, den Herren und Städten der niedern Vereinigung und gemeinen Eidgenossen der VIII Orte nebst Freiburg und Solothurn innert drei Jahren 150,000 rheinische Goldgulden an ihre Kriegskosten zu bezahlen. (Beilage 2.)",
+   "preklad": "q. Maxmilián a Marie Burgundská spolu s Horním Burgundskem (hrabstvím) se zavazují zaplatit vévodovi Zikmundovi Rakouskému, vévodovi Renatu Lotrinskému, pánům a městům Dolního spolku a všem Spřísežencům osmi míst spolu s Fribourgem a Solothurnem do tří let 150 000 rýnských zlatých na jejich válečné náklady. (Příloha 2.)"
+  },
+  {
+   "text": "Zu g. Nach den Bemerkungen des Stadtschreibers Hans vom Stall, welcher als solothurnischer Gesandter dem Tag zu Zürich beiwohnte und während desselben, am Mittwoch nach Hilarii in der zehnten Stunde Vormittags, an seine Obrigkeit Bericht erstattete (Solothurner Wochenblatt von 1819. S. 161 ff.) bezieht sich dieser Artikel auf die am 30. December 1477 zu Lucern mit der französischen Botschaft gepflogenen Verhandlungen (Bd. II.). Ueber die Anerbietungen, welche daselbst von Seite Frankreichs bezüglich der Stadt Salins und anderer den Eidgenossen gelegener Gebietstheile oder der Bezahlung von 200,000 Schildkronen durch den König und Anweisung von 150,000 Gulden auf die Grafschaft Burgund gemacht worden waren, enthält der Abschied nichts, wiewohl der Bericht von Stalls auf diesfalls stattgehabte Verhandlungen hinzudeuten scheint. Siehe auch unten 30 n.",
+   "preklad": "K bodu g. Podle poznámek městského písaře Hanse vom Stall, který byl jako solothurnský vyslanec přítomen sněmu v Curychu a během něho, ve středu po sv. Hilariovi v deset hodin dopoledne, podal své vrchnosti zprávu (Solothurner Wochenblatt z r. 1819, s. 161 n.), se tento článek vztahuje k jednání vedenému 30. prosince 1477 v Luzernu s francouzským vyslanectvím (sv. II). O nabídkách, které tam Francie učinila ohledně města Salins a jiných území Spřísežencům po ruce, nebo zaplacení 200 000 štítových korun králem a poukázání 150 000 zlatých na Burgundské hrabství, výnos nic neobsahuje, ačkoli se zdá, že vom Stallova zpráva na jednání o tom naznačuje. Viz též níže č. 30 n."
+  },
+  {
+   "text": "Zu p. q. Diese beiden wichtigsten Verhandlungsgegenstände des Tages sind im Abschiede selbst nicht erwähnt.",
+   "preklad": "K bodům p, q. Tyto dva nejdůležitější předměty jednání sněmu nejsou ve výnosu samém zmíněny."
+  },
+  {
+   "text": "2. Innsbruck. 1478, 26. Januar (Montag nach Pauli Conversionis). Staatsarchiv Zürich.",
+   "preklad": "**č. 2 – Innsbruck, 26. 1. 1478** (pondělí po Obrácení sv. Pavla). Státní archiv Curych."
+  },
+  {
+   "text": "Erbvereinigung der Orte Schwyz, Unterwalden, Zug und Glarus mit Oesterreich. (Beilage 3.)",
+   "preklad": "Dědičná smlouva (Erbeinung) míst Schwyz, Unterwalden, Zug a Glarus s Rakouskem. (Příloha 3.)"
+  },
+  {
+   "text": "3. Bern. 1478, 4. Februar. Staatsarchiv Zürich: Tschudische Sammlung.",
+   "preklad": "**č. 3 – Bern, 4. 2. 1478.** Státní archiv Curych: Tschudiho sbírka."
+  },
+  {
+   "text": "a. Rechnungsabnahme: 1) Vogt von Iferten: Ertrag der Herrschaft an Korn, Haber, Pfisterei, Fischenz rc., alles zu Geld angeschlagen in Summa 436 Pfund; daran hat er verrechnet zwei Jahreszinse an die Barfüßer in Neus, alle Jahre 50 Pfund guter Münze, macht für die zwei Jahre an Währschaft 166 Pfund 8 Gros; dann seinen Lohn 25 Pfund. An Geld bringt er 59 Pfund 3 Gros; denen von Iferten sind geschenkt 25 Pfund. Der Vogt bleibt schuldig 166 Pfund.",
+   "preklad": "a. Převzetí účtů: 1) Fojt z Yverdonu: výnos panství z obilí, ovsa, pekařství, rybolovu atd., vše oceněno na peníze, činí celkem 436 liber; z toho vyúčtoval dva roční úroky bosým františkánům v Nyonu, každý rok 50 liber dobré mince, což za dva roky činí v platné měně 166 liber 8 grošů; dále svou mzdu 25 liber. Na penězích přináší 59 liber 3 groše; Yverdonským bylo darováno 25 liber. Fojt zůstává dlužen 166 liber."
+  },
+  {
+   "text": "2) Vogt von Cossonay: Ertrag der Herrschaft 228 Pfund. Daran wird verrechnet: Vogtlohn 25 Pfund, Baukosten an Mühlen, Brücken rc. 60 Pfund; Spende an arme Leute, die auf der Herrschaft haftet, 46 Pfund.",
+   "preklad": "2) Fojt z Cossonay: výnos panství 228 liber. Z toho se započítává: mzda fojta 25 liber, stavební náklady na mlýny, mosty atd. 60 liber; almužna chudým, která na panství vázne, 46 liber."
+  },
+  {
+   "text": "3) Vogt von Solopiern (Surpierre): Ertrag der Herrschaft 114 Pfund 8 Gros. Daran verrechnet: Zehrung für die von Bern und Freiburg zu Peterlingen 40 Pfund; Vogtlohn 25 Pfund und für das vorige Jahr 12 Pfund 8 Gros.",
+   "preklad": "3) Fojt ze Surpierre (Solopiern): výnos panství 114 liber 8 grošů. Z toho vyúčtováno: útrata za Bernské a Fribourgské v Payerne 40 liber; mzda fojta 25 liber a za předchozí rok 12 liber 8 grošů."
+  },
+  {
+   "text": "4) Vogt von Romont: Ertrag der Herrschaft 465 Pfund; die Eidgenossen schenken den Vogtleuten an ihren Verlust und Brand eine (nicht näher angegebene) Summe.",
+   "preklad": "4) Fojt z Romontu: výnos panství 465 liber; Spříseženci darují poddaným fojtství na jejich ztráty a škody ohněm (blíže neuvedenou) částku."
+  },
+  {
+   "text": "5) Vogt von Stäffis; Ertrag an Geld, Wachs, Korn und Imber zusammen 388 Pfund 3 Gros.",
+   "preklad": "5) Fojt z Estavayeru: výnos v penězích, vosku, obilí a zázvoru (imber) celkem 388 liber 3 groše."
+  },
+  {
+   "text": "6) Jacob von Ligerz, Vogt zu Ecle (Les Clés) und zum …",
+   "preklad": "6) Jacob von Ligerz, fojt v Les Clées (Ecle) a v …"
+  }
+ ],
+ "poznamky": [
+  "Text opraven a doplněn z obrázku (OCR byl na této straně velmi chybný, zejména poznámka „Zu g.“).",
+  "Data: středa po sv. Hilariovi (13. 1., v r. 1478 úterý) = 14. 1. 1478; pondělí po Obrácení sv. Pavla (25. 1., neděle) = 26. 1. 1478; 4. 2. 1478 = Popeleční středa.",
+  "Bod p/q: mírová smlouva s Maxmiliánem a Marií Burgundskou (Curych, 24. 1. 1478) a závazek zaplatit 150 000 zlatých válečných nákladů (mimo text). Oberburgund = Horní Burgundsko, tj. Burgundské hrabství (Franche-Comté).",
+  "Ruprecht von Pfalz-Simmern, biskup štrasburský; Johann von Venningen, biskup basilejský (mimo text). Schlettstedt = Sélestat.",
+  "Bod 1: počty ponechány podle edice – 2 × 50 liber „dobré mince“ = 166 liber 8 grošů „an Währschaft“ (v běžné platné měně, přepočet kurzu) a „fojt zůstává dlužen 166 liber“ (shoda čísla je nápadná, ale neopravováno). Barfüßer in Neus = františkáni v Nyonu.",
+  "Imber = zázvor (Ingwer) [?] – mohlo by jít i o „Imme“ = med/včely; ponecháno jako zázvor s otazníkem.",
+  "Vogt zu Ecle (Les Clés) = Les Clées (Vaud); „zum heiligen Kreuz“ (pokračuje na další straně) = Sainte-Croix (mimo text). Pfund/Gros = libra/groš (savojská početní měna)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

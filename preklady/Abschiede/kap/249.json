@@ -1,0 +1,88 @@
+{
+ "cislo": 249,
+ "svazek": "2",
+ "strana": 619,
+ "pdf_strana": 647,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1476,
+ "zahlavi": "September 1476. glg",
+ "nadpis": "Schluss Nr. 850 (Lucern, 23. Sept. 1476): Heiligthum, Panner und Fahnen der Beute, Geld von Murten, Mailand, Diamant, Waadt, Yverdon, Freiburg; auswärtige Boten",
+ "nadpis_preklad": "konec č. 850 (Luzern, 23. 9. 1476) – relikvie, ukořistěné korouhve a prapory, peníze od Murtenu, převoz děl, Milán a překupníci koní, diamant, fojti ve Vaudu, zrádci Yverdonu, Fribourg nebude místem; zahraniční vyslanci",
+ "odstavce": [
+  {
+   "text": "[zu]laufen lassen. s. Da die laufenden Knechte zu Zeiten Solche beschädigen, die in der Vereinigung sind, so soll man diejenigen, welche dergleichen thun, anhalten und „leren, dz sy das nit mer tügent“.",
+   "preklad": "[… dovoleno najmout.] s. Protože toulaví (žoldnéřští) knechti občas poškozují ty, kdo jsou v Dolním spolku, mají se ti, kdo něco takového činí, zadržet a „naučit, aby to už nedělali“."
+  },
+  {
+   "text": "t. Da die Schwyzer verlangen, das Heiligthum, welches die Berner begehrt haben, solle nach Einsiedeln kommen, so soll man es einstweilen an Ort und Stelle lassen und der Gelehrten Rath halten, was damit zu thun sei. Darauf haben die Boten von Bern begehrt, man möchte es ihnen nur über ihre Romfahrt lassen, darnach wollen sie es wieder nach Lucern bringen. Es wird ihnen geantwortet wie zuvor und dabei zu erkennen gegeben, daß die Boten hiefür keine Vollmacht haben.",
+   "preklad": "t. Protože Schwyzští žádají, aby relikvie, o které stáli Bernští, přišly do Einsiedeln, mají se zatím ponechat na místě a má se vyžádat rada učených, co s nimi učinit. Nato vyslanci z Bernu žádali, aby jim byly ponechány jen po dobu jejich římské pouti; potom je chtějí zase přinést do Luzernu. Bylo jim odpovězeno jako předtím a zároveň dáno na srozuměnou, že vyslanci k tomu nemají plnou moc."
+  },
+  {
+   "text": "u. Die Panner und Fahnen, welche in Kasten gefunden worden sind, sollen nach der Meinung der Boten gleich getheilt werden.",
+   "preklad": "u. Korouhve a prapory, které byly nalezeny v truhlách, se mají podle mínění vyslanců rozdělit rovným dílem."
+  },
+  {
+   "text": "v. Dem Herzog von Oesterreich wird empfohlen, dem Cardinal zu Metz zu schreiben, er möchte sich nähern; man sei der Hoffnung, er werde gütlich angehört werden.",
+   "preklad": "v. Vévodovi Rakouskému se doporučuje napsat kardinálovi v Metz, aby přijel blíž; je naděje, že bude vlídně vyslyšen."
+  },
+  {
+   "text": "w. Auf den nächsten Tag zu Lucern sollen die von Schwyz das Geld, das ihnen vor Murten geworden ist, herbringen und Jedermann soll heimbringen, was man mit diesem und dem übrigen Geld, das zu Lucern liegt, thun, ob man dasselbe den Verwundeten und Andern, die etwas verloren haben, geben wolle.",
+   "preklad": "w. Na příští sněm v Luzernu mají Schwyzští přinést peníze, které jim připadly u Murtenu, a každý má doma předložit, co se má s nimi a s ostatními penězi, jež leží v Luzernu, udělat – zda je chtějí dát raněným a jiným, kteří o něco přišli."
+  },
+  {
+   "text": "x. Heimbringen das Begehren Berns um Bezahlung des Fuhrlohns, um die Büchsen von Murten nach Bern zu führen.",
+   "preklad": "x. Předložit doma žádost Bernu o zaplacení povoznictví za převoz děl od Murtenu do Bernu."
+  },
+  {
+   "text": "y. Bern und Solothurn sollen den Grafen Oswald von Thierstein und die von Basel ihrer Streitigkeiten wegen gütlich zu vertragen suchen, oder wenn dieses in Freundschaft nicht geht, sie gegen einander in's Recht weisen.",
+   "preklad": "y. Bern a Solothurn se mají pokusit hraběte Oswalda z Thiersteinu a Basilejské v jejich sporech smírně urovnat, anebo, nepůjde-li to po dobrém, je odkázat k právnímu řízení proti sobě."
+  },
+  {
+   "text": "z. Heimbringen die Antwort, die der Herzog von Mailand der Roßtäuscher, Ammann Wollebs und Kündigs wegen gegeben, und wie er dabei auch viele Ansprachen seiner Angehörigen an die Eidgenossen angezogen hat.",
+   "preklad": "z. Předložit doma odpověď, kterou dal vévoda milánský ohledně překupníků koní, úředníka Wolleba a Kündiga, a jak přitom také uvedl mnoho nároků svých poddaných vůči Spřísežencům."
+  },
+  {
+   "text": "aa. Ebenfalls soll man auf die wiederholten Klagen und Rechtsbegehren der Roßtäuscher gegen den Herzog von Mailand nach Sage der Capitel auf nächstem Tag Antwort geben, damit sie nicht rechtlos gelassen werden.",
+   "preklad": "aa. Rovněž se má na příštím sněmu dát odpověď na opakované žaloby a žádosti překupníků koní o právo proti vévodovi milánskému podle znění kapitul, aby nezůstali bez práva."
+  },
+  {
+   "text": "bb. Jedermann soll mit den Seinen und insbesondere Uri mit dem Ammann Wolleb verschaffen, daß Niemand gegen den Herrn von Mailand oder seine Angehörigen etwas Unfreundliches vornehme.",
+   "preklad": "bb. Každý má se svými, a zvláště Uri s úředníkem Wollebem, zařídit, aby nikdo nepodnikl nic nepřátelského proti pánovi Milána nebo jeho poddaným."
+  },
+  {
+   "text": "cc. Der Diamant soll zu Lucern liegen bleiben, bis man darüber weiter zu Rath wird.",
+   "preklad": "cc. Diamant má zůstat ležet v Luzernu, dokud se o něm dále neusnese."
+  },
+  {
+   "text": "dd. Heimbringen, wie man die Waadt bevogten, wer vorgehen und wie lang Jeder da Vogt sein soll. Auf dem nächsten Tag soll man dieses „entlich beschliessen“.",
+   "preklad": "dd. Předložit doma, jak se má Vaud spravovat fojty, kdo má být první a jak dlouho má každý být fojtem. Na příštím sněmu se to má „definitivně usnést“."
+  },
+  {
+   "text": "ee. Der Knechte wegen, die Yverdon verrathen haben, ob man dieselben begnadigen oder wie man es mit ihnen halten wolle, ist beschlossen, die Sache nochmals heimzubringen, indem zwei Vorschläge gemacht worden sind, wie jeder Bote zu sagen weiß.",
+   "preklad": "ee. Ohledně knechtů, kteří zradili Yverdon – zda je omilostnit, nebo jak s nimi naložit –, se usneslo předložit věc doma ještě jednou, neboť byly učiněny dva návrhy, jak každý vyslanec dovede sdělit."
+  },
+  {
+   "text": "ff. „Sodann von der von Friburg wegen, als die begert hand, ein Ortt zesin, ist Inen von der eidgnossen botten geantwurt alsso, dz man sy für ein Ortt vffnemen, dz können wir nit getun. Daruff die botten von Friburg begert hand, mit Inen ein einig old sust buntniß zu machen nach glichen billichen dingen, sol man heimbringen vnd vff dem nechsten tag ietz zu Lutzern antwurt geben“.",
+   "preklad": "ff. „Dále ohledně Fribourgských, kteří žádali, aby byli místem: vyslanci Spříseženců jim odpověděli tak, že přijmout je za místo, to učinit nemůžeme. Nato vyslanci Fribourgu žádali uzavřít s nimi spolek (einung) nebo jinou smlouvu za rovných a spravedlivých podmínek; to se má předložit doma a odpovědět na příštím sněmu nyní v Luzernu.“"
+  },
+  {
+   "text": "gg. Heimbringen wegen Murten und den Landen und Herrschaften, welche Bern und Freiburg für sich allein in Anspruch nehmen. Die Boten wissen die daherigen Anbringen und auch was zu Zürich darüber gemehret worden wohl zu berichten.",
+   "preklad": "gg. Předložit doma [věc] Murtenu a zemí a panství, které Bern a Fribourg nárokují jen pro sebe. Vyslanci dovedou dobře sdělit, co bylo v té věci přednešeno a co se o tom v Curychu odhlasovalo."
+  },
+  {
+   "text": "Von den Auswärtigen waren Boten auf diesem Tag: von Oesterreich Herr Wilhelm Herter, Ritter; von Lothringen Heinrich Schön; vom Bischof und der Stadt Straßburg Bernhard Wurzgart und der Altammeister Cunrad Riff; vom Bischof von Basel der Official von Basel; von der Stadt Basel Heinrich Zeigler; von Colmar und Schlettstadt „derselben Stett brieffe“. Diese Notiz steht am Ende des Abschieds; Cysat bezieht sie in einer Anmerkung auf das folgende Blatt (Absch. 851); der Inhalt beider Abschiede zeigt aber, daß sie zu diesem Abschied (850) gehört; siehe jedoch auch Abschied 853. — Colmar schreibt den 19. September (Donstag vor Matthäi):",
+   "preklad": "Z cizích [stran] byli na tomto sněmu vyslanci: z Rakouska pan Wilhelm Herter, rytíř; z Lotrinska Heinrich Schön; od biskupa a města Štrasburku Bernhard Wurzgart a bývalý cechmistr Cunrad Riff; od biskupa basilejského basilejský oficiál; od města Basileje Heinrich Zeigler; z Colmaru a Sélestatu „listy těchto měst“. Tato poznámka stojí na konci výnosu; Cysat ji v poznámce vztahuje k následujícímu listu (výnos 851), obsah obou výnosů však ukazuje, že patří k tomuto výnosu (850); srv. však také výnos 853. – Colmar píše 19. září (ve čtvrtek před sv. Matoušem):"
+  }
+ ],
+ "poznamky": [
+  "Konce řádků doplněny ze skenu.",
+  "„laufende Knechte“ = knechti, kteří na vlastní pěst odbíhají do cizích služeb (Reisläufer) – mimo text.",
+  "„Panner und Fahnen … in Kasten“ = korouhve a prapory nalezené v truhlách (z burgundské kořisti; mimo text).",
+  "„Roßtäuscher“ = překupníci (handlíři) koní; „Capitel“ = kapituly, tj. smlouva s Milánem (1467) – mimo text.",
+  "„gemehret“ = odhlasováno většinou (mehren = hlasovat).",
+  "Donstag vor Matthäi: sv. Matouš 21. 9. 1476 (sobota) → čtvrtek 19. 9. 1476.",
+  "Ammeister = cechmistr (Štrasburk); Altammeister = bývalý cechmistr. Official = oficiál (biskupský soudce)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-17, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

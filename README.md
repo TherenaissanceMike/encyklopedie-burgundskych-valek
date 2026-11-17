@@ -14,6 +14,7 @@ Osobnosti, bitvy, události, místa a písně burgundských válek (1468–1477)
 | Diebold Schilling ml., *Eidgenössische Chronik* („Luzerner Schilling“) | Luzern, Korporation Luzern, S 23 fol. | vlastní přepis rukopisu ze skenů e-codices (s. 140–281) | `preklady/Luzerner_Schilling/kap/` (95 kapitol, úsek 1468–1480) |
 | Johannes Knebel, *Diarium* (latinsky) | Basel, Universitätsbibliothek | W. Vischer a H. Boos, *Basler Chroniken* II–III, 1880–1887 | `preklady/Knebel_Diarium/kap/` (227 kapitol, 1473–1479) a `basne/` (7 básní) |
 | Conrad Pfettisheim, *Reimchronik über die Burgunderkriege* (veršovaná) | prvotisk, Štrasburk asi 1477 | G. Tobler, Bern 1917 | `preklady/Pfettisheim_Reimchronik/kap/` (19 oddílů) |
+| *Eidgenössische Abschiede* (sněmovní výnosy Spříseženců) | úřední záznamy sněmů | A. Ph. Segesser, *Amtliche Sammlung der ältern Eidgenössischen Abschiede* II (1863) a III/1 (1858) | `preklady/Abschiede/kap/` (506 stran, přeloženo 252: 1474 – červenec 1478) |
 
 Překlady vytvořila AI (Claude) z tištěných edic, Bern 3 a Luzerner Schilling z vlastního přepisu rukopisu. Prošly první korekturou, **proti rukopisům zatím ověřené nejsou**. Nejistá místa jsou označena `[?]`. Závazné odborné termíny jsou v `TERMINY.md`.
 

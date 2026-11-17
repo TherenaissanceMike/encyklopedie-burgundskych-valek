@@ -1,0 +1,46 @@
+{
+ "cislo": 330,
+ "svazek": "2",
+ "strana": 700,
+ "pdf_strana": 728,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "700 Oktober 1477.",
+ "nadpis": "Schluss Nr. 915 (Lucern, 2. Oct. 1477): e–h; Bemerkungen zu a und e",
+ "nadpis_preklad": "konec č. 915 (Luzern, 2. 10. 1477): body e–h – Wallis a Savojsko, savojská nabídka 50 000 zlatých za Vaud, spor ve Villmergen, mince, biskup z Grenoblu; poznámky k bodům a a e (příměří Wallis–Savojsko)",
+ "odstavce": [
+  {
+   "text": "1. Die Eidgenossen möchten die von Wallis vermögen, entweder das auf die Boten der Eidgenossen angebotene Recht aufzunehmen oder einen Tag behufs freundlicher Verständigung zu leisten. Im Falle Wallis auf keinen dieser Vorschläge eingehen wolle, so möchten wenigstens die Eidgenossen demselben weder Beistand noch Hülfe leisten.",
+   "preklad": "1. Spříseženci ať pohnou Wallisany, aby buď přijali [rozhodčí] řízení nabídnuté před vyslanci Spříseženců, nebo aby přišli na sněm k přátelskému dorozumění. Kdyby Wallis nechtěl přistoupit na žádný z těchto návrhů, ať mu Spříseženci aspoň neposkytují žádnou podporu ani pomoc."
+  },
+  {
+   "text": "2. Savoyen begehrt, daß man ihm das Land Waadt, welches dem Grafen von Romont gewesen, wieder lasse; in diesem Falle wolle es 50,000 Gulden bezahlen, und zwar die Hälfte auf nächste Lichtmesse und die übrigen 25,000 innert Jahresfrist. Auf diese beiden Begehren soll man von nächstem Tag aus antworten und die Antwort nach Bern schreiben, welches selbe dann der Herzogin mittheilen soll.",
+   "preklad": "2. Savojsko žádá, aby mu byla vrácena země Vaud, která patřila hraběti z Romontu; v tom případě chce zaplatit 50 000 zlatých, a to polovinu na příští Hromnice a zbylých 25 000 do roka. Na obě tyto žádosti se má odpovědět z příštího sněmu a odpověď napsat do Bernu, který ji pak má sdělit vévodkyni."
+  },
+  {
+   "text": "f. Zwischen dem Schmid und dem Arbringer, beiden von Villmergen, ist nach Klage, Antwort, Rede und Widerrede beider Theile erkennt, daß sie einander fürderhin unersucht lassen sollen. Wollen sie dieses nicht thun, so sollen sie mit ihren Kundschaften abermals vor die Boten der Eidgenossen nach Zürich kommen.",
+   "preklad": "f. Mezi Schmidem a Arbringerem, oběma z Villmergenu, bylo po žalobě, odpovědi, řeči a protiřeči obou stran rozhodnuto, že se napříště mají nechat navzájem na pokoji. Nechtějí-li tak učinit, mají se se svými svědky znovu dostavit před vyslance Spříseženců do Curychu."
+  },
+  {
+   "text": "g. Die von Bern haben die Münze der Eidgenossen verrufen, weil man die ihrige nicht mehr annehmen wolle wie früher. Darauf sind sie gebeten worden, mit den Eidgenossen in der Münze zu bleiben wie vorher. Sie haben geantwortet: „Wel man Ir müntz nemen wie vor, so wellen sy von Irem fürnemen stan vnd die müntz mit vns nemen vnd geben wie vor beschechen.“ Darüber soll man sich auf dem Tag zu Zürich erklären, damit man eine gemeinsame Münze habe. Dazu soll man heimbringen, „dz gemein eidgnossen ein müntz schlachen vnd machen in gemeiner Eidgnossen costen, nutz vnd schaden; welche aber nit darJn sin, dz doch die vbrigen, so nutz vnd schaden haben, ein müntz machen, doch dz in den ortten, wie die angesechen, genomen vnd dz man damit die frömden müntz vom land trib; so komen ouch ietz frömd kölnsch guldin vnd ander böß guldin vnd müntz, darvor sol man sich ze nemen wüssen ze hütten, denn man wirt sust betrogen“.",
+   "preklad": "g. Bernští zakázali (prohlásili za neplatnou) minci Spříseženců, protože se jejich mince už nechce přijímat jako dříve. Nato byli požádáni, aby zůstali se Spříseženci při minci jako předtím. Odpověděli: „Bude-li se jejich mince brát jako dříve, chtějí od svého úmyslu upustit a minci s námi brát a dávat jako dříve.“ O tom se má na sněmu v Curychu prohlásit, aby byla společná mince. K tomu se má doma předložit, „aby všichni Spříseženci razili a dělali jednu minci na společný náklad, prospěch i škodu Spříseženců; kdo by však v tom nechtěl být, aby přesto ostatní, kteří nesou prospěch i škodu, razili minci, ale tak, aby se v místech brala, jak byla stanovena, a aby se jí z [naší] země vytlačila cizí mince. Nyní totiž přicházejí i cizí kolínské zlaté a jiné špatné zlaté a mince; před jejich přijímáním je třeba se mít na pozoru, jinak budou lidé ošizeni“."
+  },
+  {
+   "text": "h. Ueber das Anbringen des Bischofs von Grenoble, das jeder Bote wohl kennt, ist beschlossen, man soll auf nächstem Tag zu Zürich Antwort geben, damit er dem König berichten könne. Mit diesem Beschlusse hat er sich nicht begnügt, sondern eine sofortige einläßliche Antwort begehrt. Darauf haben die Boten der vier Städte Zürich, Bern, Lucern und Solothurn im Namen ihrer Herren erklärt, was ihre Herren dem König verbrieft und versiegelt haben, das wollen sie unbedingt halten; bezüglich der weitern Anbringen, des Delphins und anderer Sachen halb, wollen sie das Beste tun und „darumb red hören“.",
+   "preklad": "h. O přednesu biskupa z Grenoblu, který každý vyslanec dobře zná, bylo usneseno dát odpověď na příštím sněmu v Curychu, aby mohl podat zprávu králi. S tímto usnesením se nespokojil a žádal okamžitou podrobnou odpověď. Nato vyslanci čtyř měst – Curychu, Bernu, Luzernu a Solothurnu – jménem svých pánů prohlásili, že co jejich páni králi stvrdili listinou a pečetí, chtějí bezpodmínečně dodržet; ohledně dalších přednesů, kvůli dauphinovi a jiným věcem, chtějí učinit to nejlepší a „vyslechnout o tom řeč“."
+  },
+  {
+   "text": "Zu a. 1477, 17. September. Rathschlag von Bern: Es ist gerathen, daß man mit den vier Städten den Bund mit Oesterreich annehmen wolle; wollen andere Eidgenossen demselben beitreten, so soll es ihnen offen stehen. (Berner Rathsmanual XXII. 156.)",
+   "preklad": "K bodu a. 17. září 1477. Usnesení bernské rady: Uradilo se přijmout spolu se čtyřmi městy spolek s Rakouskem; budou-li chtít přistoupit i jiní Spříseženci, má jim to být otevřeno. (Bernský radní manuál XXII. 156.)"
+  },
+  {
+   "text": "Zu e. 1477, 27. September (Samstag vor Michaelis): Bern begehrt vom Bischof von Wallis in Betracht der manigfaltigen Bedrängnisse, welche Krieg, Theurung etc. über die Länder gebracht, daß er die „Bestände“ zwischen Wallis und Savoyen, davon zu Bern und im Wallis selbst geredet worden, annehmen und zusagen wolle, wie Bern selbe seinerseits angenommen habe. (Deutsches Missivenbuch D. 92 b.) — Den 28. September (Sonntag vor Michaelis) „snell“ schreibt Bern an Freiburg: Auf emsiges Ersuchen habe der Bischof von Sitten für sich und die Landschaft Wallis den Bestand mit dem Hause Savoyen bis St. Jörgentag nächsthin angenommen und zu halten versprochen, sofern die Gegenpartei denselben ebenfalls ehrlich halte. — Unter gleichem Datum verdankt Bern dem Bischof von Sitten diese Zusage und meldet ihm, daß es selbe an Savoyen mitgetheilt habe. (Ebenda 93 b, 94.)",
+   "preklad": "K bodu e. 27. září 1477 (sobota před sv. Michalem): Bern žádá biskupa wallisského, aby vzhledem k mnohému strádání, které na země přinesla válka, drahota atd., přijal a přislíbil „příměří“ mezi Wallisem a Savojskem, o nichž se jednalo v Bernu i přímo ve Wallisu, tak jako je Bern ze své strany přijal. (Německá kniha odeslaných listů D. 92 b.) — 28. září (neděle před sv. Michalem) píše Bern „spěšně“ Fribourgu: Na naléhavou prosbu přijal biskup sionský za sebe i za zemi Wallis příměří se savojským rodem do příštího dne sv. Jiří a slíbil je dodržovat, pokud je protistrana bude rovněž poctivě dodržovat. — Téhož dne Bern biskupovi sionskému za tento příslib děkuje a oznamuje mu, že jej sdělil Savojsku. (Tamtéž 93 b, 94.)"
+  }
+ ],
+ "poznamky": [
+  "Konce řádků doplněny z obrázku. Data: sobota před sv. Michalem = 27. 9. 1477; neděle před sv. Michalem = 28. 9. 1477 (Segesser uvádí „Sonntag vor Michaelis“, OCR „Sonntag Michaelis“; obraz má „vor“); Hromnice (Lichtmess) = 2. 2. 1478; den sv. Jiří (St. Jörgentag) = 23. 4. 1478. Land Waadt, „welches dem Grafen von Romont gewesen“ = Vaud, léno Jakuba Savojského, hraběte z Romontu, spojence Karla Smělého (mimo text). „Bestände“ = příměří (glosář: bestant). „Kölnsch guldin“ = kolínské (rýnské) zlaté, zde podřadné ražby. Biskup sionský (von Sitten) = biskup Walter Supersaxo (mimo text)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

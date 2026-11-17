@@ -1,0 +1,46 @@
+{
+ "cislo": 272,
+ "svazek": "2",
+ "strana": 642,
+ "pdf_strana": 670,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1477,
+ "zahlavi": "g4Z Januar l477.",
+ "nadpis": "Fortsetzung Nr. 866 (Lucern, 20. Jan. 1477): Ansprachen an Mailand, Kriegszug nach Oberburgund oder Tag zu Neuenburg, Tag zu Camrach",
+ "nadpis_preklad": "pokračování č. 866 (Luzern, 20. 1. 1477) – nároky vůči Milánu, tažení do Horního Burgundska nebo sněm v Neuchâtelu, sněm v „Camrach“, Biel a klenot",
+ "odstavce": [
+  {
+   "text": "… gewesen sind, Krieg gegen Mailand zu erheben, so hat man in Ansehung unseres schweren Krieges und anderer Dinge, mit denen wir jetzt nach dem Tode des Herzogs von Burgund zu thun haben, beschlossen, mit denen von Uri, Zug u. s. w. zu reden, sie möchten die Sachen gütlich anstehen lassen, bis sich unsere Sachen zu Gutem schicken; dann wolle man gemeinsam rathschlagen und gerne dazu helfen, daß die Leute von Uri und andere Eidgenossen zu ihrem Rechte gelangen.",
+   "preklad": "… vést válku proti Milánu, bylo s ohledem na naši těžkou válku a jiné věci, jimiž se nyní po smrti vévody burgundského musíme zabývat, usneseno promluvit s lidmi z Uri, Zugu atd., aby nechali věc po dobrém odpočinout, dokud se naše záležitosti neobrátí k dobrému; pak se chtějí společně poradit a rádi pomohou k tomu, aby lidé z Uri a jiní Spříseženci dosáhli svého práva."
+  },
+  {
+   "text": "c. Da beide Städte Bern und Lucern gemeinen Eidgenossen diesen Tag gesetzt hatten, um einen Kriegszug nach Oberburgund zu berathen, weil nach dem Tode des Herzogs die Sache nun vortheilhaft und zeitgemäß erscheine, darauf aber die von Bern auf Werbung Simons von Cleron und anderer Burgunder auf Sonntag nach Pauli Conversionis (26. Januar) einen Tag nach Neuenburg gesetzt haben, so haben die Orte diessfalls geantwortet, wie folgt:",
+   "preklad": "c. Protože obě města, Bern a Luzern, svolala všem Spřísežencům tento sněm, aby se poradili o válečném tažení do Horního Burgundska, neboť po vévodově smrti se věc nyní jeví výhodná a příhodná, Bernští však poté na žádost Simona de Cléron a jiných Burgunďanů svolali sněm do Neuchâtelu na neděli po Obrácení sv. Pavla (26. ledna), odpověděla místa (kantony) v této věci takto:"
+  },
+  {
+   "text": "Zürich: Der Zug erscheine jetzt schon der Jahreszeit wegen nicht zweckmäßig, um so weniger aber noch, weil zu besorgen sei, der König von Frankreich werde sich als ein Erbe des Herzogs des Landes annehmen und in Folge dessen möchte uns Eidgenossen an der jährlichen Pension vom König Eintrag erwachsen, auch aus andern Gründen; doch gefiele Zürich, daß Bern oder andere Vermittler die Sache zur Hand nähmen und auf dem Wege freundlicher Tagleistungen oder auf andere Weise trachten möchten, für die Eidgenossen etwa eine Summe Geldes oder andere Vortheile zu erhalten. Da nun Bern einen Tag angesetzt hatte, so hofft der Bote von Zürich, seine Herren werden denselben beschicken.",
+   "preklad": "Curych: Tažení se už kvůli roční době nyní nejeví účelné, tím méně však proto, že je třeba se obávat, že se král francouzský ujme země jako dědic vévody, a v důsledku toho by nám Spřísežencům mohla vzniknout újma na roční penzi od krále; i z jiných důvodů. Curychu by se však líbilo, kdyby se věci ujal Bern nebo jiní prostředníci a cestou přátelských jednání na sněmech nebo jinak se snažili získat pro Spřísežence nějakou sumu peněz nebo jiné výhody. Protože Bern již sněm svolal, doufá curyšský vyslanec, že jeho páni na něj pošlou vyslance."
+  },
+  {
+   "text": "Bern: Es stehen zwei Wege offen: der eine, den Zug zu thun, der andere, den Tag zu Neuenburg zu leisten; doch hoffe Bern, „ob man den tag such, da werde etwz anbracht, dz ob Got wil, zu gar gutem friden vnd vnser aller nutz dienen sol, diewil doch der zug ietzmalen kelti vnd vnwetters halb eben hart ze tund were“. Wenn man Bern etwas anvertrauen wolle, so werde es nach bestem Wissen die Sachen vornehmen, bis die übrigen Eidgenossen auch dazu kommen. Freiburg und Biel wie Bern.",
+   "preklad": "Bern: Jsou otevřeny dvě cesty: jedna podniknout tažení, druhá vykonat sněm v Neuchâtelu; Bern však doufá, „že navštíví-li se sněm, bude tam něco předneseno, co, dá-li Bůh, poslouží k velmi dobrému míru a k užitku nás všech, neboť tažení by nyní bylo kvůli zimě a nečasu věru těžké podniknout“. Bude-li se chtít Bernu něco svěřit, ujme se věcí podle svého nejlepšího vědomí, dokud k tomu nepřistoupí i ostatní Spříseženci. Fribourg a Biel jako Bern."
+  },
+  {
+   "text": "Lucern: Ihm hätte gefallen, den Zug zu thun, damit nichts Aergeres einfiele und nicht Solche, die bisher wenig Arbeit und Kosten an diesen Krieg gewendet, den Eidgenossen nun den Nutzen vorweg nähmen. Es hätte Vollmacht gehabt, zum Zug zu stimmen; doch da Bern seitdem den Tag angesetzt, so wollen die Boten das an ihre Herren bringen; sie meinen, Lucern werde den Tag besuchen. Uri hat keine Vollmacht, weder den Tag noch den Zug zuzusagen, hofft aber, der Tag werde seinerseits besucht werden. Schwyz, Unterwalden und Zug in gleichem Sinne wie Uri; doch bemerkt Obwalden, wenn man je den Zug thun wolle, so soll man ihn zu Zeiten thun, ehe der König oder Andere das Land in Besitz genommen haben. Nach Glarus soll man die Sachen schreiben, der Bote will hier bleiben und den Tag zu Neuenburg besuchen.",
+   "preklad": "Luzern: Jemu by se líbilo podniknout tažení, aby nenastalo nic horšího a aby ti, kdo dosud na tuto válku vynaložili málo práce a nákladů, nyní Spřísežencům nevzali užitek. Měl plnou moc hlasovat pro tažení; protože však Bern mezitím svolal sněm, chtějí to vyslanci předložit svým pánům; míní, že Luzern na sněm přijde. Uri nemá plnou moc přislíbit ani sněm, ani tažení, doufá však, že za něj bude sněm obeslán. Schwyz, Unterwalden a Zug v témž smyslu jako Uri; Obwalden však poznamenává, že chce-li se tažení vůbec podniknout, má se podniknout včas, dříve než se země zmocní král nebo jiní. Do Glarusu se má o věcech napsat; vyslanec chce zůstat zde a jet na sněm do Neuchâtelu."
+  },
+  {
+   "text": "d. Der savoyische Bote, Herr Urban (von Chivron), Protonotarius und Abt zu St. Amadei, bittet, daß die Eidgenossen am 15. Februar den Tag zu Camrach, den der König von Frankreich gemäß früherm Abschied des Hauses Savoyen und anderer Sachen wegen angesetzt hat, besuchen möchten. Man hat dem Boten gerathen, dieses Anbringen von Ort zu Ort zu thun; inzwischen soll man die Sache heimbringen und jedes Ort soll auf Dienstag zu Nacht nach Pauli Conversionis (28. Januar) seine Boten wieder zu Lucern haben, um zu entscheiden, ob man den Tag besuchen wolle oder nicht, wenn ja, ob insgemein oder durch einzelne Orte.",
+   "preklad": "d. Savojský vyslanec, pan Urban (de Chivron), protonotář a opat u sv. Amadea, prosí, aby Spříseženci 15. února obeslali sněm v Camrach [?], který francouzský král podle dřívějšího výnosu svolal kvůli savojskému domu a jiným věcem. Vyslanci bylo poraděno, aby s tímto podáním obešel místo za místem; mezitím se má věc předložit doma a každé místo má mít své vyslance v úterý večer po Obrácení sv. Pavla (28. ledna) opět v Luzernu, aby se rozhodlo, zda se na sněm pojede, či ne, a pokud ano, zda společně, nebo jednotlivými místy."
+  },
+  {
+   "text": "e. Dem Arnold von Kleberg aus Freiburg im Breisgau soll man auf seine Klage, daß er zu Basel durch die Eidgenossen über erlangte Rechte seiner Pfandsachen entwert worden sei, Empfehlungen an den Bischof von Straßburg und dessen Räthe geben, damit er nach Inhalt seiner erlangten Rechte bezahlt werde. f. Die von Biel verlangen, daß man ihnen die 50 Gulden ihres Kleinods wegen wieder gebe, sie bei Vertheilung des Geldes vom König von …",
+   "preklad": "e. Arnoldu von Kleberg z Freiburgu v Breisgau se mají na jeho stížnost, že byl v Basileji Spříseženci navzdory právům, která získal, zbaven svých zástav, dát doporučení k biskupovi štrasburskému a jeho radám, aby byl vyplacen podle obsahu svých získaných práv. f. Bielští žádají, aby jim bylo vráceno 50 zlatých kvůli jejich klenotu, aby na ně bylo pamatováno při rozdělování peněz od krále …"
+  }
+ ],
+ "poznamky": [
+  "Konce řádků doplněny z obrázku (OCR silně poškozené). Obrácení sv. Pavla = sobota 25. 1. 1477; neděle po něm = 26. 1., úterý = 28. 1. (Segesser). Oberburgund = Horní Burgundsko, tj. Burgundské hrabství (Franche-Comté). Neuenburg = Neuchâtel. Simon von Cleron = Simon de Cléron, burgundský šlechtic (mimo text). Urban von Chivron, opat u sv. Amadea [?] – savojský vyslanec. „Camrach“ – místo sněmu svolaného Ludvíkem XI. nejisté (snad v dosahu Lyonu, viz kap. 273) [?]. „entwert“ = zbaven (vyvlastněn) [?]. Bod f. viz též č. 860 i. (kap. 266) – 50 zlatých za kusy kořisti od Grandsonu."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

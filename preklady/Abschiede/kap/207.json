@@ -1,0 +1,46 @@
+{
+ "cislo": 207,
+ "svazek": "2",
+ "strana": 577,
+ "pdf_strana": 605,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1475,
+ "zahlavi": "December 1475. 577",
+ "nadpis": "Schluss Anm. zu Nr. 826; Nr. 827 Andernach, 31. Dec. 1475: Erklärung Kaiser Friedrichs III.; Nr. 828 Bern, 1. Jan. 1476: Quittung für 21,000 Franken",
+ "nadpis_preklad": "konec pozn. k č. 826 (Curych, 26. 12. 1475); č. 827 Andernach, 31. 12. 1475 – prohlášení císaře Fridricha III. ke spolku Francie se Spříseženci; č. 828 Bern, 1. 1. 1476 – stvrzenka na 21 000 franků",
+ "odstavce": [
+  {
+   "text": "… zu sein, das nicht in Kraft erwuchs. Das Datum: „Geben den 1. Januar 1476“ ist jedenfalls verdächtig. Im Texte heißt es: — „in kraft diser brieff använgig bis den ersten Tag Januarii dis lxxvj Jars vnd wirig bis den 1. Abbrellen“. Die Parteien wollen ihre Boten senden — Herzog Sigmund für sich, die Bischöfe und Städte Straßburg und Basel, die Städte Colmar und Schlettstadt und die Herren des großen Bundes oberdeutschen Landes (Lothringen fehlt hier, während es bei den Zugewandten genannt ist) — auf den Tag „vns durch den hochgebornen Herrn Rudolffen, Marggrafen von Hochberg, bestimlich gen welschen Nüwenburg zu bestantlicher vnd luter befestung der Richtung“ etc. — Im Staatsarchiv Bern befindet sich ein lateinisches Concept dieses Waffenstillstands unter dem Datum: 1475, 29. November. — De Gingins, Dépêches I. 383, nimmt an, dieser Waffenstillstand zwischen den Herzogen Carl und Sigmund sei — in Folge des Zusatzartikels zum Frieden zwischen dem Kaiser und Burgund vom 16. November 1475 (Chmel, Monumenta habsburgica I. 130, oben Abschied 820) — zu Neuenburg wirklich abgeschlossen worden. Siehe auch bei de Gingins, Dépêches II. 63, die Note 14.",
+   "preklad": "… který nevstoupil v platnost. Datum „Dáno 1. ledna 1476“ je v každém případě podezřelé. V textu se praví: „mocí tohoto listu počínaje od prvního dne ledna tohoto [14]76. roku a trvající do 1. dubna“. Strany chtějí vyslat své vyslance – vévoda Zikmund za sebe, biskupové a města Štrasburk a Basilej, města Colmar a Sélestat a páni Velkého spolku hornoněmecké země (Lotrinsko zde chybí, ač je uvedeno mezi spojenci) – na sněm, „který nám vysoce urozený pan Rudolf, markrabě z Hochbergu, určil do vlašského Neuchâtelu k příměřímu a čistému upevnění narovnání“ atd. — Ve Státním archivu v Bernu je latinský koncept tohoto příměří s datem 29. listopadu 1475. — De Gingins (Dépêches I, 383) se domnívá, že toto příměří mezi vévody Karlem a Zikmundem bylo v Neuchâtelu skutečně uzavřeno, a to v důsledku dodatkového článku k míru mezi císařem a Burgundskem ze 16. listopadu 1475 (Chmel, Monumenta habsburgica I, 130; výše výnos 820). Viz též de Gingins, Dépêches II, 63, pozn. 14."
+  },
+  {
+   "text": "827. Andernach. 1475, 31. December. Commines-Lenglet, III. 464.",
+   "preklad": "**č. 827 – Andernach, 31. 12. 1475.** Commines, vyd. Lenglet, III, 464."
+  },
+  {
+   "text": "Erklärung Kaiser Friedrichs III. betreffend das Bündniß König Ludwigs XI. von Frankreich mit den Eidgenossen gegen Herzog Carl von Burgund:",
+   "preklad": "Prohlášení císaře Fridricha III. o spolku krále Ludvíka XI. Francouzského se Spříseženci proti vévodovi Karlovi Burgundskému:"
+  },
+  {
+   "text": "«Fridericus diuina fauente clementia Romanorum Imperator semper Augustus, Hungariæ, Dalmatiæ, Croaciæ rex ac Austriæ, Styriæ, Karinthiæ et Carniolæ Dux, Comesque Tirolis, notum facimus per præsentes pro nobis, heredibus et successoribus nostris, quod cum nos, ut dux Austriæ, et serenissimus Princeps Ludouicus, Francorum rex, frater noster carissimus, invicem ac mutuo sumus confœderati, uniti et colligati juxta continentiam litterarum desuper confectarum: Quod nos per illud fœdus nolumus esse derogatum fœderi ac unioni, quas idem frater noster carissimus Rex Francorum cum Suitensibus habet aduersus Ducem Burgundiæ ac sibi adhærentes, sed suis debent gaudere robore et firmitate, ita tamen quod ipse rex Francorum ipsis Suitensibus aduersus Duces dominii Austriæ nullum auxilium neque fauorem præstare, remota fraude. In cuius rei testimonium has litteras sigilli nostri appensione fecimus communiri. Datum in Andernaco, die ultima mensis Decembris, anno domini millesimo quadringentesimo septuagesimo quinto, Imperii nostri tricesimo tertio, regnorum nostrorum, Romani tricesimo quinto, Hungariæ vero decimo sexto.» (Ad mandatum domini Imperatoris proprium.)",
+   "preklad": "„My, Fridrich, z milosti Boží římský císař, vždy rozmnožitel říše, král uherský, dalmatský a chorvatský, vévoda rakouský, štýrský, korutanský a kraňský a hrabě tyrolský, oznamujeme tímto listem za sebe, své dědice a nástupce: Ačkoli jsme my jako vévoda rakouský a nejjasnější kníže Ludvík, král Francouzů, náš nejdražší bratr, navzájem spojeni, sjednoceni a svázáni podle obsahu listin o tom sepsaných, nechceme, aby onou smlouvou bylo jakkoli ujmuto spolku a svazku, který týž náš nejdražší bratr, král Francouzů, má se Švýcary (Suitenses) proti vévodovi Burgundskému a jeho stoupencům; ty mají požívat své síly a pevnosti, avšak tak, že sám král Francouzů nebude oněm Švýcarům proti vévodům rakouského panství poskytovat žádnou pomoc ani přízeň, bez lsti. Na svědectví toho jsme dali tento list opatřit přivěšením naší pečeti. Dáno v Andernachu posledního dne měsíce prosince léta Páně tisícího čtyřstého sedmdesátého pátého, našeho císařství třicátého třetího, našich království, římského třicátého pátého, uherského pak šestnáctého.“ (Z vlastního rozkazu pana císaře.)"
+  },
+  {
+   "text": "828. Bern. 1476, 1. Januar. Staatsarchiv Bern: Deutsches Missivenbuch C. 673.",
+   "preklad": "**č. 828 – Bern, 1. 1. 1476.** Státní archiv Bern: Německá kniha missiv C. 673."
+  },
+  {
+   "text": "Im Namen gemeiner Eidgenossen quittirt Bern für 21,000 Franken, die es durch Vermittlung des Propsts Jost von Silinon vom König von Frankreich bezahlt erhalten habe.",
+   "preklad": "Jménem všech Spříseženců vydává Bern stvrzenku na 21 000 franků, které mu prostřednictvím probošta Josta von Silinon zaplatil král Francie."
+  }
+ ],
+ "poznamky": [
+  "Konec Segesserovy poznámky k č. 826 (Curych, 26. 12. 1475); začátek na předchozí straně (kap. 206).",
+  "Citace „lxxvj“ – čteno z obrázku (OCR „lxxvij“); poslední písmena jsou na skenu méně zřetelná [?]. „Chmel … I. 130, oben Abschied 820“ podle obrázku (OCR „136“, „826“).",
+  "„welsch Nüwenburg“ = Neuchâtel (vlašský, tj. francouzsky mluvící Neuenburg, na rozdíl od Neuenburgu na Rýně) (mimo text).",
+  "Č. 827: 31. 12. 1475 = neděle. Andernach – město na Rýně (mimo text); Fridrich III. tam byl po ukončení obléhání Neussu. Latinský text čten z obrázku (OCR nečitelné). „Suitenses“ = Švýcaři (od Schwyz). Ve větě „ita tamen quod … præstare“ chybí sloveso (patrně „debeat“) – přeloženo podle smyslu.",
+  "Č. 828: Jost von Silinon (Silenen), probošt v Beromünsteru, později biskup sionský (mimo text). Pole „rok“ ponecháno 1475 podle převažujícího obsahu strany (č. 828 je z 1. 1. 1476)."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}

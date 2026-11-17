@@ -1,0 +1,67 @@
+{
+ "cislo": 101,
+ "svazek": "2",
+ "strana": 471,
+ "pdf_strana": 499,
+ "pdf": "Die eidgenössischen Abschiede aus dem Zeitraume von 1421 bis 1477.pdf",
+ "priloha": false,
+ "rok": 1474,
+ "zahlavi": "Januar 1474. 47t",
+ "nadpis": "Schluss Nr. 731 (Lucern, 21. Januar 1474); Nr. 732 Lucern, 4. Februar 1474 – Verbot des Reislaufens zu Burgund und Hagenbach",
+ "nadpis_preklad": "konec č. 731 (Luzern, 21. 1. 1474) s luzernskými instrukcemi k Dolnímu spolku a narovnání s Rakouskem; č. 732 Luzern, 4. 2. 1474 – zákaz odcházet do války k Burgundsku a Hagenbachovi",
+ "odstavce": [
+  {
+   "text": "vier Boten aus jedem Drittheil beschicken, ihnen die Sache „eigentlich“ erzählen und darstellen und mit ihnen reden, daß sie mit den Eidgenossen darin einhellig sein und ihre Antwort auf den obgenannten Tag geben möchten.",
+   "preklad": "čtyři zástupce z každé třetiny [země], věc jim „důkladně“ vylíčit a vyložit a promluvit s nimi, aby se v tom se Spříseženci shodli a dali svou odpověď na řečeném sněmu."
+  },
+  {
+   "text": "f. Auf denselben Tag sollen Hans von Baldegg und Albrecht von Reinach hier sein und soll man den Anlaß stellen; Zürich und Bern sollen ihren Boten Gewalt geben und Bern dem von Baldegg, Lucern dem von Reinach den Tag verkünden.",
+   "preklad": "f. Na týž sněm mají být zde Hans von Baldegg a Albrecht von Reinach a má se sepsat úmluva o rozhodčím řízení (Anlaß); Curych a Bern mají dát svým vyslancům plnou moc a Bern má sněm oznámit pánu von Baldegg, Luzern pánu von Reinach."
+  },
+  {
+   "text": "g. Auf das Anerbieten, das der Propst Stör von Amsoldingen des Herzogs von Mailand wegen gethan hat, nämlich des Claus Stoß, der Roßtäuscher und anderer Sachen wegen vor die von Bern zu freundlichen Tagen zu kommen, doch daß man die Capitel ändere, hat man Bern aufgetragen, um einen unverbundenen freundlichen Tag an den Herzog zu werben.",
+   "preklad": "g. Na nabídku, kterou učinil probošt Stör z Amsoldingen jménem vévody milánského – totiž že kvůli Clausi Stoßovi, kvůli koňským handlířům a jiným věcem přijde před Bernské k přátelským jednáním, avšak pod podmínkou, že se změní kapitoly –, bylo Bernu uloženo, aby u vévody usiloval o nezávazné přátelské jednání."
+  },
+  {
+   "text": "Zu d. Instructionen Lucerns auf diesen Punkt (Lucerner Abschiedband B. 13 b):",
+   "preklad": "K bodu d: instrukce Luzernu k tomuto bodu (svazek luzernských výnosů B 13 b):"
+  },
+  {
+   "text": "„Item vff das Stuk von der Vereinung wegen mit den nidren Stetten ist miner Herren von Lutzern antwurt, dz sy die vffnemen, wie die vorder schrifft wist, mit gemeinen eidgnossen old dem meren teil. Sodann von der Richtung wegen mit dem fürsten von Oesterrich ist aber miner herren antwurt, dz sy das aber mit gemeinen eidgnossen old dem meren teil dz vffnemen, doch wel man der sach dheinen costen han.",
+   "preklad": "„Rovněž na bod ohledně spolku s Dolními městy je odpověď mých pánů z Luzernu, že jej přijímají, jak ukazuje předchozí spis, spolu se všemi Spříseženci nebo s většinou. Dále ohledně narovnání s knížetem rakouským je odpověď mých pánů opět ta, že je přijímají spolu se všemi Spříseženci nebo s většinou, avšak nechtějí mít s tou věcí žádné náklady."
+  },
+  {
+   "text": "Vff mittwuchen nach Sant Valentinstag anno lxxiiij° (16. Februar 1474) hand Räte vnd Hundert aber beslossen vnd ist das mer worden, dz si noch hütbitag by der antwurt wöllend bliben, wie die beider sachen halb da obgeschriben stat vnd si den eidgnossen vormalen geben haben.",
+   "preklad": "Ve středu po sv. Valentinovi roku [14]74 (16. února 1474) radní a Stovka znovu usnesli a většinou bylo odhlasováno, že ještě dnešního dne chtějí zůstat při odpovědi, jak je v obou věcech výše napsána a jak ji dříve dali Spřísežencům."
+  },
+  {
+   "text": "Vff mendag vor Gregorii anno lxxiiij° (7. März 1474) sind aber myn herren Räte vnd Hundert trefflich by einandern gewesen vnd sich geeinbart, dz sy by Jr vordrigen antwurt, wie si da vormalen vmb beid sachen zwürent zu Rat worden sind vnd geantwurt haben, bliben wöllend. — Vnd als die von Bern anbracht haben von der nidern Stetten vnd der vier Stetten vff dem Ryn wegen, dz si ye denselben hilff vnd trost wellen zusetzen etc., hand Inen Räte vnd Hundert vmb das stuk zugeseit, dz sy mit vnsern eitgenossen von Bern in derselben Sach ouch sin, darinn mit Inen züchen vnd als zu vnsern getrüwen fründen vnd eitgenossen darin lib vnd gut zu Inen setzen wöllend.“",
+   "preklad": "V pondělí před sv. Řehořem roku [14]74 (7. března 1474) byli moji páni radní a Stovka znovu v hojném počtu pohromadě a shodli se, že chtějí zůstat při své dřívější odpovědi, jak se o obou věcech již dvakrát usnesli a odpověděli. – A když Bernští přednesli, že chtějí Dolním městům a čtyřem městům na Rýně poskytnout pomoc a podporu atd., radní a Stovka jim v tomto bodě slíbili, že chtějí být v téže věci s našimi Spříseženci z Bernu, táhnout v ní s nimi a jako k našim věrným přátelům a Spřísežencům k nim v tom nasadit život i statky.“"
+  },
+  {
+   "text": "Zellweger, Versuch über die wahren Gründe des burgundischen Krieges, im Archiv der schweizerischen geschichtforschenden Gesellschaft V. 30, und Wursteisen 436 erwähnen eines Tages, der zwischen Herzog Sigmund, dem Markgrafen von Baden, dem Pfalzgrafen, den Bischöfen von Basel und Straßburg und den Eidgenossen am 10. Januar 1474 zu Basel der Pfandlosung wegen gehalten worden sein soll. — Die Acten dieses Tages fehlen.",
+   "preklad": "Zellweger (Pokus o skutečné příčiny burgundské války, v Archivu švýcarské dějepisné společnosti V, 30) a Wursteisen (str. 436) zmiňují sněm, který se měl konat 10. ledna 1474 v Basileji mezi vévodou Zikmundem, markrabětem bádenským, falckrabětem, biskupy basilejským a štrasburským a Spříseženci kvůli vyplacení zástavy. – Akta tohoto sněmu chybějí."
+  },
+  {
+   "text": "732. Lucern. 1474, 4. Februar (Freitag nach Purificationis Marie). Staatsarchiv Lucern: Lucerner Abschiede, B. 14.",
+   "preklad": "**č. 732 – Luzern, 4. 2. 1474** (pátek po Očišťování Panny Marie). Státní archiv Luzern: Luzernské výnosy B 14."
+  },
+  {
+   "text": "Boten: Zürich. Heinrich Röist, Burgermeister. Bern. Niclaus von Dießbach, Ritter; Peter von Wabern, beide Altschultheißen. Lucern. Caspar von Hertenstein; Rudolf Schiffmann. Uri. Hans Imhof. Schwyz. Dietrich in der Halden. Unterwalden. Ammann Heinzli. Zug. Hans Schell. Glarus. Ammann Aebly.",
+   "preklad": "Vyslanci: Curych – purkmistr Heinrich Röist. Bern – rytíř Niclaus von Dießbach; Peter von Wabern, oba bývalí starostové. Luzern – Caspar von Hertenstein; Rudolf Schiffmann. Uri – Hans Imhof. Schwyz – Dietrich in der Halden. Unterwalden – úředník Heinzli. Zug – Hans Schell. Glarus – úředník Aebly."
+  },
+  {
+   "text": "a. In allen Orten soll man Jedermann bei Leib und Gut verbieten, zum Herzog von Burgund oder zu dem von Hagenbach in Krieg zu laufen, und wo man solche, die im Begriffe stehen, wegzuziehen, ertappt, soll man sie schwören lassen, heimzuziehen und der Sachen müßig zu gehen. Das hat man auch dem Abt von St. Gallen, denen von Appenzell und der Stadt Solothurn geschrieben. Zug soll seinen Vögten im Thurgau und im Oberland, Glarus seinem Vogt in den Aemtern dasselbe empfehlen;",
+   "preklad": "a. Ve všech místech (kantonech) se má každému pod ztrátou hrdla a statků zakázat odcházet do války k vévodovi burgundskému nebo k panu von Hagenbach; a kde se přistihnou takoví, kteří se chystají odejít, mají přísahat, že se vrátí domů a od té věci upustí. Totéž bylo napsáno i opatovi ze St. Gallen, Appenzellským a městu Solothurnu. Zug má totéž uložit svým fojtům v Thurgau a v Oberlandu, Glarus svému fojtovi ve Svobodných úřadech (Ämter);"
+  }
+ ],
+ "poznamky": [
+  "Konec č. 731. „aus jedem Drittheil“ – Obwalden se dělil na třetiny (Drittel) (mimo text).",
+  "„Anlaß“ = úmluva o rozhodčím řízení; „Roßtäuscher“ = koňští handlíři (mezi Bernem a Milánem šlo o spory obchodníků s koňmi) (mimo text). „unverbundener Tag“ = jednání bez závazku (nezávazné).",
+  "Data v luzernské instrukci: středa po sv. Valentinovi (14. 2. 1474 = pondělí) = 16. 2. 1474; pondělí před sv. Řehořem (12. 3. 1474 = sobota) = 7. 3. 1474 – souhlasí s edicí. „Räte und Hundert“ = luzernská Malá rada a Velká rada (Stovka); termín v glosáři chybí. „hütbitag“ = dnešního dne [?].",
+  "„vier Stetten vff dem Ryn“ = čtyři lesní města na Rýně (Rheinfelden, Säckingen, Laufenburg, Waldshut) (mimo text).",
+  "Č. 732: pátek po Hromnicích (2. 2. = středa) = 4. 2. 1474 – souhlasí. „in den Aemtern“ = Svobodné úřady (Freie Ämter) v Aargau [?]; „Oberland“ u Zugu = asi Sarganserland [?].",
+  "OCR opraveno podle skenu: písmena bodů, „Amsoldingen“, „vffnemen“, „Lutzern“, „lxxiiij°“, „hütbitag“, „zwürent“, „setzen“, „Wursteisen 436“, „Purificationis Marie“, „Glarus“."
+ ],
+ "prelozil": "Claude (AI), 17. 11. 2026, ze Segesserovy edice (OCR opraveno podle skenu); neprošlo lidskou korekturou"
+}
