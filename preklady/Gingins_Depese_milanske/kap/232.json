@@ -1,0 +1,61 @@
+{
+ "cislo": 232,
+ "rimske": "CCXXXII",
+ "nadpis": "CCXXXII. Fr. Petrasanta au duc de Milan. Turin, 14 juin 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, 14 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXXXII (ř. 8008–8024 souboru edice)",
+ "obsah_editora": "Arrivée à Turin d’Antoine-Mathé d ’lséo, qui se dit envoyé par le duc de Bourgogne vers MonseignL de Château-Guyon, pour faire en sorte que celui-ci expédie promptement à l’armée tous les gens de guerre qui se sont engagés au service du duc, et pour lui dire que s’il n’a pas assez d’argent on lui en enverra davantage.",
+ "odstavce": [
+  {
+   "text": "CCXXXII. Fr. Petrasanta au duc de Milan. Turin, 14 juin 1476.",
+   "preklad": "CCXXXII. Francesco Petrasanta milánskému vévodovi. Turín, 14. června 1476"
+  },
+  {
+   "text": "Illustriss mo et Excellentiss 1110 Signore mio. — (Omissis omittendis.) — In questhora ho scontrato Antonio Mattheo da Iseo, quale mi ha detto essere mandato qua da Monsignore de Borgogna per fare che Monsignore di Chiateguion spaza presto questa gente darne che hanno capitulato. Et sei non ha denari a sufficentia gli ne sarano mandati.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechané vynechávám.) — V tuto hodinu jsem potkal Antonia Mattea da Iseo, který mi řekl, že ho sem poslal pan [vévoda] burgundský, aby zařídil, že pan z Château-Guyon rychle vypraví ty těžkooděnce, kteří uzavřeli smlouvu. A nemá-li dost peněz, budou mu poslány."
+  },
+  {
+   "text": "A V. Cel. mi riccomando.",
+   "preklad": "Vaší Výsosti se doporučuji."
+  },
+  {
+   "text": "Taurini 14 Junij 1476, hora 23.",
+   "preklad": "Turín, 14. června 1476, ve 23 hodin."
+  },
+  {
+   "text": "Celsitudini V.",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Devotissimus servulus",
+   "preklad": "Nejoddanější nejmenší služebník"
+  },
+  {
+   "text": "Subscript. Franciscus Petrasancta.",
+   "preklad": "Podepsán: Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo: illustrissimo et excellentissimo Principi",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti"
+  },
+  {
+   "text": "Galeaz Marie Sfortie Duci Mediolani.",
+   "preklad": "Galeazzovi Mariovi Sforzovi, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Úprava dělení: odstraněn poslední odstavec, který byl Gingingsovou poznámkou: pan z Château-Guyon = Hugues de Chalon-Arlay.",
+  "„Hanno capitulato“ = uzavřeli kondotu, smlouvu o službě. Hodiny jsou italské: 23. hodina je asi hodinu před západem slunce.",
+  "Opravy OCR: odstraněno číslo poznámky (Chiateguion), „Juni.j“ → „Junij“.",
+  "Zajímavé: Ještě 14. června, týden před bitvou u Murtenu, posílal Karel Smělý do Piemontu pro najaté těžkooděnce a sliboval na ně další peníze."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Burgundský posel Antonio Matteo da Iseo přijel do Turína, aby pan z Château-Guyon rychle vypravil k vojsku najaté těžkooděnce; chybějící peníze vévoda dodá."
+}

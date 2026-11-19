@@ -1,0 +1,62 @@
+{
+ "cislo": 78,
+ "rimske": "LXXVIII",
+ "nadpis": "LXXVIII. Antoine d’Apptano au Duc de Milan. Valperga, 5 septembre 1475.",
+ "odesilatel": "Antoine d’Apptano au Duc de Milan.",
+ "misto_datum": "Valperga, 5 septembre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXVIII (ř. 2638–2658 souboru edice)",
+ "obsah_editora": "La duchesse de Savoie a été de rechef avertie que plusieurs cantons suisses, mécontents des Bernois, sont disposés à se rapprocher d’elle, et à entrer dans l’alliance commune pour laquelle Madame est déjà depuis quelque temps en pourparlers avec les Valaisans. — À cet effet la duchesse a dépêché en Valais messire Antoine Champion, président du Conseil de Turin; il est parti dès la veille pour cette mission, dont le résultat est assez incertain.",
+ "odstavce": [
+  {
+   "text": "LXXIX. Antoine d’Apptano au Duc de Milan. Valperga, 5 septembre 1475.",
+   "preklad": "LXXVIII. Antonio d'Appiano milánskému vévodovi. Valperga, 5. září 1475"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. — ( Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechávám, co je k vynechání.)"
+  },
+  {
+   "text": "Madama e de novo avisata che una parte de le lighe alamanne, quale se contentano male de Bernesi, sono contente fare liga cum Sua Signoria, facendo lei lega cum Valesani et loro insiema, qual cosa fu pratichata già buon pezzo fa ; et a questo fine ha mandato el presidente de Turino in quella parte, qual partite heri de qui. Non so que seguirà.",
+   "preklad": "Madama je znovu zpravena, že jedna část švýcarských spolků (lighe alamanne), která je nespokojena s Bernskými, je ochotna uzavřít spolek s Její Milostí, uzavře-li ona spolek s Valaisskými a ti spolu s nimi; o té věci se jednalo už před drahnou dobou. Za tím účelem poslala do těch končin pana předsedu [rady] v Turíně, který odsud včera odjel. Nevím, co z toho vzejde."
+  },
+  {
+   "text": "Ex Valperga 5 Septembris 1475.",
+   "preklad": "Z Valpergy 5. září 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Divotissimus servulus",
+   "preklad": "nejoddanější služebníček"
+  },
+  {
+   "text": "Sottos: Antonius de Aplano.",
+   "preklad": "Podepsán: Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Illustrissimo Principi domino Galeazo Marie Sforcie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti, panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Les Valaisatis. Ce peuple allemand occupait la partie supérieure de la grande vallée du Rhône depuis Sion jusqu’aux sources du fleuve > il obéissait à l’évêque de Sion, souverain temporel de ce pays. Par contre, le Bas-Valais actuel, habité par une population romande, appartenait à la maison de Savoie.",
+  "5 Antoine Champion, président du conseil, puis chancelier de Savoie (1482).",
+  "4 Berne avait pris les devants en concluant avec l’évêque et les 7 dixains du Valais, une ligue offensive et défensive, qui porte la date du 7 septembre 1475. (Tillier, Histoire de Berne, t. II, p. 248.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: vypuštěna Gingingsova poznámka („La Ligue helvétique ou suisse“), která zapadla mezi odstavce originálu; spojeny dvě části adresy; odstraněna čísla poznámek.",
+  "Gingins: Valaisští = německy mluvící lid horní části údolí Rhôny od Sionu k pramenům, poddaný sionskému biskupovi; dnešní Dolní Valais s románským obyvatelstvem tehdy patřil Savojsku.",
+  "Gingins: předseda = Antoine Champion, předseda rady, později kancléř Savojska (1482).",
+  "Gingins: Bern savojské vévodkyni předešel a 7. září 1475 uzavřel s biskupem a sedmi desátky Valais útočný a obranný spolek (Tillier).",
+  "Zajímavé: savojská diplomacie se v září 1475 snažila využít nespokojenosti části Spříseženců s Bernem a získat Valais; Bern ji předběhl o dva dny, což předznamenalo valaiský útok na savojský Dolní Valais v listopadu 1475."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Savojská vévodkyně se dozvěděla, že část švýcarských spolků nespokojená s Bernem by s ní uzavřela spolek, spojí-li se i s Valaisskými, a vyslala proto do Valais předsedu turínské rady."
+}

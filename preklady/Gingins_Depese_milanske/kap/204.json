@@ -1,0 +1,48 @@
+{
+ "cislo": 204,
+ "rimske": "CCIV",
+ "nadpis": "CCIV. J.-P. Panigarola au duc de Milan. Lausanne, le 16 mai 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 16 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCIV (ř. 7165–7176 souboru edice)",
+ "obsah_editora": "Après quelques détails sur ses affaires personnelles, l’ambassadeur parle de l’excessive disette de vivres qui règne dans la ville et au camp de Lausanne. — Tout le pays environnant est épuisé par la quantité de gens qu’il a eu à nourrir.— Les fourrages manquent à 9 ou 10 lieues à la ronde, et l’on commence à couper les blés en herbe pour nourrir les chevaux. — Il est urgent que l’armée quitte ces lieux; quant à lui, Panigarola, il y a dépensé son dernier écu, et si le duc, son maître, ne lui vient en aide il se trouvera réduit à aller à l’hôpital, etc.",
+ "odstavce": [
+  {
+   "text": "CCV. J.-P. Panigarola au duc de Milan. Lausanne, le 16 mai 1476.",
+   "preklad": "CCIV. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 16. května 1476"
+  },
+  {
+   "text": "Ill.mo et Ex.mo Signor mio. — (Omissis omittendis.) — Ne si poria scrivere in quanta extremita de victualie e carestia qui siamo, tanto he frusto il paese per il grande caricho di gente ha sostenuto ; per cavali si trova qui niente a 25 et 30 miglia longi, cominzano a segare le biade in herba per dar ali cavali, in modo conviene partirse de qui. Jo spendo fino ala vita qui, et se la S. V. non si digna avermi per ricommandato, mi trovo al ospedale, etc. Lossana 16 May 1476.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechané vynechávám.) — Ani by se nedalo vypsat, v jaké krajní nouzi o potraviny a v jaké drahotě tu jsme, tak je kraj vyčerpán velkým břemenem lidí, které nesl. Pro koně se tu na 25 až 30 mil daleko nic nenajde, začínají žnout obilí v zeleném, aby je dávali koním, takže je nutné odtud odejít. Já tu utrácím, co mám, až na kost (fino ala vita), a neráčí-li se mne Vaše Milost ujmout, skončím ve špitále atd. Lausanne 16. května 1476."
+  },
+  {
+   "text": "Firmai. Servus",
+   "preklad": "Podepsán: služebník"
+  },
+  {
+   "text": "Jo. Petrus Panigarola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex.mo dno dno Galeaz",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi"
+  },
+  {
+   "text": "Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Opravy OCR: „omütendis“ → „omittendis“, „Medioiani“ → „Mediolani“.",
+  "Gingins v obsahu převádí 25–30 mil na 9–10 mil (lieues).",
+  "Zajímavé: koncem pobytu u Lausanne vojsko vyčerpalo okolí; píce chybí v okruhu 25–30 mil a koním se sype zelené obilí. Viz i č. 208, kde se koně kvůli píci rozesílají do vesnic."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panigarola popisuje krajní nedostatek potravin a píce v táboře u Lausanne: kraj je vyčerpán, koním se kosí obilí v zeleném a vojsko musí odtáhnout. Sám je bez peněz a žádá vévodu o pomoc."
+}

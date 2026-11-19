@@ -1,0 +1,65 @@
+{
+ "cislo": 254,
+ "rimske": "CCLIV",
+ "nadpis": "CCLIV. Fr. Petrasanta au duc de Milan. Turin, le 26 juin 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, le 26 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLIV (ř. 8561–8583 souboru edice)",
+ "obsah_editora": "Il ne doute pas que le duc de Milan est directement informé de toute chose par ses envoyés, il croit cependant de son devoir de lui faire part des nouvelles arrivées à Turin par des lettres de personnes dignes de foi : assavoir que l’armée du duc de Bourgogne a été battue et mise en déroute le 22 du présent mois; — que la plus grande partie de l’infanterie a péri et qu’il a perdu un bon nombre de cavaliers pris prisonniers ou tués. — Cette nouvelle fut apportée à Genève au moment où le prince de Tarente et le seigneur Olivier de La Marche venaient d’y arriver. — Puis d’autres messagers venus à Genève le 25 au matin annoncèrent que le duc de Bourgogne avait sauvé sa personne; qu’il était arrivé à Morges et qu’il se rendait à Gex vers la duchesse de Savoie. — L’artillerie toute entière est perdue, et la déroute a été suivie d’une terrible déconfiture. — Petrasanta ajoute que les détails qui précèdent sont contenus dans une lettre du facteur de messire Ruffin de Mûris en date de Genève, qu’il a eue sous les yeux.",
+ "odstavce": [
+  {
+   "text": "CCLIV. Fr. Petrasanta au duc de Milan. Turin, le 26 juin 1476.",
+   "preklad": "CCLIV. Francesco Petrasanta milánskému vévodovi. Turín, 26. června 1476"
+  },
+  {
+   "text": "Illustrissimo et Ex mo Signore mio. Benché mi rendo certissimo V. Cels ne sia dali suoi avisata del tutto, nondimeno etiam per mio debito aviso come qua per littere de homini da bene e stato scritto che a 22 del presente el duca de Borgogna e stato rotto et fracchassato, morti la piu parte de la fantaria et presi et morti assay de quelli da cavallo. E questa novella venne a Ginevra subito che don Federico et Mons re de la Marchia forono giunti a Ginevra. Poi alli 23 giunsero a Ginevra messi che dissero come Mons re de Borgogna era salvato la persona sua. Et si era ridutto a Morgia di qua da 2 leghe et se ne veneva da Madama. Lartigliaria tutta e perduta et in sera e stata una terribilissima rotta.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Ačkoli jsem si naprosto jist, že Vaše Výsost je o všem zpravena od svých lidí, přesto i ze své povinnosti oznamuji, že sem hodnověrní muži napsali, že 22. tohoto měsíce byl vévoda burgundský poražen a rozdrcen, většina pěšího vojska zabita a mnoho jezdců zajato a zabito. Ta zpráva přišla do Ženevy, jakmile tam dorazili don Federico a pan de La Marche. Pak 23. přišli do Ženevy poslové, kteří řekli, že pan Burgundský zachránil svou osobu, uchýlil se do Morges, dvě míle na této straně, a jede k paní [vévodkyni]. Dělostřelectvo je celé ztraceno a [zkrátka?] to byla nanejvýš strašlivá porážka."
+  },
+  {
+   "text": "De le cose predicte ne ho visto una littera che ha scritto el fattore de Ruffino de Mûris da Ginevra.",
+   "preklad": "O výše řečených věcech jsem viděl list, který ze Ženevy napsal faktor Ruffina de Mûris."
+  },
+  {
+   "text": "Mi ricommando a V. Celsitudine.",
+   "preklad": "Vaší Výsosti se doporučuji."
+  },
+  {
+   "text": "Taurini 26 Junv 1476.",
+   "preklad": "V Turíně 26. června 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Franciscus Petrasancta."
+  },
+  {
+   "text": "A tergo : Ill mo et Excell mo principi et dno dno meo metuendissimo duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti a pánu, mému nejobávanějšímu pánu, vévodovi milánskému."
+  },
+  {
+   "text": "Per postas. — Cito, cito.",
+   "preklad": "Poštou. — Spěšně, spěšně."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Voir la dépêche à’ Appiano, en date de Gex, 23 juin, n° ccl.",
+  "1 Voir la dépêche à’ Appiano, du 23 juin au soir, n° ccli.",
+  "5 Ruffin de Mûris, ou Mora, général des finances de Savoie."
+ ],
+ "poznamky": [
+  "Opravy OCR: „L’artin. gliaria“ > „Lartigliaria“, „Gito“ > „Cito“; odstraněna čísla poznámek. „et in sera e stata“ je nejasné (snad „in summa“, zkrátka), přeloženo s [?].",
+  "„di qua da 2 leghe“: Morges leží asi dvě míle od Lausanne na straně k Ženevě; vztah „na této straně“ není v textu upřesněn.",
+  "Gingins: viz Appianovy depeše z Gexu z 23. června, č. 250 a 251.",
+  "Gingins: Ruffino de Mûris neboli Mora, generální správce financí Savojska."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Petrasanta hlásí z Turína podle listů ze Ženevy, že Karel Smělý byl 22. června rozdrcen, většina pěchoty padla a všechno dělostřelectvo je ztraceno; vévoda se zachránil do Morges a jede k vévodkyni savojské."
+}

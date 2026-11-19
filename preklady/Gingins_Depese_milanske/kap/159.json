@@ -1,0 +1,54 @@
+{
+ "cislo": 159,
+ "rimske": "CLIX",
+ "nadpis": "CLIX. Charles Visconti au duc de Milan. Bologne, 8 avril 1476.",
+ "odesilatel": "Charles Visconti au duc de Milan.",
+ "misto_datum": "Bologne, 8 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLIX (ř. 5572–5588 souboru edice)",
+ "obsah_editora": "Conjectures diverses du public ultramontain sur les mouvements politiques qui ont lieu de l’autre côté des Alpes. — Les uns disent que le roi de France a redemandé à Galeas-Marie Sforza Gênes et Savonne ; et que Sa Majesté, qui est à Grenoble, y rassemble un grand nombre de gens de guerre pour passer les monts. — Suivant les autres, le roi, sous prétexte de pèlerinage, entrerait en Piémont pour prendre le duc de Milan au dépourvu. — D’autres enfin ne se font pas faute de dire que le roi Louis, le duc de Bourgogne et la duchesse de Savoie se sont ligués ensemble contre le duc de Milan. — On ne manque pas de questionner sur tout cela l’envoyé milanais, qui, en attendant les instructions ultérieures de son maître, se borne à conformer ses réponses à la politique générale de sa cour.",
+ "odstavce": [
+  {
+   "text": "CLX. Charles Visconti au duc de Milan. Bologne, 8 avril 1476.",
+   "preklad": "CLIX. Carlo Visconti milánskému vévodovi. Bologna, 8. dubna 1476"
+  },
+  {
+   "text": "Illust.mo et Ex.mo Signore mio. — Qua si fanno vari rasonamenti di questi movimenti ultramontani: alcuni dicono chel Re ha mandato ad dimandare ad V. S. Zenova et Saona, et e che ad Granopoli dove fa grande amasso di gente passara i monti. Alcuni dicono che dimostra volere venire in Piemonte ad certa devotione per accogliere Vostra Excellenza sproveduta. Non e anchora manchato chi dica chel Re, Duca de Borgogna et Duchessa di Savoya, se sonno accordati insieme contra la Ex.tia Vostra. Molti sonno che ne dimandano ad me, et io adapto le cose a proposito nostro quanto si po. Parendo alla Excellenza Vostra chio li habii ad persuadere piu una cosa che un altra, ella mi ne po avisare.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Vedou se tu různé řeči o těchto pohybech za horami. Někteří říkají, že král poslal žádat od Vaší Milosti Janov a Savonu a že od Grenoblu, kde shromažďuje velké množství lidu, přejde hory. Jiní říkají, že dává najevo, že chce přijít do Piemontu na jakousi pouť, aby zastihl Vaši Excelenci nepřipravenou. Nechybí ani ti, kdo říkají, že král, vévoda burgundský a vévodkyně savojská se spolu dohodli proti Vaší Excelenci. Mnozí se mě na to vyptávají a já věci vykládám, jak jen to jde, v náš prospěch. Pokud by se Vaší Excelenci zdálo, že je mám přesvědčovat spíš o jedné věci než o jiné, může mi o tom dát zprávu."
+  },
+  {
+   "text": "Alla quale humilmente mi ricomando.",
+   "preklad": "Jí se pokorně doporučuji."
+  },
+  {
+   "text": "Datum Bononie die 8 aprilis 1476.",
+   "preklad": "Dáno v Bologni 8. dubna 1476."
+  },
+  {
+   "text": "Firmat. Fidelissimus servus",
+   "preklad": "Podepsán: Nejvěrnější služebník"
+  },
+  {
+   "text": "Karolus Vicecomes.",
+   "preklad": "Carlo Visconti."
+  },
+  {
+   "text": "A tergo : Ill.mo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Bologne était gouvernée par Jean II, Bentivoglio, comte Palatin et gonfalonier de cette ville, époux de Geneviève Sforza, fille d ’ Alexandre, seigneur de Pesaro. (Chazot, généal. historiques, t. II, p. 592.) — Un corps d’environ 4000 Italiens, recrutés dans les Légations pour le compte du duc de Bourgogne, était en route pour passer les Alpes et rejoindre le camp de Lausanne. ( Lettre de Berne à Strasbourg , J. de Muller, 1. c. t. VIII, p. 59, n° cclxxvii.)"
+ ],
+ "poznamky": [
+  "Opravy OCR: „ra- sonamenti“ spojeno, vypuštěno číslo poznámky „1“, „Curri“ → „Cum“.",
+  "Gingins: Bolognu spravoval Giovanni II. Bentivoglio, falckrabě a gonfaloniér města, manžel Ginevry Sforzy, dcery Alessandra, pána z Pesara.",
+  "Gingins: sbor asi 4 000 Italů naverbovaných v papežských legacích pro burgundského vévodu byl tehdy na cestě přes Alpy do tábora u Lausanne (list Bernu Štrasburku, J. von Müller VIII, 59)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Carlo Visconti píše z Bologni, jaké se tam vedou řeči: že francouzský král chce od Milána Janov a Savonu, že chce s vojskem přejít Alpy do Piemontu, nebo že se spojil s Burgundskem a Savojskem proti Milánu. Ptá se, co má lidem tvrdit."
+}

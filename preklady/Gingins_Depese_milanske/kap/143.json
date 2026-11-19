@@ -1,0 +1,62 @@
+{
+ "cislo": 143,
+ "rimske": "CXLIII",
+ "nadpis": "CXLIII. J. -P. Panigarola au duc de Milan. Lausanne, le 27 mars 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 27 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXLIII (ř. 4366–4384 souboru edice)",
+ "obsah_editora": "On apprend que les Suisses n’ont pu obtenir de l’archiduc Sigis- mond le nombre de cavaliers qu’ils lui ont demandé. — Les confédérés n’ont encore pu rassembler que 4,000 hommes aux environs de Fribourg; ils se proposent, dit-on, de surprendre Romont, ou de tenter un coup de main sur les convois d’artillerie et d’argent qui sont en route pour le camp du duc de Bourgogne, etc.",
+ "odstavce": [
+  {
+   "text": "CXLIV. J. -P. Panigarola au duc de Milan. Lausanne, le 27 mars 1476.",
+   "preklad": "CXLIII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 27. března 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Heri sera si ebbe aviso che li Sviceri non potevano avere dal duca dAustria quello numero di cavali si stimavano in adiuto loro, et che 4 m Sviceri si erano adunati a Filiborgo, li quali lozavano in li fossi di la terra, dicendo per quanto si sentiva o di volere andare a dar bataglia a Romont, che fo questi di recuperato, per vedere se al primo assalto lo potrano avere ; o di andar assaltar a la strada lartigliaria e dinari veneno a questo S. di Borgogna. Item che a Lucerna dovevano tenire dieta.",
+   "preklad": "Nejjasnější pane můj. Včera večer přišla zpráva, že Švýcaři nemohou dostat od vévody rakouského takový počet jezdců, jaký na pomoc očekávali, a že se 4 tisíce Švýcarů shromáždily ve Fribourgu. Ti se ubytovali v příkopech města a říkali, jak se slyšelo, že chtějí buď jít zaútočit na Romont, který byl v těchto dnech znovu získán, aby zkusili, zda jej dobudou prvním útokem, anebo přepadnout na cestě dělostřelectvo a peníze, které tomuto pánovi přicházejí z Burgundska. Dále, že v Luzernu měli konat sněm."
+  },
+  {
+   "text": "Questo e quello magior numero si sente di loro sia insieme.",
+   "preklad": "To je největší počet z nich, o kterém se slyší, že je pohromadě."
+  },
+  {
+   "text": "Ex Lossana 27 Martii 1476.",
+   "preklad": "Z Lausanne 27. března 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán služebník"
+  },
+  {
+   "text": "Jo. Petrus Panig.la",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : Ill mo et Ex mo Principi Galeaz Maria Sfortia",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti Galeazzovi Mariovi Sforzovi"
+  },
+  {
+   "text": "Vicecomiti Duci Mediolani.",
+   "preklad": "Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Par un acte additionnel au traité de paix du 17 novembre 1475, l’empereur s’était engagé à pacifier dans les six mois la querelle du duc de Bourgogne et de l’archiduc Sigismond touchant l’engagère de la Haute-Alsace. (Chimi, Monum. Habsburg., t. I, p. 130.) Cet acte avait été bientôt suivi d’une trêve entre ces deux princes conclue à Neuchâtel pour trois mois, à partir du 1 er janvier au 1 er avril 1476. (Zellweger, Histoire d’Appenzell, documents, t. II, p. 475, n“ 472.) La trêve n’étant point expirée au moment où le comte Oswald de Thierstein, lieutenant de Sigismond en Alsace, se mettait en route avec quelques centaines de cavaliers pour répondre à l’appel des Suisses; il reçut de l’archiduc l’ordre de rebrousser chemin. (J. Knébel, 1. c. t. II, p. 20 et 31.)",
+  "FIN DU TOME PREMIER",
+  "LAUSANNE — IMPRIMERIE CORBAZ ET ROUILLER FILS"
+ ],
+ "poznamky": [
+  "Gingins: dodatkem k mírové smlouvě ze 17. listopadu 1475 se císař zavázal do šesti měsíců urovnat spor vévody burgundského s arcivévodou Zikmundem o zástavu Horního Alsaska; následovalo příměří mezi nimi, uzavřené v Neuchâtelu na tři měsíce (1. ledna – 1. dubna 1476). Protože příměří ještě nevypršelo, dostal hrabě Oswald z Thiersteinu, Zikmundův místodržící v Alsasku, který vyrazil s několika sty jezdci na švýcarskou výzvu, od arcivévody rozkaz vrátit se (Knebel).",
+  "„Romont, che fo questi di recuperato“: Romont byl v těchto dnech znovu získán (zřejmě savojsko-burgundskou stranou).",
+  "Touto depeší končí 1. svazek edice („FIN DU TOME PREMIER“ v poznámkách editora).",
+  "Opravy OCR: „Ileri“ → Heri, „Yicecomiti“ → Vicecomiti, „Curri“ → Cum, „Panig 13“ → Panig.la, odstraněno číslo poznámky.",
+  "Zajímavé: 4 000 Švýcarů ve Fribourgu tábořilo v městských příkopech; Zikmund jim jízdu neposlal (Thierstein byl odvolán)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Švýcaři nedostali od Zikmunda Habsburského žádanou jízdu; ve Fribourgu se jich shromáždilo asi 4 000 a táboří v příkopech města. Chtějí zaútočit na znovu získaný Romont nebo přepadnout burgundský konvoj s děly a penězi."
+}

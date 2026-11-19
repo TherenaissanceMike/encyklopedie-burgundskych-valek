@@ -1,0 +1,50 @@
+{
+ "cislo": 52,
+ "rimske": "LII",
+ "nadpis": "LII. Un inconnu à la duchesse de Savoie. . 10 juin 1475.",
+ "odesilatel": "Un inconnu à la duchesse de Savoie.",
+ "misto_datum": ". 10 juin 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LII (ř. 1884–1897 souboru edice)",
+ "obsah_editora": "On avertit secrètement la duchesse de Savoie que si elle reçoit à sa cour un ambassadeur du roi Ferdinand de Naples, le duc de Milan se rapprochera du roi de France et fera cause commune avec lui et Monseigneur Philippe de Bresse. — Madame doit êlre d’autant plus assurée de cela que les seules raisons qui ont éloigné le duc de Milan de sa préférence pour l’alliance du roi, et qui l’ont porté à s’allier au duc de Bourgogne, sont la présence d’un ambassadeur napolitain à la cour de France, et l’intelligence secrète qui s’est établie entre Sa Majesté et le roi Ferdinand. — L’écrivain, qui se dit bien informé, prévient la duchesse que l’ambassadeur milanais Appiano a pour instruction secrète de quitter, sur le champ, la cour de Savoie, dans le cas où Madame accueillerait un ambassadeur du roi Ferdinand.",
+ "odstavce": [
+  {
+   "text": "LIII. Un inconnu à la duchesse de Savoie. . 10 juin 1475.",
+   "preklad": "LII. Neznámý vévodkyni savojské. [Bez místa], 10. června 1475"
+  },
+  {
+   "text": "Illustrissima Madama, io come affectionato servitore de la Signoria Vostra et como quello desidero omne vostro bene ve certifico che se Ex ia Vostra tenira presso di lei ambasatore alcuno del Re Fernando, el Duca de Milano se accordara et intenderà con il Re di Franza et con Filippo Monsignore, et de questo ne sia la Signoria Vostra piu che certa, perche altra casone al mondo non la dilontanato da lamore et intelligentia del Re di Franza et fatolo fare liga col Duca de Borgogna se non per li ambasatori et pratiche chel Re di Franza teniva continuamente con Re Ferrando et lo ambaxatore chel Re Ferrando teniva in Franza presso Sua Maestà : et non parlo ad la Excellente Vostra de questa facenda senza casone, avisando Vostra Signoria che Antonio de Appiano ha comissione de stare in ordine, perche stando presso Vostra Excellente ambaxatore alcuno del Re Ferrando sene parta da li in tutto e venga via. Datum decimo juny 1475.",
+   "preklad": "Nejjasnější paní, já jako oddaný služebník Vaší Milosti a jako ten, kdo vám přeje všechno dobré, vás ujišťuji, že bude-li Vaše Excelence u sebe držet nějakého vyslance krále Ferdinanda, vévoda milánský se dohodne a spojí s králem francouzským a s panem Filipem; a tím si buď Vaše Milost víc než jista, neboť nic jiného na světě ho neodvrátilo od lásky a dorozumění s králem francouzským a nepřimělo ho uzavřít ligu s vévodou burgundským než vyslanci a pletichy, které král francouzský ustavičně vedl s králem Ferdinandem, a vyslanec, kterého král Ferdinand držel ve Francii u Jeho Veličenstva. A nemluvím k Vaší Excelenci o této věci bez příčiny: oznamuji Vaší Milosti, že Antonio d'Appiano má pověření být připraven, aby, bude-li u Vaší Excelence nějaký vyslanec krále Ferdinanda, odtamtud nadobro odjel a odešel. Dáno 10. června 1475."
+  },
+  {
+   "text": "De V. Ill ma Signoria",
+   "preklad": "Vašeho nejjasnějšího Panství"
+  },
+  {
+   "text": "Fidelissimo servitore",
+   "preklad": "nejvěrnější služebník"
+  },
+  {
+   "text": "J. L.",
+   "preklad": "J. L."
+  },
+  {
+   "text": "A tergo: A la Illustrissima Madama de Savoja.",
+   "preklad": "Na rubu: Nejjasnější paní savojské."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' Sur les intelligences nouées entre le roi de France et Ferdinand I\", roi de Naples, voyez Duclos, histoire de Louis XI, éd. d’Amsterdam, 1746, t H, p. 137 et suiv.)."
+ ],
+ "poznamky": [
+  "Král Ferdinand (Fernando, Ferrando) je Ferdinand I. Aragonský, král neapolský; „pan Filip“ je Filip Savojský, hrabě z Bresse. Pisatel se podepisuje jen iniciálami J. L. a zůstává neurčen.",
+  "Gingins: o dorozumění Ludvíka XI. s Ferdinandem I. Neapolským viz Duclos, Histoire de Louis XI.",
+  "Odstavec rozdělený uprostřed věty („Filippo / Monsignore“) spojen; opravy OCR „Pranza“ → Franza, „aceordara“ → accordara."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Anonymní pisatel J. L. varuje Jolandu Savojskou, že přijme-li vyslance Ferdinanda Neapolského, Milán se spojí s Francií a s Filipem z Bresse a Appiano má rozkaz odjet. Milán se prý přiklonil k Burgundsku jen kvůli francouzsko-neapolskému sblížení."
+}

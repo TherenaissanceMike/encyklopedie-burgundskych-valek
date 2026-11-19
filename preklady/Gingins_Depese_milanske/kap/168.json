@@ -1,0 +1,51 @@
+{
+ "cislo": 168,
+ "rimske": "CLXVIII",
+ "nadpis": "CLXVIII. J. -P. Panigarola au duc de Milan. Lausanne, le 14 avril 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 14 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXVIII (ř. 5793–5808 souboru edice)",
+ "obsah_editora": "Il paraît que les Suisses ont menacé Romont d’une nouvelle attaque pour le jour suivant. — L’ambassadeur de l’empereur dit qu’il attend son collègue, le comte de Rechberg, envoyé vers les Suisses par Sa Majesté. — Quand il sera arrivé on connaîtra le résultat de sa mission et l’on pourra savoir pour sûr si les confédérés ont l’intention de prendre l’offensive ou d’attendre l’ennemi chez eux.",
+ "odstavce": [
+  {
+   "text": "CLXIX. J. -P. Panigarola au duc de Milan. Lausanne, le 14 avril 1476.",
+   "preklad": "CLXVIII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 14. dubna 1476"
+  },
+  {
+   "text": "Illust.mo Signor mio. Li Suiceri pare mandassino a dire a Romont che poi domane voriano andare la a campo, ma niente sintende certo. Lambassatore di Imperatore dice aspecta uno mando la M a Soa la quando vene qui; che li vegnira a refferire tuto et quelo avera facto, per lo quale si sapera la certezza di quello vorano fare, se vorano ussire in campagna, o aspectare a casa.",
+   "preklad": "Nejjasnější pane můj. Zdá se, že Švýcaři vzkázali do Romontu, že pozítří ho tam chtějí přitáhnout oblehnout, ale nic jistého se neví. Císařův vyslanec říká, že čeká toho, koho tam poslalo Jeho Veličenstvo; až sem přijde, oznámí mu všechno a co vykonal, a z toho se s jistotou dozvíme, co chtějí [Švýcaři] udělat: zda chtějí vytáhnout do pole, nebo čekat doma."
+  },
+  {
+   "text": "Lossana 15 aprilis 1476.",
+   "preklad": "Lausanne 15. dubna 1476."
+  },
+  {
+   "text": "Sottos. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "J. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Illustrissimo et excellentissimo principi Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Le comte de Bechberg qui, par une dépêche adressée au protonotaire Hesler, son collègue, lui rendait un compte détaillé du résultat de sa mission auprès des Suisses. (Voir, ci-après, la dépêche de Panigarôla, du 15 avril."
+ ],
+ "poznamky": [
+  "Opravy OCR: odstraněn znak „■“, „sigitlo“ → „sigillo“, „us- sire iu“ → „ussire in“, vypuštěno číslo poznámky, adresa spojena.",
+  "Datum: Gingins v nadpisu datuje 14. dubna 1476, v textu depeše však stojí „15 aprilis“. Ponecháno.",
+  "„andare la a campo“ = přitáhnout k místu a oblehnout ho.",
+  "Gingins: očekávaný posel je hrabě Heinrich von Rechberg [OCR „Bechberg“], který svému kolegovi Heslerovi podrobně psal o výsledku své mise u Švýcarů (viz č. CLXX)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Švýcaři prý pohrozili, že pozítří oblehnou Romont, zpráva však není jistá. Císařský vyslanec čeká na hraběte z Rechbergu, od něhož se dozví, zda Švýcaři vytáhnou do pole, nebo budou čekat doma."
+}

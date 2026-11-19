@@ -1,0 +1,58 @@
+{
+ "cislo": 138,
+ "rimske": "CXXXVIII",
+ "nadpis": "CXXXVIII. Le duc de Milan à Pévêque de Parme, à Rome. Vigevano, le 21 mars 1476.",
+ "odesilatel": "Le duc de Milan à Pévêque de Parme, à Rome.",
+ "misto_datum": "Vigevano, le 21 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXXVIII (ř. 4266–4284 souboru edice)",
+ "obsah_editora": "Il mande à son ambassadeur d’informer Sa Sainteté, le pape Sixte IV, que le duc de Bourgogne est revenu camper à Lausanne, où il s’occupe sans relâche de recomposer son armée et de l’approvisionner d’artillerie et des autres choses nécessaires. — En attendant il se tient sur la défensive, parce que les Suisses menacent de se remettre en campagne pour faire le siège de Romont. — L’évêque de Sion et les Haut-Valaisans se sont avancés en armes sur les frontières du val d’Aoste, après s’être emparés du château de Martigny. — Le roi de France doit être à Lyon le 16 de ce mois; à la date des dernières nouvelles les fourriers de la cour, ainsi qu’un bon nombre de courtisans et de gentilhommes de la suite de Sa Majesté ôtaient déjà arrivés dans cette ville.",
+ "odstavce": [
+  {
+   "text": "CXXXIX. Le duc de Milan à Pévêque de Parme, à Rome. Vigevano, le 21 mars 1476.",
+   "preklad": "CXXXVIII. Milánský vévoda biskupovi z Parmy do Říma. Vigevano, 21. března 1476"
+  },
+  {
+   "text": "De ultra monti habiamo, el Duca di Borgogna essere reuscito col campo a Losana, dove tuctavia se va restaurando del suo exercito et gente darme de artigliaria et altre cose necessarie, et li sta suso le difese, perche gli e venuto dubitando che Svyceri non se acampassino alo assedio di Romont, corno pare minazassero drizarse. Tucto farete intendere a Sua Beatitudine sobgiongendoli che Valesani et vescovo de Sion hostilmente sonno venuti verso valle de Augusta et preso el castello di Martingi. Lo re di Franza, secondo li advisi ad noi dati, debe essere a Lione, perche fino alhora erano già arivati li parechiatori et S ri gentilhomini cortesani et altri di casa de Soa M a in bona quantità.",
+   "preklad": "Zpoza hor máme [zprávu], že vévoda burgundský vytáhl s vojskem k Lausanne, kde dále obnovuje své vojsko, těžkooděnce, dělostřelectvo a jiné nezbytné věci, a drží se tam v obraně, protože se začal obávat, aby se Švýcaři nepoložili k obléhání Romontu, kam, jak se zdá, hrozili se obrátit. To vše dáte na vědomí Jeho Svatosti a dodáte, že Valaisští a biskup sionský nepřátelsky přitáhli k údolí Aosty a dobyli hrad Martigny. Francouzský král má být podle zpráv, které jsme dostali, v Lyonu, neboť tam do té doby už přijeli ubytovatelé, páni šlechtici, dvořané a jiní z domácnosti Jeho Veličenstva v hojném počtu."
+  },
+  {
+   "text": "Ex Viglo die 21 Martii 1476.",
+   "preklad": "Z Vigevana 21. března 1476."
+  },
+  {
+   "text": "Signat. Galeaz Maria Sfortia",
+   "preklad": "Podepsán Galeazzo Maria Sforza"
+  },
+  {
+   "text": "Vicecomes Dux Mediolani. Subscr. Cichus.",
+   "preklad": "Visconti, vévoda milánský. Podepsán Cicco."
+  },
+  {
+   "text": "A tergo : .",
+   "preklad": "Na rubu: […]"
+  },
+  {
+   "text": "Rome, cito.",
+   "preklad": "Do Říma, rychle."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Waliher de Supersax (en allemand Auf-der-Flae), évêque de Sion et comte souverain du Haut-Valais, élu en 1457, décédé en 1482. s Suivant la Chroniqne latine de Savoie, le roi Louis XI aurait fait son entrée à Lyon samedi à la mi-carême, 16 mars 1476. (Æst. Pair. Monum., scriptor, 1.1, col. 654.)",
+  "5 Vigevano.",
+  "* Cette dépêche portait sans doute la même adresse que celle qui précède sous le n° cxxxiv, en date du 15 mars."
+ ],
+ "poznamky": [
+  "Gingins: biskup sionský = Walter Supersaxo (něm. Auf der Flüe), biskup sionský a suverénní hrabě Horního Valais, zvolen 1457, zemřel 1482.",
+  "Gingins: podle latinské savojské kroniky vjel Ludvík XI. do Lyonu v sobotu o středopostí, 16. března 1476.",
+  "Gingins: adresa byla nepochybně stejná jako u listu z 15. března (č. CXXXV; Gingins tiskne cxxxiv).",
+  "Odstavec rozdělený přes stranu byl spojen a odstraněno záhlaví „DEPECHES 376“; opravy OCR: „artigliane“ → artigliaria, „Beati lie“ → Beatitudine, „Yalesani“ → Valesani, „Signât“ → Signat, „Cam“ → Cum; datum „Ex Viglo 3 die 21 a Mardi“ čteno jako „Ex Viglo die 21 Martii“.",
+  "Zajímavé: zpráva, že Horní Valaisané s biskupem sionským dobyli hrad Martigny a táhnou k údolí Aosty (březen 1476)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Milánský vévoda posílá do Říma zprávu pro papeže: Karel Smělý obnovuje vojsko u Lausanne a drží se v obraně kvůli hrozbě švýcarského útoku na Romont. Valaisští s biskupem sionským dobyli Martigny a Ludvík XI. má být v Lyonu."
+}

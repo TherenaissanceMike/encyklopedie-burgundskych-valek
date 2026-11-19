@@ -1,0 +1,57 @@
+{
+ "cislo": 225,
+ "rimske": "CCXXV",
+ "nadpis": "CCXXV. Jean-Pierre Panigarola au duc de Milan. Du camp (de Montet) 9 juin 1476.",
+ "odesilatel": "Jean-Pierre Panigarola au duc de Milan.",
+ "misto_datum": "Du camp (de Montet) 9 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXXV (ř. 7763–7782 souboru edice)",
+ "obsah_editora": "Le lord de Seules, frère de la reine d’Angleterre, qui s’était rendu au camp du duc de Bourgogne, auquel il avait offert de prendre part à la bataille qui se prépare, — apprenant que l’ennemi était tout proche, a brusquement pris congé du duc et s’est éloigné au grand scandale de toute l’assistance, qui attribue son départ à un manque de courage. — Le duc lui-même s’en est moqué, disant que c’est la Peur qui l’a fait partir. Dans cet instant toute l’armée lève le camp pour aller mettre le siège devant la ville de Morat.",
+ "odstavce": [
+  {
+   "text": "CCXXVI. Jean-Pierre Panigarola au duc de Milan. Du camp (de Montet) 9 juin 1476.",
+   "preklad": "CCXXV. Giovanni Pietro Panigarola milánskému vévodovi. Z tábora (u Montet), 9. června 1476"
+  },
+  {
+   "text": "Illustrissimo S. mio. Monsignor di Scales fratello di la regina de Ingliterra che era venuto a visitare questo S. e offertosi volere stare a la bataglia. Intendendo laltro heri che li inimici erano qui presso, et che si credeva quello di trovargli, domando licentia, excusandosi non potere stare e cosi lebe et si ne andò ; el che li e stato atribuito a gran viltà et mancamento di animo et di honore. Questo S. con mi si ne he riso dicendo : per paura si ne he andato.",
+   "preklad": "Nejjasnější pane můj. Pan de Scales, bratr královny anglické, který přijel navštívit tohoto pána a nabídl se, že zůstane k bitvě, když předevčírem uslyšel, že nepřátelé jsou zde blízko a že se věřilo, že je tento pán najde, požádal o propuštění a omlouval se, že nemůže zůstat; tak je dostal a odjel. To se mu přičítá za velkou zbabělost a nedostatek odvahy a cti. Tento pán se tomu se mnou zasmál a řekl: Ze strachu odjel."
+  },
+  {
+   "text": "In questa hora si levamo per andare a meter il campo a Morat o intorno e assidiare la villa : dii successo suo avisaro domane V. S. ala quale me ricomando.",
+   "preklad": "V tuto hodinu se zvedáme, abychom položili tábor k Murtenu nebo kolem něj a oblehli město; o tom, jak se to podaří, podám zítra zprávu Vaší Výsosti, jíž se doporučuji."
+  },
+  {
+   "text": "Ex Castris 9 Junii 1476.",
+   "preklad": "Z tábora 9. června 1476."
+  },
+  {
+   "text": "Firmai. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panigarola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : Illustrissimo Principi etc. dno Galeaz Maria Sfortie Vicecomiti duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Voir la précédente dépêche de Panigarola, du même jour, à la note 5.",
+  "5 « Le duc partit avec son armée (de Montet) le dimanche 9 juin, » apr'es-diner, et alla camper devant la ville de Morat, au pays de Sa- » noyé. » (Lenglet, 1. c. t. II. p. 219.)"
+ ],
+ "poznamky": [
+  "Gingins: K lordu Scalesovi (Anthony Woodville) srv. předchozí Panigarolovu depeši z téhož dne (zde č. 225).",
+  "Gingins: „Vévoda vytáhl s vojskem (od Montet) v neděli 9. června po obědě a utábořil se před městem Murtenem v savojské zemi“ (Lenglet II, 219).",
+  "„Laltro heri“ = předevčírem; podle data listu 7. června, poplach u Montet však podle předchozí depeše nastal 8. června.",
+  "Opravy OCR: odstraněna čísla poznámek (Ingliterra, hora).",
+  "Zajímavé: Anthony Woodville, lord Scales, který se nabídl bojovat v burgundském vojsku, odjel, jakmile se přiblížili Švýcaři. Karel se tomu podle Panigaroly smál: „Ze strachu odjel.“"
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Lord Scales, bratr anglické královny, který se nabídl bojovat po boku Karla Smělého, odjel z tábora, jakmile se přiblížili Švýcaři, a celý tábor to pokládá za zbabělost. Vojsko právě vyráží oblehnout Murten."
+}

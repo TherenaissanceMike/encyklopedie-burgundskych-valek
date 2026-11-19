@@ -1,0 +1,40 @@
+{
+ "cislo": 92,
+ "rimske": "XCII",
+ "nadpis": "XCII. Extrait d’une dépêche de Carlo Mantisi de Cologne, communiqué au duc de Milan. Sans date (fin de novembre) 1475.",
+ "odesilatel": "Extrait d’une dépêche de Carlo Mantisi de Cologne, communiqué au duc de Milan.",
+ "misto_datum": "Sans date (fin de novembre) 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XCII (ř. 3021–3040 souboru edice)",
+ "obsah_editora": "Carlo de Mantisi, de Bologne, qui, par divers intermédiaires, avait déjà donné précédemment au duc de Milan des informations utiles sur les affaires d’Angleterre, des Flandres et de la Bourgogne, et surtout de l’empire d’Allemagne; lequel nourrit, dit-on, des sentiments peu favorables contre les Sforza, souverains du Milanais; — fait savoir à son altesse que les villes de Strasbourg, de Schlestadt, de Colmar, de Thann, de Brisach, de Bâle, de Lauffenburg et de Fribourg-en- Brisgau, font de grands'préparatifs de défense, par suite de la peur que leur inspire le duc de Bourgogne. — Les Strasbourgeois en particulier, ont fait raser et abattre dans un rayon d’une lieue autour de leur ville, les églises, les couvents et les habitations de toute sorte. Us creusent un fossé large et profond qui entourera les trois quarts de la ville, et dans lequel on fera entrer les eaux du Rhin.— Les crenaux des murailles ont été murés de manière à n’en laisser que deux sur quatre. — Les anciens fossés ont été curés et remplis (l’eau ; enfin la ville a été approvisionnée de toutes choses pour plusieurs années. — Us ont acheté à Nuremberg toutes les pièces d’artillerie grosses et petites qu’ils ont pu se procurer.",
+ "odstavce": [
+  {
+   "text": "XCIII. Extrait d’une dépêche de Carlo Mantisi de Cologne, communiqué au duc de Milan. Sans date (fin de novembre) 1475.",
+   "preklad": "XCII. Výtah ze zprávy Carla Mantisiho z Kolína, předložený milánskému vévodovi. Bez data (konec listopadu) 1475"
+  },
+  {
+   "text": "Carlo de Maritisi da Bologna dice che per la antiqua servitù sua verso vostra excellenzia per tucto dove gli e accaduto praticare et maxime in la Magna, del continuo se studiato essere vigilante in tutte quelle cose che havesse a cedere ala Celsitudine vostra in beneficio et honore: et piu volte de le occorentie de Inghilierra, Fiandra et Burgogna , et precipue de la Magna quale longo tempo fa cognosse non bavere inclinatione a vostra signoria, anzi esserli universalmente malissimo disposita, gliene ha dato adviso, et per la via de quelli da Pessola merendanti milanesi et per el quondam miser Thomaso da Bologna, et per Antonio del Mossagia et per Jacomo Lupari già potestà di Milano, et per Johanni hostero dal pozo. Bora dice che Arozentina, Basilea, Silitstat, Columborgha, Tan, Brisahacha, Lionburgho, Filiburgo in Brisico, fanno grandissima preparatane per paura che hanno del Duca de Burgogna. Et maxime Arzentina, che intorno a doi miglia et mezo tagliano, hanno buttato in terra chiesie et ogni habitatione. Et fanno un fosso che circunda tre quarti de la terra largo et profundo et dentro gli hanno messo el Rheno ; hanno tucte le mura murate de quattro merli doi, cavato le fosse et dato laequa viva et fornito la terra de ogni vitualie per 10 anni. Et a Norimbergho hanno comprato tucte le bombarde che hanno trovate grosse et piccole et de ogni factione artiglieria.",
+   "preklad": "Carlo de Maritisi [Mantisi] z Bologni říká, že pro svou dávnou službu Vaší Excelenci se všude, kde se mu stalo pobývat, a zvláště v Německu, stále snažil být bdělý ve všech věcech, které by mohly vést k prospěchu a cti Vaší Výsosti. Mnohokrát jí podal zprávu o událostech v Anglii, Flandrech a Burgundsku a zvláště v Německu, o němž už dlouho ví, že není Vaší Milosti nakloněno, ba že je vůči ní všeobecně velmi zle naladěno; [zprávy posílal] skrze ty z Pessoly [?], milánské kupce, skrze zesnulého pana Tommasa z Bologni, skrze Antonia del Mossagia, skrze Giacoma Lupariho, bývalého milánského podestu, a skrze Giovanniho, hostinského „dal pozo“ [U studny]. Nyní říká, že Štrasburk, Basilej, Sélestat, Colmar, Thann, Breisach, Laufenburg [?] a Freiburg v Breisgau dělají převeliké přípravy ze strachu, který mají z vévody burgundského. A zvláště Štrasburk: kolem dokola na dvě a půl míle vše kácejí, strhli kostely a každé obydlí. A dělají příkop, který obepíná tři čtvrtiny města, široký a hluboký, a pustili do něj Rýn; na všech hradbách zazdili ze čtyř stínek dvě, vyčistili příkopy, pustili do nich živou vodu a zásobili město všemi potravinami na 10 let. A v Norimberku nakoupili všechna obléhací děla, která našli, velká i malá, a dělostřelectvo všeho druhu."
+  },
+  {
+   "text": "Manca l’attergo, il sigillo e la firma.",
+   "preklad": "Chybí adresa na rubu, pečeť a podpis."
+  }
+ ],
+ "poznamky_editora": [
+  "' Àiemagna, l’Allemagne.",
+  "2 Argentina , Strasbourg.",
+  "3 Bâle, Schelestat et Colmar, en Alsace.",
+  "4 Thann et Brisach, Haut-Rhin.",
+  "5 Laufenbourg et Fribourg en Brisgau.",
+  "6 La ville libre de N&rnberg (Bavière); au sujet des préparatifs de défense des Strasbourgeois et Bâlois, voir J. Knebel, Diarium 1. c. p. 183-"
+ ],
+ "poznamky": [
+  "Odstraněna čísla poznámek, „tucle“ = tucte. Jméno je v textu „Maritisi“, v nadpisu edice „Mantisi“; v nadpisu edice stojí „de Cologne“ (z Kolína), ale text i Ginginsův obsah mají „da Bologna“ (z Bologni).",
+  "Gingins: Magna = Německo, Argentina (Arozentina) = Štrasburk; Basilej, Sélestat (Silitstat) a Colmar (Columborgha) v Alsasku; Thann a Breisach (Brisahacha) v Horním Porýní; Laufenburg (Lionburgho) a Freiburg v Breisgau; Norimberk. K obranným přípravám Štrasburku a Basileje viz Knebelův deník, s. 183.",
+  "Gingins v obsahu uvádí demolice v okruhu „une lieue“ a zásoby „na několik let“; text má dvě a půl míle a 10 let. „Bombarde … grosse et piccole“ přeloženo jako obléhací děla velká i malá.",
+  "Zajímavé: konkrétní obraz obrany Štrasburku na podzim 1475: strhávání předměstí včetně kostelů, nový příkop napájený Rýnem, zazdění polovice cimbuří, zásoby na deset let a nákup děl v Norimberku; shoduje se s Knebelovým deníkem."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Carlo de Mantisi hlásí, že alsaská a hornorýnská města se ze strachu před Karlem Smělým horečně opevňují. Štrasburk strhl stavby v okolí, napustil Rýn do nového příkopu, zásobil se na deset let a nakoupil děla v Norimberku."
+}

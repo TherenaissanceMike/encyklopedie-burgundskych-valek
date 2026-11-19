@@ -1,0 +1,54 @@
+{
+ "cislo": 178,
+ "rimske": "CLXXVIII",
+ "nadpis": "CLXXVIII. Fr. Petrasanta au duc de Milan. Turin, le 22 avril 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, le 22 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXVIII (ř. 6101–6122 souboru edice)",
+ "obsah_editora": "Le bruit court à Turin que la gendarmerie du roi de France s’est rapprochée de Chambéry. — La régence est fort alarmée de ce mouvement, et redoute quelque nouveauté. — On dit encore que les affaires du duc de Bourgogne vont mal, sous plus d’un rapport, et que la place de Vaudemont est perdue pour lui. — Le duc Réné est rentré en Lorraine avec un bon nombre de gens de guerre pour ressaisir son duché : — Il y parviendra aisément ; soit parce que les gens du pays sont pour lui; soit à l’aide des Allemands, ses voisins; soit parce que le roi de France lui a donné 500 lances, en bannissant artificieusement les capitaines qui les commandent. — Ainsi les difficultés semblent surgir de tous les côtés à la fois.",
+ "odstavce": [
+  {
+   "text": "CLXXIX. Fr. Petrasanta au duc de Milan. Turin, le 22 avril 1476.",
+   "preklad": "CLXXVIII. Francesco Petrasanta milánskému vévodovi. Turín, 22. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore mio. — Qua e fama come il Re ha miso la gentedarme sua intorno a Chiambellero, di che costoro stano con molta paura et dubitano di gran novitate: E che el duca di Borgogna facia male li fatti suoi per molti rispetti, maxime che si dice Valdemonte essere perduto: Il duca di Lorena andato con gran gente per ricuperare il suo paese, et esserli facile si per la benivolentia deli homini, si per ladiuto de Alemani li proximi, si perche el ha 500 lanze di quelle del Re, quale artificiosamente ha bandito li 4 cappi le conducono. Siche pare che undique sint angustie.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Je tu pověst, že král rozmístil své těžkooděnce kolem Chambéry, čehož se zdejší velmi bojí a obávají se velkých novot; a že vévodovi burgundskému se v mnoha ohledech vede špatně, hlavně že se říká, že Vaudémont je ztracen. Vévoda lotrinský táhl s velkým lidem dobýt zpět svou zemi a bude to pro něj snadné, jednak pro náklonnost lidí, jednak s pomocí sousedních Němců, jednak proto, že má 500 kopí z králových, jejichž 4 velitele král lstivě vypověděl. Takže se zdá, že je úzko odevšad."
+  },
+  {
+   "text": "Taurini 22 Aprilis 1476.",
+   "preklad": "Turín 22. dubna 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo: Ill.mo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Chiambellero, Chambéry, en Savoie.",
+  "* Voir la Chronique de Lorraine, 1. c.",
+  "* Voir ci-devant la dépêche Appiano, du 18 avril, n° clxxiv, note 10, et la chronique de Lorraine, 1. c. p. lxviii."
+ ],
+ "poznamky": [
+  "Opravy OCR: vypuštěna čísla poznámek, „IlI mo“ → „Ill.mo“; v obsah_editora odstraněno zbloudilé „il.“.",
+  "„undique sint angustie“: latinské rčení (Zuzana, Dan 13,22) = je úzko ze všech stran.",
+  "Vévoda lotrinský = René II. Lotrinský. Čtyři vypovězení velitelé jsou asi ti, které jmenuje Appiano v č. CLXXV (pán z Craonu, pařížský prévôt, Gasconet, Salazar).",
+  "Gingins: Chiambellero = Chambéry v Savojsku; k Vaudémontu viz Chronique de Lorraine a Appianovu depeši z 18. dubna (Gingins „č. CLXXIV, pozn. 10“, myšlena je č. CLXXV).",
+  "Zajímavé: Petrasanta mluví o 500 francouzských kopích pro Reného, Basin (podle Gingingse u č. CLXXV) o 400."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "V Turíně se proslýchá, že francouzský král soustředil těžkooděnce u Chambéry, což vyvolává strach z novot. Burgundskému vévodovi se daří špatně: ztratil Vaudémont a René Lotrinský jde s velkým vojskem a 500 francouzskými kopími dobýt zpět Lotrinsko."
+}

@@ -1,0 +1,44 @@
+{
+ "cislo": 269,
+ "rimske": "CCLXIX",
+ "nadpis": "CCLXIX. Le duc de Milan à Philippe Sacramoro [d’ Arimino] son ambassadeur à Florence. Pavie, 10 juillet 1476.",
+ "odesilatel": "Le duc de Milan à Philippe Sacramoro [d’ Arimino] son ambassadeur à Florence.",
+ "misto_datum": "Pavie, 10 juillet 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXIX (ř. 9047–9059 souboru edice)",
+ "obsah_editora": "Il l’informe que depuis la défaite du duc de Bourgogne à Morat, il n’a reçu aucune dépêche de J. P. Panigarola, son envoyé près de ce prince, les communications se trouvant interrompues. — Il vient enfin d’en recevoir une lettre presque entièrement chiffrée, qu’il a montrée au seigneur Jaques Guichardin. (Copia.) Domino Filippo Sagramoro.",
+ "odstavce": [
+  {
+   "text": "CCLXIX. Le duc de Milan à Philippe Sacramoro [d’ Arimino] son ambassadeur à Florence. Pavie, 10 juillet 1476.",
+   "preklad": "CCLXIX. Milánský vévoda Filippu Sacramorovi [da Rimini], svému vyslanci ve Florencii. Pavia, 10. července 1476"
+  },
+  {
+   "text": "(Copia.) Domino Filippo Sagramoro.",
+   "preklad": "(Opis.) Panu Filippu Sagramorovi."
+  },
+  {
+   "text": "Dappoi che e seguita la rotta del Duca di Borgogna non havemo may havuto lettera alcuna de Johanne Petro Panigarola, per essere stati interrotti li passi; pur in questo di ne havemo recevuto una quasi tutta in zifra, la quale havemo monstrata al magnifico Jacomo Guizardini.",
+   "preklad": "Od té doby, co došlo k porážce burgundského vévody, jsme nedostali jediný list od Giovanniho Pietra Panigaroly, protože cesty byly přerušeny; dnes jsme však přece jeden obdrželi, téměř celý v šifře, a ukázali jsme ho vznešenému Jacopu Guicciardinimu."
+  },
+  {
+   "text": "Papié 10 Julii 1476.",
+   "preklad": "V Pavii 10. července 1476."
+  },
+  {
+   "text": "Manca l’attergo, la firma e il sigillo.",
+   "preklad": "Chybí adresa, podpis a pečeť."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Cette interruption momentanée des communications s’explique soit par l’irruption des Allemands dans le Pays-de-Vaud après la victoire de Morat, soit par le soulèvement des Genevois contre les Lombards. Les communications furent rétablies en partie après la suspension d’armes conclue à Lausanne entre la Savoie et les Suisses, c’est-à-dire dans les derniers jours de juin.",
+  "4 Probablement envoyé de la république de Florence à la cour de Milan."
+ ],
+ "poznamky": [
+  "Oprava dělení: úvodní řádek originálu „(Copia.) Domino Filippo Sagramoro.“ zapadl na konec obsahu editora, přidán jako odstavec 1.",
+  "Poslední odstavec je italská poznámka editora (chybí adresa, podpis, pečeť).",
+  "Gingins: přerušení spojení vysvětluje vpád Němců do Vaudu po Murtenu nebo povstání Ženevanů proti Lombarďanům; spojení se zčásti obnovilo po příměří mezi Savojskem a Švýcary v Lausanne koncem června.",
+  "Gingins: Jacopo Guicciardini byl patrně vyslanec Florentské republiky u milánského dvora."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Milánský vévoda sděluje svému vyslanci ve Florencii, že od porážky u Murtenu nedostal od Panigaroly žádnou zprávu kvůli přerušeným cestám, až nyní jeden list téměř celý v šifře."
+}

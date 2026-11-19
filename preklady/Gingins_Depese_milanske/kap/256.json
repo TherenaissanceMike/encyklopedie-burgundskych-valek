@@ -1,0 +1,48 @@
+{
+ "cislo": 256,
+ "rimske": "CCLVI",
+ "nadpis": "CCLVI. Léonet de Rossi à Lyon, 26 juin 1476.",
+ "odesilatel": "Léonet de Rossi à",
+ "misto_datum": "Lyon, 26 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLVI (ř. 8611–8627 souboru edice)",
+ "obsah_editora": "11 suppose que la personne à laquelle il écrit a déjà entendu parler de la grande défaite que les Allemands ont fait éprouver au duc de Bourgogne le samedi précédent 22 juin; défaite qui a été des plus complètes. — Sur cette nouvelle, le roi de France, voulant empêcher la ruine totale du pauvre pays de Savoie, et le conserver au jeune duc son neveu, a fait filer la veille (25 juin) toute sa gendarmerie et son artillerie sur Grenoble, afin qu’elle puisse passer la frontière et entrer dans le pays partout ou besoin sera.— L’expédition étant dirigée dans un bon but comme tout ce que le roi fait, on pense que, Dieu aidant, elle réussira. — En même temps Sa Majesté est partie de Lyon pour aller rendre grâce à Notre-Dame du Puy, d’où elle sera de retour au plus tard dans la huitaine. Cet événement, à ce que dit l’écrivain, pourra contribuer au rétablissement de la paix ; la partie adverse n’ayant guère d’autre ressource contre ceux qui voudraient profiter de ses revers. On peut donc s’attendre à quelque négociation conduisant à un accord ferme et durable.",
+ "odstavce": [
+  {
+   "text": "CCLVI. Léonet de Rossi à Lyon, 26 juin 1476.",
+   "preklad": "CCLVI. Leonetto de Rossi [neznámému adresátovi]. Lyon, 26. června 1476"
+  },
+  {
+   "text": "Voi harete inteso della grande rotta, che sabbato passato che fumo a di 22, dettono gli Alamani al Duca di Borgogna, la quale e suta grandissima. Per la qual cosa el Re per hobviare che el povero paese di Savoja non vadia del tutto in perditione ma per conservare et mantenere a suo nepote fece jeri partire tutte le gente dame et artigliaria e andare tutto a la volta di Granobile per eintrare e passare dove vedrà che sii de bisogno, et credo che gli réussira movendose a bono fine come in vero fa, con ogni disegno, di che Idio gli ne dia la grafia. La Sua M ta parti alsi jeri per andare a Nostra Dona del Puyo, et fra otto giorni al piu longo sara qui de retorno. Io vero nel Delphinato ben avante per seguitare le gente darme.",
+   "preklad": "Jistě jste slyšel o velké porážce, kterou minulou sobotu, totiž 22., uštědřili Němci vévodovi burgundskému a která byla převeliká. Proto král, aby zabránil tomu, že by ubohá savojská země docela zašla, a aby ji uchoval a udržel svému synovci, dal včera vyrazit všem těžkooděncům a dělostřelectvu a táhnout směrem ke Grenoblu, aby vstoupili a prošli tam, kde uzná za potřebné. Věřím, že se mu to podaří, neboť se hýbe k dobrému cíli, jak tomu opravdu je, se vším rozmyslem; kéž mu k tomu Bůh dá milost. Jeho Veličenstvo také včera odjelo navštívit Notre-Dame du Puy a nejpozději za osm dní bude zpět. Já pojedu daleko dopředu do Dauphiné, abych následoval těžkooděnce."
+  },
+  {
+   "text": "Questa volta potrebe essere cagione duna grande pacificatone, perche in vero la parte aversa, volendo nuy perseguitarla, ha pochi altri remedy, et parme vedere in suso la pratica de qualche accordo firmo et longo di parlamentare. — (Omissis, etc.)",
+   "preklad": "Tentokrát by to mohlo být příčinou velkého usmíření, protože druhá strana, kdybychom ji chtěli pronásledovat, má opravdu málo jiných prostředků, a zdá se mi, že v jednáních vidím [vyhlídku] na nějakou pevnou a trvalou dohodu. — (Vynecháno atd.)"
+  },
+  {
+   "text": "Da Lyone 26 Giugno 1476.",
+   "preklad": "Z Lyonu 26. června 1476."
+  },
+  {
+   "text": "Firmat. Leoneto de Rossi in Lyone.",
+   "preklad": "Podepsán: Leonetto de Rossi v Lyonu."
+  },
+  {
+   "text": "Manca l’attergo e il sigillo.",
+   "preklad": "Chybí adresa a pečeť."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Le jeune duc de Savoie Philibert I\", dont la mère, Yolande, était sœur du roi Louis XI.",
+  "* La ville de Grenoble en Dauphiné.",
+  "3 Notre-Dame du Pwy, en Velley."
+ ],
+ "poznamky": [
+  "Odstraněna čísla poznámek; „odo giorni“ čteno jako „otto giorni“ (osm dní). Adresát listu není uveden.",
+  "Gingins: synovec = mladý vévoda savojský Filibert I., jehož matka Jolanda byla sestrou Ludvíka XI.",
+  "Gingins: Granobile = Grenoble v Dauphiné; Nostra Dona del Puyo = Notre-Dame du Puy ve Velay."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Leonetto de Rossi píše z Lyonu, že po velké porážce burgundského vévody 22. června poslal Ludvík XI. těžkooděnce a dělostřelectvo ke Grenoblu, aby „zachránil“ Savojsko pro svého synovce, a že se rýsuje možnost trvalého míru."
+}

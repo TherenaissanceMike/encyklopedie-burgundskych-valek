@@ -1,0 +1,44 @@
+{
+ "cislo": 177,
+ "rimske": "CLXXVII",
+ "nadpis": "CLXXVII. Le Président et Conseil de régence de Piémont, au duc de Milan. Turin, le 19 avril 1476.",
+ "odesilatel": "Le Président et Conseil de régence de Piémont, au duc de Milan.",
+ "misto_datum": "Turin, le 19 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXVII (ř. 6085–6100 souboru edice)",
+ "obsah_editora": "Après avoir rappelé au duc de Milan ses offres de service pour la protection et la défense du Piémont, la régence de Turin, se référant au rapport de l’ambassadeur milanais, Petrasanta, concernant l’échec éprouvé par les troupes piémontaises cantonnées dans le val d’Aoste, demande instamment à ce prince d’envoyer dans cette vallée 600 hommes de pieds pour en garder les passages, conjointement avec les troupes du pays, etc.",
+ "odstavce": [
+  {
+   "text": "CLXXVIII. Le Président et Conseil de régence de Piémont, au duc de Milan. Turin, le 19 avril 1476.",
+   "preklad": "CLXXVII. Předseda a regentská rada Piemontu milánskému vévodovi. Turín, 19. dubna 1476"
+  },
+  {
+   "text": "Illustrissime princeps et excelse domine. — Accidit nunc casus aliquantulum adversus et inopinatus gentibus nostris transmissis ad Valem Augustam. Et quia Celsitudo vestra pro tuitione hujus patrie in tantum se obtulit, ut nihil ultra dici queat, rogamus quantum in nobis est, dignetur eadem excellencia transmittere illuc ad Valem Augustam cum nostris pedites sex centum, prout in eadem plene confidimus et latius scribit orator vester S. Franciscus de Petrasancta. Et nobis mandet eadem Celsitudo que volet nos facturos in omne ejus decus paratos, concedente X° qui eandem Celsitudinem ad vota conservet.",
+   "preklad": "Nejjasnější kníže a vznešený pane. Náš lid, vyslaný do údolí Aosty, nyní potkala poněkud nepříznivá a nečekaná příhoda. A protože se Vaše Výsost k ochraně této země nabídla tak, že víc nelze říci, prosíme, seč jsme, aby Vaše Excelence ráčila poslat tam do údolí Aosty k našim šest set pěšáků, jak v ni plně důvěřujeme a jak obšírněji píše Váš vyslanec pan Francesco Petrasanta. A ať nám Vaše Výsost přikáže, co bude chtít, abychom učinili; jsme připraveni ke všemu, co jí bude ke cti, s pomocí Kristovou, který nechť Vaši Výsost podle přání zachová."
+  },
+  {
+   "text": "Ex Taurino die decima nona Aprilis Mill.o IIIIC LXXVI.to",
+   "preklad": "Z Turína devatenáctého dubna 1476."
+  },
+  {
+   "text": "Subscr. Dezulcaciis....",
+   "preklad": "Podepsán: Dezulcaciis [?]…"
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et excelso domino domino Duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a vznešenému pánu, panu vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Originál (latinsky) byl v datech celý v obsah_editora; přesunut do odstavců. Opravy OCR: „tuhitione“ → „tuitione“, „piene“ → „plene“, rozdělená slova spojena, odstraněny svislé čáry a apostrofy z okraje skenu. „X°“ = Christo.",
+  "Podpis „Dezulcaciis....“ je nejasný (snad sekretář rady), ponechán s [?].",
+  "Gingins: viz Petrasantovu depeši z téhož dne (Gingins uvádí „č. CLXXVI“, myšlena je č. CLXXVII)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z latinského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Piemontská regentská rada oznamuje milánskému vévodovi „nepříznivou a nečekanou příhodu“ svého vojska v údolí Aosty. Odvolává se na jeho nabídky pomoci a žádá o 600 pěšáků na obranu údolí."
+}

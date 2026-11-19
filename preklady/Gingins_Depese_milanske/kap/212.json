@@ -1,0 +1,60 @@
+{
+ "cislo": 212,
+ "rimske": "CCXII",
+ "nadpis": "CCXII. au duc de Milan. Sans date (mai 1476).",
+ "odesilatel": "au duc de Milan.",
+ "misto_datum": "Sans date (mai 1476).",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXII (ř. 7342–7362 souboru edice)",
+ "obsah_editora": "Le correspondant transmet à Galeas-Marie Sforza une note (*) portant: que si ce prince, pour conserver l’amitié du duc de Bourgogne, se sent obligé de lui prêter quelqu’assistance contre les Suisses, il conviendrait de manœuvrer de façon à ce que le duc Charles se contentât d’une coopération indirecte, c’est-à-dire d’un contingent en argent, sans que le duc de Milan fût appelé à lui fournir des troupes et à exposer son propre pays aux représailles. — Dans le cas où ce dernier préférerait demeurer caché derrière le rideau, on trouverait, sans doute, un prête-nom qui se chargerait de faire l’affaire. — De cette manière le duc de Milan pourrait contenter le duc de Bourgogne sans trop se compromettre vis-à-vis des Suisses et de l’archiduc Sigismond d’Autriche, ses voisins.",
+ "odstavce": [
+  {
+   "text": "CCXIII. au duc de Milan. Sans date (mai 1476).",
+   "preklad": "CCXII. [Nepodepsaný pisatel] milánskému vévodovi. Bez data (květen 1476)"
+  },
+  {
+   "text": "Questo si e el cedulino. Sii paressi ala V Sublimità essere streta a fare alcuna impresa contra de li Svizeri per servare lamicizia de lo Ill mo duca di Burgognia laudaria che V. S. si ad epsa paresse bene facto, praticasse col prelibato duca di Burgognia chel fusse contento che la V. E ia non poneria a partito se non de tre cose luna ; hoc est il dinaro, e non li poneria la gente, noi le sue terre : me basta lanimo de trovare persona che fara tal impresa, si la V. Ex ia vora et parira che V. S. sia quella che facia ; et cossi forse la V. Sublimità satisfarà al Duca di Borgogna et servare lamicizia del duca de Storlich et de Svizeri, et questo meglio intenderà V. E cia quando sero cum ella; delibera in questo mezo.",
+   "preklad": "Toto je onen lístek. Kdyby se Vaší Výsosti zdálo, že je nucena podniknout nějakou akci proti Švýcarům, aby zachovala přátelství nejjasnějšího vévody burgundského, doporučoval bych, zdá-li se to Vaší Výsosti dobré, abyste s řečeným vévodou burgundským vyjednala, aby se spokojil s tím, že Vaše Excelence nevsadí z oněch tří věcí víc než jednu, totiž peníze, a nevsadí své lidi ani své země. Troufám si najít osobu, která takový podnik provede, bude-li Vaše Excelence chtít, a bude se zdát, že je to Vaše Výsost, kdo to činí [?]. Tak snad Vaše Výsost uspokojí vévodu burgundského a zachová si přátelství vévody rakouského i Švýcarů. To Vaše Excelence lépe pochopí, až budu u ní; mezitím ať se rozhodne."
+  },
+  {
+   "text": "Bisel [senza data].",
+   "preklad": "Bisel [bez data]."
+  },
+  {
+   "text": "Servulus E. Ill. D. V.",
+   "preklad": "Nejmenší služebník Vaší nejjasnější Excelence."
+  },
+  {
+   "text": "(Senza firma.)",
+   "preklad": "(Bez podpisu.)"
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Ex m0 domino meo Galeaz",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému Galeazzovi"
+  },
+  {
+   "text": "Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Cette note, dépourvue de date et de signature, émane très-probablement de l’évêque de Coire, Ortlieb, des comtes de Brandis, dans le Ty- rol, élu en 1458, mort en 1491, avec le titre de conseiller des Sforze, ducs de Milan. ( Sprecher, Pallad. Bhæt., p. 105-108.) Le duc Galeas- Marie entretenait à Coìre un agent diplomatique par l’entremise duquel il prenait souvent les avis du prélat. (Voir ci-devant les dépêches d’Azo Visconti, n° xl et xl vin.) Quant à la date de la note le contenu fait supposer qu’elle a été écrite au printemps de l’année 1476.",
+  "2 Le traité conclu entre les ducs de Bourgogne et de Milan stipulait, en cas de guerre, un secours mutuel de 400 lances garnies (2,400 chevaux), ou, à défaut, un subside annuel de 60,000 ducats d’or. (Gui- chenon, 1. c. t. II, p. 425 et suivantes.)",
+  "3 Sous ce nom altéré il faut entendre P archiduc Sigismond d’Autriche, comte du Tyrol, dont les Etats touchaient au Milanais.",
+  "4 Si le mot Bisel est un nom de lieu comme le suppose la place qu’il tient dans le manuscrit de Milan, ce doit être Bissone, village paroissial du district de Lugano (canton actuel du Tessin) qui appartenait au Milanais."
+ ],
+ "poznamky": [
+  "Gingins: Lístek bez data a podpisu pochází velmi pravděpodobně od chúrského biskupa Ortlieba z Brandisu (zvolen 1458, † 1491), který měl titul rady Sforzů; vévoda Galeazzo Maria udržoval v Chúru diplomatického agenta a často se biskupa radil. Podle obsahu byl lístek napsán na jaře 1476.",
+  "Gingins: Smlouva mezi vévody burgundským a milánským stanovila pro případ války vzájemnou pomoc 400 plně vybavených kopí (2400 jezdců), nebo místo nich roční subsidii 60 000 zlatých dukátů.",
+  "„Duca de Storlich“ = zkomolené Österreich, tedy Zikmund Habsburský (Rakouský), hrabě tyrolský, jehož země sousedily s Milánskem (Gingins).",
+  "Gingins: Je-li „Bisel“ místní jméno, jak naznačuje jeho místo v milánském rukopisu, šlo by o Bissone u Lugana, které patřilo Milánsku. Nejisté.",
+  "Smysl věty „et parirà che V. S. sia quella che facia“ je nejasný: snad že prostředník bude jednat jako nástroj vévody, nebo naopak že vévoda zůstane skryt (tak Gingins). Označeno [?].",
+  "Opravy OCR: odstraněna čísla poznámek (cedulino, dinaro, Storlich), „111“ → „Ill.“, „Ul mo“ → „Ill mo“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Nepodepsaný rádce (podle Gingingse snad chúrský biskup) doporučuje vévodovi, aby Karlu Smělému proti Švýcarům pomohl nanejvýš penězi, ne vojskem a vlastními zeměmi, nebo skrze prostředníka, a zachoval si tak přátelství Švýcarů i Zikmunda Rakouského."
+}

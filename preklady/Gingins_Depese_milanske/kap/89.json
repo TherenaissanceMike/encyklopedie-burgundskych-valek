@@ -1,0 +1,55 @@
+{
+ "cislo": 89,
+ "rimske": "LXXXIX",
+ "nadpis": "LXXXIX. Jean Pierre Panigarola au duc de Milan. Au camp devant Nancy, 28 octobre 1475.",
+ "odesilatel": "Jean Pierre Panigarola au duc de Milan.",
+ "misto_datum": "Au camp devant Nancy, 28 octobre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXXIX (ř. 2957–2972 souboru edice)",
+ "obsah_editora": "L’ambassadeur milanais transmet au duc Galeas-Marie, son maître, une note du duc de Bourgogne, par laquelle il lui recommande un certain Nicolo Scarampo, chef d’escouade dans la compagnie du capitaine Troylo. — C’est un brave officier, ami des Sforza, dont les biens, situés dans l’Alexandrin, auraient été confisqués, pour avoir, à ce que dit Scarampo, négligé d’accomplir certains ordres qu’il avait reçus du duc de Milan. — Le duc de Bourgogne prie l’ambassadeur d’intercéder auprès de son maître pour faire rendre au dit officier ses biens, autant que cela pourrait se faire, afin que sa femme et ses enfants, qui sont très pauvres, aient de quoi vivre. — L’ambassadeur a fait observer au duc Charles qu’il ne connaissait pas trop bien l’affaire de cet homme ; mais que pour un acte de désobéissance aussi léger, ce prince lui aurait infligé une punition sans doute moins sévère ; que du reste il transmettrait sa recommandation au duc de Milan.",
+ "odstavce": [
+  {
+   "text": "XC. Jean Pierre Panigarola au duc de Milan. Au camp devant Nancy, 28 octobre 1475.",
+   "preklad": "LXXXIX. Giovanni Pietro Panigarola milánskému vévodovi. Tábor u Nancy, 28. října 1475"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Questo Ex mo principe scrive laligata ad V. S. in favore di uno Nicolo Scarampo, capo di squadra di la compagnia di Messer Troylo, che li pare apto soldato, e lo ama perche dice essere stato sforzescho, al quale pare essa V. S. abia confiscati li beni soi in Alexandria par inobedientia che andò ad metere le bombarde in Astesana, como dice, ad un castello senza licentia di quella.",
+   "preklad": "Nejjasnější pane můj. Tento nejvznešenější kníže píše přiložený list Vaší Milosti ve prospěch jakéhosi Nicola Scarampa, velitele oddílu (capo di squadra) v kompanii pana Troila, který se mu zdá schopným vojákem a kterého má rád, protože prý býval stoupencem Sforzů. Tomu prý Vaše Milost zkonfiskovala jeho statky v Alessandrii pro neposlušnost, že bez jejího svolení šel, jak říká, postavit obléhací děla proti jednomu hradu v kraji Asti."
+  },
+  {
+   "text": "Mi ha dicto prega V. S. vogli avere per ricomandato esso Nicolo in restituirli dicti beni per lo vivere di soa mogliere e soi fioli che sono poverissimi, quando con bona contenteza et piacere di quella si possi fare. — Risposi non intendere la cosa, ma per questa inobedientia meritava pegio, como anco faria la Signoria Soa quando uno deli soi facesse un tal acto. Nondimeno ne avisaria la S. V. et cosi mi commisse scrivesse. Si degni ora rispondere. A la quale mi ricomando.",
+   "preklad": "Řekl mi, že prosí Vaši Milost, aby ráčila mít řečeného Nicola v doporučení a vrátila mu řečené statky na obživu jeho ženy a dětí, kteří jsou přechudí, pokud se to může stát k plné spokojenosti a libosti Vaší Milosti. Odpověděl jsem, že věci nerozumím, ale že za takovou neposlušnost zasloužil horší [trest], jak by to také učinila Jeho Milost, kdyby někdo z jejích lidí provedl takový čin. Nicméně že to Vaší Milosti oznámím, a tak mi uložil, abych napsal. Račte nyní odpovědět. Jí se doporučuji."
+  },
+  {
+   "text": "Ex Castris contra Nansi 28 octobris 1475.",
+   "preklad": "V táboře u Nancy 28. října 1475."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: služebník"
+  },
+  {
+   "text": "Johannes Petrus.",
+   "preklad": "Johannes Petrus [Giovanni Pietro Panigarola]."
+  },
+  {
+   "text": "Soprascr. Illustrissimo principi etc. domino Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Adresa: Nejjasnějšímu knížeti atd. panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' Le duc de Bourgogne en personne avait mis le siège devant Nancy, le 24 octobre. ( Lenglet, 1. c. t. II, p. 218.) a Jean-Pierre Panigarola, ambassadeur de Milan près le duc de Bourgogne."
+ ],
+ "poznamky": [
+  "Opravy OCR: „Qesto“ = Questo, „boli“ = fioli (děti), „Curri“ = Cum; odstraněna čísla poznámek.",
+  "Gingins: vévoda burgundský osobně zahájil obléhání Nancy 24. října 1475. Johannes Petrus je Giovanni Pietro Panigarola, milánský vyslanec u burgundského vévody.",
+  "Gingins v obsahu chápe Panigarolovu odpověď opačně (že by vévoda trestal mírněji); text říká, že za takovou neposlušnost by si Scarampo zasloužil ještě horší trest a že by tak jednal i sám Karel.",
+  "„Messer Troylo“ je nejspíš italský kondotiér v burgundských službách Troilo da Rossano (Troilo da Muro); edice ho neurčuje."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý se u milánského vévody přimlouvá za Nicola Scarampa, velitele oddílu v kompanii Troilově, jemuž byly v Alessandrii zabaveny statky za neposlušnost. Panigarola vévodovi řekl, že Scarampo zasloužil i horší trest, přímluvu však předává."
+}

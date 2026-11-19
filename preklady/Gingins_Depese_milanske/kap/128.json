@@ -1,0 +1,55 @@
+{
+ "cislo": 128,
+ "rimske": "CXXVIII",
+ "nadpis": "CXXVIII. Jacomet de Mâyno au duc de Milan. Londres, le 10 mars 1476.",
+ "odesilatel": "Jacomet de Mâyno au duc de Milan.",
+ "misto_datum": "Londres, le 10 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXVIII (ř. 3962–3984 souboru edice)",
+ "obsah_editora": "L’envoyé milanais, sollicitant auprès du roi Edouard son audience de congé, Sa Majesté le prend par la main et, le conduisant à l’écart, lui dit d’avertir le duc de Milan, son maître, que le duc de Bourgogne a offert au roi de France de conquérir le duché de Milan pour le compte du duc d’Orléans, en assurant le roi Louis qu’il ne feignait de vouloir faire une grosse guerre aux Suisses que pour se rapprocher le plus possible du Milanais avec son armée. — C’est pour s’entendre à ce sujet que le roi de France et le duc de Bourgogne doivent avoir une entrevue. — Aussitôt qu’ils se seront mis d’accord, le duc ne tardera pas à passer les Alpes; la duchesse de Savoie étant disposée à se prêter à ce coup de main et à déclarer la guerre au duc de Milan. — Le correspondant dit qu’il n’a rien de plus à mander à son maître, sinon qu’il est mal portant.",
+ "odstavce": [
+  {
+   "text": "CXXIX. Jacomet de Mâyno au duc de Milan. Londres, le 10 mars 1476.",
+   "preklad": "CXXVIII. Jacometo de Mayno milánskému vévodovi. Londýn, 10. března 1476"
+  },
+  {
+   "text": "Solicitando la Maestà de lu Re me volesse despacarme mi prese per la mane e mi meno da disparte da sua gente et diseme volesse avixar Vostra Excell a che lo Duca di Borgogna si sera oferto a lo re di Franza di volere fare ducha di Milano il Duca di Orliense dimostrando luy di fare grande guera ali Sviceri per essere piu apreso con la sua gente darme al stato di Vostra Signoria. Lo re di Franza e lo ducha di Borgogna deno esere insieme a parlamento solum modo per questo ; fornito lo parlamento de la Maestà di lo re di Franza sera dacordio con Sua Signoria non tardara a passar li monti, perche la duchessa di Savoia se vole consentire a rompere guerra a Vostra Excell. Altro no me acade se non che io non sono ben sano.",
+   "preklad": "Když jsem Jeho Veličenstvo krále žádal, aby mě ráčil propustit, vzal mě za ruku, odvedl stranou od svých lidí a řekl mi, abych zpravil Vaši Excelenci, že vévoda burgundský nabídl francouzskému králi, že chce udělat vévodou milánským vévodu orleánského; a že dává najevo, že vede velkou válku se Švýcary, jen aby byl se svými těžkooděnci blíže státu Vašeho Panství. Francouzský král a vévoda burgundský se mají sejít k jednání jen kvůli tomu. Po skončení jednání, bude-li Jeho Veličenstvo francouzský král zajedno s Jeho Milostí, [vévoda] nebude otálet s přechodem hor, neboť vévodkyně savojská chce svolit k zahájení války proti Vaší Excelenci. Nic jiného k psaní nemám, jen to, že nejsem dobře zdráv."
+  },
+  {
+   "text": "Ex Londenjs die 10 Martij 1476.",
+   "preklad": "Z Londýna 10. března 1476."
+  },
+  {
+   "text": "Illustrissime Dominationis Vestre",
+   "preklad": "Vašemu nejjasnějšímu Panství"
+  },
+  {
+   "text": "Sottos. Servus minimus",
+   "preklad": "Podepsán: Nejnižší služebník"
+  },
+  {
+   "text": "Jacometus de Mayno.",
+   "preklad": "Jacometus de Mayno."
+  },
+  {
+   "text": "A tergo : [Ill]mo et excellentissimo Duci [Medio]lani domino domino meo singularissimo.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu vévodovi milánskému, pánu, panu mému nejjedinečnějšímu."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "3 Landini en latin ; Londres.",
+  "* Mediolani."
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední dva odstavce byly Gingingsovy poznámky 1 a 2, odstraněny. Opravy OCR: „Excell 3 *“ > „Excell a“, „darne“ > „darme“, „tardarla.“ > „tardara“, „EcceK“ > „Excell.“; v adrese doplněny chybějící části slov v hranatých závorkách.",
+  "Gingins: král = Eduard IV. (z Yorku), anglický král. Vévoda orleánský = Ludvík, vnuk Valentiny Viscontiové a zeť Ludvíka XI., tehdy čtrnáctiletý (pozdější Ludvík XII., který si nároky na Milán skutečně uplatnil roku 1499).",
+  "Zajímavé: Eduard IV. předává milánskému vyslanci pověst, že Karlova válka se Švýcary je jen záminkou k tažení na Milán; depeše psaná týden po Grandsonu o porážce zjevně ještě neví."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Anglický král Eduard IV. při rozloučení důvěrně varuje milánského vyslance, že Karel Smělý prý nabídl Ludvíku XI. dobýt Milán pro vévodu orleánského a válku se Švýcary předstírá, aby se přiblížil k Itálii, s podporou vévodkyně savojské."
+}

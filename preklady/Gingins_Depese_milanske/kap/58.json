@@ -1,0 +1,59 @@
+{
+ "cislo": 58,
+ "rimske": "LVIII",
+ "nadpis": "LVIII. Azon Visconti au duc de Milan. Corne, 7 juillet 1475.",
+ "odesilatel": "Azon Visconti au duc de Milan.",
+ "misto_datum": "Corne, 7 juillet 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LVIII (ř. 2080–2097 souboru edice)",
+ "obsah_editora": "Un négociant allemand de la ville d’Ulm, en Souabe, qui a résidé longtemps à Corne, écrit de celte ville que, le 26 juin dernier, le magistrat d’Ulm a été informé de l’accommodement conclu et signé entre l’empereur et le duc de Bourgogne; que cette nouvelle peut être communiquée au duc de Milan, comme chose certaine. — Mais l’écrivain ne connaît pas les conditions du traité.",
+ "odstavce": [
+  {
+   "text": "LIX. Azon Visconti au duc de Milan. Corne, 7 juillet 1475.",
+   "preklad": "LVIII. Azzo Visconti milánskému vévodovi. Como, 7. července 1475"
+  },
+  {
+   "text": "Hlme princeps et Excell me dne due mi quam plurimum metuendissime. Post humillimam et debitam recomandationem. Già molti anni fa in questa terra sta uno Christiano alamano da Olmo qual e creduto mercante. Et perche piu fiate ho recercato da luy de intendere dele nove dAlamania, ritrovandosi al presente luy a Olmo, ha scritto qui alli 26 del passato : nel consilio de Olmo vene firma nova che la Maestà del Imperatore et lo lll mo Duca de Borgonia sono restati daccordo et che hanno scrito et sigilato li capituli, ma che non sa in che forma siano dicti capituli : et scrive, dicto Christiano, che questo posso fare intendere per cosa certissima a V. lll ma Celsitudine, ala quale iterum quanto piu humilmente posso me ricomando.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane, pane můj nejctihodnější. Po nejpokornějším a povinném doporučení. Již mnoho let pobývá v tomto městě jakýsi Christiano [?], Němec z Ulmu, kterého mají za kupce. Protože jsem se od něj už mnohokrát snažil dozvědět novinky z Německa, napsal sem nyní, když je zrovna v Ulmu, 26. minulého měsíce toto: do ulmské rady přišla pevná zpráva, že se Jeho Veličenstvo císař a nejjasnější vévoda burgundský dohodli a že sepsali a zapečetili články smlouvy; neví však, jaké ty články jsou. A zmíněný Christiano píše, že to mohu Vaší nejjasnější Výsosti oznámit jako věc naprosto jistou. Jí se znovu co nejpokorněji doporučuji."
+  },
+  {
+   "text": "Datum Cumis 7 July 1475.",
+   "preklad": "Dáno v Comu 7. července 1475."
+  },
+  {
+   "text": "Ejusdem III e Celsitudinis Vestre",
+   "preklad": "Vaší nejjasnější Výsosti"
+  },
+  {
+   "text": "Fidelissimus servitor",
+   "preklad": "nejvěrnější služebník"
+  },
+  {
+   "text": "Azo VlCECOME.",
+   "preklad": "Azzo Visconti."
+  },
+  {
+   "text": "A tergo: Ill mo principi etc. dno duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu vévodovi milánskému."
+  },
+  {
+   "text": "Magnifico dno Cicho, cito, cito, cito.",
+   "preklad": "Vznešenému panu Ciccovi [Simonettovi]. Rychle, rychle, rychle."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Como, Cóme, sur le lac de ce nom, royaume lombard-vénitien."
+ ],
+ "poznamky": [
+  "Oprava dělení: vypuštěna Gingingsova poznámka o Ulmu, která zapadla mezi odstavce originálu; odstraněna čísla poznámek; OCR „Curri“ opraveno na „Cum“.",
+  "„uno Christiano alamano da Olmo … dicto Christiano“: může jít o křestní jméno (Christian), ale v lombardské italštině znamená „cristiano“ také prostě „člověk“. Gingins píše jen „un négociant allemand“.",
+  "Gingins: Olmo = Ulm, svobodné říšské město ve Švábsku; Cumis = Como.",
+  "„Cicho“ = Cicco Simonetta, kancléř milánského vévody, jemuž šla depeše k vyřízení."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Azzo Visconti z Coma předává zprávu německého kupce z Ulmu, že ulmská rada dostala pevnou zprávu o uzavření a zapečetění smlouvy mezi císařem a Karlem Smělým; obsah článků není znám."
+}

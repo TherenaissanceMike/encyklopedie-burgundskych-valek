@@ -1,0 +1,50 @@
+{
+ "cislo": 188,
+ "rimske": "CLXXXVIII",
+ "nadpis": "CLXXXVIII. J.-P. Panigarola au duc de Milan. Lausanne, 3 mai 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, 3 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXXVIII (ř. 6470–6484 souboru edice)",
+ "obsah_editora": "Le comte deRomont s’est saisi d’un château (non nommé), appartenant à un gentilhomme fribourgeois. — Ce château, situé à deux lieues au-delà de Romont, du côté de Fribourg, étant dans les limites de la souveraineté de Savoie, le comte y a mis une garnison, sans le brûler ni le piller. Illustr 0 Sign r mio, ecc.",
+ "odstavce": [
+  {
+   "text": "CLXXXIX. J.-P. Panigarola au duc de Milan. Lausanne, 3 mai 1476.",
+   "preklad": "CLXXXVIII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 3. května 1476"
+  },
+  {
+   "text": "Monsig re di Romont a pigliato un castello doe leghe di la da Romont verso Filiborgo di un Zentilomo di Filiborgo, che fa forsi 300 homini, e si intende non li ha posto il foco ne facto sacomano : ma lo guarda cosi, perche e di limiti di Savoya. Di Suiceri si parla variamente: niente fino qui di certo.",
+   "preklad": "[Nejjasnější pane můj atd.] Pán z Romontu dobyl hrad dvě míle za Romontem směrem k Fribourgu, patřící jednomu fribourgskému šlechtici, který má [fa] snad 300 mužů; a jak se rozumí, nezapálil ho ani nevyplenil, ale drží ho tak, protože leží v hranicích Savojska. O Švýcarech se mluví různě, dosud nic jistého."
+  },
+  {
+   "text": "Lossane 3 May 1476.",
+   "preklad": "Lausanne 3. května 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panig.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : Ill m0 et Ex mo Principi Galeaz Maria Sfortia Vicecomiti Duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "Avant la guerre de Bourgogne le territoire de la ville de Fribourg ne s’étendait qu’à trois lieues à la ronde."
+ ],
+ "poznamky": [
+  "Oslovení „Illustr. Sign. mio, ecc.“ zapadlo v edici na konec francouzského obsahu; v překladu doplněno v hranatých závorkách. Poslední odstavec (poznámka editora) přesunut do poznámek editora. „Curri sigillo“ opraveno na „Cum sigillo“.",
+  "Gingins: před burgundskou válkou sahalo území města Fribourgu jen na tři míle kolem. Jméno hradu ani šlechtice depeše neuvádí.",
+  "„Che fa forsi 300 homini“: nejasné, zda jde o počet obyvatel panství, nebo o ozbrojence šlechtice."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panigarola krátce hlásí, že hrabě z Romontu obsadil hrad fribourgského šlechtice dvě míle za Romontem, ale nevypálil ho, protože leží na savojském území. O Švýcarech není nic jistého."
+}

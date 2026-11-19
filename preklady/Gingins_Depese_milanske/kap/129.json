@@ -1,0 +1,59 @@
+{
+ "cislo": 129,
+ "rimske": "CXXIX",
+ "nadpis": "CXXIX. L’evêque de Còme et ses collègues, au duc de Milan. Genève, le 11 mars 1476.",
+ "odesilatel": "L’evêque de Còme et ses collègues, au duc de Milan.",
+ "misto_datum": "Genève, le 11 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXIX (ř. 3985–4002 souboru edice)",
+ "obsah_editora": "Le seigneur d’Illens leur a dit que les seigneurs milanais envoyés pour complimenter le duc de Bourgogne, au camp de Grandson, ont adressé au duc un discours rempli des plus pompeuses louanges; finissant par dire : « que l’alliance conclue entre ce prince et le duc leur maître devait subsister éternellement et que la mort même ne serait pas capable de la rompre. » — Ces paroles ont paru plaire au duc de Bourgogne; mais il a été fort désappointé en voyant que ces ambassadeurs n’avaient rien de plus à lui dire. — Leur départ précipité pour Genève sans avoir pris congé de lui ni réglé aucune affaire, a beaucoup déplu au duc Charles qui en est demeuré fort piqué. — Le seigneur d’Illens invite l’évêque de Còme et ses collègues à informer le duc de Milan de tout cela, afin que, dans sa prudence, il trouve quelque bon expédient pour calmer le mécontentement assez vif du duc de Bourgogne.",
+ "odstavce": [
+  {
+   "text": "CXXX. L’evêque de Còme et ses collègues, au duc de Milan. Genève, le 11 mars 1476.",
+   "preklad": "CXXIX. Biskup z Coma a jeho kolegové milánskému vévodovi. Ženeva, 11. března 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore nostro. Monsignore Dyrlen ne ha cheto che li Magnifici Ambasciatori che forono al Signore Suo ferono una dignissima oratione in grandissima laude de Sua Signoria, concludendo infine che questa lianza et intelligentia facta fra le Vostre Sig rie Vostra Excellente la teneva eterna; et che la morte propria non li dovesse poter rompere ecc., quale oratione piacque assai al prefato suo Signore. Ma certo era poi remaso tutto despiacente che non avessero exposte altre cose, et che sieno partiti cosi repentinamente da Gineva, non havendo facto conclusione alchuna, ne preso licentia da Sua Sig ria ; pero ne confortava volessimo scrivere ad V ra Sig ria corno prudentissima che le volesse provedere ad questo in qualche bona forma corno gli paresse per contentare el prelibato suo Signore di questa displicen[tia] recevuta che non e stata piccola. Del che avisamo V ra Sublimità corno e nostro debito, et ad quella ne recomandiamo.",
+   "preklad": "Nejjasnější a nejvznešenější pane náš. Pan z Illens nám řekl, že vznešení vyslanci, kteří byli u jeho pána, pronesli velmi důstojnou řeč k veliké chvále Jeho Milosti a nakonec prohlásili, že toto spojenectví a dorozumění uzavřené mezi Vašimi Milostmi má Vaše Excelence za věčné a že by je nemohla rozvázat ani sama smrt atd. Ta řeč se jmenovanému jeho pánu velice líbila. Potom však zůstal jistě velmi nespokojen, že nepřednesli nic dalšího a že tak náhle odjeli z Ženevy, aniž by cokoli uzavřeli a aniž by se s Jeho Milostí rozloučili. Proto nás vybízel, abychom napsali Vaší Milosti jako nanejvýš prozíravé, aby to nějakým dobrým způsobem, jak se jí bude zdát, napravila a usmířila jmenovaného jeho pána za tuto nelibost, která nebyla malá. O tom zpravujeme Vaši Výsost, jak je naší povinností, a doporučujeme se jí."
+  },
+  {
+   "text": "Gebennis die 11 Martij 1476.",
+   "preklad": "V Ženevě 11. března 1476."
+  },
+  {
+   "text": "Ejusdem vestre illustrissime dominationis,",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Sottos. Servitores",
+   "preklad": "podepsaní služebníci"
+  },
+  {
+   "text": "Br. episcopus còmi Pallavicinus Marchio Antonius de Aplano.",
+   "preklad": "Br[anda], biskup comský, markýz Pallavicino, Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Ill mo Principi etc. dno Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd. panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Con sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Guillaume de La Baume, seigneur d’Illens.",
+  "1 II s’agit des ambassadeurs milanais reçus en audience solennelle par le duc de Bourgogne, à son camp de Grandson, le 1\" mars. (Voir la dépêche de ces ambassadeurs, en date du 2 mars 1476, ci-devant n° exil.)"
+ ],
+ "poznamky": [
+  "Gingins: „Monsignore Dyrlen“ je Guillaume de La Baume, pán z Illens.",
+  "Gingins: jde o milánské vyslance, které vévoda burgundský přijal na slavnostní audienci ve svém táboře u Grandsonu 1. března (viz jejich depeši z 2. března, č. CXII).",
+  "„ne ha cheto“: zřejmě chyba tisku nebo OCR za „ne ha dicto“ (nám řekl).",
+  "„sieno partiti cosi repentinamente da Gineva“: doslova „odjeli z Ženevy“; Gingins v obsahu rozumí „spěšný odjezd do Ženevy“. Podle depeše CXXXVI vyslanci z Grandsonu (resp. z Orbe) prchli do Ženevy a odtud hned odjeli do Milána, sedí tedy obojí.",
+  "Věta „le Vostre Sig rie Vostra Excellente la teneva eterna“ je v edici zřejmě porušená; přeloženo podle smyslu.",
+  "Opravy OCR: odstraněna čísla poznámek, spojena rozdělená slova, „displicen 3“ čteno jako zkratka displicen[tia].",
+  "Podpis: biskup comský byl tehdy patrně Branda da Castiglione (v textu jen „Br.“)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Pan z Illens sděluje milánským vyslancům v Ženevě, že Karel Smělý byl potěšen zdvořilou řečí milánského poselstva u Grandsonu, ale velmi ho urazilo, že vyslanci nic dalšího nepřednesli a bez rozloučení odjeli. Vyslanci žádají vévodu, aby Karlovu nelibost nějak usmířil."
+}

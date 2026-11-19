@@ -1,0 +1,50 @@
+{
+ "cislo": 97,
+ "rimske": "XCVII",
+ "nadpis": "XCVII. Antoine d’Appiano au duc de Milan. Rivoli, 27 janvier 1476.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Rivoli, 27 janvier 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše XCVII (ř. 3137–3156 souboru edice)",
+ "obsah_editora": "Instructions particulières adressées par le duc de Milan à son envoyé Appiano, en date du 25 de janvier. — Il devra accompagner la duchesse de Savoie, et lui tenir assidûment compagnie pendant la durée de son voyage au-delà des monts. — Quand la duchesse aura rejoint le duc de Bourgogne, l’envoyé Appiano se concertera avec J.-P. Panigarola, son collègue, pour observer d’un œil vigilant tout ce qui se passera et pour en rendre fidèlement compte au duc de Milan, leur maître. — En attendant, l’envoyé milanais à la cour de Piémont continuera à répondre avec réserve et d’une manière générale aux communications qui pourront lui être faites par cette cour, sans prendre aucun engagement de quelque importance. des ambassadeurs milanais.",
+ "odstavce": [
+  {
+   "text": "XCVIII. Antoine d’Appiano au duc de Milan. Rivoli, 27 janvier 1476.",
+   "preklad": "XCVII. Antonio d'Appiano milánskému vévodovi. Rivoli, 27. ledna 1476"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. Riccomandandomi sempre a la bona gratia di V. Sub a . Ho recevuto una lettera di V. Ex cia de 23 quale lecta et perlecta, dico chio obediro sempre usque ad mortem; et quando questa Ill ma Madama passais de la da monti, gli faro sempre compagnia, et giunta che la sara a Monsignore di Borgogna me intendaro cum Zohanne Petro Panicharolla, et staremo vigilanti per intendere, et avisaremo. El simile faro mentre dimoraremo di qua. Et essendomi mottizato cosa alcuna, respondero breve et sul generale senza parole obligatorie ; nec de effecto troppo importante, como sempre ho facto.— (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Doporučuji se stále do dobré milosti Vaší Výsosti. Obdržel jsem list Vaší Excelence z 23. [dne]; když jsem jej přečetl a pročetl, pravím, že budu vždy poslouchat až do smrti. Až tato nejjasnější paní přejde za hory, budu jí stále dělat společnost, a až přijde k pánu burgundskému, dohodnu se s Giovannim Pietrem Panigarolou a budeme bdít, abychom se [všechno] dozvěděli, a podáme zprávu. Totéž budu dělat, dokud budeme pobývat na této straně. A bude-li mi něco navrženo, odpovím krátce a obecně, bez zavazujících slov a bez příliš důležitého účinku, jak jsem vždy činil. – (Vynecháno, co je k vynechání.)"
+  },
+  {
+   "text": "Ex Ripollis 27 Jannarij 1476.",
+   "preklad": "Z Rivoli 27. ledna 1476."
+  },
+  {
+   "text": "Celsit nis V.",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Devotissimus servulus Antonius de Aplano.",
+   "preklad": "Nejoddanější služebníček Antonius de Aplano [= Antonio d'Appiano]."
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Ex mo dno dno Galeaz Maria Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "3 Rivoli en Piémont."
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední dva odstavce byly poznámky editora, vypuštěny; adresa spojena. Opravy OCR: „Riccomandamlomi“ = Riccomandandomi, „lìipollis“ = Ripollis (Rivoli). „(Omissis omittendis.)“ je vsuvka editora.",
+  "Gingins v obsahu datuje vévodův list 25. ledna, text má „de 23“.",
+  "Gingins: k cestě savojské vévodkyně za Alpy viz Guichenon, Dějiny Savojska I, s. 566. Giovanni Pietro Panigarola byl milánským vyslancem u Karla Smělého."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano potvrzuje pokyn milánského vévody: doprovodí savojskou vévodkyni za Alpy a u Karla Smělého bude s Panigarolou bedlivě sledovat dění. Na návrhy bude odpovídat jen obecně a nezávazně."
+}

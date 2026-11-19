@@ -1,0 +1,57 @@
+{
+ "cislo": 77,
+ "rimske": "LXXVII",
+ "nadpis": "LXXVII. Antoine d’ Appiano au duc de Milan. Valperga (en Piémont), 1 er septembre 1475.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Valperga (en Piémont), 1 er septembre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXVII (ř. 2615–2637 souboru edice)",
+ "obsah_editora": "Arrivée d’un frère de l’avoyer Pavillard de Fribourg, qui rapporte que les Suisses qui font la guerre en Bourgogne ont tous été rappelés dans leurs foyers. — Maintenant que messire Nicolas de Diesbach est mort ils ne veulent pas reprendre les armes contre le duc de Bourgogne, à moins que le roi de France ne leur envoyé de l’argent pour trois mois de solde et pour 20,000 hommes, à raison de quatre florins d’or par mois et par tête, afin de pouvoir opérer avec sûreté et recueillir quelque profit de leurs opérations. Illustrissimo et Exc mo Signore. — (Omissis omittendis.)",
+ "odstavce": [
+  {
+   "text": "LXXVIII. Antoine d’ Appiano au duc de Milan. Valperga (en Piémont), 1 er septembre 1475.",
+   "preklad": "LXXVII. Antonio d'Appiano milánskému vévodovi. Valperga (v Piemontu), 1. září 1475"
+  },
+  {
+   "text": "Illustrissimo et Ex mo Signore. — (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane. — (Vynechávám, co je k vynechání.)"
+  },
+  {
+   "text": "Qua e venuto un fratello de Pavigliardo da Filborgo qual ha reportato, secondo me ha dicto Madama, che le lighe Alamane hanno mandato a domandare tutti li suoi Alamani, che stano in Bergogna, che retornano a casa loro. Et hora che e morto d. Nicolo Dispart non intendeno andare a guerrezare in Bergogna. Salvo sel Signore Re non gli manda denari per tri mesi et per 20 m persone che possano andare securamente et fare qualche buono fructo, et veleno fiorini 4 doro per persona omne mese. Me ne reporto ala verità, et a la Sublimità V. sempre me ricomando.",
+   "preklad": "Přišel sem jeden bratr Pavillarda z Fribourgu a přinesl zprávu, jak mi řekla Madama, že švýcarské spolky (le lighe alamane) vzkázaly všem svým Němcům, kteří jsou v Burgundsku, aby se vrátili domů. A teď, když je messire Mikuláš z Diesbachu mrtev, nemíní táhnout válčit do Burgundska, leda by jim pan král poslal peníze na tři měsíce pro 20 000 lidí, aby mohli táhnout bezpečně a dosáhnout nějakého dobrého výsledku; a chtějí 4 zlaté (fiorini d'oro) na osobu měsíčně. Za pravdivost neručím a Vaší Výsosti se ustavičně doporučuji."
+  },
+  {
+   "text": "Ex Valperga primo Septembris 1475.",
+   "preklad": "Z Valpergy 1. září 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Divotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et domino Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a pánu, panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava dělení: oslovení „Illustrissimo et Exc mo Signore. — (Omissis omittendis.)“ zapadlo na konec Gingingsova obsahu (obsah_editora); přeneseno do odstavců jako samostatný odstavec. Vypuštěny tři Gingingsovy poznámky, které zapadly mezi odstavce originálu; spojeny dvě části adresy; OCR „Be“ opraveno na „Re“ (král), „sei“ na „sel“.",
+  "Gingins: Pavillard z Fribourgu (Gingins v obsahu: fribourský šultes Pavillard); Filborgo = Fribourg.",
+  "Gingins: po dobytí Blamontu, L'Isle-sur-le-Doubs, Clervalu, hradu Franquemont a 8–9 dalších menších míst ve Franche-Comté u Montbéliardu se Švýcaři a jejich spojenci ze Štrasburku a Ferrette, zastrašeni postupem Velkého bastarda, koncem srpna skutečně stáhli (J. v. Müller). Mikuláš z Diesbachu, bernský šultes a velitel výpravy k Blamontu, zemřel v Porrentruy. Král = Ludvík XI.",
+  "Zajímavé: cena za švýcarské vojsko podle zprávy: 4 zlaté na muže a měsíc, pro 20 000 mužů na tři měsíce, tedy 240 000 zlatých předem; Švýcaři po Diesbachově smrti bez francouzských peněz dál válčit nechtěli."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Bratr Pavillarda z Fribourgu přinesl zprávu, že švýcarské spolky odvolaly své lidi z Burgundska a po smrti Mikuláše z Diesbachu nechtějí dál válčit, nedá-li jim francouzský král žold na tři měsíce pro 20 000 mužů po 4 zlatých měsíčně."
+}

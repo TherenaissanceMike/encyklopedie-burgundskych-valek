@@ -1,0 +1,62 @@
+{
+ "cislo": 86,
+ "rimske": "LXXXVI",
+ "nadpis": "LXXXVI. Antoine d’Appiano au duc de Milan. Valperga, 30 septembre 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Valperga, 30 septembre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXXVI (ř. 2883–2907 souboru edice)",
+ "obsah_editora": "Arrivée d’un cavalier venant en droiture delà Bourgogne, porteur de lettres de don Frédéric, prince de Tarente, pour Jean Pallonaro (envoyé de Naples à la cour de Bourgogne), et pour le roi Ferdinand lui-même. — Le courrier se rend à toute vitesse jusqu’à Florence, pour y consigner à la poste la dépêche adressée au roi de Naples. — Le cavalier affirme que don Frédéric, les gens de guerre lombards et toutes les lances d’ordonnance de la Bourgogne, soit en tout 500 lances, sont parties pour aller rejoindre le duc de Bourgogne, en Lorraine, etc. »",
+ "odstavce": [
+  {
+   "text": "LXXXVII. Antoine d’Appiano au duc de Milan. Valperga, 30 septembre 1475.",
+   "preklad": "LXXXVI. Antonio d'Appiano milánskému vévodovi. Valperga, 30. září 1475"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. Ricomandandomi sempre ala bona gratia di V. Sublimità.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Doporučuji se stále do dobré milosti Vaší Výsosti."
+  },
+  {
+   "text": "Questa matina e giunto qua un cavallaro, qual vene tutto dritto de Borgogna et ha portato una lettera del Signore don Federico a Zohanne Pallomaro, et etiam porta altre lettere al S re Re Ferrando et va battando a consignarle a Firenza a quella posta che sta li. Questa Madama ha retenuto la lettera de Pallomaro per mandarla ley, et scriveragli avisi qua de le novelle che gli sonno scripte, et hami dicto che volesse drizare dicto cavallaro per lo camino di V. Ex cia acio potesse fargli domandare de quelle novelle de la, qual cavallaro certifica ipso Signore don Federico cum li lombardi cherano in Borgogna et tutte le lanze de lordinanza de Borgogna essere andate all Ill mo Monsignore de Bergogna cherano in summa cinquecento lanze. Et dice chel prefato Monsignore e a campo a Nansi. Luy non e pero stato la come se sia, me parso bene drizarlo a V. Celsitudine. Ala quale mi ricomando.",
+   "preklad": "Dnes ráno sem přijel jízdní posel, který jede rovnou z Burgundska a přinesl list pana dona Federica Giovannimu Pallomarovi a nese také jiné listy panu králi Ferrantovi; uhání, aby je odevzdal ve Florencii na tamní poště. Tato paní si list pro Pallomara ponechala, aby mu jej poslala sama, a napíše sem zprávy o novinách, které jí budou napsány; a řekla mi, abych řečeného posla poslal cestou přes [panství] Vaší Excelence, aby se ho mohla dát vyptat na tamní noviny. Ten posel ujišťuje, že řečený pan don Federico s Lombardy, kteří byli v Burgundsku, a všechna ordonanční kopí burgundská odešli k nejjasnějšímu pánu burgundskému; bylo jich celkem pět set kopí. A říká, že řečený pán leží s vojskem u Nancy. Sám tam ale nebyl. Ať je to jak chce, zdálo se mi dobré poslat ho k Vaší Výsosti. Jí se doporučuji."
+  },
+  {
+   "text": "Ex Valperga ultimo Septembris 1475.",
+   "preklad": "Z Valpergy posledního září 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonius de Aplano [= Antonio d'Appiano]."
+  },
+  {
+   "text": "A tergo: Illustris mo et Excell mo domino Galeaz Marie Sfortie duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu panu Galeazzovi Mariovi Sforzovi, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "2 Jean Pallomaro , alias Balomar , ambassadeur de Naples près le duc de Bourgogne (en 1474: Chmel, mon. Habsb. t. I e|p , p. 101), séjournant alors en Piémont.",
+  "3 Ferdinand I e ', roi de Sicile et de Naples, père de D. Frédéric.",
+  "4 Le prince de Tarente, retenu en Bourgogne depuis le mois de mars précédent par la guerre qui interceptait les communications, rejoignit le duc de Bourgogne à Pont-à-Mousson, en Lorraine, le 26 septembre 1475. (Lenglet, t. II, p. 218.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední odstavec byl poznámka editora, vypuštěn; adresa spojena do jednoho odstavce; odstraněna čísla poznámek a drobné chyby OCR.",
+  "Gingins: don Federico Aragonský, kníže z Tarentu, syn Ferranta (Ferdinanda) I., krále sicilského a neapolského. Giovanni Pallomaro (Balomar) byl neapolským vyslancem u burgundského vévody (1474) a tehdy pobýval v Piemontu.",
+  "Gingins: kníže z Tarentu, zdržovaný v Burgundsku od března válkou, která přerušila spojení, se připojil k vévodovi v Pont-à-Mousson v Lotrinsku 26. září 1475.",
+  "Zpráva, že vévoda leží u Nancy, předbíhá: podle Ginginse (depeše XC) zahájil Karel obléhání Nancy až 24. října; posel sám u Nancy nebyl.",
+  "Zajímavé: z Burgundska táhne k vévodovi do Lotrinska celkem 500 kopí, ordonanční kopí spolu s Lombardy, kteří čekali s knížetem z Tarentu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano posílá do Milána posla z Burgundska. Podle něj kníže z Tarentu s lombardskými vojáky a burgundskými ordonančními kopími, celkem 500 kopí, odtáhl ke Karlu Smělému, který prý leží u Nancy."
+}

@@ -1,0 +1,70 @@
+{
+ "cislo": 247,
+ "rimske": "CCXLVII",
+ "nadpis": "CCXLVII. Antoine d’Appiano au duc de Milan. Gex, 22 juin 1476 fan matin).",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Gex, 22 juin 1476 fan matin).",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXLVII (ř. 8363–8388 souboru edice)",
+ "obsah_editora": "On parle ici de la guerre d’une manière très-favorable au duc de Bourgogne ; c’est peut-être pour ne pas donner des inquiétudes à la duchesse de Savoie. Cependant on s’accorde à dire que les défenseurs de Morat font un feu d’artillerie qui étonne tout le monde. Néanmoins on ajoute qu’ils ne pourront tenir longtemps s'ils ne sont secourus. — On parle d’un assaut où les assiégeants auraient eu plus de 200 hommes tués ou blessés par le feu des assiégés plongeant des tours et battant le pied des murailles. — On dit encore que les Allemands ont fortifié de bastions garnis d’artillerie un pont sur la Sarine entre Berne et Morat, dont ils comptent se servir soit pour se porter à la délivrance de la ville assiégée, soit pour couvrir leur retraite en cas de revers. — Les uns évaluent à 6000 hommes le nombre des ennemis réunis sur ce point, les autres disent tout bas qu’ils sont plus de douze mille combattants.",
+ "odstavce": [
+  {
+   "text": "CCXLVII. Antoine d’Appiano au duc de Milan. Gex, 22 juin 1476 fan matin).",
+   "preklad": "CCXLVII. Antonio d'Appiano milánskému vévodovi. Gex, 22. června 1476 (ráno)"
+  },
+  {
+   "text": "Ill mo et Ex mo Signor mio. Qua se parla de questa guerra molto favorevolmente per Monsig re di Borgogna, et anche per non dare affanno a questa Madama. Tutti dicono pero che quelli de dentro Morrato, tirano tanta artillaria de fora che le una maraveglia. Pur non la porrano durare, non essendo succorsi.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Zde se o této válce mluví velmi příznivě pro pana Burgundského, také proto, aby se této paní nepůsobila úzkost. Všichni však říkají, že ti uvnitř Murtenu střílejí ven z děl tolik, že je to div. Přesto to nevydrží, nedostane-li se jim pomoci."
+  },
+  {
+   "text": "Essendo dato un principio de bataglia a Morato, se dicto che per doe torrete, che batteno de fora a canto le mure, sonno morte et ferite molte persone ; chi dice circha 200, e alcun altri dicono mancho.",
+   "preklad": "Když byl u Murtenu dán začátek bitvy [šturmu], prý byli od dvou věžiček, které bijí ven podél hradeb, zabiti a raněni mnozí lidé; jedni říkají asi 200, jiní méně."
+  },
+  {
+   "text": "Se dicto anchora, che Alamanni sono missi insiema, et hanno fortificato un ponte sopra una fiumara tra Berna et lo campo cum bastioni et molte artilliarie; qual ponte, maxime quando volesse dare assalto ala Terra et sempre poterse redure et salvare a quel ponte. Alcuni dicono non sonno piu che 6 m persone, et altri dicono cusi secretamente piu di 12 m , non so che credere.",
+   "preklad": "Také se říká, že se Němci shromáždili a opevnili most přes jakousi řeku mezi Bernem a táborem baštami a mnoha děly; ten most [drží], zvláště pro případ, že by chtěli dát útok na město, aby se na něj vždy mohli stáhnout a zachránit. Jedni říkají, že jich není víc než 6 tisíc, jiní potají říkají, že přes 12 tisíc; nevím, čemu věřit."
+  },
+  {
+   "text": "Da villa Gay 22 di Giugno 1476.",
+   "preklad": "Z Gexu 22. června 1476."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vostre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius.",
+   "preklad": "Antonius."
+  },
+  {
+   "text": "A tergo: Illustrissimo principi et Excellentissimo Domino Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti a pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Per postas, cito.",
+   "preklad": "Poštou, spěšně."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Voir au sujet de cet assaut la dépêche de Panigarola, du 20 juin, n» ccxuv.",
+  "* Le pont de Gwmine sur la Sarine, à trois petites lieues de Morat, sur la grande route de Berne. (Schilling, 1. c. p. 332.) — Depuis le 13 juin les confédérés avaient pris une forte position sur la rive droite de cette rivière large et profondément encaissée entre deux côtes dont l’une, celle qui se trouve du côté de Berne, est beaucoup plus haute et plus escarpée que la côte opposée. Les fortifications dont il est parlé dans la dépêche s’élevaient au Grand-Gumine, sur le côté droit de la rivière. Quant au pont de Laupen qui se trouve à une bonne lieue en amont de l’autre, il était défendu par la garnison suisse de cette petite ville, célèbre par la victoire que les Bernois avaient remportée en 1339 sur leurs ennemis.",
+  "5 Antonio d’Aplano. — Ant. d’Appiano."
+ ],
+ "poznamky": [
+  "Opravy OCR: „Fa™ 0“ > „Ex mo“, do textu vpadlá signatura archu „n. 19“ odstraněna, čísla poznámek odstraněna. Věta o mostě je v originále syntakticky neúplná, doplněno v hranatých závorkách.",
+  "Gingins: k tomuto šturmu viz Panigarolovu depeši z 20. června, č. 244.",
+  "Gingins: most v Gümmenenu na Sáně, tři malé míle od Murtenu na hlavní cestě do Bernu (Schilling). Od 13. června drželi Spříseženci silné postavení na pravém břehu této široké a hluboce zaříznuté řeky, jejíž bernský břeh je mnohem vyšší a strmější; opevnění stálo u Gross-Gümmenenu na pravém břehu. Most v Laupenu, dobrou míli proti proudu, bránila švýcarská posádka tohoto městečka, proslulého bernským vítězstvím z roku 1339.",
+  "Gingins: podpis = Antonio d'Appiano.",
+  "Zajímavé: Spříseženci opevnili předmostí u Gümmenenu baštami a děly jako útočnou základnu i ústupovou cestu; jejich sílu tam v Gexu odhadovali na 6 až přes 12 tisíc mužů. Dvě věžičky (flankovací věže) Murtenu prý zasáhly při šturmu asi 200 útočníků."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "V Gexu se o válce mluví příznivě pro Burgundsko, ale všichni se diví palbě obránců Murtenu, kteří prý zabili nebo zranili až 200 útočníků. Němci opevnili most přes Sánu baštami a děly, jejich počet se odhaduje na 6–12 tisíc."
+}

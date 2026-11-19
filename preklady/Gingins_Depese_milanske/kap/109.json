@@ -1,0 +1,42 @@
+{
+ "cislo": 109,
+ "rimske": "CIX",
+ "nadpis": "CIX. Le duc de Bourgogne à la duchesse de Savoie. En son camp devant Grandson, 27 février 1476.",
+ "odesilatel": "Le duc de Bourgogne à la duchesse de Savoie.",
+ "misto_datum": "En son camp devant Grandson, 27 février 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CIX (ř. 3438–3452 souboru edice)",
+ "obsah_editora": "Lettre pressante du duc Charles pour engager la duchesse à hâter son arrivée à Lausanne. — 11 serait allé, de sa personne, au-devant de Madame si il n’était certain qu’elle souhaite avant tout le prochain succès de leurs armes ; l’ennemi faisant mine de vouloir combattre. — Le duc prie la duchesse de persévérer dans ses intentions, afin d’assurer la réussite de l’entreprise, dont il attend un bon résultat. Madame, je me recommande à vous si très affectueusement que plus puis. Vous avez pris tant de travail en say- son fort ruyde que non obstant mon singulier désir de vous veoir, je nendure vous soliciter à venir plus diligente - ment a Lausanne. Combien que ce soit chose fort secrete pour non retarder lexpedicion de la guerre. Et sur ma foy ne fust que les ennemis ont fait si très aperte démonstration de vouloir combattre, je en personne iraye audevant de vous. Mais bien seay que vous desires principalement la seurte de notre voisine victoire. Et pour ce supposé que je ne trouve point les dits ennemis si couraigeux de la bataille que Ion disait. Touteffois je vous prie, madame, quii vous plaise perseverer en la considération que aves de laisser asseurer les choses lesquelles en ce faisant sortiront bon et prouffitable effect. Au plaisir de Dieu qui Madame vous ait en sa sainte garde et donne ce que desires. Escript en mon camp de Grantson, le 27 de février en 474 \\ Votre cher frere Charles. Senza V attergo e il sigillo. ' Cette pièce des archives de Milan n’étant qu’une copie de la lettre originale adressée à la duchesse de Savoie, nous n’en garantissons pas l’exactitude; d’autant moins que dans cette copie la date de l’année CCCCLVI est évidemment fautive, l’original portait sans doute CCCCLXXY, vieux style, soit 1476 nouv. style.",
+ "odstavce": [
+  {
+   "text": "CX. Le duc de Bourgogne à la duchesse de Savoie. En son camp devant Grandson, 27 février 1476.",
+   "preklad": "CIX. Vévoda burgundský vévodkyni savojské. Ve svém táboře před Grandsonem, 27. února 1476"
+  },
+  {
+   "text": "Madame, je me recommande à vous si très affectueusement que plus puis. Vous avez pris tant de travail en sayson fort ruyde que non obstant mon singulier désir de vous veoir, je nendure vous soliciter à venir plus diligentement a Lausanne. Combien que ce soit chose fort secrete pour non retarder lexpedicion de la guerre. Et sur ma foy ne fust que les ennemis ont fait si très aperte démonstration de vouloir combattre, je en personne iraye audevant de vous. Mais bien seay que vous desires principalement la seurte de notre voisine victoire. Et pour ce supposé que je ne trouve point les dits ennemis si couraigeux de la bataille que Ion disait. Touteffois je vous prie, madame, quii vous plaise perseverer en la considération que aves de laisser asseurer les choses lesquelles en ce faisant sortiront bon et prouffitable effect. Au plaisir de Dieu qui Madame vous ait en sa sainte garde et donne ce que desires.",
+   "preklad": "Paní, doporučuji se Vám tak srdečně, jak jen mohu. Podstoupila jste tolik námahy v tak kruté roční době, že navzdory své zvláštní touze Vás vidět se neodvažuji Vás naléhavě žádat, abyste do Lausanne přijela rychleji. Ačkoli je to věc velmi tajná, [nejedu Vám naproti], abych nezdržoval vedení války [?]. A na mou víru, nebýt toho, že nepřátelé tak zjevně dali najevo, že chtějí bojovat, vyjel bych Vám osobně naproti. Dobře však vím, že si především přejete zajištění našeho blízkého vítězství. A proto, ačkoli ty řečené nepřátele nenacházím tak odhodlané k bitvě, jak se říkalo, přesto Vás prosím, paní, abyste ráčila vytrvat ve svém úmyslu nechat věci zajistit; když tak učiníte, přinesou dobrý a prospěšný výsledek. Dá-li Bůh, jenž Vás, paní, opatruj ve své svaté ochraně a dej Vám, co si přejete."
+  },
+  {
+   "text": "Escript en mon camp de Grantson, le 27 de février en 474.",
+   "preklad": "Psáno v mém táboře u Grandsonu 27. února roku 474."
+  },
+  {
+   "text": "Votre cher frere Charles.",
+   "preklad": "Váš drahý bratr Karel."
+  },
+  {
+   "text": "Senza l'attergo e il sigillo.",
+   "preklad": "Bez adresy na rubu a bez pečeti."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava dělení: depeše neměla originál, francouzský list Karla Smělého byl celý v obsahu editora; přenesen do odstavců a rozdělen (text, datum, podpis, poznámka archiváře). Spojena rozdělená slova („say- son“, „diligente - ment“), odstraněna značka poznámky za letopočtem. V surovém souboru má depeše chybně číslo CIX.",
+  "Gingins: v milánském archivu je jen kopie listu, za jejíž přesnost neručí; letopočet v kopii (CCCCLVI) je zjevně chybný, originál měl nejspíš 1475 starého stylu, tj. 1476. Datum v edici („en 474“) ponecháno.",
+  "Věta „Combien que ce soit chose fort secrete pour non retarder lexpedicion de la guerre“ je v kopii nejasná (snad chybí kus textu); přeloženo s doplněním v hranatých závorkách a [?]. „je nendure“ = „je n'ose“ (neodvažuji se).",
+  "„Votre cher frere“: Karel oslovuje Jolandu Savojskou jako sestru podle dvorské zvyklosti mezi panovníky.",
+  "Zajímavé: Karel den před bitvou u Grandsonu (2. března) píše, že Švýcary nenachází tak odhodlané k bitvě, jak se říkalo; podcenění protivníka."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z francouzského originálu (kopie listu) v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý z tábora u Grandsonu prosí Jolandu Savojskou, aby vytrvala ve svém úmyslu a dorazila do Lausanne; sám by jí vyjel naproti, kdyby nepřátelé nedávali najevo, že chtějí bojovat. Švýcary prý nenachází tak odhodlané k bitvě, jak se říkalo."
+}

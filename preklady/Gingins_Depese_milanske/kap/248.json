@@ -1,0 +1,69 @@
+{
+ "cislo": 248,
+ "rimske": "CCXLVIII",
+ "nadpis": "CCXLVIII. Antoine d’Appiano au duc de Milan. Gex, 22 juin 1476 (au soir).",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Gex, 22 juin 1476 (au soir).",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXLVIII (ř. 8389–8408 souboru edice)",
+ "obsah_editora": "La duchesse de Savoie vient d’être informée à l’instant que le prince de Tarente, Don Frédéric, a pris congé du duc de Bourgogne la veille, après le dîner, pour retourner vers le roi Ferdinand, son père. — Le duc Charles ainsi que la cour et l’armée sont on ne peut plus surpris que le prince ait pris cette licence sans qu’un seul mot de sa part ait pu faire prévoir ses intentions; et surtout de ce qu’immédiale- ment après avoir obtenu son congé du duc il est monté à cheval et parti avec toutes les personnes de sa suite. Le seigneur de La Marche qui lui aussi avait quitté le camp de Morat la veille au soir pour se rendre à la cour de Milan, écrit que ce brusque départ du prince D. Frédéric, emmenant avec lui 400 chevaux , est attribué è une entente secrète entre le roi Ferdinand, son père, et le roi de France.",
+ "odstavce": [
+  {
+   "text": "CCXLVIII. Antoine d’Appiano au duc de Milan. Gex, 22 juin 1476 (au soir).",
+   "preklad": "CCXLVIII. Antonio d'Appiano milánskému vévodovi. Gex, 22. června 1476 (večer)"
+  },
+  {
+   "text": "Illustris mo et Ex mo Signore mio. Riccomandandomi sempre a la bona gratia di V. Sub ta . In questhora 22a e venuto aviso a questa Madama, corno don Federico prese heri doppo disnare licentia da Monsig re di Borgogna per ritornare a Re Ferrando suo patre. Mons re de Borgogna et ogniuno forono maravigliati, che senza haver may inteso un minimo motto per qualche via, havesse domandato licentia ; et piu fu cosa maravegliosa che immediate presa licentia montasse a cavallo senza alcuna dimora, cum tutti li suoi.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj, stále se doporučuji do přízně Vaší Výsosti. V tuto 22. hodinu přišla této paní zpráva, že don Federico si včera po obědě vzal od pana Burgundského dovolení k odchodu, aby se vrátil ke králi Ferdinandovi, svému otci. Pan Burgundský i všichni se divili, že požádal o dovolení, aniž by se kdy jakoukoli cestou ozvalo jediné slůvko; a ještě podivuhodnější bylo, že hned, jak dovolení dostal, bez meškání nasedl se všemi svými lidmi na koně."
+  },
+  {
+   "text": "Monsign re de la Marchia partite heri luy anchora di campo per venire ala S. V. et ha scripto qua che don Federico ha circha 400 cum luy, et chel se tene per questa licentia et partita cusi repentina che Re Ferrando se intenda col Re de Franza, ecc.",
+   "preklad": "Pan de La Marche odjel včera z tábora také, aby přijel k Vaší Milosti, a napsal sem, že don Federico má s sebou asi 400 [koní] a že se kvůli tomuto dovolení a tak náhlému odjezdu má za to, že se král Ferdinand dohodl s králem francouzským atd."
+  },
+  {
+   "text": "Da villa Gay 22 di Giugno 1476.",
+   "preklad": "Z Gexu 22. června 1476."
+  },
+  {
+   "text": "Devotissimus servulus",
+   "preklad": "Nejoddanější služebníček"
+  },
+  {
+   "text": "Firmat. Antonius de Aplano.",
+   "preklad": "Podepsán: Antonius de Aplano."
+  },
+  {
+   "text": "A tergo: Illustrissimo et Excellentissimo principi domino Galeazo Marie Sfortie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti a pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Per postas, cito.",
+   "preklad": "Poštou, spěšně."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "‘ Devotissimus servulus",
+  "Firmai. Antonies de Aplano.",
+  "A tergo: Illustrissimo et Excellentissimo principi domino Galeazo Marie Sfortie Viceco- miti Duci Mediolani etc.",
+  "Per postas, cito.",
+  "Cum sigillo.",
+  "* Dm Frédéric d’Aragon, prince de Tarente.",
+  "* Voir Commines, livre V, chapitre III. « Le dict prince print congié > du dict duc le soir devant la bataille. », etc. (1. c. t. II, p. 26.)",
+  "3 Voir la dépêche de Panigarola, du 20 juin, n° ccxuv.)",
+  "4 Dépêche de Panigarola, du 19 juin, n° CCXLiri."
+ ],
+ "poznamky": [
+  "Oprava dělení: závěr listu (podpis, adresa, poznámka o poště a pečeti) zapadl do poznámek editora; doplněn do odstavců, pole poznamky_editora ponecháno beze změny. Odstraněna čísla poznámek.",
+  "„22. hodina“ italského počítání od západu slunce; podle Gingingsových převodů u následujících depeší (16. hodina = 13 h) odpovídá asi 19. hodině večer.",
+  "Gingins: don Federico = Federico Aragonský, kníže z Tarentu.",
+  "Gingins: Commynes (kniha V, kap. 3): „Řečený kníže se rozloučil s řečeným vévodou večer před bitvou.“",
+  "Gingins: k odjezdu Oliviera de La Marche viz č. 244, k odvolání dona Federica č. 243.",
+  "Zajímavé: kníže z Tarentu opustil burgundský tábor 21. června, den před bitvou, náhle a s asi 400 koňmi; ve stejný den odjel s doprovodem i Olivier de La Marche. Burgundské vojsko tak bezprostředně před bitvou oslabilo."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Don Federico, kníže z Tarentu, si den před bitvou nečekaně vzal od Karla Smělého dovolení a ihned odjel s asi 400 koňmi, což se vykládá jako dohoda neapolského krále s Francií."
+}

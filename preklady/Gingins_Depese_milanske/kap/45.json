@@ -1,0 +1,53 @@
+{
+ "cislo": 45,
+ "rimske": "XLV",
+ "nadpis": "XLV. Antoine d’Appiano au duc de Milan. Montcalier, 24 mai 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 24 mai 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XLV (ř. 1710–1726 souboru edice)",
+ "obsah_editora": "Plusieurs lettres de la Savoie, arrivées le jour même à Montcalier, s’accordent à dire que le duc de Bourgogne a pris Neuss. IIl mo et Ex m0 Signore — ( Omissis omittendis.)",
+ "odstavce": [
+  {
+   "text": "XLVI. Antoine d’Appiano au duc de Milan. Montcalier, 24 mai 1475.",
+   "preklad": "XLV. Antonio d'Appiano milánskému vévodovi. Moncalieri, 24. května 1475"
+  },
+  {
+   "text": "Ill.mo et Ex.mo Signore — (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane. — (Vynechává se, co lze vynechat.)"
+  },
+  {
+   "text": "Qua sono venute lettere di Savoya scripte per diverse persone che dicono et confirmano tutte che Monsignore de Bergogna ha havuto Nus.",
+   "preklad": "Přišly sem listy ze Savojska psané různými osobami, které všechny říkají a potvrzují, že pán burgundský dostal Neuss."
+  },
+  {
+   "text": "Ex Montecallerio 24 May 1475.",
+   "preklad": "Z Moncalieri 24. května 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus Antonius de Aplano.",
+   "preklad": "podepsán: nejoddanější služebníček Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Illustris mo et Excell mo domino Galeaz Marie Sfortie duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu panu Galeazzovi Mariovi Sforzovi, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' Erreur, voir la dépêche précédente, n° xliv."
+ ],
+ "poznamky": [
+  "Oslovení a poznámka o vynechání („Omissis omittendis“, zkrácení editora nebo opisovače) stály na konci francouzského obsahu; vráceny do odstavců.",
+  "Gingins: omyl, Neuss tehdy dobyt nebyl; Gingins odkazuje na předchozí depeši jako č. XLIV, v této edici je to č. XLV."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Listy ze Savojska shodně tvrdí, že Karel Smělý dobyl Neuss; jde o mylnou zprávu."
+}

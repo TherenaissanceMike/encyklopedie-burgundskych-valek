@@ -1,0 +1,63 @@
+{
+ "cislo": 171,
+ "rimske": "CLXXI",
+ "nadpis": "CLXXI. Fr. Petrasanta au duc de Milan. Turin, le 16 avril 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, le 16 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXI (ř. 5911–5933 souboru edice)",
+ "obsah_editora": "On vient de recevoir la nouvelle que l’infanterie piémontaise et les milices du val d’Aoste ont fait ensemble une course dans le Valais. — Ils ont ressaisi le bourg de Saint-Pierre d’Entremont, que les Haut-Valaisans avaient déjà pris et repris plus d’une fois. Il est vrai que cet endroit n’est pas fortifié. — Les Valaisans ont eu environ 25 hommes tués dans cette escarmouche, les Piémontais n’ont perdu que quatre des leurs. — Encouragés par ce succès, ceux-ci se proposent de pousser plus loin. Le gouverneur de Mâcon, ayant changé de projet, a quitté Turin, dans l’après-midi, pour aller se loger à Garignan. — L’évêque de Turin s’est rendu à Chivasso.",
+ "odstavce": [
+  {
+   "text": "CLXXII. Fr. Petrasanta au duc de Milan. Turin, le 16 avril 1476.",
+   "preklad": "CLXXI. Francesco Petrasanta milánskému vévodovi. Turín, 16. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo et Excell.mo Signore mio. Hoggi havemo havuto nova qua corno li fanti piemontesi insieme con quelli di Valle dAgosta sono corsi verso li Vallesani, et hanno rihavuto Borgo San Petro, quale coloro havevano pigliato già piu di fa. Vero chel non era forte ne anche in forteza, pur ne la scaramucia ne sono morti circa 25 de Vallesani, et quattro de costoro. Questi hanno mo pigliato animo, et dissegnano andare piu oltra.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Dnes jsme tu dostali zprávu, že piemontští pěšáci spolu s těmi z údolí Aosty vpadli proti Valaisským a získali zpět Bourg-Saint-Pierre [Borgo San Petro], které oni před více dny vzali. Pravda je, že to nebylo silné místo ani opevněné; přesto v té šarvátce padlo asi 25 Valaisských a čtyři z těchto [našich]. Ti teď nabrali odvahy a zamýšlejí jít dál."
+  },
+  {
+   "text": "Il governatore Macchon, mutato proposito alle 19 hore, va allozare a Carignano, el vesco di Turino a Chiavasso.",
+   "preklad": "Guvernér z Mâconu změnil v 19 hodin úmysl a jede se ubytovat do Carignana, biskup turínský do Chivassa."
+  },
+  {
+   "text": "A V. Cels.ne continuo mi ricomando.",
+   "preklad": "Vaší Výsosti se stále doporučuji."
+  },
+  {
+   "text": "Taurini 16 Aprilis 1476.",
+   "preklad": "Turín 16. dubna 1476."
+  },
+  {
+   "text": "Firmai. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo : Ill.mo Principi etc. dno Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Le bourg de St-Pierre, dans la vallée d’Entremont, sur la route de Martigny au grand St-Bernard, appartenant au Valais savoisien. L’évêque de Sion rend compte de cette affaire dans une lettre adressée à la ville de Berne, en date du 18 avril 1476. Il dit que les troupes italiennes, sous la conduite du cmnte de Chalant, passèrent le mont St-Bernard la veille de Pâques (13 avril) et surprirent un poste de 120 Haut- Valaisans, sujets de l’évêque, qui gardaient les passages de VEntremont, et leur tuèrent une trentaine d’hommes, etc. (Voir la lettre dans J. Kne- bel, 1. c. H, 40.",
+  "* Jean de Damas, seigneur de Clessy, conseiller et chambellan du duc de Bourgogne, gouverneur de la ville et comté de Mâcon pour le duc, qui sans doute lui avait confié quelque mission au-delà des Alpes. (La Barre, Mém. de France et de Bourgogne, t. II, p. 271.)",
+  "’ Jean de Compey, évêque de Turin."
+ ],
+ "poznamky": [
+  "Opravy OCR: rozdělená slova spojena, vypuštěna čísla poznámek.",
+  "„alle 19 hore“: italské počítání hodin od západu slunce; v polovině dubna to odpovídá asi 14. hodině odpoledne (Gingins: „dans l'après-midi“).",
+  "Gingins: Bourg-Saint-Pierre v údolí Entremont na cestě z Martigny na Velký Svatý Bernard patřil k savojskému Valais. Biskup sionský v listu Bernu z 18. dubna 1476 píše, že italské vojsko pod hrabětem z Challant přešlo Velký Svatý Bernard v předvečer Velikonoc (13. dubna), přepadlo stráž 120 Hornovalaisanů, poddaných biskupa, kteří střežili průsmyky Entremontu, a zabilo jich asi třicet (Knebel II, 40).",
+  "Gingins: guvernér = Jean de Damas, pán z Clessy, rada a komoří burgundského vévody, guvernér města a hrabství Mâcon, zřejmě s nějakým posláním za Alpami.",
+  "Gingins: biskup turínský = Jean de Compey.",
+  "Zajímavé: depeše uvádí 25 padlých Valaisských a 4 Piemonťany, sionský biskup asi 30 mrtvých ze stráže 120 mužů."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Piemontští pěšáci s lidmi z údolí Aosty vpadli do Valais a získali zpět neopevněný Bourg-Saint-Pierre; padlo asi 25 Valaisských a 4 jejich muži. Guvernér Mâconu a biskup turínský odjeli z Turína do Carignana a Chivassa."
+}

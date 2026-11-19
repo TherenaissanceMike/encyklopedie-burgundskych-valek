@@ -1,0 +1,67 @@
+{
+ "cislo": 140,
+ "rimske": "CXL",
+ "nadpis": "CXL. Léonard Botta au duc de Milan. Venise, le (21 ?) mars 1476.",
+ "odesilatel": "Léonard Botta au duc de Milan.",
+ "misto_datum": "Venise, le (21 ?) mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXL (ř. 4306–4326 souboru edice)",
+ "obsah_editora": "Jugement porté par don Frédéric, prince de Tarente, sur la journée de Grandson, qu’il appelle une rebuttade (rebutata). — Dans une lettre qu’il a adressée à l’ambassadeur du roi son père près la république de Venise, le prince dit : « Que cette affaire ne peut pas être » considérée comme une défaite (rotta), puisque, à l’exception de » quelques tentes et bagages pris par l’ennemi, le reste, ainsi que » toute l’armée, sont demeurés saufs. — Le duc de Bourgogne s’est » immédiatement remis aux champs ; il augmente ses forces et se » prépare à prendre sa revanche contre les Allemands. » — Le bruit court à Venise que le duc de Bourgogne a donné au prince de Tarente le commandement de sa gendarmerie et qu’il le crée son lieutenant général en Bourgogne; on ajoute que le comte de Campobasso lui a été adjoint en qualité de commandant en second. Illustrissimo Signore mio .",
+ "odstavce": [
+  {
+   "text": "CXLI. Léonard Botta au duc de Milan. Venise, le (21 ?) mars 1476.",
+   "preklad": "CXL. Leonardo Botta milánskému vévodovi. Benátky, (21.?) března 1476"
+  },
+  {
+   "text": "Hogi ho veduto una littera la quale don Federico scrive qua allo oratore de suo patre, et dice formaliter in hunc modum, videlicet, Monsignore : sono certo havereti inteso el caso intervenuto ad questo Ill mo S. Duca de Burgogna, della rebutata gli ha facto li Alamani. La quale veramente non se po dire rotta, perche da alcuni paviglioni et cariagi in fori, che se sono persi, le altre cose et li homini se sono salvati; et cosi el prelibato Ill mo Ducha e uscito in campo, et tutavia acresce le genti sue per andare ad fare la sua vendetta contra dicti Alamani.",
+   "preklad": "Dnes jsem viděl list, který don Federico píše sem vyslanci svého otce, a říká v něm doslova takto: „Monsignore, jsem si jist, že jste se dozvěděl o příhodě, která potkala tohoto nejjasnějšího pana vévodu burgundského, o odražení, které mu způsobili Němci. To se opravdu nedá nazvat porážkou, protože kromě několika pavilonů a vozů, které se ztratily, se ostatní věci i lidé zachránili. A tak jmenovaný nejjasnější vévoda vytáhl do pole a stále rozmnožuje své lidi, aby šel vykonat svou pomstu na řečených Němcích.“"
+  },
+  {
+   "text": "Qua se levato fama chel dicto Ducha de Burgogna a facto el prenominato don Federico suo capitaneo delle genti darme, et suo locotenente del Stato de Burgogna, et il conte da Campobasso vicecapitaneo. Me racomando humilmente alla V. Cel.ne",
+   "preklad": "Zde se rozšířila pověst, že řečený vévoda burgundský učinil jmenovaného dona Federica kapitánem svých těžkooděnců a svým místodržícím burgundského státu a hraběte z Campobassa vicekapitánem. Pokorně se doporučuji Vaší Výsosti."
+  },
+  {
+   "text": "Datum Venetiis die [20°] primo Martii 1476.",
+   "preklad": "Dáno v Benátkách dne [dvacátého] prvního března 1476."
+  },
+  {
+   "text": "I. D. D. V.",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Subscr. Servulus",
+   "preklad": "podepsán služebníček"
+  },
+  {
+   "text": "Leonardus Botta.",
+   "preklad": "Leonardo Botta."
+  },
+  {
+   "text": "A tergo : Ill m0 et Ex mo principi Galeaz Marie Sfortie",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti Galeazzovi Mariovi Sforzovi"
+  },
+  {
+   "text": "Vicecomiti duci Mediolani etc.",
+   "preklad": "Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Don Frédéric, prince de Tarente. Sa lettre était probablement datée de Lausanne.",
+  "2 On verra plus loin que Don Frédéric fut effectivement pourvu du commandement de la deuxième division de l’armée du duc Charles.",
+  "3 II y a une erreur manifeste dans la date, la dépêche ne peut pas avoir été écrite de Venise le premier mars, puisque l’affaire de Grandson n’a eu lieu que le 2 du même mois; nous pensons qu’il faut lire (vigé- simo) primo martii."
+ ],
+ "poznamky": [
+  "Gingins: don Federico Aragonský, kníže z Tarentu; jeho list byl patrně datován v Lausanne. Vyslancem jeho otce je neapolský vyslanec v Benátkách.",
+  "„rebutata“: odražení, odmítnutí; don Federico tím úmyslně zlehčuje slovo „rotta“ (porážka).",
+  "Gingins: don Federico později skutečně dostal velení druhého sboru Karlova vojska. Hrabě z Campobassa = Cola di Monforte.",
+  "Gingins: datum je zjevně chybné, depeše nemohla vzniknout 1. března, když Grandson byl až 2.; čte „(vigesimo) primo“, tj. 21. března. Doplnění [20°] je Gingingsovo.",
+  "V edici je zdvojený úsek „le altre cose et li homini se sono persi“ (dittografie); odstraněn. Opravy OCR: „Ilogi“ → Hogi, „dame“ → darme, odstraněna čísla poznámek.",
+  "Zajímavé: neapolský pohled na Grandson: prý jen „odražení“ se ztrátou pár stanů a vozů, vojsko zachováno; srv. švýcarské kroniky o obrovské kořisti."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Botta posílá z Benátek opis listu dona Federica, podle něhož Grandson nebyl porážka, ale jen „odražení“ se ztrátou několika stanů a vozů, a Karel se už chystá k pomstě. V Benátkách se povídá, že Karel jmenoval dona Federica kapitánem těžkooděnců a Campobassa jeho zástupcem."
+}

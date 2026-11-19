@@ -1,0 +1,67 @@
+{
+ "cislo": 69,
+ "rimske": "LXIX",
+ "nadpis": "LXIX. Antoine d’ Appiano au duc de Milan. Montcaprel, 1 er août 1475.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Montcaprel, 1 er août 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXIX (ř. 2335–2359 souboru edice)",
+ "obsah_editora": "Un gentilhomme venant de la Savoie, assure que les gens de guerre envoyés en Lorraine par le duc de Bourgogne vont investir la ville de Nancy, et que huit gentilshommes lorrains se sont rendus auprès du duc Charles pour tâcher d’accommoder le différend élevé entre ce prince et le duc de Lorraine leur souverain. — Les Liégeois ont offert au duc de Bourgogne six mille francs-archers, entretenus à leurs frais pendant toute la durée de la guerre, pourvu qu’il leur permît de reconstruire leur pont sur la rivière (la Meuse) qui traverse leur cité, et de rebâtir leurs maisons. — Le duc a accepté les six mille archers et accordé aux Liégeois leurs demandes. — Ces nouvelles ont été transmises en Savoie par une lettre de J. P. Panigarola, avec beaucoup d’autres choses qu’on savait déjà.",
+ "odstavce": [
+  {
+   "text": "LXX. Antoine d’ Appiano au duc de Milan. Montcaprel, 1 er août 1475.",
+   "preklad": "LXIX. Antonio d'Appiano milánskému vévodovi. Moncrivello, 1. srpna 1475"
+  },
+  {
+   "text": "Illustris mo et Excell mo Signore. (Omissis omittendis.) E venuto un gentilhomo da la parte di Savoya qual dice che la gente de Monsignore di Borgogna che venevano in Lorena, sonno mise a campo a Nansi principale terra de Lorena, et che octo gentilhomini del paese de Lorena sono andati al prefato duca de Borgogna per vedere si potrano apontuare e accordare queste differentie et guerra del S re loro cum Sua Signoria.",
+   "preklad": "Nejjasnější a nejvznešenější pane. (Vynechávám, co je k vynechání.) Přišel jeden šlechtic ze Savojska a říká, že lidé pana [vévody] burgundského, kteří táhli do Lotrinska, se utábořili u Nancy, hlavního města Lotrinska, a že osm šlechticů z lotrinské země odešlo k vévodovi burgundskému, aby zkusili, zda by se tyto spory a válku jejich pána s Jeho Milostí nepodařilo urovnat a smířit."
+  },
+  {
+   "text": "Ha dicto anchora che Legiesi hanno offerto a Monsignore di Borgogna 6 m francharceri pagati per tutta questa guerra, et Sua Sig ria sia contenta che possano fare reffare el suo ponte che era nel mezo de la terra sopra la fiumara che passa per li, et similiter reffare le loro case, et in summa ha acceptato questi 6 m francharceri et dato licentia de fare queste cose, ha dicto etiam molte altre novelle de quelle ha scripto Zohanne Petro Panicharola.",
+   "preklad": "Řekl také, že Lutyšané nabídli panu [vévodovi] burgundskému 6000 svobodných lučištníků (francharceri), placených po celou tuto válku, svolí-li Jeho Milost, aby si mohli znovu postavit svůj most, který stál uprostřed města přes řeku, jež tudy teče, a stejně tak znovu postavit své domy. Zkrátka [vévoda] těchto 6000 svobodných lučištníků přijal a dal k těm věcem svolení. Řekl také mnoho jiných novinek z těch, které napsal Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "Solum de novo ha reportato le doe parte predicte, de le quale me ne reporto ala verità.",
+   "preklad": "Jako nové přinesl jen ty dvě výše uvedené věci, za jejichž pravdivost neručím."
+  },
+  {
+   "text": "Ex Montecaprello primo Augusti 1475.",
+   "preklad": "Z Moncrivella 1. srpna 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Ill mo Principi etc. dno Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' Nancy, chef-lieu du département de la Meurthe, ancienne capitale de la Lorraine.",
+  "5 Les Liégeois, habitants de la ville de Liège, dans les Pays-Bas.",
+  "3 Pour punir la révolte des Liégeois (1468), le duc de Bourgogne leur avait interdit la faculté de reconstruire leur pont sur la Meuse, et de rebâtir leurs maisons détruites à la suite du siège de cette ville. (Corn- mines, mém. liv. II, chap. 14, édit. Dupont, t. I, p. 202.)",
+  "* J. P. Panigarola, ambassadeur de Milan près le duc de Bourgogne."
+ ],
+ "poznamky": [
+  "Odstraněna čísla poznámek přilepená ke slovům; OCR „Firmai.“ opraveno na „Firmat.“.",
+  "Gingins: Nancy, bývalé hlavní město Lotrinska. Podle Gingingse (pozn. k č. 72) bylo Nancy obklíčeno až 24. října a kapitulovalo 27. listopadu 1475, zpráva o táboře u Nancy v srpnu je tedy předčasná.",
+  "Gingins: za trest za vzpouru (1468) zakázal vévoda Lutyšským obnovit most přes Mázu a znovu postavit domy zničené po obléhání města (Commynes, kn. II, kap. 14). Panigarola byl milánský vyslanec u burgundského vévody.",
+  "„francharceri“ = francs-archers, svobodní lučištníci (pěchota z měst a venkova osvobozená od daní za službu).",
+  "Zajímavé: Lutych měl nabídnout 6000 lučištníků na svůj náklad za povolení obnovit most přes Mázu a domy zničené v roce 1468."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Šlechtic ze Savojska hlásí, že se burgundské vojsko utábořilo u Nancy, lotrinští šlechtici jednají s vévodou o smír a Lutyšané nabídli Karlovi 6000 placených lučištníků za povolení obnovit svůj most a domy."
+}

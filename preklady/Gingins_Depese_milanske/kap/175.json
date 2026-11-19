@@ -1,0 +1,51 @@
+{
+ "cislo": 175,
+ "rimske": "CLXXV",
+ "nadpis": "CLXXV. J.-P. Panigarola au duc de Milan. Lausanne, le 18 avril 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 18 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXV (ř. 6017–6032 souboru edice)",
+ "obsah_editora": "Départ du camp, la veille, de plus de 2,000 hommes de pieds envoyés dans le Valais à la demande des Savoisiens. — L’expédition dont il a été parlé dans la dépêche du 17 continue; — on lui souhaite bonne chance. Ceux qui en font partie ne seront de retour que dans trois jours; en attendant il n’est pas question de lever le camp. — Il paraît qu'on attend l’arrivée de l’argent pour en distribuer aux troupes : — ce sera une dépense bien opportune pour remédier à la détresse du soldat et faire cesser les murmures de l’armée.",
+ "odstavce": [
+  {
+   "text": "CLXXVI. J.-P. Panigarola au duc de Milan. Lausanne, le 18 avril 1476.",
+   "preklad": "CLXXV. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 18. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio, ecc. — Partirono heri piu di 2 m fanti de qui che andorno pure per correre in Valesse ad persuasione di Savoini, per quello tractato etiam scrissi heri tenevano. Idio li mandi bona ventura, che variamente qui se ne parla, non tornarano de tre di; et interim non ci he nova chel campo parta, ma pare si aspectarano qui li dinari per dare ali soldati, per rhetifìcare li animi loro desperati corno monstrano, sara bona spessa che ogni uno crida, ecc.",
+   "preklad": "Nejjasnější pane můj atd. Včera odtud odešlo víc než 2 000 pěšáků, kteří šli také do výpadu do Valais na naléhání Savojanů, kvůli té úmluvě, o níž jsem včera psal, že ji vedou. Bůh jim dej štěstí, neboť se o tom tu mluví všelijak; nevrátí se dřív než za tři dny. Mezitím není zpráva, že by tábor odcházel, ale zdá se, že se tu bude čekat na peníze, aby se daly vojákům a napravila se jejich zoufalá mysl, jak dávají najevo; bude to dobrý výdaj, protože každý křičí atd."
+  },
+  {
+   "text": "Lossane 18 Aprilis 1476.",
+   "preklad": "Lausanne 18. dubna 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panicharolla.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Excell.mo Dno Galeaz Marie Sforcie Vicecomiti duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Voir la dépêche de Panigaróla, du 17 avril, n° Clxxiii, à la note."
+ ],
+ "poznamky": [
+  "Do posledního odstavce zapadla Gingingsova poznámka 1; přesunuta sem. Opravy OCR: „Idioli“ → „Idio li“, „Cura“ → „Cum“, „Panicharolla“ ponecháno, vypuštěna čísla poznámek, adresa spojena. „spessa“ = spesa (výdaj).",
+  "Gingins: viz Appianovu depeši z téhož dne (Gingins uvádí „č. CLXXIV“, myšlena je č. CLXXV) a Panigarolovu depeši ze 17. dubna s poznámkou (Gingins „č. CLXXIII“, myšlena je č. CLXXIV).",
+  "„quello tractato“ odkazuje na úmluvu zmíněnou v č. CLXXIV; z této depeše plyne, že výprava z tábora souvisela s tažením do Valais (srov. č. CLXXV: 2 000 pěšáků k Saint-Maurice).",
+  "Zajímavé: vojáci v táboře jsou podle Panigaroly „zoufalí“ a „každý křičí“; čeká se na peníze, aby jim byl vyplacen žold."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Z tábora odešlo přes 2 000 pěšáků na výpad do Valais na žádost Savojanů, vrátit se mají za tři dny. Tábor se nehne, dokud nepřijdou peníze na výplatu žoldu zoufalým a reptajícím vojákům."
+}

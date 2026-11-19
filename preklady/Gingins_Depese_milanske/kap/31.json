@@ -1,0 +1,38 @@
+{
+ "cislo": 31,
+ "rimske": "XXXI",
+ "nadpis": "XXXI. Le duc de Milan au capitaine Jacques Galeoto. (Copie.) Villanova, près Casai, 12 avril 1475.",
+ "odesilatel": "Le duc de Milan au capitaine Jacques Galeoto. (Copie.)",
+ "misto_datum": "Villanova, près Casai, 12 avril 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXXI (ř. 1391–1403 souboru edice)",
+ "obsah_editora": "Le duc Galeas-Marie répond à la lettre de félicitation que lui avait adressé son noble et très cher ami, Jacques Galeoto, à l’occasion de l’alliance conclue en dernier lieu entre Milan et le duc de Bourgogne, et il remercie le brave capitaine de ses affectueux sentiments pour sa maison. — Cette alliance, dit le duc, ne peut pas être appelée nouvelle ; ce n’est en réalité qu’une réconciliation et le rétablissement des relations amicales et de l’union qui existait anciennement entre l’illustre maison de Bourgogne et celle des Visconti; union qui, dit-il, est des plus naturelles. — C’est pourquoi il s’attachera continuellement, non seulement à maintenir cette alliance, mais à la développer et à l’accroître. Il compte pour cela sur les bons offices de Galeoto, son ancien ami, dont il a toujours apprécié le dévouement et les vertus. — Il termine sa lettre en recommandant au capitaine de continuer à servir le duc Charles avec le même zèle; considérant tous les services faits à cet illustre prince comme rendus à sa propre personne.",
+ "odstavce": [
+  {
+   "text": "XXXII. Le duc de Milan au capitaine Jacques Galeoto. (Copie.) Villanova, près Casai, 12 avril 1475.",
+   "preklad": "XXXI. Milánský vévoda kapitánu Giacomu Galeottovi (opis). Villanova u Casale, 12. dubna 1475"
+  },
+  {
+   "text": "Jacobo Galeoto; — Magnifice amice noster carissime. — Per una vostra de 17 del passato ve congratulate con noy de la liga et unione havemo novamente facta et contracta con quello Ill mo Signor Duca de Borgogna : ve rengratiamo de tal vostra affectione verso noy. Nova lega non potemo veramente appellare questa, ma reconsiliatione et reintegratione dela unione, amicitia et benevolentia antichamente stata tra la Ill ma casa de Borgogna et quella dei Vesconti, quale e naturalissima. Et cossy noi ne sforzeremo continuamente non solum mantenerla, ma de crescerla et augumentare, et ad le vostre spetialita ne offerimo sempre apparecchiati: como quelli che ve havemo continuamente amato per le virtute vostre, et affectione ne havete portato. Confortandovi ad servire bene quello Ill mo Signore, perche stimaremo serviate ad noy essendo una medesma cosa come siamo.",
+   "preklad": "Giacomu Galeottovi. Vznešený, náš nejmilejší příteli. Vaším listem ze 17. minulého měsíce nám blahopřejete k lize a unii, kterou jsme nově uzavřeli s oním nejjasnějším pánem vévodou burgundským; děkujeme vám za takovou náklonnost k nám. Tuto ligu však nemůžeme opravdu nazvat novou: je to smíření a obnovení jednoty, přátelství a přízně, které odedávna bývaly mezi nejjasnějším burgundským domem a domem Viscontiů a jsou nanejvýš přirozené. A tak se budeme ustavičně snažit ji nejen udržet, ale rozmnožit a rozšířit. Vaší osobě se nabízíme vždy ochotni, jako ti, kdo vás vždy milovali pro vaše ctnosti a pro náklonnost, kterou jste nám prokazoval. Povzbuzujeme vás, abyste tomu nejjasnějšímu pánu dobře sloužil, neboť to budeme pokládat, jako byste sloužil nám, protože jsme jedno a totéž."
+  },
+  {
+   "text": "(Senza firma.)",
+   "preklad": "(Bez podpisu.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' Les termes dont le duc de Milan se sert en s’adressant à J. Galeoto montrent que le capitaine napolitain était, par sa naissance, homme de qualité. — Suivant Nostradamus (Histoire de Provence p. 606), Gautier Galeoto fut l’un des trois principaux chevaliers que la ville de Naples députa en Provence après la mort de la reine Jeanne, en 1435, pour offrir à René d’Anjou la couronne des Deux-Siciles. Les Sforza ayant soutenu les droits de la maison d’Anjou, sur ce royaume, contre les Arragonais, Jacques Galeoto, qui suivait le même parti, avait eu plus d’une occasion d’entretenir avec Galeas-Marie, duc de Milan, des relations amicales.",
+  "2 Les Sforza, successeurs des Visconti au duché de Milan, affectaient de prendre le surnom de cette illustre maison, qui était celle de Blanche Visconti, fille naturelle de Philippe Marie, duc de Milan, et mère de Galeas-Marie Sforza."
+ ],
+ "poznamky": [
+  "Odpověď na Galeottův list ze 17. března 1475 (depeše XXIV).",
+  "Gingins: způsob oslovení ukazuje, že Galeotto byl urozeného původu. Podle Nostradama byl Gautier Galeoto roku 1435 jedním ze tří předních rytířů, které Neapol vyslala do Provence nabídnout Renému z Anjou korunu; Sforzové podporovali Anjouovce proti Aragoncům, a Galeotto, stoupenec téže strany, měl s Galeazzem Mariem přátelské styky.",
+  "Gingins: Sforzové, nástupci Viscontiů v Miláně, užívali i jejich jména; matkou Galeazza Maria byla Bianca Maria Visconti, nemanželská dcera vévody Filippa Marii.",
+  "Místo: v edici „Villanova, près Casai“, tj. u Casale (Monferrato) [?].",
+  "Opravy OCR: „Magnifiée“ → Magnifice, „111\" 10“ → Ill mo, „ìd“ → ad, „haverao“ → havemo; odstraněna čísla poznámek, spojena rozdělená slova.",
+  "Oprava OCR: „corno“ → como (1×)."
+ ],
+ "shrnuti": "Galeazzo Maria Sforza děkuje kondotiérovi Giacomu Galeottovi za blahopřání k lize s Burgundskem, kterou označuje za obnovení starého přátelství burgundského domu s Viscontii, a vybízí ho, aby Karlovi Smělému věrně sloužil.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

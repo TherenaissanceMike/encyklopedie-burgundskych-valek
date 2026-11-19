@@ -1,0 +1,65 @@
+{
+ "cislo": 5,
+ "rimske": "V",
+ "nadpis": "V. Antoine d’Appiano au duc de Milan. Montcalier, 23 janvier 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 23 janvier 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše V (ř. 601–623 souboru edice)",
+ "obsah_editora": "On mande de Lyon à la régente de Savoie que le roi de France envoie de nouveau 200 lances à Perpignan, et on ajoute que ces troupes ont encore une autre destination. Madame ne sait trop ce que cela veut dire, à moins qu’il ne s’agisse du roi Réné et de l’Anjou. — Etat satisfaisant des négociations, et conclusion prochaine de l’ailiance entre les ducs de Bourgogne et de Milan; il ne reste plus à régler que la question de savoir si le traité ne concernera que la Bourgogne ou s’il embrassera tous les Etats du duc Charles, comme Madame de Savoie paraît le desirer.",
+ "odstavce": [
+  {
+   "text": "V. Antoine d’Appiano au duc de Milan. Montcalier, 23 janvier 1475.",
+   "preklad": "V. Antonio d'Appiano milánskému vévodovi. Moncalieri, 23. ledna 1475"
+  },
+  {
+   "text": "Ill.mo et Ex.mo signore mio . Questa sera essendo cum sua signoria me ha dicto chel Bayly che fu de Lione gli haveva mandato a dire in quella hora per un suo servitore che lhaveva havuto aviso, chel prelibato Re de Franza mandava de novo a Parpignano ducento lanze, quale gente se dice faranno de laltre cose anchora. Sua signoria non sa pensare que debbia essere questo, salvo se volesseno pur attendere contra el prefato signore Re Renato como dicto, e havuto Parpignano cum qualche intelligentia, ecc....",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Dnes večer, když jsem byl u Její Milosti [vévodkyně], řekla mi, že bývalý bailli lyonský jí v tu hodinu vzkázal po svém služebníkovi, že dostal zprávu, že řečený král francouzský posílá znovu do Perpignanu dvě stě kopí, a o tomto vojsku se říká, že bude dělat ještě i jiné věci. Její Milost si neumí představit, co by to mělo být, leda že by chtěli přece jen podniknout něco proti řečenému panu králi Renému, jak bylo řečeno, a [že] Perpignan získali nějakou tajnou dohodou [?] atd...."
+  },
+  {
+   "text": "Excellentissimo signore mio. Scrissi heri sera a V. Celsitudine chio credeva che questa praticha haveria conclusione secundo me haveva dicto questa Ill. ma Madama e lo Governatore de Niza. Questo scrissi, perche essendo andato a corte, per tore l’ordine et hora de trovarsi hogi insieme tutti, et interrogato da la prefata Madama respuosegli de differentia stata per la difesa solummodo de la provintia de Borgogna, ecc. ; sua signoria me respuose : ben se potrà fare la liga generale per tutto lo stato de nostro frare de Borgogna.",
+   "preklad": "Nejvznešenější pane můj. Včera večer jsem Vaší Výsosti napsal, že věřím, že toto jednání dojde k uzavření, jak mi řekla zdejší nejjasnější paní a guvernér Nice. To jsem napsal proto, že když jsem šel ke dvoru, abych se dozvěděl pořádek a hodinu, kdy se máme dnes všichni sejít, a řečená paní se mne vyptávala, odpověděl jsem jí o sporu, který byl ohledně obrany pouze provincie Burgundska atd.; a Její Milost mi odpověděla: „Dobře se bude moci uzavřít liga všeobecná pro celé panství našeho bratra burgundského.“"
+  },
+  {
+   "text": "Ex Montecallerio 23 january 1475.",
+   "preklad": "Z Moncalieri 23. ledna 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre.",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmat: Devotissima servulus",
+   "preklad": "Podepsán: nejoddanější nejmenší služebník"
+  },
+  {
+   "text": "Antonius de Apiano.",
+   "preklad": "Antonius de Apiano."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex.mo domino domino Galeazo Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "In propriis manibus.",
+   "preklad": "Do vlastních rukou."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "2 Réné, dit le bon, duc d’Anjou, comte de Provence et roi titulaire de Sicile. Le roi Louis XI venait de lui enlever la ville et le château d’Angers. (Voir la Chronique de Louis XI sous l’an 1474, septembre ou octobre. Lenglet, t. II, p. 111.)",
+  "3 Antoine d’Orlier, seigneur de St-Innocent, gouverneur de Nice. (Guichenon, 1. c., 1.1, p. 566).",
+  "4 Ce traité, entre les ducs de Bourgogne et de Milan, fut stipulé à Montcalier, le 30 janvier 1475, sous la médiation et en présence de la duchesse de Savoie. (Voir Pièces de Commines, édition Lenglet, t. III, p. 356, n° 225.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední odstavec byl Gingingsova poznámka 1, odstraněna; dva řádky adresy na rubu spojeny. Opravy OCR: „III. mo“ > „Ill.mo“, „cuna“ > „cum“, „corno“ > „como“, „cliio“ > „chio“, „14-75“ > „1475“, odstraněna čísla poznámek. „Firmat: Devotissima servulus“ ponecháno podle edice.",
+  "Gingins: bývalý bailli lyonský = Fr. Boyer, rada a komoří krále, roku 1471 (?) bailli v Lyonu. Král René = René Dobrý, vévoda z Anjou, hrabě provensálský a titulární král sicilský; Ludvík XI. mu právě vzal město a hrad Angers.",
+  "Gingins: guvernér Nice = Antoine d'Orlier, pán ze St-Innocent. Gingins: smlouva mezi vévodou burgundským a milánským byla uzavřena v Moncalieri 30. ledna 1475 za zprostředkování a v přítomnosti vévodkyně savojské (viz depeše VII). Jolanda nazývá Karla Smělého „naším bratrem“ (zdvořilostně, nebyli příbuzní v tomto stupni).",
+  "Spornou otázkou bylo, zda se liga bude týkat jen obrany Burgundska, nebo všech Karlových zemí; vévodkyně se přimlouvá za ligu „všeobecnou“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano hlásí, že Ludvík XI. posílá do Perpignanu dalších 200 kopí a regentka Jolanda neví proč. Jednání o milánsko-burgundské lize je těsně před uzavřením; vévodkyně navrhuje, aby liga zahrnula všechny Karlovy země, ne jen Burgundsko."
+}

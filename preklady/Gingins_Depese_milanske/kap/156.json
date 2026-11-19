@@ -1,0 +1,62 @@
+{
+ "cislo": 156,
+ "rimske": "CLVI",
+ "nadpis": "CLVI. Antoine d’Appiano au duc de Milan. Lausanne, le 6 avril 1476.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Lausanne, le 6 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLVI (ř. 5497–5517 souboru edice)",
+ "obsah_editora": "Le détachement parti du camp, au nombre d’environ S,000 hommes, tant à cheval qu’à pied, est revenu sans avoir réussi. — Il s’était proposé de saccager une vallée appartenant au comte de Gruyère et de s’emparer de certains passages pour pouvoir faire des courses sur les terres de Fribourg et de Berne, mais les Bourguignons ont été arrêtés par la rupture d’un pont détruit à leur approche par les gens du pays.",
+ "odstavce": [
+  {
+   "text": "CLVII. Antoine d’Appiano au duc de Milan. Lausanne, le 6 avril 1476.",
+   "preklad": "CLVI. Antonio d'Appiano milánskému vévodovi. Lausanne, 6. dubna 1476"
+  },
+  {
+   "text": "Ill.mo Signore,",
+   "preklad": "Nejjasnější pane,"
+  },
+  {
+   "text": "Le gentedarme de campo cherano cavalcate forono extimate de le persone circha 5 m fra a cavallo et a pede ; ritornano tutta via senza haver facto fructo alcuno. Erano cavalcate per mettere a sacomano et brasar una valle del conte de Gruera et prendere certo passo per puotere proverezare quelle parte de Filimborgo et Berna ; tandem nulla hanno facto, corno dicto, ne sonno possuto intrare in dieta valle, perche quelli Alamanj erano avisati et hanno rotto un certo ponte, dove questi del campo non sonno possuti passare.",
+   "preklad": "ozbrojenci z tábora, kteří vyjeli, byli odhadnuti asi na 5 000 osob, jízdních i pěších; vracejí se však, aniž co svedli. Vyjeli, aby vyplenili a vypálili jedno údolí hraběte z Gruyère a zmocnili se jistého průsmyku, odkud by mohli podnikat výpady [?] do končin Fribourgu a Bernu. Nakonec nic nesvedli, jak řečeno, a do onoho údolí se ani nedostali, protože ti Němci byli varováni a strhli jistý most, přes který tito z tábora nemohli přejít."
+  },
+  {
+   "text": "A la Celsitudine V a me ricomando.",
+   "preklad": "Doporučuji se Vaší Výsosti."
+  },
+  {
+   "text": "Ex Lusanna 6 Aprilis 1476.",
+   "preklad": "Z Lausanne 6. dubna 1476."
+  },
+  {
+   "text": "Devotissimus servulus Antonius de Aplano.",
+   "preklad": "Nejoddanější služebníček Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex.mo domino meo Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Portantur per postas.",
+   "preklad": "Doručit poštou."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Louis, comte de Gruyère, qui personnellement affectait une sorte de neutralité, mais dont les sujets tenaient le parti de Berne et de Fribourg. s Le but de l’expédition était de pénétrer, par Bulle, dans la Haute- Gruyère et dans le pays de Gessenay. Les montagnards, prévenus à temps, et réunis aux Fribourgeois accourus à leur aide, attendirent l’ennemi au défilé de la Tine et rompirent le pont-viaduc en bois sur lequel passait l’étroit chemin conduisant dans la vallée supérieure de la Sarine, dont l’abord fut ainsi rendu impraticable pour les assaillants."
+ ],
+ "poznamky": [
+  "Oslovení „Illustr° Signore,“ bylo v obsah_editora, přesunuto do odstavců; z obsahu vypuštěno záhlaví strany „DES AMBASSADEURS MILANAIS. M“. Adresa (dva řádky) spojena; „Curri sigillo“ → „Cum sigillo“.",
+  "„5 m“ = 5 mila, tj. 5 000; Gingins v obsahu (OCR „S,000“) má také asi 5 000. Panigarola o den později (č. CLVIII) píše o 4 000 mužích, Gingins v pozn. k č. CLXIV o asi 2 000.",
+  "„proverezare“ je nejasné (snad zkomolené „guerezare“, válčit), přeloženo „podnikat výpady [?]“.",
+  "„gentedarme“ zde obecně ozbrojený lid, ne jen těžkooděnci (výprava byla jízdní i pěší).",
+  "Gingins: Ludvík, hrabě z Gruyère, se osobně tvářil neutrálně, ale jeho poddaní drželi s Bernem a Fribourgem.",
+  "Gingins: výprava měla přes Bulle proniknout do Horní Gruyère a do Saanenlandu (Gessenay). Horalé, včas varovaní a posílení Fribourgskými, čekali v soutěsce La Tine a strhli dřevěný mostní násep, po němž vedla úzká cesta do horního údolí Sarine (Saane).",
+  "Zajímavé: depeše potvrzuje švýcarské zprávy o neúspěšném burgundském výpadu na Gruyère na začátku dubna 1476 a o obraně stržením mostu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Burgundský oddíl asi 5 000 jezdců a pěších, který měl vyplenit údolí hraběte z Gruyère a otevřít cestu k výpadům na Fribourg a Bern, se vrátil bez úspěchu. Místní Němci byli varováni a strhli most, takže do údolí neprošel."
+}

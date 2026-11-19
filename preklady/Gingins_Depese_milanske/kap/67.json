@@ -1,0 +1,56 @@
+{
+ "cislo": 67,
+ "rimske": "LXVII",
+ "nadpis": "LXVII. Azon Visconti au duc de Milan. Còme, le 28 juillet 1475.",
+ "odesilatel": "Azon Visconti au duc de Milan.",
+ "misto_datum": "Còme, le 28 juillet 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXVII (ř. 2279–2297 souboru edice)",
+ "obsah_editora": "Deux Flamands, qui viennent d’arriver à Còme, rapportent que le duc de Bourgogne a conclu une paix séparée avec l’empereur, la cité de Cologne et la ville de Neuss; qu’il s’est retourné avec son armée contre le roi de France, qui lui a causé de grands dommages en Picardie; que le roi d’Angleterre et son frère ont passé la mer à la tête de 50,000 hommes pour secourir le duc de Bourgogne. — Les Suisses et leurs alliés de Bâle et de Strasbourg font la guerre du côté de Salins (Saliriez), dans la haute Bourgogne.",
+ "odstavce": [
+  {
+   "text": "LXVIII. Azon Visconti au duc de Milan. Còme, le 28 juillet 1475.",
+   "preklad": "LXVII. Azzo Visconti milánskému vévodovi. Como, 28. července 1475"
+  },
+  {
+   "text": "Illustris princeps et Excell e dne dne mi quamplurimum metuendissime. Post humilissimam et debitam recomandationem etc. A questhora sono giunti qui duy fiamenghi: dicono che lo Ill mo Duca de Borgonia solo ha facto pace con la Sacra Maestà del Imperatore et cum Colonese et con Nusso, et che Sua Signoria de certo e andata con el suo exercito al opposito dela Maestà del Re de Franza che glia dato de grandissimi danni in Picardia, et dicono che la Maestà del Re de Ingaltera insiema col fratello hano passato el mare con 50 m persone in soccorso desso Ill mo Duca de Borgonia. La gente de Svizeri a Basilea e Transborgh et consorte sono a campo a Salinez in Borgonia alta.",
+   "preklad": "Jasný kníže a nejvznešenější pane, pane můj nejctihodnější. Po nejpokornějším a povinném doporučení atd. Právě nyní sem přišli dva Flámové. Říkají, že nejjasnější vévoda burgundský uzavřel mír jen se svatým Veličenstvem císařem, s Kolínskými a s Neussem a že se Jeho Milost se svým vojskem jistě obrátila proti Veličenstvu králi Francie, který mu v Pikardii způsobil převeliké škody; a říkají, že Veličenstvo král anglický se spolu s bratrem přeplavil přes moře s 50 000 lidmi na pomoc tomuto nejjasnějšímu vévodovi burgundskému. Vojsko Švýcarů, Basilejských, Štrasburských a jejich společníků leží v poli u Salins v Horním Burgundsku."
+  },
+  {
+   "text": "Datum Cumis 28 july 1475.",
+   "preklad": "Dáno v Comu 28. července 1475."
+  },
+  {
+   "text": "Ejusdem Illustris Dominationis Vestre",
+   "preklad": "Vaší jasné Milosti"
+  },
+  {
+   "text": "Fidelissimus Servitor Azo Vicecomes.",
+   "preklad": "nejvěrnější služebník Azzo Visconti."
+  },
+  {
+   "text": "A tergo: Ill mo principi et excellentissimo dno meo duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému, vévodovi milánskému atd."
+  },
+  {
+   "text": "Magnifico dno Cicho — cito, cito, cito.",
+   "preklad": "Vznešenému panu Ciccovi [Simonettovi] — rychle, rychle, rychle."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Edouard IV, roi d’Angleterre, les ducs de Clarence et de Glocestre, ses frères débarqués à Calais le 4 juillet. s Les villes impériales de Strasbourg et de Bâle avaient entrepris de leur chef, dans les premiers jours de juillet, une nouvelle expédition dans la Franche-Comté, avec le concours de plusieurs bandes suisses que ces villes avaient prises à leur solde. ( Schilling , 1. c. p. 188 et suiv..)",
+  "* Cóme, sur le lac de ce nom, en Lombardie."
+ ],
+ "poznamky": [
+  "Oprava dělení: datace „Datum Cumis 28 july 1475“ oddělena od textu jako samostatný odstavec; OCR „Datura“ a „4475“ opraveno na „Datum“ a „1475“, „rai“ na „mi“, „IU mo“ na „Ill mo“; odstraněna čísla poznámek.",
+  "Gingins: Eduard IV., král anglický, a jeho bratři vévodové z Clarence a z Gloucesteru se vylodili v Calais 4. července 1475. Text mluví jen o jednom bratrovi.",
+  "Gingins: říšská města Štrasburk a Basilej podnikla začátkem července na vlastní pěst novou výpravu do Franche-Comté s několika švýcarskými oddíly, které vzala do žoldu (Schilling, s. 188 n.). „Salinez“ = Salins.",
+  "Zajímavé: v italských zprávách vystupují Basilej a Štrasburk jako spojenci Švýcarů, kteří spolu s nimi vedou válku ve Franche-Comté, zatímco Karel je ještě v Nizozemí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Podle dvou Flámů, kteří přišli do Coma, uzavřel Karel Smělý separátní mír s císařem, Kolínem a Neussem a obrátil se proti Francii, Eduard IV. se vylodil s 50 000 muži a Švýcaři s Basilejí a Štrasburkem leží v poli u Salins."
+}

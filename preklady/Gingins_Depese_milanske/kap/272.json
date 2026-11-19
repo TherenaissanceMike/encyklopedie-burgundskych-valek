@@ -1,0 +1,58 @@
+{
+ "cislo": 272,
+ "rimske": "CCLXXII",
+ "nadpis": "CCLXXII. J.-F. Panigarola au duc de Milan. Salins, 13 juillet 1476 (au soir).",
+ "odesilatel": "J.-F. Panigarola au duc de Milan.",
+ "misto_datum": "Salins, 13 juillet 1476 (au soir).",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXII (ř. 9160–9176 souboru edice)",
+ "obsah_editora": "Depuis la retraile du duc de Bourgogne à Salins, il est arrivé dans cette ville un héraut d’armes du roi (Mathias) de Hongrie, porteur d’une lettre autographe de ce souverain par laquelle il cherche à dissuader le duc Charles de son entreprise contre les Suisses. — Bien que cette lettre, écrite avant la campagne de Moral, semble avoir été inspirée par l’inimitié profonde dont le roi de Hongrie est animé contre l’empereur Frédéric, les raisons qu’il allègue pour détourner le duc de cette guerre paraissent à l’ambassadeur très concluantes et conformes à ce que le duc de Milan avait écrit lui-même, dans le temps, au duc de Bourgogne. — C’est pourquoi Panigarola juge à propos de transmettre à sa cour une copie de la lettre du roi Mathias, à laquelle le duc Charles n’avait encore fait aucune réponse.",
+ "odstavce": [
+  {
+   "text": "CCLXXII. J.-F. Panigarola au duc de Milan. Salins, 13 juillet 1476 (au soir).",
+   "preklad": "CCLXXII. Giovanni Pietro Panigarola milánskému vévodovi. Salins, 13. července 1476 (večer)"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Dopoi questa ultima rotta reducto questo Sig. già in questa terra, e arivato uno heraldo del Re di Hungaria, con una lettera di Soa Maestà persuasive molto p t0 Sig. con molte rasone che si levasse dal impresa di Sviceri, et benché si attribuisca la Maestà Soa lo facesse per lodio capitale et inimicitia che tene con lo Imperatore talmente radicata che non si possi dire piu, nondimeno parendomi la mente soa allegi rasone bone et efficace in proposito, pure et sicondo che la Ex tia V. ricordava questi di passati ad questo Sig. per sue littere, mi e parso mandargli la copia di essa littera qui alligata : cosi gli la mando, et per quella vedera el tuto. Fino qui esso heraldo non a auto altra expeditione, et ad la V. Ex. me ricommando.",
+   "preklad": "Nejjasnější pane můj. Po této poslední porážce, když už se tento pán uchýlil do tohoto města, přijel herold uherského krále s listem Jeho Veličenstva, který řečeného pána mnoha důvody naléhavě přemlouvá, aby upustil od podniku proti Švýcarům. A ačkoli se tvrdí, že to Jeho Veličenstvo učinilo ze smrtelné nenávisti a nepřátelství k císaři, které je v něm zakořeněno tak, že víc už ani nelze říci, přece se mi zdá, že uvádí k věci dobré a účinné důvody, a to v souladu s tím, co Vaše Excelence tomuto pánu v minulých dnech připomínala svými listy. Rozhodl jsem se jí proto poslat opis toho listu, zde přiložený; posílám jej tedy a z něho uvidí vše. Dosud tento herold nedostal žádnou odpověď. Vaší Excelenci se doporučuji."
+  },
+  {
+   "text": "Ex Salinis 13 July 1476.",
+   "preklad": "Ze Salins 13. července 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: služebník"
+  },
+  {
+   "text": "J. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : Illustris mo et Excell mo domino Galeaz",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu panu Galeazzovi"
+  },
+  {
+   "text": "Marie Sfortie duci Mediolani etc.",
+   "preklad": "Mariovi Sforzovi, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Mathias I er , dû Coroin, roi de Hongrie, 1458, mort en 1490.",
+  "4 Voir la copie de la lettre du roi de Hongrie, en date de Bude, 7 mai 1476, sous le n° oxcii ci-devant.",
+  "3 L’empereur Frédéric III, qui refusait de donner au roi Mathias l’investiture de la Bohême, etc. (VoirLichnowski, Histoire de la maison de Habsbourg, t. VII, p. 171.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: vypuštěn odstavec „UES ambassadeurs milanais.“ (záhlaví strany). Oprava OCR: „Ilungaria“ → „Hungaria“, „Iodio“ → „lodio“, „Cimi sigillo“ → „Cum sigillo“, odstraněna čísla poznámek. Iniciály „J.-F.“ v nadpisu edice jsou chyba OCR za J.-P.",
+  "Gingins: Matyáš Korvín, uherský král od 1458, zemřel 1490.",
+  "Gingins: opis listu uherského krále z Budína 7. 5. 1476 je v edici pod č. 192; byl tedy psán před Murtenem.",
+  "Gingins: nepřátelství s císařem Fridrichem III., který Matyášovi odpíral investituru na Čechy.",
+  "Zajímavé (pro české čtenáře): Matyáš Korvín zrazoval Karla Smělého od války se Švýcary; Panigarola to vykládá jeho sporem s Fridrichem III. o české království."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Do Salins přijel herold Matyáše Korvína s listem, jímž uherský král zrazoval Karla Smělého od války se Švýcary; Panigarola posílá jeho opis, protože důvody v něm se shodují s radami milánského vévody."
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 187,
+ "rimske": "CLXXXVII",
+ "nadpis": "CLXXXVII. Antoine d’ Appiano au duc de Milan. Lausanne, le 2 mai 1476.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Lausanne, le 2 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXXVII (ř. 6454–6469 souboru edice)",
+ "obsah_editora": "La santé du duc de Bourgogne s’améliore de jour en jour, et l’on peut considérer son entier rétablissement comme prochain. — La \\ veille, 1 er du mois, le due avait reçu la visite de plusieurs personnes, j entr’autre celle de l’ambassadeur Panigarola. — On croit que la dis- | tribution de la solde aux troupes pourra se faire dans la prochaine ■ semaine. — Cette opération a déjà commencé dans la gendarmerie ; de la maison du duc. — Il se dit cependant dans l’entourage de Madame de Savoie que la distribution d’argent aux troupes de l’ordonnance n’aura lieu qu'au moment de lever le camp, de peur de désertion.",
+ "odstavce": [
+  {
+   "text": "CLXXXVIII. Antoine d’ Appiano au duc de Milan. Lausanne, le 2 mai 1476.",
+   "preklad": "CLXXXVII. Antonio d'Appiano milánskému vévodovi. Lausanne, 2. května 1476"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. — Ricomandandome sempre a la bona grazia di V. Celsitudine. — (Omissis omittendis.) — Cum la Dio grazia questo Ill mo Monsignore di Borgogna ogni hora va megliorando, et heri forono molte persone a visitarlo et anche gli fu Zohanne Petro. Se può tenire in tutto francho et libero. Credo fara dare denari questa septimana proxima a la Gentedarme, già ha comenzato a fare dare denari a quelli di sua corte. Non se intende anchora che denari voglia fare dare a le gentedarme. Et si dice fra la corte di questa madama, che dati denari subito se levara col campo, ut fertur, et forse cum speranza di qualche trama.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Stále se doporučuji do přízně Vaší Výsosti. (Vynechávám, co se má vynechat.) Chvála Bohu, tomuto nejjasnějšímu pánu burgundskému se každou hodinu lépe, a včera ho navštívilo mnoho lidí; byl u něho i Giovanni Pietro. Lze ho považovat za zcela zdravého a volného [od nemoci]. Myslím, že dá tento příští týden peníze těžkooděncům; již začal dávat peníze těm ze svého dvora. Zatím se neví, kolik peněz chce dát těžkooděncům. A na dvoře zdejší paní se říká, že jakmile budou peníze vydány, hned vytáhne s vojskem, jak se povídá, a snad v naději na nějaké pikle [trama]."
+  },
+  {
+   "text": "Ex Lusana secundo may 1476.",
+   "preklad": "Z Lausanne 2. května 1476."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill. mo Principi et Excell. m0 domino Galeaz Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Gingingsův obsah vykládá konec jinak: na dvoře paní savojské se prý říká, že žold ordonančním vojskům bude vyplacen až při odchodu z tábora, ze strachu z dezercí. Originál říká jen, že po výplatě peněz vévoda hned vytáhne s vojskem.",
+  "Oprava OCR: „Cuna la Dio grazia“ opraveno na „Cum la Dio grazia“, odstraněny zbytky okraje sloupce („,“, „i —“), „Devotissima“ na „Devotissimus“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano hlásí, že se Karel Smělý rychle zotavuje a přijímá návštěvy. Brzy má vyplatit žold těžkooděncům a po výplatě prý hned vytáhne s vojskem."
+}

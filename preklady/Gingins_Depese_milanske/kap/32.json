@@ -1,0 +1,57 @@
+{
+ "cislo": 32,
+ "rimske": "XXXII",
+ "nadpis": "XXXII. Félix Ursino, gouverneur d’Alexandrie, au duc de Milan. Alexandrie, le 20 avril 1475.",
+ "odesilatel": "Félix Ursino, gouverneur d’Alexandrie, au duc de Milan.",
+ "misto_datum": "Alexandrie, le 20 avril 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXXII (ř. 1404–1424 souboru edice)",
+ "obsah_editora": "Le gouverneur d’Alexandrie répond à deux lettres que son maître lui avait adressées la veille (19 avril). — La première renfermait des instructions relatives à deux individus suspects, dont l’un devait être mis en liberté et l’autre retenu si on parvenait à l’atteindre.— Par sa Seconde lettre le duc ordonne à son lieutenant de prendre des mesures convenables pour la publication solennelle de l’alliance avec le duc de Bourgogne, qui doit avoir lieu le 23 avril suivant, jour de la fête de Saint-Georges, au son des cloches, avec accompagnement de processions, de feux de joie etc. — En annonçant à son maître que ses ordres seront scrupuleusement exécutés, le gouverneur dit au due que la nouvelle de la conclusion de cette alliance a été accueillie avec allégresse et satisfaction par tous ses sujets.",
+ "odstavce": [
+  {
+   "text": "XXXIII. Félix Ursino, gouverneur d’Alexandrie, au duc de Milan. Alexandrie, le 20 avril 1475.",
+   "preklad": "XXXII. Felice Orsini, guvernér Alessandrie, milánskému vévodovi. Alessandria, 20. dubna 1475"
+  },
+  {
+   "text": "Ill mo Signore mio : hodie ho ricevuto due lettere di V. Ex ia luna date Abbiate die 19 aprilli continente di quello Johanne Luppo havea drizato da V. Exc a chio gli faci restituire ogni cossa del suo et lo lassi andare. Et che capitando qui Johanne Azzon lo mandi similiter con compagnia da V. S. L’altra datum etiam Abbiate 19 aprillis continente de la liga facta tra V. Ill ma Signoria et lo Signore Duca de Borgogna : ale quale respondendo dico che dicto Johanne Luppo con ogni sua robba se partito statim che gionto qui comendandosi molto de la Signoria Vostra : de Johanne Azzon staro vigillante et attento sei capitara qui. Et faro como la scrive. De la liga sopradicta dico e una cossa molto laudabile, et molto sta grata tal novella ad tuti li subditi et servitori di quella. Et cusi io exeguiro in omnibus como la S. V. comanda in far fare processione, falodij et pulsatione di campane incomenzando lo di de Sancto Giorgio proximo. Alla V. S. continuo me ricomando.",
+   "preklad": "Nejjasnější pane můj, dnes jsem obdržel dva listy Vaší Excelence. První, daný v Abbiategrassu 19. dubna, obsahoval, že onomu Johannu Luppovi, kterého ke mně Vaše Excelence poslala, mám dát vrátit všechno, co mu patří, a nechat ho jít; a kdyby sem přišel Johanne Azzon, mám ho rovněž poslat s doprovodem k Vaší Milosti. Druhý, daný také v Abbiategrassu 19. dubna, se týkal ligy uzavřené mezi Vaší nejjasnější Milostí a panem vévodou burgundským. Odpovídám na ně: řečený Johanne Luppo odjel se vším svým majetkem hned, jak sem přišel, a velmi chválil Vaši Milost; na Johanna Azzona budu bdělý a pozorný, kdyby sem přišel, a udělám, jak píšete. O řečené lize říkám, že je to věc velmi chvályhodná a ta novina je velmi milá všem poddaným a služebníkům Vaší Milosti. A tak ve všem vykonám, co Vaše Milost přikazuje: dám konat procesí, zapálit ohně radosti a zvonit zvony, počínaje příštím dnem svatého Jiří. Vaší Milosti se ustavičně doporučuji."
+  },
+  {
+   "text": "Datum Alexandrie die 20 mo aprillis 1475.",
+   "preklad": "Dáno v Alessandrii 20. dubna 1475."
+  },
+  {
+   "text": "Ill me Dominationis Vestre",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Firmat: Servitor Felix Ursinus.",
+   "preklad": "Podepsán: služebník Felix Ursinus."
+  },
+  {
+   "text": "A tergo : Ill mo principi et Ex mo domino dno Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "In manibus D. Cichi.",
+   "preklad": "Do rukou pana Cecca."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Abbiate-Grasso , ville lombarde, sur le Naviglio-Grande, entre Milan et Novare.",
+  "5 Si nous avons bien compris le sens de cette dépêche, la publication de l’alliance entre Milan et le duc de Bourgogne, qui devait avoir lieu dans P octave de Pâques (2 avril), aurait été retardée jusqu'à la St-George (23 avril), soit pour faire honneur à ce patron du duc Charles-le-Hardi, soit pour d’autres raisons qui ne sont pas expliquées."
+ ],
+ "poznamky": [
+  "Gingins: Abbiate = Abbiategrasso, lombardské město na průplavu Naviglio Grande mezi Milánem a Novarou.",
+  "Gingins: vyhlášení ligy s Burgundskem, plánované na oktáv Velikonoc (2. dubna), bylo zřejmě odloženo na svátek sv. Jiří (23. dubna 1475, neděle), snad na počest patrona Karla Smělého, snad z jiných, nevysvětlených důvodů.",
+  "„falodij“ = ohně radosti (it. falò), tak i Gingins („feux de joie“). Johanne Luppo a Johanne Azzon jsou jinak neznámé osoby; adresát „pan Cecco“ = kancléř Cecco Simonetta.",
+  "Opravy OCR: „Y. S.“ → V. S., „Ul me“ → Ill me, „Firmai“ → Firmat, „Ci chi“ → Cichi, „Curri“ → Cum; odstraněna čísla poznámek; řádky adresy spojeny.",
+  "Oprava OCR: „corno“ → como (2×)."
+ ],
+ "shrnuti": "Guvernér Alessandrie potvrzuje vévodovi, že propustil jistého Johanna Luppa a bude pátrat po Johannu Azzonovi, a že ligu s Burgundskem dá od svátku sv. Jiří slavnostně vyhlásit procesími, ohni a zvoněním.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

@@ -1,0 +1,59 @@
+{
+ "cislo": 88,
+ "rimske": "LXXXVIII",
+ "nadpis": "LXXXVIII. Jacques Bonarelli, au duc de Milan. Cremone, 28 octobre 1475.",
+ "odesilatel": "Jacques Bonarelli, au duc de Milan.",
+ "misto_datum": "Cremone, 28 octobre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXXVIII (ř. 2932–2956 souboru edice)",
+ "obsah_editora": "Un soldat crémonais, revenant de la Bourgogne, arrive à l’instant dans cette ville. — A son départ, qui remonte à une vingtaine de jours, le duc de Bourgogne se trouvait à Saint-Nicolas en Lorraine. Il s’était rendu maître de toute la Lorraine, à l’exception des deux seules places de Nancy et d’Epinal. — Le prince de Tarente, don Frédéric, a rejoint le duc Charles, qui le comble de caresses. —On disait que le duc de Bourgogne allait porter la guerre chez les Allemands dans le comté de Ferrette. — Il a mandé auprès de lui le comte de Romont, Jacques de Savoie, pour lui donner la conduite de la guerre contre les Bernois.",
+ "odstavce": [
+  {
+   "text": "LXXXIX. Jacques Bonarelli, au duc de Milan. Cremone, 28 octobre 1475.",
+   "preklad": "LXXXVIII. Giacomo Bonarelli milánskému vévodovi. Cremona, 28. října 1475"
+  },
+  {
+   "text": "Illustrissimo et Ex mo Signor mio. In questa hora e giunto qui uno soldato Cremonese, quale vene de Borgogna, ho li domandato de le novelle de quelle parte. Et me ha significato che circa 20 di sono chel se parti de Bergognia et lasso lo Ill mo Signor Duca in una terra chiamata Sancto Nicolao che e in Lorena, et dice che Sua Ex ia ha prexo tuta la provintia chiamata Lorena, excepto due citade luna chiamata Nansi, laltra el Pinale: et era cum Sua Celsitudine lo 111. S. don Federicho, quale era molto accarezato da quella, et se diceva che essa voleva rompere guerra contra el contato de Ferreti, che sono Todeschi, et haveva mandato Jacomo Monsignore de Savoya al principiare la guerra contra quelli de Berna. Altro dice non havere intexo di novo. Me parso de quanto sento avisarne la V. Ex ma S. ala qual sempre devotamente me ricomando.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. V tuto hodinu sem přijel jeden cremonský voják, který přichází z Burgundska; zeptal jsem se ho na noviny z oněch končin. Sdělil mi, že asi před 20 dny odešel z Burgundska a nechal nejjasnějšího pana vévodu [burgundského] v jednom městě jménem Saint-Nicolas v Lotrinsku, a říká, že Jeho Excelence dobyla celou zemi zvanou Lotrinsko kromě dvou měst, jednoho jménem Nancy a druhého Épinal. U Jeho Výsosti byl jasný pan don Federico, kterého velmi hýčkal; a říkalo se, že chce začít válku proti hrabství Ferrette, kde jsou Němci, a že poslal pana Jakuba Savojského [hraběte z Romontu] zahájit válku proti těm z Bernu. Nic jiného nového prý neslyšel. Zdálo se mi dobré zpravit Vaši nejvznešenější Milost o tom, co slyším; jí se vždy oddaně doporučuji."
+  },
+  {
+   "text": "Cremone die 28 octobris 1475.",
+   "preklad": "V Cremoně 28. října 1475."
+  },
+  {
+   "text": "E. V. E ciae .",
+   "preklad": "Vaší Excelence"
+  },
+  {
+   "text": "Firmat. Fidelissimus servitor Jacobus Bonarellus.",
+   "preklad": "Podepsán: nejvěrnější služebník Jacobus Bonarellus."
+  },
+  {
+   "text": "A tergo: Illustrissimo principi etc. dno Galeaz Marie Sfortie vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd. panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Saint-Nicolas , département de la Meurthe. Le duc de Bourgogne était arrivé le 30 septembre à La Neuville, près St-Nicolas, où il séjourna jusqu’au 3 octobre. ( Lenglet, t. II, p. 218.) a Nancy , capitale du duché de Lorraine.",
+  "3 Epinal, chef-lieu du département des Vosges.",
+  "4 D. Frédéric, prince de Tarente. (Voir Lenglet, 1. c.)",
+  "5 Le comté de Ferrette (Haut-Rhin.)",
+  "6 Jacques de Savoie, comte de Komont et seigneur du Pays de Vaud.",
+  "Fidelissimus servitor Jâcobus Bonarellus.",
+  "Illustrissimo principi etc. dno Ga- leaz Marie Sfortie vicecomiti duci Mediolani etc.",
+  "DBS AMBASSADEURS MILANAIS. 251",
+  "Le duc Charles le nomma son lieutenant-général en Bourgogne, au mois d’octobre 1475. (De La Barre, 1. c. Il, 270.)",
+  "1 Les Bernois tenaient encore garnison dans quelques places de la Haute-Bourgogne et du Mont-Jura, et notamment à Jougne."
+ ],
+ "poznamky": [
+  "Oprava dělení: podpis („Fidelissimus servitor Jacobus Bonarellus“) a adresa na rubu zapadly do poznámek editora; doplněny zpět do originálu (pole poznamky_editora ponecháno beze změny). Odstraněna čísla poznámek, „maricomando“ = me ricomando.",
+  "Gingins: Saint-Nicolas(-de-Port) (dép. Meurthe); vévoda přišel 30. září do La Neuville u Saint-Nicolas a zůstal tam do 3. října. Nancy byla hlavním městem Lotrinska, Épinal leží ve Vosges. Don Federico je kníže z Tarentu, Ferrette je hrabství v Horním Alsasku.",
+  "Gingins: Jakub Savojský, hrabě z Romontu a pán Vaudu; Karel Smělý ho v říjnu 1475 jmenoval svým generálním místodržitelem v Burgundsku. Bernští ještě drželi posádky v některých místech Horního Burgundska a Jury, zejména v Jougne."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Cremonský voják vracející se z Burgundska vypráví, že Karel Smělý dobyl celé Lotrinsko kromě Nancy a Épinalu a hostí knížete z Tarentu. Chystá prý válku proti Ferrette a hraběte z Romontu poslal zahájit válku proti Bernu."
+}

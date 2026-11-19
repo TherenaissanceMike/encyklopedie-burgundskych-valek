@@ -1,0 +1,57 @@
+{
+ "cislo": 107,
+ "rimske": "CVII",
+ "nadpis": "CVII. Francisque Petra-Santa au duc de Milan. Turin, le 25 février 1476.",
+ "odesilatel": "Francisque Petra-Santa au duc de Milan.",
+ "misto_datum": "Turin, le 25 février 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CVII (ř. 3381–3403 souboru edice)",
+ "obsah_editora": "L’évêque de Turin et le secrétaire Dupuis mandent, en date du 21 courant, au président du sénat de Turin, que le duc de Bourgogne est campé près de Grandson, — On dit qu’il a offert aux Allemands ou Suisses 100.000 florins si ils voulaient se mesurer avec lui en rase “293 campagne. — Ils auraient refusé, disant qu’ils sont prêts à combattre, mais en prenant leur avantage. — L’évêque écrit de plus que le duc rencontrera dans son entreprise des difficultés de plus d'un genre. — La ville de Fribourg, entr’autres, est bien mieux approvisionnée et pourvue d’artillerie que ne l’était la ville de Neuss, et elle est aussi plus fortement assise. — On compte cependant sur des divisions parmi les Suisses. — Le peuple impute la guerre à l’ambition de l’aristocratie et lui reproche de l’avoir provoquée. — Aussi les principaux chefs ont-ils hâte d’en venir aux mains, avant que la discorde ait éclairci les rangs et refroidi l’ardeur de leurs gens.",
+ "odstavce": [
+  {
+   "text": "CVIII. Francisque Petra-Santa au duc de Milan. Turin, le 25 février 1476.",
+   "preklad": "CVII. Francesco Petrasanta milánskému vévodovi. Turín, 25. února 1476"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": "Il vesco di Turino et Deputheo secretano hanno scritto al Presidente qua per lettere de 21 : corno il Duca di Borgogna quale e a campo a Granson ha proferto centomilla fiorini de ... . alli Alamani se vogliono havere a far con se alla campagna in loco piano, et che essi non hanno voluto acceptare, diceno bene vogliono omnino haverse a fare con luy, ma chiascuno a suo avantagio. Scriveno etiam dubitare che questa impresa sara assay diffìcile al Duca per molti rispetti. Inter cetera che Filiborgo e sanza comparatione meglio fornito di artigliaria et de victuaglia che non era Nussa, et anche essere piu forte. Ma havere assay conforto che tra li Alamani nasce dissensione, che li populari dano imputatione alli majorenghi che sono stati causa di metterli in questa guerra ; unde si stima che presto habiano a venire alle mane, anzi che venga maggiore discordia et li animi se refredano, et questo farano li principali dessi Alamani.",
+   "preklad": "Biskup turínský a sekretář Dupuis (Deputheo) napsali zdejšímu předsedovi [senátu] v listech z 21., že vévoda burgundský, který leží v poli u Grandsonu, nabídl Němcům sto tisíc zlatých …, budou-li se s ním chtít utkat v poli na rovině, a že to oni nechtěli přijmout. Říkají sice, že se s ním rozhodně chtějí utkat, ale každý ke své výhodě. Píšou také, že se obávají, že tento podnik bude pro vévodu z mnoha ohledů velmi obtížný. Mimo jiné že Fribourg je nesrovnatelně lépe zásoben děly i potravinami, než byl Neuss, a je také silnější. Velkou útěchu však mají v tom, že mezi Němci vzniká nesvornost: obyčejný lid viní předáky, že ho uvrhli do této války. Proto se soudí, že se brzy pustí do boje, dřív než nastane větší svár a mysli vychladnou, a to udělají přední muži těchto Němců."
+  },
+  {
+   "text": "Taurini die dominico 25 februarij 1476.",
+   "preklad": "V Turíně v neděli 25. února 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Franciscus Petrasancta."
+  },
+  {
+   "text": "A tergo : Ill mo principi et dno Galeaz Marie Sfortie vicecomiti duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a pánu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "2 Avant de passer les monts, la duchesse de Savoie avait laissé 1 e gouvernement du Piémont au sénat de Turin, présidé par Antoine de Champion, seigneur de Beauregard, en Genevois. (Ibid. p. 570.)",
+  "5 Fribourg, ville alliée des Suisses, mais soumise à la suzeraineté de la couronne de Savoie.",
+  "4 Neuss, sur le Rhin, dans le diocèse de Cologne.",
+  "5 Fr. Petra-Santa, accrédité par le duc de Milan près le gouvernement intérimaire du Piémont."
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední odstavec byl Gingingsova poznámka 1 (biskup turínský = Jean de Compeys), odstraněna. Opraveno OCR „Atamani“ > „Alamani“ (2×), „Firmai“ > „Firmat“, odstraněna čísla poznámek. Tečky po „fiorini de“ jsou mezera v edici.",
+  "Gingins: před odchodem přes hory svěřila vévodkyně savojská správu Piemontu turínskému senátu, jemuž předsedal Antoine de Champion, pán z Beauregardu; Fribourg byl spojencem Švýcarů, ale pod savojskou svrchovaností; Petrasanta byl milánským vyslancem u prozatímní vlády Piemontu.",
+  "Zajímavé: Karel prý nabídl Švýcarům 100 000 zlatých, utkají-li se s ním na otevřené rovině; ti odmítli bojovat jinak než „každý ke své výhodě“, tj. na zvoleném terénu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Podle zpráv z burgundského tábora nabídl Karel Smělý u Grandsonu Švýcarům 100 000 zlatých za bitvu na rovině, ti však odmítli. Fribourg je prý lépe zásoben než Neuss, ale mezi Švýcary roste nesvornost mezi lidem a předáky."
+}

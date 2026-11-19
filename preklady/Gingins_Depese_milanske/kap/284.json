@@ -1,0 +1,60 @@
+{
+ "cislo": 284,
+ "rimske": "CCLXXXIV",
+ "nadpis": "CCLXXXIV. Antoine d’ Appiano au duc de Milan. Chambéry, 17 décembre 1476.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Chambéry, 17 décembre 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXXIV (ř. 9456–9472 souboru edice)",
+ "obsah_editora": "Des lettres arrivées de France disent que l’humeur du duc de Bourgogne est altérée au point qu’il s’est retiré à Saint-Nicolas, à deux lieues de son camp, qui est toujours à l’entour de Nancy.",
+ "odstavce": [
+  {
+   "text": "CCLXXXIV. Antoine d’ Appiano au duc de Milan. Chambéry, 17 décembre 1476.",
+   "preklad": "CCLXXXIV. Antonio d'Appiano milánskému vévodovi. Chambéry, 17. prosince 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore mio. — (Omissis omittendis.) — Monsignore de Malliarexe me ha dicto havere havuto hogi lettere di Franza per le quale e avisato, che Duca de Borgogna e alterato in modo e ritirato a Santo Nicola fora del campo suo circha doe leghe, et lo campo persevera pur intorno Nansi.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechává se, co se má vynechat.) — Pan de Malliarexe [?] mi řekl, že dnes dostal listy z Francie, z nichž se dozvídá, že burgundský vévoda je tak rozrušen [„alterato“], že se uchýlil do Saint-Nicolas, asi dvě míle (leghe) mimo svůj tábor, a tábor přesto zůstává kolem Nancy."
+  },
+  {
+   "text": "Ex Ciamberyaco 17 decembris 1476.",
+   "preklad": "Z Chambéry 17. prosince 1476."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmai. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Appiano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Ill mo et Ex mo Principi Galeaz Marie Sfortie",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti Galeazzovi Mariovi Sforzovi"
+  },
+  {
+   "text": "Vicecomiti Duci Mediolani.",
+   "preklad": "Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Lisez Monsig. de Mallìar, usciere; le sieur Jeau Maillar, huissier du conseil du roi (?) (Pièces de Commîmes, édit. Dupont t. III, p. 96.)",
+  "* Saint-Nkobs-de-Port, petite ville fortifiée, sur la rive gauche de la Meurthe, à deux lieues au-dessus de Nancy, sur la route de Lune- ville et de Bâle."
+ ],
+ "poznamky": [
+  "Oprava OCR: „eavisato“ → „e avisato“, „Aplano“ → „Appiano“, „Vèstre“, čísla poznámek. „Firmai.“ = „Firmat.“",
+  "Gingins: číst snad „Monsig. de Malliar, usciere“, tj. Jean Maillar, dveřník královské rady (?).",
+  "Gingins: Saint-Nicolas-de-Port, malé opevněné město na levém břehu Meurthe, dvě míle nad Nancy, na cestě do Lunéville a Basileje.",
+  "Zajímavé: necelé tři týdny před bitvou u Nancy (5. 1. 1477) se šíří zprávy o Karlově rozrušené mysli a o tom, že pobývá mimo obléhací tábor."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano z Chambéry hlásí podle listů z Francie, že Karel Smělý je tak rozrušen, že se stáhl do Saint-Nicolas-de-Port mimo tábor, který dál obléhá Nancy."
+}

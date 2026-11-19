@@ -1,0 +1,52 @@
+{
+ "cislo": 233,
+ "rimske": "CCXXXIII",
+ "nadpis": "CCXXXIII. J.-P. Panigarola au duc de Milan. Du camp devant Morat 14 juin 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "Du camp devant Morat 14 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXXXIII (ř. 8025–8039 souboru edice)",
+ "obsah_editora": "Si dans l’intervalle de trois ou quatre jours les Suisses qui sont rassemblés se décident à tenter une attaque sur le camp bourguignon, on suppose que ce sera pour demain qui est un samedi , —parce qu’ils ont l'habitude de préférer le samedi à tout autre jour de la semaine pour exécuter ce qu’ils ont résolu.",
+ "odstavce": [
+  {
+   "text": "CCXXXIII. J.-P. Panigarola au duc de Milan. Du camp devant Morat 14 juin 1476.",
+   "preklad": "CCXXXIII. Giovanni Pietro Panigarola milánskému vévodovi. Z tábora před Murtenem, 14. června 1476"
+  },
+  {
+   "text": "Illustriss mo et Excellentiss.mo Signor mio.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": ". Se questi Suiceri che sono uniti anno ad moversi contra questo campo de tre o quatro giorni stima se sara domane, perche lo sabato loro sempre fanno quello che voleno fare piu che in altro giorno. Che seguirà avisaro V. Ex tia , ala quale me riccomando.",
+   "preklad": "… Mají-li se tito Švýcaři, kteří jsou spojeni, pohnout proti tomuto táboru během tří nebo čtyř dnů, odhaduje se, že to bude zítra, protože v sobotu vždy dělají to, co chtějí udělat, víc než v kterýkoli jiný den. Co bude následovat, oznámím Vaší Excelenci, jíž se doporučuji."
+  },
+  {
+   "text": "Ex Castris contra Morat die 14 Junii 1476.",
+   "preklad": "Z tábora před Murtenem, dne 14. června 1476."
+  },
+  {
+   "text": "Firmai. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Illustrissimo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "14. června 1476 byl pátek, „zítra“ je tedy sobota 15. června. Tečka na začátku druhého odstavce je v edici zřejmě znamením vynechaného textu.",
+  "Opravy OCR: „Excellentes 010“ → „Excellentiss.mo“, „Paniciiarola“ → „Panicharola“.",
+  "Zajímavé: V burgundském táboře se věřilo, že Švýcaři útočí nejraději v sobotu. Bitva u Grandsonu (2. března 1476) i bitva u Murtenu (22. června 1476) se skutečně odehrály v sobotu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "V burgundském táboře před Murtenem se čeká švýcarský útok, a to nejspíš v sobotu 15. června, protože Švýcaři prý své podniky nejraději provádějí v sobotu."
+}

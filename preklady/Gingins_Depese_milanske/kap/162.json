@@ -1,0 +1,55 @@
+{
+ "cislo": 162,
+ "rimske": "CLXII",
+ "nadpis": "CLXII. Antoine d’Appiano au duc de Milan. Lausanne, le 9 avril 1476.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Lausanne, le 9 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXII (ř. 5637–5653 souboru edice)",
+ "obsah_editora": "Un homme à cheval arrivé à l’instant, à bride abattue, annonce à la duchesse de Savoie qu’une grosse bande d’Allemands a passé la montagne qui domine le bourg de Montreux, près de Vevey. — Madame a immédiatement envoyé cet homme au camp pour informer le duc de Bourgogne de ce fait. — On pense que l’affaire n’aura pas de suites, à moins que l’ennemi n’ait eu le temps de surprendre ce bourg pour le piller et le brûler.",
+ "odstavce": [
+  {
+   "text": "CLXIII. Antoine d’Appiano au duc de Milan. Lausanne, le 9 avril 1476.",
+   "preklad": "CLXII. Antonio d'Appiano milánskému vévodovi. Lausanne, 9. dubna 1476"
+  },
+  {
+   "text": "In questo pondo partendomi da Corte, e venuto un homo a cavallo tutto battante ad avisare Madama che molti Alamani sonno passati un certo monte et sonno presso Montiron, qual loco e appresso Vives, terre vicine a questo laco de Ginevra. E stato mandato dicto homo in campo a fare intendere questo a Monsig.re de Borgogna ; penso sara nulla, salvo si cum presto assalto potesserono havere dicto loco, sachezarlo et brasarlo.",
+   "preklad": "Právě v tuto chvíli, když jsem odcházel ode dvora, přijel cvalem jeden jezdec oznámit paní, že mnoho Němců přešlo jakousi horu a jsou u Montreux [Montiron], což je místo u Vevey [Vives], v končinách při tomto Ženevském jezeře. Ten muž byl poslán do tábora, aby to oznámil panu burgundskému. Myslím, že to nebude nic, leda by se jim podařilo rychlým útokem to místo dobýt, vyplenit a vypálit."
+  },
+  {
+   "text": "Ex Lusana 9 Aprilis 1476.",
+   "preklad": "Z Lausanne 9. dubna 1476."
+  },
+  {
+   "text": "Ejusdem Celsitudinis vestre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmai. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et Excellent.mo Domino Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Montreux, chef-lieu du cercle des Planches, district de Vevey, au pied du passage de la Dent de Jaman.",
+  "2 C’était la même troupe composée de Fribourgeois sous la conduite du capitaine Krebs, et des gens de la haute Gruyère, qui, peu de jours auparavant, avait barré le passage de la Time au détachement bourguignon envoyé contre le comte de Gruyère (voir ci-devant la dépêche du 6 avril, n» clvi) et qui, profitant de ce succès, s’était jetée sur le district de Yevey en traversant la montagne au col de Jaman."
+ ],
+ "poznamky": [
+  "Opravy OCR: vypuštěna čísla poznámek, „Devotissima“ → „Devotissimus“, „Excellent\" 10“ → „Excellent.mo“. „In questo pondo“ = in questo punto.",
+  "Gingins: Montiron = Montreux, pod průsmykem Dent de Jaman; Vives = Vevey.",
+  "Gingins: šlo o tutéž skupinu Fribourgských pod kapitánem Krebsem a lidí z horní Gruyère, která několik dní předtím zatarasila burgundskému oddílu průchod u La Tine (Gingins odkazuje na depeši z 6. dubna „č. CLVI“, myšlena je č. CLVII) a po tomto úspěchu vpadla přes sedlo Jaman do okresu Vevey."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Do Lausanne přijel posel s hlášením, že početní Němci přešli horu a stojí u Montreux u Vevey; zpráva byla poslána Karlu Smělému do tábora. Appiano soudí, že nejde o nic vážného, pokud místo nepřepadnou a nevypálí."
+}

@@ -1,0 +1,53 @@
+{
+ "cislo": 36,
+ "rimske": "XXXVI",
+ "nadpis": "XXXVI. Le Lieutenant du gouverneur du Val-de-Blénio, au duc de Milan. Val-Blénio, 29 avril 1475.",
+ "odesilatel": "Le Lieutenant du gouverneur du Val-de-Blénio, au duc de Milan.",
+ "misto_datum": "Val-Blénio, 29 avril 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXXVI (ř. 1491–1508 souboru edice)",
+ "obsah_editora": "Le lieutenant et les préposés des communes du Val-Blenio annoncent au duc de Milan qu’ensuite des ordres transmis par ses commissaires envoyés à Bellinzona, touchant la publication de l’alliance conclue avec le duc de Bourgogne, cette publication a été faite avec la solennité prescrite dans toutes les communes de la vallée, où elle a répandu une allégresse générale.",
+ "odstavce": [
+  {
+   "text": "XXXVII. Le Lieutenant du gouverneur du Val-de-Blénio, au duc de Milan. Val-Blénio, 29 avril 1475.",
+   "preklad": "XXXVI. Zástupce správce údolí Blenio milánskému vévodovi. Val di Blenio, 29. dubna 1475"
+  },
+  {
+   "text": "Illustrissime princeps et excellentissime domine domine noster quamplurimum metuendissime. Cum ea reverentia quanta magis decuit recepimus copiam litterarum vestrarum comissario vestro Birinzone transmissarum cum copia publicationis et cride in ipsis litteris vestris incluxe mentionem facientibus de liga, intelligentia et confederatione inita inter excellentiam vestram et illustrem dominum dominum Carlum ducem Burgondie.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane, pane náš nanejvýš obávaný. S takovou úctou, jaká se nejvíce slušela, jsme obdrželi opis Vašeho listu, zaslaného Vašemu komisaři v Bellinzoně, spolu s opisem vyhlášení a provolání v tom listu přiloženým, jež se zmiňují o lize, dorozumění a spojenectví uzavřeném mezi Vaší Excelencí a nejjasnějším pánem, panem Karlem, vévodou burgundským."
+  },
+  {
+   "text": "Quas lectas et intellectas non cum modico gaudio et letitia illam proclamari et publicari fecimus in locis consueti secundum tenorem prefatarum litterarum vestrarum et publicationis predicte, nec non per totum chorum et clericatum dignas processiones fieri fecimus. Ceterum frilodia et sollemnitates libenti animo fecimus cum sonitibus campanarum et alijs solemnitatibus in simillibus necessarijs et consuetis in et per totam vestram vallem Bellegnij abaque excercendo que per fideles subditos vestre dominationis facere pertinet erga dominationem et excellentiam vestram, cui nos devote recomissos facimus genibus flectis : totamque comunitatem vestre vallis Belegnij congregare fecimus in signum gaudij et letitie premissorum omnium ut veri fideles et subditi prefate dominationis vestre. Altissimus eandem conservet in bono statu. Ex Belegnio die 28 Aprilis 1475.",
+   "preklad": "Když jsme jej přečetli a porozuměli mu, s nemalou radostí a veselím jsme ji [ligu] dali provolat a vyhlásit na obvyklých místech podle znění řečeného Vašeho listu a vyhlášení a také jsme dali celým kůrem a duchovenstvem vykonat důstojná procesí. Dále jsme ochotnou myslí konali slavnosti [?] a oslavy za zvuku zvonů a s jinými slavnostmi, jaké jsou v podobných případech potřebné a obvyklé, na všech místech Vašeho údolí Blenio [?], konajíce, co náleží věrným poddaným Vašeho panství vůči panství a Excelenci Vaší, jíž se na kolenou oddaně doporučujeme. A celou obec Vašeho údolí Blenio jsme dali shromáždit na znamení radosti a veselí ze všeho výše řečeného, jako praví věrní a poddaní řečeného Vašeho panství. Nejvyšší je zachovej v dobrém stavu. Z Blenia dne 28. dubna 1475."
+  },
+  {
+   "text": "Ejusdem dominationis vestre",
+   "preklad": "Vašeho panství"
+  },
+  {
+   "text": "Fidelissimi servitores et subditi locumtenentes domini vicarij procuratores consules consiliarii et comune et hommes totius vallis Belegnij.",
+   "preklad": "nejvěrnější služebníci a poddaní: místodržící pana vikáře, prokurátoři, konšelé, radní a obec i muži celého údolí Blenio."
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et Excellentissimo Domino Domino Galeaz Marie Sforzie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' Bellinzona, chef-lieu du canton actuel du Tessin, dans la Suisse italienne.",
+  "* Le Val Blegno ou Blénio, l’une des vallées latérales de la Léven- tine, arrosée par le Blénio, affluent du Tessin, dans la Suisse italienne."
+ ],
+ "poznamky": [
+  "Gingins: komisař v Bellinzoně – Bellinzona, dnes hlavní město kantonu Ticino.",
+  "Gingins: Val Blenio (Blegno) je boční údolí Leventiny, protéká jím Brenno (Gingins: Blénio), přítok Ticina.",
+  "Datum: list je v textu datován 28. dubna 1475, Gingins v nadpisu uvádí 29. dubna.",
+  "Nejisté čtení: „frilodia“ snad za tripudia (slavnosti); slova „abaque excercendo“ jsou zřejmě porušená, přeloženo podle smyslu. Opraven zbytek záhlaví strany („DÉPÊCHES“) a další drobné chyby OCR (fleetis → flectis, very → veri, conciliari] → consiliarii).",
+  "Zajímavé: milánsko-burgundská liga (z 30. 1. 1475) se v milánských alpských údolích při hranici se Spříseženci slavnostně vyhlašovala s procesím a zvoněním – i tento lid měl vědět, na čí straně Milán stojí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z latinského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Obec údolí Blenio oznamuje vévodovi, že podle jeho rozkazu slavnostně vyhlásila spojenectví Milána s Karlem Smělým, s procesím, zvoněním a shromážděním celé obce."
+}

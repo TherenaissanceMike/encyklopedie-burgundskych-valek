@@ -1,0 +1,73 @@
+{
+ "cislo": 80,
+ "rimske": "LXXX",
+ "nadpis": "LXXX. Le chancelier Cecco Simonetta au duc de Milan. Vigevano, 6 septembre 1475.",
+ "odesilatel": "Le chancelier Cecco Simonetta au duc de Milan.",
+ "misto_datum": "Vigevano, 6 septembre 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXX (ř. 2687–2708 souboru edice)",
+ "obsah_editora": "Baptiste de Marin, qui avait quitté Lyon le lundi 28 août précédent, et qui a passé à Asti le lundi suivant, 4 septembre, assure que messire (Jean Tiercelin), seigneur de Brosse, était attendu le lendemain ou le surlendemain dans cette dernière ville. — Interpellé au sujet des nouvelles qui circulaient à Lyon à son départ, le dit Baptiste dit qu’un personnage de la cour, qui venait d’arriver, annonçait que les rois de France et d’Angleterre avaient fait une trêve de sept ans ; que le dernier donnerait en mariage une de ses filles au dauphin, et qu’ils s’entendraient ultérieurement à ce sujet. — Que, d’un autre côté, le connétable de Sl-Pôl avait reçu du roi de France plein pouvoir pour conclure un accommodement entre S. M. et le due de Bourgogne. — Ce sont là des choses graves, que le chancelier considère, pour sa part, comme fâcheuses dans le moment présent, et qui no peuvent guère tourner à l’avantage de sa cour. Illustrissime princeps et (ine fine singularissime.",
+ "odstavce": [
+  {
+   "text": "LXXXI. Le chancelier Cecco Simonetta au duc de Milan. Vigevano, 6 septembre 1475.",
+   "preklad": "LXXX. Kancléř Cicco Simonetta milánskému vévodovi. Vigevano, 6. září 1475"
+  },
+  {
+   "text": "Illustrissime princeps et [dne mi?] singularissime.",
+   "preklad": "Nejjasnější kníže a pane můj nejjedinečnější."
+  },
+  {
+   "text": "Baptista de Marin, quale e zonto qua in questhora, domandandolo quando se parti da Lyon, dice chel si parti lunedi passato forono otto di, et questo lunedi proximo, che fo a di 4 del presente, zonse in Ast: dice monsignor de Brosse 1 debbe zonzere domani o laltro in Ast: lho domandato si ad Lyon al suo partire era altro de novo, dice che era zonto uno dala corte del Re, quale referisse el Re de Franza ha facto tregua per 7 anni col Re de Inghilterra, et che toglie una sua fiola per lo Delphino et che se dovevano parlare insieme dicti doy Rey per questo.",
+   "preklad": "Baptista de Marin, který sem právě teď přijel, mi na otázku, kdy odjel z Lyonu, řekl, že odjel minulé pondělí před osmi dny a toto pondělí, totiž 4. tohoto měsíce, přijel do Asti. Říká, že pan z Brosse má do Asti přijet zítra nebo pozítří. Ptal jsem se ho, zda bylo v Lyonu při jeho odjezdu něco nového; říká, že tam přijel jeden [člověk] od královského dvora, který vypráví, že král Francie uzavřel s králem anglickým příměří na 7 let, že bere jednu jeho dceru za [manželku] dauphinovi a že se kvůli tomu mají zmínění dva králové spolu sejít."
+  },
+  {
+   "text": "Item chel contestabile se intrometteva ad accordare dal altro canto el duca de Burgogna col Re de Franza, et chel dicto Re gli aveva dato de ciò pieno arbitrio, che andasse ad fare dicto accordio : queste sono grandi cose et quale non voria lavessero loco al presente quanto per lo gusto mio, perche non credo che fossero ad nostro proposito.",
+   "preklad": "Dále, že konetábl se z druhé strany vkládá do smiřování vévody burgundského s králem Francie a že mu král k tomu dal plnou moc, aby šel tu dohodu uzavřít. To jsou velké věci a podle mého soudu bych si nepřál, aby k nim došlo právě teď, protože si nemyslím, že by nám byly k užitku."
+  },
+  {
+   "text": "Mando queste lettere alligate sono venute in questhora.",
+   "preklad": "Posílám přiložené listy, které právě teď přišly."
+  },
+  {
+   "text": "Ex Viglevano 6 Septembris 1475.",
+   "preklad": "Z Vigevana 6. září 1475."
+  },
+  {
+   "text": "Ill me Dominationis Vestre",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Servitor Cichus.",
+   "preklad": "služebník Cicco."
+  },
+  {
+   "text": "A tergo: Johanni Simonetta filio amantissimo etc.",
+   "preklad": "Na rubu: Giovannimu Simonettovi, nejmilejšímu synovi atd."
+  },
+  {
+   "text": "Villenove, cito cito.",
+   "preklad": "Villanova [?], rychle, rychle."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Jean Tiercelin, seigneur de Brosse, chambellan du roi Louis XI, et gouverneur du jeune duc d’Orléans, plus tard roi sous le nom de Louis XII. (Voir Commines, édit. Dupont, t. I er , p. 320, note 1.)",
+  "4 La trêve de 7 ans conclue à Amiens le 29 août 1475. ( Lenglet , t. III, p. 397.)",
+  "5 Louis de Luxembourg, comte de St-Pôl, connétable de France.",
+  "* Vigevano, province de Novare, Piémont.",
+  "* Cecco Simonetta, dit le Calabrais, chancelier et premier ministre du duc de Milan."
+ ],
+ "poznamky": [
+  "Oprava dělení: oslovení „Illustrissime princeps et (ine fine singularissime.“ zapadlo na konec Gingingsova obsahu (obsah_editora); přeneseno do odstavců, zkomolené „(ine fine“ nahrazeno nejistou konjekturou „[dne mi?]“. Spojeny dva odstavce rozdělené zlomem strany uprostřed věty; OCR „(lieto Re“ opraveno na „dicto Re“, „Curri“ na „Cum“; odstraněna čísla poznámek.",
+  "Gingins: pan z Brosse = Jean Tiercelin, pán z Brosse, komoří Ludvíka XI. a vychovatel mladého vévody orleánského, pozdějšího Ludvíka XII. Podle Gingingsova obsahu odjel Baptista z Lyonu v pondělí 28. srpna a do Asti přijel v pondělí 4. září.",
+  "Gingins: jde o sedmileté příměří uzavřené v Amiens 29. srpna 1475 (Lenglet). Konetábl = Ludvík Lucemburský, hrabě ze Saint-Pol, konetábl Francie.",
+  "Gingins: Vigevano (provincie Novara); pisatel Cicco Simonetta, zvaný Kalabrijec, kancléř a první ministr milánského vévody.",
+  "Adresa na rubu zní na „Johanni Simonetta filio“, ačkoli edice depeši vede jako list vévodovi; Ciccův bratr se jmenoval Giovanni Simonetta (sekretář a historik), zda jde o něj, nebo o syna, z textu určit nelze. „Villenove“ je patrně místo, kde se adresát zdržoval.",
+  "Zajímavé: milánský kancléř vnímal smír Francie s Anglií a chystaný smír Francie s Burgundskem jako nepříznivý pro Milán, protože by uvolnil síly velmocí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Kancléř Simonetta předává zprávy posla z Lyonu: Francie a Anglie uzavřely sedmileté příměří spojené se sňatkem dauphina a konetábl má od krále plnou moc smířit ho s vévodou burgundským; Simonetta to považuje za nevýhodné pro Milán."
+}

@@ -1,0 +1,46 @@
+{
+ "cislo": 208,
+ "rimske": "CCVIII",
+ "nadpis": "CCVIII. Déclaration de Charles duc de Bourgogne, donnée au duc de Milan touchant la paix avec l’empereur, en date du camp de Lausanne 26 mai 1476.",
+ "odesilatel": "Déclaration de Charles duc de Bourgogne, donnée au duc de Milan touchant la paix avec l’empereur.",
+ "misto_datum": "camp de Lausanne, 26 mai 1476",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCVIII (ř. 7234–7246 souboru edice)",
+ "obsah_editora": "Le duc de Bourgogne déclare qu’il a compris le duc de Milan dans le traité perpétuel de paix et d’alliance conclu avec l’empereur et proclamé en dernier lieu; — que le duc de Milan sera considéré comme participant à l’alliance aussitôt qu’il aura formellement déclaré vouloir y être compris en ratifiant le traité de paix; —■ que lui, duc de Bourgogne , s’engage à faire en sorte que l’empereur accepte l’accession du duc de Milan et lui en donne acte par une déclaration publique.",
+ "odstavce": [
+  {
+   "text": "CCIX. Déclaration de Charles duc de Bourgogne, donnée au duc de Milan touchant la paix avec l’empereur, en date du camp de Lausanne 26 mai 1476.",
+   "preklad": "CCVIII. Prohlášení Karla, vévody burgundského, vydané milánskému vévodovi o míru s císařem, dané v táboře u Lausanne 26. května 1476"
+  },
+  {
+   "text": "(Copia.)",
+   "preklad": "(Opis.)"
+  },
+  {
+   "text": "Carolus dei gratia dux Burgondie etc. Universis presentes inspecturis salutem.",
+   "preklad": "Karel, z Boží milosti vévoda burgundský atd., všem, kdo uvidí tuto listinu, pozdrav."
+  },
+  {
+   "text": "Pacem quam perpetuam cum Cesarea Majestate hijs diebus conclusimus firmavimus et publicavimus pro viribus, ut par est, studebimus observare. Quomadmodum speramus imo procul dubio credimus Ipsum serenissimum Cesarem erga nos confederatosque nostros effecturum. In quorum numero confederatorum Illustrissimus Dux Mediolani frater et consanguineus noster carissimus locum obtinet non postremum. Et quia cum hoc in pace ex latere nostro comprehendimus prout comprehensus est; Declaramus per presentes illum non secus quod nos ipsos p.ta pace fruitur, modo eam approbet et ratificet. Cujus approbationem et ratificationem accepturi faciemus per Cesarem publico interveniente documento.",
+   "preklad": "Mír, který jsme v těchto dnech s Císařským Veličenstvem uzavřeli jako věčný, potvrdili a vyhlásili, budeme se, jak se sluší, ze všech sil snažit dodržovat, tak jako doufáme, ba bez jakékoli pochyby věříme, že totéž učiní sám nejjasnější císař vůči nám a našim spojencům. Mezi těmito spojenci zaujímá nikoli poslední místo nejjasnější vévoda milánský, náš nejdražší bratr a příbuzný. A protože jsme ho z naší strany do tohoto míru zahrnuli, jakož také zahrnut jest, prohlašujeme touto listinou, že řečeného míru požívá nejinak než my sami, jen když jej schválí a ratifikuje. Až jeho schválení a ratifikaci přijmeme, zařídíme, aby [je] císař [potvrdil] vydáním veřejné listiny."
+  },
+  {
+   "text": "Datum in Castris nostris prope Lacum Lausannensem die 26 maij anno domini MCCCC septuagesimo sexto.",
+   "preklad": "Dáno v našem táboře u Lausannského jezera 26. května léta Páně 1476."
+  },
+  {
+   "text": "Manca la firma, l'attergo e il sigillo.",
+   "preklad": "Chybí podpis, adresa na rubu a pečeť."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Cette déclaration répond à la demande contenue dans la lettre du duc de Milan au duc de Bourgogne, en date du 11 mai précédent, n* cxcvm."
+ ],
+ "poznamky": [
+  "Oprava dělení: latinský originál stál celý v obsah_editora a francouzský obsah editora v poli nadpis; originál přesunut do odstavců (pozdrav a vlastní text), francouzský obsah do obsah_editora, pole nadpis, misto_datum a rok opravena.",
+  "Opravy OCR: „gratta“ → „gratia“, „Btirgondie“ → „Burgondie“, „perpetuane“ → „perpetuam“, „ftrmavimus“ → „firmavimus“, „ilium“ → „illum“, „public o“ → „publico“, rozdělená slova. Ponecháno „cum hoc“ (smyslem „eum“, jeho), „quod“ a „fruitur“; přeloženo podle smyslu.",
+  "Gingins: prohlášení odpovídá na žádost v listu milánského vévody Karlovi z 11. 5. 1476 (č. CXCVIII edice). Lausannské jezero = Ženevské jezero. Poslední věta je italská poznámka opisovače."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z latinského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý prohlašuje, že do věčného míru nedávno uzavřeného s císařem Fridrichem III. zahrnul i milánského vévodu, který ho bude požívat, jakmile mír schválí a ratifikuje; slibuje také zařídit císařovo veřejné potvrzení."
+}

@@ -1,0 +1,58 @@
+{
+ "cislo": 282,
+ "rimske": "CCLXXXII",
+ "nadpis": "CCLXXXII. Jean-Augustin de Vimercato au duc de Milan. Cóme, 2 décembre 1476.",
+ "odesilatel": "Jean-Augustin de Vimercato au duc de Milan.",
+ "misto_datum": "Cóme, 2 décembre 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXXII (ř. 9412–9427 souboru edice)",
+ "obsah_editora": "Il vient de recevoir du commissaire d’Arona, sur le lac Majeur, des lettres qui lui mandent qu’une mêlée sanglante a eu lieu entre le duc de Bourgogne et les Allemands des hautes et basses ligues, etc.; — que ceux-ci avaient eu près de seize mille hommes tués, et que le duc en aurait perdu de son côté environ quatre mille. — On n’a pu apprendre ce qui a suivi cette bataille à cause de la grande quantité de neige qui intercepte les communications. — On ajoute cependant que les Bernois auraient envoyé des ambassadeurs au duc qui n’aurait pas voulu les entendre.",
+ "odstavce": [
+  {
+   "text": "CCLXXXII. Jean-Augustin de Vimercato au duc de Milan. Cóme, 2 décembre 1476.",
+   "preklad": "CCLXXXII. Giovanni Agostino da Vimercate milánskému vévodovi. Como, 2. prosince 1476"
+  },
+  {
+   "text": "Illustrissimo et excellentissimo Signore mio. In questa hora ho hauto litera dal Commissario de Laco Mazore, el quale me scrive come el Duca de Borgondia he stato ale mane cum li Alamani de la liga grande et con Bernesi, et ne ha morto circha 16 m Alamani, et de li soi ne morto circa a quatro milia, fa sua scusa de non havere poduto ben intendere el progresso del fato per essere tanto la neve grande che non se po passare; ma scrive ben che Bernesi anno mandato soi ambasatori al prefato Duca, el quale non li ha voluto oldire ne vedere; altro no scrive: a Vostra Excellentissima Segnoria sempre mi ricomando.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. V tuto hodinu jsem dostal list od komisaře na Lago Maggiore, který mi píše, že vévoda burgundský se utkal s Němci z velké ligy a s Bernskými a pobil asi 16 tisíc Němců, a z jeho lidí padlo asi čtyři tisíce. Omlouvá se, že nemohl dobře zjistit průběh věci, protože napadlo tolik sněhu, že se nedá projít; píše však, že Bernští poslali k řečenému vévodovi své vyslance a on je nechtěl ani slyšet, ani vidět. Nic jiného nepíše. Vaší nejvznešenější Jasnosti se ustavičně doporučuji."
+  },
+  {
+   "text": "Comi die 2 decembris 1476.",
+   "preklad": "V Comu dne 2. prosince 1476."
+  },
+  {
+   "text": "Ejusdem Vestre Illustrissime Dominationis Fidelissimus servitor",
+   "preklad": "Téže Vaší nejjasnější Jasnosti nejvěrnější služebník"
+  },
+  {
+   "text": "Johannes Augustinus de Vicomercato.",
+   "preklad": "Giovanni Agostino da Vimercate."
+  },
+  {
+   "text": "Soprascr. Illustrissimo principi etc. domino Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Adresa: Nejjasnějšímu knížeti atd. panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Mittantur per Cabalarios, cito, cito, in manibus Magnifici domini Cichi Simonete, per dominum refferendarium Comi quia important prò re Ducali.",
+   "preklad": "Ať se pošle po kurýrech, rychle, rychle, do rukou vznešeného pana Cicca Simonetty, skrze pana referendáře v Comu, neboť jde o důležitou věc vévodskou."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Il s’agit peut-être ici de l’échec essuyé par le duc de Lorraine et les Allemands à Pont-à-Mousson entre le 16 et le 20 octobre précédent et qui fut suivi de la retraite précipitée du duc René et des Allemands. (Voir D. Calmet, Histoire de Lorraine, t. V, p. 353 et suivantes.)",
+  "4 Des négociations pour une suspension d’armes d’abord et pour traiter de la paix entre les partis belligérents avaient été entamées vers la fin de septembre, reprises au mois de novembre par l’entremise de Vévêque de Forti, légat du pape Sixte IV; du protonotaire Georges Hesler et d’autres envoyés de l’empereur, et du chevalier Georges de Stein, au nom du roi Mathias de Hongrie. Loin de refuser la paix aux Confédérés, le duc Charles avait autorisé l’évêque de Forli, légat apostolique, de leur dire de sa part qu’il était prêt à envoyer vers eux des plénipotentiaires pour la traiter; — Voluntarius est mittere suos nuncios ad tractandas treguas aMt perpetuarti paeem (J. Knebel, Diarium, 1. c. p. 116.) — Ces négociations, continuées pendant tout le mois de décembre, échouèrent parce que les Suisses refusèrent de faire avec le duc de Bourgogne une paix dans laquelle le duc de Lorraine n’aurait pas été compris. (Voir J. de Muller, Histoire de la Suisse, t. VHI, p. 112 et suivantes.)"
+ ],
+ "poznamky": [
+  "Oprava OCR: odstraněna čísla poznámek, „Ga- leaz“, „Curri sigillo“ → „Cum sigillo“.",
+  "Originál uvádí „Commissario de Laco Mazore“ (komisař na Lago Maggiore); Gingins v obsahu píše „komisař v Aroně“.",
+  "„li Alamani de la liga grande“: velká liga = patrně švýcarské spříseženství (na rozdíl od Šedé ligy); Gingins: Němci z horních a dolních lig.",
+  "Gingins: snad jde o nezdar vévody lotrinského a Němců u Pont-à-Mousson mezi 16. a 20. říjnem, po němž René a Němci rychle ustoupili.",
+  "Gingins: jednání o příměří a míru začala koncem září a v listopadu pokračovala skrze biskupa z Forlì, legáta Sixta IV., protonotáře Georga Heßlera a další císařské posly a rytíře Georga von Stein za Matyáše Korvína. Karel Smělý byl ochoten vyslat ke spříseženců zmocněnce (Knebel); jednání selhala v prosinci, protože Švýcaři odmítli mír, do něhož by nebyl zahrnut vévoda lotrinský. Zpráva o odmítnutí bernských vyslanců tedy neodpovídá skutečnosti.",
+  "Zajímavé: zpráva o velkém burgundském vítězství (16 000 padlých Němců, 4000 Burgunďanů) je smyšlená; ukazuje, jak nespolehlivé byly zprávy přes zasněžené Alpy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Vimercate z Coma předává zprávu komisaře na Lago Maggiore, že burgundský vévoda porazil Švýcary a Bernské a pobil jich 16 tisíc za ztráty 4 tisíc; podrobnosti chybějí kvůli sněhu a bernské vyslance prý vévoda odmítl přijmout."
+}

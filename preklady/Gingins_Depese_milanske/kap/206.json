@@ -1,0 +1,58 @@
+{
+ "cislo": 206,
+ "rimske": "CCVI",
+ "nadpis": "CCVI. J. -P. Panigarola au duc de Milan. Lausanne, 19 mai 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, 19 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCVI (ř. 7195–7211 souboru edice)",
+ "obsah_editora": "Le duc de Bourgogne, vient d’envoyer 500 lances du côté de Fribourg pour renforcer les garnisons de la frontière du nord *, menacée par les Suisses. — Le bruit court que ces derniers se préparent à prendre l’offensive, etc.",
+ "odstavce": [
+  {
+   "text": "CCVII. J. -P. Panigarola au duc de Milan. Lausanne, 19 mai 1476.",
+   "preklad": "CCVI. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 19. května 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signor mio, ecc.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj atd."
+  },
+  {
+   "text": "P.to S.re a mandato già circa 300 lanze verso Filiborgo a fornire certe terre di confine et loci a cio Sviceri non li trovassero disforniti, quali danno voce si amassano per venirli a campo, et se intende pure che cercano unirsi, como ala giornata, etc.",
+   "preklad": "Řečený pán už poslal asi 300 kopí směrem k Fribourgu, aby obsadila některé pohraniční země a místa, aby je Švýcaři nenašli bez posádky; ti totiž rozhlašují, že se shromažďují, aby proti němu vytáhli do pole, a skutečně je slyšet, že se snaží spojit jako k bitvě atd."
+  },
+  {
+   "text": "Lossane 19 May 1476.",
+   "preklad": "Lausanne 19. května 1476."
+  },
+  {
+   "text": "Sottos. Servus",
+   "preklad": "Podepsán: služebník"
+  },
+  {
+   "text": "J. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Illustrissimo et excellentissimo principi",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti,"
+  },
+  {
+   "text": "Duci Mediolani, etc.",
+   "preklad": "vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "■ Savoir les petites villes fortifiées d ’Estavayer , de Payerne et A'A- venches, où le comte de Romont avait mis quelques troupes du pays, et que menaçaient les garnisons suisses ou allemandes de Fribourg et de Morat."
+ ],
+ "poznamky": [
+  "Opravy OCR: „P t0 S re“ → „P.to S.re“, „Sviceli“ → „Sviceri“, „Soltos.“ → „Sottos.“.",
+  "Gingins v obsahu uvádí 500 kopí, text má 300.",
+  "Gingins: pohraničními místy se myslí opevněná městečka Estavayer, Payerne a Avenches, kde měl hrabě z Romontu domácí vojsko a která ohrožovaly švýcarské posádky Fribourgu a Murtenu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý posílá asi 300 kopí k Fribourgu na posílení pohraničních míst, protože se Švýcaři podle zpráv shromažďují k útoku a k bitvě."
+}

@@ -1,0 +1,49 @@
+{
+ "cislo": 157,
+ "rimske": "CLVII",
+ "nadpis": "CLVII. Jean-Pierre Panigarola au duc de Milan. Lausanne, le 7 avril 1476.",
+ "odesilatel": "Jean-Pierre Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 7 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLVII (ř. 5518–5531 souboru edice)",
+ "obsah_editora": "Le détachement envoyé contre les Valaisans a élé renforce d’une arrière-garde; ces troupes forment un corps d’environ 4,000hommes. — On espère qu’elles se seront emparées du passage ; elles ont pour mission de saccager tout le Valais épiscopal.",
+ "odstavce": [
+  {
+   "text": "CLVIII. Jean-Pierre Panigarola au duc de Milan. Lausanne, le 7 avril 1476.",
+   "preklad": "CLVII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 7. dubna 1476"
+  },
+  {
+   "text": "Ill.mo et Ex.mo Signore. — (Omissis omittendis.) Quelli andarono ad correre contra Valesani si e rinforzita la coda di gente, in modo sono ben 4 m persone; si spera habieno pigliato il passo, e debiano sachezar quella vale integramente. Che seguirà lo intenderà V.Ex.ia , ala quale me ricomando.",
+   "preklad": "Nejjasnější a nejvznešenější pane. (Vynecháno, co vynechat.) Ti, kdo vyrazili do výpadu proti Valaisským, byli posíleni zadním vojem, takže je jich dobře 4 000 osob; doufá se, že se zmocnili průsmyku a že mají celé to údolí vyplenit. Co bude dál, se Vaše Excelence dozví; doporučuji se jí."
+  },
+  {
+   "text": "Lossane 7 aprilis 1476.",
+   "preklad": "Lausanne 7. dubna 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "J. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Ill.mo principi etc. dno Galeaz Marie Sforcie duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Do posledního odstavce zapadla Gingingsova poznámka 1; přesunuta sem (česky). Opravy OCR: „M quelli“ → „Quelli“ (zbloudilé „M“), „si e rinforziti) li coda“ → „si e rinforzita la coda“ (čtení nejisté), „tbieno“ → „habieno“, „sacliezar“ → „sachezar“.",
+  "„(Omissis omittendis.)“ stojí v edici; asi Gingingsovo nebo opisovačovo vynechání úvodu, přeloženo „Vynecháno, co vynechat“.",
+  "Gingins: viz poslední Panigarolovu depeši z 5. dubna (č. CLIV). Oddíl vedl pán z Miolans, pod ním Amédée de Gingins, pán z Belmontu, bailli z Gexu, a Claude de Menthon [OCR „îleathon“, čtení nejisté], pán z Rochefortu, bailli Chablais, s franc-archers (svobodnými lučištníky) země.",
+  "Gingins v obsahu mluví o „Valais épiscopal“; v textu stojí jen „quella vale“ (to údolí)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Oddíl vyslaný proti Valaisským byl posílen zadním vojem na asi 4 000 mužů. V táboře doufají, že obsadil průsmyk a vyplení celé údolí."
+}

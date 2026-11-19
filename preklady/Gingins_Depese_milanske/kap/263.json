@@ -1,0 +1,61 @@
+{
+ "cislo": 263,
+ "rimske": "CCLXIII",
+ "nadpis": "CCLXIII. J. -P. Panigarola au duc de Milan. Morez, 29 juin 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Morez, 29 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXIII (ř. 8823–8847 souboru edice)",
+ "obsah_editora": "II annonce qu’on vient d’apprendre d’une manière certaine que monseigneur le comte de Marie, fds aîné du défunt comte de St-Paul, connétable de France, a été tué dans la déroute de Moral, bien qu’il eût offert aux Allemands vingt-cinq mille ducats pour racheter sa vie; somme qu’il était bien en état de payer.—On apprend en outre que messire Antoine de Lignana, Jean-François Troylo, fils du vieux capitaine Troylo de Rossano, et le gouverneur de Nice, messire Antoine d’Orlier, ainsi que quatre ou cinq autres personnes de qualité ont péri dans la bataille. — Il pourra donner des détails plus précis sur ce sujet quand il sera arrivé à Salins, où se rassemblent tous les débris de l’armée fugitive et où l’on assure qu’un bon nombre de gens de guerre sont déjà arrivés.",
+ "odstavce": [
+  {
+   "text": "CCLXIII. J. -P. Panigarola au duc de Milan. Morez, 29 juin 1476.",
+   "preklad": "CCLXIII. Giovanni Pietro Panigarola milánskému vévodovi. Morez, 29. června 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signor mio. —",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. —"
+  },
+  {
+   "text": "Qui habiamo auto certeza che Mons re di Maria primogenito dii fo connestabile di Franza fo morto ala rotta ; quamvis volesse far taglia de 25 m ducati e ben li poteva pagare, cosi e morto messer Antonino da Legnana, Zoan Franc o fiolo di Troylo, el governatore de Niza Ant° dOrlie e quatro o cinque altri di conditione. A Salines mo saperasi piu oltra il tuto, perche li si reduce tuta larmata fugita, e già intendo ne sono insieme bona parte, et a la S. V. me ricomando.",
+   "preklad": "Zde jsme se jistě dozvěděli, že pan de Marle, prvorozený syn zesnulého konetábla Francie, zahynul při porážce, ačkoli chtěl dát výkupné 25 tisíc dukátů a dobře je mohl zaplatit. Stejně tak zahynul messer Antonino da Legnana, Zoan Francesco, syn Troilův, guvernér Nice Antonio d'Orlier a čtyři nebo pět dalších urozených. V Salins se teď o všem dozví víc, protože se tam shromažďuje všechno uprchlé vojsko, a slyším, že je tam už pohromadě dobrá část. Vaší Milosti se doporučuji."
+  },
+  {
+   "text": "Ex Morano die 29 Junii 1476.",
+   "preklad": "Z Morez dne 29. června 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panigarola.",
+   "preklad": "Jo. Petrus Panigarola."
+  },
+  {
+   "text": "A tergo : Ill mo Principi etc. dno Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Jean de Luxembourg, comte de Marie, fils aîné de Louis, comte de St-Paul, connétable de France, décapité à Paris le 19 décembre 1475. Le comte de Marie qui commandait V arrière-garde du duc Charles, campé au bord du lac devant Morat le 22 juin, fut poursuivi et atteint dans la déroute par l’ennemi qui ne lui fit point de quartier. (Olivier de La Marche, Mém., liv. V, chap. VIII.; — Molinet, 1. c. 1.1, p. 200 et 203.) s Antoine de Lignana. (Voir les dépêches n° ccl et cclxii ci-devant à la note 9.)",
+  "3 Jean-Franççis Troylo, fils du vieux capitaine napolitain du même nom. Il était de garde avec 200 lances à la porte méridionale de Morat au moment de la bataille. (Voir la dépêche suivante, n° cclxiv.)",
+  "4 Antoine d’Orlier, gouverneur de Nice. (Voir la dépêche de Petra- santa, n» cclxi ci-devant.)",
+  "3 Salins, ville de l’arrondissement de Poligny, département du Jura.",
+  "‘ Morano, Morez, chef-lieu de canton de l’arrondissement de St- Claude, département du Jura.",
+  "DEPECHES"
+ ],
+ "poznamky": [
+  "Opravy OCR: „Excellentes 1110“ > „Excellentissimo“, „Riesser“ > „messer“, „Frane 0“ > „Franc o“, „Se r vus“ > „Servus“; odstraněna čísla poznámek. V poznámkách editora je i zbytek záhlaví strany „DEPECHES“.",
+  "Gingins: pan de Marle = Jean de Luxembourg, hrabě z Marle, nejstarší syn Ludvíka, hraběte ze Saint-Pol, konetábla Francie, sťatého v Paříži 19. prosince 1475. Hrabě z Marle velel zadnímu voji vévody Karla, utábořenému u jezera před Murtenem; 22. června ho nepřítel na útěku dostihl a nedal mu pardon (Olivier de La Marche, Molinet).",
+  "Gingins: Antonio da Lignana (viz č. 250 a 262). Giovanni Francesco Troilo, syn starého neapolského kapitána téhož jména, držel v době bitvy s 200 kopími stráž u jižní brány Murtenu (viz č. 264). Antoine d'Orlier, guvernér Nice (viz č. 261).",
+  "Gingins: Salins, okres Poligny, departement Jura. Morano = Morez, okres Saint-Claude, departement Jura.",
+  "Zajímavé: Spříseženci u Murtenu nebrali zajatce ani za výkupné: hrabě z Marle nabízel 25 000 dukátů, a přesto byl zabit."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panigarola na ústupu v Morez potvrzuje smrt hraběte z Marle, který marně nabízel výkupné 25 tisíc dukátů, a dalších velitelů (Antonio da Lignana, Giovanni Francesco Troilo, Antoine d'Orlier); zbytky vojska se shromažďují v Salins."
+}

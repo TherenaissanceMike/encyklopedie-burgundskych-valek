@@ -1,0 +1,48 @@
+{
+ "cislo": 70,
+ "rimske": "LXX",
+ "nadpis": "LXX. Felix Ursino au duc de Milan. Alexandrie, 3 août 1475.",
+ "odesilatel": "Felix Ursino au duc de Milan.",
+ "misto_datum": "Alexandrie, 3 août 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXX (ř. 2360–2374 souboru edice)",
+ "obsah_editora": "On dit qu’après avoir fait la paix avec l’empire, le duc de Bourgogne s’est mis à porter le fer et le feu dans les terres d’un comte dont on n’a pu savoir le nom, pour le punir d’avoir attaqué ses gens pendant la guerre, quoique le comte eût promis de leur donner le libre passage sur ses domaines. — Le duc avait dû temporiser, et maintenant il use de représailles.",
+ "odstavce": [
+  {
+   "text": "LXXI. Felix Ursino au duc de Milan. Alexandrie, 3 août 1475.",
+   "preklad": "LXX. Felice Orsini milánskému vévodovi. Alessandria, 3. srpna 1475"
+  },
+  {
+   "text": "Illust mo Signor mio. — Di Borgogna intendo che quello duca doppo ha facto pace cum lo imperio se rivoltato contro uno conte che era suo adhérente, del quale non ho potuto sapere il nome, et che tutto el potere et tenuta de dicto adhérente esso duca mette a focho et a fiamma, et questo intendo che fa perche quando fue in guerra con lo imperio promisse esso conte star de mezzo dare passo al prefato duca, tamen poi ritornando le genti del duca per sue terre li ritolse le robbe haveano aguadagnato a certo loco sachezato, et che ha temporezato, et nunc vero li da daffare.",
+   "preklad": "Nejjasnější pane můj. — Z Burgundska slyším, že tamní vévoda, když uzavřel mír s říší, se obrátil proti jednomu hraběti, který byl jeho přívržencem a jehož jméno jsem se nemohl dozvědět, a že všechno panství a državy toho přívržence pustoší ohněm a mečem. Slyším, že to dělá proto, že když byl ve válce s říší, slíbil mu ten hrabě, že zůstane stranou a dá vévodovi průchod; ale potom, když se vévodovi lidé vraceli přes jeho země, vzal jim kořist, kterou získali v jednom vyplundrovaném místě. [Vévoda] tehdy vyčkával, ale nyní mu dává co proto."
+  },
+  {
+   "text": "Datum Alexandrie die tertio mensis Augusti.",
+   "preklad": "Dáno v Alessandrii 3. dne měsíce srpna."
+  },
+  {
+   "text": "Ill me D. V. Servitor",
+   "preklad": "Vaší nejjasnější Milosti služebník"
+  },
+  {
+   "text": "Felix Ursinus.",
+   "preklad": "Felice Orsini."
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Ex mo dno dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc. dno meo metuendissimo.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti a pánu, panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd., pánu mému nejctihodnějšímu."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Oprava dělení: vypuštěna Gingingsova poznámka (dva odstavce), která zapadla mezi odstavce originálu; OCR „E rao“, „raeo“ opraveno.",
+  "Gingins: jde pravděpodobně o Guillauma de La Marck, hraběte z Arembergu, zvaného Ardenský kanec, který se přidal na stranu císaře (Barante); hrabství Aremberg leželo v říši mezi vévodstvími Jülich a Lucemburk.",
+  "Datace listu neuvádí rok; Gingins jej řadí do roku 1475."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Felice Orsini slyšel, že Karel Smělý po míru s říší pustoší ohněm a mečem panství jakéhosi hraběte, který mu za války slíbil průchod, ale pak jeho vracejícím se lidem vzal kořist."
+}

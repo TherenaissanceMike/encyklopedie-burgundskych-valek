@@ -1,0 +1,51 @@
+{
+ "cislo": 35,
+ "rimske": "XXXV",
+ "nadpis": "XXXV. Antoine d’Appiano au duc de Milan. Montcalier, 26 avril 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 26 avril 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXXV (ř. 1472–1490 souboru edice)",
+ "obsah_editora": "Arrivée à Montcalier d’un envoyé de la ville de Fribourg (en Suisse) et retour de l’un des trois députés de la régente de Savoie à la Diète suisse; les deux autres qui sont Savoisiens, se sont arrêtés chez eux, en attendant de nouveaux ordres de Madame et prêts à les exécuter. — Ils disent l’un et l’autre avoir bon espoir que les choses pourront s’arranger à l’amiable, bien qu’on n’ait, à cet égard, aucune certitude. — L’ambassadeur ne sait trop que penser de ces variations continuelles. — On assure que la défense de Neuss ne pourra se prolonger, les assiégés manquant de poudre.",
+ "odstavce": [
+  {
+   "text": "XXXVI. Antoine d’Appiano au duc de Milan. Montcalier, 26 avril 1475.",
+   "preklad": "XXXV. Antonio d'Appiano milánskému vévodovi. Moncalieri, 26. dubna 1475"
+  },
+  {
+   "text": "Ill.mo et Ex.mo Signore mio. Pavigliardo Ambassatore Filiborgese e venuto, et e venuto Monsignore Dirascha uno deli tri ambassatori andati a Berna. Laltri duy sonno rimasti de la a case loro, perche sonno tramontani, per intendere la volunta di Madama et potere exeguire quanto fosse da fare. Questi duy venuti et un altro chiamato Pacchoto dicono che hanno bona speranza che le cose debiano pigliare qualche appontamento : pur certezza non gli e. Io non so que dire intendendo tante mutatione et variatione.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Přijel Pavigliardo [Pavillard], vyslanec Fribourgských, a přijel pán z Airasca, jeden ze tří vyslanců, kteří odjeli do Bernu. Ostatní dva zůstali tam [za horami] ve svých domovech, protože jsou zaalpští, aby se dozvěděli vůli paní [vévodkyně] a mohli vykonat, co bude třeba. Tito dva, kteří přijeli, a ještě jeden jménem Pacchoto říkají, že mají dobrou naději, že věci dospějí k nějakému narovnání; jistota však žádná není. Nevím, co říci, když slyším tolik změn a zvratů."
+  },
+  {
+   "text": "El piu forte consiste al facto de Nus; qual se dice non potrà diffenderse longo tempo, perche la polvere gli mancha.",
+   "preklad": "Nejvíc záleží na věci Neussu; říká se, že se nebude moci dlouho bránit, protože mu chybí prach."
+  },
+  {
+   "text": "Ex Montecallerio 26 Aprilis 1475.",
+   "preklad": "Z Moncalieri 26. dubna 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat: Divotissimus servulus Antonius de Aplano.",
+   "preklad": "podepsán: nejoddanější služebníček Antonio d'Appiano."
+  },
+  {
+   "text": "Senza l’attergo e il sigillo.",
+   "preklad": "Bez adresy na rubu a bez pečeti."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Monsig r JDirascha. — Le seigneur d’Airasque, près de Pignerol, en Piémont. — Louis d’Airasque figure parmi les seigneurs de la cour qui assistèrent aux funérailles du duc de Savoie, Amédée IX, en 1472. (Oui- chenon, Histoire de Savoie, t. I, p. 558.)"
+ ],
+ "poznamky": [
+  "Gingins: Pavigliardo je Petermann Pavillard, šultheis (avoyer) města Fribourgu v letech 1474–1476.",
+  "Gingins: „Monsignore Dirascha“ je pán z Airasca u Pinerola v Piemontu; Louis d'Airasque byl roku 1472 mezi dvořany na pohřbu vévody Amadea IX.",
+  "„Tramontani“ (zaalpští) – podle Gingingse jsou ti dva vyslanci Savojané ze severní strany Alp. Pacchoto blíže neurčen.",
+  "Opravy OCR: „IU mo“ → Ill.mo, „Firmai“ → Firmat; poznámka editora o Pavillardovi, která zapadla do odstavců, přesunuta sem."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Savojští vyslanci se vracejí ze sněmu v Bernu a s fribourgským šultheisem Pavillardem doufají ve smír se Spříseženci, Appiano však nevěří jejich proměnlivým zprávám. Neuss se prý pro nedostatek prachu dlouho neubrání."
+}

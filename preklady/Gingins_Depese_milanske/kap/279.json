@@ -1,0 +1,61 @@
+{
+ "cislo": 279,
+ "rimske": "CCLXXIX",
+ "nadpis": "CCLXXIX. J.-P. Panigarola au duc de Milan. M., près St-Claude (Jura), 19 octobre 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "M., près St-Claude (Jura), 19 octobre 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXIX (ř. 9347–9368 souboru edice)",
+ "obsah_editora": "En traversant le Jura pour retourner en Lombardie, l’ambassadeur milanais a vu l’abbé de Saint-Claude, qui est en même temps supérieur de l’abbaye de Casa-Nova eu Piémont. — L’abbé lui a dit que les Allemands ayant été défaits par les Bourguignons (au passage de la Moselle) le camp de Nancy avait été levé. — On pensait que ces nouvelles étaient vraies, les Suisses ayant subitement rappelé à Berne tous leurs gens de guerre de Genève, de Lausanne et de Moral, et paraissant vouloir de rechef concentrer toutes leurs forces.",
+ "odstavce": [
+  {
+   "text": "CCLXXIX. J.-P. Panigarola au duc de Milan. M., près St-Claude (Jura), 19 octobre 1476.",
+   "preklad": "CCLXXIX. Giovanni Pietro Panigarola milánskému vévodovi. M[…] u Saint-Claude (Jura), 19. října 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signor mio .",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": "Zonto che fo a San Glaudo esso abate (di San Glaudo alias de Casa-Nova) dice aver sentito che li Todeschi a Nansi erano stati rotti dali Borgognoni, e lo campo da Nansi levato; et questo li persuade essere vero la subita novità facta per Suiceri; so che Bernesi levavano tuti li soi avevano a Lossana, Zineura, Morato e quelli loci, e avevano comandato si riducessero a Berna e li si uniscano, ecc.",
+   "preklad": "Když jsem přijel do Saint-Claude, tento opat (ze Saint-Claude, jinak z Casanovy) říká, že slyšel, že Němci u Nancy byli poraženi Burgunďany a tábor u Nancy zrušen. O tom, že je to pravda, ho přesvědčuje náhlý obrat, který učinili Švýcaři: vím totiž, že Bernští odvolávali všechny své lidi, které měli v Lausanne, Ženevě, Murtenu a v těch místech, a nařídili, aby se stáhli do Bernu a tam se spojili atd."
+  },
+  {
+   "text": "Ex M.... ta 19 Octob. 1476.",
+   "preklad": "Z M…ta 19. října 1476."
+  },
+  {
+   "text": "Sottos. Servus",
+   "preklad": "Podepsán: služebník"
+  },
+  {
+   "text": "J. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Ill mo Principi et Excell mo domino meo duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' San-Glaìido, Saint-Claude, ancienne et cèlebre abbaye, aujourd'hui chef-lieu de l’arrondissement de ce nom, département du Jwra.",
+  "* Augustin de Conradis de Lignana, abbé de Casanova et de Fruttuaria, en Piémont, et de St-Claude, en Bourgogne, mort en 1500. (Fr. Aug. Della-Chièsa, Histoire ecelis. du Piémont, Turin 1645, p. 285.)",
+  "3 « Le 15 (octobre 1476) le duc de Bourgogne passa la rivière de » Moselle (au pont de Condé, au delà duquel était le duc René de Lor- » raine avec son armée), et ce jour-là furent défaits 400 ou 500 Alle- » mands menant vivres au duc René. » (Lenglet, 1. c. t. II, p. 220.)",
+  "* Le nom de cet endroit est illisible dans la dépêche. C’est peut-être Mouthe, près St-Claude, dans le Jura, sur la route de Pontarlier à Genève.",
+  "5 Cette dépêche est la dernière de J.-P. Panigarola, ambassadeur ordinaire du duc de Milan auprès du duc de Bourgogne, Charles-le-Hardy, qu’il avait quitté au moment où ce prince levait son camp de La Bivièrè pour rentrer en Lorraine. (Lenglet, 1. c. au 25 septembre). Le rappel de cet ambassadeur s’explique par un revirement dans la politique de la cour de Milan. (Voir la dépêche de Philippe Sacramoro, du 27 novembre 1476, n° cclxxxi ci-après.)"
+ ],
+ "poznamky": [
+  "Oprava OCR: odstraněna čísla poznámek, „Curri sigillo“ → „Cum sigillo“. Místo odeslání je v edici nečitelné („M.... ta“); Gingins navrhuje Mouthe u Saint-Claude na cestě z Pontarlier do Ženevy.",
+  "„so che Bernesi…“: snad „sì che“ (takže Bernští…); přeloženo „vím totiž“, nejisté.",
+  "Gingins: Saint-Claude, staré a slavné opatství (dep. Jura). Opat Agostino de Conradis de Lignana, opat v Casanově a Fruttuarii v Piemontu a v Saint-Claude v Burgundsku, zemřel 1500.",
+  "Gingins: podle Lengleta překročil burgundský vévoda 15. 10. 1476 Mosellu u Pont-de-Condé a téhož dne bylo poraženo 400–500 Němců vezoucích zásoby vévodovi Renému.",
+  "Gingins: toto je poslední depeše Panigaroly, stálého milánského vyslance u Karla Smělého; odjel, když vévoda zrušil tábor v La Rivière a táhl do Lotrinska (25. 9.). Jeho odvolání souvisí s obratem milánské politiky (viz depeši Sacramora z 27. 11., č. 281).",
+  "Zajímavé: Bernští po zprávě o burgundském úspěchu v Lotrinsku stahují posádky z Lausanne, Ženevy a Murtenu do Bernu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Poslední depeše Panigaroly z cesty domů: opat ze Saint-Claude slyšel, že Burgunďané porazili Němce u Nancy a obléhání bylo zrušeno, což potvrzuje i to, že Bernští stahují své posádky z Lausanne, Ženevy a Murtenu."
+}

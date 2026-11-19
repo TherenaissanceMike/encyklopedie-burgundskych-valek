@@ -1,0 +1,60 @@
+{
+ "cislo": 72,
+ "rimske": "LXXII",
+ "nadpis": "LXXII. Antoine d’ Appiano au duc de Milan. Montcaprel, 15 août 1475.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Montcaprel, 15 août 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXXII (ř. 2408–2427 souboru edice)",
+ "obsah_editora": "Le commandeur de Ranvers mande à Madame de Savoie que les Allemands, qui étaient entrés en armes en Franche-Comté, ont éprouvé un grand échec, et que messire Nicolas de Diesbach, leur chef, est mort. — Cette nouvelle est confirmée par une autre lettre adressée à la duchesse (voir la dépêche de Cl. d’Àrney du 10 août, n° lxxi), où l’on ajoute que Nancy est pris, etc. — Si ces nouvelles sont exactes, Madame n’a nulle raison de s’affliger de la mort de messire N. de Diesbach qui était l’un de ses ennemis les plus ardents. — Il ne cessait de tramer contre elle des complots avec le roi de France, le comte Philippe de Bresse et les ligues suisses, en excitant celles-ci à la guerre contre la Savoie.",
+ "odstavce": [
+  {
+   "text": "LXXIII. Antoine d’ Appiano au duc de Milan. Montcaprel, 15 août 1475.",
+   "preklad": "LXXII. Antonio d'Appiano milánskému vévodovi. Moncrivello, 15. srpna 1475"
+  },
+  {
+   "text": "Illustris mo et Ex mo Signore mio. — (Omissis omittendis). Heri per monsignore de Raverso questa prefata Madama fu avisata che li Alamani, cherano in Borgogna, haveano havuto una grossissima urtata et che lera morto d. Nicolo de Dispart.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechávám, co je k vynechání.) Včera zpravil pan z Ranverso zdejší paní, že Němci, kteří byli v Burgundsku, utrpěli převelikou ránu a že messire Mikuláš z Diesbachu je mrtev."
+  },
+  {
+   "text": "Questa matina e portata una lettera a Sua Signoria continente pur questa novella, et che Nansy principale terra de Lorena e presa et missa per mala via tutta foragiata, corno V. Ex cia poterà vedere per linciusa copia, quale ho facta cavare. Se queste novelle sonno vere, prefata Madama non ha poncto a dolerse de la morte desso messer Nicolo Dispart, perche era suo grandissimo inimico, et molto solicitava tramava et se intendeva col Signore Re di Franza, cum Monsignore de Bressa et cum le leghe alamane, operando tutto sempre contro ipsa Madama.",
+   "preklad": "Dnes ráno byl Její Milosti donesen list, který obsahuje tutéž novinu a k tomu zprávu, že Nancy, hlavní město Lotrinska, je dobyto, zle zřízeno a celé vypleněno, jak Vaše Excelence uvidí z přiloženého opisu, který jsem dal pořídit. Jsou-li tyto noviny pravdivé, nemá zmíněná paní nijak proč truchlit nad smrtí messira Mikuláše z Diesbachu, neboť to byl její převeliký nepřítel: horlivě naléhal, kul pikle a dorozumíval se s panem králem Francie, s panem z Bresse a se švýcarskými spolky (le leghe alamane) a vždy jednal proti zmíněné paní."
+  },
+  {
+   "text": "Ex Montecaprello die 15 augusti 1475.",
+   "preklad": "Z Moncrivella 15. srpna 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat: Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Apiano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill. mo Principi et Excell. mo domino Galeaz Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "2 Nicolas de Diesbaeh (voir la dépêche precèdente du IO août, n° lxxi, note 5).",
+  "5 C’est la dépêche de messire Claude d’Arney, du IO août (voir le n° lxxi)."
+ ],
+ "poznamky": [
+  "Oprava dělení: vypuštěna Gingingsova poznámka o Jeanovi de Montchenu, která zapadla mezi odstavce originálu; odstraněna čísla poznámek; OCR opraveno („Firmai“, „™ 0“).",
+  "Gingins: pan z Ranverso = Jean de Montchenu, komtur kláštera sv. Antonína v Ranversu v Piemontu, generální kapitán ženevského biskupa Jeana-Louise Savojského.",
+  "Gingins: přiložený opis je list Clauda d'Arney z 10. srpna (u Gingingse n° LXXI, zde č. 72). O Diesbachově smrti viz poznámky tam: zemřel v Porrentruy, zpráva o dobytí Nancy byla předčasná.",
+  "Zajímavé: ze savojské strany byl Mikuláš z Diesbachu vnímán jako úhlavní nepřítel vévodkyně Jolandy a strůjce spojení Bernu s Francií a s Filipem z Bresse."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Savojská vévodkyně se dozvěděla o těžké porážce Němců v Burgundsku, o smrti Mikuláše z Diesbachu a o pádu Nancy; Appiano poznamenává, že Diesbachova smrt ji nemusí rmoutit, protože byl jejím velkým nepřítelem a spojencem Francie."
+}

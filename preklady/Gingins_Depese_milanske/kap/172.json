@@ -1,0 +1,54 @@
+{
+ "cislo": 172,
+ "rimske": "CLXXII",
+ "nadpis": "CLXXII. J. -P. Panigarola au duc de Milan. Lausanne, le 16 avril 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 16 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXII (ř. 5934–5949 souboru edice)",
+ "obsah_editora": "Il annonce l’arrivée au camp de deux grosses bombardes, de cour- taux et de serpentines, avec environ 25 chariots de poudre, ainsi que des équipages de ponts, des mantelets et des affûts de canon. — L’argent n’est pas encore venu, mais on dit que le convoi est tout proche. — On ne parle pas de départ, la santé du duc de Bourgogne n’étant pas des meilleures. — Néanmoins, si les Suisses faisaient une seconde tentative contre la place de Romont, on lèverait le camp pour se porter à leur rencontre.",
+ "odstavce": [
+  {
+   "text": "CLXXIII. J. -P. Panigarola au duc de Milan. Lausanne, le 16 avril 1476.",
+   "preklad": "CLXXII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 16. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Ileri sera zonsero in campo doe bombarde grosse, doi cortaldi et alcune serpentine con circa 25 cara di polvere, ponti mantelletj et prede di bombarde. Cosi laltre dicono e qui presso : li denari non sono ancora venuti, e di partir non sento altro, etiam questo S.re non sta tropo ben sano, corno o scritto ancora. Pure se Sviceri andasseno a campo a Romont, corno aviano facto voce, si moveria col campo. Che seguirà ala giornata lo intendente.",
+   "preklad": "Nejjasnější pane můj. Včera večer dorazila do tábora dvě velká obléhací děla, dvě krátká děla (cortaldi) a několik serpentin s asi 25 vozy prachu, mosty, přenosnými kryty (mantelletti) a lafetami pro obléhací děla. Říká se, že i ostatní jsou už blízko. Peníze ještě nepřišly a o odchodu neslyším nic jiného; také tento pán není příliš zdráv, jak jsem už psal. Kdyby však Švýcaři přitáhli oblehnout Romont, jak se proslýchalo, hnul by se s vojskem. Co se bude den ze dne dít, se [Vaše Excelence] dozví."
+  },
+  {
+   "text": "Lossane 16 Aprilis 1476.",
+   "preklad": "Lausanne 16. dubna 1476."
+  },
+  {
+   "text": "Firmai. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panigarola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : Ill.mo Principi et Ex.mo dno dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Au dire d’un contemporain qui avait vu passer le convoi à Metz, chacune de ces bombardes était traînée par une trentaine de chevaux. (J. Knebel, Diarium, II, 49.) Celles que les Suisses avaient prises à Grandson, pesaient 26 quintaux. (Oelts, Hist. de Bâle, t. IV, p. 318.)",
+  "* Predèlla, siège, affût.",
+  "* Possane, Lausanne."
+ ],
+ "poznamky": [
+  "Opravy OCR: vypuštěna čísla poznámek, „e qui preso“ → „e qui presso“, „E mo“ → „Ex.mo“, „Gum“ → „Cum“. „lo intendente“ na konci je asi zkomolené „lo intenderete“ / „la intenderà“.",
+  "„cortaldi“ (fr. courtaux): krátká těžká děla střední ráže; termín chybí v glosáři, přeloženo „krátká děla (cortaldi)“. „mantelletti“ = přenosné kryty pro obléhatele. „prede di bombarde“ = predelle, lafety (Gingins).",
+  "Gingins: podle současníka, který viděl konvoj projíždět Metz, táhlo každé z těchto obléhacích děl asi třicet koní (Knebel II, 49); děla, která Švýcaři ukořistili u Grandsonu, vážila 26 centů (Ochs, Gesch. Basel IV, 318).",
+  "Gingins: „Lossane“ = Lausanne.",
+  "Zajímavé: nové dělostřelectvo po ztrátě u Grandsonu dorazilo s vlastním mostním materiálem, přenosnými kryty a 25 vozy prachu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Do tábora u Lausanne dorazila dvě velká obléhací děla, dvě krátká děla, serpentiny, asi 25 vozů prachu, mosty, přenosné kryty a lafety. Peníze ještě nepřišly a vévoda je nemocný, ale kdyby Švýcaři oblehli Romont, vytáhne proti nim."
+}

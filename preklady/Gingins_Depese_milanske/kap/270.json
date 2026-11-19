@@ -1,0 +1,70 @@
+{
+ "cislo": 270,
+ "rimske": "CCLXX",
+ "nadpis": "CCLXX. Fr. Petrasanta au duc de Milan. La Rochette (Savoie), 13 juillet 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "La Rochette (Savoie), 13 juillet 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXX (ř. 9060–9086 souboru edice)",
+ "obsah_editora": "Le comte de La Chambre, que Petrasanta est venu trouver à la Rochette, attend d’heure en heure le retour du messager qu’il a dépêché à Mgr. Philippe de Savoie. — Il se propose ensuite d’accompagner le seigneur d’Aix auprès du roi de France, et son départ est fixé à lundi (15 juillet). — Il veut que Petrasanta attende soit à la Rochette, soit à La Chambre, la réponse du seigneur Pantaleone, après quoi, suivant la nature de cette réponse, il pourra décider si lui-même doit ou non rejoindre le comte là où il se trouvera.",
+ "odstavce": [
+  {
+   "text": "CCLXX. Fr. Petrasanta au duc de Milan. La Rochette (Savoie), 13 juillet 1476.",
+   "preklad": "CCLXX. Francesco Petrasanta milánskému vévodovi. La Rochette (Savojsko), 13. července 1476"
+  },
+  {
+   "text": "Illustrissimo et Ex 0 Signore mio. Fino a questhora non e seguito altro piu che quello vi scrissi heri et laltro. Monsignore data Chiambra sta pur in proposito che de hora in hora il suo messo quale e appresso a Philippo Monsignore debba venire. Io non so ciò che me ne dica. Pur luy tuttavia a mi ne conforta assay.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Až do této hodiny se nestalo nic víc, než co jsem Vám psal včera a předevčírem. Pán z La Chambre stále trvá na tom, že jeho posel, který je u pana Filipa [Savojského], má přijet každou hodinu. Nevím, co bych k tomu řekl; on mě však pořád velmi povzbuzuje."
+  },
+  {
+   "text": "Esso Monsignore dici partira de qui lunedi proximo per andare da la M ta del Re insieme con Monsignore non obstante che prima el havesse deliberato stare sino a merchordi. Et vole chio resti qua o alla Chiambra ad aspettare la risposta di M re Pantaleone, et che poi secondo la risposta io poterò determinare landare mio dove esso sera et anche luy mi avisara del parere suo.",
+   "preklad": "Tento pán říká, že odtud odjede příští pondělí za Jeho Veličenstvem králem spolu s pánem [z Aix], ačkoli se předtím rozhodl zůstat až do středy. A chce, abych zůstal zde nebo v La Chambre a počkal na odpověď pana Pantaleona; potom se podle té odpovědi budu moci rozhodnout, zda pojedu tam, kde bude on, a on mi také sdělí svůj názor."
+  },
+  {
+   "text": "Ex Rupecula 13 July 1476 ad noctem.",
+   "preklad": "Z La Rochette 13. července 1476, v noci."
+  },
+  {
+   "text": "Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmai. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo: Illustrissimo principi etc. domino Galeaz",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd. panu Galeazzovi"
+  },
+  {
+   "text": "Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Petrasanta, envoyé du duc de Milan à Turin, avait quitté cette résidence depuis quelques jours, chargé d’une mission de sa cour pour les Etats de Savoie réunis à Chambéry d’où il se rendit auprès du roi de France à Roanne, près de Lyon. Ses dépêches du 11 et du 12 juillet nous manquent.",
+  "* Louis, comte de la Chambre, fils d 'Aymé de Seyssel, premier comte de La Chambre et de Marie de Savoie-Baconis, mort en 1517. (Guichenon, Histoire de Savoie, t. II, p. 1200.) Après le décès de la régente Yolande de France (1478), mère du jeune duc Philibert I er , le comte de La Chambre et le sire de Miolans furent chargés par le roi Louis XI du gouvernement de la Savoie et du Piémont. (Ibid. 1.1, p. 570.)",
+  "3 Philippe de Savoie, comte de Bresse, que le roi Louis XI avait nommé régent de l’Etat pour le jeune duc Philibert I\" pendant la captivité de la duchesse de Savoie, sa mère. (Juven. d’ Acquino, 1. c. col. 682.)",
+  "4 Claude de Seyssel, seigneur d’Aix et de La Rochette, maréchal de Savoie et chevalier de l’Annonciade 1472, député vers le roi Louis XI par les Etats assemblés à Chambéry. ( Chronique latine de Savoie, 1. c. col. 656.)",
+  "5 La Chambre, bourg de la province de Maurienne, Etats sardes. c Bupecula, la Rochette, terre et château dans la province de Maurienne, sur la frontière de France. ii."
+ ],
+ "poznamky": [
+  "Oprava OCR: odstraněna čísla poznámek a záhlaví strany „DES AMBASSADEURS MILANAIS. 353“ uprostřed slova „merchordi“ (středa); „lieri“ → „heri“.",
+  "Data: „lunedi proximo“ = pondělí 15. 7. 1476 (tak i Gingins), „merchordi“ = středa 17. 7.",
+  "„Monsignore“ bez jména: podle Gingingse Claude de Seyssel, pán z Aix a La Rochette, maršál Savojska, vyslaný stavy shromážděnými v Chambéry ke králi Ludvíku XI. Pan Pantaleone nebyl blíže určen.",
+  "Gingins: Petrasanta, milánský vyslanec v Turíně, odjel s posláním ke savojským stavům v Chambéry a odtud ke králi do Roanne; jeho depeše z 11. a 12. 7. chybějí.",
+  "Gingins: Louis, hrabě z La Chambre, syn Aymona de Seyssel; po smrti Jolandy Savojské (1478) mu Ludvík XI. svěřil s pánem z Miolans vládu nad Savojskem a Piemontem.",
+  "Gingins: „Philippo Monsignore“ = Filip Savojský, hrabě z Bresse, kterého Ludvík XI. jmenoval regentem za mladého vévodu Filiberta během zajetí jeho matky.",
+  "Gingins: La Chambre, městys v Maurienne; La Rochette (Rupecula), panství a hrad na francouzské hranici."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Petrasanta čeká v La Rochette na zprávu od Filipa Savojského; hrabě z La Chambre odjede v pondělí s pánem z Aix ke Ludvíku XI. a Petrasantovi radí počkat na odpověď pana Pantaleona."
+}

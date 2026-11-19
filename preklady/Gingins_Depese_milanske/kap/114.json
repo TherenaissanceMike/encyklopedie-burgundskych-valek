@@ -1,0 +1,63 @@
+{
+ "cislo": 114,
+ "rimske": "CXIV",
+ "nadpis": "CXIV. L’évêque de Còme, le marquis Palavicini et Antoine d’Appiano, ambassadeurs milanais, au duc de Milan. Genève, le 3 mars 1476.",
+ "odesilatel": "L’évêque de Còme, le marquis Palavicini et Antoine d’Appiano, ambassadeurs milanais, au duc de Milan.",
+ "misto_datum": "Genève, le 3 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXIV (ř. 3573–3590 souboru edice)",
+ "obsah_editora": "Nouvelle de la déroute de Grandson. — Les dépêches apportées dans cet instant par le courrier Jacques Alphonso, qui est venu à bride abattue jusqu’à Genève, apprendront au duc de Milan les détails de la défaite de l’armée bourguignonne. — En apprenant cet événement, les ambassadeurs milanais se rendent auprès de la duchesse de Savoie pour la consoler, et s’efforcent de la persuader de retourner sur ses pas, avec ses jeunes fils, qu’ils n’abandonneront dans aucun cas.",
+ "odstavce": [
+  {
+   "text": "CXV. L’évêque de Còme, le marquis Palavicini et Antoine d’Appiano, ambassadeurs milanais, au duc de Milan. Genève, le 3 mars 1476.",
+   "preklad": "CXIV. Biskup z Coma, markýz Pallavicino a Antonio d'Appiano, milánští vyslanci, milánskému vévodovi. Ženeva, 3. března 1476"
+  },
+  {
+   "text": "IIl mo et Excellentissimo Signor nostro.",
+   "preklad": "Nejjasnější a nejvznešenější pane náš."
+  },
+  {
+   "text": "Vostra Excellentia intenderà per lettere de Jacomo Alphonso quale sene e venuto de campo qua ad speron battuto, el caso accaduto al Duca de Borgogna. Et pero non extenderemo in scriverlo. Noi subito inteso dicto caso ne siamo andati ad trovare questa Ill ma M a per confortarla et fare ogni instantia possibile per retirarla dal canto de la, con questi suoi incliti figlioli, li quali noi non abbandoneremo. Ad Vostra Ill ma S ria devotamente ne reccomandiamo.",
+   "preklad": "Vaše Excelence se z listů Giacoma Alfonsa, který sem přijel z tábora tryskem, dozví, co se přihodilo vévodovi burgundskému, a proto to nebudeme podrobně popisovat. Jakmile jsme se o té události dozvěděli, šli jsme za touto nejjasnější paní, abychom ji utěšili a všemožně naléhali, aby se odtamtud stáhla spolu se svými vznešenými syny, které my neopustíme. Vaší nejjasnější Milosti se oddaně doporučujeme."
+  },
+  {
+   "text": "Ex Gebennis die 3 Martii 1476.",
+   "preklad": "Z Ženevy 3. března 1476."
+  },
+  {
+   "text": "E. V. Ill me D.",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Subscr. Servitores",
+   "preklad": "Podepsáni: Služebníci"
+  },
+  {
+   "text": "Episcopus Comensis Palavicinus Marchio Antonius de Aplano.",
+   "preklad": "Biskup z Coma, markýz Pallavicino, Antonius de Aplano."
+  },
+  {
+   "text": "A tergo : Ill m0 principi et excellentissimo dno ac benefactori nostro duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu a dobrodinci našemu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cito, cito, cito.",
+   "preklad": "Rychle, rychle, rychle."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 La bataille de Grandson, livrée la veille samedi 2 mars 1476, ou l’armée du duc de Bourgogne fut mise en déroute et son camp pillé par les Suisses et leurs alliés, (voir Molinet, 1. c. t. I, p. 192 et suiv. et pour la date P Itinéraire dans Lenglet, 1. c. t. II, p. 219.)"
+ ],
+ "poznamky": [
+  "Opravy OCR: „dieto“ > „dicto“, „Illuse“ > „Ill me“, „Palayicinus“, „Medioiani“, odstraněno číslo poznámky.",
+  "Gingins: „událost“ = bitva u Grandsonu, svedená předchozího dne v sobotu 2. března 1476, v níž bylo vojsko burgundského vévody rozprášeno a jeho tábor vypleněn Švýcary a jejich spojenci (Molinet, itinerář u Lengleta).",
+  "„dal canto de la“ přeloženo „odtamtud“ (z Vaudu, od Lausanne), míněn návrat vévodkyně se syny do bezpečí.",
+  "Zajímavé: kurýr Giacomo Alfonso přinesl zprávu o porážce u Grandsonu do Ženevy „ad speron battuto“ (cvalem s ostruhami) už den po bitvě."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Vyslanci krátce oznamují porážku Karla Smělého u Grandsonu, o níž přinesl zprávu kurýr Giacomo Alfonso. Jolandu Savojskou utěšují a naléhají, aby se se syny stáhla, a slibují, že je neopustí."
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 197,
+ "rimske": "CXCVII",
+ "nadpis": "CXCVII. J. -P. Panigarola au duc de Milan. Lausanne, le 11 mai 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 11 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXCVII (ř. 6817–6831 souboru edice)",
+ "obsah_editora": "On peut dire que le duc de Bourgogne est entièrement rétabli de sa maladie; il ne s’est point ressenti le jour précédent des fatigues de la veille. — Il a réuni autour de sa personne les principaux capitaines de l’armée, avec lesquels il a discuté longuement sur le meilleur moyen de procéder contre les Suisses et sur la manière de ranger les troupes en bataille. — Après cela il a ordonné que tous les archers devaient renvoyer leurs chevaux en Bourgogne, ou les vendre, voulant que désormais tous les archers marchent à pied. — Il a donné pour raison, en premier lieu, qu’à cheval ils ne peuvent pas se servir de leur arbalète avec le même avantage qu'à pied ; et, en second lieu, le manque de fourrage dans ce pays montagneux. — On compte se débarrasser ainsi d’environ 6,000 chevaux.",
+ "odstavce": [
+  {
+   "text": "CXCVIII. J. -P. Panigarola au duc de Milan. Lausanne, le 11 mai 1476.",
+   "preklad": "CXCVII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 11. května 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Heri questo S. e stato benissimo, e si può dire guarito. Fece convocare heri sera tuti li capitanei soi con li quali disputo e consulto il modo di procedere col campo contra Sviceri, et corno voria si conzasseno le squadre et bataglie, faciendo longo discorso di rasonamento. Nel quale fo arguito hinc inde un pezo. Poi ordino che tutti li archieri o mandino li cavali in Borgogna o li vendano, perche da qui inanzi vole tuti li archieri vadano a piedi, si perche a cavallo non pono ben adoperarsi con larco, si perche e necessita di victualie in questi loci montuosi, ne li quali a pede meglio anco combaterano. Si stima sarano circa 6 m cavali questi, ecc.",
+   "preklad": "Nejjasnější pane můj. Včera se tento pán měl výborně a lze říci, že je uzdraven. Včera večer svolal všechny své kapitány a rozebíral a radil se s nimi o tom, jak s vojskem postupovat proti Švýcarům a jak by chtěl, aby se upravily oddíly a bitevní šiky; vedl o tom dlouhou řeč, při níž se chvíli argumentovalo z obou stran. Potom nařídil, aby všichni lučištníci buď poslali koně do Burgundska, nebo je prodali, protože od nynějška chce, aby všichni lučištníci chodili pěšky: jednak proto, že na koni nemohou dobře zacházet s lukem, jednak proto, že v těchto horských místech je nouze o potraviny; v nich budou pěšky také lépe bojovat. Odhaduje se, že těch koní bude asi 6 tisíc atd."
+  },
+  {
+   "text": "Ex Lussana 11 May 1476.",
+   "preklad": "Z Lausanne 11. května 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Jo. Petrus Panicharola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "Soprascritta: Illustrissimo principi etc. domino Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Adresa: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' D’après la précédente dépêche de Panigarola le nombre des chevaux montés par les archers ne s’élevait qu’à 3,200 au plus; le surplus appartenait sans doute au train, qui aura dû renvoyer de l’autre côté du Jura tous les chevaux dont on pouvait, à la rigueur, se passer."
+ ],
+ "poznamky": [
+  "Gingins: podle předchozí depeše měli jízdní lučištníci nejvýš asi 3200 koní; zbytek do 6000 patřil patrně trénu, který musel poslat za Jura všechny koně, bez nichž se dalo obejít.",
+  "Gingingsův obsah píše o kuších (arbalète), originál má „larco“, tedy luk. „Victualie“ přeloženo jako potraviny; Gingins to vykládá jako nedostatek píce.",
+  "„Sopruso'.“ je zkomolené „Soprascritta“ (adresa); opraveno v textu. „Firmai.“ opraveno na „Firmat.“.",
+  "Zajímavé: 10. května svolal Karel válečnou radu o tažení proti Švýcarům a nařídil, aby všichni lučištníci bojovali pěšky a své koně (asi 6000) poslali do Burgundska nebo prodali. Ve vojsku u Murtenu tedy měli lučištníci bojovat pěšky."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panigarola hlásí, že Karel Smělý je uzdraven, svolal válečnou radu o tažení proti Švýcarům a nařídil, aby lučištníci poslali koně do Burgundska nebo je prodali a napříště bojovali pěšky (asi 6000 koní)."
+}

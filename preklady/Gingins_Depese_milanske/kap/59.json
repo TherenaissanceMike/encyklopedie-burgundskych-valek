@@ -1,0 +1,60 @@
+{
+ "cislo": 59,
+ "rimske": "LIX",
+ "nadpis": "LIX. Antoine d’ Appiano au duc de Milan. Montcaprel, 9 juillet 1476.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Montcaprel, 9 juillet 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše LIX (ř. 2098–2118 souboru edice)",
+ "obsah_editora": "L’ambassadeur accuse au duc réception de la dépêche du 6 juillet, renfermant la copie d’une lettre adressée par le marquis de Mantoue à Zacharie Pisano. —Il communique à la duchesse de Savoie le contenu de cette lettre, en lui faisant observer, de la part du duc de Milan, que les nouvelles qu’elle donne de Neuss, venant d’un prince aussi recommandable et aussi réservé que le marquis, lui paraissent devoir mériter toute créance. — Chacun croit ici à la réalité d’un compromis entre l’empereur et le duc de Bourgogne. — Mais plusieurs personnes ont peine à comprendre que l’empereur n’ait pas perdu plus de inonde qu’on ne le dit, dans le fait d’arme dont il est question dans la lettre ci-dessus, et on se refuse à croire que le duc soit parti ou parte de Neuss, tant qu’il ne s’est pas rendu maître de la place.",
+ "odstavce": [
+  {
+   "text": "LX. Antoine d’ Appiano au duc de Milan. Montcaprel, 9 juillet 1476.",
+   "preklad": "LIX. Antonio d'Appiano milánskému vévodovi. Moncrivello, 9. července 1476"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": "Riccomandandomi sempre a la bona gratia di V. Sublimità. (Omissis omittendis.) Hogi ho ricevuto doe lettere di V. Ex cia de 6 cum una copia de lettera scripta per il Signore Marchese di Mantoa a Zacharia Pisano. Tutto ho facto intendere a questa Ill ma Madama, videlicet la prima lettera cum la copia dele novelle in presentia dalcuni cortesani, replicandogli el motto che scrive V. Ex ia chella presti quello judicio et credito che gli pare al auctore de quelle novelle, corno digno principe che non scrive legiermente. Credeno tutti che lapontamento sia facto fra limperatore et Monsignore de Borgogna. Ma alcuni non possono credere che in quel facto darme che si fece, morisseno si puoche gente del imperatore : et etiam alcun ha voluto dire che non crederà giamay che monsignore de Borgogna sia partito, ne parti da Nus finche la villa non sia sua.",
+   "preklad": "Ustavičně se doporučuji dobré milosti Vaší Výsosti. (Vynechávám, co je k vynechání.) Dnes jsem obdržel dva listy Vaší Excelence ze 6. [července] s opisem listu, který pan markrabě mantovský napsal Zaccariovi Pisanovi. Všechno jsem sdělil zdejší nejjasnější paní, totiž první list s opisem novinek, a to v přítomnosti několika dvořanů, a zopakoval jsem jí slova, která píše Vaše Excelence: ať těm zprávám přikládá takovou váhu a víru, jakou uzná za vhodnou vzhledem k jejich původci, neboť je to vážený kníže, který nepíše lehkomyslně. Všichni věří, že dohoda mezi císařem a panem [vévodou] burgundským je uzavřena. Někteří však nemohou uvěřit, že v tom ozbrojeném střetu, k němuž došlo, padlo tak málo císařových lidí; a kdosi dokonce prohlásil, že nikdy neuvěří, že pan [vévoda] burgundský od Neussu odtáhl nebo odtáhne, dokud to město nebude jeho."
+  },
+  {
+   "text": "Ex Montecaprello 9 July 1475.",
+   "preklad": "Z Moncrivella 9. července 1475."
+  },
+  {
+   "text": "Ejusdem Sublimitatis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill mo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Louis III, marquis de Mantom, mort en 1478. Sa femme, Barbe, était fille d’Albert, margrave de Brandenbourg. ( Art de vérifier les dates, t. Ili, p. 666).",
+  "* Monteerivello, dans la province de Verceil, Piémont."
+ ],
+ "poznamky": [
+  "Datum: hlavička edice uvádí 9. července 1476, datace listu však zní „9 July 1475“ a obsah (Neuss) patří do roku 1475; v hlavičce jde zjevně o tiskovou chybu. V překladu nadpisu ponecháno, co stojí v edici.",
+  "Gingins: Montecaprello (Montcaprel) = Moncrivello v provincii Vercelli v Piemontu, kde tehdy pobýval savojský dvůr.",
+  "Gingins: markrabě mantovský = Ludovico III. Gonzaga († 1478); jeho manželka Barbara byla dcerou Albrechta, markraběte braniborského (účastníka tažení k Neussu).",
+  "OCR: „omiltendis“ opraveno na „omittendis“, „Firmai.“ na „Firmat.“."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano sdělil savojské vévodkyni zprávy markraběte mantovského o Neussu; u dvora se věří v dohodu mezi císařem a Karlem Smělým, ale někteří pochybují o malých císařských ztrátách a o tom, že by vévoda odtáhl, aniž by Neuss dobyl."
+}

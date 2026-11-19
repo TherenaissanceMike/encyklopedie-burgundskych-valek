@@ -1,0 +1,61 @@
+{
+ "cislo": 217,
+ "rimske": "CCXVII",
+ "nadpis": "CCXVII. Antoine d’Appiano au duc de Milan. Gex, 2 juin 1476.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Gex, 2 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXVII (ř. 7487–7504 souboru edice)",
+ "obsah_editora": "On croit généralement que le roi de France, qui continue à séjourner à Lyon, avec le roi René, y demeure pour voir quelle sera l’issue de la lutte engagée entre le duc de Bourgogne et les Suisses, et qu’une bataille ne tardera pas à avoir lieu entr’eux. — Le résultat décidera sans doute de l’attitude que le roi prendra. Le duc de Bourgogne n’a point changé ses cantonnements depuis qu’il est parti de Lausanne pour aller camper à Morrens.",
+ "odstavce": [
+  {
+   "text": "CCXVIII. Antoine d’Appiano au duc de Milan. Gex, 2 juin 1476.",
+   "preklad": "CCXVII. Antonio d'Appiano milánskému vévodovi. Gex, 2. června 1476"
+  },
+  {
+   "text": "Illustris mo et Excellentis m0 Signore mio, etc. — Qua se ha chel Sig re Re di Franza sta continuamente a Lione cum Re Renato. Credesi generalmente chel dimori li per vedere que fine tara questa battaglia, tra monsig re de Borgogna et Alamani quale se tene se debbia far presto : et secondo el fine di questa guerra, Sua M ta se deportara.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj atd. — Zde se ví, že pan král francouzský stále pobývá v Lyonu s králem Reném. Všeobecně se věří, že tam prodlévá, aby viděl, jak skončí tato bitva mezi panem [vévodou] burgundským a Němci, o níž se má za to, že bude brzy; a podle toho, jak tato válka skončí, se Jeho Veličenstvo zařídí."
+  },
+  {
+   "text": "Qui e venuto novella che Monsig re di Borgogna non ha may mosso suo campo doppo la prima giornata chel fece quando partite da Lusanna. A la Celsitudine Vostra me ricomando.",
+   "preklad": "Přišla sem zpráva, že pan [vévoda] burgundský vůbec nepohnul svým táborem od prvního dne pochodu, který vykonal, když odešel z Lausanne. Vaší Výsosti se doporučuji."
+  },
+  {
+   "text": "Ex Gaye 2 Junij 1476.",
+   "preklad": "Z Gexu 2. června 1476."
+  },
+  {
+   "text": "Ejusdem Sublimitatis Vestre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Divotissimus servulus",
+   "preklad": "Nejoddanější nejmenší služebník"
+  },
+  {
+   "text": "Sottos: Antonius de Apiano.",
+   "preklad": "Podepsán: Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Illustrissimo Principi et domino Galeaz Marie Sforcie Vicecomiti duci Mediolani ecc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a pánu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Le duc de Bourgogne, campé à Morrens depuis le 27 mai, y demeura jusqu’au mardi, 4 juin, après-dîner. (Lenglet, 1. c. t. II, p. 219.)",
+  "1 La Régente de Savoie, suivie de toute sa cour, des ambassadeurs de Milan, etc., et de 200 à 300 chevaux formant sa garde particulière, avait quitté Lausanne dans les derniers jours du mois de mai pour se rendre à Gex."
+ ],
+ "poznamky": [
+  "Gingins: Vévoda burgundský tábořil u Morrens od 27. května do úterý 4. června po obědě (Lenglet II, 219).",
+  "Gingins: Regentka Savojska s celým dvorem, milánskými vyslanci aj. a s 200–300 jezdci své osobní stráže opustila Lausanne v posledních dnech května a odebrala se do Gexu („Gaye“).",
+  "„Re Renato“ = René z Anjou, titulární král neapolský, hrabě provensálský. „Alamani“ (Němci) zde míní Švýcary a jejich spojence.",
+  "„Giornata“ zde neznamená bitvu, ale denní pochod (první den pochodu z Lausanne k Morrens).",
+  "Opravy OCR: odstraněna čísla poznámek, „mav“ → „may“, podpis „Aplano“ → „Apiano“ (zřejmě chybné čtení i jako l, opakuje se ve všech Appianových listech)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano z Gexu hlásí, že Ludvík XI. s králem Reném vyčkává v Lyonu na výsledek očekávané bitvy mezi Karlem Smělým a Švýcary a že vévoda od prvního dne pochodu z Lausanne nepohnul táborem."
+}

@@ -1,0 +1,51 @@
+{
+ "cislo": 48,
+ "rimske": "XLVIII",
+ "nadpis": "XLVIII. Azon Visconti au duc de Milan. Belinzona, 29 mai 1475.",
+ "odesilatel": "Azon Visconti au duc de Milan.",
+ "misto_datum": "Belinzona, 29 mai 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XLVIII (ř. 1768–1781 souboru edice)",
+ "obsah_editora": "Le comte Henry de Saccho annonce que des deux émissaires dépêchés par lui dans les cantons, l’un est de retour. — Il rapporte que les Suisses sont trop occupés de la guerre contre le duc de Bourgogne pour songer à porter leurs armes du côté de la Lombardie; mais que cette guerre venant à prendre fin d’une manière ou d’une autre, il se pourrait bien qu’ils se retournassent de ce côté. — J. Caponi, envoyé du duc de Milan à Coire, écrit qu’il n’a encore rien pu savoir de l’évêque qui vaille la peine d’être rapporté.",
+ "odstavce": [
+  {
+   "text": "XLIX. Azon Visconti au duc de Milan. Belinzona, 29 mai 1475.",
+   "preklad": "XLVIII. Azzo Visconti milánskému vévodovi. Bellinzona, 29. května 1475"
+  },
+  {
+   "text": "Illus.mo et Excell m0 Princeps et domine dne mi metuendissime. Post humilissimam et debitam recomandationem.",
+   "preklad": "Nejjasnější a nejvznešenější kníže a pane, pane můj nanejvýš obávaný. Po nejpokornějším a povinném doporučení."
+  },
+  {
+   "text": "El conte Henricho da Sacho a questa hora e stato da mi, e me ha dicto che de dui messi quali ha mandato in Alamania ne ritornato uno che dice pur como li altri : idest che Svizeri sono in pensere assay per la guerra del duca de Brogognia, et che de voltarse verso queste parte non se ne fa mentione niuna, ma che finendo o per Victoria o per accordo la guerra da esso duca de Brogognia, se crede alio non aparente, se voltarrano in queste parte de qua.",
+   "preklad": "Hrabě Enrico da Sacho byl právě nyní u mne a řekl mi, že ze dvou poslů, které poslal do Německa, se jeden vrátil a říká totéž co ostatní: totiž že Švýcaři mají s válkou s vévodou burgundským dost starostí a o obrácení do těchto končin se vůbec nemluví; ale až válka s řečeným vévodou burgundským skončí vítězstvím nebo dohodou, věří se, i když to [zatím] není zjevné [?], že se obrátí do těchto končin."
+  },
+  {
+   "text": "Johanne Capono me ha scrito che anchora non ha potudo intendere altro de importanzia verso le parte del Vescho de Coira.",
+   "preklad": "Giovanni Capono mi napsal, že dosud nemohl zjistit nic dalšího důležitého o tom, co se děje u biskupa z Churu."
+  },
+  {
+   "text": "Birinzone die 29 may 1475.",
+   "preklad": "Bellinzona dne 29. května 1475."
+  },
+  {
+   "text": "E. D. V. fidelis servitor",
+   "preklad": "Vašeho nejvznešenějšího Panství věrný služebník"
+  },
+  {
+   "text": "Azo Vicecomes.",
+   "preklad": "Azzo Visconti."
+  },
+  {
+   "text": "A tergo: Ill m0 et Excell mo principi et dno dno meo metuendissimo duci Mediolani. Domino Christoforo de Cambiago. cito cito Cum sigillo.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti a pánu, pánu mému nanejvýš obávanému, vévodovi milánskému. Panu Cristoforovi de Cambiago. Rychle, rychle. S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Hrabě Enrico da Sacho je týž jako „Arrigo de Saccho“ v dep. XLI; Giovanni Capono = Giovanni Capano tamtéž. Cristoforo de Cambiago – zřejmě úředník milánské kanceláře, jemuž se měl list doručit; Gingins ho neurčuje.",
+  "„Se crede alio non aparente“ – čtení i smysl nejisté."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Posel hraběte da Sacho hlásí, že Švýcaři jsou zaměstnáni válkou s Burgundskem a na Milán nepomýšlejí, po jejím skončení se však mohou obrátit proti němu. Od biskupa z Churu zatím nic nového."
+}

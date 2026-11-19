@@ -1,0 +1,60 @@
+{
+ "cislo": 55,
+ "rimske": "LV",
+ "nadpis": "LV. Antoine d’Appiano au duc de Milan. Montcalier, 24 juin 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 24 juin 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LV (ř. 1980–2004 souboru edice)",
+ "obsah_editora": "Le curé de Torrens, attaché à la personne de Mgr. l’évêque de Genève, qu’il a quitté peu de jours auparavant, apporte la nouvelle positive de l’entrée du duc de Bourgogne à Neuss, en même temps que l’empereur, avec lequel il s’est accordé; mais on ne dit pas sous quelles conditions. — Le curé ajoute que messires Josse de Lallain et Olivier de La Marche, se sont mis en route de Neuss avec 300 lances d’ordonnance, pour venir en Bourgogne, mais ils n’y sont pas encore arrivés. — L’envoyé milanais exprime cependant quelques doutes sur l’exactitude de ce rapport, et s’en remet à la prudence du duc, son maître, pour en apprécier l’importance.",
+ "odstavce": [
+  {
+   "text": "LVI. Antoine d’Appiano au duc de Milan. Montcalier, 24 juin 1475.",
+   "preklad": "LV. Antonio d'Appiano milánskému vévodovi. Moncalieri, 24. června 1475"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore. — (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane. — (Vynechává se, co lze vynechat.)"
+  },
+  {
+   "text": "Questa matina e venuto lincurato di Torren che sta cum monsignore lo vescovo di Genevra , quale partito mercuri da Genevra, et dice essere la novella certa che Monsignore de Bergogna e intrato in Nus, et cum Sua Signoria insiema e intrato limperatore, quali sonno daccordo. Ma non se dice in que modo. Et dice che Misser Giosse da Lalen et misser Oliver de la Marchia sonno venuti da Nus in Borgogna cum 300 lanze, videlicet erano in camino. Ma non erano giuncti anchora in Borgogna. Io me ne reporto alla verità. V a Celsitudine e prudentissima, pigli quella parte che gli pare. Ala quale sempre me ricommando.",
+   "preklad": "Dnes ráno přišel farář z Torrens, který je u pana biskupa ženevského; ze Ženevy odjel ve středu a říká, že novina je jistá: pán burgundský vstoupil do Neussu a spolu s Jeho Milostí vstoupil i císař a jsou spolu zadobře. Neříká se však, jakým způsobem. A říká, že messer Josse de Lalaing a messer Olivier de La Marche přišli od Neussu do Burgundska s 300 kopími, totiž byli na cestě, ale do Burgundska ještě nedorazili. Spoléhám se na pravdu. Vaše Výsost je nanejvýš moudrá, ať se přikloní k tomu, co se jí zdá. Jí se stále doporučuji."
+  },
+  {
+   "text": "Ex Montecallerio 24 Juny 1475.",
+   "preklad": "Z Moncalieri 24. června 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus Antonius de Aplano.",
+   "preklad": "podepsán: nejoddanější služebníček Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex mo dno meo Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Torrens, village paroissial avec un ancien château, dans la haute Savoie.",
+  "! Jean-Louis de Savoie, évêque et prince de Genève.",
+  "3 Messire Josse de Lallain, fils de Symon de Lallain, seigneur de",
+  "Hantes, chevalier de la Toison d’or, souverain bailli de Flandres (Gollut).",
+  "1 Messire Olivier de La Marche, seigneur du dit lieu, chevalier, conseiller, maître d’hôtel et capitaine de la garde du duc Charles de Bourgogne; il mourut à Bruxelles en 1502, âgé de 74 ans ( Buehon , notice sur O. de La Marche, en tête de l’édition de ses mémoires)."
+ ],
+ "poznamky": [
+  "Gingins: Torrens, farní vesnice se starým hradem v Horním Savojsku; biskup ženevský je Jan Ludvík Savojský.",
+  "Gingins: Josse de Lalaing, syn Simona de Lalaing, pána z Hantes, rytíř Zlatého rouna a vrchní bailli Flander (Gollut).",
+  "Gingins: Olivier de La Marche, rytíř, rada, hofmistr a kapitán stráže vévody Karla; zemřel v Bruselu 1502 ve věku 74 let.",
+  "„Mercuri“ (středa): 24. 6. 1475 byla sobota, míněna je tedy zřejmě středa 21. 6. 1475.",
+  "Zajímavé: kapitán Karlovy stráže a pozdější kronikář Olivier de La Marche vede spolu s Jossem de Lalaing 300 kopí od Neussu do Burgundska."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Farář z Torrens přináší zprávu, že Karel Smělý a císař se dohodli a společně vstoupili do Neussu a že Josse de Lalaing a Olivier de La Marche táhnou s 300 kopími do Burgundska. Appiano zprávě plně nevěří."
+}

@@ -1,0 +1,53 @@
+{
+ "cislo": 205,
+ "rimske": "CCV",
+ "nadpis": "CCV. Fr. Petrasanta au duc de Milan. Turin, 17 mai 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, 17 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCV (ř. 7177–7194 souboru edice)",
+ "obsah_editora": "Le vice-gouverneur de Nice mande itérativement au Conseil de Turin que son émissaire a vu, de ses propres yeux, la prise de possession d’Avignon par les gens du roi de France. — Le duc de Bourbon y est entré en armes, s’est saisi du château papal et y a fait arborer les armes et les couleurs françaises. — Le duc de Bourbon a hautement manifesté l’intention de porter ses armes dans le comté de Nice, etc. — En conséquence, le vice-gouverneur demande au Conseil de pourvoir à la défense de cette ville.",
+ "odstavce": [
+  {
+   "text": "CCVI. Fr. Petrasanta au duc de Milan. Turin, 17 mai 1476.",
+   "preklad": "CCV. Francesco Petrasanta milánskému vévodovi. Turín, 17. května 1476"
+  },
+  {
+   "text": "Illustriss mo et Excellentiss.mo Signor mio, ecc. . . .",
+   "preklad": "Nejjasnější a nejvznešenější pane můj atd. . . ."
+  },
+  {
+   "text": "Il predetto Vicegovernatore di Niza ha anchora scritto al Consiglio qua in eamdem sententiam: et come il suo messo vidi togliere et tenire la cita di Vignone a nome del Re essendoli intrato il Duca di Borbono con li soldati et preso il palcho et miso li le arme et insegne regie. El quale Duca di Borbono suo ore ha detto et minaciato di volere venire a togliere le dette terre, cioè Nizza, etc. et ideo costuy richiede si gli facia provisione.",
+   "preklad": "Řečený místodržitel v Nice napsal sem radě znovu v témž smyslu: že jeho posel viděl, jak bylo město Avignon zabráno a obsazeno ve jménu krále, když do něj vstoupil vévoda bourbonský s vojáky, zmocnil se paláce (palcho) a vyvěsil tam královské erby a znamení. Tento vévoda bourbonský vlastními ústy (suo ore) řekl a hrozil, že chce přijít zabrat řečené země, totiž Nizzu atd., a proto [místodržitel] žádá, aby mu byla poskytnuta pomoc."
+  },
+  {
+   "text": "Taurini 17 May 1476.",
+   "preklad": "Turín 17. května 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo: Ill.mo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "* Sur la prise à'Avignon, voir les dépêches précédentes de Lyon , 7 avril 1476, n» cl vm, et de Lausanne, 8 mai, n° cxcm."
+ ],
+ "poznamky": [
+  "Oprava dělení: z posledního odstavce vyjmuta přilepená poznámka editora 1 (viz níže). Opravy OCR: čísla poznámek, úvodní tečka, „Curri“ → „Cum“.",
+  "Gingins: místodržitel = Claudio Bonardi, místodržitel v Nice a zástupce guvernéra Antoina d'Orlier. O zabrání Avignonu viz depeše z Lyonu ze 7. 4. 1476 (č. CLVIII edice) a z Lausanne z 8. 5. (č. CXCIII). Palác = podle Gingingse papežský hrad."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Místodržitel v Nice hlásí turínské radě, že vévoda bourbonský obsadil ve jménu Ludvíka XI. Avignon a papežský palác, a hrozí, že táhne i na Nice; žádá proto o posily."
+}

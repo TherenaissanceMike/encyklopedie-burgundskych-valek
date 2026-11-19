@@ -1,0 +1,61 @@
+{
+ "cislo": 285,
+ "rimske": "CCLXXXV",
+ "nadpis": "CCLXXXV. Jean Blanco, de Crémone, au duc de Milan. Turin, 21 décembre 1476.",
+ "odesilatel": "Jean Blanco, de Crémone, au duc de Milan.",
+ "misto_datum": "Turin, 21 décembre 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXXV (ř. 9473–9489 souboru edice)",
+ "obsah_editora": "Il se réfère à sa dépêche officielle incluse où il est écrit que l’on pense à Turin que le duc allemand qui s’est réconcilié avec le duc de Bourgogne, n’est autre que l'archiduc Sigismond d’Autriche.— S’il en est ainsi, le duc de Bourgogne pourra recevoir (d’Italie) des secours de gens de guerre et d’armes par les Etats de l’archiduc. — On regarde le fait comme d’autant plus probable que le duc de Bourgogne pourrait, de son côté, avoir promis, entr’autres choses, à l’archiduc qui est ennemi naturel des Suisses, un subside en argent pour entretenir sur pieds un certain nombre de gens d’armes. — Il se pourrait que les Vénitiens, toujours jaloux des autres Etats, eussent ménagé cet accommodement, auquel l’empereur aurait contribué de son côté, soit pour empêcher que le duc de Bourgogne ne succombe sous les embûches du roi de France; — soit par d’autres motifs qu’on peut déduire de sa conduite dans le passé.",
+ "odstavce": [
+  {
+   "text": "CCLXXXV. Jean Blanco, de Crémone, au duc de Milan. Turin, 21 décembre 1476.",
+   "preklad": "CCLXXXV. Giovanni Bianco z Cremony milánskému vévodovi. Turín, 21. prosince 1476"
+  },
+  {
+   "text": "Illustrissimo et excell mo Signor mio .",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": "Per la alligata io scrivo, che qua se stima chel Duca Sig.do de Austerlich sia quello Duca allamanno che se e accordato col Duca de Borgogna: quando cosi fosse, per la via dele terre et paisi desso Duca dAusterlich si poria mandare armature et gentedarme alli favorj del Duca de Borgogna, maxime perche e da credere che essendo cossi esso Duca de Borgogna debe havere promesso et forsi dato oltra le altre conditione, el modo de tenere qualche gentedarme ad esso Duca dAusterlich el quale e naturalmente inimico de Suyceri; et Venetiani poriano essere stati causa de tale accordo per le emulatione che naturalmente portano ad altri.",
+   "preklad": "V přiloženém [listu] píšu, že se zde soudí, že vévoda Zikmund Rakouský je onen německý vévoda, který se smířil s vévodou burgundským. Kdyby tomu tak bylo, mohly by se přes města a země řečeného vévody rakouského posílat vévodovi burgundskému na pomoc zbroj a těžkooděnci; tím spíš, že je třeba věřit, že je-li tomu tak, vévoda burgundský musel řečenému vévodovi rakouskému, přirozenému nepříteli Švýcarů, kromě jiných podmínek slíbit a snad i dát prostředky na vydržování nějakých těžkooděnců. A Benátčané mohli být příčinou takové dohody z řevnivosti, kterou přirozeně chovají k ostatním."
+  },
+  {
+   "text": "Seria forsi bene che Vostra Excell.a cercasse de intinderne el vero: et ad questo poria facilmente havere conspirato limperatore per non lassare cadere el Duca de Borgogna ad suggettione del Re de Franza, et per altre casone che se poriano trahere dali soy modi et dureze passate.",
+   "preklad": "Snad by bylo dobré, aby se Vaše Excelence snažila zjistit pravdu. Na tom by se snadno mohl podílet i císař, aby nenechal burgundského vévodu upadnout do područí francouzského krále, a z jiných důvodů, které lze vyvodit z jeho dřívějšího počínání a tvrdosti."
+  },
+  {
+   "text": "Ex Taurino die 21 decembris 1476.",
+   "preklad": "Z Turína dne 21. prosince 1476."
+  },
+  {
+   "text": "Subscript. Servulus.",
+   "preklad": "Podepsán: služebníček."
+  },
+  {
+   "text": "Johannes Blancus de Cremona.",
+   "preklad": "Giovanni Bianco z Cremony."
+  },
+  {
+   "text": "A tergo: Ill mo principi etc., dno Galeaz Maria Sfortie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Per postas. Cito, cito, cito.",
+   "preklad": "Poštou. Rychle, rychle, rychle."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 La supposition d’une réconciliation entre l 'archiduc Sigismond d’Autriche et le duc de Bourgogne n’avait aucun fondement. Les troupes de l’archiduc combattirent avec les Suisses à la journée de Nancy, où le. duc Charles fut tué. (J. de Muller, 1. c. t. VIII, p. 135.)"
+ ],
+ "poznamky": [
+  "Oprava OCR: „chef Duca Sig d ° de Austerlich“ čteno jako „chel Duca Sig.do [Sigismondo] de Austerlich“; „Excell 3“ → „Excell.a“; číslo poznámky odstraněno.",
+  "Gingins: domněnka o smíření arcivévody Zikmunda s burgundským vévodou neměla žádný základ; Zikmundovo vojsko bojovalo po boku Švýcarů v bitvě u Nancy, kde Karel padl."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Bianco z Turína uvádí domněnku, že německý vévoda, který se prý smířil s Karlem Smělým, je Zikmund Rakouský; Karel by pak mohl přes jeho země dostávat zbroj a vojsko a v pozadí by mohli stát Benátčané a císař."
+}

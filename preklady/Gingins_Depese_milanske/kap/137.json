@@ -1,0 +1,52 @@
+{
+ "cislo": 137,
+ "rimske": "CXXXVII",
+ "nadpis": "CXXXVII. Charles Visconti au duc de Milan. Bologne, le 20 mars 1476.",
+ "odesilatel": "Charles Visconti au duc de Milan.",
+ "misto_datum": "Bologne, le 20 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXXVII (ř. 4251–4265 souboru edice)",
+ "obsah_editora": "Publicité donnée à la dépêche adressée à l’évêque de Parme par le duc de Milan, qui, dit-on, se montre fort empressé à répandre la nouvelle de la défaite du duc de Bourgogne et paraît s’en réjouir. — L’envoyé milanais répond à ceux qui s’étonnent de la chose, que le duc son maître, supposé même qu’il eût des raisons intimes et secrètes d’être satisfait de l’échec essuyé par son allié, est trop prudent pour n’avoir pas réprimé sa joie et manifesté plus tôt un sentiment contraire, etc.",
+ "odstavce": [
+  {
+   "text": "CXXXVIII. Charles Visconti au duc de Milan. Bologne, le 20 mars 1476.",
+   "preklad": "CXXXVII. Carlo Visconti milánskému vévodovi. Bologna, 20. března 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore mio. D. Zohanne prima se partisse mi dimando se haveva novella alcuna di questo conflicto del Duca de Borgogna, dicendoli io assai cose haverne inteso, ma non havere certeza de mente, mi disse havere intesa da uno che veniva da Parma che V. S. haveva scripto la, et in molti altri lochi, de la rotta haveva havuto esso Duca, et che dimostrava esserli piaciuto. Io li risposi che mi rendeva certissimo, per essere V. S. sapientissima et essendo in liga, et colligata col prefato Duca, quando ben per qualche occulta et secreta casone li fosse piaciuto el danno suo, chella haveria soppressa et ascosta questa alegreza, et dimostrato el contrario, respose esserli stato cosi referto: ho voluto che del tutto sia avisata V ra Excellentia, alla quale humilmente mi ricomando.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Pan Giovanni se mě, než odjel, zeptal, zda mám nějakou zprávu o této porážce vévody burgundského. Když jsem mu řekl, že jsem o tom slyšel mnoho věcí, ale že nemám jistotu, řekl mi, že slyšel od jednoho člověka, který přišel z Parmy, že Vaše Milost tam a na mnoha jiných místech psala o porážce, kterou ten vévoda utrpěl, a že dávala najevo, že se jí to líbilo. Odpověděl jsem mu, že jsem si naprosto jist, že protože je Vaše Milost nanejvýš moudrá a je s jmenovaným vévodou ve spojenectví a svazku, i kdyby se jí jeho škoda z nějaké skryté a tajné příčiny líbila, byla by tuto radost potlačila a skryla a dávala by najevo opak. Odpověděl, že mu to tak bylo vyřízeno. Chtěl jsem, aby o všem byla Vaše Excelence zpravena; pokorně se jí doporučuji."
+  },
+  {
+   "text": "Datum Bononie die 20 Martij 1476.",
+   "preklad": "Dáno v Bologni 20. března 1476."
+  },
+  {
+   "text": "E. Ill me D. V.",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Firmat.",
+   "preklad": "Podepsán."
+  },
+  {
+   "text": "Fidelissimus servus Karolus Vicecomes.",
+   "preklad": "Nejvěrnější služebník Carlo Visconti."
+  },
+  {
+   "text": "A tergo: Ill. mo Principi et Excell. mo domino Galeaz Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "„D. Zohanne“: pan Giovanni, v Bologni nejspíš Giovanni II. Bentivoglio, pán města (neověřeno, Gingins osobu neurčuje).",
+  "Gingins (v poznámce, která zapadla do textu a byla odstraněna): srv. list milánského vévody biskupovi z Parmy z Vigevana z 15. března (č. CXXXV; Gingins tiskne cxxxiv).",
+  "Odstraněno záhlaví strany „DES AMBASSADEURS MILANAIS. 375“; opravy OCR: „conllicto“ → conflicto, „Excellente“ → Excellentia, „Firmai“ → Firmat."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Carlo Visconti hlásí z Bologni, že se tam povídá, jak milánský vévoda všude rozhlašuje porážku Karla Smělého a dává najevo radost. Visconti to popřel s tím, že by vévoda jako Karlův spojenec takovou radost jistě skryl."
+}

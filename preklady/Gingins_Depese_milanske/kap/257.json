@@ -1,0 +1,65 @@
+{
+ "cislo": 257,
+ "rimske": "CCLVII",
+ "nadpis": "CCLVII. Jean-Augustin de Vicomercato, au duc de Milan. Corne, le 27 juin 1476.",
+ "odesilatel": "Jean-Augustin de Vicomercato, au duc de Milan.",
+ "misto_datum": "Corne, le 27 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLVII (ř. 8628–8649 souboru edice)",
+ "obsah_editora": "Il continue à tenir son maître au courant des nouvelles des Suisses. — Les Confédérés rassemblés sur leurs frontières, occupent tous les passages, et se proposent de livrer, avant trois semaines, une grande bataille au duc de Bourgogne. Ils disent qu’ils ne le craignent nulle- lement, pourvu que le roi de France ne lui donne aucun secours. — Les Valaisans, au nombre d’environ 600, ayant fait des courses dans les terres de Savoie, les habitants des vallées d’Abondance et du Haut-Faucigny sont tombés sur l’ennemi, lui ont tué 300 hommes et repris les troupeaux et le butin dont il s’était emparé.",
+ "odstavce": [
+  {
+   "text": "CCLVII. Jean-Augustin de Vicomercato, au duc de Milan. Corne, le 27 juin 1476.",
+   "preklad": "CCLVII. Giovanni Agostino da Vimercate milánskému vévodovi. Como, 27. června 1476"
+  },
+  {
+   "text": "Illustrissimo et excellentissimo signor mio. Perseverando in avisare Vostra Signoria deli progressi de Allamani, ecc. intendo chel Duca di Bregogna ha presa una terra chiamata Romondo vicina ad Berna una liga. Dicti Allamani stanno saldi ali loro passi, intendendo fra tre septimane dare una bataglia ordinata contro esso duca dicendo elli non temerlo in cosa alcuna pur chel Re di Franza non gli dia soccorso. Il prefato Duca non ha lassato in quante terre ha prese altro che una campana per terra, dele quale campane se intende farne fare bombarde. Ceterum quelli de Valexe quali staxevano ali passi circa persone seicento, sono stracorsi nele vale di due terre appellate luna Undantia et laltra Fumexio nel dominio del Duca di Savoya, dovi li homini desse valle hano morte persone trecento dessi Valexani et gli hano retolta la presaglia dele bestie a loro facta. Se altro intenderò subito avisarone Vostra Excellentia, ala quale sempre mi racomando.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Pokračuji v oznamování Vaší Milosti o postupu Němců atd. Dozvídám se, že vévoda burgundský dobyl město jménem Romont, vzdálené od Bernu jednu míli. Řečení Němci stojí pevně u svých průsmyků a zamýšlejí do tří týdnů svést s tím vévodou spořádanou bitvu; říkají, že se ho v ničem nebojí, jen ať mu král francouzský nepošle pomoc. Řečený vévoda nenechal v žádném městě, které dobyl, víc než jeden zvon na město; z těch zvonů prý chce dát udělat velká obléhací děla. Dále ti z Valais, kteří stáli v průsmycích, asi šest set osob, vtrhli do údolí dvou míst, jedno se jmenuje Abondance a druhé Flumet, v panství vévody savojského, kde muži těch údolí zabili tři sta těch Valaisanů a vzali jim zpět ukořistěný dobytek. Dozvím-li se něco dalšího, ihned to oznámím Vaší Excelenci, jíž se stále doporučuji."
+  },
+  {
+   "text": "Como 27 Juny 1476, hora secunda noctis.",
+   "preklad": "V Comu 27. června 1476, ve druhou hodinu noci."
+  },
+  {
+   "text": "Excell. V. Illme D.",
+   "preklad": "Vaší Excelence, nejjasnější pane,"
+  },
+  {
+   "text": "Sottos. Fidelissimus servitor",
+   "preklad": "Podepsán: Nejvěrnější služebník"
+  },
+  {
+   "text": "Johannes Augustinus de Vicomercato.",
+   "preklad": "Johannes Augustinus de Vicomercato."
+  },
+  {
+   "text": "A tergo : Ill mo Principi ecc. dno Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Mitant, per caballarios in manibus M ci D ni Cichi, cito, cito, quot importât prò re ducali.",
+   "preklad": "Ať se pošle po jezdcích do rukou urozeného pana Cicca, spěšně, spěšně, neboť jde o vévodskou věc."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 II y a là une double confusion ; Romont avait été évacué par les Suisses et occupé par le comte de Romont dès le mois de février précédent. (Voir la dépêche de Panigardla, du 13 février 1476, n° ci.) La distance de Romont à Berne est de plus de sept lieues de Suisse.",
+  "2 Vallexani, les Yalaisans.",
+  "5 Abundantio, la vallée d’Abondanoe, eu Chablais.",
+  "4 Flumet, dans le Haut-Faucigny.",
+  "5 Les historiens parlent confusément de plusieurs expéditions des Valaisans dans la vallée d’Abondance et le Haut-Chablais en 1476, l’une au mois de mars, l’autre au mois de juin, et la troisième au mois de juillet. (Boccard, Histoire du Valais, p. 127-128.) Celle dont parle la dépêche doit être du milieu de juin."
+ ],
+ "poznamky": [
+  "Odstraněna čísla poznámek; „M ci D 1 Cichi“ > „M ci D ni Cichi“. Pan Cicco je patrně vévodský kancléř Cicco Simonetta (Gingins ho zmiňuje u č. 259).",
+  "Depeše z 27. června ještě nic neví o bitvě u Murtenu (22. června) a podává staré a zkreslené zprávy.",
+  "Gingins: dvojí zmatek: Romont Švýcaři vyklidili a hrabě z Romontu ho obsadil už v únoru (viz Panigarolovu depeši z 13. února 1476, č. 101); Romont je od Bernu přes sedm švýcarských mil.",
+  "Gingins: Vallexani = Valaisané (Horní Valaisané). Undantia = údolí Abondance v Chablais, Fumexio = Flumet v Horním Faucigny.",
+  "Gingins: historici zmatečně uvádějí několik valaiských výprav do údolí Abondance a Horního Chablais v roce 1476, v březnu, červnu a červenci (Boccard); výprava z depeše je asi z poloviny června.",
+  "Zajímavé: v Lombardii se tradovalo, že Karel Smělý bere z dobytých měst zvony, nechává každému jen jeden a dává z nich lít velká obléhací děla. Valaisanů prý vpadlo do savojských údolí asi 600 a místní jich 300 zabili."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Vimercate hlásí z Coma neověřené zprávy: Karel Smělý prý dobyl Romont a lije děla ze zvonů, Švýcaři chtějí do tří týdnů svést bitvu; Valaisané vpadli do savojských údolí Abondance a Flumet a ztratili 300 mužů."
+}

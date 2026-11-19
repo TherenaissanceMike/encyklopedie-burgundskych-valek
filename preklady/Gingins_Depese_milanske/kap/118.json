@@ -1,0 +1,55 @@
+{
+ "cislo": 118,
+ "rimske": "CXVIII",
+ "nadpis": "CXVIII. Bernardin .au duc de Milan. Cruseilles (en Savoie) le 5 mars 1476.",
+ "odesilatel": "Bernardin .au duc de Milan.",
+ "misto_datum": "Cruseilles (en Savoie) le 5 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXVIII (ř. 3707–3724 souboru edice)",
+ "obsah_editora": "Parti de Genève .au point du jour, il trouve à Cruseilles le seigneur Jean Palavicino de Scipione, qui lui apprend la défaite du duc de Bourgogne à Grandson. — On ne sait où le duc, ni J.-P. Paniga- rola se sont retirés.",
+ "odstavce": [
+  {
+   "text": "CXIX. Bernardin .au duc de Milan. Cruseilles (en Savoie) le 5 mars 1476.",
+   "preklad": "CXVIII. Bernardino milánskému vévodovi. Cruseilles (v Savojsku), 5. března 1476"
+  },
+  {
+   "text": "(Frammento di lettere.)",
+   "preklad": "(Zlomek listu.)"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Questa matina lonzi da Ginevra circha lega 8 ho trovato el magnifico d. Zohanne da Scipione quale era che nanzi al altri che vegliano a caxa, che ma dito corno lo Ill mo ducha de Borgogna e stato roto e frachassato et che ancora non se sapia dove fusse Sua Signoria ne D. Zohan Pedro Panigarola, et che perfino a guerra se robano amixi et inimixi et a loro anno auto fortuna.",
+   "preklad": "Nejjasnější pane můj. Dnes ráno asi 8 mil za Ženevou jsem potkal vznešeného d. Giovanniho da Scipione, který jel napřed před ostatními, kteří se vracejí domů. Řekl mi, že nejjasnější vévoda burgundský byl poražen a rozdrcen a že se dosud neví, kde je Jeho Milost ani d. Giovanni Pietro Panigarola, a že [teď] ve válce okrádají přátele i nepřátele, a oni měli štěstí [?]."
+  },
+  {
+   "text": "Ex Croxiglia die 5 Martii 1476.",
+   "preklad": "Z Cruseilles 5. března 1476."
+  },
+  {
+   "text": "Firmat. Servitor",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Bernardini.",
+   "preklad": "Bernardino."
+  },
+  {
+   "text": "A tergo: Ill° et Excellentis mo principi dno dno duci Mediolani Papieque, Janue, Cremone etc. dno dno suo metuendissimo.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti, pánu, panu vévodovi milánskému, pavijskému, janovskému, cremonskému atd., svému nejobávanějšímu pánu."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' L’un des trois ambassadeurs milanais, envoyés vers le duc de Bourgogne.",
+  "3 Crtiseilles, bourg à 5 lieues de Genève, sur la route d’Annecy, prov. de Genevois, Etats sardes."
+ ],
+ "poznamky": [
+  "Opravy: odstraněna čísla poznámek, „111 0 etExcellentis mo“ > „Ill° et Excellentis mo“; adresa ze dvou odstavců spojena.",
+  "„et che perfino a guerra se robano amixi et inimixi et a loro anno auto fortuna“: smysl nejistý, přeloženo s [?]; nejspíš že na cestách se teď okrádá kdekdo a vyslanci měli štěstí, že prošli.",
+  "Gingins: Giovanni da Scipione byl jedním ze tří milánských vyslanců u burgundského vévody. Cruseilles leží 5 mil od Ženevy na cestě do Annecy; v textu „circha lega 8“, neopraveno."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Bernardino potkal u Cruseilles vyslance Giovanniho da Scipione na cestě domů, od něhož se dozvěděl o drtivé porážce Karla Smělého; neví se, kde je vévoda ani Panigarola."
+}

@@ -1,0 +1,60 @@
+{
+ "cislo": 133,
+ "rimske": "CXXXIII",
+ "nadpis": "CXXXIII. Gabriel Moresino au duc de Milan. Lugano, le 13 mars 1476.",
+ "odesilatel": "Gabriel Moresino au duc de Milan.",
+ "misto_datum": "Lugano, le 13 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXXIII (ř. 4099–4120 souboru edice)",
+ "obsah_editora": "Détails sur le butin fait par les Suisses à Grandson. — Us ont assailli le camp du duc de Bourgogne le 2 mars, et se sont emparés de toute son artillerie, et entr’autre d’une grosse bombarde qui exige trente chevaux pour la traîner;.ils ont pris toutes les munitions et des vivres pour toute une année. — Ils ont enlevé sept étendards, dont l’un, tout broché d’or, portant une grande croix au milieu, est resté au canton de Schwytz; — une dizaine de banderoles, et plusieurs caisses pleines d’or monnayé et de vaisselle d’argent. — A l’exception de ceux de leurs gens qui s’étaient retirés dans le château de Grandson et qui ont été mis à mort, ils n’ont eu, dit-on, que vingt hommes tués, et quelques blessés. — Quant aux Bourguignons, ils n’ont pas perdu beaucoup de monde. — Les Suisses sont rentrés dans leurs foyers où ils font de grandes réjouissances.",
+ "odstavce": [
+  {
+   "text": "CXXXIV. Gabriel Moresino au duc de Milan. Lugano, le 13 mars 1476.",
+   "preklad": "CXXXIII. Gabriel Moresino milánskému vévodovi. Lugano, 13. března 1476"
+  },
+  {
+   "text": "Ill me et Ex e princeps. A di 12 azonse uno mio messo el quale me porta una lettera che me scrive uno mio amico, e dice che a di duy de marzo li Svizeri asaltano lo campo del duca de Bregogna corno e informata V. E., e dice che ano aquistati tuti li sue bombarde e spingarde e dici che in quisti le toile bombarda che trenta cavalli e bisogno a condurla, e ano auto tutta la monitione et era fornito per uno ano de vitualia et ano aguadegnato septe standardi grandi, el mazore de questi standardi ano auto la comunità de Cuyzo (sic), el quale e tuto doro con una croxe granda in mezo, e dece bandirole ancora, una cassa piena de scudi d’oro, e una cassa piena de taze e altro fornimento de argento, e una cassa che aveva dentro una cadrega tuta doro con certo altro fornimento, anchora altra roba assay che non me a scripto, e che de loro Suyzere non anno perduto se non persone 20 ne feriti assay, e che de li Bregognoni non e stato granda mortalitade salvo dici che quili Suyzere che erano in lo castello de Cranson sono morti tuti, e scrive anchora che li homini de li Suyzer tornano a caxa con granda festa. Altro non intendo al presente, me recomando ala E. V.",
+   "preklad": "Nejjasnější a nejvznešenější kníže. Dvanáctého dorazil můj posel a přinesl mi list, který mi píše jeden můj přítel. Píše, že 2. března Švýcaři napadli tábor vévody burgundského, jak je o tom Vaše Excelence zpravena, a že získali všechna jeho obléhací děla a spingardy; mezi nimi je prý takové [?] velké obléhací dělo, že k jeho převozu je třeba třiceti koní. Získali všechnu munici a [tábor] byl zásoben potravinami na celý rok. Ukořistili sedm velkých korouhví; největší z nich dostala obec Cuyzo (sic) [Schwyz] a je celá zlatá s velkým křížem uprostřed; dále ještě deset praporců, truhlu plnou zlatých štítových, truhlu plnou pohárů a jiného stříbrného náčiní a truhlu, v níž byl celý zlatý stolec s nějakou další výbavou, a ještě mnoho jiných věcí, které mi nevypsal. Ze Švýcarů prý nepadlo víc než 20 osob, raněných je mnoho; ani u Burgunďanů nebyla velká úmrtnost, kromě toho, že ti Švýcaři, kteří byli na hradě v Grandsonu, prý všichni zahynuli. Píše ještě, že švýcarští muži se vracejí domů s velkou slávou. Nic jiného nyní nevím; doporučuji se Vaší Excelenci."
+  },
+  {
+   "text": "Datum Lugani die 13 martij 1476.",
+   "preklad": "Dáno v Luganu 13. března 1476."
+  },
+  {
+   "text": "Vostro fidelissimo servitore",
+   "preklad": "Váš nejvěrnější služebník"
+  },
+  {
+   "text": "Gabriel Morexino.",
+   "preklad": "Gabriel Moresino."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex mo domino Galeazo",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu panu Galeazzovi"
+  },
+  {
+   "text": "Marie Duci Mediolani, etc.",
+   "preklad": "Mariovi, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' La communauté soit le canton de Schwitz.",
+  "8 Suycere, les Suisses.",
+  "3 Grandson.",
+  "4 Lugano, chef-lieu d’un ancien bailliage italien, cédé en 1513 aux Suisses par le souverain du Milanais, aujourd’hui l’une des trois principales villes du canton du Tessiti."
+ ],
+ "poznamky": [
+  "Gingins: „comunità de Cuyzo“ = obec, tj. kanton Schwyz; „Suyzere“ = Švýcaři; „Cranson“ = Grandson.",
+  "Gingins: Lugano, sídlo bývalého italského fojtství, které milánský panovník postoupil Švýcarům roku 1513; dnes jedno ze tří hlavních měst kantonu Ticino.",
+  "„in quisti le toile bombarda“: místo je v edici porušené („toile“ snad za „tale“ nebo „grossa“); Gingins rozumí „velké obléhací dělo, které táhne třicet koní“.",
+  "„cadrega“ = židle, stolec (lombardsky); snad Karlův trůn.",
+  "Opravy OCR: odstraněna čísla poznámek, „decornando“ → recomando, spojena rozdělená slova.",
+  "Zajímavé: zpráva z druhé ruky (přítel píšící do Lugana) o kořisti od Grandsonu: obléhací dělo pro 30 koní, zásoby na rok, sedm velkých korouhví (největší zlatá s křížem připadla Schwyzu), deset praporců, truhly zlata a stříbrného nádobí, zlatý stolec; švýcarské ztráty jen 20 mrtvých, kromě posádky grandsonského hradu, která byla celá pobita."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Moresino předává z Lugana zprávu přítele o švýcarské kořisti u Grandsonu: všechna děla včetně obřího obléhacího děla, zásoby, korouhve, truhly zlata a stříbra a zlatý stolec. Švýcaři prý ztratili jen 20 mužů (kromě posádky grandsonského hradu) a vracejí se slavně domů."
+}

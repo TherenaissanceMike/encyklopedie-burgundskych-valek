@@ -1,0 +1,59 @@
+{
+ "cislo": 167,
+ "rimske": "CLXVII",
+ "nadpis": "CLXVII. J. -P. Panigarola au duc de Milan. Lausanne, le 13 avril 1476.",
+ "odesilatel": "J. -P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 13 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXVII (ř. 5774–5792 souboru edice)",
+ "obsah_editora": "Le duc de Bourgogne a fait dire aux capitaines et conducteurs des troupes qui sont au camp de se tenir prêts, avec leurs gens, pour se mettre en marche d’abord après les fêtes de Pâques. — Il se peut cependant que ce départ soit encore différé, les médecins de Son Altesse voulant lui faire prendre médecine, mercredi ou jeudi, à cause de l’indisposition qui lui est survenue. On apprend que les Suisses ont tenu une diète où l’on a décrété une prise d’armes générale, et fait une ordonnance qui déclare qu’on ne fera point de prisonniers et qui prescrit de mettre à mort tous les Bourguignons dont on pourra se saisir, à l’exception des jeunes pages et des prêtres. — On peut donc prévoir que la guerre sera des plus cruelles et des plus meurtrières ; car du côté opposé on agit et on agira de la même façon, et de part et d’autre on est également disposé à la vengeance. — La lutte s’engagera vivement au moment où le duc mettra le pied sur le territoire suisse; mais pas auparavant.",
+ "odstavce": [
+  {
+   "text": "CLXVIII. J. -P. Panigarola au duc de Milan. Lausanne, le 13 avril 1476.",
+   "preklad": "CLXVII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 13. dubna 1476"
+  },
+  {
+   "text": "Illust.mo signor mio. P.to S.e a facto dire ali capitanei et capi di squadra di campo che stiano in puncto con le gente per partire facte le feste di Pasqua. Potria anco essere si differirà, perche questi medici monstrano mercori o zobia volere dare medicina ad Soa Ex.ia per questa alteratione sopravenuta ; ecc.",
+   "preklad": "Nejjasnější pane můj. Řečený pán dal říct kapitánům a velitelům oddílů v táboře, aby byli se svými lidmi připraveni vytáhnout po velikonočních svátcích. Mohlo by se však také stát, že se to odloží, protože zdejší lékaři dávají najevo, že chtějí ve středu nebo ve čtvrtek dát Jeho Excelenci lék kvůli nevolnosti, která na něj přišla atd."
+  },
+  {
+   "text": "Si sente li Suiceri aver tenuto consiglio di mettersi insieme, e facto ordine quanti ne potrano avere de li nostri li amazino, riservato li pagi e li preti et niuno fazano presone. Sara una crudelissima et sanguinente guerra, perche el simile si e facto e si fara dal canto di qua, se N. S. Dio non li provede, perche luna parte e laltra e disposta a vendeta. E corno questo S. vadi nele terre loro si crede bisognara essere ale mane, prima non.",
+   "preklad": "Slyšíme, že Švýcaři měli radu o tom, že se spojí, a vydali nařízení, aby všechny z našich, kolik jen jich dostanou, pobili, kromě pážat a kněží, a nikoho nebrali do zajetí. Bude to nejkrutější a nejkrvavější válka, protože totéž se dělo a bude dít i z této strany, pokud Pán Bůh nezasáhne, neboť jedna i druhá strana je odhodlána k pomstě. Věří se, že jakmile tento pán vstoupí do jejich zemí, dojde k boji zblízka [essere ale mane], dříve ne."
+  },
+  {
+   "text": "Lossane 13 aprilis 1476.",
+   "preklad": "Lausanne 13. dubna 1476."
+  },
+  {
+   "text": "Firmai. Servus",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "J. Petrus Panigarola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Illustrissimo et excellentissimo principi Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Cette année-là le jour de Pâques tombait sur le lendemain, 14 avril.",
+  "1 Cette ordonnance de la Diète, assemblée à Schivytz, est du 17 mars 1476; elle prescrit « de ne point faire de prisonniers, mais de tuer autant d’ennemis que possible. » (J. de Millier, Histoire suisse, t. VHI, p. 58, note 275.)",
+  "5 L’armée du duc de Bourgogne n’a jamais franchi les anciennes limites de la ligue helvétique qui ne comprenaient ni le canton de Fribourg, ni aucune portion de la Suisse française. Morat, dont les Bernois s’étaient emparés dans la campagne de l’année précédente, appartenait à Jacques de Savoie, comte de Romont."
+ ],
+ "poznamky": [
+  "Opravy OCR: „P t0 S e“ → „P.to S.e“ (prefato Signore), „disquadra dii“ → „di squadra di“, vypuštěna čísla poznámek, adresa spojena.",
+  "Gingins: Velikonoce připadly toho roku na následující den, 14. dubna; středa a čtvrtek tedy = 17. a 18. dubna 1476.",
+  "Gingins: nařízení sněmu shromážděného ve Schwyzu je ze 17. března 1476 a přikazuje nebrat zajatce, ale zabít co nejvíc nepřátel (J. von Müller VIII, 58, pozn. 275).",
+  "Gingins: burgundské vojsko nikdy nepřekročilo staré hranice švýcarského spolku, k němuž tehdy nepatřil Fribourg ani žádná část francouzského Švýcarska; Murten, který Bernští dobyli v předchozím roce, patřil Jakubovi Savojskému, hraběti z Romontu.",
+  "„essere ale mane“ = přijít do křížku, srazit se v boji.",
+  "Zajímavé: Spříseženci podle depeše nařídili nebrat zajatce a šetřit jen pážata a kněze; Panigarola čeká stejnou krutost i z burgundské strany (srov. oběšení posádky Grandsonu)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý nařídil kapitánům být připraveni k pochodu po Velikonocích, odchod se ale může odložit kvůli jeho nemoci. Švýcaři prý nařídili nebrat zajatce a pobít všechny Burgunďany kromě pážat a kněží; Panigarola čeká nejkrutější válku."
+}

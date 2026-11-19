@@ -1,0 +1,63 @@
+{
+ "cislo": 241,
+ "rimske": "CCXLI",
+ "nadpis": "CCXLI. J.-P. Panigarola au capitaine Hugues de San Severino, chevalier à’ Verceil. Du camp de Morat, 18 juin 1476.",
+ "odesilatel": "J.-P. Panigarola au capitaine Hugues de San Severino, chevalier à’ Verceil.",
+ "misto_datum": "Du camp de Morat, 18 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXLI (ř. 8206–8227 souboru edice)",
+ "obsah_editora": "1! annonce au capitaine San-Severino que d’après ce que le duc de Milan lui a écrit à son sujet, le duc de Bourgogne l’a reçu à son service avec cent lances et deux cents hommes de pieds pour trois années, sous les conditions stipulées dans la capitulation dont son mandataire Antonio est porteur. Il partira demain, muni d’une lettre du due de Bourgogne pour le sire de Château-Guyon, etc. (voir la dépêche précédente, n° ccxli). — L’ambassadeur milanais exprime le regret que San-Severino ne se soit pas adressé de prime- abord au duc de Milan leur maître, ainsi qu’il l’a fait ensuite; ce qui aurait mieux valu pour lui, etc. — Les avantages que le duc de Bourgogne fait au capitaine ne sont qu’un premier effet de sa bienveillance, et il ne dépendra que de lui que ces avantages soient augmentés, etc.",
+ "odstavce": [
+  {
+   "text": "CCXLI. J.-P. Panigarola au capitaine Hugues de San Severino, chevalier à’ Verceil. Du camp de Morat, 18 juin 1476.",
+   "preklad": "CCXLI. Giovanni Pietro Panigarola kapitánu Ugovi da Sanseverino, rytíři, do Vercelli. Z tábora před Murtenem, 18. června 1476"
+  },
+  {
+   "text": "Magnifico Ms. Ugo. — Ateso quanto il nostro Illus.mo S. mi a scritto et l’affectione che a V. M. sempre o portato e porto, acio la spesa avite facto non fosse frustra, ho operato questo Ill mo S. vi a conducto ali servitii soi con cento lanze e ducento fanti ad tempo di tre anni con le conditione et capituli che Antonino vi portera, che partira domane; li quali ho facto expedire et signare di mano propria di Soa Signoria, et Monsig re di Chiastelguyon vi dara li la prestanza di quatro mesi. Rincrescerne al primo tracto nonhabiate auto ricorso al S re nostro cosi corno al ultimo. Se meglio avesse potuto fare, Iharia facto volontieri, questo sara un principio quale questo S. vi da volontieri. Spero li portamenti vostri con ladiuto del p t0 N. S. saranno tali che augumenteranno la conditione vostra, et io sempre in ogni vostra cosa saro sempre corno per me proprio. Ricordandovi che questa conditione vi da prefato S. ad contemplatione del S. nostro, corno poreti intendere da Antonino vostro, al quale vedero far dar qualche dinari per il bisogno ne ha, et a la M. V. me riccomando.",
+   "preklad": "Urozený messere Ugo. — Vzhledem k tomu, co mi napsal náš nejjasnější pán, a k náklonnosti, kterou jsem k Vaší Urozenosti vždy choval a chovám, a aby výdaje, které jste vynaložil, nebyly marné, zařídil jsem, že Vás tento nejjasnější pán přijal do svých služeb se sto kopími a dvěma sty pěšáky na dobu tří let, za podmínek a článků, které Vám přinese Antonino, jenž odjede zítra. Dal jsem je vyhotovit a podepsat vlastní rukou Jeho Milosti a pan de Château-Guyon Vám tam vyplatí zálohu na čtyři měsíce. Mrzí mě, že jste se hned napoprvé neobrátil na našeho pána, tak jako naposledy. Kdybych byl mohl dosáhnout něčeho lepšího, rád bych to udělal; toto bude začátek, který Vám tento pán dává rád. Doufám, že Vaše počínání s pomocí řečeného našeho pána bude takové, že Vaše postavení zlepší, a já budu ve všech Vašich věcech vždy jako ve svých vlastních. Připomínám Vám, že toto postavení Vám řečený pán dává z ohledu na našeho pána, jak se můžete dozvědět od svého Antonina, jemuž zařídím vyplacení nějakých peněz na jeho potřeby. Vaší Urozenosti se doporučuji."
+  },
+  {
+   "text": "Ex Castris contra Morat 18 Junij 1476.",
+   "preklad": "Z tábora před Murtenem 18. června 1476."
+  },
+  {
+   "text": "M. V.",
+   "preklad": "Vaší Urozenosti"
+  },
+  {
+   "text": "Firmat.",
+   "preklad": "Podepsán:"
+  },
+  {
+   "text": "Totus",
+   "preklad": "Celý Váš"
+  },
+  {
+   "text": "Johannes Petrus Panicharola.",
+   "preklad": "Johannes Petrus Panicharola."
+  },
+  {
+   "text": "A tergo : Magnifico ac generoso Militi maiori honorando domino Ugoni de Sancto Severino, Illustrissimi ducis Rurgundie armorum, etc.",
+   "preklad": "Na rubu: Urozenému a šlechetnému rytíři, nanejvýš ctihodnému panu Ugovi da Sanseverino, [ve službách] nejjasnějšího vévody burgundského ve zbrani atd."
+  },
+  {
+   "text": "Vercellis. Cito. Cum sigillo.",
+   "preklad": "Do Vercelli. Spěšně. S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Ugo de San-Severino. (Voir la dépêche de Panigarola au duc de Milan, du même jour, n° ccxl.)",
+  "! Cento lame, cent lances italiennes, soit environ 500 chevaux.",
+  "3 Vercellis, Verceil, Etats Sardes."
+ ],
+ "poznamky": [
+  "Opravy OCR: „Illusi 0“ > „Illus.mo“, „vi a concludo“ čteno jako „vi a conducto“ (najal Vás), „condi- ditione“ > „conditione“; odstraněna čísla poznámek; adresa spojena.",
+  "V adrese „Illustrissimi ducis Burgundie armorum, etc.“ chybí patrně slovo jako „ductori“ (velitel); doplněno jen obecně.",
+  "Gingins: Ugo da Sanseverino, viz Panigarolovu depeši vévodovi z téhož dne, č. 240 (zde vnořenou do č. 239).",
+  "Gingins: sto kopí = sto italských kopí, tedy asi 500 koní.",
+  "Gingins: Vercelli, tehdy v Piemontu (Sardinské státy).",
+  "Antonino je Ugův zmocněnec Antonio Collazo (viz č. 246)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panigarola oznamuje Ugovi da Sanseverino, že ho Karel Smělý z ohledu na milánského vévodu přijal do služby se 100 kopími a 200 pěšáky na tři roky a že mu pán z Château-Guyon vyplatí zálohu na čtyři měsíce."
+}

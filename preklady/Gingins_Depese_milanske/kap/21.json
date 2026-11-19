@@ -1,0 +1,52 @@
+{
+ "cislo": 21,
+ "rimske": "XXI",
+ "nadpis": "XXI. Antoine d’ Appiano au duc de Milan. Montcalier, 17 mars 1475.",
+ "odesilatel": "Antoine d’ Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 17 mars 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXI (ř. 1104–1119 souboru edice)",
+ "obsah_editora": "Fausse nouvelle de la levée du siège de Neuss. — Il ne s’agit que d’un changement de position des troupes du duc de Bourgogne, nécessité par une grande crue des eaux du Rhin. — Madame de Savoie, toujours impatiente d’avoir des nouvelles, fait prier le duc de Milan de lui communiquer toutes celles qui pourront lui parvenir de France ou de Bourgogne.",
+ "odstavce": [
+  {
+   "text": "XXII. Antoine d’ Appiano au duc de Milan. Montcalier, 17 mars 1475.",
+   "preklad": "XXI. Antonio d'Appiano milánskému vévodovi. Moncalieri, 17. března 1475"
+  },
+  {
+   "text": "Ill. mo et Ex. mo signore mio. Chel duca di Bergogna habia levato lo exercito et sia longato da Nus prefata Madama respuose : Non lo credemo. Ben fu dicto questi giorni chel Ren era tanto cressuto che lera stato necessario levare alcune gente che erano da quel canto et metterle in un altro loco. Et perche continuamente Sua Signoria sta in expectatione cum desiderio da intendere qualche novella, prega V. Ex ia quando gli accade havere novelle di Bergogna vel de Franza, gli voglia piacere de fargline parte.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Na [zprávu], že vévoda burgundský zvedl vojsko a odtáhl od Neussu, řečená paní odpověděla: „Nevěříme tomu.“ V těchto dnech se ovšem říkalo, že Rýn tak stoupl, že bylo nutné stáhnout některé lidi, kteří byli na té straně, a postavit je na jiné místo. A protože Její Milost neustále toužebně čeká, že se dozví nějakou novinu, prosí Vaši Excelenci, aby se s ní ráčila podělit, kdykoli bude mít novinky z Burgundska nebo z Francie."
+  },
+  {
+   "text": "Ex Montecallero 17 Marcii 1475.",
+   "preklad": "Z Moncalieri 17. března 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre.",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmat: Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Apiano.",
+   "preklad": "Antonius de Apiano."
+  },
+  {
+   "text": "A tergo: Ill. m0 Principi et Excell. m0 domino Galeaz Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "„Řečená paní“ = Jolanda Savojská.",
+  "Oprava OCR: „111. mo et Ex. m °“ → Ill. mo et Ex. mo.",
+  "Zajímavé: zpráva o zvednutí obléhání Neussu byla falešná; šlo jen o přesun části vojska kvůli jarní povodni na Rýně."
+ ],
+ "shrnuti": "Jolanda Savojská nevěří zprávě, že Karel Smělý zvedl obléhání Neussu; šlo jen o přesun části vojska kvůli rozvodněnému Rýnu. Prosí milánského vévodu o všechny novinky z Burgundska a Francie.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

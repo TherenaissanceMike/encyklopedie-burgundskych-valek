@@ -1,0 +1,50 @@
+{
+ "cislo": 126,
+ "rimske": "CXXVI",
+ "nadpis": "CXXVI. Le duc de Bourgogne à la duchesse de Savoie. Nozeroy, le 8 mars 1476.",
+ "odesilatel": "Le duc de Bourgogne à la duchesse de Savoie.",
+ "misto_datum": "Nozeroy, le 8 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXVI (ř. 3898–3921 souboru edice)",
+ "obsah_editora": "En se référant à sa lettre de la veille, le duc mande à la duchesse de Savoie, qu’ensuite des derniers renseignements qui lui sont parvenus, l’ennemi fait des préparatifs pour assiéger la ville de Romont, l’une des principales clefs des Etats de Madame du côté des Suisses. — Considérant que la chute de cette forte place aurait des conséquences fatales pour les pays de Savoie, le duc a résolu d’aller asseoir son camp aux environs de Lausanne (et non de Genève), pour être plus à portée de protéger la place menacée par les Suisses. — A cet effet, le duc se propose de partir le lendemain de Nozeroy pour Lausanne. — Il prie Madame de donner des ordres pour que le nouveau camp soit approvisionné de bois, de vivres et autres choses nécessaires qui pourront être transportés sur les lieux, soit par terre, soit par la voie du lac. — Il assure la duchesse qu'il ne prendra pas de repos qu’il n’ait délivré son pays de la présence de l’ennemi, avec l’aide de Dieu et de Saint-Georges son patron. (Liltere Ducis Burgundie ad Illustrissimam ducissam Sa-",
+ "odstavce": [
+  {
+   "text": "CXXVII. Le duc de Bourgogne à la duchesse de Savoie. Nozeroy, le 8 mars 1476.",
+   "preklad": "CXXVI. Vévoda burgundský vévodkyni savojské. Nozeroy, 8. března 1476"
+  },
+  {
+   "text": "(Litere Ducis Burgundie ad Illustrissimam ducissam Sabaudie. Traducte de galico in italicum, datæ die 8 martii Noxereti.)",
+   "preklad": "(List vévody burgundského nejjasnější vévodkyni savojské, přeložený z francouzštiny do italštiny, daný 8. března v Nozeroy.)"
+  },
+  {
+   "text": "Madama, io me ricomando ad vui tanto affectuosamente corno io posso. Madama per darvi soccorso, secondo vi sono obligato, era deliberato de locare el mio campo presso de Geneva secondo ne aveva scripto. Ma ho havuto noticia da poi che linimici menazano la villa de Romont et hanno intenzione de assediarla, et che per meterse in ordine incontinente ad ciò fare, se sono ritirati verso il suo paese; pretendendose de venire ad desfare la dicta villa, la quale e una sbara ad vostri paesi da un canto che saria grande inconveniente : del quale poteresti ricevere dapno inrecuperabile. Perche mi convene per il bene de dicto vostro paese et defensione del vostro stato metere el mio campo in tale locho che io possa preservare la dicta villa. La qual cossa io faro ad piacere de Dio. Et perciò partirò domane da qui et alocaro el campo presso de Losana dil che ve ho voluto dare aviso. Pregando ve che vi piaza ordinare che per il laco et altre vie expedite sia conducto a la dicta terra de Losana tuto el lignarne et altre materie et victuaglie necessarie al dicto campo, perche mai non cessaro fin ad tanto havero liberato el vostro paese dali dicti inimici con lo adiutorio de Dio et de M° San Zorzo. Quale Madama ve habia in soa digna guardia.",
+   "preklad": "Paní, doporučuji se Vám tak srdečně, jak jen mohu. Paní, abych Vám přinesl pomoc, jak jsem Vám zavázán, rozhodl jsem se postavit svůj tábor u Ženevy, jak jsem Vám napsal. Potom jsem však dostal zprávu, že nepřátelé ohrožují město Romont a mají v úmyslu je oblehnout a že se stáhli do své země, aby se k tomu hned připravili. Chtějí přijít a zničit řečené město, které je z jedné strany závorou Vašich zemí; to by byla velká pohroma, z níž byste mohla utrpět nenapravitelnou škodu. Proto musím pro dobro řečené Vaší země a pro obranu Vašeho státu postavit svůj tábor na takovém místě, abych mohl řečené město uchránit, a to s Boží vůlí učiním. Zítra proto odsud odjedu a postavím tábor u Lausanne, o čemž jsem Vám chtěl dát zprávu. Prosím Vás, abyste ráčila nařídit, aby po jezeře a jinými schůdnými cestami bylo do řečeného města Lausanne dopraveno všechno dříví a jiné materiály a potraviny potřebné pro řečený tábor, neboť nikdy nepřestanu, dokud s pomocí Boží a pana svatého Jiří neosvobodím Vaši zemi od řečených nepřátel. Ať Vás, paní, [Bůh] má ve své důstojné ochraně."
+  },
+  {
+   "text": "Signata manu principis.",
+   "preklad": "Podepsáno vlastní rukou knížete."
+  },
+  {
+   "text": "El vostro fiale fratello Charles.",
+   "preklad": "Váš věrný [?] bratr Charles."
+  },
+  {
+   "text": "Senza l’attergo e il sigillo.",
+   "preklad": "Bez adresy na rubu a bez pečeti."
+  }
+ ],
+ "poznamky_editora": [
+  "' Voir la lettre du duc Charles à la duchesse de S. du jour précédent (n° exxm).",
+  "1 Romont, chef-lieu de district, canton de Fribourg, à six lieues nord de Lausanne, appartenait alors à la Savoie.",
+  "5 La ville de Lausanne.",
+  "1 Saint-Georges, patron du duc Charles et de la noblesse de Bourgogne. ( Gottut , 1. c., col. 1438.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: latinský záhlavní řádek byl rozdělen mezi konec obsahu editora („(Litere Ducis Burgundie ad Illustrissimam ducissam Sa-“) a dva úlomky v odstavcích („baudie. … datæ die 8 martii“ / „Noxereti.)“); složen do jednoho odstavce. Podpis ze dvou odstavců spojen. Opravy OCR: „rieomando ad vai“ > „ricomando ad vui“, „dieta“ > „dicta“ (3×), „aiocaro“ > „alocaro“, „Ugnarne“ > „lignarne“ (dříví, Gingins: bois), odstraněna čísla poznámek. V podpisu „fiale“ (snad „fidele“), přeloženo s [?].",
+  "Text je dobový italský překlad francouzského listu.",
+  "Gingins: srov. vévodův list z předchozího dne (zde depeše CXXIV). Romont, okresní město v kantonu Fribourg, šest mil severně od Lausanne, tehdy savojské. Svatý Jiří byl patronem vévody Karla a burgundské šlechty.",
+  "Zajímavé: Karel den po listu, v němž sliboval tábor u Ženevy, mění plán na Lausanne kvůli hrozbě švýcarského obléhání Romontu; zásobování tábora (dříví, potraviny) má jít po Ženevském jezeře."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z dobového italského překladu francouzského listu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý oznamuje Jolandě Savojské, že místo u Ženevy postaví tábor u Lausanne, protože Švýcaři chystají obléhání Romontu, klíče k savojským zemím. Žádá, aby mu po jezeře a jinými cestami dopravila dříví a potraviny."
+}

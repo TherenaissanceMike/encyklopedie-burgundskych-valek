@@ -1,0 +1,55 @@
+{
+ "cislo": 237,
+ "rimske": "CCXXXVII",
+ "nadpis": "CCXXXVII. Jean de Mugiascha, syndic de Biasca, au duc de Milan. Biasca, 17 juin 1476.",
+ "odesilatel": "Jean de Mugiascha, syndic de Biasca, au duc de Milan.",
+ "misto_datum": "Biasca, 17 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXXXVII (ř. 8109–8126 souboru edice)",
+ "obsah_editora": "Il informe le duc de Milan que les habitants de la Léventine ont dû envoyer aux Suisses, leurs seigneurs, cinquante hommes de pieds pour entrer en campagne contre le duc de Bourgogne; — ces hommes sont partis le plus secrètement possible, samedi (15 courant). — Les gens de la Léventine (Tessinois) ont manifesté leur allégresse au sujet du soulèvement qui a eu lieu à Gênes. — Ils disent que le roi de France s’était avancé jusqu’à Lyon à la tête d’une grande armée, mais qu’ensuite ila rétrogradé.",
+ "odstavce": [
+  {
+   "text": "CCXXXVII. Jean de Mugiascha, syndic de Biasca, au duc de Milan. Biasca, 17 juin 1476.",
+   "preklad": "CCXXXVII. Giovanni de Mugiascha, syndik v Biasce, milánskému vévodovi. Biasca, 17. června 1476"
+  },
+  {
+   "text": "Illustrissime et Excellentissime Princeps ecc. — Excellentiam Vestram adviso quod hommes Leventinenses opportuerunt mitere dominis suis de liga confederatorum homines 50 pedestres prò eundo in campum versus Illustrissimum Ducem Bringondie, advisando etiam prellibatam D. V. quod demonstrarunt se lettari de ilio mottu seu ex- cessu facto in civitate Janue. De Rege Eranchorum dicitur venisse ad Leonem cum magno exercitu et quod debet postea esse retrogressus, et qui homines 50 ut supra re- cesserunt die sabati proximi preteriti quantum secrete potuerunt. Nil aliud prò presenti nisi quod D. et Ex tie Vestre me recomitto",
+   "preklad": "Nejjasnější a nejvznešenější kníže atd. — Oznamuji Vaší Excelenci, že muži z Leventiny museli poslat svým pánům ze spolku spříseženců 50 pěšáků, aby táhli do pole proti nejjasnějšímu vévodovi burgundskému. Oznamuji též řečené Vaší Milosti, že dávali najevo radost z onoho pohybu či výtržnosti, k níž došlo v Janově. O králi Francouzů se říká, že přitáhl k Lyonu s velkým vojskem a že potom měl ustoupit. Řečených 50 mužů odešlo minulou sobotu, tak tajně, jak jen mohli. Nic jiného prozatím, jen že se Vaší Milosti a Excelenci doporučuji."
+  },
+  {
+   "text": "Ex Abiasca die lune 17 Junij 1476.",
+   "preklad": "Z Biasky v pondělí 17. června 1476."
+  },
+  {
+   "text": "Ejusdem D. Vestre fidellissimus servitor Firmat. Johannes de Mugiascha",
+   "preklad": "Téže Vaší Milosti nejvěrnější služebník, podepsán: Johannes de Mugiascha"
+  },
+  {
+   "text": "Sindicus fischalis et notarius etc.",
+   "preklad": "fiskální syndik a notář atd."
+  },
+  {
+   "text": "A tergo : Illustrissimo principi et excellentissimo domino Duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' La ligue helvétique , dont les trois cantons primitifs étaient seigneurs de la vallée Léventine, voir la dépêche n° i, à la note l re ,",
+  "- Au sujet des troubles de Gênes qu’on soupçonnait avoir été fomentés par le roi de France, voyez la dépêche d’ Appiano, du 13 juin précédent, n° ccxxx, à la note 3.",
+  "3 Leonem, Lyon.",
+  "4 La dépêche étant datée du lundi 17, le samedi précédent fut le 15 juin."
+ ],
+ "poznamky": [
+  "List je latinsky. Odstraněna čísla poznámek a rozdělená slova; podpis spojen do jednoho odstavce.",
+  "Gingins: spolek spříseženců = švýcarská liga, jejíž tři původní kantony (Uri, Schwyz, Unterwalden) byly pány údolí Leventina (viz depeši č. 1).",
+  "Gingins: k nepokojům v Janově, z jejichž podněcování byl podezříván francouzský král, viz Appianovu depeši z 13. června, č. 230.",
+  "„minulá sobota“ = 15. června 1476 (depeše je z pondělí 17. června).",
+  "Zajímavé: i poddaná údolí Leventina (dnešní Ticino) musela k tažení proti Karlovi postavit kontingent, 50 pěšáků, a o dva dny později dalších 50 (depeše č. 242)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Syndik z Biasky hlásí, že Leventina musela tajně poslat Švýcarům 50 pěšáků proti burgundskému vévodovi a že tamní lidé se radovali z nepokojů v Janově; o Ludvíkovi XI. se říká, že přitáhl k Lyonu a pak ustoupil."
+}

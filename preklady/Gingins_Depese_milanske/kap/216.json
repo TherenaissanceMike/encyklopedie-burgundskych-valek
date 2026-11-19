@@ -1,0 +1,62 @@
+{
+ "cislo": 216,
+ "rimske": "CCXVI",
+ "nadpis": "CCXVI. Balthasar de Còme [capitaine de Lugano] au duc de Milan. Lugano, le 1 er juin 1476.",
+ "odesilatel": "Balthasar de Còme [capitaine de Lugano] au duc de Milan.",
+ "misto_datum": "Lugano, le 1 er juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXVI (ř. 7469–7486 souboru edice)",
+ "obsah_editora": "Nouvelles informations sur les mouvements des Suisses. — Un second explorateur revenant d 'Altorf, canton d’Uri, où il se trouvait à la date du 29 mai, a vu un bon nombre d’hommes armés et de chevaux chargés de toute sorte d’armes qui y arrivaient. — S’étant enquis d’où venaient ces gens, il lui fut répondu qu’ils venaient de Fribourg, où ils étaient allés à la rencontre du duc de Bourgogne, qu’ils s’en retournaient parce que le duc avait renoncé à son entreprise contre les Suisses, mais qu’on ne savait pas de quel côté il s’était porté. — Cette nouvelle lui a été confirmée par d’autres gens de guerre, revenant dans leurs foyers, qu’il a rencontrés sur son chemin, et l’on en parle publiquement dans les endroits par où il a passé à son retour.",
+ "odstavce": [
+  {
+   "text": "CCXVII. Balthasar de Còme [capitaine de Lugano] au duc de Milan. Lugano, le 1 er juin 1476.",
+   "preklad": "CCXVI. Baldassare da Como [kapitán luganský] milánskému vévodovi. Lugano, 1. června 1476"
+  },
+  {
+   "text": "Yhesus. — Illustrissime et Excellentissime princeps et domine domine metuendissime. Al presente he zonto chy un altro mio messo che vene dale parte Svycere, che dice che marcoldi proximo passato a hore 22 essendo in la terra del Torto dessi Todeschi Svyceri videte molte zente armate et con cavali caregati darme, che zonsero chi ; et cerchiando da essi dove venivano di Filiborgo dove erano andati al contrasto del Ducila de Bergognia et che erano partiti de la, perche la Excellentia del predetto Ducha era partita da limprexa contra dessi Sviceri, et che non se sa dove sia andato, dice etiam dicto messo che per camino venendo in qua in molte altre terre, ha viduto molte altre zente arrivare che affìrmaveno ut supra et di questo nhe publica voce e fama in quella parte ; si che de quanto ha portato ne fazo adviso a V. Excellente. Ala quale continue me aricomando.",
+   "preklad": "Ježíš. — Nejjasnější a nejvznešenější kníže a pane, pane můj nejctihodnější. Právě sem dorazil další můj posel, který přichází ze švýcarských krajů. Říká, že minulou středu ve 22 hodin, když byl v Altdorfu u těch švýcarských Němců, viděl, jak tam přichází mnoho ozbrojených lidí s koňmi naloženými zbraněmi. Když se jich vyptával, odkud jdou, [odpověděli, že] z Fribourgu, kam šli postavit se vévodovi burgundskému, a že odtamtud odešli, protože Jeho Excelence řečený vévoda upustil od podniku proti Švýcarům a neví se, kam se obrátil. Řečený posel dále říká, že cestou sem viděl v mnoha dalších místech přicházet mnoho dalších lidí, kteří tvrdili totéž, a v oněch končinách se o tom veřejně mluví. O tom, co přinesl, tedy podávám zprávu Vaší Excelenci, jíž se ustavičně doporučuji."
+  },
+  {
+   "text": "Ex Lugano primo Juny 1476 hora 23.",
+   "preklad": "Z Lugana 1. června 1476, ve 23 hodin."
+  },
+  {
+   "text": "Ejusdem Excellente Vestre",
+   "preklad": "Téže Vaší Excelence"
+  },
+  {
+   "text": "Fidelissimus servitor Baldesar de Como Capitaneus Vallis Lugani.",
+   "preklad": "Nejvěrnější služebník Baldassare da Como, kapitán luganského údolí."
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi domino Galeazo",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti panu Galeazzovi"
+  },
+  {
+   "text": "Marie Sforcie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "In manibus magnifici d. Cychi. Cito, cito.",
+   "preklad": "Do rukou vznešeného pana Cecca. Rychle, rychle."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Altorf, canton d’Uri.",
+  "5 Fribourg, en Suisse.",
+  "5 La cause du brusque retour dans leurs foyers des guerriers d’Uri et des autres cantons primitifs trouve sa véritable explication non dans la fausse nouvelle d’une prétendue retraite du duc de Bourgogne, mais dans la discorde qui régnait parmi les Suisses. (Voir la dépêche suivante, datée de Cóme, 6 juin, n° ccxix.)"
+ ],
+ "poznamky": [
+  "„Marcoldi proximo passato“ = minulou středu, tj. 29. května 1476 (tak i Gingins). Hodiny jsou italské, počítané od západu slunce: 22. hodina je asi dvě hodiny před západem, 23. hodina asi hodinu před ním.",
+  "Gingins: „Torto“ = Altdorf v Uri, „Filiborgo“ = Fribourg.",
+  "Gingins: Náhlý návrat mužů z Uri a dalších prvotních kantonů domů nevysvětluje falešná zpráva o ústupu burgundského vévody, ale svár mezi Švýcary (srv. depeši z Coma ze 6. června, zde č. 220).",
+  "Opravy OCR: odstraněna čísla poznámek (Torto, Filiborgo, andato), „hora 23 a“ → „hora 23“.",
+  "Zajímavé: Koncem května se do Altdorfu vraceli ozbrojenci s koňmi naloženými zbrojí, kteří byli u Fribourgu. Hodí se to k tomu, co píše Schilling o neochotě prvotních kantonů bránit Murten."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Druhý milánský vyzvědač viděl 29. května v Altdorfu vracet se ozbrojence z Fribourgu, kteří tvrdili, že Karel Smělý upustil od tažení proti Švýcarům a neví se, kam se obrátil."
+}

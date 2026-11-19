@@ -1,0 +1,53 @@
+{
+ "cislo": 139,
+ "rimske": "CXXXIX",
+ "nadpis": "CXXXIX. Nicodème .gouverneur d’Alexandrie, au duc de Milan. Alexandrie, le 21 mars 1476.",
+ "odesilatel": "Nicodème .gouverneur d’Alexandrie, au duc de Milan.",
+ "misto_datum": "Alexandrie, le 21 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXXIX (ř. 4285–4305 souboru edice)",
+ "obsah_editora": "Arrestation d’un courrier napolitain. — Le gouverneur d’Alexandrie, se conformant aux ordres reçus de son souverain, fait arrêter au passage, et conduire au duc de Milan, un cavalier qui varie dans ses dépositions. — Il se dit milanais d’origine, bien qu’engagé au service de don Frédéric d’Arragon, et chargé par ce prince de remettre de sa part une petite lettre au duc de Milan (séjournant pour lors à Vigevano ). — Il ajoute qu’il est parti quatre jours auparavant de Lausanne, où il a laissé le duc de Bourgogne dans son camp, attendant de nombreux renforts, ainsi que l’arrivée de la duchesse de Savoie pour s’avancer en armes sur Fribourg. —Il assure que don Frédéric a été fait capitaine général dans l’armée du duc de Bourgogne. Illustrissimo principe et Excellen mo Signore mio.",
+ "odstavce": [
+  {
+   "text": "CXL. Nicodème .gouverneur d’Alexandrie, au duc de Milan. Alexandrie, le 21 mars 1476.",
+   "preklad": "CXXXIX. Nicodemo, guvernér Alessandrie, milánskému vévodovi. Alessandria, 21. března 1476"
+  },
+  {
+   "text": "Post humillimam comendationem. Questa nocte circa li sei hore per lordine ho dato de comandamento de V. Excellentia me fo presentato questo cavalaro, quale drizo a V. Sublimità, perche ne lo parlare suo vacello ut infra. Domandandogli io primo congressu, de dove era, dixe era milanese et cavalaro del Ill.o don Fedrico de Aragonia ; et che venia a V. Ill ma Signoria cum una picola littera desso don Fedrico et che era partito hogi quatro di da Losana, dove havea lassato lo Illustre Duca de Bergogna quale havea radunato el campo suo, et aspectava molte altre gente. Et cossi Madama de Savoia, per andare a campo a Filiborgo. Item chel prefato Don Fedrico era facto capitaneo del duca de Bergogna.",
+   "preklad": "Po nejpokornějším doporučení. Této noci kolem šesté hodiny mi byl na rozkaz, který jsem vydal podle nařízení Vaší Excelence, předveden tento posel, kterého posílám k Vaší Výsosti, protože ve své řeči kolísá, jak níže. Když jsem se ho hned při prvním setkání ptal, odkud je, řekl, že je Milánčan a posel jasného dona Federica Aragonského, že jede k Vaší nejjasnější Milosti s malým listem od toho dona Federica a že vyjel dnes před čtyřmi dny z Lausanne, kde zanechal jasného vévodu burgundského, který shromáždil své vojsko a očekával mnoho dalších lidí, a stejně tak paní savojskou, aby táhl do pole k Fribourgu. Dále [řekl], že jmenovaný don Federico byl jmenován kapitánem vévody burgundského."
+  },
+  {
+   "text": "Ex Alexandria die 21 Martij 1476.",
+   "preklad": "Z Alessandrie 21. března 1476."
+  },
+  {
+   "text": "Firmat : Servulus",
+   "preklad": "Podepsán služebníček"
+  },
+  {
+   "text": "Nicodemus.",
+   "preklad": "Nicodemo."
+  },
+  {
+   "text": "A tergo : Illustrissimo principi et excellentissimo domino Duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu panu vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "' Le duc de Milan, séjournait alors à Vigevano (voir la dépêche pré. cèdente n° cxxxvm), sur la route de Turin à Milan ; le courrier arrivant à Alexandrie , sur la route de Gênes, avait évidemment une autre destination, ce qui fit qu’on l’arrêta.",
+  "* On ne peut guère douter que ce courrier napolitain était porteur de la volumineuse dépêche de Palomaro au roi Ferdinand, datée de Lausanne, 16 mars (n° cxxxv ci-devant), interceptée par le duc de Milan."
+ ],
+ "poznamky": [
+  "Gingins: vévoda pobýval tehdy ve Vigevanu (viz č. CXXXIX) na cestě z Turína do Milána; posel, který přišel do Alessandrie na cestě do Janova, měl zjevně jiný cíl, a proto byl zadržen.",
+  "Gingins: posel nepochybně vezl obsáhlou Palomarovu depeši králi Ferdinandovi z Lausanne z 16. března (č. CXXXV), kterou milánský vévoda zachytil.",
+  "„circa li sei hore“: podle italského počítání hodin od soumraku, tedy zhruba kolem půlnoci.",
+  "Věta „Et cossi Madama de Savoia, per andare a campo a Filiborgo“ je nejasná; přeloženo tak, že vévoda očekával i vévodkyni savojskou a chystal se táhnout k Fribourgu.",
+  "Opravy OCR: „111 0“ → Ill.o, „Excellente“ → Excellentia, odstraněna čísla poznámek, „14-76“ → 1476."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Guvernér Alessandrie zadržel posla dona Federica Aragonského, který si v odpovědích protiřečil, a posílá ho vévodovi. Posel tvrdil, že vyjel před čtyřmi dny z Lausanne, kde Karel Smělý shromažďuje vojsko, a že don Federico se stal Karlovým kapitánem."
+}

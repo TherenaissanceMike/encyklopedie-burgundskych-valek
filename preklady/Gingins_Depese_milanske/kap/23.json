@@ -1,0 +1,48 @@
+{
+ "cislo": 23,
+ "rimske": "XXIII",
+ "nadpis": "XXIII. Jacques Galeotto au Duc de Milan. Au camp devant Neuss, 17 mars 1475.",
+ "odesilatel": "Jacques Galeotto au Duc de Milan.",
+ "misto_datum": "Au camp devant Neuss, 17 mars 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXIII (ř. 1147–1164 souboru edice)",
+ "obsah_editora": "Le capitaine Galeotto se recommande aux bonnes grâces du duc Galeas-Marie, et lui exprime la joie qu’il éprouve de la conclusion de l’alliance entre Milan et le duc de Bourgogne. — Il dit qu’il est convaincu que le duc de Milan a choisi le bon parti en s’unissant fraternellement avec un prince excellent, très digne et plein de valeur, tel que le duc Charles, et qu’il aura lieu par la suite de s’en applaudir continuellement.",
+ "odstavce": [
+  {
+   "text": "XXIV. Jacques Galeotto au Duc de Milan. Au camp devant Neuss, 17 mars 1475.",
+   "preklad": "XXIII. Giacomo Galeotto milánskému vévodovi. V táboře před Neussem, 17. března 1475"
+  },
+  {
+   "text": "Illustrissime Princeps et Excellentissime domine domine observandissime. A la bona gratia de Vostra Ill ma Signoria humilmente et de continuo me riccomando: ho receputo singularissima contenteza e piacere de la bona liga et confederatione contracta fra Vostra Illustriss ma Sig ria con lo Excellentiss o Duca de Burgogna, e me pare che Vostra Illust a Signoria habia ellecto una bona parte contrahendo taie fraternità, perche questo Excellentissimo Principe e dignissimo e valentissimo, e continuamente Vostra Illust a Signoria ne restara ben contenta. A la cui bona gratia iterato humilmente me ricomando, suplicandola se in alcuna cosa la posso servire me voglia comandare, che li son devoto et affectionato servitore.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane, pane můj nejctihodnější. Do dobré přízně Vaší nejjasnější Milosti se pokorně a ustavičně doporučuji. Nesmírně mne potěšila a zaradovala dobrá liga a spojenectví, které Vaše nejjasnější Milost uzavřela s nejvznešenějším vévodou burgundským. Zdá se mi, že Vaše Milost zvolila dobrou stranu, když uzavřela takové bratrství, neboť tento nejvznešenější kníže je nanejvýš důstojný a nanejvýš statečný, a Vaše Milost s tím bude vždy spokojena. Do její dobré přízně se znovu pokorně doporučuji a prosím ji, abych mohu-li jí v něčem posloužit, ať mi poručí, neboť jsem jejím oddaným a náklonným služebníkem."
+  },
+  {
+   "text": "Ex Castris Ducalibus Brogondie ante Nusiam 17 Martij 1475.",
+   "preklad": "Z vévodského burgundského tábora před Neussem 17. března 1475."
+  },
+  {
+   "text": "Ejusdem Illustris Dominationis Vestre",
+   "preklad": "Téže nejjasnější Vaší Milosti"
+  },
+  {
+   "text": "Servitor humilis",
+   "preklad": "pokorný služebník"
+  },
+  {
+   "text": "Sottost. : Jacobo Galig . . . .",
+   "preklad": "Podepsán: Jacobo Galig[ioto] …"
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et Excellent mo Domino Duci Mediolani etc. observandissimo etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, vévodovi milánskému atd., nejctihodnějšímu atd."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Gingins: Giacomo Galeotto (Galigioto, Galiot), statečný a schopný neapolský kondotiér, velel u Neussu části italských vojsk Karla Smělého. Přešel ze služeb Jana z Anjou, vévody kalábrijského, k Karlovi, sloužil mu věrně až do jeho smrti u Nancy, kde sám padl do zajetí; pak sloužil Karlu VIII. a padl v bitvě u Saint-Aubin-du-Cormier 28. července 1488. Nezaměňovat s Jacquesem Ricardem de Genouillac, zvaným Galiot.",
+  "Oprava dělení: Gingingsova poznámka o Galeottovi byla strojově zařazena jako poslední odstavec originálu; z `odstavce` vyřazena (zůstává v této poznámce).",
+  "Opravy OCR: „Excellent 1110“ → Excellent mo, spojena rozdělená slova; podpis je v edici useknutý („Galig . . . .“)."
+ ],
+ "shrnuti": "Neapolský kondotiér Giacomo Galeotto, velitel italských oddílů v burgundském táboře u Neussu, blahopřeje milánskému vévodovi ke spojenectví s Karlem Smělým a nabízí mu své služby.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

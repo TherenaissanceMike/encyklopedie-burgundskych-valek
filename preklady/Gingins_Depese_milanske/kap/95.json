@@ -1,0 +1,57 @@
+{
+ "cislo": 95,
+ "rimske": "XCV",
+ "nadpis": "XCV. Antoine d’Appiano au duc de Milan. Rivoli, 6 janvier 1476.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Rivoli, 6 janvier 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše XCV (ř. 3080–3101 souboru edice)",
+ "obsah_editora": "Apparition du comte de Romont dans ses terres du Pays de Vaud, accompagné de quelques gens d’armes bourguignons. — Tentative de ce prince pour reprendre sa ville d’Yverdun , dont le château est occupé par les Allemands. •— Le comte a pu entrer dans la ville à l’aide de quelques bourgeois de bonne volonté qui lui ont ouvert une porte. Il a pris prisonniers quelques Allemands, sur quoi, n’ayant pu prendre le château, il est retourné en Bourgogne. — Après son départ les Allemands sont sortis du château où ils s’étaient retirés et ont brûlé la ville, à ce que disent les uns, et selon d’autres quelques maisons des faubourgs seulement. — La duchesse de Savoie assure que le grand-bâtard est revenu en Bourgogne.",
+ "odstavce": [
+  {
+   "text": "XCVI. Antoine d’Appiano au duc de Milan. Rivoli, 6 janvier 1476.",
+   "preklad": "XCV. Antonio d'Appiano milánskému vévodovi. Rivoli, 6. ledna 1476"
+  },
+  {
+   "text": "Monsignore de Romont venne questi giorni nel paese di Vau cum alcune gente de Borgogna, et andò ad una terra de le sue chiamata Iverdone dove e un castello, e la terra e bona : non puote havere el castello nel quale erano certi Alamani. Intro nella terra, perche lhomini di bona voglia lo lassarono intrare ; prese certi puochi Alamani et ritorno in Borgogna et li meno cum luy ; bensì partito che fu andarono a brasare dieta terra ; alcuni dicono tutta et lo castello anchora, et alcuni dicono solamente certe masone, cherano fora de la terra. Io me ne reporto a la verità; dice prefata Madama chel S re Bastardo di Borgogna e venuto in Borgogna.",
+   "preklad": "Pan z Romontu přišel v těchto dnech do země Vaud s několika lidmi z Burgundska a šel k jednomu ze svých měst jménem Yverdon, kde je hrad, a město je dobré. Hrad, v němž byli jacísi Němci, dostat nemohl. Do města vstoupil, protože ho tamní lidé dobré vůle pustili dovnitř; zajal několik málo Němců, vrátil se do Burgundska a odvedl je s sebou. Avšak když odešel, šli [Němci] řečené město vypálit; někteří říkají, že celé i s hradem, jiní, že jen některé domy, které byly mimo město. Odvolávám se na pravdu. Řečená paní říká, že pan Bastard Burgundský přišel do Burgundska."
+  },
+  {
+   "text": "A la Celsitudine V a me ricomando.",
+   "preklad": "Vaší Výsosti se doporučuji."
+  },
+  {
+   "text": "Ex Ripollis 6 Januarij 1476.",
+   "preklad": "Z Rivoli 6. ledna 1476."
+  },
+  {
+   "text": "Divotissimus servulus",
+   "preklad": "Nejoddanější služebníček"
+  },
+  {
+   "text": "Firmat. Antonius de Aplano.",
+   "preklad": "Podepsán: Antonius de Aplano [= Antonio d'Appiano]."
+  },
+  {
+   "text": "A tergo : Illustrissimo Principi etc. Domino Galeaz Marie Sforzie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd. panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Jacques de Savoie , comte de Romont, seigneur du Pays de Vaud. La trêve conclue le 12 novembre précédent entre le duc de Bourgogne et les Suisses avait expiré le 1 er janvier 1476.",
+  "- Yverdon, petite ville avec un château sur le lac de Neuchâtel, chef- lieu du district de même nom, au canton de Vaud. (J. de Millier , Histoire de la Suisse, t. VIII, p. 9) rapporte ce fait comme ayant eu lieu dans la nuit du 12 au 13 janvier, la dépêche ci-dessus fait voir qu’il est antérieur de 8 à 10 jours à la date que lui assigne notre célèbre historien.",
+  "3 Rivoli près Turin, en Piémont."
+ ],
+ "poznamky": [
+  "Oprava dělení: odstavce rozdělené zlomem strany spojeny, adresa spojena; „Bipollis 1 * 3“ = Ripollis (Rivoli) se zbytky čísel poznámek; „Firmai“ = Firmat.",
+  "Gingins: Jakub Savojský, hrabě z Romontu, pán Vaudu. Příměří uzavřené 12. listopadu 1475 mezi burgundským vévodou a Švýcary vypršelo 1. ledna 1476. Rivoli leží u Turína.",
+  "Gingins: Johannes von Müller (Dějiny Švýcarska VIII, s. 9) klade přepadení Yverdonu do noci z 12. na 13. ledna 1476; depeše ukazuje, že se stalo o 8–10 dní dříve.",
+  "Zajímavé: depeše ze 6. ledna 1476 posouvá romontský útok na Yverdon před datum uváděné v pozdějších dějinách; podle ní město otevřeli měšťané a švýcarská posádka se udržela v hradu."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Hrabě z Romontu s burgundskými vojáky vnikl s pomocí měšťanů do Yverdonu, hrad držený Němci však nedobyl a odtáhl se zajatci. Posádka pak podle různých zpráv vypálila celé město, nebo jen domy za hradbami."
+}

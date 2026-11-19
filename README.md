@@ -18,6 +18,7 @@ Osobnosti, bitvy, události, místa a písně burgundských válek (1468–1477)
 | Philippe de Commynes, *Mémoires* (francouzsky) | | É. Dupont, Paris 1840–1847 | `preklady/Commynes_Memoires/kap/` (50 kapitol, burgundský úsek) |
 | Olivier de La Marche, *Mémoires* (francouzsky) | | H. Beaune a J. d'Arbaumont, Paris 1883–1888 | `preklady/LaMarche_Memoires/kap/` (11 kapitol) |
 | Jean Molinet, *Chroniques* (francouzsky) | | J.-A. Buchon, Paris 1827 | `preklady/Molinet_Chroniques/kap/` (39 kapitol) |
+| Depeše milánských vyslanců (Panigarola, Appiano, Petrasanta…; italsky) | Milán, Archivio di Stato | F. de Gingins-La Sarra, Paris–Genève 1858 | `preklady/Gingins_Depese_milanske/kap/` (287 depeší 1473–1477, čísla podle edice) |
 
 Překlady vytvořila AI (Claude) z tištěných edic, Bern 3 a Luzerner Schilling z vlastního přepisu rukopisu. Prošly první korekturou, **proti rukopisům zatím ověřené nejsou**. Nejistá místa jsou označena `[?]`. Závazné odborné termíny jsou v `TERMINY.md`.
 

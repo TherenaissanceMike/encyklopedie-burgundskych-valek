@@ -1,0 +1,55 @@
+{
+ "cislo": 27,
+ "rimske": "XXVII",
+ "nadpis": "XXVII. Antoine d’ Appiano au Duc de Milan. Montcalier, 24 mars 1475.",
+ "odesilatel": "Antoine d’ Appiano au Duc de Milan.",
+ "misto_datum": "Montcalier, 24 mars 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXVII (ř. 1228–1244 souboru edice)",
+ "obsah_editora": "Madame a été bien aise d’apprendre que le duc de Milan est tout prêt à faire publier l’alliance avec la Bourgogne dans l’octave de Pâques, jour convenu, si la réponse du duc de Bourgogne est conforme. — Elle pense que le seigneur de Rochefort, porteur de cette réponse, sera de retour pour le terme fixé, et qu’il n’aura pas eu besoin d’aller jusque vers son maître.",
+ "odstavce": [
+  {
+   "text": "XXVIII. Antoine d’ Appiano au Duc de Milan. Montcalier, 24 mars 1475.",
+   "preklad": "XXVII. Antonio d'Appiano milánskému vévodovi. Moncalieri, 24. března 1475"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. Essa ha etiam hauto piacere intendere che V. Ex ia sia paratissima fare publicare la liga cum Borgogna, l'octava di Pasqua, secondo la giornata presa venendo simile resposta dal Signore Duca de Borgogna, et ella crede sara portata et che D. Guglielmo Rocifort sara giuncto a quel tempo, qual non crede sia andato al prefato suo signore.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Ona [paní] měla také radost, když se dozvěděla, že Vaše Excelence je zcela připravena dát vyhlásit ligu s Burgundskem v oktávu Velikonoc, podle stanoveného dne, přijde-li od pana vévody burgundského podobná odpověď. Věří, že [odpověď] bude přinesena a že pan Guglielmo Rocifort do té doby dorazí; nevěří, že by jel až k řečenému svému pánu."
+  },
+  {
+   "text": "Ex Montecallerio die 24 Marcii 1475.",
+   "preklad": "Z Moncalieri 24. března 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudini Vestre.",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonius de Aplano."
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Excell mo Dno Galeaz Marie Sforcie Vicecomiti duci Mediolani.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "(Con sigillo)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Le jour de Pâques tomba, en 1475, sur le 26 mars et le dimanche de Voctmie sur.le 2 avril."
+ ],
+ "poznamky": [
+  "Gingins: Velikonoce připadly roku 1475 na 26. března, oktáv Velikonoc (Bílá neděle) na 2. dubna 1475.",
+  "Text začíná „Essa ha etiam…“ (Ona měla také…), zřejmě jde o úryvek; začátek listu v edici chybí.",
+  "„D. Guglielmo Rocifort“ (Gingins: seigneur de Rochefort) je nejspíš Guillaume de Rochefort, rada Karla Smělého, který vezl burgundskou odpověď ohledně vyhlášení ligy.",
+  "Opravy OCR: „Poetava“ → l'octava, „111 1 » 0“ → Ill mo, „IIl“ → Ill; odstraněno číslo poznámky; dva řádky adresy spojeny."
+ ],
+ "shrnuti": "Jolanda Savojská vítá, že milánský vévoda je připraven veřejně vyhlásit ligu s Burgundskem o oktávu Velikonoc (2. dubna 1475), dorazí-li včas burgundská odpověď po Guillaumu de Rochefort.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

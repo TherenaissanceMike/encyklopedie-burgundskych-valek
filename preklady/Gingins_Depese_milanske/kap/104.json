@@ -1,0 +1,43 @@
+{
+ "cislo": 104,
+ "rimske": "CIV",
+ "nadpis": "CIV. Le duc de Milan à I’évêque de Parme. son ambassadeur à Rome. Pavie, 16 février 1476.",
+ "odesilatel": "Le duc de Milan à I’évêque de Parme. son ambassadeur à Rome.",
+ "misto_datum": "Pavie, 16 février 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CIV (ř. 3293–3310 souboru edice)",
+ "obsah_editora": "Confirmation des nouvelles contenues dans des dépêches adressées par le courrier précédent à l’évêque de Parme (résidant en cour de Rome) ; — à savoir, l’arrivée du duc de Bourgogne à Besançon, etc.; — le voyage du roi de France à Lyon, pour s’aboucher avec le duc de Bourgogne; les grandes menaces proférées par le roi contre les Etats italiens, et son ordonnance touchant la convocation d’un concile à Lyon. — Depuis lors le duc de Milan avait reçu divers avis au milieu desquels il n’avait pas encore pu démêler la simple vérité. — Il attend des renseignements plus exacts des ambassadeurs qu’il a envoyés vers le duc de Bourgogne et de ceux qui accompagnent la duchesse de Savoie. — Madame est partie hier (15 février) de Suse, et aujourd’hui, elle passera les monts. — A mesure que des nouvelles certaines lui parviendront, le duc de Milan en informera l’évêque de Parme pour qu’il en fasse part à Sa Sainteté.",
+ "odstavce": [
+  {
+   "text": "CV. Le duc de Milan à I’évêque de Parme. son ambassadeur à Rome. Pavie, 16 février 1476.",
+   "preklad": "CIV. Milánský vévoda biskupovi parmskému, svému vyslanci v Římě. Pavia, 16. února 1476"
+  },
+  {
+   "text": "(Copia.) D. Sa. Episcopo Parmensi.",
+   "preklad": "(Opis.) Panu Sa[cramorovi?], biskupovi parmskému."
+  },
+  {
+   "text": "Ve habiamo per laltre nostre lettere, mandate per lantecedente cavalcata ad questa, significato quanto secavamo de le cose ultramontane; tum de la venuta del Duca de Borgogna al Bissanzone et poi ad.como del Re de Franza che se transferisce ad Lione per convenire in colloquio insieme, et de le grande minacie se fanno contra Italiani et de la orditura de fare Concilio. Da poi havemo receputo molti et varii avisi: deli quali ancora non sapemo retrare la simplice verità et per havere mandati li tre ambaxatori in Borgogna ad quello Signore et li doi altri in compagnia de Madama de Savoya, quale hier e partita da Susa deve passare ad Vigilanza, et hogi passera li monti ; expectamo recevere bona certitudine et chiareza de omne progresso, et cosi ne faremo participe per vostro mezo la Santità di Nostro Signore.",
+   "preklad": "Našimi jinými listy, poslanými s předchozí poštou (cavalcata), jsme Vám oznámili, co jsme věděli o zaalpských věcech: jak o příchodu vévody burgundského do Besançonu, tak [?] o tom, že se francouzský král přesouvá do Lyonu, aby se spolu sešli k rozhovoru, i o velkých hrozbách, které se pronášejí proti Italům, a o záměru svolat koncil. Od té doby jsme obdrželi mnoho různých zpráv, z nichž dosud nedovedeme vyvodit prostou pravdu. Poslali jsme však tři vyslance do Burgundska k onomu pánovi a dva jiné ve společnosti paní savojské, která včera odjela ze Susy, má projet Vigilanzou [?] a dnes přejde hory; očekáváme proto, že dostaneme dobrou jistotu a jasnost o všem, co se bude dít, a tak o tom skrze Vás zpravíme Jeho Svatost, našeho Pána."
+  },
+  {
+   "text": "Papié 16 februarj 1476.",
+   "preklad": "V Pavii 16. února 1476."
+  },
+  {
+   "text": "Manca la firma, l’attergo e il sigillo.",
+   "preklad": "Chybí podpis, adresa na rubu a pečeť."
+  }
+ ],
+ "poznamky_editora": [
+  "1 L’ordonnance du roi Louis XI, pour la convocation d’un concile de l’Eglise de France, est du mois de janvier 1475, v. style. (Chron. de Louis XI dans Lenglet, t. II, p. 129.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: „(Copia.) D. Sa. Episcopo Parmensi.“ (označení opisu a adresa) zapadlo na konec obsah_editora; přesunuto do odstavců. Odstavce rozdělené zlomem strany spojeny, „Be de Franza“ = Re de Franza.",
+  "„D. Sa.“ je nejspíš zkratka jména biskupa: parmským biskupem a milánským vyslancem v Římě byl tehdy Sacramoro Sacramori (da Rimini); edice to neuvádí, určení nejisté.",
+  "Nejasná místa: „ad.corno del Re de Franza“ (snad „a jak francouzský král…“), „Vigilanza“ (místo na cestě ze Susy přes Mont Cenis neurčeno), „secavamo“ (nejspíš „sapevamo“, věděli jsme).",
+  "Gingins: nařízení Ludvíka XI. o svolání koncilu francouzské církve je z ledna 1475 starého stylu (tj. 1476). Podle Ginginsova obsahu odjela vévodkyně ze Susy 15. února."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Milánský vévoda sděluje svému vyslanci v Římě, že zprávy o Karlu Smělém v Besançonu, o zamýšlené schůzce s Ludvíkem XI. v Lyonu a o králových hrozbách Italům se dosud nedají ověřit. Hlásí, že savojská vévodkyně právě přechází Alpy, a slibuje další zprávy pro papeže."
+}

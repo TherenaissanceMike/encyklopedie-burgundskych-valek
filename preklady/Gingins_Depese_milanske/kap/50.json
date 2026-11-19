@@ -1,0 +1,55 @@
+{
+ "cislo": 50,
+ "rimske": "L",
+ "nadpis": "L. Jean de Bononia, podestat du Val Maggia, etc., au duc de MIlan. Locamo, 5 juin 1475.",
+ "odesilatel": "Jean de Bononia, podestat du Val Maggia, etc., au duc de MIlan.",
+ "misto_datum": "Locamo, 5 juin 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše L (ř. 1836–1853 souboru edice)",
+ "obsah_editora": "Il informe le duc des ordres transmis par les autorités suisses pour la mise sur pied de guerre des milices des districts italiens et de la Lé- ventine en particulier, afin qu’elles soient prêtes à agir à la première réquisition de ces autorités. — Les marchands suisses qui fréquentent la foire d’Arona sont avertis d’avoir à se retirer sans délai sur le territoire de la Confédération. — La Léventine confinant au district de Locamo, le podestat a dépêché dans ces quartiers un homme intelligent et fidèle pour lâcher de découvrir le but de cette nouvelle prise d’armes ; — dès le retour de cet émissaire, son rapport sera communiqué au duc de Milan.",
+ "odstavce": [
+  {
+   "text": "LI. Jean de Bononia, podestat du Val Maggia, etc., au duc de MIlan. Locamo, 5 juin 1475.",
+   "preklad": "L. Giovanni da Bologna, podestà Valle Maggia atd., milánskému vévodovi. Locarno, 5. června 1475"
+  },
+  {
+   "text": "Illustrissime et Ex.me princeps et domine domine mi colendissime. Ho avuto aviso como li Signori de la liga hano facto comandare in quelle parte loro, precipue in Leventina, che ogni persona stia in punto et aparegiati cum loro arme adzio che essendo rechesti fazano quanto sera per dicti de la liga ordinato. Et ulterius ditti Signori debano havere mandato ad dare aviso ali merchadanti sono ala fera de Arona, che se debeno di subito partirse et ritrovarse verso Alamagnia; et per intendere meglio la veritate de queste cose, essendo questa jurisdictione da uno canto vicina ad Leventina, ho mandato uno proprio meso fidato et discreto in quelle parte, quale ritornato che sia statim darò aviso ad V. Illustre Signoria de quanto havera inteso et me havera referto: et ala quale divotamente me ricomando.",
+   "preklad": "Nejjasnější a nejvznešenější kníže a pane, pane můj nanejvýš ctěný. Mám zprávu, že páni z ligy dali ve svých končinách, a zvláště v Leventině, poručit, aby každý byl připraven a nachystán se svou zbraní a aby, budou-li vyzváni, učinili, co řečení páni z ligy nařídí. A dále řečení páni prý poslali vzkázat obchodníkům, kteří jsou na trhu v Aroně, aby ihned odjeli a vrátili se do Německa. A abych se o těchto věcech lépe dozvěděl pravdu, poslal jsem – protože tato jurisdikce z jedné strany sousedí s Leventinou – do těch končin vlastního posla, spolehlivého a rozvážného; jakmile se vrátí, ihned podám Vašemu jasnému Panství zprávu o tom, co se dozvěděl a co mi oznámí. Jemu se oddaně doporučuji."
+  },
+  {
+   "text": "Datum Locarni quinto Juny 1475.",
+   "preklad": "Dáno v Locarnu 5. června 1475."
+  },
+  {
+   "text": "Ejusdem Ill. D. V.",
+   "preklad": "Vašeho jasného Panství"
+  },
+  {
+   "text": "Fidelissimus servitor Johannes de Bononia Potestas Vallium Madie et Laverzasche.",
+   "preklad": "nejvěrnější služebník Giovanni da Bologna, podestà údolí Maggia a Verzasca."
+  },
+  {
+   "text": "A tergo : Ill.mo et Ex mo principi duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cito.",
+   "preklad": "Rychle."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Locamo, sur le lac Majeur, chef-lieu du district tessinois de même nom, dans la Suisse italienne.",
+  "* Vai-Maggia et Val- Verzasca (ou Laverzasca), deux vallées parallèles entr’elles et à la Léventine dans la Suisse italienne, canton du Tessin."
+ ],
+ "poznamky": [
+  "Gingins: Locarno na Lago Maggiore; Valle Maggia a Val Verzasca (Laverzasca), dvě údolí rovnoběžná s Leventinou v dnešním Ticinu. OCR „Locamo/Locami“ opraveno na Locarno/Locarni.",
+  "„Páni z ligy“ jsou Spříseženci, zde zvláště Uri, jemuž patřila Leventina.",
+  "Zajímavé: začátkem června 1475 Spříseženci vyhlásili v Leventině pohotovost ve zbrani a odvolali své kupce z trhu v Aroně – obávali se milánského útoku po uzavření milánsko-burgundské ligy."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Spříseženci nařídili v Leventině pohotovost ve zbrani a odvolali své kupce z trhu v Aroně; podestà z Locarna vysílá zvěda, aby zjistil proč."
+}

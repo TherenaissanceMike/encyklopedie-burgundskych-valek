@@ -1,0 +1,54 @@
+{
+ "cislo": 183,
+ "rimske": "CLXXXIII",
+ "nadpis": "CLXXXIII. Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome. Pavie, 26 avril 1476.",
+ "odesilatel": "Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome.",
+ "misto_datum": "Pavie, 26 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXXXIII (ř. 6317–6336 souboru edice)",
+ "obsah_editora": "Le duc de Bourgogne est toujours à Lausanne, occupé à fortifier son camp. — Les gens du roi de France se sont saisis, sous le nom du duc de Lorraine, de la place de Vaudemont, chose qui est contraire aux articles des trêves stipulées entre le roi et le duc de Bourgogne, etc.",
+ "odstavce": [
+  {
+   "text": "CLXXXIV. Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome. Pavie, 26 avril 1476.",
+   "preklad": "CLXXXIII. Milánský vévoda biskupovi z Parmy, svému vyslanci v Římě. Pavia, 26. dubna 1476"
+  },
+  {
+   "text": "El Duca de Borgogna e pur col campo ad Losana et attende ad fortificare el campo. Alcune zente del Re de Franza, benché sotto colore simulato videlicet in nome del Duca de Lorena, hano tolto il loco de Vademonte in Lorena, quale cosa e contra li capitoli de la tregua tra essi Re et Duca: de quello haveremo ala zornata ne daremo aviso.",
+   "preklad": "Vévoda burgundský je stále s vojskem u Lausanne a věnuje se opevňování tábora. Někteří lidé krále francouzského zabrali místo Vaudémont v Lotrinsku, třebaže pod předstíranou záminkou, totiž jménem vévody lotrinského; to je proti článkům příměří mezi tím králem a vévodou. O tom, co se den po dni dozvíme, vám podáme zprávu."
+  },
+  {
+   "text": "Ex consilio 24 Aprilis 1476.",
+   "preklad": "Z rady [Pavia?] 24. dubna 1476."
+  },
+  {
+   "text": "Galeaz Maria Sfortia Vicecomes Dux Mediolani, etc.",
+   "preklad": "Galeazzo Maria Sforza Visconti, vévoda milánský atd."
+  },
+  {
+   "text": "Sottos. Cichus.",
+   "preklad": "Kontrasignoval Cichus."
+  },
+  {
+   "text": "A terga : Reverendo in Christo patri domino .. episcopo Parmensi consiliario et [ora]tori nostro dilectissimo. Rome. — Cito.",
+   "preklad": "Na rubu: Důstojnému v Kristu otci, panu [jméno vynecháno] biskupovi parmskému, našemu radovi a nejmilejšímu [vy]slanci. Do Říma. Spěšně."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Vaudemmt, en Lorraine. (Voir la dépêche du 18 avril, n° clxxiv ci-devant.)",
+  "* Voir la lettre de Louis XI par laquelle il consent que le duc de Bourgogne punisse ceux de Nancy, etc., du 12 nov. 1475. (Lenglet, 1. c. t. III, p. 443.)",
+  "3 Le mot Papiee est peut-être sous-entendu.",
+  "* Sacramoro d’Acrimino. (Voir ci-devant la dépêche, n° n.)"
+ ],
+ "poznamky": [
+  "Gingins: o Vaudémontu viz depeši z 18. dubna (č. CLXXIV); srov. list Ludvíka XI. z 12. 11. 1475, jímž svoluje, aby vévoda burgundský potrestal Nancy atd. (Lenglet). Za „Ex consilio“ snad chybí slovo Papiae. Biskupem z Parmy a vyslancem v Římě byl Sacramoro (Gingins: „Sacramoro d'Acrimino“).",
+  "Nadpis edice datuje list 26. dubna, datace v textu zní 24. dubna 1476.",
+  "Cichus: patrně Cicco Simonetta, první sekretář milánského vévody (můj výklad, Gingins podpis nevysvětluje).",
+  "Oprava dělení: rozdělená věta (odst. 1–2), podpis a adresa spojeny; z textu odstraněna čísla poznámek; „_erend 0“ a „.... tori“ doplněno na Reverendo a [ora]tori."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Krátký list milánského vévody jeho vyslanci v Římě: Karel Smělý opevňuje tábor u Lausanne a Francouzi zabrali jménem lotrinského vévody Vaudémont, čímž porušili příměří."
+}

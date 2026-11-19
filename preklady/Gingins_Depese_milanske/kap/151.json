@@ -1,0 +1,60 @@
+{
+ "cislo": 151,
+ "rimske": "CLI",
+ "nadpis": "CLI. Antoine Sichus au duc de Milan. Crémone, le 1 er avril 1476.",
+ "odesilatel": "Antoine Sichus au duc de Milan.",
+ "misto_datum": "Crémone, le 1 er avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLI (ř. 5382–5398 souboru edice)",
+ "obsah_editora": "Suivant les informations reçues de Brescia, le capitaine Gerard de Martinengo venait de recevoir du duc de Bourgogne un courrier en poste, par lequel ce prince l’appelle à son service. — On tient pour sûr que le capitaine se rendra à cet appel, moyennant de bonnes conditions.",
+ "odstavce": [
+  {
+   "text": "CLII. Antoine Sichus au duc de Milan. Crémone, le 1 er avril 1476.",
+   "preklad": "CLI. Antonio Sichus milánskému vévodovi. Cremona, 1. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo mio Signore singolarissimo. Ben chio sia certo la vostra Excellentia essere dogni occurrentia advisata, tamen per mio debito me pare notificarli quello chio sento. Sono advisato de Bressana che lo Ill.mo S.r Duca di Borgogna a mando per messo a posta a rechiedere lo M co Gerardo di Martinengo, quale al vero, per quello chio certo intendo, se condura cum bona conditione.",
+   "preklad": "Nejjasnější a nejvznešenější můj nanejvýš jedinečný pane. Ačkoli jsem si jist, že Vaše Excelence je zpravena o všem, co se děje, přesto se mi zdá mou povinností oznámit jí, co slyším. Z Brescie mi oznamují, že nejjasnější pan vévoda burgundský poslal zvláštního posla, aby získal vznešeného Gerarda z Martinenga, a ten se podle toho, co jistě vím, opravdu dá najmout za dobrých podmínek."
+  },
+  {
+   "text": "Recomandomi sempre devotamente alla Ex ia Vostra.",
+   "preklad": "Stále se oddaně doporučuji Vaší Excelenci."
+  },
+  {
+   "text": "Datum Cremone primo aprilis 1476.",
+   "preklad": "Dáno v Cremoně 1. dubna 1476."
+  },
+  {
+   "text": "Illustrissime Dominationes Vestre",
+   "preklad": "Vaší nejjasnější Milosti"
+  },
+  {
+   "text": "Firmat. Fidelis servus",
+   "preklad": "podepsán věrný služebník"
+  },
+  {
+   "text": "Antonius Sichus.",
+   "preklad": "Antonio Sichus."
+  },
+  {
+   "text": "A tergo: Illustrissimo et Excellentissimo dno. Galeaz Marie Sfortie Vicecomiti Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Gérardo-Jacomo Martinengo, de Brescia, capitaine de cent lances italiennes, engagé au service du duc de Bourgogne. (Voir ci-après la dépêche de Panigarola, du 6 mai, même année.",
+  "2 Ce personnage est peut-être le même que Jean-Antoine Simonetta, fils de Robert, et parent du célèbre Ciàms ou Cecco Simonetta, chancelier du duc Galeas-Marie Sforza."
+ ],
+ "poznamky": [
+  "Gingins: Gerardo Giacomo Martinengo z Brescie, kapitán sta italských kopí, který vstoupil do služby vévody burgundského (viz Panigarolovu depeši ze 6. května 1476).",
+  "Gingins: pisatel je snad Giovanni Antonio Simonetta, syn Roberta, příbuzný kancléře Cicca Simonetty.",
+  "„se condura“ = dá se najmout (uzavře kondotu).",
+  "Opravy OCR: „Excellente“ → Excellentia, „Ulmo sr“ → Ill.mo S.r, odstraněna čísla poznámek, spojena rozdělená slova."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Antonio Sichus hlásí z Cremony, že Karel Smělý poslal posla do Brescie najmout kondotiéra Gerarda z Martinenga. Ten prý za dobrých podmínek do burgundské služby vstoupí."
+}

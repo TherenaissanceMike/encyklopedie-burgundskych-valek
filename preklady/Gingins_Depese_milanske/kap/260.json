@@ -1,0 +1,41 @@
+{
+ "cislo": 260,
+ "rimske": "CCLX",
+ "nadpis": "CCLX. Le duc de Milan à Philippe Sacramoro, d’ Arimino, [protonotaire apostolique] son ambassadeur à Florence. Pavie, 29 juin 1476.",
+ "odesilatel": "Le duc de Milan à Philippe Sacramoro, d’ Arimino, [protonotaire apostolique] son ambassadeur à Florence.",
+ "misto_datum": "Pavie, 29 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLX (ř. 8713–8730 souboru edice)",
+ "obsah_editora": "Bien qu’informé, depuis la veille, que le duc de Bourgogne avait été défait pour la seconde fois par les Suisses, avec grand dommage et perte de son infanterie, le duc de Milan avait différé d’en instruire son envoyé à Florence jusqu’à ce qu’il eût une entière certitude de cette défaite. — Maintenant qu’elle lui est pleinement confirmée par des dépêches reçues le jour même de ses propres envoyés qui sont sur les lieux, il juge convenable de lui faire part de cet événement en lui prescrivant de le communiquer au seigneur Laurent (de Médicis), eu particulier sans en parler à aucune autre personne. — Le duc Galéas-Marie ne voulant pas paraître avoir été un des premiers à divulguer une telle nouvelle.",
+ "odstavce": [
+  {
+   "text": "CCLX. Le duc de Milan à Philippe Sacramoro, d’ Arimino, [protonotaire apostolique] son ambassadeur à Florence. Pavie, 29 juin 1476.",
+   "preklad": "CCLX. Galeazzo Maria Sforza Filippu Sacramorovi z Rimini, [apoštolskému protonotáři,] svému vyslanci ve Florencii. Pavia, 29. června 1476"
+  },
+  {
+   "text": "Domino Filippo Ariminense. Papie die 29 Juny 1476.",
+   "preklad": "Panu Filippovi z Rimini. V Pavii dne 29. června 1476."
+  },
+  {
+   "text": "Hieri havessimo lettere corno el Duca de Borgogna havendo havuto ad fare con Suyceri e stato rotto un altra volta con suo gran danno et perdita de la fantaria ; el che non vi havemo significato piu presto stando incerti de tale novella, Hora in questo di havemo havuto lettere da li nostri che sono in quelle parti, che confermano la certeza de questa cosa, et pero ne parso de scrivervi questa, et darvine aviso, commettendovi che de cio ne dagati notifia honestamente al Magnifico Lorenzo et non ad altri, ad ciò chel non appara che noy siamo quelli che vogliamo essere auctori de divulgare tale novella.",
+   "preklad": "Včera jsme dostali listy, že vévoda burgundský, když se utkal se Švýcary, byl znovu poražen s velkou škodou a ztrátou pěšího vojska. Neoznámili jsme Vám to dříve, protože jsme si touto zprávou nebyli jisti. Dnes jsme však dostali listy od našich lidí, kteří jsou v těch končinách, a ty potvrzují, že je to jisté. Proto se nám zdálo vhodné napsat Vám tento list a podat Vám zprávu s pověřením, abyste o tom slušně zpravil urozeného Lorenza, a nikoho jiného, aby se nezdálo, že jsme to my, kdo chce být původcem šíření takové zprávy."
+  },
+  {
+   "text": "Manca la firma, l’attergo e il sigillo.",
+   "preklad": "Chybí podpis, adresa a pečeť."
+  }
+ ],
+ "poznamky_editora": [
+  "' Philippe Sacrmnoro, de Rimini, ambassadeur ordinaire du duc de Milan à Florence. (Voir la dépêche de ce dernier en date de Florence, 6 mars 1476, n° cxxi, à la note 3, où nous avons fait erreur en confondant ce personnage avec l’évêque de Parme, portant le même nom de famille et qui, à la même époque, était ambassadeur milanais à Rome. (Voir le n° cxxxvm.)",
+  "2 On entend parler sans doute des dépêches d 'Appiano, datées de Gex, du 23 juin, n° ccxux, col et coli, dont la première a pu arriver à Pavie le 28 au soir, et la dernière le 29 juin au matin.",
+  "5 Laurent de Medicis, dit le Magnifique. (Voir la dépêche n\" cxxi, à la note 1\".)"
+ ],
+ "poznamky": [
+  "Oprava dělení: oslovení adresáta a datum („Domino Filippo Ariminense. Papie die 29 Juny 1476.“) zapadly na konec Gingingsova obsahu; přesunuty do odstavců. „flora“ > „Hora“, rozdělená slova a čísla poznámek odstraněna.",
+  "Gingins: Filippo Sacramoro z Rimini, stálý milánský vyslanec ve Florencii; Gingins opravuje svou dřívější záměnu (u č. 121) s biskupem z Parmy téhož příjmení, který byl tehdy milánským vyslancem v Římě (č. 138).",
+  "Gingins: listy „našich lidí“ jsou patrně Appianovy depeše z Gexu z 23. června (č. 249, 250 a 251), z nichž první mohla dojít do Pavie 28. června večer a poslední 29. června ráno.",
+  "Gingins: Lorenzo = Lorenzo de' Medici, zvaný Nádherný."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Galeazzo Maria Sforza oznamuje svému vyslanci ve Florencii, že Karel Smělý byl Švýcary znovu poražen se ztrátou pěchoty, a nařizuje mu, aby to důvěrně sdělil jen Lorenzovi de' Medici, aby se nezdálo, že zprávu šíří Milán."
+}

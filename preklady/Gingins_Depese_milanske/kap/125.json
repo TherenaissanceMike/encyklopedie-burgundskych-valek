@@ -1,0 +1,58 @@
+{
+ "cislo": 125,
+ "rimske": "CXXV",
+ "nadpis": "CXXV. Fr. Petrasanta au duc de Milan. Turin, le 8 mars 1476.",
+ "odesilatel": "Fr. Petrasanta au duc de Milan.",
+ "misto_datum": "Turin, le 8 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXV (ř. 3883–3897 souboru edice)",
+ "obsah_editora": "Il transmet au duc de Milan la copie d’une lettre particulière qui lui a été communiquée par le protonotaire de Romagnan, laquelle renferme divers détails sur la déroute de l’armée du duc de Bourgogne à Grandson. Illustrissimo et Excellentissimo Signore mio.",
+ "odstavce": [
+  {
+   "text": "CXXVI. Fr. Petrasanta au duc de Milan. Turin, le 8 mars 1476.",
+   "preklad": "CXXV. Francesco Petrasanta milánskému vévodovi. Turín, 8. března 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore mio.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj."
+  },
+  {
+   "text": "La inclusa e la copia di una lettera, quale mi ha monstrato il Protonotario da Romagnano, che gli ha scritto uno suo cusino di Ginevra . E perche si gli contiene altro che quello partiene alla rotta del Duca di Borgogna, mi e parso mandarne la copia a V. Celsitudine. Alla qual humilmente mi riccomando.",
+   "preklad": "Přiložená je kopie listu, který mi ukázal protonotář z Romagnana a který mu napsal jeden jeho bratranec ze Ženevy. Protože obsahuje [i] jiné věci než to, co se týká porážky vévody burgundského, rozhodl jsem se poslat jeho kopii Vaší Výsosti. Té se pokorně doporučuji."
+  },
+  {
+   "text": "Taurini 8 martij 1476.",
+   "preklad": "V Turíně 8. března 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Franciscus Petrasancta.",
+   "preklad": "Franciscus Petrasancta."
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Ex mo dno dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  },
+  {
+   "text": "In manibus Magnifici d. Cicchi, cito, cito, cito.",
+   "preklad": "Do rukou vznešeného d. Cicca, rychle, rychle, rychle."
+  }
+ ],
+ "poznamky_editora": [
+  "■ Voir la lettre du chanoine de Romagnan à son cousin, le protonotaire de Romagnan, en date de Genève, 5 mars 1476, n° cxix."
+ ],
+ "poznamky": [
+  "Oprava dělení: oslovení „Illustrissimo et Excellentissimo Signore mio.“ zapadlo na konec obsahu editora, přeneseno do odstavců. Opravy OCR: „Firmai“ > „Firmat“, „IlI mo“, „E m0“, odstraněno číslo poznámky.",
+  "Gingins: přiložený list je dopis kanovníka Antonia z Romagnana bratranci, protonotáři Amedeovi z Romagnana, z Ženevy 5. března 1476 (č. CXIX).",
+  "„d. Cicco“ je nejspíš Cicco Simonetta, sekretář milánského vévody (Gingins ho neurčuje)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Petrasanta posílá vévodovi kopii ženevského listu kanovníka z Romagnana o porážce Karla Smělého u Grandsonu, protože obsahuje i další zprávy."
+}

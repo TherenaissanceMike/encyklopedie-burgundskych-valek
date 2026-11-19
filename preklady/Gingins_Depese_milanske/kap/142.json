@@ -1,0 +1,54 @@
+{
+ "cislo": 142,
+ "rimske": "CXLII",
+ "nadpis": "CXLII. J.-P. Panigarola au duc de Milan. Lausanne, le 26 mars 1476.",
+ "odesilatel": "J.-P. Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 26 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXLII (ř. 4351–4365 souboru edice)",
+ "obsah_editora": "Confirmation de sa dernière dépêche au duc de Milan. — Depuis lors le duc de Bourgogne a envoyé en Bourgogne, en Flandre, en Brabant et même en Picardie des ordres pour faire venir un nouveau renfort de troupes. — En attendant il s’occupe activement de fortifier son camp et d’y faire entrer ses gens, disant que tout dépend de là.",
+ "odstavce": [
+  {
+   "text": "CXLIII. J.-P. Panigarola au duc de Milan. Lausanne, le 26 mars 1476.",
+   "preklad": "CXLII. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 26. března 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio. Dopoi le ultime scrissi de 22 questo Ex mo S. a mandato, in Borgogna, Fiandra, Barbant et Picardia che di novo vengano gente et si provede quanto po per seguire limpresa, la quale omnino e deliberato corno dice proseguire, et fa ogni sforzo di fortificare et ingrossare questo campo qui, dal quale dice depende tuto etc.",
+   "preklad": "Nejjasnější pane můj. Od posledních [listů], které jsem psal 22., poslal tento nejvznešenější pán do Burgundska, Flander, Brabantska a Pikardie, aby znovu přišli lidé, a opatřuje, co může, aby mohl pokračovat v podniku, v němž je, jak říká, rozhodně odhodlán pokračovat; vynakládá veškeré úsilí, aby opevnil a posílil tento tábor zde, na němž, jak říká, všechno závisí atd."
+  },
+  {
+   "text": "Ex Lossana 26 Martii 1476.",
+   "preklad": "Z Lausanne 26. března 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán služebník"
+  },
+  {
+   "text": "Jo. Petrus Panig.la",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo: Ill mo et Ex mo Principi Galeaz Maria Sfortia",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu knížeti Galeazzovi Mariovi Sforzovi"
+  },
+  {
+   "text": "Vicecomiti Duci Mediolani.",
+   "preklad": "Viscontimu, vévodovi milánskému."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "2 Voir la lettre du duc Charles au seigneur Du-Fay, gouverneur de Luxembourg, datée de Lausanne (non du 12), mais plutôt du 22 mars 1475. (vieux style). (La Barre, Mém. de Fr. et de Bourg., 1.1, p. 358.)"
+ ],
+ "poznamky": [
+  "Gingins (poznámka zapadlá do originálu, odstraněna): viz poslední Panigarolovu depeši z 22. března (č. CXLII; Gingins tiskne cxli).",
+  "Gingins: srv. Karlův list pánovi Du Fay, guvernérovi Lucemburska, datovaný v Lausanne, ne 12., ale spíše 22. března 1475 starého stylu (La Barre).",
+  "Opravy OCR: odstraněna čísla poznámek, „Pricipi“ → Principi, „Firmai“ → Firmat."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý rozeslal do Burgundska, Flander, Brabantska a Pikardie rozkazy k novým odvodům a je rozhodnut ve válce pokračovat. Usilovně opevňuje a posiluje tábor u Lausanne, na němž podle něj vše závisí."
+}

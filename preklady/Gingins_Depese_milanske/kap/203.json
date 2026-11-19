@@ -1,0 +1,55 @@
+{
+ "cislo": 203,
+ "rimske": "CCIII",
+ "nadpis": "CCIII. Carlo de Violis [podestat d’Arona] au duc de Milan. Arona, 16 mai 1476.",
+ "odesilatel": "Carlo de Violis [podestat d’Arona] au duc de Milan.",
+ "misto_datum": "Arona, 16 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCIII (ř. 7147–7164 souboru edice)",
+ "obsah_editora": "Il mande au duc de Milan qu'un particulier, arrivant de la Bourgogne, dit et affirme que le duc de Bourgogne avait fait vœu de ne pas faire raser sa barbe avant d’avoir tiré vengeance des Suisses (To- deschi). — Puis il lui est survenu une maladie qui l’a obligé à rompre ce vœu. — Dans l’entrefaite, on a traité de la paix et l’on s’était mis d’accord sur tous les points, excepté sur un seul : — le duc exigeait que les Suisses missent à ras de terre les murailles de leurs villes et châteaux-forts *, et ceux-ci n'ayant pas voulu y consentir, les négociations ont été rompues. — Depuis le duc s’est mis en campagne contre une ville qui s’appelle Fribourg.",
+ "odstavce": [
+  {
+   "text": "CCIV. Carlo de Violis [podestat d’Arona] au duc de Milan. Arona, 16 mai 1476.",
+   "preklad": "CCIII. Carlo de Violis [podestà v Aroně] milánskému vévodovi. Arona, 16. května 1476"
+  },
+  {
+   "text": "Ill.mo et Ex.mo Signore mio. — ( Omissis omittendis.) — Apresso in questo zorno e sopravenuto uno altro che vene di Borgogna, qualle dice et firma como lo ducha de Bergogna qualle havea facto un vodo de non tagliarse may ne farsi tagliare barba fin a che non se fosse vindicato de li Todeschi. In questo li e supravenuto una infìrmita molto grande per modo che e stato di bisogno se habia fatto tagliare la barba. Et in questo tempo se pratichato laccordio tra loro, et dii tuto herano dacordio excepto duna, che lo prefato duca voleva che li Todeschi butasseno per terra le mura de le citade et castella, et li Todeschi non hanno voluto consentire, et per questo lacordio non ha posuto havere loco, donde che lo duca e andato a campo in quella cita che si domanda Filiborgo. Et questo e quanto si habia hauto digno de aviso. Quale ala Ex a V. me ricomando sempre.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechané vynechávám.) — Dnes sem dále přišel jiný [člověk], který jde z Burgundska; ten říká a tvrdí, že vévoda burgundský složil slib, že si nedá ani nenechá oholit vous, dokud se nepomstí Němcům. Mezitím na něj přišla velmi těžká nemoc, takže si musel dát vous oholit. V té době se mezi nimi jednalo o smír a ve všem se shodli kromě jednoho: řečený vévoda chtěl, aby Němci strhli k zemi hradby svých měst a hradů, a Němci s tím nechtěli souhlasit; proto se smír nemohl uskutečnit, a tak vévoda vytáhl do pole proti městu, které se jmenuje Fribourg. To je vše, co se dozvědělo hodného zprávy. Vaší Excelenci se stále doporučuji."
+  },
+  {
+   "text": "Datum Anona die 16 may 1476.",
+   "preklad": "Dáno v Aroně [Anona] 16. května 1476."
+  },
+  {
+   "text": "Ejusdem illustris dominationis",
+   "preklad": "Téže jasné Milosti"
+  },
+  {
+   "text": "Firmat. Servitor fidelissimus",
+   "preklad": "Podepsán: nejvěrnější služebník"
+  },
+  {
+   "text": "Karolus de Violis potestas Anoni.",
+   "preklad": "Carlo de Violis, podestà v Aroně [Anoni]."
+  },
+  {
+   "text": "A tergo : Ill.mo principi etc. dno Galeaz Marie Sforcie Vicecomiti et duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Mariovi Sforzovi Viscontimu a vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Il n’est parlé nulle autre part d’une pareille condition que le duc aurait mise à la conclusion de la paix avec les Suisses. a Anona, erreur du copiste; lisez Arona, ville située sur le lac Majeur (royaume Lombardo-Vénitien), dont les foires étaient très-fréquen- tées par les étrangers."
+ ],
+ "poznamky": [
+  "Opravy OCR: čísla poznámek, „marricomando“ → „me ricomando“, „Curri“ → „Cum“.",
+  "Gingins: „Anona“ je chyba opisovače, čti Arona na Lago Maggiore, kde se konaly hojně navštěvované trhy. Gingins: o takové mírové podmínce (zboření hradeb) se nikde jinde nemluví.",
+  "„Todeschi“ (Němci) zde míní Švýcary.",
+  "Zprávy jsou z doslechu: podle současných depeší vyslanců stálo vojsko v polovině května stále u Lausanne (viz č. 205 a 207), tažení na Fribourg teprve hrozilo."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Podestà z Arony předává zvěsti příchozího z Burgundska: Karel Smělý slíbil neholit si vous, dokud se nepomstí Švýcarům, ale kvůli těžké nemoci se oholit musel. Mírová jednání prý ztroskotala na jeho požadavku, aby Švýcaři zbořili hradby svých měst a hradů, a vévoda táhne na Fribourg."
+}

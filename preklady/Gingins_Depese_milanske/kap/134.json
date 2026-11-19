@@ -1,0 +1,69 @@
+{
+ "cislo": 134,
+ "rimske": "CXXXIV",
+ "nadpis": "CXXXIV. Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome. Vigévano, 15 mars 1476.",
+ "odesilatel": "Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome.",
+ "misto_datum": "Vigévano, 15 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXXIV (ř. 4121–4142 souboru edice)",
+ "obsah_editora": "Il pense que l’échec que les Suisses ont fait éprouver au duc de Bourgogne changera la tournure des affaires et délivrera l’Italie, sinon du soupçon, au moins de la crainte des entreprises qu’on pouvait attendre de ceux qui, peut-être, lui voulaient du mal. — Il convient toutefois de demeurer sur ses gardes, à cause des retours de fortune qui, d’un moment à l’autre peuvent survenir. — On ne doit point cesser de faire les préparatifs et de prendre toutes les mesures convenables pour donner de l’efficacité à la confédération générale de l’Italie et pour assurer, en cas de besoin, la sécurité de tous les Etats ultramontains.",
+ "odstavce": [
+  {
+   "text": "CXXXV. Le duc de Milan à I’évêque de Parme, son ambassadeur à Rome. Vigévano, 15 mars 1476.",
+   "preklad": "CXXXIV. Milánský vévoda biskupovi z Parmy, svému vyslanci v Římě. Vigevano, 15. března 1476"
+  },
+  {
+   "text": "Monsignore. De le cose ultramontane havereti inteso. Pensamo che lurto receputo per lo Illustris.o Duca de Borgogno da Svyceri, divertira in altra lato simile materia: adeo che le cose de Italia seranno liberate si non in tutto da la suspitione: saltem da lo effecto de chi forsa havesse voluto malignare. Devese tamen esser vigilante de momento in momento per li camby et mutatione, quale spesso fa la fortuna ; ne cessare dale provisione opportune et necessarie perche omni modo se deve attendere alla lega generale de Italia, la quale trovandose in pratica si bisogno alcuno urgente sopravenisse, non manca mai prenderli forma, et conclusione accomodata per salvezza et quete deli stati citramontani.",
+   "preklad": "Monsignore. O věcech za horami jste se jistě dozvěděl. Myslíme, že úder, který nejjasnější vévoda burgundský utržil od Švýcarů, odvrátí podobné záležitosti jinam, takže věci Itálie budou zbaveny, ne-li zcela podezření, alespoň skutečného činu toho, kdo by snad chtěl škodit. Je však třeba být bdělý každou chvíli kvůli změnám a obratům, které štěstěna často působí, a neustávat v příhodných a nezbytných opatřeních, neboť je třeba v každém případě dbát o všeobecnou ligu Itálie; ta, protože se o ní právě jedná, kdyby nastala nějaká naléhavá potřeba, nikdy neopomene dostat podobu a uzavření vhodné pro bezpečí a klid států na této straně hor."
+  },
+  {
+   "text": "Viglevani 15 martij 1476.",
+   "preklad": "Ve Vigevanu 15. března 1476."
+  },
+  {
+   "text": "Firmat. Galeaz Maria Sfortia",
+   "preklad": "Podepsán Galeazzo Maria Sforza"
+  },
+  {
+   "text": "Vicecomes Dux Mediolani etc. Cichus.",
+   "preklad": "Visconti, vévoda milánský atd. Cicco."
+  },
+  {
+   "text": "Firmat.",
+   "preklad": "Podepsán."
+  },
+  {
+   "text": "A tergo: [Rev.do in Jhe]su Christo patri Domino [Sacromoro episcopo]",
+   "preklad": "Na rubu: [Důstojnému v Ježíši] Kristu otci panu [Sacramorovi, biskupovi]"
+  },
+  {
+   "text": "Parmensi Consiliario [et or]atori nostro carissimo.",
+   "preklad": "parmskému, radovi [a vy]slanci našemu nejmilejšímu."
+  },
+  {
+   "text": "Romæ, cito.",
+   "preklad": "Do Říma, rychle."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 L’alliance conclue le 20 novembre 1474, entre le duc de Milan, Venise et Florence pour la défense générale de l’Italie, dans laquelle Rome et Naples hésitaient à entrer (Muratori, Ann. d’Italie, h. ann.)",
+  "5 Vigevano, en Piémont.",
+  "3 Cecco Simonetta, chancelier du duc de Milan, qui a contresigné la lettre de son maître.",
+  "4 In Jhesus, étc.",
+  "5 Sacromoro d’Ariminio, Episcopo.",
+  "6 Oratori."
+ ],
+ "poznamky": [
+  "Gingins: všeobecná liga Itálie = spojenectví uzavřené 20. listopadu 1474 mezi Milánem, Benátkami a Florencií k obraně Itálie; Řím a Neapol váhaly k němu přistoupit (Muratori).",
+  "Gingins: „Cichus“ je Cicco Simonetta, kancléř milánského vévody, který list kontrasignoval; adresát je Sacramoro da Rimini, biskup parmský.",
+  "Gingins uvádí Vigevano „v Piemontu“; ve skutečnosti leží v Lomellině na milánském území.",
+  "Adresa na rubu je v edici silně porušená („.su 4 Christo patri Domino . 5“ / „Parmeosis Consiliario-atori 6“); doplněno v hranatých závorkách podle Gingingsových poznámek (In Jhesus…, Sacromoro… Episcopo, Oratori).",
+  "Opravy OCR: odstraněna čísla poznámek a hvězdička, „Yiglevani“ → Viglevani, „ClGHUS“ → Cichus, „Firmai“ → Firmat."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Galeazzo Maria Sforza píše svému vyslanci v Římě, že porážka Karla Smělého od Švýcarů snad odvrátí nebezpečí od Itálie. Přesto je třeba zůstat ostražitý a dál pracovat na všeobecné italské lize."
+}

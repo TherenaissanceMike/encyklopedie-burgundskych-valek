@@ -1,0 +1,72 @@
+{
+ "cislo": 110,
+ "rimske": "CX",
+ "nadpis": "CX. Fr. Petra-Santa au duc de Milan. Turin, 27 février 1476.",
+ "odesilatel": "Fr. Petra-Santa au duc de Milan.",
+ "misto_datum": "Turin, 27 février 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CX (ř. 3453–3480 souboru edice)",
+ "obsah_editora": "Le duc de Bourgogne est toujours campé près de Grandson, attendant impatiemment que les Allemands viennent le défier, ainsi qu’ils l’ont plus d’une fois annoncé en vain. — Les gens du duc de Bourgogne menacent les domaines du comte de Gruyère ; — on dit qu’ils ont saccagé son pays de Gessenay. — Il n’y a pas d’autres nouvelles ; l’on sait du reste que le secrétaire Dupuis est entièrement dévoué au parti bourguignon. — Le président et les membres de la régence de Piémont, remercient le duc de Milan de ses offres de service et de ses bons conseils, qui sont pour eux comme des commandements. — La régence a envoyé des ordres pour pourvoir à la sûreté des passages du mont Genèvre de la Pellouse et de Suze, etc.",
+ "odstavce": [
+  {
+   "text": "CXI. Fr. Petra-Santa au duc de Milan. Turin, 27 février 1476.",
+   "preklad": "CX. Francesco Petrasanta milánskému vévodovi. Turín, 27. února 1476"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. (Vynecháno, co se vynechává.)"
+  },
+  {
+   "text": "Item scrive chel Ducha e anchora tra Verduno et Gransono, qual campegia aspettando pur cupidamente che li Alamani il vadano a trovare come piu volti gli hanno mandato a dire, e sempre gli hanno fallito le promesse, et chesso interea ha posto a saccomano la valle dili Gessinesi . La quale fa circa 2 m homini de fatti, et e tra Berna et Valese et la juridictione dessa era del conte di Gruera . Il quale dice sta a pericolo di patire grande afflictione nel stato suo dal p° duca. Altro non scrive di novo. So ben perho che V. S. e informata che detto Deputheo e tutto Borgognono. Detto Mons re Presidente et questo M co Consiglio mi hanno hoggi pregato chio voglia grandemente ringratiare V ra Cel ne di le offerte et boni ricordi chella gli ha mandato a far per d. Pierocara quan° el fo li.",
+   "preklad": "[Dupuis] dále píše, že vévoda je stále mezi Yverdonem a Grandsonem a leží v poli; dychtivě čeká, až si ho Němci přijdou najít, jak mu už mnohokrát vzkázali, ale své sliby vždycky nesplnili. Mezitím dal vyplenit údolí Saanen (Gessenay). To má asi 2000 bojeschopných mužů, leží mezi Bernem a Valais a jeho soudní pravomoc patřila hraběti z Gruyère. O tom [Dupuis] píše, že mu hrozí, že od řečeného vévody utrpí ve svém panství velkou pohromu. Nic jiného nového nepíše. Vím však dobře, že Vaše Panství ví, že řečený Dupuis je celý burgundský. Řečený pan předseda a tato vznešená rada mne dnes požádali, abych Vaší Výsosti velice poděkoval za nabídky a dobré rady, které jim vzkázala po d. Pierocarovi [?], když tu byl."
+  },
+  {
+   "text": "Li quali ricordi essi riputando commandamenti, hanno mandato ad li passi di Monginevro , di Susa et de la Pellosa per stare aveduti et provisti, le gente darme havessero a passare di qua, o se altra novitate si sentisse venire di ultramonte, secondo chessa S. V. gli ha ricordato. Alla quale continuo mi ricom°.",
+   "preklad": "Ty rady pokládají za rozkazy a poslali [rozkaz] k průsmykům Montgenèvre, Susa a La Pérouse, aby tam byli na pozoru a připraveni, kdyby sem měli táhnout těžkooděnci nebo kdyby se doslechli o nějaké jiné novotě přicházející zpoza hor, jak jim Vaše Panství připomnělo. Té se stále doporučuji."
+  },
+  {
+   "text": "Taurini 27 febrij 1476.",
+   "preklad": "V Turíně 27. února 1476."
+  },
+  {
+   "text": "Sub'- is V.",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Divotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Fran. Petrasancta.",
+   "preklad": "Fran. Petrasancta."
+  },
+  {
+   "text": "A tergo: Ill° Principi et Ex mo dno meo Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cito cito per postas.",
+   "preklad": "Rychle, rychle, poštou."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Le pays de Gesseney, canton de Berne, Suisse, qui appartenait jadis aux comtes de Gruyère.",
+  "3 Louis I \", comte de Gruyère, seigneur d’Aubonne, d’Oron et de Palesieux, fils et successeur du comte François, mort l’année précédente, et de Bonne de Costa. — Bien que tous ses domaines relevassent féodalement de la couronne de Savoie, Louis avait pris parti pour les Suisses contre le comte de Romont.",
+  "4 Antoine Champion, président du sénat de Turin.",
+  "5 Le Mcnt-Genèwe.",
+  "6 La Pérose, province de Pignerol, Piémont."
+ ],
+ "poznamky": [
+  "Oprava dělení: poslední odstavec („• Yverdon.“) byl Gingingsova poznámka 1 k „Verduno“, odstraněna; adresa ze dvou odstavců spojena. Opravy OCR: „Tauriri“ > „Taurini“, „Firmai“ > „Firmat“, „darne“ > „darme“, „Vai- lese“ > „Valese“, odstraněna čísla poznámek. Podpis „Sub'- is V.“ ponechán (= Sublimitatis Vestrae).",
+  "„d. Pierocara“: jméno posla nejisté, ponecháno [?].",
+  "„ha posto a saccomano“ = dal vyplenit (ne vozatajská čeleď).",
+  "Gingins: Gessenay (Saanen) v kantonu Bern patřilo dříve hrabatům z Gruyère. Hrabě Ludvík I. z Gruyère, pán z Aubonne, Oronu a Palézieux, syn a nástupce hraběte Františka († 1475), měl všechna panství v lénu od Savojska, přesto se přidal ke Švýcarům proti hraběti z Romontu. Pan předseda = Antoine Champion, předseda turínského senátu. Pellosa = La Pérouse (provincie Pinerolo).",
+  "Zajímavé: zpráva o plenění Saanen je z druhé ruky (od Dupuise z burgundského tábora); údolí prý „dává“ asi 2000 bojeschopných mužů."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Podle sekretáře Dupuise čeká Karel Smělý mezi Yverdonem a Grandsonem marně na Švýcary a mezitím dal vyplenit Saanen, panství hraběte z Gruyère. Piemontská regentská rada děkuje milánskému vévodovi za rady a dala hlídat alpské průsmyky."
+}

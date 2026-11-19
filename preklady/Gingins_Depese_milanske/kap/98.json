@@ -1,0 +1,48 @@
+{
+ "cislo": 98,
+ "rimske": "XCVIII",
+ "nadpis": "XCVIII. Galeaz-Marie Sforza, duc de Milan, au duc de Bourgogne. Pavie, le 5 février 1476.",
+ "odesilatel": "Galeaz-Marie Sforza, duc de Milan, au duc de Bourgogne.",
+ "misto_datum": "Pavie, le 5 février 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše XCVIII (ř. 3157–3170 souboru edice)",
+ "obsah_editora": "Lettres de créance du duc de Milan délivrées à ses ambassadeurs extraordinaires auprès du duc de Bourgogne; à savoir, Pierre-François Visconti; Jean marquis Palavicini, des comtes de Scipione; capitaines d’armes, et Lucas Grimaldi, ses conseillers. ' Bernardin Corio, l’historien milanais fait mention de cette ambassade (parte VI, p. 828, éd. de Padoue de 1646), mais aux personnages ci-dessus mentionnés il ajoute l’évêque de Come, Branda de Castiglione, qui fut accrédité auprès de la duchesse de Savoie par le duc de Milan (voyez la dépêche suivante n° xcix du 9 février). Cario dit que ces ambassadeurs étaient tous des hommes graves et fort considérés et que. leur mission avait pour but de resserrer l’alliance des deux souverains",
+ "odstavce": [
+  {
+   "text": "XCIX. Galeaz-Marie Sforza, duc de Milan, au duc de Bourgogne. Pavie, le 5 février 1476.",
+   "preklad": "XCVIII. Galeazzo Maria Sforza, vévoda milánský, vévodovi burgundskému. Pavia, 5. února 1476"
+  },
+  {
+   "text": "(Copia.)",
+   "preklad": "(Opis.)"
+  },
+  {
+   "text": "Illustrissimo domino duci Burgundie.",
+   "preklad": "Nejjasnějšímu pánu vévodovi burgundskému."
+  },
+  {
+   "text": "Papie, die 5 Februari 1476.",
+   "preklad": "Pavia, 5. února 1476."
+  },
+  {
+   "text": "Illustrissime princeps et Excellentissime domine consanguinee et frater noster honorandissime. Mittimus ad Excellentiam Vestram spectabiles et prestantes viros Petrum Franciscum Vicecomitem, Johannem Marchionem Palavicinum de Scipiono armorum ductores, et d. Lucam Grimaldum I. U. doctorem consiliarios et oratores nostros carissimos qui eam nomine nostro visitent, et nonnulla insuper exponant que sibi in mandatis dedimus. Celsitudinem igitur vestram rogamus ut dictorum consiliariorum et oratorum nostrorum verbis, ceu nobis ipsis, fidem prestare velit.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane, pokrevní příteli a bratře náš nejctihodnější. Posíláme k Vaší Excelenci urozené a vynikající muže Pietra Francesca Viscontiho a Giovanniho markýze Pallaviciniho di Scipione, velitele ozbrojenců (armorum ductores), a pana Lucu Grimaldiho, doktora obojího práva, naše nejdražší rady a vyslance, aby ji naším jménem navštívili a kromě toho přednesli některé věci, které jsme jim uložili. Prosíme tedy Vaši Výsost, aby slovům řečených našich rad a vyslanců chtěla věřit jako nám samým."
+  },
+  {
+   "text": "Galeaz Maria Sfortia Vicecomes dux Mediolani etc. Papie Anglerieque Comes ac Janue et Cremone dominus.",
+   "preklad": "Galeazzo Maria Sforza Visconti, vévoda milánský atd., hrabě pavijský a anghierský, pán Janova a Cremony."
+  },
+  {
+   "text": "Senza l’attergo e il sigillo.",
+   "preklad": "Bez adresy na rubu a pečeti."
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "Depeše bez originálu ve strojovém dělení: latinský pověřovací list celý zapadl do obsah_editora; vyňat odtud, rozdělen na odstavce a přeložen. V obsah_editora ponechán francouzský obsah a Ginginsova poznámka o Coriovi. Opravy OCR: „(pii“ = qui, „diotorum“ = dictorum, „Galeaz Marta“ = Galeaz Maria, „Papié“ = Papie.",
+  "Gingins: milánský historik Bernardino Corio (část VI, s. 828, padovské vyd. 1646) se o tomto poselstvu zmiňuje a k uvedeným osobám přidává biskupa z Coma Brandu da Castiglione, akreditovaného u savojské vévodkyně (viz následující depeši z 9. února, č. XCIX). Podle Coria to byli vážení muži a měli upevnit spojenectví obou panovníků.",
+  "„armorum ductores“ = kondotiéři, velitelé ozbrojenců; Gingins: „capitaines d'armes“. „I. U. doctor“ = doktor obojího (církevního i světského) práva."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z latinského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Pověřovací list Galeazza Marii Sforzy pro tři mimořádné vyslance ke Karlu Smělému: Pietra Francesca Viscontiho, markýze Giovanniho Pallaviciniho di Scipione a Lucu Grimaldiho. Vévoda prosí, aby jim Karel věřil jako jemu samému."
+}

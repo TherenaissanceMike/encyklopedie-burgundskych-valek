@@ -1,0 +1,57 @@
+{
+ "cislo": 37,
+ "rimske": "XXXVII",
+ "nadpis": "XXXVII. D. Fr. Troylus, de Rossano, capitaine de gens-d’armes du duc de Bourgogne, au duc de Milan. Levier, près Salins, 1\" mai 1475.",
+ "odesilatel": "D. Fr. Troylus, de Rossano, capitaine de gens-d’armes du duc de Bourgogne, au duc de Milan.",
+ "misto_datum": "Levier, près Salins, 1\" mai 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XXXVII (ř. 1509–1529 souboru edice)",
+ "obsah_editora": "Dans la supposition que le duc de Milan reçoit peut-être, par le canal des Allemands, des renseignements contraires à la vérité, sur les faits qui se sont passés en Bourgogne pendant le mois d'avril, le capitaine Troylus envoie au duc une relation sincère et véridique de ces faits. — Il ajoute que les Suisses se sont déjà montrés, à deux reprises, ennemis du duc de Bourgogne en commettant des hostilités dans la Franche-Comté, etc. Illustrissime et excellentissime Priceps.",
+ "odstavce": [
+  {
+   "text": "XXXVIII. D. Fr. Troylus, de Rossano, capitaine de gens-d’armes du duc de Bourgogne, au duc de Milan. Levier, près Salins, 1\" mai 1475.",
+   "preklad": "XXXVII. Troilo z Rossana, kapitán těžkooděnců vévody burgundského, milánskému vévodovi. Levier u Salins, 1. května 1475"
+  },
+  {
+   "text": "Illustrissime et excellentissime Princeps.",
+   "preklad": "Nejjasnější a nejvznešenější kníže."
+  },
+  {
+   "text": "Il pottria essere che V. Excellente per la via de questi nostri inimici de Allamagna seria avisata daltro che delà verità, cioè dele cose che sono ocorse in questi di passati cioè in questo mese presente qui in Borgogna, che mo li Svizeri se sonno novamente dimostrati veri inimici de questo mio Illustrissimo Monsignore de Borgogna : cioè dela novità che hano facto contra il paese de Borgogna et per questo ne voglio avisare puramente et veramente la Vostra Excellentia de la cosa como e passata senza agiongere et smenuire in cosa alcuna per la introclusa lettera, la quale non posso fare che non tegnia un pocho longhetto acioche la prefatta Ill.ma Signoria Vostra sia a compimento avisata. A la qual de continuo me recomando.",
+   "preklad": "Mohlo by se stát, že Vaše Excelence by cestou od těchto našich nepřátel z Německa byla zpravena o něčem jiném než o pravdě, totiž o věcech, které se udály v minulých dnech, tedy v tomto nynějším měsíci, zde v Burgundsku, kde se nyní Švýcaři znovu ukázali jako opravdoví nepřátelé tohoto mého nejjasnějšího pána, vévody burgundského, totiž o tom, co nového podnikli proti burgundské zemi. Proto chci Vaši Excelenci prostě a pravdivě zpravit o tom, jak se věc udála, nic nepřidávaje ani neubíraje, přiloženým listem, který nemohu napsat jinak než trochu delší, aby Vaše řečené nejjasnější Panství bylo zpraveno úplně. Jemu se ustavičně doporučuji."
+  },
+  {
+   "text": "Datum in Villa Liverij die primo Maij 1475 apud civitatem Sallinar . . .",
+   "preklad": "Dáno v Levier (Villa Liverii) dne 1. května 1475 u města Salins…"
+  },
+  {
+   "text": "Ejusdem Illustrissime et Excellentissime Dominationis vestre fidelissimus servitor",
+   "preklad": "Vašeho nejjasnějšího a nejvznešenějšího Panství nejvěrnější služebník"
+  },
+  {
+   "text": "Sottos. Troyllus de muro de Rossano armorum capitaneus etc.",
+   "preklad": "podepsán: Troilo de Muro z Rossana, kapitán těžkooděnců atd."
+  },
+  {
+   "text": "A tergo : Illustrissimo principi etc. dno. Galeaz Marie Sfortie vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Le rapport qui accompagnait la dépêche du capitaine Troylus ne s’est pas retrouvé à Milan. Il contenait sans doute le récit de l’échec essuyé par les Suisses à La Rivière et de leur brusque retraite de Pon- tarlier. (Lettre du Duc de Bourgogne au Sire Du Fay, du 10 mai 1475 De La Barre, mem. de Fr. et de Bourgogne, t. I, p. 360).",
+  "* On voit par la lettre du Duc Charles au Sire Du Fay du mois de juin 1474 (l. Supra c. p. 357.) que le capitaine Messire Troylus était demeuré en Franche-Comté avec sa compagnie de gens d’armes Calabrais. Le 13 nov. suivant il combattit à Hericourt, et la dépêche ci- dessus du 1\" mai 1475 est datée de Levier (Villa Liverii), gros bourg situé au pied du Jura entre Pontarlier et Salins (Sàlnarii), département du Doubs. z Troylus, de muro de Rossano. — Rossano, ville de la Calabre-Extérieure dans le royaume de Naples, patrie du capitaine Troylus, père de deux fils, François et Jean-François, qui servaient comme lui dans les armées du duc Charles de Bourgogne. Le plus jeune des fils avait suivi ce prince au siège de Neuss ( Molimi , 1. c. chap. XXI. p. 129), et tous les trois se trouvèrent plus tard aux fameuses batailles de Grand- son et de Morat."
+ ],
+ "poznamky": [
+  "Oslovení „Illustrissime et excellentissime Princeps“ skončilo v edici na konci francouzského obsahu; vráceno do odstavců (obsah_editora ponechán). Opraveny chyby OCR („corno“ → como, čísla poznámek, „}“).",
+  "Gingins: přiložená zpráva se v milánském archivu nenašla; obsahovala zřejmě líčení nezdaru Švýcarů u La Rivière a jejich rychlého ústupu od Pontarlier (srov. list vévody Karla pánu Du Fay z 10. 5. 1475).",
+  "Gingins: Troilo zůstal ve Franche-Comté se svou rotou kalabrijských těžkooděnců, 13. 11. 1474 bojoval u Héricourtu; Levier (Villa Liverii) je velká obec pod Jurou mezi Pontarlier a Salins (dep. Doubs).",
+  "Gingins: Troilo „de Muro“ pocházel z Rossana v Kalábrii; jeho synové Francesco a Giovanni Francesco sloužili rovněž Karlovi (mladší byl u Neussu) a všichni tři byli později u Grandsonu a Murtenu.",
+  "„In questo mese presente“: list je psán 1. května, „nynějším měsícem“ je zřejmě míněn duben."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Burgundský kondotiér Troilo z Rossana posílá milánskému vévodovi přiloženou (nedochovanou) pravdivou zprávu o novém vpádu Švýcarů do Burgundska, aby ho nepředešly zkreslené zprávy z Německa."
+}

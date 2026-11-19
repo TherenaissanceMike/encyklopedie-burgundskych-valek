@@ -1,0 +1,58 @@
+{
+ "cislo": 57,
+ "rimske": "LVII",
+ "nadpis": "LVII. Antoine d’Appiano au duc de Milan. Montcalier, 4 juillet 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcalier, 4 juillet 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LVII (ř. 2064–2079 souboru edice)",
+ "obsah_editora": "Des lettres arrivées la veille de la Bourgogne confirment les précédentes nouvelles reçues de Neuss. — Elles ajoutent que la paix a été définitivement conclue entre l’empereur et le duc de Bourgogne, qui ont effectué ensemble leur entrée dans la ville; mais les habitants de Neuss ont fait, dit-on, bien meilleur accueil au duc qu’à l’empereur. — On ne sait ce qu’il faut en croire; cependant toutes les nouvelles s’accordent à dire que la paix est faite et que Neuss est resté à Monseigneur de Bourgogne.",
+ "odstavce": [
+  {
+   "text": "LVIII. Antoine d’Appiano au duc de Milan. Montcalier, 4 juillet 1475.",
+   "preklad": "LVII. Antonio d'Appiano milánskému vévodovi. Moncalieri, 4. července 1475"
+  },
+  {
+   "text": "IIl mo et Ex mo Signore mio. — (Omissis omittendis.)",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. — (Vynechávám, co je k vynechání.)"
+  },
+  {
+   "text": "Heri forono portate lettere de Borgogna per le quale se scrivano quelle medesime novelle che aviso V. S. erano intervenute a Nus tra limperatore et Monsignore di Bergogna. Ma questi concludeno la pace pace essere firmata fra loro et che ambiduy sono intrati dentro da Nus insiema et quelli de la terra hanno facto magiore et migliore ciera a monsignore de Borgogna che non allimperatore. Non so que credere tutte sono conforme cum la copia mando V. Ex ia ma com e dicto concludano la pace essere facta fra loro duy et Nus essere rimasta a Monsignor de Borgogna.",
+   "preklad": "Včera přišly z Burgundska listy, které píší o týchž událostech u Neussu mezi císařem a panem [vévodou] burgundským, o nichž jsem Vaši Výsost už zpravil. Tyto však končí tím, že mír mezi nimi byl pevně stvrzen, že oba spolu vstoupili do Neussu a že obyvatelé města přijali pana [vévodu] burgundského s větší a srdečnější vlídností než císaře. Nevím, čemu věřit; všechny se shodují s opisem, který posílám Vaší Excelenci, ale, jak řečeno, končí tím, že mír mezi nimi dvěma je uzavřen a Neuss zůstal panu [vévodovi] burgundskému."
+  },
+  {
+   "text": "Ex Montecallerio 4 July 1475.",
+   "preklad": "Z Moncalieri 4. července 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre.",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo : Ill mo Principi et Ex mo domino meo Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Les documents contemporains ne disent rien d’une entrée collective et solennelle de l’empereur et du duc de Bourgogne dans Neuss; mais, d’après la dépêche précédente du 23 juin, il paraît que les commissaires du duc Charles, Adolphe de Cl'eves, le sire d ’Humbercourt et Olivier de La Marche, assistèrent au nom du duc, à la remise de la place au légat du pape. Molinet dit seulement au chap. XXI « que ceux de la ville vinrent dans le camp bourguignon pour acheter ce qui leur plaisait, et que pareillement ceux de l’Ost du duc Charles entraient à Neuss, et s’étonnaient qne la place eût pu résister aussi longtemps."
+ ],
+ "poznamky": [
+  "Oprava dělení: vypuštěno záhlaví strany „DES AMBASSADEURS MILANAIS. 173“, které rozdělilo adresu; obě části adresy spojeny. OCR „Meri fororio“ opraveno na „Heri forono“, „riera“ na „ciera“ (fare buona ciera = vlídně přijmout). „pace pace“ je zdvojení v textu.",
+  "Moncalieri (Montcalier) u Turína, sídlo savojské vévodkyně Jolandy.",
+  "Gingins: současné prameny o společném slavnostním vjezdu císaře a vévody do Neussu nic nevědí; podle předchozí depeše byli při předání města papežskému legátovi za vévodu Adolf z Kleve, pán z Humbercourtu a Olivier de La Marche. Molinet (kap. 21) jen říká, že měšťané chodili nakupovat do burgundského tábora a Burgunďané do města, a divili se, že se město tak dlouho udrželo."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Appiano hlásí z Moncalieri nové zprávy z Burgundska, podle nichž je mír mezi císařem a Karlem Smělým u Neussu pevně uzavřen a Neuss zůstal Burgunďanům; sám si není jist, čemu věřit."
+}

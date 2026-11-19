@@ -1,0 +1,62 @@
+{
+ "cislo": 242,
+ "rimske": "CCXLII",
+ "nadpis": "CCXLII. J. de Mugiascha, syndic de Biascha, au duc de Milan. Biasca, 19 juiu 1476.",
+ "odesilatel": "J. de Mugiascha, syndic de Biascha, au duc de Milan.",
+ "misto_datum": "Biasca, 19 juiu 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXLII (ř. 8228–8244 souboru edice)",
+ "obsah_editora": "Depuis le dépari des ciiH[uante hommes partis le samedi précédent 15 juin pour rejoindre les confédérés eu campagne, le syndic de Biasca a appris avec certitude que les gens de la Léventine ont reçu l’ordre exprès d’en envoyer encore cinquante autres, sans aucun délai ; — les Suisses ayant résolu de tenter encore une fois la fortuit e des armes contre le duc de Bourgogne, soit pour vaincre soit pou r périr; parce que, disent-ils, le duc s’est beaucoup rapproché du territoire bernois, etc.",
+ "odstavce": [
+  {
+   "text": "CCXLII. J. de Mugiascha, syndic de Biascha, au duc de Milan. Biasca, 19 juiu 1476.",
+   "preklad": "CCXLII. Giovanni de Mugiascha, syndik v Biasce, milánskému vévodovi. Biasca, 19. června 1476"
+  },
+  {
+   "text": "Ill.me Princeps, etc. Non obstantibus aliis meis litteris R tie et D. V. in edomada presenti transmissis de recessione illorum 50 hominum qui die sabati prox.me pret.i receperunt prò eundo in campum cum suis dominis de liga, etc., nuperrime autem fui advisatus et certifficatus, quod aduc hodie in mane habuerunt dicti Leventinenses preceptum expresse de transmitendo aduc eis statim alios 50 homines. Quia sunt deliberati velie aduc aprobare venturam suam, aut pro Victoria aut pro perditione, cum Ill m0 Duce Brigondie, et dicunt quod ipse nimis se facit vicinum versus partes Bernenses, tam conqueruntur dicti Leventinenses de expensis eorum, quod non possunt bene patti tantas expensas. Nil aliud prò presenti nisi quod altissimus Deus omnipotens semper D. V. et statum V. optineat et accreschat féliciter in bono statu. Et ad quam humillissime me facio recomissum.",
+   "preklad": "Nejjasnější kníže atd. Nehledě na mé jiné listy, poslané Vaší Milosti tento týden, o odchodu oněch 50 mužů, kteří minulou sobotu vyrazili do pole se svými pány ze spolku atd., byl jsem nyní nově zpraven a ujištěn, že dnes ráno dostali řečení Leventinští výslovný rozkaz poslat jim ihned dalších 50 mužů. Neboť [Švýcaři] jsou rozhodnuti ještě jednou zkusit své štěstí s nejjasnějším vévodou burgundským, buď k vítězství, nebo ke zkáze, a říkají, že se příliš přiblížil k bernským končinám. Řečení Leventinští si však tolik stěžují na své výdaje, že prý tak velké náklady nemohou snést. Nic jiného prozatím, než ať nejvyšší všemohoucí Bůh vždy zachová a šťastně rozmnožuje Vaši Milost i Váš stát v dobrém stavu. Té se co nejpokorněji doporučuji."
+  },
+  {
+   "text": "R. Abiascha die merchury 19° mensis Juny 1476.",
+   "preklad": "Z Biasky ve středu 19. června 1476."
+  },
+  {
+   "text": "Per vestrum semper",
+   "preklad": "Váš vždy"
+  },
+  {
+   "text": "Firmat. Fidelissimum servitorem",
+   "preklad": "Podepsán: nejvěrnější služebník"
+  },
+  {
+   "text": "JOHANNEM DE MUG ca .",
+   "preklad": "Johannes de Mug[iascha]"
+  },
+  {
+   "text": "Sindicura fyschallem et not.",
+   "preklad": "fiskální syndik a notář."
+  },
+  {
+   "text": "A tergo : Ill mo et R mo Magnanimoque Principi domino Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu, nejvelebnějšímu a velkomyslnému knížeti, pánu vévodovi milánskému atd."
+  },
+  {
+   "text": "Fideliter detur in Mediolano ut alibi citto.",
+   "preklad": "Ať se věrně doručí do Milána nebo jinam, spěšně."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Voir la dépêche du même, en date du 17 juin 1476, u° ccxxxvii."
+ ],
+ "poznamky": [
+  "List je latinsky. Opravy OCR: „lllme“ > „Ill.me“, rozdělená slova spojena, číslo poznámky odstraněno.",
+  "Gingins: viz depeši téhož pisatele ze 17. června 1476, č. 237. Minulá sobota = 15. června.",
+  "Zajímavé: Švýcaři povolávali posily z poddaných údolí až do poslední chvíle před Murtenem, „buď k vítězství, nebo ke zkáze“; Leventinští si stěžovali, že náklady na výpravu neunesou."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Leventinští dostali rozkaz poslat Švýcarům ihned dalších 50 mužů, protože spříseženci chtějí ještě jednou zkusit štěstí proti Karlovi Smělému; stěžují si na vysoké náklady."
+}

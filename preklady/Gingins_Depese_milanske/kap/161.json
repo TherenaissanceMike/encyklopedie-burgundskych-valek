@@ -1,0 +1,56 @@
+{
+ "cislo": 161,
+ "rimske": "CLXI",
+ "nadpis": "CLXI. Fr. Petrà-Santa au duc de Milan. Turin, le 9 avril 1476.",
+ "odesilatel": "Fr. Petrà-Santa au duc de Milan.",
+ "misto_datum": "Turin, le 9 avril 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CLXI (ř. 5616–5636 souboru edice)",
+ "obsah_editora": "Il confirme ce qu’il a mandé la veille au duc de Milan, touchant la mission de l’évêque de Turin, qui se propose de partir pour Vigevano le lendemain du jour de Pâques. T, Il annonce l’arrivée à Turin du capitaine italien Giberto de Correzo qui revient de la Bourgogne avec une cinquantaine de cavaliers de sa compagnie. — Il paraît léger d’argent et un peu désenchanté du service de Bourgogne ; cependant il s’est réservé de pouvoir reprendre son poste, en cas de retour. — Journellement i! en revient beaucoup d’autres qui sont dans le même cas; — par contre, un nombre encore plus grand de gens d’armes de,la troupe du défunt capitaine, B. Calléoni, vont rejoindre l’armée du duc de Bourgogne.",
+ "odstavce": [
+  {
+   "text": "CLXII. Fr. Petrà-Santa au duc de Milan. Turin, le 9 avril 1476.",
+   "preklad": "CLXI. Francesco Petrasanta milánskému vévodovi. Turín, 9. dubna 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signore mio. Da hieri in qua anchora sono stato meglio chiarito et certificato quella essere la cagione della legatione del Vesco, quale ho scritto a V. S. Esso partira il primo di fatto Pascha.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Od včerejška jsem se ještě lépe ujistil, že důvod biskupova poselství je ten, o kterém jsem Vaší Milosti psal. Odjede první den po Velikonocích."
+  },
+  {
+   "text": "Hoggi e giunto qua Giberto da Correzo quale viene da Borgogna con qualchi 50 cavalli di suoi homini darmi et famiglij. Intendo et comprendo e molto ligero di borsa, ne gli piace piu la stantia di Borgogna, nonobstante gli sij riservato il loco suo volendo tornare. Molti altri ne vengono ogni di de qua. Gli ne vanno anchora, maxime di quelli de Bart.o Cogliono.",
+   "preklad": "Dnes sem přijel Giberto da Correggio, který se vrací z Burgundska asi s 50 jezdci svých těžkooděnců a čeledi. Slyším a chápu, že má velmi lehký měšec a že se mu už nelíbí pobyt v Burgundsku, přestože mu bylo jeho místo ponecháno, kdyby se chtěl vrátit. Mnoho jiných přichází denně sem. Jiní tam ale také odcházejí, zvláště z lidí Bartolomea Colleoniho."
+  },
+  {
+   "text": "Taurini 9° Aprilis.",
+   "preklad": "Turín 9. dubna."
+  },
+  {
+   "text": "Firmai. Divotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Fran. Petrasancta.",
+   "preklad": "Francesco Petrasanta."
+  },
+  {
+   "text": "A tergo: Ill.mo Principi et Ex.mo dno meo Galeaz Marie Sforcie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "* Pâques, tombait sur le 14 avril."
+ ],
+ "poznamky": [
+  "Opravy OCR: „Fban.“ → „Fran.“, „111 1110“ → „Ill.mo“, „Me- v diolani“ → „Mediolani“, adresa (dva řádky) spojena, vypuštěno číslo poznámky.",
+  "Gingins: Velikonoce připadly na 14. dubna; biskup turínský tedy měl odjet 15. dubna 1476. Gingins v obsahu uvádí cíl Vigevano.",
+  "„qualchi 50 cavalli di suoi homini darmi et famiglij“: cavalli u počtů = jezdci, „famiglij“ = čeleď, služebníci.",
+  "Bartolomeo Colleoni, slavný kondotiér, zemřel v listopadu 1475; Gingins mluví o „zesnulém kapitánovi“. Jeho lidé přecházeli do burgundské služby.",
+  "Zajímavé: po Grandsonu se italští kondotiéři s prázdným měšcem vracejí z burgundské služby, zároveň ale jiní (Colleoniho lidé) do ní dál odcházejí."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Petrasanta potvrzuje účel poselství turínského biskupa k milánskému vévodovi. Hlásí návrat kondotiéra Giberta da Correggio s 50 jezdci z Burgundska, nespokojeného a bez peněz; jiní Italové, hlavně Colleoniho lidé, naopak do burgundské služby odcházejí."
+}

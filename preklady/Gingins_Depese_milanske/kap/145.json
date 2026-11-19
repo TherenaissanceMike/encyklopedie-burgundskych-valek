@@ -1,0 +1,54 @@
+{
+ "cislo": 145,
+ "rimske": "CXLV",
+ "nadpis": "CXLV. Jean Pierre Panigarola au duc de Milan. Lausanne, le 29 mars 1476.",
+ "odesilatel": "Jean Pierre Panigarola au duc de Milan.",
+ "misto_datum": "Lausanne, le 29 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXLV (ř. 5219–5236 souboru edice)",
+ "obsah_editora": "Commission donnée par le duc de Bourgogne pour effectuer, à Milan, jusqu’à concurrence de 15 à 16,000 écus, un achat de cuirasses, casques et autres armatures de guerre, qu’il se propose de tenir en réserve pour, le cas échéant, en pourvoir ceux qui en auraient un besoin pressant. — L’Italien Anselmìno da Prato, secrétaire du duc Charles, part le même jour pour Milan, chargé de cette commission et de lettres de recommandation pour le duc de Milan, auquel on demande deux choses : — premièrement : de procurer au dit Anselmìno l’assistance d’un officier milanais qui le mette en rapport avec les fournisseurs les plus habiles et les plus honnêtes ; en faisant défense aux ouvriers de travailler pour d’autres, tant qu’ils n’auronl pas achevé l’ouvrage qu’il leur aura commandé; — Secondement, d’exempter les objets ci-dessus, confectionnés pour le compte du duc de Bourgogne, des droits de sortie et des gabelles du fisc milanais; — offrant, le cas échéant, d’user de réciprocité à l’égard du duc de Milan. Enfin on insiste surtout pour que Galeas-Marie veuille bien interposer son autorité pour que le dit Anselmino puisse accomplir sa mission avec toute la célérité possible.",
+ "odstavce": [
+  {
+   "text": "CXLVI. Jean Pierre Panigarola au duc de Milan. Lausanne, le 29 mars 1476.",
+   "preklad": "CXLV. Giovanni Pietro Panigarola milánskému vévodovi. Lausanne, 29. března 1476"
+  },
+  {
+   "text": "Illustrissimo Signor mio. In questhora questo Excellentissimo S re mi a dicto avere spazato Anselmino da Prato, italiano, suo secretario presente exhibitore, quale manda ad Milano per comprare barde, armature, cellade et corazine per 15 o 16 m scudi, quale vole tenere per monitione et dare quando acade a fare un facto darme subito a quelli ne hanno bisogno, pero quamvis etiam li scriva pregarla si digni avere per racomandato esso Anselmino quale fara capo a quella in doe cose. Luna che ad Milano sia adattato per qualchuno deli vostri a trovare quello a mestero in el che se avera avantagio, et quando non trovasse facte tute quele cosse, li piacia far comandare ad tuti li maestri che lavorino ad esso Anselmino solo tanto che li lavori sarano forniti; li quali con ogni celerità possibile voria qui per valersi ad questa impresa, et armare li soi piu che pora. Laltra che V. S. si digni provedere che queste sue robe et armature nel dominio vostro non pagino datio ne gabella alcuna, perche a suo nome le fa comprare, el che acceptara in dono da essa V. S. ala quale dice faria il simile ne li territori soi di qualonche cosa volesse. Ma che sopratutto quela si degni provedere esso Anselmino sij presto expedito, caricandome molto caldamente scrivesse a quela in bona forma, el che fazo per la presente, et a quela me ricomando.",
+   "preklad": "Nejjasnější pane můj. V tuto hodinu mi tento nejvznešenější pán řekl, že vypravil Anselmina da Prato, Itala, svého sekretáře a doručitele tohoto listu, kterého posílá do Milána nakoupit koňské bardy, zbroj, lebky a brigantiny za 15 nebo 16 tisíc štítových zlatých. Ty chce mít jako zásobu a dávat je, když dojde k nějaké bitvě, ihned těm, kdo je potřebují. Proto, ačkoli jí také sám píše, prosí Vaši Milost, aby ráčila mít toho Anselmina za doporučeného; obrátí se na ni ve dvou věcech. Za prvé, aby mu v Miláně někdo z Vašich pomohl najít, co potřebuje, a to výhodně; a kdyby všechny ty věci nenašel hotové, aby ráčila přikázat všem mistrům, aby pracovali jen pro toho Anselmina, dokud nebudou práce dokončeny. Ty by chtěl mít zde co nejrychleji, aby jich použil v tomto podniku a vyzbrojil své lidi, jak nejlépe bude moci. Za druhé, aby Vaše Milost ráčila zařídit, aby tyto jeho věci a zbroj na Vašem panství neplatily žádné clo ani daň, protože je dává koupit svým jménem; to přijme jako dar od Vaší Milosti a říká, že by na svých územích učinil totéž v čemkoli, co by chtěla. Ale především ať ráčí zařídit, aby byl ten Anselmino rychle vypraven. Velmi vřele mi uložil, abych o tom Vaší Milosti náležitě napsal, což tímto činím, a doporučuji se jí."
+  },
+  {
+   "text": "Ex Lossana 29 Martij 1476.",
+   "preklad": "Z Lausanne 29. března 1476."
+  },
+  {
+   "text": "Firmat. Servus",
+   "preklad": "Podepsán služebník"
+  },
+  {
+   "text": "Jo. Petrus Panigarola.",
+   "preklad": "Giovanni Pietro Panigarola."
+  },
+  {
+   "text": "A tergo : …simo Principi ac Excell mo domino",
+   "preklad": "Na rubu: […]nejjasnějšímu knížeti a nejvznešenějšímu panu"
+  },
+  {
+   "text": "…ng mo D. Duci Mediolani etc.",
+   "preklad": "[…] panu vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [],
+ "poznamky": [
+  "„corazine“: brigantiny (plátová zbroj na látkovém podkladu); „barde“ = koňské bardy; „cellade“ = lebky (salady).",
+  "Adresa na rubu je v edici neúplná (začátky slov chybí), proto […].",
+  "Odstraněna poznámka editora „Lassano, Lausanne“, která zapadla do originálu; opravy OCR: „(lieto“ → dicto, „secretano“ → secretario, „darne“ → darme, „mesterò“ → mestero, „Curri“ → Cum, spojena rozdělená slova.",
+  "V depeši CXLV z téhož dne se mluví o nákupu za „16 o 20 m [?]“ štítových zlatých, zde za 15 nebo 16 tisíc.",
+  "Zajímavé: Karel po Grandsonu nakupuje v Miláně zbroj, bardy, salady a brigantiny za 15–16 tisíc štítových zlatých jako zásobu pro ty, kdo přišli o výstroj; žádá, aby milánští mistři pracovali jen pro něj a aby zboží bylo osvobozeno od cla."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Karel Smělý posílá svého sekretáře Anselmina da Prato do Milána nakoupit zbroj, koňské bardy, salady a brigantiny za 15–16 tisíc štítových zlatých jako zásobu pro vojsko. Žádá vévodu o pomoc při nákupu, o přednostní práci milánských zbrojířů a o osvobození od cla."
+}

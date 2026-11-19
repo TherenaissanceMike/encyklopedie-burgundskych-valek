@@ -1,0 +1,57 @@
+{
+ "cislo": 64,
+ "rimske": "LXIV",
+ "nadpis": "LXIV. Antoine d’Appiano au duc de Milan. Montcaprel, 23 juillet 1475.",
+ "odesilatel": "Antoine d’Appiano au duc de Milan.",
+ "misto_datum": "Montcaprel, 23 juillet 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše LXIV (ř. 2213–2229 souboru edice)",
+ "obsah_editora": "Arrivée à Montcaprel d’un écuyer envoyé à Madame de Savoie par le seigneur de Mentlion, pour lui faire savoir que l’amiral de France, marchant contre un port de mer en Picardie, où les Anglais devaient débarquer, plusieurs seigneurs de condition du parti bourguignon s’avancèrent, avec leurs gens, à la rencontre des Français. — Le comte de Romont qui, plein d’ardeur, commandait l’avant-garde, tomba sur le corps de l’amiral, etc. — Mais les Bourguignons furent battus par les Français qui firent un grand nombre de prisonniers de marque, dont la rançon est estimée à un million de ducats. —Quant au comte de Romont, on ne sait ce qu’il est devenu, et l’on n’a retrouvé que son cheval. L’ambassadeur milanais tenait ces nouvelles du trésorier Rufin de Mûris, et celui-ci d’une personne de la cour qui la tenait elle-même de l’écuyer arrivé la veille au soir.",
+ "odstavce": [
+  {
+   "text": "LXV. Antoine d’Appiano au duc de Milan. Montcaprel, 23 juillet 1475.",
+   "preklad": "LXIV. Antonio d'Appiano milánskému vévodovi. Moncrivello, 23. července 1475"
+  },
+  {
+   "text": "Ill mo et Ex mo Signore mio. Ricomandandomi sempre a la bona grazia di V. Sublimità. Heri sera tarde vene a questa Ill ma Madama un scujero mandato per Monsignore de Mentone qual fece intendere a Sua S. corno andando ladmiraglio del Sig re Re di Franza ad un certo porto in Picardia, ove dovevano descendere Anglesi, andarono suo opposto molte gente de Monsignor de Borgogna, fra quali erano molti Signori de condictione, et tra laltri monsignor de Romont, qual animoso ritrovandosi antiguardo se appizzo cum esso admiraglio. Et in summa esso Monsignor de Romont non si trova, ben se ritrovato il suo cavallo. Et ipsi Borgognoni forono rotti, morti assay de loro et presi molti Signori et Baroni, che pagarano grossissima taglia, dico forse mezzo un miliono de Ducati, quantunque se dica de piu somma. Queste parole mha dicto questa matina Ruffino de Mûris essere riportate a luy da Cortesani che lè hanno de certo dal scuyero proprio che le ha portate.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj. Ustavičně se doporučuji dobré milosti Vaší Výsosti. Včera pozdě večer přijel k zdejší nejjasnější paní štítonoš, kterého poslal pan z Menthonu, a oznámil Její Milosti toto: když admirál pana krále Francie táhl k jakémusi přístavu v Pikardii, kde se měli vylodit Angličané, vytáhlo proti němu mnoho lidí pana [vévody] burgundského, mezi nimi mnoho urozených pánů, a mezi jinými pan z Romontu, který se, smělý jak je, ocitl v předvoji a střetl se s admirálem. Zkrátka: pan z Romontu se nenašel, našel se jen jeho kůň. A Burgunďané byli poraženi, mnoho jich padlo a zajato bylo mnoho pánů a baronů, kteří zaplatí převeliké výkupné, řekněme snad půl milionu dukátů, ačkoli se mluví i o vyšší sumě. Tato slova mi dnes ráno řekl Ruffino de Muris; vyprávěli mu je dvořané, kteří je mají jistě přímo od štítonoše, jenž je přinesl."
+  },
+  {
+   "text": "Ex Montecaprello die 23 july 1475.",
+   "preklad": "Z Moncrivella 23. července 1475."
+  },
+  {
+   "text": "Ejusdem Celsitudinis Vestre",
+   "preklad": "Vaší Výsosti"
+  },
+  {
+   "text": "Devotissimus servulus",
+   "preklad": "nejoddanější služebníček"
+  },
+  {
+   "text": "Antonius de Aplano.",
+   "preklad": "Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Ill mo principi etc. dno Galeaz Marie Sfortie Vicecomiti duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti atd., panu Galeazzovi Marii Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "Cum sigillo.",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "1 Bernard de Menthon, seigneur du dit lieu, en Genevois, fils de Guillaume, seigneur de Menthon, chevalier, et de Guillemette de Langin. C’est de lui qu’il est parlé dans les mémoires d 'Olivier de La Marche, liv. II, chap. 8. Il testa le 1 er mars 1476, v. style. — Georges de Menthon, chevalier, seigneur de Dingié, cousin-germain du précédent, servait dans l’armée du duc Charles de Bourgogne qui le créa chevalier au siège de Neuss. ( Molinet. chap. XX, et Guichenon, histoire de Bresse, p. 251- 252, de la 3 me partie.)",
+  "* Il s’agit ici du combat livré le 23 juin, sous les murs d’Arras. Le comte de Romont se retrouva bientôt sain et sauf; mais son cheval était mort. (Lenglet, 1. c. t. II, p. 118.) Il est probable que c’est Georges de Men- tholi qui avait donné la nouvelle de ce combat an sire de Menthon, son cousin."
+ ],
+ "poznamky": [
+  "OCR: „questa marina“ opraveno na „questa matina“ (dnes ráno), „Ill nia“ na „Ill ma“; odstraněna čísla poznámek a rozdělená slova.",
+  "Gingins: pan z Menthonu = Bernard de Menthon, pán z Menthonu v Ženevsku († po 1476). Jeho bratranec Georges de Menthon sloužil ve vojsku Karla Smělého a byl pasován na rytíře při obléhání Neussu; Gingins se domnívá, že zprávu poslal právě on.",
+  "Gingins: jde o střet 23. června pod hradbami Arrasu; hrabě z Romontu se brzy našel živ a zdráv, jen jeho kůň padl. Ruffino de Muris byl savojský pokladník.",
+  "Gingins v obsahu odhaduje výkupné na milion dukátů; text má „mezzo un miliono“ (půl milionu), „ačkoli se mluví i o vyšší sumě“.",
+  "Zajímavé: Romont jako horlivý velitel předvoje, který se vrhl do boje s francouzským admirálem; v doslechu z boje vznikla zpráva o jeho zmizení, protože se našel jen jeho kůň."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Štítonoš pana z Menthonu přinesl savojské vévodkyni zprávu, že Burgunďané byli v Pikardii poraženi francouzským admirálem, mnoho pánů padlo či bylo zajato a z hraběte z Romontu, který vedl předvoj, se našel jen kůň."
+}

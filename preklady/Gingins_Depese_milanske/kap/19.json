@@ -1,0 +1,54 @@
+{
+ "cislo": 19,
+ "rimske": "XIX",
+ "nadpis": "XIX. Antoine de Mirabilia, gouverneur du château de Porta-Jovia, au duc de Milan. Milan, château de Porta-Jovia, 13 mars 1475.",
+ "odesilatel": "Antoine de Mirabilia, gouverneur du château de Porta-Jovia, au duc de Milan.",
+ "misto_datum": "Milan, château de Porta-Jovia, 13 mars 1475.",
+ "rok": 1475,
+ "edice": "Gingins-La Sarra 1858, depeše XIX (ř. 1046–1068 souboru edice)",
+ "obsah_editora": "Arrivée d’Antoine, le grand-bâtard de Bourgogne à Milan. — Conformément aux ordres donnés par le duc Galeaz-Marie, les jeunes princes, ses fils, à la tête des consuls et d’un nombreux cortège, vont le recevoir à trois lieues de la ville, et le conduisent en grande cérémonieau château de Milan, où il fait son entrée à 5 heures du soir. —11 se propose de visiter la ville et de faire quelques commandes d’armes de guerre avant de quitter Milan. Illustrissimo et excellentissimo signore mio.",
+ "odstavce": [
+  {
+   "text": "XX. Antoine de Mirabilia, gouverneur du château de Porta-Jovia, au duc de Milan. Milan, château de Porta-Jovia, 13 mars 1475.",
+   "preklad": "XIX. Antonio Mirabilia, kastelán hradu Porta Giovia, milánskému vévodovi. Milán, hrad Porta Giovia, 13. března 1475"
+  },
+  {
+   "text": "Aviso vostra Excellente, como ozi, ad hore 23 e smontato qui, nel vostro Castello de porta zobia, lo illustrissimo Bastardo de Brogogna, et inanti che sia giunto, li e andato incontro li illustrissimi fioli della Vostra Excellente, lo Conte de Pavia, et lo Marchese, et lo consilio vostro in nave, et li Cortexani, et offitiali de Vostra Excellente: et con li trombetti et piferi, a cavallo, lontani da Milano circha miglia tria, et giunto che fureno apresso la nave dove hera dentro lo prefato signore Bastardo, et la nave dove herano dentro li prefacti fioli della Vostra Excellente, montarono li fioli della Vostra Signoria, con lo consilio, in la nave dove hera lo prefato signore Bastardo, como hera ordinato per la Signoria Vostra, et poy che fureno smontati fora de nave, fu accompagnato lo dicto Signore Bastardo per fin al uscio della Camera dove alloza, diche con grandissimo honore et bono ordine e stato retenuto, et domane Sua Signoria ha dicto de volere andare per la Cita, et tra le altre cosse vole andare alla contrata delle arme, et vole fare tore alcune mexure de arme: lo suo maystro de Caxa mostra che lo dicto Signore Bastardo vora partire da qui poxo domane, pure non la certifichato, et se altro ne intenderò ne avisaro la Exeellentia Vostra, alla quale continuamente m’arracomando. Dat. ex Castro porte Jovis, die 13 Martij 1475.",
+   "preklad": "Oznamuji Vaší Excelenci, že dnes ve 23 hodin sesedl zde, ve Vašem hradu Porta Giovia, nejjasnější bastard burgundský. Ještě před jeho příjezdem mu vyjeli vstříc nejjasnější synové Vaší Excelence, hrabě z Pavie a markýz, s Vaší radou na lodi, a dvořané a úředníci Vaší Excelence s trubači a pištci na koních, asi tři míle od Milána. Když se loď s řečenými syny Vaší Excelence přiblížila k lodi, v níž byl pan bastard, přestoupili synové Vaší Milosti s radou na loď pana bastarda, jak to Vaše Milost nařídila. Když pak vystoupili z lodí, byl pan bastard doprovázen až ke dveřím komnaty, kde bydlí, a byl tak přijat s převelikou poctou a v dobrém pořádku. Zítra prý chce Jeho Milost projít městem a mimo jiné chce zajít do ulice zbrojířů a dát si vzít míry na nějakou zbroj. Jeho hofmistr dává najevo, že pan bastard chce odtud odjet pozítří, ale nepotvrdil to; dozvím-li se něco dalšího, dám zprávu Vaší Excelenci, jíž se stále doporučuji. Dáno na hradě Porta Giovia 13. března 1475."
+  },
+  {
+   "text": "E. I. D. V.",
+   "preklad": "Vaší nejjasnější Excelence"
+  },
+  {
+   "text": "Firmat. : fidelissimus servitor",
+   "preklad": "Podepsán: nejvěrnější služebník"
+  },
+  {
+   "text": "Antonius Mirabilia.",
+   "preklad": "Antonius Mirabilia."
+  },
+  {
+   "text": "A tergo : Illustrissimo principi et excellentissimo domino Duci Mediolani. (cito).",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, vévodovi milánskému. (Spěšně.)"
+  }
+ ],
+ "poznamky_editora": [
+  "■ Castello de Porta Giovia, la forteresse de Milan, résidence des ducs, située près de la porte appelée Porta-Joms en latin.",
+  "2 Jean-Galeas Sforza, comte de Pavie, et Hermes Sforza, âgés de 6 à 7 ans, fils de Galeas-Marie et de Bonne de Savoie.",
+  "5 L’anno 1475 ai 13 Marzo, il gran Bastardo di Borgogna giunse a",
+  "Milano per andare a Napoli, e quivi da Galeazzo.fu ricevuto con gran magnificentia, etc. {Corio, Hist. di Milano, éd. de Padoue, 1646, p. 828.)"
+ ],
+ "poznamky": [
+  "Gingins: hrad Porta Giovia je milánská pevnost a sídlo vévodů, u brány zvané latinsky Porta Jovis.",
+  "Gingins: synové = Gian Galeazzo Sforza, hrabě z Pavie, a Ermes Sforza (markýz), šesti- až sedmiletí synové Galeazza Maria a Bony Savojské.",
+  "Gingins podle Coria (Historia di Milano): velký bastard burgundský (Antoine, nevlastní bratr Karla Smělého) přijel do Milána 13. března 1475 na cestě do Neapole a Galeazzo ho přijal s velkou nádherou.",
+  "„ad hore 23“: italské počítání hodin od západu slunce, tedy asi hodinu před západem; Gingins uvádí 17. hodinu.",
+  "Přivítání na lodích: v originále „in nave“, zřejmě na milánském průplavu (naviglio).",
+  "Opravy OCR: odstraněna čísla poznámek („zobia *“, „Marchese. 2“, „1475 5“), „Firmai. : fìdelissimus“ → Firmat. : fidelissimus, spojena rozdělená slova.",
+  "Zajímavé: bastard burgundský si v Miláně, středisku evropského zbrojířství, jde do „contrada delle armi“ (ulice zbrojířů) dát vzít míry na zbroj – doklad, že burgundská šlechta objednávala zbroj na míru přímo v Miláně.",
+  "Oprava OCR: „corno“ → como (2×)."
+ ],
+ "shrnuti": "Milánský kastelán líčí slavnostní přijetí velkého bastarda burgundského v Miláně 13. března 1475: vévodovi synové mu vyjeli vstříc na lodích. Bastard chce projít město a v ulici zbrojířů si dát vzít míry na zbroj.",
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu"
+}

@@ -1,0 +1,57 @@
+{
+ "cislo": 207,
+ "rimske": "CCVII",
+ "nadpis": "CCVII. Antoine d’Appiano, au duc de Milan. Lausanne, 23 mai 1476.",
+ "odesilatel": "Antoine d’Appiano, au duc de Milan.",
+ "misto_datum": "Lausanne, 23 mai 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCVII (ř. 7212–7233 souboru edice)",
+ "obsah_editora": "La majeure partie des chevaux du camp ont été envoyés, faute de nourriture, dans les villages, ainsi qu’on l’avait annoncé.— D. Mariano, capitaine de 100 lances (napolitaines) et les hommes d’armes de sa compagnie ont conduit leurs chevaux dans certaines localités du côté de la Gruyère, sans prendre des précautions suffisantes pour leur garde. — L’ennemi étant survenu en a enlevé plus de 200, en sorte que les trois-quarts de la troupe se trouvent démontés.— Le duc de Bourgogne, qui se trouvait au camp, est entré, dit-on, dans une grande colère et a fait arrêter le capitaine et quelques-uns de ses hommes d’armes; puis il est rentré en ville accompagné d’une vingtaine de chevaux au plus, toujours fulminant contre l’incurie de ses gens.",
+ "odstavce": [
+  {
+   "text": "CCVIII. Antoine d’Appiano, au duc de Milan. Lausanne, 23 mai 1476.",
+   "preklad": "CCVII. Antonio d'Appiano milánskému vévodovi. Lausanne, 23. května 1476"
+  },
+  {
+   "text": "Illustrissimo et Excellentissimo Signor mio, etc. — Como avisay questi giorni, la magior parte del campo haveva rimandato li cavalli ali villagi perche trovavano de li strami, et tra laltri havendo Don Mariano Capitaneo di cento lanze mandato cum li homini darme de sue squadre loro cavalli ad alcuni villagi verso Gruera, li tenevano simplicemente senzaltra guardia, et gli inimici gli sonno venuti a tore circha 200 cavalli o piu, per li quali quasi tre squadre sonno rimasti a pede, del che Monsig re de Borgogna, qual questa sera e andato in campo, terribilmente se turbato, et ha facto destruere esso Don Mariano et una frotta de suoi homini darme, come Zoanne Petro può avisare piu copiosamente, che e stato presente ale parole et corozo de Sua Excell.a, qual e ritornato in questa terra cum circha 20 cavalli et non piu, sempre fulminando. Ala Celsitudine Vostra mi ricommando.",
+   "preklad": "Nejjasnější a nejvznešenější pane můj atd. — Jak jsem v těchto dnech oznámil, větší část vojska poslala koně zpátky do vesnic, protože tam nacházeli píci. Mezi jinými don Mariano, kapitán sta kopí, poslal se svými těžkooděnci koně svých oddílů do několika vesnic směrem ke Gruyère a drželi je tam jen tak, bez jiné stráže; nepřátelé přišli a odvedli jim asi 200 koní nebo víc, takže skoro tři oddíly zůstaly pěšky. Monsignore burgundský, který dnes večer jel do tábora, se nad tím strašlivě rozhněval a dal řečeného dona Mariana a houf jeho těžkooděnců zbavit [velení a služby?] (destruere), jak může Vaší Výsosti podrobněji oznámit Giovanni Pietro [Panigarola], který byl přítomen slovům a hněvu Jeho Excelence. Ta se vrátila do tohoto města s asi 20 koňmi a ne víc, stále hřímajíc. Doporučuji se Vaší Výsosti."
+  },
+  {
+   "text": "Ex Lusanna 23 May 1476.",
+   "preklad": "Z Lausanne 23. května 1476."
+  },
+  {
+   "text": "Ejusdem Sublimitatis Vestre",
+   "preklad": "Téže Vaší Výsosti"
+  },
+  {
+   "text": "Firmai. Devotissimus servulus Antonius de Aplano.",
+   "preklad": "Podepsán: nejoddanější služebníček Antonio d'Appiano."
+  },
+  {
+   "text": "A tergo: Illustrissimo et excellentissimo domino",
+   "preklad": "Na rubu: Nejjasnějšímu a nejvznešenějšímu pánu"
+  },
+  {
+   "text": "Galeaz Marie Sfortie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo.)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' Bon Mariano. Le titre de Bon , douné à ce personnage, dont le nom de famille n’est indiqué nulle part, dénote une origine espagnole. Il est désigné dans 1 'ordonnance militaire, n° cc, comme capitaine d’une compagnie de 100 lances (napolitaines?). a II faut peut-être lire detoiere, à moins qu’on ne traduise destruere par destituer, ou casser-aux-gages.",
+  "3 Panigarola ne dit rien dans ces dépêches de cet incident; quant au fait de la capture des chevaux au nombre de 120 (et non 200), elle eût réellement lieu le jour de la Pentecôte, suivant une lettre de Berne à Bâle écrite dans les derniers jours de mai. (J. Knébel, 1, c. II, p. 52.)"
+ ],
+ "poznamky": [
+  "Opravy OCR: čísla poznámek, „homini dame“ → „homini darme“, „Excell»“ → „Excell.a“.",
+  "Gingins: don Mariano – titul don ukazuje na španělský původ; v ordonanci (č. 201) je kapitánem roty 100 kopí (snad neapolských).",
+  "„Destruere“: Gingins navrhuje číst „detinere“ (zadržet) nebo rozumět „sesadit, propustit“; v obsahu píše, že je vévoda dal zatknout.",
+  "Gingins: Panigarola o příhodě v depeších nemluví; podle listu Bernských Basilejským z konce května (Knebel) šlo o 120 koní, ne 200, a stalo se to o Letnicích. Pozor: Letnice 1476 připadly na 2. června, tedy až po datu této depeše; buď jde o jinou akci, nebo údaj o Letnicích nesedí.",
+  "Zajímavé: oddíl (squadra) má 25 kopí, „skoro tři oddíly pěšky“ tedy znamenají asi 70 kopí bez koní. Ukazuje to i, jak burgundské vojsko kvůli nedostatku píce rozptýlilo koně po vesnicích (srov. č. 205)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Švýcaři u Gruyère odvedli rotě dona Mariana asi 200 nehlídaných koní, takže skoro tři oddíly zůstaly pěšky. Karel Smělý se strašně rozhněval a dona Mariana a část jeho těžkooděnců potrestal."
+}

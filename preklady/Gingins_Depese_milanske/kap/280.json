@@ -1,0 +1,54 @@
+{
+ "cislo": 280,
+ "rimske": "CCLXXX",
+ "nadpis": "CCLXXX. Léonard Botta, (ambassadeur milanais à Venise), au duc de Milan. Venise, 30 octobre 1476.",
+ "odesilatel": "Léonard Botta, (ambassadeur milanais à Venise), au duc de Milan.",
+ "misto_datum": "Venise, 30 octobre 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCLXXX (ř. 9369–9383 souboru edice)",
+ "obsah_editora": "Comme on avait reçu à Venise, soit par le canal des faetories allemandes, soit par la voie de Lyon, la nouvelle qu’un corps de mille chevaux envoyé par le duc de Bourgogne au secours de la ville de Nancy, assiégée par les Suisses, avait été rompu et défait, et la place réduite à capituler et à se rendre aux Suisses; la seigneurie de Venise interpelle l’envoyé milanais pour savoir de lui si, de son côté, il avait reçu quelque avis plus positif de cette défaite. — L’envoyé ayant répondu qu’il n’en savait que ce qui se disait par la ville, la seigneurie en a conclu que ces bruits n’étaient pas fondés, puisque le duc de Milan n’en avait rien appris.",
+ "odstavce": [
+  {
+   "text": "CCLXXX. Léonard Botta, (ambassadeur milanais à Venise), au duc de Milan. Venise, 30 octobre 1476.",
+   "preklad": "CCLXXX. Leonardo Botta (milánský vyslanec v Benátkách) milánskému vévodovi. Benátky, 30. října 1476"
+  },
+  {
+   "text": "Illustrissimo Signore mio. — (Omissis omittendis.) — Qua e venuto novelle per la via del fontego de Tedeschi, etiam per la via de Lion, corno essendo Svyceri alla obsidione de Nansi, principale terra de Lorena, et mandando el Duca de Borgogna mille cavalli per succorerla, essi Svyceri se li sono facto incontro et hanno rotto et frachassato dicti mille cavalli, et riducta quella terra ad termini, che e necessario se renda et dia alli Svyceri. Dovi hogi questa Signoria mando per mi et me adimando se de questa cosa haveva adviso alcuno, et perche io li resposi che haveva inteso quello se ne divulgava per la terra, ma che dalla V. Sublimità non haveva alcuna noticia, dicta Signoria existimo essa novella non essere vera, poy che da V. Ex tia non se ne haveva altro.",
+   "preklad": "Nejjasnější pane můj. — (Vynechává se, co se má vynechat.) — Sem přišly zprávy cestou přes Fondaco dei Tedeschi a také cestou z Lyonu, že když Švýcaři obléhali Nancy, hlavní město Lotrinska, a burgundský vévoda poslal tisíc jezdců, aby město vysvobodili, vytáhli jim tito Švýcaři naproti, řečených tisíc jezdců porazili a rozdrtili a přivedli to město tak daleko, že se musí vzdát a vydat Švýcarům. Proto pro mě dnes tato Signorie poslala a ptala se mě, zda o této věci mám nějakou zprávu; a protože jsem odpověděl, že jsem slyšel, co se o tom po městě vypráví, ale že od Vaší Výsosti nemám žádnou zprávu, usoudila řečená Signorie, že ta novina není pravdivá, když od Vaší Excelence o ní nic není."
+  },
+  {
+   "text": "Datum Venetiis die 30 Octobris 1476.",
+   "preklad": "Dáno v Benátkách dne 30. října 1476."
+  },
+  {
+   "text": "I. D. D. V.",
+   "preklad": "Vaší nejjasnější Jasnosti [služebník]"
+  },
+  {
+   "text": "Subscr. Servulus",
+   "preklad": "Podepsán: služebníček"
+  },
+  {
+   "text": "Leonardus Botta.",
+   "preklad": "Leonardo Botta."
+  },
+  {
+   "text": "A tergo: Illustrissimo Principi et Excellent.mo Domino Duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu panu vévodovi milánskému atd."
+  },
+  {
+   "text": "(Con sigillo)",
+   "preklad": "(S pečetí)"
+  }
+ ],
+ "poznamky_editora": [
+  "' La nouvelle de la capitulation de Nancy (6 octobre) était vraie ; mais par contre celle d’une prétendue défaite des Bourguignons envoyés au secours de la place était controuvée; les secours arrivèrent trop tard pour empêcher sa réduction. (Voir Molinet, chap. xxxn, 1.1, p. 205 et suivantes.)"
+ ],
+ "poznamky": [
+  "Oprava OCR: „omütendis“, „dieta“ → „dicta“, rozdělená slova, číslo poznámky. „I. D. D. V.“ = Illustrissimae Dominationis Vestrae (Vaší nejjasnější Jasnosti).",
+  "Fondaco dei Tedeschi: dům a sklad německých kupců v Benátkách, hlavní cesta zpráv ze zaalpských zemí.",
+  "Gingins: zpráva o kapitulaci Nancy (6. 10.) byla pravdivá, zpráva o porážce burgundské pomoci smyšlená; pomoc přišla pozdě, aby kapitulaci zabránila (Molinet)."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Botta hlásí z Benátek pověst, že Švýcaři u Nancy porazili tisíc burgundských jezdců vyslaných na pomoc a město se musí vzdát; benátská Signorie ji pokládá za nepravdivou, protože milánský vévoda o ní nic neví."
+}

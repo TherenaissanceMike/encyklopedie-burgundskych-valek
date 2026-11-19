@@ -1,0 +1,51 @@
+{
+ "cislo": 121,
+ "rimske": "CXXI",
+ "nadpis": "CXXI. Ph. S.au duc de Milan. Florence, le 6 mars 1476.",
+ "odesilatel": "Ph. S.au duc de Milan.",
+ "misto_datum": "Florence, le 6 mars 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CXXI (ř. 3792–3808 souboru edice)",
+ "obsah_editora": "Agitation produite en Italie par l’arrivée du duc de Bourgogne et de son armée entre le Jura et les Alpes. — L’auteur de la dépêche se réfère, à cet égard, à son office du 29 février précédent. — Depuis lors il a eu à ce sujet un second entretien avec le même personnage (anonyme). — Ce personnage dit, qu’après avoir de nouveau mûrement examiné la question sous ses différentes faces, il n’a point changé d’opinion sur le parti qui lui paraîtrait le meilleur, mais qu’il ignore quelles sont les vues particulières du duc Galeas-Marie sur une descente éventuelle du duc de Bourgogne en Italie. — Il a ajouté, qu’à tout événement, il lui semblerait à propos que le duc de Milan fît quelques préparatifs militaires.",
+ "odstavce": [
+  {
+   "text": "CXXII. Ph. S.au duc de Milan. Florence, le 6 mars 1476.",
+   "preklad": "CXXI. Ph. S. [Filippo Sacramoro] milánskému vévodovi. Florencie, 6. března 1476"
+  },
+  {
+   "text": "Illustrissimo Principe et Excellentissimo Sig re Sig re mio singularissimo. Dopoi a quanto scripsi per la mia de lultimo preteriti alla Ex a Vostra fuy ancho dapoy cum La.... et pur sopra quelli rasonamenti de questo approximamento del Duca de Borgogna, et domandandoli io se lhavea repensato che glie fusse altro da dire, me dixe che quello che lhavea dictomi, era quanto lhavea saputo examinare fra se che potesse essere el meglio, et cosi gli pare tuttavia, dicendo ancho havere cosi pensato et cosi dicto, havendo tuttavia consideratione et respecto a quello che fusse meglio secondo el iudicio suo, et corno quello che non sapia perho quel dovesse piu piacere alla Sub a Vostra, cioè chel prefato Duca passi in Italia, o non, et hora pur in omnem eventum dicea che gli pareria optima cosa chepsa S a mettesse in ordine le sue gente, corno lhavea recordato.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane, pane můj nejjedinečnější. Od té doby, co jsem Vaší Excelenci psal svým listem z posledního [dne] minulého [měsíce], byl jsem znovu u La.... a opět jsme hovořili o tom přibližování vévody burgundského. Když jsem se ho zeptal, zda to znovu promyslel a zda by k tomu měl ještě něco dodat, řekl mi, že to, co mi řekl, bylo vše, co dokázal sám u sebe uvážit jako nejlepší, a tak se mu to zdá stále. Dodal, že tak uvažoval a tak mluvil s ohledem na to, co by bylo podle jeho úsudku nejlepší, ovšem jako ten, kdo neví, co by bylo Vaší Výsosti milejší, totiž zda aby řečený vévoda přešel do Itálie, nebo ne. Nyní však pro všechny případy říkal, že by se mu zdálo výborné, aby Vaše Milost uvedla svá vojska do pohotovosti, jak už připomínal."
+  },
+  {
+   "text": "Florentie die 6 Martii 1476.",
+   "preklad": "Ve Florencii 6. března 1476."
+  },
+  {
+   "text": "Firmat. Devotissimus servulus",
+   "preklad": "Podepsán: Nejoddanější služebníček"
+  },
+  {
+   "text": "Ph. S.",
+   "preklad": "Ph. S."
+  },
+  {
+   "text": "A tergo: Ill m0 Principi et Excell m0 domino meo duci Mediolani etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu mému, vévodovi milánskému atd."
+  },
+  {
+   "text": "(Cum sigillo .)",
+   "preklad": "(S pečetí.)"
+  }
+ ],
+ "poznamky_editora": [
+  "' Il s’agit peut-être de Laurent de Médicis qui faillit périr dans la conjuration des Pazzi, en 1478.",
+  "2 Florence.",
+  "5 C’est probablement le même Philippe Sacramoi'o, d’Ariminio, protonotaire apostolique, ci-devant ambassadeur à Rome (1474, dépêche n° n) en 1478, qui occupait encore le poste d’ambassadeur milanais à Florence. (Voyez Lünig, Cod. ital. diplom. t. III, p. 757.)"
+ ],
+ "poznamky": [
+  "Oprava dělení: datum („Florentie … 1476“) bylo přilepené na konec textu, odděleno jako samostatný odstavec. Opravy OCR: „lul- timo“, „cumLa....*“, „Firmai“ > „Firmat“, odstraněna čísla poznámek. Jméno osoby („La....“) je v edici vynecháno.",
+  "Gingins: tajemný „La....“ je snad Lorenzo de' Medici, který málem zahynul při spiknutí Pazziů 1478. Ph. S. je nejspíš Filippo Sacramoro z Rimini, apoštolský protonotář, dříve vyslanec v Římě (1474, depeše II), ještě 1478 milánský vyslanec ve Florencii."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Milánský vyslanec ve Florencii znovu mluvil s nejmenovaným předákem (snad Lorenzem de' Medici) o hrozícím příchodu Karla Smělého do Itálie; ten trvá na své dřívější radě a doporučuje, aby milánský vévoda pro všechny případy připravil vojsko."
+}

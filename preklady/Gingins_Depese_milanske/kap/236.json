@@ -1,0 +1,63 @@
+{
+ "cislo": 236,
+ "rimske": "CCXXXVI",
+ "nadpis": "CCXXXVI. P.-A. de Porro, écuyer, etc., au duc de Milan. Monticello-sur-POglio, territoire de Crémone, 16 juin 1476.",
+ "odesilatel": "P.-A. de Porro, écuyer, etc., au duc de Milan.",
+ "misto_datum": "Monticello-sur-POglio, territoire de Crémone, 16 juin 1476.",
+ "rok": 1476,
+ "edice": "Gingins-La Sarra 1858, depeše CCXXXVI (ř. 8087–8108 souboru edice)",
+ "obsah_editora": "Il vient d’être informé par un homme d’armes appartenant au seigneur Nicolas de Tolentino, qu’un capitaine italien de Carpi, a envoyé vers le duc de Bourgogne pour lui offrir ses services; — et d’après ce que dit l’homme d’armes eu question, le capitaine aurait bon espoir de passer en Bourgogne avec une nombreuse bande de gens de guerre italiens. — Ses mandataires (Canzeleri) doivent rapporter avec eux tout l’argent nécessaire. — L’écrivain croit, pour plusieurs raisons, devoir communiquer ces renseignements au duc de Milan, auquel il se recommande, etc.",
+ "odstavce": [
+  {
+   "text": "CCXXXVI. P.-A. de Porro, écuyer, etc., au duc de Milan. Monticello-sur-POglio, territoire de Crémone, 16 juin 1476.",
+   "preklad": "CCXXXVI. Pietro Antonio de Porri, panoš atd., milánskému vévodovi. Monticelli d'Oglio, cremonské území, 16. června 1476"
+  },
+  {
+   "text": "Ill.me princeps et Excellentissime domine. — In questa sera e venuto qui a cena cum my uno Piceno alias homodarme del magnifico domino Nicolao de Tolentino qual me ha dicto che uno miser Taliano de Carpe ha mandato certi suoi canzeleri dalo Illustre duca de Bergogna a casone de offerire el dicto miser Taliano a li servitii de Sua Signoria, et cum quella a nome del dicto misser Taliano capitolare et remagnere in bono acordio. Secondo el parlare del dicto Piceno pare dicto misser Taliano habia bona speranza de andare in Borgogna cum una gran quantità de homini darme taliani et che questi suoi canzeleri portarano in qua dinari, si che per lo amore porto a la V. I. S. et al stato suo me parso per piu digni rispecti avisarla di questo V. I. S. a la quale continuo devotamente mi ricomando et sono parigiato a metere la vita cento volte al hora in servitii di quella et de lo stato suo.",
+   "preklad": "Nejjasnější kníže a nejvznešenější pane. — Dnes večer ke mně přišel na večeři jistý Piceno, dříve těžkooděnec urozeného pana Niccolò da Tolentino, a řekl mi, že jakýsi messer Taliano da Carpi poslal několik svých kancléřů k jasnému vévodovi burgundskému, aby řečeného messera Taliana nabídli do služeb Jeho Milosti a aby s ní jeho jménem sjednali články smlouvy a dohodli se. Podle řečí toho Picena se zdá, že messer Taliano má dobrou naději odejít do Burgundska s velkým počtem italských těžkooděnců a že jeho kancléři sem přinesou peníze. Z lásky, kterou chovám k Vaší Jasné Milosti a k jejímu státu, se mi z mnoha dobrých důvodů zdálo vhodné jí to oznámit. Vaší Jasné Milosti se stále oddaně doporučuji a jsem připraven každou hodinu stokrát nasadit život v jejích službách a ve službách jejího státu."
+  },
+  {
+   "text": "Datum Monticellorum Rippe Olii Cremonensis die 16 junij 1476.",
+   "preklad": "Dáno v Monticelli na břehu Ollia v cremonském [území] dne 16. června 1476."
+  },
+  {
+   "text": "Ejusdem lllustris dominationis Vestre",
+   "preklad": "Téže jasné Vaší Milosti"
+  },
+  {
+   "text": "Firmat. Servitor",
+   "preklad": "Podepsán: Služebník"
+  },
+  {
+   "text": "Petrus Antonius de Porri, armiger ac offìtialis illustris dominationis vestre.",
+   "preklad": "Petrus Antonius de Porri, panoš a úředník jasné Vaší Milosti."
+  },
+  {
+   "text": "A tergo: Ill. mo Principi et Excell. mo domino Galeaz Marie Sforcie Vicecomiti Duci Mediolani, etc.",
+   "preklad": "Na rubu: Nejjasnějšímu knížeti a nejvznešenějšímu pánu, panu Galeazzovi Mariovi Sforzovi Viscontimu, vévodovi milánskému atd."
+  },
+  {
+   "text": "In manibus propriis, cito.",
+   "preklad": "Do vlastních rukou, spěšně."
+  },
+  {
+   "text": "Con sigillo.",
+   "preklad": "S pečetí."
+  }
+ ],
+ "poznamky_editora": [
+  "1 Plusieurs personnages du nom de Tolentino, dans la marche d’Ancône, figurent comme capitaines ou condottieri dans les guerres Sfor- zesques. (Corio, 1. c. p. 650 et suivantes. Cagnola, p. 102.)",
+  "2 L’Oglio, rivière qui sort du lac (Visio et se jette dans le Pô, à Borgoforte.",
+  "3 Les Porri ou Porro , nobles citoyens de Milan, titrés de comtes, dont la maison fleurit aujourd’hui dans cette capitale de la Lombardie."
+ ],
+ "poznamky": [
+  "Opravy OCR: „U]me“ > „Ill.me“, „quai“ > „qual“, rozdělená slova spojena, čísla poznámek odstraněna.",
+  "„uno Piceno alias homodarme“: Piceno může být jméno i označení původu (z Picena, tj. z Marky); „alias“ chápáno jako „dříve“. Nejisté.",
+  "„canzeleri“ přeloženo jako kancléři, tj. sekretáři, písaři a zmocněnci kondotiéra.",
+  "Gingins: několik osob jménem Tolentino (z Marky anconské) vystupuje jako kapitáni a kondotiéři ve sforzovských válkách (Corio, Cagnola).",
+  "Gingins: Oglio vytéká z jezera Iseo a vlévá se do Pádu u Borgoforte.",
+  "Gingins: Porri neboli Porro, urození milánští měšťané s hraběcím titulem, jejichž rod v Miláně dosud kvete."
+ ],
+ "prelozil": "Claude (AI), 2026-11-19, z italského originálu v edici Gingins-La Sarra 1858; neověřeno proti rukopisu",
+ "shrnuti": "Panoš Porri hlásí z Cremonska, že italský kapitán Taliano da Carpi vyjednává přes své zmocněnce vstup do služeb Karla Smělého s velkým počtem italských těžkooděnců."
+}
