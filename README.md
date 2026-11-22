@@ -1,6 +1,6 @@
-# Encyklopedie burgundských válek
+# Burgundské války v dobových pramenech
 
-Osobnosti, bitvy, události, místa a písně burgundských válek (1468–1477) podle dobových kronik, s českým překladem. Projekt vzniká pro české reenactory burgundských válek.
+Dobové kroniky, deníky, sněmovní záznamy a depeše k burgundským válkám (1468–1477) v českém překladu vedle originálu, s rejstříkem osobností, událostí, míst, zbraní a písní. Projekt vzniká pro české reenactory burgundských válek.
 
 **Web:** `index.html`, na GitHub Pages zobrazený jako stránka projektu.
 
